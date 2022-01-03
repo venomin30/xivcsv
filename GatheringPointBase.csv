@@ -823,7 +823,7 @@ int32,GatheringType,byte,Row,Row,Row,Row,Row,Row,Row,Row,bit&01
 819,"Mining",85,"Rarefied High Durium Ore","","","","","","","",False
 820,"Quarrying",85,"Pewter Ore","Hannish Staple","","","","","","Ice Crystal",False
 821,"Mining",85,"Bismuth Ore","Lunar Staple","","","","","","Earth Crystal",False
-822,"Quarrying",85,"Phrygian Ore","Eblan Alumen","Garlean Staple","","","","","Lightning Crystal",False
+822,"Quarrying",85,"Phrygian Gold Ore","Eblan Alumen","Garlean Staple","","","","","Lightning Crystal",False
 823,"Mining",90,"Manganese Ore","Elpis Staple","","","","","","Fire Crystal",False
 824,"Quarrying",90,"Raw Blue Zircon","Annite","Ambrosial Water","","","","","Fire Crystal",False
 825,"Mining",90,"Chondrite","","","","","","","Wind Crystal",False
@@ -832,7 +832,7 @@ int32,GatheringType,byte,Row,Row,Row,Row,Row,Row,Row,Row,bit&01
 828,"Mining",90,"Ghostly Umbral Rock","","","","","","","Lightning Crystal",False
 829,"Mining",85,"Rarefied Raw Ametrine","Rarefied Sharlayan Rock Salt","","","","","","",False
 830,"Mining",85,"Rarefied Bismuth Ore","","","","","","","",False
-831,"Quarrying",90,"Rarefied Phrygian Ore","Rarefied Eblan Alumen","","","","","","",False
+831,"Quarrying",90,"Rarefied Phrygian Gold Ore","Rarefied Eblan Alumen","","","","","","",False
 832,"Quarrying",90,"Rarefied Blue Zircon","Rarefied Annite","","","","","","",False
 833,"Quarrying",90,"Rarefied Pewter Ore","","","","","","","",False
 834,"Mining",90,"Stonehard Water","Rime Dolomite","","","","","","",False
@@ -849,7 +849,7 @@ int32,GatheringType,byte,Row,Row,Row,Row,Row,Row,Row,Row,bit&01
 845,"Logging",90,"Rarefied Ironwood Log","","","","","","","",False
 846,"Harvesting",90,"Scarlet Moko Grass","Giant Popoto","Sideritis Leaves","Elpis Staple","","","","Lightning Crystal",False
 847,"Logging",90,"Integral Log","","","","","","","Water Crystal",False
-848,"Harvesting",90,"AR-Caean Cotton","Alien Onion","","","","","","Water Crystal",False
+848,"Harvesting",90,"AR-Caean Cotton Boll","Alien Onion","","","","","","Water Crystal",False
 849,"Harvesting",90,"Ewer Clay","","","","","","","Wind Crystal",False
 850,"Logging",90,"Palm Chippings","","","","","","","Fire Crystal",False
 851,"Logging",85,"Rarefied Palm Log","Rarefied Coconut","","","","","","",False
@@ -879,7 +879,7 @@ int32,GatheringType,byte,Row,Row,Row,Row,Row,Row,Row,Row,bit&01
 875,"Quarrying",85,"slab of sturdy silica","","","","","","","",False
 876,"Mining",85,"bedrock sample","rich bedrock sample","","","","","","",False
 877,"Mining",85,"slab of Thavnairian giantsgall","slab of shimmering Thavnairian giantsgall","","","","","","",False
-878,"Quarrying",85,"chunk of limestone","","","","","","","",False
+878,"Quarrying",85,"chunk of enriching limestone","","","","","","","",False
 879,"Quarrying",85,"slab of enchanting giantsgall","","","","","","","",False
 880,"Mining",85,"piece of Mark XLIX plating","piece of flawless Mark XLIX plating","","","","","","",False
 881,"Mining",85,"entrancing northern stone","","","","","","","",False
@@ -892,7 +892,7 @@ int32,GatheringType,byte,Row,Row,Row,Row,Row,Row,Row,Row,bit&01
 888,"Quarrying",90,"soil sample","rich soil sample","","","","","","",False
 889,"●銛",85,"Thavnairian Cucumber","Spiny King Crab","Thavnairian Eel","Gilled Topknot","Purusa Fish","Giantsgall Jaw","","",False
 890,"●銛",85,"Coffer Shell","Onihige","Onokoro Carp","Ruby-spotted Crab","Marrow-eater","Cloudy Catshark","","",False
-891,"●銛",85,"Red Gurnard","Dream Pickle","Ruby Haddock","Crown Fish","Sword of Isari ","Blue Shark","","",False
+891,"●銛",85,"Red Gurnard","Dream Pickle","Ruby Haddock","Crown Fish","Sword of Isari","Blue Shark","","",False
 892,"●銛",85,"Barb of Exile","Smooth Lumpfish","Hells' Cap","Keeled Fugu","Eastern Seerfish","False Fusilier","Othardian Wrasse","",False
 893,"●銛",90,"Akyaali Sardine","Spicy Pickle","Mayavahana","Hedonfish","Satrap Trapfish","Blue Marlin","","",False
 894,"●銛",90,"Satrap's Whisper","Meyhane Reveler","Shallows Cod","Rasa Fish","Daemir's Alloy","Dusky Shark","","",False

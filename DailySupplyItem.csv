@@ -22,11 +22,11 @@ int32,Item,byte,byte,Item,byte,byte,Item,byte,byte,Item,byte,byte,Item,byte,byte
 18,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
 19,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
 20,"Bronze Skillet",1,4,"Bronze Alembic",1,3,"Bronze Hoplon",1,5,"Amateur's Alembic",1,9,"Bronze Sollerets",1,7,"Bronze Mitt Gauntlets",1,9,"Bronze Haubergeon",1,6,"Bronze Rings",3,2
-21,"Bronze Gauntlets",1,14,"Initiate's Skillet",1,18,"Iron Cuirass",1,20,"Iron Hoplon",1,17,"Iron Plate Belt",1,19,"Bronze Buckler",1,15,"Bronze Celata",1,12,"Bronze Cuirass",1,12
-22,"Iron-plated Jackboots",1,22,"Steel Rings",3,28,"Steel Joint Plate",1,27,"Steel Alembic",1,29,"Steel Hinge",3,26,"Iron Scale Fingers",1,23,"Reinforced Iron Plate Belt",1,24,"Bomb Frypan",1,27
-23,"Steel Scale Greaves",1,32,"Mythril Rings",3,37,"Steel Mitt Gauntlets",1,35,"Horn Scale Greaves",1,37,"Horn Scale Mail",1,40,"Steel Plate Belt",1,31,"Mythril Celata",1,38,"Heavy Steel Armor",1,34
+21,"Bronze Gauntlets",1,14,"Initiate's Skillet",1,18,"Iron Cuirass",1,20,"Iron Hoplon",1,17,"Initiate's Skillet",1,18,"Bronze Buckler",1,15,"Bronze Celata",1,12,"Bronze Cuirass",1,12
+22,"Iron-plated Jackboots",1,22,"Steel Rings",3,28,"Steel Joint Plate",1,27,"Steel Alembic",1,29,"Steel Hinge",3,26,"Iron Scale Fingers",1,23,"Iron Scale Fingers",1,23,"Bomb Frypan",1,27
+23,"Steel Scale Greaves",1,32,"Mythril Rings",3,37,"Steel Mitt Gauntlets",1,35,"Horn Scale Greaves",1,37,"Horn Scale Mail",1,40,"Steel Scale Greaves",1,32,"Mythril Celata",1,38,"Heavy Steel Armor",1,34
 24,"Cobalt Elmo",1,45,"Cobalt Skillet",1,43,"Cobalt Vambraces",1,44,"Mythril Haubergeon",1,42,"Tortoiseshell Scale Greaves",1,45,"Cobalt Joint Plate",3,44,"Cobalt Rings",3,43,"Electrum Alembic",1,42
-25,"Cobalt Barbut",1,46,"Cobalt Plate Belt",1,50,"Cobalt Sabatons",1,50,"Mosshorn Scale Mail",1,47,"Kite Shield",1,50,"Thermal Alembic",1,50,"Cobalt Cuirass",1,50,"Cobalt Mitt Gauntlets",1,48
+25,"Cobalt Barbut",1,46,"Cobalt Mitt Gauntlets",1,48,"Cobalt Sabatons",1,50,"Mosshorn Scale Mail",1,47,"Kite Shield",1,50,"Thermal Alembic",1,50,"Cobalt Cuirass",1,50,"Cobalt Mitt Gauntlets",1,48
 26,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
 27,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
 28,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
@@ -41,21 +41,21 @@ int32,Item,byte,byte,Item,byte,byte,Item,byte,byte,Item,byte,byte,Item,byte,byte
 37,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
 38,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
 39,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
-40,"Leather Sandals",1,8,"Amateur's Duckbills",1,9,"Hard Leather Merchant's Pouch",1,10,"Leather Ringbands",1,6,"Leather Culottes",1,5,"Leather Belt",1,4,"Leather Crakows",1,5,"Leather Shepherd's Belt",1,3
-41,"Goatskin Mitts",1,18,"Hard Leather Eyepatch",1,14,"Hard Leather Lightpouch",1,14,"Hard Leather Himantes",1,14,"Goatskin Ring",1,20,"Amateur's Headgear",1,11,"Hard Leather Shepherd's Belt",1,16,"Hard Leather Sandals",1,12
-42,"Toadskin Survival Belt",1,27,"Toadskin Brais",1,29,"Goatskin Duckbills",1,24,"Goatskin Lightmitts",1,23,"Goatskin Crakows of Gathering",1,27,"Goatskin Wristbands of Gathering",1,27,"Initiate's Thighboots",1,21,"Goatskin Eyepatch",1,23
-43,"Boarskin Duckbills",1,40,"Toadskin Workboots",1,31,"Fingerless Peisteskin Gloves of Gathering",1,39,"Fingerless Boarskin Gloves of Gathering",1,34,"Boarskin Tool Belt",1,40,"Boarskin Wristbands",1,36,"Toadskin Ring",1,32,"Peisteskin Crakows of Gathering",1,38
-44,"Raptorskin Merchant's Purse",1,45,"Raptorskin Wristbands of Gathering",1,45,"Raptorskin Subligar",1,44,"Raptorskin Armguards",1,45,"Raptorskin Satchel Belt",1,43,"Raptorskin Harness",1,44,"Peisteskin Belt",1,44,"Boarskin Belt",1,41
-45,"Hunting Moccasins",1,47,"Raptorskin Jerkin",1,47,"Raptorskin Ring",1,48,"Oxblood Targe",1,48,"Raptorskin Jacket",1,49,"Raptorskin Voyager's Belt",1,49,"Raptorskin Leg Guards",1,49,"Raptorskin Brais",1,46
+40,"Leather Sandals",1,8,"Amateur's Duckbills",1,9,"Amateur's Duckbills",1,9,"Leather Ringbands",1,6,"Leather Culottes",1,5,"Leather Culottes",1,5,"Leather Crakows",1,5,"Leather Crakows",1,5
+41,"Goatskin Mitts",1,18,"Hard Leather Eyepatch",1,14,"Hard Leather Sandals",1,12,"Hard Leather Himantes",1,14,"Goatskin Ring",1,20,"Amateur's Headgear",1,11,"Hard Leather Eyepatch",1,14,"Hard Leather Sandals",1,12
+42,"Goatskin Duckbills",1,24,"Toadskin Brais",1,29,"Goatskin Duckbills",1,24,"Goatskin Lightmitts",1,23,"Goatskin Crakows of Gathering",1,27,"Goatskin Wristbands of Gathering",1,27,"Initiate's Thighboots",1,21,"Goatskin Eyepatch",1,23
+43,"Boarskin Duckbills",1,40,"Toadskin Workboots",1,31,"Fingerless Peisteskin Gloves of Gathering",1,39,"Fingerless Boarskin Gloves of Gathering",1,34,"Fingerless Peisteskin Gloves of Gathering",1,39,"Boarskin Wristbands",1,36,"Toadskin Ring",1,32,"Peisteskin Crakows of Gathering",1,38
+44,"Raptorskin Wristbands of Gathering",1,45,"Raptorskin Wristbands of Gathering",1,45,"Raptorskin Subligar",1,44,"Raptorskin Armguards",1,45,"Raptorskin Armguards",1,45,"Raptorskin Harness",1,44,"Raptorskin Subligar",1,44,"Raptorskin Harness",1,44
+45,"Hunting Moccasins",1,47,"Raptorskin Jerkin",1,47,"Raptorskin Ring",1,48,"Oxblood Targe",1,48,"Raptorskin Jacket",1,49,"Oxblood Targe",1,48,"Raptorskin Leg Guards",1,49,"Raptorskin Brais",1,46
 46,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
 47,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
 48,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
 49,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
 50,"Hempen Trousers",1,10,"Hempen Dalmatica",1,4,"Hempen Hat",1,6,"Hempen Coif of Gathering",1,4,"Hempen Tights",1,5,"Amateur's Doublet Vest",1,9,"Hempen Pantalettes",1,2,"Hempen Sarouel",1,5
-51,"Cotton Breeches",1,19,"Cotton Canvas",1,18,"Undyed Cotton Cloth",3,13,"Cotton Tabard",1,16,"Cotton Tights",1,14,"Cotton Chausses",1,14,"Hempen Doublet Vest of Crafting",1,12,"Rope Belt",1,16
+51,"Cotton Breeches",1,19,"Cotton Canvas",1,18,"Undyed Cotton Cloth",3,13,"Cotton Tabard",1,16,"Cotton Tights",1,14,"Cotton Chausses",1,14,"Hempen Doublet Vest of Crafting",1,12,"Cotton Tights",1,14
 52,"Velveteen Wedge Cap of Crafting",1,27,"Cotton Bracers",1,23,"Cotton Trapper's Tunic",1,23,"Striped Velveteen Slops",1,25,"Cotton Robe",1,24,"Velveteen Trousers",1,28,"Initiate's Gown",1,24,"Padded Velveteen Trousers",1,30
-53,"Linen Coatee of Gathering",1,38,"Linen Sarouel of Gathering",1,34,"Woolen Sarouel of Gathering",1,40,"Angler's Hat",1,36,"Linen Canvas",1,36,"Woolen Sash",1,39,"Linen Half Apron",1,37,"Undyed Woolen Cloth",3,39
-54,"Undyed Felt",3,43,"Felt Sash",1,45,"Woolen Robe",1,41,"Woolen Doublet",1,44,"Felt Lining",1,42,"Felt Coif of Gathering",1,44,"Woolen Dress Shoes",1,42,"Woolen Work Gloves",1,43
+53,"Linen Coatee of Gathering",1,38,"Linen Sarouel of Gathering",1,34,"Woolen Sarouel of Gathering",1,40,"Angler's Hat",1,36,"Linen Canvas",1,36,"Linen Coatee of Gathering",1,38,"Linen Canvas",1,36,"Undyed Woolen Cloth",3,39
+54,"Undyed Felt",3,43,"Woolen Doublet",1,44,"Woolen Robe",1,41,"Woolen Doublet",1,44,"Felt Lining",1,42,"Felt Coif of Gathering",1,44,"Woolen Dress Shoes",1,42,"Woolen Work Gloves",1,43
 55,"Felt Gaskins",1,47,"Patrician's Gloves",1,50,"Felt Bliaud",1,48,"Patrician's Gaiters",1,50,"Felt Bracers",1,46,"Felt Cavalier's Hat",1,47,"Felt Dress Shoes",1,46,"Felt Beret",1,46
 56,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
 57,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0

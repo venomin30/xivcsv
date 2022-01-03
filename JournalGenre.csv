@@ -25,7 +25,7 @@ int32,Image,JournalCategory,bit&01,str
 21,"ui/icon/061000/061411.tex","Chronicles of a New Era - Eden",True,"Eden"
 22,"ui/icon/061000/061411.tex","YoRHa: Dark Apocalypse",True,"YoRHa: Dark Apocalypse"
 23,"ui/icon/061000/061411.tex","Chronicles of a New Era - The Sorrow of Werlyt",True,"Garlemald's Machinations"
-24,,"Sephiroth Missions",False,""
+24,"ui/icon/061000/061411.tex","Chronicles of a New Era - Pandæmonium",True,"Pandæmonium"
 25,"ui/icon/061000/061411.tex","Dwarf Quests",True,"Main Quests"
 26,"ui/icon/061000/061411.tex","Dwarf Quests",True,"Daily Quests"
 27,"ui/icon/061000/061411.tex","Qitari Quests",True,"Main Quests"

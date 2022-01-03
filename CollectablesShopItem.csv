@@ -1366,7 +1366,7 @@ int32,Item,CollectablesShopItemGroup,uint16,uint16,byte,byte,CollectablesShopRef
 31.23,"Rarefied Raw Ametrine","Lv. 81-90",80,81,0,3,"CollectablesShopRefine#123","4"
 31.24,"Rarefied Bismuth Ore","Lv. 81-90",83,83,0,3,"CollectablesShopRefine#123","4"
 31.25,"Rarefied Sharlayan Rock Salt","Lv. 81-90",85,85,0,3,"CollectablesShopRefine#123","4"
-31.26,"Rarefied Phrygian Ore","Lv. 81-90",87,87,0,3,"CollectablesShopRefine#123","4"
+31.26,"Rarefied Phrygian Gold Ore","Lv. 81-90",87,87,0,3,"CollectablesShopRefine#123","4"
 31.27,"Rarefied Blue Zircon","Lv. 81-90",89,89,0,3,"CollectablesShopRefine#123","4"
 31.28,"Rarefied Chloroschist","Lv. 81-90",90,90,0,3,"CollectablesShopRefine#124","7"
 31.29,"Rarefied Eblan Alumen","Lv. 81-90",90,90,0,3,"CollectablesShopRefine#123","7"
