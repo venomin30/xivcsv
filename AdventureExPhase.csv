@@ -1,6 +1,0 @@
-﻿key,0,1,2,3,4
-#,Quest,Adventure{Begin},Adventure{End},Expansion,
-int32,Quest,Adventure,Adventure,ExVersion,uint32
-0,"Sights of Crimson and Dawn","Castellum Velodyna","Moai Statue","Stormblood",346
-1,"Sights of the First","The Rotunda","Amaurot","Shadowbringers",725
-2,"Sights of the End","The Leveilleur Estate","Ostrakon Hena","Endwalker",1069
