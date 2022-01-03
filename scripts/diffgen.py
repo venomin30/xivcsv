@@ -54,11 +54,16 @@ for diff_item in target_diff.iter_change_type('M'):
 	
 	if (not os.path.exists(out_dir)):
 		os.makedirs(out_dir)
-	
-	diff = difflib.ndiff(diff_item.a_blob.data_stream.read().decode('utf-8-sig').splitlines(keepends=True),
-			diff_item.b_blob.data_stream.read().decode('utf-8-sig').splitlines(keepends=True))
 
 	with open(out_path, 'w', encoding='utf-8-sig') as f:
+		data_a = diff_item.a_blob.data_stream.read().decode('utf-8-sig').splitlines(keepends=True)
+		data_b = diff_item.b_blob.data_stream.read().decode('utf-8-sig').splitlines(keepends=True)
+		
+		for line in data_b[0:3]:
+			f.write(line)
+	
+		diff = difflib.ndiff(data_a[3:], data_b[3:])
+
 		for x in diff:
 			if not x.startswith('+ '):
 				continue
