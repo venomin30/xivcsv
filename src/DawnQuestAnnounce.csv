@@ -1,21 +1,21 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9
-#,Quest,Content,ENPC[0],ENPC[1],ENPC[2],ENPC[3],ENPC[4],ENPC[5],,
-int32,Quest,DawnContent,ENpcResident,ENpcResident,ENpcResident,ENpcResident,ENpcResident,ENpcResident,uint32,uint32
-0,"The Lightwardens","Malikah's Well","Crystal Exarch","Alphinaud","Alisaie","Lyna",,,0,0
-1,"The Key to the Castle","Dohn Mheg","Urianger","Thancred","Minfilia","Alphinaud","Alisaie",,0,0
-2,"The Burden of Knowledge","Dohn Mheg","Thancred","Y'shtola","Minfilia","Urianger",,,0,0
-3,"A Fresh Start","Dohn Mheg","Y'shtola","Thancred","Ryne","Urianger","Alphinaud","Alisaie",0,0
-4,"Extinguishing the Last Light","the Qitana Ravel","Alphinaud","Alisaie","Urianger","Thancred","Ryne","Y'shtola",0,0
-5,"Shadowbringers","The Grand Cosmos","Alphinaud","Alisaie","Thancred","Ryne","Y'shtola","Urianger",0,0
-6,"A Grand Adventure","Dohn Mheg","Crystal Exarch","Alphinaud","Alisaie","Y'shtola",,,0,0
-7,"Beneath the Surface","Dohn Mheg","Urianger","Alphinaud","Alisaie","Thancred","Y'shtola","Ryne",0,0
-8,"The Converging Light","the Qitana Ravel","Alphinaud","Alisaie","Thancred","Y'shtola","Urianger","Ryne",0,0
-9,"Like Master, Like Pupil","Malikah's Well","Alphinaud","Alisaie","Y'shtola","G'raha Tia",,,0,0
-10,"The Flames of War","the Qitana Ravel","Thancred","Alphinaud","Alisaie","Urianger","Y'shtola","G'raha Tia",0,0
-11,"In the Dark of the Tower","the Qitana Ravel","Alphinaud","Alisaie","Thancred","Estinien",,,0,0
-12,"Gateway of the Gods","Malikah's Well","Alisaie","Alphinaud","Y'shtola","Thancred","Urianger","G'raha Tia",1039963,0
-13,"Skies Aflame","Malikah's Well","Alphinaud","Alisaie","Thancred","Y'shtola","G'raha Tia","Estinien",0,0
-14,"Caging the Messenger","Dohn Mheg","Venat","Hythlodaeus","Emet-Selch",,,,0,0
-15,"Her Children, One and All","Dohn Mheg","Alphinaud","Alisaie","Thancred","Urianger","Y'shtola","G'raha Tia",1040494,0
-16,"Her Children, One and All","Malikah's Well","Alphinaud","Alisaie","Thancred","Urianger","Y'shtola","G'raha Tia",1040502,0
-17,"Endwalker","Holminster Switch","Alphinaud","Alisaie","Thancred","Urianger","Y'shtola","G'raha Tia",1041178,0
+#,Quest,QuestStep,ENPC[0],ENPC[1],ENPC[2],ENPC[3],ENPC[4],ENPC[5],ENPC[6],
+int32,Quest,byte,ENpcResident,ENpcResident,ENpcResident,ENpcResident,ENpcResident,ENpcResident,ENpcResident,uint32
+0,"The Lightwardens",4,"Crystal Exarch","Alphinaud","Alisaie","Lyna",,,,0
+1,"The Key to the Castle",2,"Urianger","Thancred","Minfilia","Alphinaud","Alisaie",,,0
+2,"The Burden of Knowledge",2,"Thancred","Y'shtola","Minfilia","Urianger",,,,0
+3,"A Fresh Start",2,"Y'shtola","Thancred","Ryne","Urianger","Alphinaud","Alisaie",,0
+4,"Extinguishing the Last Light",3,"Alphinaud","Alisaie","Urianger","Thancred","Ryne","Y'shtola",,0
+5,"Shadowbringers",7,"Alphinaud","Alisaie","Thancred","Ryne","Y'shtola","Urianger",,0
+6,"A Grand Adventure",2,"Crystal Exarch","Alphinaud","Alisaie","Y'shtola",,,,0
+7,"Beneath the Surface",2,"Urianger","Alphinaud","Alisaie","Thancred","Y'shtola","Ryne",,0
+8,"The Converging Light",3,"Alphinaud","Alisaie","Thancred","Y'shtola","Urianger","Ryne",,0
+9,"Like Master, Like Pupil",4,"Alphinaud","Alisaie","Y'shtola","G'raha Tia",,,,0
+10,"The Flames of War",3,"Thancred","Alphinaud","Alisaie","Urianger","Y'shtola","G'raha Tia",,0
+11,"In the Dark of the Tower",3,"Alphinaud","Alisaie","Thancred","Estinien",,,,0
+12,"Gateway of the Gods",4,"Alisaie","Alphinaud","Y'shtola","Thancred","Urianger","G'raha Tia","Estinien",0
+13,"Skies Aflame",4,"Alphinaud","Alisaie","Thancred","Y'shtola","G'raha Tia","Estinien",,0
+14,"Caging the Messenger",2,"Venat","Hythlodaeus","Emet-Selch",,,,,0
+15,"Her Children, One and All",2,"Alphinaud","Alisaie","Thancred","Urianger","Y'shtola","G'raha Tia","Estinien",0
+16,"Her Children, One and All",4,"Alphinaud","Alisaie","Thancred","Urianger","Y'shtola","G'raha Tia","Estinien",0
+17,"Endwalker",1,"Alphinaud","Alisaie","Thancred","Urianger","Y'shtola","G'raha Tia","Estinien",0

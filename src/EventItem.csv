@@ -2847,6 +2847,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003049,"Unukalhai's spirit vessel",0,"Unukalhai's spirit vessels",0,1,1,0,1,False,"Unukalhai's Spirit Vessel","ui/icon/026000/026610.tex","",1,1,"The Hero's Journey",0,"normal/item_start",0
 2003050,"smoldering coal",0,"smoldering coals",0,0,1,0,0,False,"Smoldering Coal","ui/icon/025000/025911.tex","Key Item",3,1,"Swords to Plowshares",1,"normal/item_start",0
 2003051,"spindle of soft yarn",0,"spindles of soft yarn",0,0,1,0,0,False,"Soft Yarn","ui/icon/021000/021656.tex","",1,1,"Warm Hands, Warm Hearts",0,"normal/item_start",0
+2003052,"sack of advent cakes",0,"sacks of advent cakes",0,0,1,0,0,False,"Advent Cakes","ui/icon/022000/022640.tex","",1,1,"Let Them Eat Cake",0,"normal/item_start",0
 2003053,"indecorous decoration",0,"indecorous decorations",0,1,1,0,0,False,"Indecorous Decoration","ui/icon/025000/025919.tex","",3,1,"A Festive Fiasco",0,"normal/item_start",0
 2003054,"fragment of eternal ice",0,"fragments of eternal ice",0,0,1,0,0,False,"Eternal Ice","ui/icon/020000/020015.tex","Key Item",3,1,"One Happy Family",3,"normal/item_start",0
 2003055,"festive wreath",0,"festive wreaths",0,0,1,0,0,False,"Festive Wreath","ui/icon/026000/026108.tex","",1,1,"Wish Upon a Starlight",0,"normal/item_start",0
@@ -2886,7 +2887,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003096,"note concerning Vaindreau's state when found",0,"notes concerning Vaindreau's state when found",0,0,1,0,0,False,"Note Concerning Vaindreau's State When Found","ui/icon/026000/026572.tex","",1,1,"Wills Unending, Faith Unbending",0,"normal/item_start",0
 2003097,"slice of Archon loaf",0,"slices of Archon loaf",0,0,1,0,0,False,"Archon Loaf","ui/icon/024000/024037.tex","",1,1,"Cultured Pursuits",0,"normal/item_start",0
 2003098,"Tankin's letter",0,"Tankin's letters",0,0,1,0,1,False,"Tankin's Letter","ui/icon/026000/026171.tex","",1,1,"The Culture of Love",0,"normal/item_start",0
-2003099,"vial of Creeping Death remedy",0,"vials of Creeping Death remedy",0,0,1,0,0,False,"Vial of Creeping Death Remedy","ui/icon/027000/027607.tex","",1,1,"Shrouded in Peril",0,"normal/item_start",0
+2003099,"vial of Creeping Death remedy",0,"vials of Creeping Death remedy",0,0,1,0,0,False,"Creeping Death Remedy","ui/icon/027000/027607.tex","",1,1,"Shrouded in Peril",0,"normal/item_start",0
 2003100,"branch of the Guardian Tree",0,"branches of the Guardian Tree",0,0,1,0,0,False,"Branch of the Guardian Tree","ui/icon/022000/022416.tex","",1,1,"A Path Unveiled",0,"normal/item_start",0
 2003101,"copy of A History of Observatories",0,"copies of A History of Observatories",0,0,1,0,0,False,"A History of Observatories","ui/icon/026000/026166.tex","",1,1,"In Search of the Azure Star",0,"normal/item_start",0
 2003102,"copy of The A to Z Encyclopedia of Astronomical Telescopes",0,"copies of The A to Z Encyclopedia of Astronomical Telescopes",0,0,1,0,0,False,"The A to Z Encyclopedia of Astronomical Telescopes","ui/icon/026000/026163.tex","",1,1,"In Search of the Azure Star",0,"normal/item_start",0
@@ -2948,7 +2949,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003158,"rich bedrock sample",0,"rich bedrock samples",0,0,1,0,0,False,"Rich Bedrock Sample","ui/icon/021000/021252.tex","Key Item",99,1,,0,"normal/item_start",0
 2003159,"slab of Thavnairian giantsgall",0,"slabs of Thavnairian giantsgall",0,0,1,0,0,False,"Thavnairian Giantsgall","ui/icon/021000/021226.tex","Key Item",99,1,,0,"normal/item_start",0
 2003160,"slab of shimmering Thavnairian giantsgall",0,"slabs of shimmering Thavnairian giantsgall",0,0,1,0,0,False,"Shimmering Thavnairian Giantsgall","ui/icon/021000/021225.tex","Key Item",99,1,,0,"normal/item_start",0
-2003161,"chunk of limestone",0,"chunks of limestone",0,0,1,0,0,False,"Limestone","ui/icon/021000/021232.tex","Key Item",99,1,,0,"normal/item_start",0
+2003161,"chunk of enriching limestone",0,"chunks of enriching limestone",0,0,1,0,0,False,"Enriching Limestone","ui/icon/021000/021232.tex","Key Item",99,1,,0,"normal/item_start",0
 2003162,"slab of enchanting giantsgall",0,"slabs of enchanting giantsgall",0,0,1,0,0,False,"Enchanting Giantsgall","ui/icon/021000/021225.tex","Key Item",99,1,,0,"normal/item_start",0
 2003163,"piece of Mark XLIX plating",0,"pieces of Mark XLIX plating",0,0,1,0,0,False,"Mark XLIX Plating","ui/icon/020000/020969.tex","Key Item",99,1,,0,"normal/item_start",0
 2003164,"piece of flawless Mark XLIX plating",0,"pieces of flawless Mark XLIX plating",0,0,1,0,0,False,"Flawless Mark XLIX Plating","ui/icon/020000/020966.tex","Key Item",99,1,,0,"normal/item_start",0
@@ -2965,7 +2966,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003175,"soil sample",0,"soil samples",0,0,1,0,0,False,"Soil Sample","ui/icon/021000/021453.tex","Key Item",99,1,,0,"normal/item_start",0
 2003176,"rich soil sample",0,"rich soil samples",0,0,1,0,0,False,"Rich Soil Sample","ui/icon/021000/021455.tex","Key Item",99,1,,0,"normal/item_start",0
 2003177,"kacchapa shell",0,"kacchapa shells",0,0,1,0,0,False,"Kacchapa Shell","ui/icon/025000/025919.tex","",2,1," Shelling Out",0,"normal/item_start",0
-2003178,"chunk of sotormurg meat",0,"chunks of sotormurg meat",0,0,1,0,0,False,"Chunk of Sotormurg Meat","ui/icon/025000/025155.tex","",1,1," Tikka Hike",0,"normal/item_start",0
+2003178,"chunk of sotormurg meat",0,"chunks of sotormurg meat",0,0,1,0,0,False,"Sotormurg Meat","ui/icon/025000/025155.tex","",1,1," Tikka Hike",0,"normal/item_start",0
 2003180,"bottle of special amra lassi",0,"bottles of special amra lassi",0,0,1,0,0,False,"Special Amra Lassi","ui/icon/024000/024454.tex","",2,1,"For Thavnair Bound",0,"normal/item_start",0
 2003181,"drunken deepa",0,"drunken deepa",0,0,1,0,0,False,"Drunken Deepa","ui/icon/059000/059700.tex","",1,1,"The Great Work",0,"normal/item_start",0
 2003182,"sack of giantsgall",0,"sacks of giantsgall",0,0,1,0,0,False,"Sack of Giantsgall","ui/icon/025000/025919.tex","",1,1,"Tipping the Scale",0,"normal/item_start",0
@@ -3020,9 +3021,9 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003236,"obscenely large carrot",0,"obscenely large carrots",0,1,0,0,0,False,"Obscenely Large Carrot","ui/icon/026000/026110.tex","",1,1,"A Taste of the Moon",0,"normal/item_start",0
 2003237,"cup of hot chai",0,"cups of hot chai",0,0,1,0,0,False,"Hot Chai","ui/icon/024000/024408.tex","",3,1,"Simple Pleasures",0,"normal/item_start",0
 2003240,"ream of signed documentation",0,"reams of signed documentation",0,0,1,0,0,False,"Signed Documentation","ui/icon/026000/026151.tex","",1,1,"Hither and Yarns",0,"normal/item_start",0
-2003241,"small box",0,"small boxes",0,0,1,0,0,False,"Small Box","ui/icon/026000/026108.tex","",1,1," Treasure Hunters  ",0,"normal/item_start",0
-2003242,"small key",0,"small keys",0,0,1,0,0,False,"Small Key","ui/icon/025000/025904.tex","",1,1," Treasure Hunters  ",0,"normal/item_start",0
-2003243,"mysterious parchment",0,"mysterious parchments",0,0,1,0,0,False,"Mysterious Parchment","ui/icon/026000/026151.tex","",1,1," Treasure Hunters  ",0,"normal/item_start",1
+2003241,"small box",0,"small boxes",0,0,1,0,0,False,"Small Box","ui/icon/026000/026108.tex","",1,1," Treasure Hunters",0,"normal/item_start",0
+2003242,"small key",0,"small keys",0,0,1,0,0,False,"Small Key","ui/icon/025000/025904.tex","",1,1," Treasure Hunters",0,"normal/item_start",0
+2003243,"mysterious parchment",0,"mysterious parchments",0,0,1,0,0,False,"Mysterious Parchment","ui/icon/026000/026151.tex","",1,1," Treasure Hunters",0,"normal/item_start",1
 2003244,"potent tincture",0,"potent tinctures",0,0,1,0,0,False,"Potent Tincture","ui/icon/020000/020601.tex","Key Item",1,1," A Place of Greater Safety",1,"normal/item_start",0
 2003245,"saigaskin treasure map",0,"saigaskin treasure maps",0,0,1,0,0,False,"Saigaskin Treasure Map","ui/icon/026000/026151.tex","Key Item",1,2,,0,"normal/item_start",0
 2003246,"kumbhiraskin treasure map",0,"kumbhiraskin treasure maps",0,0,1,0,0,False,"Kumbhiraskin Treasure Map","ui/icon/026000/026151.tex","Key Item",1,2,,0,"normal/item_start",0
