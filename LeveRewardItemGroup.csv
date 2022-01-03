@@ -996,14 +996,14 @@ int32,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool
 992,"Ice Crystal",112,False,"Earth Crystal",112,False,"Chondrite Ingot",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 993,"Wind Crystal",36,False,"Fire Crystal",36,False,"Raw Ametrine",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 994,"Wind Crystal",43,False,"Fire Crystal",43,False,"Raw Ametrine",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
-995,"Wind Crystal",38,False,"Fire Crystal",38,False,"Phrygian Gold Ore",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
-996,"Wind Crystal",45,False,"Fire Crystal",45,False,"Phrygian Gold Ore",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+995,"Wind Crystal",38,False,"Fire Crystal",38,False,"Phrygian Ore",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+996,"Wind Crystal",45,False,"Fire Crystal",45,False,"Phrygian Ore",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 997,"Wind Crystal",86,False,"Fire Crystal",86,False,"Ametrine",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 998,"Wind Crystal",104,False,"Fire Crystal",104,False,"Ametrine",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 999,"Wind Crystal",87,False,"Fire Crystal",87,False,"Pewter Ingot",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1000,"Wind Crystal",106,False,"Fire Crystal",106,False,"Pewter Ingot",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
-1001,"Wind Crystal",88,False,"Fire Crystal",88,False,"Phrygian Gold Ingot",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
-1002,"Wind Crystal",108,False,"Fire Crystal",108,False,"Phrygian Gold Ingot",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1001,"Wind Crystal",88,False,"Fire Crystal",88,False,"Phrygian Ingot",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1002,"Wind Crystal",108,False,"Fire Crystal",108,False,"Phrygian Ingot",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1003,"Wind Crystal",89,False,"Fire Crystal",89,False,"Blue Zircon",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1004,"Wind Crystal",110,False,"Fire Crystal",110,False,"Blue Zircon",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1005,"Wind Crystal",90,False,"Fire Crystal",90,False,"Star Quartz",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False

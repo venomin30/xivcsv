@@ -652,7 +652,7 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint32,bit&02
 648,"High Durium Sand","GatheringItemLevelConvertTable#495",True,,0,False
 649,"Chloroschist","GatheringItemLevelConvertTable#495",True,,0,False
 650,"Pewter Ore","GatheringItemLevelConvertTable#500",True,,0,False
-651,"Phrygian Gold Ore","GatheringItemLevelConvertTable#510",True,,0,False
+651,"Phrygian Ore","GatheringItemLevelConvertTable#510",True,,0,False
 652,"Eblan Alumen","GatheringItemLevelConvertTable#520",True,,0,False
 653,"Raw Blue Zircon","GatheringItemLevelConvertTable#534",True,,0,False
 654,"Annite","GatheringItemLevelConvertTable#540",True,,0,False
@@ -687,7 +687,7 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint32,bit&02
 683,"Scarlet Moko Grass","GatheringItemLevelConvertTable#534",True,,0,False
 684,"Giant Popoto","GatheringItemLevelConvertTable#540",True,,0,False
 685,"Sideritis Leaves","GatheringItemLevelConvertTable#547",True,,0,False
-686,"AR-Caean Cotton Boll","GatheringItemLevelConvertTable#554",True,,0,False
+686,"AR-Caean Cotton","GatheringItemLevelConvertTable#554",True,,0,False
 687,"Alien Onion","GatheringItemLevelConvertTable#560",True,,0,False
 688,"Ewer Clay","GatheringItemLevelConvertTable#534",True,,0,False
 689,"Golden Cocoon","GatheringItemLevelConvertTable#570",True,,0,False
@@ -1450,7 +1450,7 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint32,bit&02
 10741,"rich bedrock sample","GatheringItemLevelConvertTable#510",False,,0,False
 10742,"slab of Thavnairian giantsgall","GatheringItemLevelConvertTable#500",False,,0,False
 10743,"slab of shimmering Thavnairian giantsgall","GatheringItemLevelConvertTable#527",False,,0,False
-10744,"chunk of enriching limestone","GatheringItemLevelConvertTable#500",False,,0,False
+10744,"chunk of limestone","GatheringItemLevelConvertTable#500",False,,0,False
 10745,"slab of enchanting giantsgall","GatheringItemLevelConvertTable#500",False,,0,False
 10746,"piece of Mark XLIX plating","GatheringItemLevelConvertTable#520",False,,0,False
 10747,"piece of flawless Mark XLIX plating","GatheringItemLevelConvertTable#540",False,,0,False
@@ -1470,7 +1470,7 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint32,bit&02
 10761,"Rarefied Raw Ametrine","GatheringItemLevelConvertTable#495",True,,0,False
 10762,"Rarefied Bismuth Ore","GatheringItemLevelConvertTable#510",True,,0,False
 10763,"Rarefied Sharlayan Rock Salt","GatheringItemLevelConvertTable#527",True,,0,False
-10764,"Rarefied Phrygian Gold Ore","GatheringItemLevelConvertTable#540",True,,0,False
+10764,"Rarefied Phrygian Ore","GatheringItemLevelConvertTable#540",True,,0,False
 10765,"Rarefied Blue Zircon","GatheringItemLevelConvertTable#554",True,,0,False
 10766,"Rarefied Eblan Alumen","GatheringItemLevelConvertTable#560",True,,0,False
 10767,"Rarefied Annite","GatheringItemLevelConvertTable#570",True,,0,False

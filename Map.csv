@@ -710,7 +710,7 @@ int32,MapCondition,byte,byte,sbyte,byte,uint16,str,uint16,int16,int16,PlaceName,
 706,"",18,5,1,1,466,"u5d2/01",200,-22,-42,"The Sea of Stars","Smileton","The Outsides",126,30,"u5d2",True,False,False
 707,"",18,5,2,1,467,"u5d2/02",200,-9,0,"The Sea of Stars","Smileton","The Insides",126,8160,"u5d2",True,False,False
 708,"",18,5,3,1,468,"u5d2/03",200,-45,-88,"The Sea of Stars","Smileton","The On-the-waysides",126,57344,"u5d2",True,False,False
-709,"",0,0,0,1,0,"n5r1/00",400,-100,-100,"The World Unsundered","The Gates of Pandæmonium","",-1,0,"n5r1",True,False,False
+709,"",0,0,0,1,0,"n5r1/00",400,-100,-100,"The World Unsundered","The Gates of Pandæmonium","",-1,0,"",True,False,False
 710,"",19,3,1,1,469,"n5d1/01",200,40,-150,"The World Unsundered","Ktisis Hyperboreia","Terrestrial Artifice",127,30,"n5d1",True,False,False
 711,"",19,3,2,1,470,"n5d1/02",200,40,-70,"The World Unsundered","Ktisis Hyperboreia","Experimental Artifice",127,2016,"n5d1",True,False,False
 712,"",19,3,3,1,471,"n5d1/03",200,0,-43,"The World Unsundered","Ktisis Hyperboreia","Lower Aerial Artifice",127,6144,"n5d1",True,False,False
@@ -723,7 +723,7 @@ int32,MapCondition,byte,byte,sbyte,byte,uint16,str,uint16,int16,int16,PlaceName,
 719,"",16,4,1,1,503,"k5d1/01",200,8,-501,"The Northern Empty","The Aitiascope","Aetherial Lens",129,30,"k5d1",True,False,False
 720,"",16,4,2,1,504,"k5d1/02",200,12,-285,"The Northern Empty","The Aitiascope","Abyssal Plane",129,480,"k5d1",True,False,False
 721,"",16,4,3,1,505,"k5d1/03",200,18,317,"The Northern Empty","The Aitiascope","Aetherostatic Peak",129,32256,"k5d1",True,False,False
-722,"",0,0,0,1,0,"n5r3/00",400,-100,-100,"The World Unsundered","The Fervid Limbo","",-1,0,"n5r3",True,False,False
+722,"",0,0,0,1,0,"n5r3/00",400,-100,-100,"The World Unsundered","The Fervid Limbo","",-1,0,"",True,False,False
 723,"",17,6,1,1,492,"m5d2/01",200,270,-300,"Ilsabard","The Tower of Babil","Magitek Freight Depot E",131,2,"m5d2",True,False,False
 724,"",17,6,2,1,493,"m5d2/02",200,300,-130,"Ilsabard","The Tower of Babil","Subterranean Sector",131,4,"m5d2",True,False,False
 725,"",17,6,3,1,494,"m5d2/03",200,-400,200,"Ilsabard","The Tower of Babil","Conveyance Sector",131,8,"m5d2",True,False,False
@@ -731,8 +731,8 @@ int32,MapCondition,byte,byte,sbyte,byte,uint16,str,uint16,int16,int16,PlaceName,
 727,"",17,6,5,1,496,"m5d2/05",200,0,100,"Ilsabard","The Tower of Babil","Auxiliary Sector",131,896,"m5d2",True,False,False
 728,"",0,0,0,1,497,"m5d2/06",200,0,400,"Ilsabard","The Tower of Babil","Anima's Dimension",-1,0,"m5d2",True,False,False
 729,"",0,0,0,1,0,"default/00",100,0,0,"???","","",-1,0,"",True,False,False
-730,"",0,0,0,1,0,"n5r2/00",400,-100,-100,"The World Unsundered","The Stagnant Limbo","",-1,0,"n5r2",True,False,False
-731,"",0,0,0,1,0,"n5r4/00",400,-100,-100,"The World Unsundered","The Sanguine Limbo","",-1,0,"n5r4",True,False,False
+730,"",0,0,0,1,0,"n5r2/00",400,-100,-100,"The World Unsundered","","",-1,0,"",True,False,False
+731,"",0,0,0,1,0,"n5r4/00",400,-100,-100,"The World Unsundered","","",-1,0,"",True,False,False
 732,"The Next Ship to Sail",16,1,0,3,485,"region/11",100,0,0,"The Northern Empty","The Northern Empty","",-1,0,,True,False,False
 733,"The Next Ship to Sail",17,1,0,3,486,"region/12",100,0,0,"Ilsabard","Ilsabard","",-1,0,,True,False,False
 734,"A Trip to the Moon",18,1,0,3,487,"region/13",100,0,0,"The Sea of Stars","The Sea of Stars","",-1,0,,True,False,False
@@ -749,7 +749,7 @@ int32,MapCondition,byte,byte,sbyte,byte,uint16,str,uint16,int16,int16,PlaceName,
 745,"",0,0,0,1,0,"default/00",100,0,0,"Ilsabard","Magna Glacies","",-1,0,"ec028",True,False,False
 746,"",0,0,0,1,0,"default/00",100,-100,-100,"The Sea of Stars","Beyond the Stars","",-1,0,"u5e1",True,True,False
 747,"",0,0,0,1,490,"default/00",100,0,0,"Ilsabard","The Nethergate","",-1,0,"m5e3",True,True,False
-748,"",0,0,0,1,491,"default/00",100,-100,-100,"The World Unsundered","The Gates of Pandæmonium","",-1,0,"n5r0",True,True,False
+748,"",0,0,0,1,491,"default/00",100,-100,-100,"The World Unsundered","The Gates of Pandæmonium","",-1,0,"",True,True,False
 749,"",0,0,0,1,0,"default/00",100,0,0,"The World Unsundered","Propylaion","",-1,0,"n5e1",True,True,False
 750,"",0,0,0,1,479,"m5f2/00",100,0,0,"Ilsabard","Garlemald","",32,268435454,"m5f2",False,False,False
 751,"",0,0,0,1,481,"u5f2/00",100,0,0,"The Sea of Stars","Ultima Thule","",34,2147483646,"u5f2",False,True,False

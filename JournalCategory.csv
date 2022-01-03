@@ -2,16 +2,16 @@
 #,Name,SeparateType,DataType,JournalSection,
 int32,str,byte,byte,JournalSection,byte
 0,"Sephiroth Missions",0,0,,0
-1,"Seventh Umbral Era Main Scenario Quests",1,1,"Main Scenario (A Realm Reborn through Shadowbringers)",0
-2,"Seventh Astral Era Main Scenario Quests",1,1,"Main Scenario (A Realm Reborn through Shadowbringers)",0
-3,"Heavensward Main Scenario Quests",1,1,"Main Scenario (A Realm Reborn through Shadowbringers)",0
-4,"Dragonsong Main Scenario Quests",1,1,"Main Scenario (A Realm Reborn through Shadowbringers)",0
-5,"Post-Dragonsong Main Scenario Quests",1,1,"Main Scenario (A Realm Reborn through Shadowbringers)",0
-6,"Stormblood Main Scenario Quests",1,1,"Main Scenario (A Realm Reborn through Shadowbringers)",0
-7,"Post-Stormblood Main Scenario Quests",1,1,"Main Scenario (A Realm Reborn through Shadowbringers)",0
-8,"Shadowbringers Main Scenario Quests",1,1,"Main Scenario (A Realm Reborn through Shadowbringers)",0
-9,"Post-Shadowbringers Main Scenario Quests",1,1,"Main Scenario (A Realm Reborn through Shadowbringers)",0
-10,"Post-Shadowbringers Main Scenario Quests II",1,1,"Main Scenario (A Realm Reborn through Shadowbringers)",0
+1,"Seventh Umbral Era Main Scenario Quests",1,1,"Main Scenario (ARR/Heavensward/Stormblood/Shadowbringers)",0
+2,"Seventh Astral Era Main Scenario Quests",1,1,"Main Scenario (ARR/Heavensward/Stormblood/Shadowbringers)",0
+3,"Heavensward Main Scenario Quests",1,1,"Main Scenario (ARR/Heavensward/Stormblood/Shadowbringers)",0
+4,"Dragonsong Main Scenario Quests",1,1,"Main Scenario (ARR/Heavensward/Stormblood/Shadowbringers)",0
+5,"Post-Dragonsong Main Scenario Quests",1,1,"Main Scenario (ARR/Heavensward/Stormblood/Shadowbringers)",0
+6,"Stormblood Main Scenario Quests",1,1,"Main Scenario (ARR/Heavensward/Stormblood/Shadowbringers)",0
+7,"Post-Stormblood Main Scenario Quests",1,1,"Main Scenario (ARR/Heavensward/Stormblood/Shadowbringers)",0
+8,"Shadowbringers Main Scenario Quests",1,1,"Main Scenario (ARR/Heavensward/Stormblood/Shadowbringers)",0
+9,"Post-Shadowbringers Main Scenario Quests",1,1,"Main Scenario (ARR/Heavensward/Stormblood/Shadowbringers)",0
+10,"Post-Shadowbringers Main Scenario Quests II",1,1,"Main Scenario (ARR/Heavensward/Stormblood/Shadowbringers)",0
 11,"Endwalker Main Scenario Quests",1,1,"Main Scenario (Endwalker)",0
 12,"Chronicles of a New Era - Primals",1,1,"Chronicles of a New Era",0
 13,"Chronicles of a New Era - Bahamut",1,1,"Chronicles of a New Era",0

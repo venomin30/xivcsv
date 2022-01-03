@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7
-#,Item,Quantity[0],Quantity[1],Quantity[2],Quantity[3],Quantity[4],GatheringLog,FishingLog
+#,Item,Quantity[0],Quantity[1],Quantity[2],,,GatheringLog,FishingLog
 int32,Item,byte,byte,byte,byte,byte,GatheringItem,Row
 0,"",0,0,0,0,0,"",""
 1,"Animal Skin",5,7,10,12,15,"",""
@@ -786,7 +786,7 @@ int32,Item,byte,byte,byte,byte,byte,GatheringItem,Row
 782,"Chloroschist",15,20,30,40,50,"Chloroschist",""
 783,"High Durium Ore",15,20,30,40,50,"High Durium Ore",""
 784,"Pewter Ore",15,20,30,40,50,"Pewter Ore",""
-785,"Phrygian Gold Ore",15,20,30,40,50,"Phrygian Gold Ore",""
+785,"Phrygian Ore",15,20,30,40,50,"Phrygian Ore",""
 786,"Eblan Alumen",15,20,30,40,50,"Eblan Alumen",""
 787,"Bismuth Ore",15,20,30,40,50,"Bismuth Ore",""
 788,"Manganese Ore",15,20,30,40,50,"Manganese Ore",""
@@ -817,7 +817,7 @@ int32,Item,byte,byte,byte,byte,byte,GatheringItem,Row
 813,"Elder Nutmeg Seeds",15,20,30,40,50,"Elder Nutmeg Seeds",""
 814,"Sideritis Leaves",15,20,30,40,50,"Sideritis Leaves",""
 815,"Integral Log",15,20,30,40,50,"Integral Log",""
-816,"AR-Caean Cotton Boll",15,20,30,40,50,"AR-Caean Cotton Boll",""
+816,"AR-Caean Cotton",15,20,30,40,50,"AR-Caean Cotton",""
 817,"Alien Onion",15,20,30,40,50,"Alien Onion",""
 818,"Gaja Hide",5,7,10,12,15,"",""
 819,"Hamsa Tenderloin",5,7,10,12,15,"",""

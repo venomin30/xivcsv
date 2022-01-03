@@ -2,7 +2,7 @@
 #,Item,,SecondaryStatTotal,Parameter[0],Parameter[1],Parameter[2],Parameter[3],Parameter[4]
 int32,Item,byte,byte,AnimaWeapon5Param,AnimaWeapon5Param,AnimaWeapon5Param,AnimaWeapon5Param,AnimaWeapon5Param
 0,"",0,0,"","","","",""
-1,"Hyperconductive Almace",1,128,"Tenacity","Direct Hit Rate","Critical Hit","Determination","Skill Speed"
+1,"Hyperconductive Almace",1,129,"Tenacity","Direct Hit Rate","Critical Hit","Determination","Skill Speed"
 2,"Hyperconductive Verethragna",2,180,"Tenacity","Direct Hit Rate","Critical Hit","Determination","Skill Speed"
 3,"Hyperconductive Ukonvasara",3,180,"Tenacity","Direct Hit Rate","Critical Hit","Determination","Skill Speed"
 4,"Hyperconductive Rhongomiant",4,180,"Tenacity","Direct Hit Rate","Critical Hit","Determination","Skill Speed"
@@ -15,4 +15,4 @@ int32,Item,byte,byte,AnimaWeapon5Param,AnimaWeapon5Param,AnimaWeapon5Param,Anima
 11,"Hyperconductive Armageddon",11,180,"Tenacity","Direct Hit Rate","Critical Hit","Determination","Skill Speed"
 12,"Hyperconductive Nothung",12,180,"Tenacity","Direct Hit Rate","Critical Hit","Determination","Skill Speed"
 13,"Hyperconductive Deneb",13,180,"Piety","Direct Hit Rate","Critical Hit","Determination","Spell Speed"
-14,"Hyperconductive Ancile",14,52,"Tenacity","Direct Hit Rate","Critical Hit","Determination","Skill Speed"
+14,"Hyperconductive Ancile",14,51,"Tenacity","Direct Hit Rate","Critical Hit","Determination","Skill Speed"
