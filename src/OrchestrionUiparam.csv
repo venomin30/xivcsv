@@ -1,0 +1,509 @@
+﻿key,0,1
+#,OrchestrionCategory,Order
+int32,OrchestrionCategory,uint16
+0,"",0
+1,"Others",2
+2,"Locales I",1
+3,"Locales I",2
+4,"Locales I",3
+5,"Locales I",30
+6,"Locales I",17
+7,"Locales I",19
+8,"Others",3
+9,"Locales I",18
+10,"Locales I",33
+11,"Locales I",35
+12,"Others",1
+13,"Others",5
+14,"Others",6
+15,"Others",7
+16,"Seasonal",65535
+17,"Others",8
+18,"Others",10
+19,"Others",11
+20,"Dungeons",11
+21,"Dungeons",9
+22,"Dungeons",4
+23,"Dungeons",3
+24,"Dungeons",19
+25,"Dungeons",23
+26,"Dungeons",5
+27,"Trials",1
+28,"Trials",2
+29,"Trials",3
+30,"Trials",4
+31,"Trials",5
+32,"Trials",6
+33,"Trials",7
+34,"Trials",8
+35,"Raids I",1
+36,"Raids I",2
+37,"Raids I",3
+38,"Raids I",4
+39,"Raids I",6
+40,"Raids I",7
+41,"Raids I",8
+42,"Raids I",11
+43,"Raids I",13
+44,"Raids I",14
+45,"Raids I",15
+46,"Others",4
+47,"Others",9
+48,"Locales I",6
+49,"Locales I",4
+50,"Locales I",5
+51,"Locales I",29
+52,"Locales I",44
+53,"Locales I",45
+54,"Locales I",31
+55,"Locales I",32
+56,"Locales I",34
+57,"Locales I",9
+58,"Locales I",7
+59,"Locales I",8
+60,"Seasonal",65535
+61,"Seasonal",65535
+62,"Dungeons",10
+63,"Dungeons",14
+64,"Dungeons",18
+65,"Dungeons",20
+66,"Dungeons",25
+67,"Dungeons",8
+68,"Trials",9
+69,"Trials",10
+70,"Trials",11
+71,"Trials",12
+72,"Trials",13
+73,"Trials",14
+74,"Others",12
+75,"Others",13
+76,"Locales I",13
+77,"Locales I",14
+78,"Locales I",15
+79,"Others",14
+80,"Seasonal",65535
+81,"Seasonal",65535
+82,"Seasonal",65535
+83,"Seasonal",65535
+84,"Others",15
+85,"Locales I",20
+86,"Locales I",43
+87,"Locales I",36
+88,"Locales I",37
+89,"Locales I",22
+90,"Locales I",24
+91,"Locales I",41
+92,"Locales I",16
+93,"Locales I",23
+94,"Locales I",46
+95,"Raids I",9
+96,"Others",16
+97,"Dungeons",30
+98,"Dungeons",32
+99,"Dungeons",31
+100,"Dungeons",33
+101,"Dungeons",16
+102,"Dungeons",12
+103,"Dungeons",26
+104,"Trials",15
+105,"Trials",16
+106,"Trials",17
+107,"Trials",18
+108,"Raids I",23
+109,"Raids I",24
+110,"Raids I",25
+111,"Raids I",26
+112,"Raids I",27
+113,"Raids I",28
+114,"Online Store & Bonuses",65535
+115,"Online Store & Bonuses",65535
+116,"Seasonal",65535
+117,"Locales I",21
+118,"Locales I",42
+119,"Locales I",25
+120,"Locales I",26
+121,"Locales I",27
+122,"Locales I",47
+123,"Others",20
+124,"Others",21
+125,"Others",22
+126,"Others",23
+127,"Others",18
+128,"Others",19
+129,"Others",17
+130,"Dungeons",17
+131,"Dungeons",29
+132,"Dungeons",28
+133,"Trials",19
+134,"Trials",20
+135,"Trials",21
+136,"Trials",22
+137,"Trials",23
+138,"Trials",24
+139,"Raids I",12
+140,"Raids I",10
+141,"Raids I",29
+142,"Raids I",17
+143,"Raids I",18
+144,"Raids I",19
+145,"Raids I",20
+146,"Raids I",21
+147,"Raids I",22
+148,"Seasonal",65535
+149,"Seasonal",65535
+150,"Seasonal",65535
+151,"Ambient",2
+152,"Ambient",1
+153,"Ambient",3
+154,"Ambient",4
+155,"Dungeons",21
+156,"Dungeons",27
+157,"Trials",25
+158,"Trials",26
+159,"Locales I",39
+160,"Locales I",40
+161,"Locales I",50
+162,"Locales I",54
+163,"Locales I",56
+164,"Locales I",28
+165,"Locales I",10
+166,"Locales I",11
+167,"Locales I",12
+168,"Ambient",5
+169,"Ambient",6
+170,"Ambient",7
+171,"Others",24
+172,"Others",26
+173,"Others",28
+174,"Locales I",49
+175,"Locales I",53
+176,"Locales I",51
+177,"Locales I",52
+178,"Locales I",55
+179,"Locales I",65
+180,"Dungeons",35
+181,"Dungeons",36
+182,"Dungeons",40
+183,"Dungeons",42
+184,"Trials",27
+185,"Trials",28
+186,"Raids I",30
+187,"Raids I",31
+188,"Raids I",32
+189,"Raids I",33
+190,"Raids I",34
+191,"Online Store & Bonuses",65535
+192,"Online Store & Bonuses",65535
+193,"Seasonal",65535
+194,"Ambient",8
+195,"Ambient",9
+196,"Ambient",10
+197,"Ambient",11
+198,"Others",27
+199,"Others",29
+200,"Others",30
+201,"Others",32
+202,"Others",25
+203,"Locales I",61
+204,"Locales I",62
+205,"Locales I",63
+206,"Locales I",64
+207,"Locales I",66
+208,"Others",33
+209,"Others",34
+210,"Dungeons",43
+211,"Dungeons",44
+212,"Dungeons",41
+213,"Dungeons",39
+214,"Dungeons",34
+215,"Trials",29
+216,"Trials",30
+217,"Dungeons",15
+218,"Raids I",5
+219,"Others",31
+220,"Seasonal",65535
+221,"Ambient",12
+222,"Ambient",13
+223,"Others",35
+224,"Others",36
+225,"Others",37
+226,"Seasonal",65535
+227,"Dungeons",24
+228,"Dungeons",37
+229,"Dungeons",45
+230,"Locales I",38
+231,"Locales I",67
+232,"Raids I",35
+233,"Raids I",36
+234,"Raids I",37
+235,"Raids I",38
+236,"Raids I",39
+237,"Others",38
+238,"Trials",33
+239,"Trials",34
+240,"Trials",31
+241,"Trials",32
+242,"Online Store & Bonuses",65535
+243,"Online Store & Bonuses",65535
+244,"Online Store & Bonuses",65535
+245,"Seasonal",65535
+246,"Locales I",68
+247,"Dungeons",22
+248,"Dungeons",13
+249,"Dungeons",6
+250,"Dungeons",47
+251,"Dungeons",46
+252,"Trials",35
+253,"Raids I",48
+254,"Raids I",49
+255,"Raids I",50
+256,"Raids I",51
+257,"Raids I",52
+258,"Raids I",53
+259,"Raids I",54
+260,"Raids I",55
+261,"Raids I",56
+262,"Raids I",57
+263,"Raids I",58
+264,"Raids I",59
+265,"Raids I",47
+266,"Others",40
+267,"Others",39
+268,"Trials",36
+269,"Dungeons",48
+270,"Others",42
+271,"Others",43
+272,"Online Store & Bonuses",65535
+273,"Online Store & Bonuses",65535
+274,"Online Store & Bonuses",65535
+275,"Raids I",60
+276,"Others",41
+277,"Online Store & Bonuses",65535
+278,"Online Store & Bonuses",65535
+279,"Online Store & Bonuses",65535
+280,"Online Store & Bonuses",65535
+281,"Online Store & Bonuses",65535
+282,"Online Store & Bonuses",65535
+283,"Locales I",57
+284,"Locales I",58
+285,"Locales I",59
+286,"Locales I",60
+287,"Locales I",69
+288,"Others",44
+289,"Others",45
+290,"Others",46
+291,"Raids I",16
+292,"Raids I",40
+293,"Raids I",41
+294,"Raids I",42
+295,"Raids I",43
+296,"Raids I",44
+297,"Raids I",45
+298,"Raids I",46
+299,"Seasonal",65535
+300,"Seasonal",65535
+301,"Seasonal",65535
+302,"Seasonal",65535
+303,"Seasonal",65535
+304,"Seasonal",65535
+305,"Online Store & Bonuses",65535
+306,"Online Store & Bonuses",65535
+307,"Locales II",4
+308,"Locales II",5
+309,"Locales II",6
+310,"Locales II",7
+311,"Locales II",8
+312,"Locales II",9
+313,"Trials",37
+314,"Trials",38
+315,"Others",47
+316,"Others",48
+317,"Dungeons",50
+318,"Dungeons",51
+319,"Dungeons",52
+320,"Dungeons",53
+321,"Dungeons",54
+322,"Dungeons",55
+323,"Dungeons",57
+324,"Dungeons",56
+325,"Dungeons",38
+326,"Dungeons",7
+327,"Raids II",10
+328,"Raids II",12
+329,"Locales II",18
+330,"Dungeons",49
+331,"Locales II",1
+332,"Locales II",2
+333,"Raids II",11
+334,"Locales II",10
+335,"Locales II",11
+336,"Locales II",12
+337,"Locales II",13
+338,"Locales II",14
+339,"Locales II",15
+340,"Locales II",16
+341,"Locales II",17
+342,"Locales II",3
+343,"Trials",39
+344,"Dungeons",58
+345,"Locales II",19
+346,"Others",49
+347,"Others",50
+348,"Seasonal",65535
+349,"Locales I",48
+350,"Raids II",1
+351,"Raids II",2
+352,"Raids II",28
+353,"Raids II",3
+354,"Raids II",4
+355,"Raids II",5
+356,"Raids II",6
+357,"Raids II",7
+358,"Online Store & Bonuses",65535
+359,"Online Store & Bonuses",65535
+360,"Others",51
+361,"Others",52
+362,"Raids II",9
+363,"Raids II",13
+364,"Raids II",14
+365,"Raids II",15
+366,"Trials",40
+367,"",0
+368,"Dungeons",1
+369,"Dungeons",2
+370,"Dungeons",59
+371,"Locales II",20
+372,"Raids II",8
+373,"Others",53
+374,"Locales I",71
+375,"Locales I",72
+376,"Others",56
+377,"Others",57
+378,"Others",54
+379,"Locales II",21
+380,"Locales II",22
+381,"Others",55
+382,"Locales I",70
+383,"Locales II",23
+384,"",0
+385,"Others",59
+386,"Trials",41
+387,"Others",61
+388,"Others",62
+389,"Others",63
+390,"Others",64
+391,"Others",65
+392,"Others",66
+393,"Dungeons",62
+394,"Others",58
+395,"Dungeons",61
+396,"Dungeons",60
+397,"Trials",42
+398,"Others",60
+399,"Raids II",16
+400,"Raids II",17
+401,"Raids II",18
+402,"Raids II",19
+403,"Raids II",20
+404,"Raids II",21
+405,"Online Store & Bonuses",65535
+406,"Online Store & Bonuses",65535
+407,"Online Store & Bonuses",65535
+408,"Online Store & Bonuses",65535
+409,"Online Store & Bonuses",65535
+410,"Others",71
+411,"Trials",43
+412,"Others",73
+413,"Others",74
+414,"Others",75
+415,"Others",76
+416,"Dungeons",68
+417,"Raids II",22
+418,"Raids II",23
+419,"Raids II",24
+420,"Raids II",25
+421,"Dungeons",63
+422,"Others",67
+423,"Others",68
+424,"Others",69
+425,"Locales II",24
+426,"Dungeons",66
+427,"Trials",44
+428,"Others",72
+429,"Locales I",73
+430,"Dungeons",64
+431,"Dungeons",65
+432,"Dungeons",67
+433,"Online Store & Bonuses",65535
+434,"Online Store & Bonuses",65535
+435,"Online Store & Bonuses",65535
+436,"Others",70
+437,"Trials",45
+438,"Others",82
+439,"Dungeons",69
+440,"Others",77
+441,"Locales I",74
+442,"Others",78
+443,"Others",79
+444,"Others",80
+445,"Online Store & Bonuses",65535
+446,"Online Store & Bonuses",65535
+447,"Online Store & Bonuses",65535
+448,"Online Store & Bonuses",65535
+449,"Online Store & Bonuses",65535
+450,"Online Store & Bonuses",65535
+451,"Online Store & Bonuses",65535
+452,"Online Store & Bonuses",65535
+453,"Online Store & Bonuses",65535
+454,"Online Store & Bonuses",65535
+455,"Online Store & Bonuses",65535
+456,"Online Store & Bonuses",65535
+457,"Online Store & Bonuses",65535
+458,"Online Store & Bonuses",65535
+459,"Online Store & Bonuses",65535
+460,"Online Store & Bonuses",65535
+461,"Online Store & Bonuses",65535
+462,"Online Store & Bonuses",65535
+463,"Others",81
+464,"Raids II",26
+465,"Raids II",27
+466,"",0
+467,"Raids II",29
+468,"Raids II",30
+469,"Raids II",36
+470,"Raids II",31
+471,"Raids II",32
+472,"Raids II",33
+473,"Raids II",34
+474,"Raids II",35
+475,"Dungeons",73
+476,"Dungeons",74
+477,"Dungeons",75
+478,"Dungeons",76
+479,"Dungeons",77
+480,"Dungeons",78
+481,"Dungeons",79
+482,"Trials",46
+483,"Trials",47
+484,"",0
+485,"",0
+486,"",0
+487,"Locales II",25
+488,"Locales II",26
+489,"Locales II",27
+490,"Locales II",28
+491,"Locales II",29
+492,"Locales II",30
+493,"Locales II",31
+494,"Locales II",32
+495,"Locales II",33
+496,"",0
+497,"",0
+498,"Others",83
+499,"Others",84
+500,"Dungeons",70
+501,"Dungeons",71
+502,"Dungeons",72
+503,"Online Store & Bonuses",65535
+504,"Online Store & Bonuses",65535
+505,"Online Store & Bonuses",65535

@@ -1,0 +1,36 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+#,Territory,,AetherCurrent[0],AetherCurrent[1],AetherCurrent[2],AetherCurrent[3],AetherCurrent[4],AetherCurrent[5],AetherCurrent[6],AetherCurrent[7],AetherCurrent[8],AetherCurrent[9],AetherCurrent[10],AetherCurrent[11],AetherCurrent[12],AetherCurrent[13]
+int32,TerritoryType,int32,AetherCurrent,AetherCurrent,AetherCurrent,AetherCurrent,AetherCurrent,AetherCurrent,AetherCurrent,AetherCurrent,AetherCurrent,AetherCurrent,AetherCurrent,AetherCurrent,AetherCurrent,AetherCurrent
+0,,0,,,,,,,,,,,,,,
+1,"r2f1",2818048,"Bridge over Frozen Water","Protecting What's Important","Baby Steps","For All the Nights to Come","",,"",,"","",,,,
+2,"d2f1",2818063,"Some Bad News","Natural Repellent","Chocobo's Last Stand","A Lesson in Humility","",,"",,,,"",,,""
+3,"d2f2",2818078,"Louder than Words","Ebb and Aetherflow","Taking Stock","Saro Roggo's Common Life","",,,"",,"",,,,""
+4,"d2f3",2818093,"The Bathing Bully","Road Kill","The Unceasing Gardener","Waiting to Inhale",,"","","",,,,,,""
+5,"a2f1",2818108,"Clipped Wings","Search and Rescue","Sleepless in Ok' Zundu","Flying the Nest",,,,"","",,"",,,""
+6,"a2f2",2818123,"Systematic Exploration","In Node We Trust","Chimerical Maintenance","Close Encounters of the VIth Kind",,,,,,,,,,
+7,"g3f1",2818128,"Magiteknical Failure","The Hidden Truth","Unexpected Guests","Eyes Bigger than Her Stomach","",,"",,,,"","",,
+8,"e3f1",2818173,"The Price of Betrayal","Pulling Double Booty","The Sword in the Stone","The Palace of Lost Souls","",,,,"",,,"",,""
+9,"g3f2",2818143,"Saint Sayer","Out of Sight","A Hunger for Trade","Closing Up Shop",,"",,"",,,"",,,""
+10,"e3f2",2818188,"Something Smells","Fly, My Pretties","Whacking Day","Wolves and Weeds",,,"","",,,"",,"",
+11,"g3f3",2818158,"It's a Zu Out There","A Rite to Rest","If I Were a Fish","Are They Ill-tempered",,,"",,,,,"","",""
+12,"e3f3",2818203,"Words Are Very Unnecessary","Sheep Snatcher","Forty Years and Counting","Mauci of the Seven Worries","",,"",,"",,,"",,
+13,"n4f1",2818218," A Jobb Well Done"," Imperative Repairs"," The Astute Amaro"," An Unreasonable Request","",,,,"",,,"","",
+14,"n4f3",2818248," Work to Live or Live to Work"," Scavengers Assemble"," Charmless Man"," A Vein Pursuit","",,,"",,,"",,"",
+15,"n4f4",2818263," The Forbidden Lran"," Delightful Decorations"," The Path to Popularity"," A New Amaro",,,"",,,"",,,"",""
+16,"n4f2",2818233," A Plankless Task"," Village of Woe"," Fugitive of Fear"," A Disagreeable Dwarf","",,,,"",,,"","",
+17,"n4f5",2818278," What We Do for Family"," The Great Deceiver"," Suit Up"," Stand on Ceremony","",,"",,,"",,,,""
+18,"n4f6",2818293," Koal of the Cups"," Responsible Creation"," Debate and Discourse"," Community Cohesion","",,"",,,"",,,,""
+19,"l1f1",2818308,,,,,,,,,,,,,,
+20,"k5f1",2818309," Lost Little Troll"," The Lad in Labyrinthos"," Gleaner's Wish"," Let the Good Times Troll","","","","","","","","","",""
+21,"m5f1",2818324," Alchemist or Dancer"," Steppe Child"," Radiant Patrol"," Curing What Ails","","","","","","","","","",""
+22,"m5f2",2818339," Best Delivered Cold"," In Pursuit of Power"," Children Are Our Future"," Stranded at the Station","","","","","","","","","",""
+23,"u5f1",2818354," True Carrot Crimes"," Carrots: It's What's for Dinner"," Alluring Allag"," Name That Way","","","","","","","","","",""
+24,"n5f1",2818369," You and the Ailouros"," The Perks of Being a Lost Flower "," Touring Anagnorisis, Part I"," An Expected Guest","","","","","","","","","",""
+25,"u5f2",2818384," Ending as One"," A Most Stimulating Discussion"," Learn to Love"," Combat Evolved","","","","","","","","","",""
+26,,0,,,,,,,,,,,,,,
+27,,0,,,,,,,,,,,,,,
+28,,0,,,,,,,,,,,,,,
+29,,0,,,,,,,,,,,,,,
+30,,0,,,,,,,,,,,,,,
+31,,0,,,,,,,,,,,,,,
+32,,0,,,,,,,,,,,,,,
