@@ -1,0 +1,21 @@
+﻿key,0,1,2,3,4,5
+#,Quest,Text[Long],Text[Short],Text[Commentary],,Section
+int32,Quest,str,str,str,bit&01,DescriptionSection
+3604480,,"","","",False,""
+3604481,,"","","",False,""
+3604482,"Every Little Thing She Does Is Mahjong","Mahjong Rules","Mahjong Rules","",True,"Doman Mahjong for Beginners"
+3604483,,"Rival Wings Rules","Rival Wings","",True,"Rival Wings"
+3604484,,"Housing Inquiries","Housing","",True,"Housing"
+3604485,,"Enjoying New Game+","New Game+","つよくてニューゲーム解説",True,"Doman Mahjong for Beginners"
+3604486,,"Frontline Rules","Frontline Rules","",True,"Frontline"
+3604487,,"Ocean Fishing","Ocean Fishing","",True,"Ocean Fishing"
+3604488,,"Faux Hollows","Faux Hollows","",True,"Faux Hollows"
+3604489,,"The Bozjan Southern Front","The Bozjan Southern Front","",True,"Overview"
+3604490,,"Resistance Rank","Resistance Rank","",True,"Leveling"
+3604491,,"Lost Actions","Lost Actions","",True,"Lost Actions"
+3604492,,"Bozjan Clusters","Bozjan Clusters","",True,"Bozjan Clusters"
+3604493,,"Triple Triad Tournaments: Short Modes","Triple Triad Tournaments: Short Modes","",True,"Open Tournaments"
+3604494,,"","","",True,"Introduction"
+3604495,,"","","",True,"Introduction"
+3604496,,"Resistance Honors","Resistance Honors","",True,"Resistance Honors"
+3604497,,"Zadnor","Zadnor","",True,"Overview"

@@ -1,0 +1,20 @@
+﻿key,0,1,2
+#,Class{Singular},VoiceLine,Class{Plural}
+int32,str,uint32,str
+0,"",0,""
+1,"Academician",8202017,"Academician"
+2,"Red Mage",8202034,"Red Mage"
+3,"Gunbreaker",8202048,"Gunbreaker"
+4,"Oracle of Light",8202074,"Oracle of Light"
+5,"Astrologian",8202081,"Astrologian"
+6,"Sorceress",8202112,"Sorceress"
+7,"Oracle of Light",8202074,"Oracle of Light"
+8,"Guard Captain",8202143,"Guard Captain"
+9,"All-Rounder",8202121,"All-Rounder"
+10,"All-Rounder",8202346,"All-Rounder"
+11,"Sage",8203013,"Sage"
+12,"Dragoon",8203064,"Dragoon"
+13,"Lithomancer",8202092,"Lithomancer"
+14,"All-Rounder",8203122,"All-Rounder"
+15,"The Third Seat",8203219,"The Third Seat"
+16,"Soulseer",8203239,"Soulseer"

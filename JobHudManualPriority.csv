@@ -1,0 +1,28 @@
+﻿key,0,1,2,3,4
+#,JobHudManual[0],JobHudManual[1],JobHudManual[2],,
+int32,JobHudManual,JobHudManual,JobHudManual,byte,byte
+0,"","","",0,0
+1,"Iron Will","","",0,0
+2,"Meditation","","",0,0
+3,"Defiance","","",0,0
+4,"Fire","","",0,0
+5,"Energy Drain","Aethercharge","",0,0
+6,"Limit Break","","",0,0
+7,"","Meditation","",0,0
+8,"Steady Hand","","",0,0
+9,"Slumber Breath","Ruin","",0,0
+10,"Stagnant Spray","Reclaim","the Wanderer's Minuet",27,26
+11,"Haste","反撃効果","",0,0
+12,"炎獄の楔：死亡","Mooch","Foul",34,33
+13,"100 Needles","Bio II","Barbaric Surge",37,0
+14,"Summon Seraph","Aetherpact","Aetherflow",0,0
+15,"Summon","Jin","",0,0
+16,"Rook Autoturret","Hypercharge","",0,0
+17,"Living Shadow","The Blackest Night","Manafont",6,5
+18,"Minor Arcana","Divination","Draw",0,0
+19,"Shoha","Ageless Words","Iaijutsu",0,0
+20,"Plaincracker","Jolt","",0,0
+21,"Enblizzard","Inner Quiet","Royal Guard",0,0
+22,"Inner Quiet","Technical Step","Inner Quiet",41,0
+23,"Agitation","Agitation","Ultrasonics",0,0
+24,"Somersault Slash","Bombardier","Eukrasia",0,0

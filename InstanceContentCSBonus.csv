@@ -1,0 +1,40 @@
+﻿key,0,1,2,3,4
+#,Instance,Item,,,
+int32,InstanceContent,Item,byte,byte,byte
+0,"InstanceContent#15","Irregular Tomestone of Lore",7,0,0
+1,"InstanceContent#16","Irregular Tomestone of Lore",10,0,0
+2,"InstanceContent#38","Irregular Tomestone of Lore",4,0,0
+3,"InstanceContent#48","Irregular Tomestone of Lore",4,0,0
+4,"InstanceContent#56","Irregular Tomestone of Lore",4,0,0
+5,"InstanceContent#64","Irregular Tomestone of Lore",4,0,0
+6,"InstanceContent#67","Irregular Tomestone of Lore",5,0,0
+7,"InstanceContent#30001","Irregular Tomestone of Lore",3,0,0
+8,"InstanceContent#30011","Irregular Tomestone of Lore",3,0,0
+9,"InstanceContent#30020","Irregular Tomestone of Lore",3,0,0
+10,"InstanceContent#30002","Irregular Tomestone of Lore",3,0,0
+11,"InstanceContent#30003","Irregular Tomestone of Lore",3,0,0
+12,"InstanceContent#30052","Irregular Tomestone of Lore",2,0,0
+13,"InstanceContent#30062","Irregular Tomestone of Lore",2,0,0
+14,"InstanceContent#30072","Irregular Tomestone of Lore",2,0,0
+15,"InstanceContent#20037","Irregular Tomestone of Lore",2,0,0
+16,"InstanceContent#20041","Irregular Tomestone of Lore",2,0,0
+17,"InstanceContent#20043","Irregular Tomestone of Lore",2,0,0
+18,"InstanceContent#51002","Irregular Tomestone of Lore",5,3,3
+19,"InstanceContent#50004","Irregular Tomestone of Lore",5,3,3
+20,"InstanceContent#50001","Irregular Tomestone of Lore",5,3,3
+21,"InstanceContent#50005","Irregular Tomestone of Lore",5,3,3
+22,"InstanceContent#50006","Irregular Tomestone of Lore",5,3,3
+23,"InstanceContent#0","",0,0,0
+24,"InstanceContent#0","",0,0,0
+25,"InstanceContent#0","",0,0,0
+26,"InstanceContent#0","",0,0,0
+27,"InstanceContent#0","",0,0,0
+28,"InstanceContent#0","",0,0,0
+29,"InstanceContent#0","",0,0,0
+30,"InstanceContent#0","",0,0,0
+31,"InstanceContent#0","",0,0,0
+32,"InstanceContent#0","",0,0,0
+33,"InstanceContent#0","",0,0,0
+34,"InstanceContent#0","",0,0,0
+35,"InstanceContent#0","",0,0,0
+36,"InstanceContent#0","",0,0,0
