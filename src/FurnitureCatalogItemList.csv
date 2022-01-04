@@ -849,10 +849,10 @@ int32,FurnitureCatalogCategory,Item,uint16
 845,"Tables","Mogbureau",550
 846,"Clocks","Goobbue Wall Chronometer",550
 847,"Interactive Furnishings","Orchestrion Phonograph",600
-848,"Tables","",0
-849,"Tables","",0
+848,"Shelves/Chests","Shoe Rack",600
+849,"Miscellaneous","Ivy Mural",600
 850,"Miscellaneous","Table Mat",600
-851,"Tables","",0
+851,"Miscellaneous","Matching Cushions",600
 852,"Miscellaneous","Marimba",600
 853,"Miscellaneous","Indoor Oriental Waterfall",600
 854,"Miscellaneous","Round Wooden Loft",600
@@ -861,21 +861,21 @@ int32,FurnitureCatalogCategory,Item,uint16
 857,"Tables","Apothecary's Workbench",600
 858,"Lighting","Candlelit Sundries",600
 859,"Rugs","Fat Cat Rug",600
-860,"Tables","",0
+860,"Plants","Walnut Flower Vases",600
 861,"Tableware/Foods","Fluffy Pancakes",600
 862,"Stuffed Toys/Figures","Stuffed Bom Boko",600
 863,"Miscellaneous","Wooden Blinds",600
-864,"Tables","",0
+864,"Walls/Pillars/Partitions","Dance Pole",600
 865,"Shelves","Antique Wall Shelf",600
 866,"Miscellaneous","Wooden Bin",600
-867,"Tables","",0
+867,"Windows","Imitation Wooden Skylight",600
 868,"Walls/Partitions","Square Niche Partition",600
 869,"Lighting","Pendant Wall Light",600
-870,"Tables","",0
+870,"Beds","Loft Bed",600
 871,"Miscellaneous","Restaurant Showcase",600
 872,"Miscellaneous","Ruby Sea Phasmascape",600
 873,"Miscellaneous","Aurora Phasmascape",600
-874,"Tables","",0
+874,"Tableware/Foods","New World Burrito Lunch",600
 875,"Miscellaneous","Hannish Silk Rack",600
 876,"Lighting","Ancient Lamp",600
 877,"Miscellaneous","Labyrinthos Warning Sign",600

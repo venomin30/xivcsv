@@ -4618,7 +4618,7 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262419.26,"Ambient Wind Chime Orchestrion Roll",False,0,,,"",0,100,430
 262419.27,"Cedar Tree",False,0,,,"",0,100,510
 262419.28,"Wooden Footbridge",False,0,,,"",0,100,530
-262419.29,"",False,0,,,"",0,100,600
+262419.29,"Coldbare Tree",False,0,,,"",0,100,600
 262420.0,"Brass Bench",False,0,,,"",0,100,0
 262420.1,"Glade Placard",False,0,,,"",0,100,0
 262420.2,"Glade Thatch Wall",False,0,,,"",0,100,0
@@ -4648,7 +4648,7 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262420.26,"Ambient Wind Chime Orchestrion Roll",False,0,,,"",0,100,430
 262420.27,"Cedar Tree",False,0,,,"",0,100,510
 262420.28,"Wooden Footbridge",False,0,,,"",0,100,530
-262420.29,"",False,0,,,"",0,100,600
+262420.29,"Coldbare Tree",False,0,,,"",0,100,600
 262421.0,"Brass Bench",False,0,,,"",0,100,0
 262421.1,"Oasis Placard",False,0,,,"",0,100,0
 262421.2,"Oasis Wooden Wall",False,0,,,"",0,100,0
@@ -4678,7 +4678,7 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262421.26,"Ambient Wind Chime Orchestrion Roll",False,0,,,"",0,100,430
 262421.27,"Cedar Tree",False,0,,,"",0,100,510
 262421.28,"Wooden Footbridge",False,0,,,"",0,100,530
-262421.29,"",False,0,,,"",0,100,600
+262421.29,"Coldbare Tree",False,0,,,"",0,100,600
 262422.0,"Ash Log",False,0,,,"",0,100,0
 262422.1,"Ash Lumber",False,0,,,"",0,100,0
 262422.2,"Elm Lumber",False,0,,,"",0,100,0
@@ -8241,7 +8241,7 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262690.21,"Ambient Wind Chime Orchestrion Roll",False,0,,,"",0,100,430
 262690.22,"Cedar Tree",False,0,,,"",0,100,510
 262690.23,"Wooden Footbridge",False,0,,,"",0,100,530
-262690.24,"",False,0,,,"",0,100,600
+262690.24,"Coldbare Tree",False,0,,,"",0,100,600
 262691.0,"Clear Prism",False,0,,,"",0,100,0
 262691.1,"Glamour Dispeller",False,0,,,"",0,100,0
 262691.2,"Gysahl Greens",False,0,,,"",0,100,0
@@ -12204,7 +12204,7 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262952.29,"Industrial Wall Pipes",False,0,,,"",0,100,530
 262952.30,"Slanted Wall",False,0,,,"",0,100,530
 262952.31,"Slanted Skylight",False,0,,,"",0,100,530
-262952.32,"",False,0,,,"",0,100,600
+262952.32,"Ivy Mural",False,0,,,"",0,100,600
 262952.33,"Round Wooden Loft",False,0,,,"",0,100,600
 262952.34,"Antique Wall Shelf",False,0,,,"",0,100,600
 262952.35,"Verdant Shelf Partition",False,0,,,"",0,100,530

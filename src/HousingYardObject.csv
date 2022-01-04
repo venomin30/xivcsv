@@ -222,6 +222,8 @@ int32,byte,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byte,
 131302,217,17,0,0,0,,"Baker's Show Window",False,False,True,0,0,0,False
 131303,218,17,0,0,0,,"Il Mheg Garden Fountain",False,False,True,0,0,0,False
 131304,219,17,0,0,0,,"Hanging Bench",False,False,True,0,0,0,False
+131305,220,17,0,0,0,,"Coldbare Tree",False,False,True,0,0,0,False
+131306,221,17,0,0,0,,"Poroggo Lawn Ornament",False,False,True,0,0,0,False
 131307,222,17,0,0,0,,"Lakeland Elf Tree",False,False,True,0,0,0,False
 131308,223,17,0,0,0,,"Lakeland Flower Garden",False,False,True,0,0,0,False
 131309,224,17,0,0,0,,"Red Brick Kitchen",False,False,True,0,0,0,False
@@ -237,6 +239,8 @@ int32,byte,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byte,
 131319,231,17,0,0,0,,"Snow-dusted Tree",False,False,True,5,0,0,False
 131320,232,17,0,0,0,,"Parkside Tree",False,False,True,0,0,0,False
 131321,233,17,0,0,0,,"Brick Paving",False,False,True,0,0,0,False
+131322,234,17,0,0,0,,"Miniature Antique Clock Tower",False,False,True,0,0,0,False
+131323,235,17,0,0,0,,"Shirogane Pinwheel",False,False,True,0,0,0,False
 131324,236,17,16,6,30,,"Thavnairian Striking Dummy",False,False,True,0,0,0,False
 131325,237,17,0,0,0,,"La Noscean Grape Pergola",False,False,True,0,0,0,False
 131326,238,17,0,0,0,,"Fruitful Fountain",False,False,True,0,0,0,False

@@ -730,7 +730,7 @@ int32,MapCondition,byte,byte,sbyte,byte,uint16,str,uint16,int16,int16,PlaceName,
 726,"",17,6,4,1,495,"m5d2/04",200,-230,-250,"Ilsabard","The Tower of Babil","Palatial Sector",131,112,"m5d2",True,False,False
 727,"",17,6,5,1,496,"m5d2/05",200,0,100,"Ilsabard","The Tower of Babil","Auxiliary Sector",131,896,"m5d2",True,False,False
 728,"",0,0,0,1,497,"m5d2/06",200,0,400,"Ilsabard","The Tower of Babil","Anima's Dimension",-1,0,"m5d2",True,False,False
-729,"",0,0,0,1,0,"default/00",100,0,0,"???","","",-1,0,"",True,False,False
+729,"",0,0,0,1,0,"default/00",100,0,0,"???","The Excitatron 6000","",-1,0,"u5c1",True,False,False
 730,"",0,0,0,1,0,"n5r2/00",400,-100,-100,"The World Unsundered","The Stagnant Limbo","",-1,0,"n5r2",True,False,False
 731,"",0,0,0,1,0,"n5r4/00",400,-100,-100,"The World Unsundered","The Sanguine Limbo","",-1,0,"n5r4",True,False,False
 732,"The Next Ship to Sail",16,1,0,3,485,"region/11",100,0,0,"The Northern Empty","The Northern Empty","",-1,0,,True,False,False

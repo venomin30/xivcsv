@@ -1105,6 +1105,7 @@ Are you certain you wish to proceed?",0,0,0,True,False
 197761,1052,14,0,0,0,0,"CmnDefHousingObject_00141","Icebox",False,"",0,0,0,True,False
 197762,1053,13,0,0,0,0,,"Red Brick Counter",False,"",0,0,0,True,False
 197763,1054,14,0,0,0,0,,"Necrologos Transcription",False,"",0,0,0,True,False
+197764,1055,12,0,0,0,0,,"Loft Bed",False,"",0,0,0,True,False
 197765,1056,14,7,68,0,0,"CmnDefHousingDish_00213","Hand-poured Coffee",True,"",9,4,11,True,False
 197766,1057,13,0,0,0,0,,"Back Bar",False,"",0,0,0,True,False
 197767,1058,14,7,69,0,0,"CmnDefHousingDish_00213","Pixie Apple Basket",True,"",9,4,11,True,False
@@ -1122,7 +1123,10 @@ Are you certain you wish to proceed?",0,0,0,True,False
 197780,1070,14,0,0,0,0,,"Season Nineteen Lone Wolf Trophy",False,"",5,0,0,True,False
 197781,1071,14,0,0,0,0,,"Season Twenty Lone Wolf Trophy",False,"",5,0,0,True,False
 197782,1072,14,10,0,52,0,"HouFurOrchestrion_00330","Orchestrion Phonograph",False,"",0,0,0,True,False
+197783,1073,13,0,0,0,0,,"Shoe Rack",False,"",0,0,0,True,False
+197784,1074,15,0,0,0,0,,"Ivy Mural",False,"",0,0,0,True,False
 197785,1075,14,0,0,0,0,,"Table Mat",False,"",0,0,0,True,False
+197786,1076,14,0,0,0,0,,"Matching Cushions",False,"",0,0,0,True,False
 197787,1077,12,0,0,0,0,,"Marimba",False,"",0,0,0,True,False
 197788,1078,12,0,0,0,0,,"Indoor Oriental Waterfall",False,"",0,0,0,True,False
 197789,1079,15,0,0,0,0,,"Round Wooden Loft",False,"",0,0,0,True,False
@@ -1131,15 +1135,19 @@ Are you certain you wish to proceed?",0,0,0,True,False
 197792,1082,13,0,0,0,0,,"Apothecary's Workbench",False,"",0,0,0,True,False
 197793,1083,14,0,0,0,0,,"Candlelit Sundries",False,"",0,0,0,True,False
 197794,1084,16,0,0,0,0,,"Fat Cat Rug",False,"",0,0,0,True,False
+197795,1085,14,0,0,0,0,,"Walnut Flower Vases",False,"",0,0,0,True,False
 197796,1086,14,7,71,0,0,"CmnDefHousingDish_00213","Fluffy Pancakes",True,"",9,4,11,True,False
 197797,1087,14,0,0,0,0,,"Stuffed Bom Boko",False,"",0,0,0,True,False
 197798,1088,15,0,0,0,0,,"Wooden Blinds",False,"",0,0,0,True,False
+197799,1089,12,0,0,0,0,,"Dance Pole",False,"",5,0,0,True,False
 197800,1090,15,0,0,0,0,,"Antique Wall Shelf",False,"",0,0,0,True,False
 197801,1091,14,0,0,0,0,,"Wooden Bin",False,"",0,0,0,True,False
+197802,1092,15,0,0,0,0,,"Imitation Wooden Skylight",False,"",0,0,0,True,False
 197803,1093,13,0,0,0,0,,"Square Niche Partition",False,"",0,0,0,True,False
 197804,1094,15,0,0,0,0,,"Pendant Wall Light",False,"",0,0,0,True,False
 197805,1095,14,0,0,90,0,,"Trophy of Eternal Darkness",False,"",0,0,0,True,False
 197806,1096,14,0,0,91,0,,"Trophy of Divine Light",False,"",0,0,0,True,False
+197809,1099,14,7,72,0,0,"CmnDefHousingDish_00213","New World Burrito Lunch",True,"",9,4,11,True,False
 197810,1100,14,0,0,0,0,,"Hannish Silk Rack",False,"",5,0,0,True,False
 197811,1101,14,0,0,0,0,,"Ancient Lamp",False,"",5,0,0,True,False
 197812,1102,15,0,0,0,0,,"Labyrinthos Warning Sign",False,"",5,0,0,True,False

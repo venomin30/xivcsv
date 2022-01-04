@@ -177,7 +177,7 @@ int32,BNpcBase,byte,BNpcName,uint16
 173,"BNpcBase#13969",1,"ü-u-ü-u",0
 174,"BNpcBase#13789",2,"hulder",0
 175,"BNpcBase#13790",2,"Storsie",0
-176,"BNpcBase#13834",3,"",0
+176,"BNpcBase#13834",3,"Burfurlur the Canny",583
 177,"BNpcBase#13938",1,"Ker shroud",0
 178,"BNpcBase#13938",1,"Ker shroud",0
 179,"BNpcBase#13938",1,"Ker shroud",0
@@ -187,7 +187,7 @@ int32,BNpcBase,byte,BNpcName,uint16
 183,"BNpcBase#13971",1,"Iravati",0
 184,"BNpcBase#13759",2,"Yilan",0
 185,"BNpcBase#13820",2,"Sugriva",0
-186,"BNpcBase#13936",3,"",574
+186,"BNpcBase#13936",3,"sphatika",574
 187,"BNpcBase#13938",1,"Ker shroud",0
 188,"BNpcBase#13938",1,"Ker shroud",0
 189,"BNpcBase#13938",1,"Ker shroud",0

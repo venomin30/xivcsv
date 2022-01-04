@@ -274,7 +274,7 @@ int32,SpecialShop
 46.3,"Materia"
 47.0,"Fieldcraft Fiend Gear (IL 440)"
 47.1,"Professional Gear (IL 470)"
-47.2,"Landsaint's Gear (IL 500)"
+47.2,"Landsaint Gear (IL 500)"
 48.0,"Bait/Miscellany"
 48.1,"Materials"
 48.2,"Folklore Items"
@@ -293,7 +293,7 @@ int32,SpecialShop
 50.3,"White Scrip Exchange (Lv. 60 Materials/Tokens)"
 50.4,"White Scrip Exchange (Lv. 70 Materials)"
 50.5,"White Scrip Exchange (Lv. 80 Materials)"
-50.6,
+50.6,"Purple Scrip Exchange (Lv. 90 Materials)"
 51.0,"White Scrip Exchange (Lv. 58/IL 130)"
 51.1,"White Scrip Exchange (Lv. 60/IL 200)"
 51.2,"White Scrip Exchange (Lv. 70/IL 330)"
@@ -327,7 +327,7 @@ int32,SpecialShop
 56.3,"White Scrip Exchange (Lv. 60 Materials/Tokens)"
 56.4,"White Scrip Exchange (Lv. 70 Materials)"
 56.5,"White Scrip Exchange (Lv. 80 Materials)"
-56.6,
+56.6,"Purple Scrip Exchange (Lv. 90 Materials)"
 57.0,"White Scrip Exchange (Lv. 58/IL 130)"
 57.1,"White Scrip Exchange (Lv. 60/IL 200)"
 57.2,"White Scrip Exchange (Lv. 70/IL 330)"
@@ -357,7 +357,7 @@ int32,SpecialShop
 60.3,"White Scrip Exchange (Lv. 60 Materials/Tokens)"
 60.4,"White Scrip Exchange (Lv. 70 Materials)"
 60.5,"White Scrip Exchange (Lv. 80 Materials)"
-60.6,
+60.6,"Purple Scrip Exchange (Lv. 90 Materials)"
 61.0,"White Scrip Exchange (Lv. 58/IL 130)"
 61.1,"White Scrip Exchange (Lv. 60/IL 200)"
 61.2,"White Scrip Exchange (Lv. 70/IL 330)"

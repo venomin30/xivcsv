@@ -195,10 +195,10 @@ int32,YardCatalogCategory,Item,uint16
 191,"Plants","Eastern Wisteria",550
 192,"Ponds/Fountains","Il Mheg Garden Fountain",600
 193,"Chairs ","Hanging Bench",600
-194,"Plants","",0
-195,"Plants","",0
-196,"Plants","",0
-197,"Plants","",0
+194,"Plants","Coldbare Tree",600
+195,"Ponds/Fountains","Poroggo Lawn Ornament",600
+196,"Miscellaneous","Miniature Antique Clock Tower",600
+197,"Miscellaneous","Shirogane Pinwheel",600
 198,"Interactive Furnishings","Thavnairian Striking Dummy",600
 199,"Miscellaneous","Garlean Containers",600
 200,"Lighting","Sharlayan Lamppost",600
