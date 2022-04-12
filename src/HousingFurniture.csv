@@ -1147,6 +1147,8 @@ Are you certain you wish to proceed?",0,0,0,True,False
 197804,1094,15,0,0,0,0,,"Pendant Wall Light",False,"",0,0,0,True,False
 197805,1095,14,0,0,90,0,,"Trophy of Eternal Darkness",False,"",0,0,0,True,False
 197806,1096,14,0,0,91,0,,"Trophy of Divine Light",False,"",0,0,0,True,False
+197807,1097,12,0,0,0,0,,"Log Rack",False,"",0,0,0,True,False
+197808,1098,13,0,0,0,0,,"Classic Dresser",False,"",0,0,0,True,False
 197809,1099,14,7,72,0,0,"CmnDefHousingDish_00213","New World Burrito Lunch",True,"",9,4,11,True,False
 197810,1100,14,0,0,0,0,,"Hannish Silk Rack",False,"",5,0,0,True,False
 197811,1101,14,0,0,0,0,,"Ancient Lamp",False,"",5,0,0,True,False
@@ -1159,3 +1161,44 @@ Are you certain you wish to proceed?",0,0,0,True,False
 197818,990,15,0,0,0,0,,"Deluxe Unmelting Ice Loft",False,"",3,0,0,True,False
 197819,870,14,0,0,0,0,,"Deluxe Handmade Akabeko",False,"",3,0,0,True,False
 197820,988,14,0,0,0,0,,"Deluxe Stuffed Kupka Kupp",False,"",3,0,0,True,False
+197821,1107,12,0,0,0,0,,"Indoor Marble Fountain",False,"",0,0,0,True,False
+197822,1108,13,0,0,0,0,,"",False,"",0,0,0,True,False
+197825,1111,15,0,0,0,0,,"Kweh-kweh Clock",False,"",0,0,0,True,False
+197826,1112,15,0,0,0,0,,"Small Blackboard",False,"",0,0,0,True,False
+197827,1113,12,0,0,0,0,,"Eastern Canopy Bed",False,"",0,0,0,True,False
+197828,1114,14,7,73,0,0,"CmnDefHousingDish_00213","Wondrous Parfait",True,"",9,4,11,True,False
+197829,1115,12,0,0,0,0,,"Eulmoran Divan",False,"",0,0,0,True,False
+197831,1117,15,0,0,0,0,,"Ivy Curtain",False,"",0,0,0,True,False
+197832,1118,15,0,0,0,0,,"Luminous Wooden Loft",False,"",0,0,0,True,False
+197833,1119,13,0,0,0,0,,"Riviera Swinging-door Counter",False,"",0,0,0,True,False
+197842,1128,15,0,0,0,0,,"Emperor Portrait",False,"",5,0,0,True,False
+197843,1129,15,0,0,0,0,,"Ironworks Tool Set",False,"",0,0,0,True,False
+197844,584,12,0,0,0,0,,"Trick Bookshelf Partition",False,"",0,0,0,True,False
+197846,1132,12,0,0,0,0,,"Factory Pillar",False,"",0,0,0,True,False
+197850,1136,12,0,0,0,0,,"Curved Marble Partition",False,"",0,0,0,True,False
+197853,1139,13,0,0,0,0,,"Alpine Cabinet",False,"",0,0,0,True,False
+197854,1140,14,0,0,0,0,,"Eggsemplary Basket",False,"",5,0,0,True,False
+197855,1141,13,0,0,0,0,,"Indoor Climbing Frame",False,"",5,0,0,True,False
+197856,1142,13,0,0,0,0,"CmnDefHousingObject_00141","Steel Locker",False,"",0,0,0,True,False
+197857,1143,12,0,0,0,0,"CmnDefHousingObject_00141","",False,"",0,0,0,True,False
+197864,1154,15,0,0,0,0,,"Alpine Wall Lantern",False,"",0,0,0,True,False
+197865,1155,14,0,0,0,0,,"Astrologicum Star Map",False,"",0,0,0,True,False
+197866,1156,15,0,0,0,0,,"Imitation Alpine Window",False,"",0,0,0,True,False
+197867,1157,13,0,0,0,0,,"House Fortemps Fireplace",False,"",0,0,0,True,False
+197868,1158,16,0,0,0,0,,"Alpine Doormat",False,"",0,0,0,True,False
+197869,1159,13,0,0,0,0,,"Cathedral Lectern",False,"",0,0,0,True,False
+197870,1160,13,0,0,0,0,,"Scholasticate Table",False,"",0,0,0,True,False
+197871,1161,12,0,0,0,0,,"Scholasticate Chair",False,"",0,0,0,True,False
+197872,1162,12,0,0,0,0,,"Scholasticate Bookshelf",False,"",0,0,0,True,False
+197873,1163,14,0,0,92,0,,"Bluefeather Astrolabos",False,"",0,0,0,True,False
+197874,1164,12,0,0,0,0,,"Royal Menagerie Phasmascape",False,"",0,0,0,True,False
+197875,1165,12,0,0,0,0,,"Sea of Clouds Phasmascape",False,"",0,0,0,True,False
+197879,1169,14,0,0,0,0,,"Moogle Balloon",False,"",5,0,0,True,False
+197881,1171,15,0,0,0,0,,"Hatching-tide Mobile",False,"",5,0,0,True,False
+197882,1172,15,0,0,0,0,,"Azure Banner of Conflict",False,"",5,0,0,True,False
+197883,1173,15,0,0,0,0,,"Crimson Banner of Conflict",False,"",5,0,0,True,False
+197884,1027,14,7,64,0,0,"CmnDefHousingDish_00213","Authentic Hatching-tide Confections",True,"",7,4,11,True,False
+197885,1068,14,0,0,0,0,,"Authentic Archon Egg Pouch",False,"",3,0,0,True,False
+197886,1028,14,7,65,0,0,"CmnDefHousingDish_00213","Authentic Costa del Hielo",True,"",7,4,11,True,False
+197887,1030,14,7,66,0,0,"CmnDefHousingDish_00213","Authentic Grilled Corn",True,"",7,4,11,True,False
+197888,1021,12,0,0,0,0,,"Authentic White Tiger",False,"",3,0,0,True,False

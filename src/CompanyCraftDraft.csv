@@ -33,7 +33,8 @@ int32,str,CompanyCraftDraftCategory,Item,byte,Item,byte,Item,byte,uint32
 29,"submersible prototype V","Airships & Submersibles","Aetherochemical Fiber",14,"Balsa Wood Lumber",4,"Bamboo Weave",4,11
 30,"submersible prototype VI","Airships & Submersibles","Cocobolo Lumber",18,"Synthetic Fiber",8,"Balsa Wood Scrap",8,12
 31,"half-timbered house prototype","Housing","Synthetic Resin",18,"Pelagic Clay",10,"Cocobolo Lumber",8,10
-32,"anvil house prototype","Housing","Synthetic Resin",18,"Pelagic Clay",10,"Cocobolo Lumber",8,10
+32,"smithy prototype","Housing","Synthetic Resin",18,"Pelagic Clay",10,"Cocobolo Lumber",8,10
 33,"florist prototype","Housing","Synthetic Resin",18,"Pelagic Clay",10,"Cocobolo Lumber",8,10
 34,"forge prototype","Housing","Synthetic Resin",18,"Pelagic Clay",10,"Cocobolo Lumber",8,10
 35,"cafe prototype","Housing","Synthetic Resin",18,"Pelagic Clay",10,"Cocobolo Lumber",8,10
+36,"gingerbread house prototype","Housing","Pelagic Clay",18,"Basaltic Clay",10,"Cocobolo Lumber",8,10

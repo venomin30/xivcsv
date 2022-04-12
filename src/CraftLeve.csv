@@ -18,7 +18,7 @@ int32,Leve,CraftLeveTalk,byte,Item,uint16,Item,uint16,Item,uint16,Item,uint16
 917518,"Polearms Aplenty","CraftLeveTalk#5",2,"Iron Spear",1,"",0,"",0,"",0
 917519,"Wall Not Found","CraftLeveTalk#5",0,"Walnut Lumber",1,"",0,"",0,"",0
 917520,"Hands On","CraftLeveTalk#5",0,"Fingerless Goatskin Gloves",1,"",0,"",0,"",0
-917521,"Packing a Punch","CraftLeveTalk#5",2,"Hard Leather Cesti",1,"",0,"",0,"",0
+917521,"Packing a Punch","CraftLeveTalk#5",2,"Goatskin Cesti",1,"",0,"",0,"",0
 917522,"Open to Attack","CraftLeveTalk#5",0,"Goatskin Jacket",1,"",0,"",0,"",0
 917523,"Citizens' Canes","CraftLeveTalk#6",0,"Ash Radical",1,"",0,"",0,"",0
 917524,"On the Move","CraftLeveTalk#6",0,"Ragstone Grinding Wheel",1,"",0,"",0,"",0
@@ -917,7 +917,7 @@ int32,Leve,CraftLeveTalk,byte,Item,uint16,Item,uint16,Item,uint16,Item,uint16
 918417,"There Can Be Only One","CraftLeveTalk#32",2,"Highland Perch",3,"",0,"",0,"",0
 918418,"Lighter Wallets","CraftLeveTalk#32",0,"Glass Manta",9,"",0,"",0,"",0
 918419,"In a Pickle","CraftLeveTalk#32",0,"Eastern Sea Pickle",9,"",0,"",0,"",0
-918420,"Perhaps Not-So-Common","CraftLeveTalk#32",2,"Common Whelk",9,"",0,"",0,"",0
+918420,"Perhaps Not-so-common","CraftLeveTalk#32",2,"Common Whelk",9,"",0,"",0,"",0
 918421,"Catfish Scheme","CraftLeveTalk#32",0,"Longhair Catfish",3,"",0,"",0,"",0
 918422,"Curtains for Pleco","CraftLeveTalk#32",0,"Curtain Pleco",3,"",0,"",0,"",0
 918423,"Marooned Minnow","CraftLeveTalk#32",2,"Tail Mountains Minnow",3,"",0,"",0,"",0

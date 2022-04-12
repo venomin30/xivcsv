@@ -100,8 +100,8 @@ int32,bit&01,byte,LogMessage,byte
 96,True,0,"Cannot execute at this time.",200
 97,True,0,"Unable to execute command while wearing a guise.",200
 98,True,66,"Unable to execute command while recruiting for a non-cross-world party.",220
-99,False,0,"",0
-100,False,0,"",0
+99,True,0,"Command unavailable in this location.",220
+100,False,0,"Unable to execute command while editing a portrait.",220
 101,False,0,"",0
 102,False,0,"",0
 103,False,0,"",0

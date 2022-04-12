@@ -197,7 +197,7 @@ int32,str,Image,ClassJob,byte,Quest,int16,ClassJobCategory,byte
 193,"Enhanced GP Regeneration","ui/icon/005000/005469.tex","botanist",70,"Edgyth's Winning Streak",1,"BTN",0
 194,"Enhanced GP Regeneration","ui/icon/005000/005498.tex","fisher",70,"Farewell, and Thanks for the Fish",1,"FSH",0
 195,"Enhanced Jolt","ui/icon/006000/006201.tex","red mage",62,,0,"RDM",0
-196,"Secret of the Lily","ui/icon/005000/005335.tex","white mage",52,"A Journey of Purification",20,"WHM",0
+196,"Secret of the Lily","ui/icon/005000/005335.tex","white mage",52,"A Journey of Purification",0,"WHM",0
 197,"Enhanced Intelligence",,"adventurer",0,,0,"",0
 198,"Enhanced Intelligence II",,"adventurer",0,,0,"",0
 199,"Enhanced Intelligence III",,"adventurer",0,,0,"",0
@@ -517,13 +517,13 @@ int32,str,Image,ClassJob,byte,Quest,int16,ClassJobCategory,byte
 513,"Tornado Kick Mastery","ui/icon/005000/005247.tex","monk",90,,0,"MNK",0
 514,"Enhanced Ikishoten","ui/icon/006000/006157.tex","samurai",90,,0,"SAM",0
 515,"Adept Assassination","ui/icon/005000/005420.tex","ninja",56,"Medieval Espionage",0,"NIN",0
-516,"Melee Mastery","ui/icon/006000/006801.tex","ninja",84,,0,"NIN",0
+516,"Melee Mastery","ui/icon/006000/006801.tex","ninja",74,,0,"NIN",0
 517,"Marksman's Mastery","ui/icon/006000/006801.tex","machinist",84,,0,"MCH",0
 518,"Melee Mastery","ui/icon/006000/006801.tex","monk",84,,0,"MNK",0
 519,"Fuga Mastery","ui/icon/006000/006158.tex","samurai",86,,0,"SAM",0
-520,"",,"adventurer",0,,0,"",0
-521,"",,"adventurer",0,,0,"",0
-522,"",,"adventurer",0,,0,"",0
+520,"Way of the Samurai","ui/icon/006000/006801.tex","samurai",66,,0,"SAM",0
+521,"Way of the Samurai II","ui/icon/006000/006802.tex","samurai",84,,0,"SAM",0
+522,"Melee Mastery II","ui/icon/006000/006802.tex","ninja",84,,0,"NIN",0
 523,"",,"adventurer",0,,0,"",0
 524,"",,"adventurer",0,,0,"",0
 525,"",,"adventurer",0,,0,"",0

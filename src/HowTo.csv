@@ -69,7 +69,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 65,"Combos",True,"ui/icon/151000/en/151401.tex","ui/icon/151000/en/151402.tex","ui/icon/151000/en/151403.tex","ui/icon/151000/en/151404.tex","","","","","","","Battle",4
 66,"FATE Rewards",True,"ui/icon/150000/en/150661.tex","ui/icon/150000/en/150662.tex","","","","","","","","","Duty",2
 67,"Tradecraft Leves",True,"ui/icon/150000/en/150671.tex","","","","","","","","","","Levequests",11
-68,"Completing Tradecraft Leves",True,"ui/icon/150000/en/150681.tex","","","","","ui/icon/150000/en/150682.tex","","","","","Levequests",12
+68,"Completing Leves",True,"ui/icon/150000/en/150681.tex","","","","","ui/icon/150000/en/150682.tex","","","","","Levequests",12
 69,"Fieldcraft Leves",True,"ui/icon/150000/en/150691.tex","ui/icon/150000/en/150692.tex","","","","","","","","","Levequests",13
 70,"Completing Fieldcraft Leves",True,"ui/icon/150000/en/150701.tex","ui/icon/150000/en/150702.tex","","","","","","","","","Levequests",14
 71,"Guildhests",True,"ui/icon/150000/en/150711.tex","ui/icon/150000/en/150712.tex","","","","","","","","","Duty",11
@@ -104,7 +104,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 100,"Meld Requests",True,"ui/icon/151000/en/151321.tex","ui/icon/151000/en/151322.tex","ui/icon/151000/en/151323.tex","","","","","","","","Gear",23
 101,"Untradable Items",True,"ui/icon/151000/en/151051.tex","","","","","","","","","","Items",4
 102,"Using Items",True,"ui/icon/151000/en/151061.tex","ui/icon/151000/en/151062.tex","","","","ui/icon/151000/en/151061.tex","ui/icon/151000/en/151064.tex","","","","Items",1
-103,"Using the Duty Finder",True,"ui/icon/151000/en/151191.tex","ui/icon/151000/en/151192.tex","ui/icon/151000/en/151193.tex","","","","","","","","Duty",22
+103,"",False,"","","","","","","","","","","None",0
 104,"Adding Members",True,"ui/icon/151000/en/151201.tex","","","","","","","","","","Duty",23
 105,"Finding Mineral Deposits",True,"ui/icon/151000/en/151071.tex","ui/icon/151000/en/151072.tex","ui/icon/151000/en/151073.tex","","","","","","","","Gathering",1
 106,"Quarrying",True,"ui/icon/151000/en/151081.tex","ui/icon/151000/en/151082.tex","","","","","","","","","Gathering",13
@@ -131,17 +131,17 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 127,"Umbral Ice & Astral Fire",True,"ui/icon/151000/en/151411.tex","ui/icon/151000/en/151412.tex","ui/icon/151000/en/151413.tex","ui/icon/151000/en/151414.tex","","","","","","","Battle",6
 128,"Pugilist Forms",True,"ui/icon/151000/en/151421.tex","ui/icon/151000/en/151422.tex","ui/icon/151000/en/151423.tex","ui/icon/151000/en/151424.tex","","","","","","","Battle",5
 129,"Pets",True,"ui/icon/151000/en/151431.tex","ui/icon/151000/en/151432.tex","ui/icon/151000/en/151433.tex","ui/icon/151000/en/151435.tex","","ui/icon/151000/en/151431.tex","ui/icon/151000/en/151436.tex","ui/icon/151000/en/151433.tex","ui/icon/151000/en/151435.tex","","Battle",7
-130,"The Wolves' Den",True,"ui/icon/151000/en/151211.tex","","","","","","","","","","Duty",31
+130,"Crystalline Conflict",True,"ui/icon/151000/en/151211.tex","","","","","","","","","","Duty",31
 131,"Quest Battles",True,"ui/icon/151000/en/151481.tex","ui/icon/151000/en/151482.tex","ui/icon/151000/en/151483.tex","","","","","","","","Battle",15
 132,"Achievements",True,"ui/icon/151000/en/151491.tex","ui/icon/151000/en/151492.tex","","","","","","","","","Adventuring Basics",14
 133,"Recommended Duties",True,"ui/icon/151000/en/151341.tex","ui/icon/151000/en/151342.tex","","","","","","","","","Quests",16
-134,"The Duty Finder",True,"ui/icon/151000/en/151181.tex","","","","","ui/icon/151000/en/151181.tex","","","","","Duty",21
+134,"",False,"","","","","","","","","","","None",0
 135,"Fishing",True,"ui/icon/151000/en/151311.tex","ui/icon/151000/en/151312.tex","","","","","","","","","Fishing",2
 136,"Armoury Bonus",True,"ui/icon/151000/en/151441.tex","ui/icon/151000/en/151442.tex","","","","","","","","","Battle",14
 137,"Allagan Tomestones",True,"ui/icon/151000/en/151451.tex","ui/icon/151000/en/151452.tex","","","","","","","","","Items",6
 138,"Using Items on Areas",True,"ui/icon/151000/en/151471.tex","","","","","ui/icon/151000/en/151472.tex","","","","","Quests",7
 139,"Using Key Items on Targets",True,"ui/icon/151000/en/151501.tex","ui/icon/151000/en/151502.tex","","","","ui/icon/151000/en/151504.tex","ui/icon/151000/en/151502.tex","","","","Quests",8
-140,"Instanced Raids",True,"ui/icon/151000/en/151511.tex","ui/icon/151000/en/151512.tex","","","","","","","","","Duty",3
+140,"",False,"","","","","","","","","","","None",0
 141,"PvP Rewards",True,"ui/icon/151000/en/151531.tex","ui/icon/151000/en/151532.tex","ui/icon/151000/en/151533.tex","","","ui/icon/151000/en/151531.tex","ui/icon/151000/en/151532.tex","ui/icon/151000/en/151534.tex","","","Duty",32
 142,"",False,"","","","","","","","","","","None",0
 143,"Housing",True,"ui/icon/151000/en/151551.tex","ui/icon/151000/en/151552.tex","ui/icon/151000/en/151553.tex","ui/icon/151000/en/151554.tex","","","","","","","Adventuring Basics",16
@@ -284,3 +284,8 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 280,"Fish Population (Spearfishing)",True,"ui/icon/152000/en/152901.tex","ui/icon/152000/en/152902.tex","","","","","","","","","Fishing",33
 281,"",False,"","","","","","","","","","","None",0
 282,"",False,"","","","","","","","","","","None",0
+283,"",False,"","","","","","","","","","","None",0
+284,"",False,"","","","","","","","","","","None",0
+285,"",False,"","","","","","","","","","","None",0
+286,"",False,"","","","","","","","","","","None",0
+287,"",False,"","","","","","","","","","","None",0

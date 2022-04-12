@@ -23,3 +23,8 @@ int32,uint16,Action,Action,uint16
 19,437,"Manipulation","Name of the Wind",34
 20,0,"Manipulation","Name of Fire",34
 21,436,"","Name of Ice",34
+22,461,"Manipulation","Collectable Synthesis",210
+23,0,"Manipulation","Collectable Synthesis",210
+24,461,"Manipulation","Collectable Synthesis",34
+25,0,"Name of Water","Collectable Synthesis",34
+26,461,"Manipulation","Collectable Synthesis",210

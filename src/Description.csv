@@ -19,3 +19,5 @@ int32,Quest,str,str,str,bit&01,DescriptionSection
 3604495,,"","","",True,"Introduction"
 3604496,,"Resistance Honors","Resistance Honors","",True,"Resistance Honors"
 3604497,,"Zadnor","Zadnor","",True,"Overview"
+3604498,,"PvP","PvP","",True,"PvP"
+3604499,,"Crystalline Conflict","Crystalline Conflict","",True,"Crystalline Conflict"

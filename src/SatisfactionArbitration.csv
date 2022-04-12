@@ -18,3 +18,8 @@ int32,byte,SatisfactionNpc,Quest,byte
 5.1,4,"Kurenai","Those Who Serve",1
 5.2,4,"Kurenai","Those Who Serve",2
 5.3,4,"Charlemend","Those Who Serve",3
+6.0,4,"Ehll Tou","",0
+6.1,4,"Charlemend","",3
+7.0,4,"Ehll Tou","",0
+7.1,4,"Kurenai","",1
+7.2,4,"Charlemend","",3

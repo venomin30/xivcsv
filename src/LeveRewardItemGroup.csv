@@ -285,7 +285,7 @@ int32,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool
 281,"Iron Lance",1,False,"Iron Guisarme",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 282,"Elm Longbow",1,False,"Elm Velocity Bow",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 283,"Iron Shortsword",1,False,"Iron Spatha",1,False,"Carnage Sword",1,False,"Iron Scutum",1,False,"Iron Lantern Shield",1,False,"",0,False,"",0,False,"",0,False,"",0,False
-284,"Hard Leather Cesti",1,False,"Spiked Knuckles",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+284,"Goatskin Cesti",1,False,"Spiked Knuckles",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 285,"Inferno Axe",1,False,"Iron Bill",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 286,"Staghorn Staff",1,False,"Wind Brand",1,False,"Ironclad Bronze Buckler",1,False,"Sanguine Horn Staff",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 287,"Engraved Hard Leather Grimoire",1,False,"Yew Picatrix",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False

@@ -9,8 +9,8 @@ int32,MapCondition,byte,byte,sbyte,byte,uint16,str,uint16,int16,int16,PlaceName,
 5,"",2,6,0,1,6,"f1f2/00",100,0,0,"The Black Shroud","East Shroud","",0,1048574,"f1f2",False,False,False
 6,"",2,7,0,1,7,"f1f3/00",100,0,0,"The Black Shroud","South Shroud","",1,131070,"f1f3",False,False,False
 7,"",2,8,0,1,8,"f1f4/00",100,0,0,"The Black Shroud","North Shroud","",2,131070,"f1f4",False,False,False
-8,"",2,9,0,1,10,"f1d1/00",300,0,0,"The Black Shroud","The Tam-Tara Deepcroft","",1,4094,"f1d1",True,False,False
-9,"",2,10,0,1,21,"f1r1/00",200,0,0,"The Black Shroud","The Thousand Maws of Toto-Rak","",2,16382,"f1r1",True,False,False
+8,"",2,9,0,1,10,"f1d1/00",300,0,0,"The Black Shroud","The Tam-Tara Deepcroft","",1,4094,"f1d1_re",True,False,False
+9,"",2,10,0,1,21,"f1r1/00",200,0,0,"The Black Shroud","The Thousand Maws of Toto-Rak","",2,16382,"f1r1_re",True,False,False
 10,"",0,0,0,1,0,"default/00",100,0,0,"???","Mordion Gaol","",-1,0,"z1ea",True,True,False
 11,"",1,2,0,1,71,"s1t1/01",200,0,0,"La Noscea","Limsa Lominsa Upper Decks","",-1,0,"s1t1",True,False,False
 12,"",1,3,0,1,72,"s1t2/01",200,0,0,"La Noscea","Limsa Lominsa Lower Decks","",-1,0,"s1t2",True,False,False
@@ -32,32 +32,32 @@ int32,MapCondition,byte,byte,sbyte,byte,uint16,str,uint16,int16,int16,PlaceName,
 28,"",0,0,0,1,69,"f1ti/00",800,0,0,"The Black Shroud","The Roost","",-1,0,"f1ti",True,False,False
 29,"",0,0,0,1,0,"default/00",200,0,0,"","","",-1,0,"",True,False,False
 30,"",1,11,0,1,79,"s1f6/00",100,0,0,"La Noscea","Outer La Noscea","",10,510,"s1f6",True,False,False
-31,"",1,12,0,1,80,"s1d1/00",200,0,0,"La Noscea","Sastasha","",11,4094,"s1d1",True,False,False
+31,"",1,12,0,1,80,"s1d1/00",200,0,0,"La Noscea","Sastasha","",11,4094,"s1d1_re",True,False,False
 32,"",1,14,0,1,82,"s1d3/00",200,0,0,"La Noscea","The Wanderer's Palace","",12,1022,"s1d3",True,False,False
-33,"",0,0,0,1,0,"s1fa/00",400,0,0,"La Noscea","The Navel","",-1,0,"s1fa",True,False,False
-34,"",3,11,1,1,44,"w1d1/01",200,0,0,"Thanalan","Copperbell Mines","Ground Level",13,6,"w1d1",True,False,False
-35,"",0,0,0,1,0,"w1fa/00",400,0,0,"Thanalan","Bowl of Embers","",-1,0,"w1fa",True,False,False
+33,"",0,0,0,1,0,"s1fa/00",400,0,0,"La Noscea","The Navel","",-1,0,"s1fa_re",True,False,False
+34,"",3,11,1,1,44,"w1d1/01",200,0,0,"Thanalan","Copperbell Mines","Ground Level",13,6,"w1d1_re",True,False,False
+35,"",0,0,0,1,0,"w1fa/00",400,0,0,"Thanalan","Bowl of Embers","",-1,0,"w1fa_re",True,False,False
 36,"",0,0,0,1,0,"f1fa/00",400,0,0,"The Black Shroud","Thornmarch","",-1,0,"f1fa",True,False,False
-37,"",4,7,0,1,103,"r1d1/00",200,0,0,"Coerthas","Stone Vigil","",14,1022,"r1d1",True,False,False
+37,"",4,7,0,1,103,"r1d1/00",200,0,0,"Coerthas","Stone Vigil","",14,1022,"r1d1_re",True,False,False
 38,"",4,9,0,1,106,"r1r2/00",200,0,0,"Coerthas","Aurum Vale","",15,2046,"r1r2",True,False,False
-39,"",0,0,1,1,0,"r1fa/01",400,0,0,"Coerthas","The Howling Eye","",-1,0,"r1fa",True,False,False
-40,"",3,11,2,1,45,"w1d1/02",200,0,0,"Thanalan","Copperbell Mines","First Drop",13,16632,"w1d1",True,False,False
-41,"",3,11,3,1,46,"w1d1/03",200,0,0,"Thanalan","Copperbell Mines","B2",13,16128,"w1d1",True,False,False
+39,"",0,0,1,1,0,"r1fa/01",400,0,0,"Coerthas","The Howling Eye","",-1,0,"r1fa_re",True,False,False
+40,"",3,11,2,1,45,"w1d1/02",200,0,0,"Thanalan","Copperbell Mines","First Drop",13,16632,"w1d1_re",True,False,False
+41,"",3,11,3,1,46,"w1d1/03",200,0,0,"Thanalan","Copperbell Mines","B2",13,16128,"w1d1_re",True,False,False
 42,"",3,13,1,1,48,"w1d3/01",200,0,0,"Thanalan","The Sunken Temple of Qarn","Sanctum Entrance",7,2,"w1d3",False,False,False
 43,"",3,13,2,1,49,"w1d3/02",200,0,0,"Thanalan","The Sunken Temple of Qarn","Inner Sanctum",7,131068,"w1d3",False,False,False
 44,"",3,13,3,1,50,"w1d3/03",200,0,0,"Thanalan","The Sunken Temple of Qarn","Lower Sanctum",7,917504,"w1d3",False,False,False
-45,"",1,13,0,1,81,"s1d2/00",200,0,0,"La Noscea","Brayflox's Longstop","",16,65534,"s1d2",True,False,False
+45,"",1,13,0,1,81,"s1d2/00",200,0,0,"La Noscea","Brayflox's Longstop","",16,65534,"s1d2_re",True,False,False
 46,"",3,12,0,1,47,"w1d2/00",200,0,0,"Thanalan","Halatali","",17,1022,"w1d2",True,False,False
-47,"",0,0,0,1,51,"w1d4/00",200,0,0,"Thanalan","Castrum Meridianum","",18,65534,"w1d4",True,False,False
-48,"",2,11,2,1,12,"f1d2/01",200,0,0,"The Black Shroud","Haukke Manor","Ground Floor",8,510,"f1d2",False,False,False
+47,"",0,0,0,1,516,"w1d4/00",200,0,0,"Thanalan","Castrum Meridianum","",18,65534,"w1d4_re",True,False,False
+48,"",2,11,2,1,12,"f1d2/01",200,0,0,"The Black Shroud","Haukke Manor","Ground Floor",8,510,"f1d2_re",False,False,False
 49,"",2,12,1,1,14,"f1d3/01",200,0,0,"The Black Shroud","Amdapor Keep","Ground Floor",19,14,"f1d3",True,False,False
 50,"",4,8,1,1,104,"r1r1/01",200,0,0,"Coerthas","Dzemael Darkhold","Outer Hold",25,62,"r1r1",True,False,False
 51,"",1,5,0,1,83,"s1p1/00",400,-77,0,"La Noscea","Wolves' Den Pier","",-1,0,"s1p1",True,False,False
 52,"",3,14,1,1,63,"w1r1/01",200,0,0,"Thanalan","Cutter's Cry","The Dry Sands",20,158,"w1r1",True,False,False
 53,"",4,5,0,1,102,"r1f1/00",100,0,0,"Coerthas","Coerthas Central Highlands","",9,8388606,"r1f1",False,False,False
-54,"",2,11,1,1,11,"f1d2/02",200,0,0,"The Black Shroud","Haukke Manor","Second Floor",8,1966080,"f1d2",False,False,False
-55,"",2,11,3,1,13,"f1d2/03",200,0,0,"The Black Shroud","Haukke Manor","Cellarage",8,130560,"f1d2",False,False,False
-56,"",0,0,1,1,52,"w1d5/01",200,0,0,"Thanalan","The Praetorium","Sky Level",26,2,"w1d5",True,False,False
+54,"",2,11,1,1,11,"f1d2/02",200,0,0,"The Black Shroud","Haukke Manor","Second Floor",8,1966080,"f1d2_re",False,False,False
+55,"",2,11,3,1,13,"f1d2/03",200,0,0,"The Black Shroud","Haukke Manor","Cellarage",8,130560,"f1d2_re",False,False,False
+56,"",0,0,1,1,517,"w1d5/01",200,0,0,"Thanalan","The Praetorium","Sky Level",26,2,"w1d5_re",True,False,False
 57,"",0,0,0,1,87,"s1b1/00",200,0,0,"La Noscea","Upper Aetheroacoustic Exploratory Site","",21,254,"s1b1",True,False,False
 58,"",0,0,0,1,88,"s1b2/00",200,0,0,"La Noscea","Lower Aetheroacoustic Exploratory Site","",22,6,"s1b2",True,False,False
 59,"",0,0,0,1,92,"s1b4/00",200,0,0,"La Noscea","Ragnarok Drive Cylinder","",-1,0,"s1b4",True,False,False
@@ -100,12 +100,12 @@ int32,MapCondition,byte,byte,sbyte,byte,uint16,str,uint16,int16,int16,PlaceName,
 96,"",3,14,2,1,64,"w1r1/02",200,0,0,"Thanalan","Cutter's Cry","The Wet Sands",20,96,"w1r1",True,False,False
 97,"",3,14,3,1,65,"w1r1/03",200,0,0,"Thanalan","Cutter's Cry","The Blue Sands",20,1792,"w1r1",True,False,False
 98,"",0,0,2,1,293,"r1fa/02",400,0,0,"Coerthas","The Howling Eye","",-1,0,"r1fa_event",True,True,False
-99,"",0,0,2,1,53,"w1d5/02",200,0,0,"Thanalan","The Praetorium","Castrum Control",26,12,"w1d5",True,False,False
-100,"",0,0,3,1,54,"w1d5/03",200,0,0,"Thanalan","The Praetorium","Castrum Defense",26,48,"w1d5",True,False,False
-101,"",0,0,4,1,55,"w1d5/04",200,0,0,"Thanalan","The Praetorium","Main Level",26,832,"w1d5",True,False,False
-102,"",0,0,5,1,57,"w1d5/05",200,0,0,"Thanalan","The Praetorium","Ground Level",26,3072,"w1d5",True,False,False
-103,"",0,0,6,1,56,"w1d5/06",100,0,0,"Thanalan","The Praetorium","Research Level",26,61440,"w1d5",True,False,False
-104,"",0,0,7,1,0,"w1d5/07",100,0,0,"Thanalan","The Praetorium","",-1,0,"w1d5",True,False,False
+99,"",0,0,2,1,518,"w1d5/02",200,0,0,"Thanalan","The Praetorium","Castrum Control",26,28,"w1d5_re",True,False,False
+100,"",0,0,3,1,519,"w1d5/03",200,0,0,"Thanalan","The Praetorium","Castrum Defense",26,96,"w1d5_re",True,False,False
+101,"",0,0,4,1,520,"w1d5/04",200,0,0,"Thanalan","The Praetorium","Main Level",26,896,"w1d5_re",True,False,False
+102,"",0,0,0,1,57,"w1d5/05",200,0,0,"Thanalan","The Praetorium","Ground Level",-1,0,"w1d5_re",True,False,False
+103,"",0,0,5,1,521,"w1d5/06",100,0,0,"Thanalan","The Praetorium","Research Level",26,63488,"w1d5_re",True,True,False
+104,"",0,0,6,1,0,"w1d5/07",100,0,0,"Thanalan","The Praetorium","The Echelon",26,1024,"w1d5_re",True,False,False
 105,"",0,0,0,1,0,"l1f1/02",400,0,0,"Mor Dhona","Mor Dhona","",-1,0,"l1f1",True,True,False
 106,"",0,0,0,1,0,"default/00",100,0,0,"???","Eorzean Subterrane","",-1,0,"s1b7_2",True,False,False
 107,"",0,0,0,1,38,"w1e6/00",400,0,0,"Thanalan","The Waking Sands","",-1,0,"w1e6",True,True,False
@@ -350,7 +350,7 @@ int32,MapCondition,byte,byte,sbyte,byte,uint16,str,uint16,int16,int16,PlaceName,
 346,"",0,0,0,1,261,"z2r3/04",200,350,400,"Abalathia's Spine","","Hold Roof",76,16384,"z2r3",True,False,False
 347,"",0,0,0,1,0,"z2r3/05",200,-350,400,"Abalathia's Spine","","Unwhere",-1,0,"z2r3",True,False,False
 348,"",0,0,0,1,251,"f1p1/00",200,0,0,"The Black Shroud","Lichenweed","",-1,0,"",True,False,False
-349,"",0,0,0,1,251,"f1p2/00",200,0,0,"The Black Shroud","Lichenweed","",-1,0,"f1p2_1",True,False,False
+349,"",0,0,0,1,251,"f1p2/00",200,0,0,"The Black Shroud","Lichenweed","",-1,0,"",True,False,False
 350,"",7,14,1,1,262,"d2d8/01",200,128,-32,"Dravania","Sohm Al (Hard)","Betrayal",78,30,"d2d8",True,False,False
 351,"",7,14,2,1,263,"d2d8/02",200,-256,-192,"Dravania","Sohm Al (Hard)","The Veins",78,992,"d2d8",True,False,False
 352,"",7,14,3,1,264,"d2d8/03",200,-192,192,"Dravania","Sohm Al (Hard)","The Heart",78,15360,"d2d8",True,False,False
@@ -441,7 +441,7 @@ int32,MapCondition,byte,byte,sbyte,byte,uint16,str,uint16,int16,int16,PlaceName,
 437,"",0,0,0,1,298,"e3eb/00",400,-60,-46,"Othard","The Doman Enclave","",-1,0,"e3eb",True,True,False
 438,"",0,0,0,1,0,"e1i4/00",400,0,0,"Hingashi","Kobai Goten Apartment","",-1,0,"e1i4_2",True,False,False
 439,"",11,8,0,1,321,"e3d5/00",200,0,0,"Othard","Hells' Lid","",94,16382,"e3d5",True,False,False
-440,"",0,0,0,1,311,"l1p2/00",200,0,0,"Mor Dhona","Crystal Tower Training Grounds","",-1,0,"l1p2",True,False,False
+440,"",0,0,0,1,311,"l1p2/00",200,0,0,"Mor Dhona","Crystal Tower Training Grounds","",-1,0,"",True,False,False
 441,"",6,9,1,1,315,"a2d4/01",200,0,350,"Abalathia's Spine","The Fractal Continuum (Hard)","Central Complex",91,14,"a2d4",True,False,False
 442,"",6,9,2,1,316,"a2d4/02",200,237,-128,"Abalathia's Spine","The Fractal Continuum (Hard)","Starboard Complex",91,496,"a2d4",True,False,False
 443,"",6,9,3,1,317,"a2d4/03",200,0,-300,"Abalathia's Spine","The Fractal Continuum (Hard)","Rear Complex",91,32256,"a2d4",True,False,False
@@ -683,17 +683,17 @@ int32,MapCondition,byte,byte,sbyte,byte,uint16,str,uint16,int16,int16,PlaceName,
 679,"",4,4,1,1,463,"r1h1/01",200,0,0,"Coerthas","Empyreum","Empyreum",-1,0,"r1h1",True,False,False
 680,"",4,4,2,1,464,"r1h1/02",200,702,655,"Coerthas","Empyreum","Empyreum Subdivision",-1,0,"r1h1",True,False,False
 681,"",0,0,0,1,465,"r1i6/00",400,0,0,"Coerthas","Ingleside Apartment Lobby","",-1,0,"r1i6",True,False,False
-682,"",0,0,1,1,0,"r1i1/01",400,0,0,"Coerthas","Private Cottage - Empyreum","Ground Floor",-1,0,"",True,False,False
-683,"",0,0,2,1,0,"r1i1/02",400,0,0,"Coerthas","Private Cottage - Empyreum","Cellarage",-1,0,"",True,False,False
-684,"",0,0,2,1,0,"r1i2/01",400,0,0,"Coerthas","Private House - Empyreum","Ground Floor",-1,0,"",True,False,False
-685,"",0,0,1,1,0,"r1i2/02",400,0,0,"Coerthas","Private House - Empyreum","Second Floor",-1,0,"",True,False,False
-686,"",0,0,3,1,0,"r1i2/03",400,0,0,"Coerthas","Private House - Empyreum","Cellarage",-1,0,"",True,False,False
-687,"",0,0,2,1,0,"r1i3/01",400,0,0,"Coerthas","Private Mansion - Empyreum","Ground Floor",-1,0,"",True,False,False
-688,"",0,0,1,1,0,"r1i3/02",400,0,0,"Coerthas","Private Mansion - Empyreum","Second Floor",-1,0,"",True,False,False
-689,"",0,0,3,1,0,"r1i3/03",400,0,0,"Coerthas","Private Mansion - Empyreum","Cellarage",-1,0,"",True,False,False
-690,"",0,0,0,1,0,"r1i5/00",400,0,0,"Coerthas","Company Workshop - Empyreum","",-1,0,"",True,False,False
-691,"",0,0,0,1,0,"r1i4/00",400,0,0,"Coerthas","Private Chambers - Empyreum","",-1,0,"",True,False,False
-692,"",0,0,0,1,0,"r1i4/00",400,0,0,"Coerthas","Ingleside Apartment","",-1,0,"",True,False,False
+682,"",0,0,1,1,0,"r1i1/01",400,0,0,"Coerthas","Private Cottage - Empyreum","Ground Floor",-1,0,"r1i1",True,False,False
+683,"",0,0,2,1,0,"r1i1/02",400,0,0,"Coerthas","Private Cottage - Empyreum","Cellarage",-1,0,"r1i1",True,False,False
+684,"",0,0,2,1,0,"r1i2/01",400,0,0,"Coerthas","Private House - Empyreum","Ground Floor",-1,0,"r1i2",True,False,False
+685,"",0,0,1,1,0,"r1i2/02",400,0,0,"Coerthas","Private House - Empyreum","Second Floor",-1,0,"r1i2",True,False,False
+686,"",0,0,3,1,0,"r1i2/03",400,0,0,"Coerthas","Private House - Empyreum","Cellarage",-1,0,"r1i2",True,False,False
+687,"",0,0,2,1,0,"r1i3/01",400,0,0,"Coerthas","Private Mansion - Empyreum","Ground Floor",-1,0,"r1i3",True,False,False
+688,"",0,0,1,1,0,"r1i3/02",400,0,0,"Coerthas","Private Mansion - Empyreum","Second Floor",-1,0,"r1i3",True,False,False
+689,"",0,0,3,1,0,"r1i3/03",400,0,0,"Coerthas","Private Mansion - Empyreum","Cellarage",-1,0,"r1i3",True,False,False
+690,"",0,0,0,1,0,"r1i5/00",400,0,0,"Coerthas","Company Workshop - Empyreum","",-1,0,"r1i5",True,False,False
+691,"",0,0,0,1,0,"r1i4/00",400,0,0,"Coerthas","Private Chambers - Empyreum","",-1,0,"r1i4",True,False,False
+692,"",0,0,0,1,0,"r1i4/00",400,0,0,"Coerthas","Ingleside Apartment","",-1,0,"r1i4_2",True,False,False
 693,"",16,2,0,1,475,"k5t1/00",200,0,0,"The Northern Empty","Old Sharlayan","",-1,0,"k5t1",True,False,False
 694,"",17,2,0,1,476,"m5t1/00",200,0,0,"Ilsabard","Radz-at-Han","",-1,0,"m5t1",True,False,False
 695,"",16,3,0,1,477,"k5f1/00",100,0,0,"The Northern Empty","Labyrinthos","",30,2147483646,"k5f1",False,False,False
@@ -730,7 +730,7 @@ int32,MapCondition,byte,byte,sbyte,byte,uint16,str,uint16,int16,int16,PlaceName,
 726,"",17,6,4,1,495,"m5d2/04",200,-230,-250,"Ilsabard","The Tower of Babil","Palatial Sector",131,112,"m5d2",True,False,False
 727,"",17,6,5,1,496,"m5d2/05",200,0,100,"Ilsabard","The Tower of Babil","Auxiliary Sector",131,896,"m5d2",True,False,False
 728,"",0,0,0,1,497,"m5d2/06",200,0,400,"Ilsabard","The Tower of Babil","Anima's Dimension",-1,0,"m5d2",True,False,False
-729,"",0,0,0,1,0,"default/00",100,0,0,"???","The Excitatron 6000","",-1,0,"u5c1",True,False,False
+729,"",0,0,0,1,0,"default/00",100,0,0,"The Sea of Stars","The Excitatron 6000","",-1,0,"u5c1",True,False,False
 730,"",0,0,0,1,0,"n5r2/00",400,-100,-100,"The World Unsundered","The Stagnant Limbo","",-1,0,"n5r2",True,False,False
 731,"",0,0,0,1,0,"n5r4/00",400,-100,-100,"The World Unsundered","The Sanguine Limbo","",-1,0,"n5r4",True,False,False
 732,"The Next Ship to Sail",16,1,0,3,485,"region/11",100,0,0,"The Northern Empty","The Northern Empty","",-1,0,,True,False,False
@@ -753,7 +753,32 @@ int32,MapCondition,byte,byte,sbyte,byte,uint16,str,uint16,int16,int16,PlaceName,
 749,"",0,0,0,1,0,"default/00",100,0,0,"The World Unsundered","Propylaion","",-1,0,"n5e1",True,True,False
 750,"",0,0,0,1,479,"m5f2/00",100,0,0,"Ilsabard","Garlemald","",32,268435454,"m5f2",False,False,False
 751,"",0,0,0,1,481,"u5f2/00",100,0,0,"The Sea of Stars","Ultima Thule","",34,2147483646,"u5f2",False,True,False
-752,"",20,0,1,1,0,"m5d4/01",200,-15,-15,"Ilsabard","","",132,14,"",True,False,False
-753,"",20,0,2,1,0,"m5d4/02",200,0,-50,"Ilsabard","","",132,1008,"",True,False,False
-754,"",20,0,3,1,0,"m5d4/03",200,0,-15,"Ilsabard","","",132,64512,"",True,False,False
-755,"",0,0,0,0,0,"",100,0,0,"","","",-1,0,,True,False,False
+752,"",20,0,1,1,509,"m5d4/01",200,15,0,"Ilsabard","Alzadaal's Legacy","The Bhaflau Remnants",132,14,"m5d4",True,False,False
+753,"",20,0,2,1,510,"m5d4/02",200,0,50,"Ilsabard","Alzadaal's Legacy","The Arrapago Remnants",132,1008,"m5d4",True,False,False
+754,"",20,0,3,1,511,"m5d4/03",200,-15,0,"Ilsabard","Alzadaal's Legacy","The Zhayolm Remnants",132,64512,"m5d4",True,False,False
+755,"",99,5,1,1,512,"z5r1/01",200,-80,-550,"???","Aglaia","Heaven of Lightning",133,254,"z5r1",True,False,False
+756,"",99,5,2,1,513,"z5r1/02",200,750,650,"???","Aglaia","Heaven of Fire",133,7936,"z5r1",True,False,False
+757,"",99,5,3,1,514,"z5r1/03",200,-750,750,"???","Aglaia","The Twin Halls",133,8192,"z5r1",True,False,False
+758,"",0,0,0,1,0,"r1fz/01",400,-100,-100,"???","","",-1,0,"",True,False,False
+759,"",0,0,0,1,0,"s5p1/00",400,0,0,"???","The Palaistra","",-1,0,"s5p1",True,False,False
+760,"",0,0,0,1,0,"s5p2/00",400,0,0,"???","The Volcanic Heart","",-1,0,"s5p2",True,False,False
+761,"",0,0,0,1,0,"s5p3/00",400,0,0,"???","Cloud Nine","",-1,0,"s5p3",True,False,False
+762,"",0,0,0,1,0,"h1m2/00",100,0,0,"???","","",-1,0,"",True,False,False
+763,"",0,0,0,1,0,"w1d5/08",400,772,600,"Thanalan","Porta Decumana","",-1,0,"w1d5_battle",True,True,False
+764,"",0,0,0,1,0,"w1d5/09",400,704,-480,"Thanalan","The Porta Decumana","",-1,0,"w1d5_battle",True,True,False
+765,"",0,0,0,1,0,"r1fz/02",400,-100,-100,"???","","",-1,0,"",True,False,False
+766,"",0,0,0,1,515,"z5e1/00",400,0,0,"???","The Omphalos","",-1,0,"z5e1",True,True,False
+767,"",0,0,0,1,522,"k5e4/00",400,0,0,"The Northern Empty","Restricted Archives","",-1,0,"k5e4",True,True,False
+768,"",0,0,0,0,0,"",100,0,0,"","","",-1,0,,True,False,False
+769,"",0,0,0,0,0,"",100,0,0,"","","",-1,0,,True,False,False
+770,"",0,0,0,0,0,"",100,0,0,"","","",-1,0,,True,False,False
+771,"",0,0,0,0,0,"",100,0,0,"","","",-1,0,,True,False,False
+772,"",0,0,0,0,0,"",100,0,0,"","","",-1,0,,True,False,False
+773,"",0,0,0,0,0,"",100,0,0,"","","",-1,0,,True,False,False
+774,"",0,0,0,0,0,"",100,0,0,"","","",-1,0,,True,False,False
+775,"",0,0,0,0,0,"",100,0,0,"","","",-1,0,,True,False,False
+776,"",0,0,0,0,0,"",100,0,0,"","","",-1,0,,True,False,False
+777,"",0,0,0,0,0,"",100,0,0,"","","",-1,0,,True,False,False
+778,"",0,0,0,0,0,"",100,0,0,"","","",-1,0,,True,False,False
+779,"",0,0,0,0,0,"",100,0,0,"","","",-1,0,,True,False,False
+780,"",0,0,0,0,0,"",100,0,0,"","","",-1,0,,True,False,False

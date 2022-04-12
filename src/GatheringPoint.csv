@@ -3968,7 +3968,7 @@ int32,byte,byte,GatheringPointBase,byte,GatheringPointBonus,GatheringPointBonus,
 33964,2,0,"GatheringPointBase#831",6,"GatheringPointBonus#0","GatheringPointBonus#0","m5f2","Horrea Campi","Lv. 86"
 33965,2,0,"GatheringPointBase#832",6,"GatheringPointBonus#0","GatheringPointBonus#0","n5f1","The Twelve Wonders","Lv. 86"
 33966,2,0,"GatheringPointBase#833",6,"GatheringPointBonus#0","GatheringPointBonus#0","m5f1","Purusa","Lv. 86"
-33967,5,0,"GatheringPointBase#834",6,"GatheringPointBonus#245","GatheringPointBonus#0","m5f2","Juturna Platform G","Ilsabardian Mining Folklore"
+33967,5,0,"GatheringPointBase#834",6,"GatheringPointBonus#245","GatheringPointBonus#0","m5f2","Juturna Platform G","Northern Mining Folklore"
 33968,5,0,"GatheringPointBase#835",6,"GatheringPointBonus#245","GatheringPointBonus#0","u5f1","Kydonia Knolls","Celestial Mining Folklore"
 33969,5,0,"GatheringPointBase#836",6,"GatheringPointBonus#245","GatheringPointBonus#0","n5f1","Ktisis Hyperboreia","Ancient Mining Folklore"
 33970,1,0,"GatheringPointBase#837",4,"GatheringPointBonus#198","GatheringPointBonus#0","k5f1","The Phreatic Conduit",
@@ -4045,7 +4045,7 @@ int32,byte,byte,GatheringPointBase,byte,GatheringPointBonus,GatheringPointBonus,
 34041,2,0,"GatheringPointBase#854",6,"GatheringPointBonus#0","GatheringPointBonus#0","k5f1","Logistikon Beta","Lv. 86"
 34042,2,0,"GatheringPointBase#855",6,"GatheringPointBonus#0","GatheringPointBonus#0","u5f2","The <Emphasis>Ragnarok</Emphasis>","Lv. 86"
 34043,5,0,"GatheringPointBase#856",6,"GatheringPointBonus#245","GatheringPointBonus#0","n5f1","Lethe","Ancient Botany Folklore"
-34044,5,0,"GatheringPointBase#857",6,"GatheringPointBonus#245","GatheringPointBonus#0","m5f1","The Shroud of the Samgha","Ilsabardian Botany Folklore"
+34044,5,0,"GatheringPointBase#857",6,"GatheringPointBonus#245","GatheringPointBonus#0","m5f1","The Shroud of the Samgha","Northern Botany Folklore"
 34045,5,0,"GatheringPointBase#858",6,"GatheringPointBonus#245","GatheringPointBonus#0","u5f2","The Tube","Celestial Botany Folklore"
 34046,4,0,"GatheringPointBase#827",4,"GatheringPointBonus#0","GatheringPointBonus#0","u5f1","The Numbing Brand",
 34047,4,0,"GatheringPointBase#827",4,"GatheringPointBonus#0","GatheringPointBonus#0","u5f1","The Numbing Brand",
@@ -4342,3 +4342,9 @@ int32,byte,byte,GatheringPointBase,byte,GatheringPointBonus,GatheringPointBonus,
 34338,1,0,"GatheringPointBase#902",4,"GatheringPointBonus#0","GatheringPointBonus#0","u5f1","Heimdall's Last Sight",
 34339,1,0,"GatheringPointBase#902",4,"GatheringPointBonus#216","GatheringPointBonus#0","u5f1","Heimdall's Last Sight",
 34340,1,0,"GatheringPointBase#902",4,"GatheringPointBonus#0","GatheringPointBonus#0","u5f1","Heimdall's Last Sight",
+34341,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
+34342,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
+34343,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
+34344,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
+34345,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
+34346,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",

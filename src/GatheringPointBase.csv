@@ -835,7 +835,7 @@ int32,GatheringType,byte,Row,Row,Row,Row,Row,Row,Row,Row,bit&01
 831,"Quarrying",90,"Rarefied Phrygian Gold Ore","Rarefied Eblan Alumen","","","","","","",False
 832,"Quarrying",90,"Rarefied Blue Zircon","Rarefied Annite","","","","","","",False
 833,"Quarrying",90,"Rarefied Pewter Ore","","","","","","","",False
-834,"Mining",90,"Stonehard Water","Rime Dolomite","","","","","","",False
+834,"Mining",90,"Stonehard Water","Rime Dolomite","Raw Eblan Danburite","","","","","",False
 835,"Quarrying",90,"Stonehard Water","Lunar Adamantite Ore","","","","","","",False
 836,"Quarrying",90,"Stonehard Water","Rhodium Sand","","","","","","",False
 837,"Logging",85,"Horse Chestnut Log","","","","","","","Wind Crystal",False
@@ -858,7 +858,7 @@ int32,GatheringType,byte,Row,Row,Row,Row,Row,Row,Row,Row,bit&01
 854,"Harvesting",90,"Rarefied Dark Rye","Rarefied Iceberg Lettuce","","","","","","",False
 855,"Harvesting",90,"Rarefied AR-Caean Cotton Boll","","","","","","","",False
 856,"Logging",90,"Potent Spice","Mempisang Log","","","","","","",False
-857,"Harvesting",90,"Potent Spice","Golden Cocoon","","","","","","",False
+857,"Harvesting",90,"Potent Spice","Golden Cocoon","Thavnairian Corn","","","","","",False
 858,"Harvesting",90,"Potent Spice","Double-edged Herb","","","","","","",False
 859,"Logging",85,"length of softwood lumber","length of exquisite softwood lumber","","","","","","",False
 860,"Harvesting",85,"bundle of watercress","","","","","","","",False
@@ -904,3 +904,5 @@ int32,GatheringType,byte,Row,Row,Row,Row,Row,Row,Row,Row,bit&01
 900,"●銛",90,"Gilled Topknot","Meyhane Reveler","Shallows Cod","Dusky Shark","Xiphactinus","Tebqeyiq Smelt","","",False
 901,"Mining",0,"","","","","","","","",False
 902,"Harvesting",85,"Carrot of Happiness","Lunar Staple","","","","","","Ice Crystal",False
+903,"Mining",0,"","","","","","","","",False
+904,"Mining",0,"","","","","","","","",False

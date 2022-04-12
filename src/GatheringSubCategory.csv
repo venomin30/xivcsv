@@ -25,10 +25,10 @@ int32,GatheringType,ClassJob,Quest,uint16,Item,str,byte
 2021,"Quarrying","miner",,2005,"Tome of Geological Folklore - Norvrandt","Vrandtic Mining Folklore",0
 2022,"Logging","botanist",,2005,"Tome of Botanical Folklore - Norvrandt","Vrandtic Botany Folklore",0
 2023,"Logging","botanist",,2005,"Tome of Botanical Folklore - Norvrandt","Vrandtic Botany Folklore",0
-2024,"Quarrying","miner",,2010,"Tome of Geological Folklore - Ilsabard and the Northern Empty","Ilsabardian Mining Folklore",0
-2025,"Quarrying","miner",,2010,"Tome of Geological Folklore - Ilsabard and the Northern Empty","Ilsabardian Mining Folklore",0
-2026,"Logging","botanist",,2010,"Tome of Botanical Folklore - Ilsabard and the Northern Empty","Ilsabardian Botany Folklore",0
-2027,"Logging","botanist",,2010,"Tome of Botanical Folklore - Ilsabard and the Northern Empty","Ilsabardian Botany Folklore",0
+2024,"Quarrying","miner",,2010,"Tome of Geological Folklore - Ilsabard and the Northern Empty","Northern Mining Folklore",0
+2025,"Quarrying","miner",,2010,"Tome of Geological Folklore - Ilsabard and the Northern Empty","Northern Mining Folklore",0
+2026,"Logging","botanist",,2010,"Tome of Botanical Folklore - Ilsabard and the Northern Empty","Northern Botany Folklore",0
+2027,"Logging","botanist",,2010,"Tome of Botanical Folklore - Ilsabard and the Northern Empty","Northern Botany Folklore",0
 2028,"Quarrying","miner",,2011,"Tome of Geological Folklore - The Sea of Stars","Celestial Mining Folklore",0
 2029,"Quarrying","miner",,2011,"Tome of Geological Folklore - The Sea of Stars","Celestial Mining Folklore",0
 2030,"Logging","botanist",,2011,"Tome of Botanical Folklore - The Sea of Stars","Celestial Botany Folklore",0
@@ -197,8 +197,8 @@ int32,GatheringType,ClassJob,Quest,uint16,Item,str,byte
 2506,"Harvesting","fisher",,0,"Tome of Ichthyological Folklore - Othard","Othardian Fishing Folklore",0
 2507,"Harvesting","fisher",,0,"Tome of Ichthyological Folklore - Norvrandt","Vrandtic Fishing Folklore",0
 2508,"Harvesting","fisher",,0,"Tome of Ichthyological Folklore - Norvrandt","Vrandtic Fishing Folklore",0
-2509,"Harvesting","fisher",,2010,"Tome of Ichthyological Folklore - Ilsabard and the Northern Empty","Ilsabardian Fishing Folklore",0
-2510,"Harvesting","fisher",,2010,"Tome of Ichthyological Folklore - Ilsabard and the Northern Empty","Ilsabardian Fishing Folklore",0
+2509,"Harvesting","fisher",,2010,"Tome of Ichthyological Folklore - Ilsabard and the Northern Empty","Northern Fishing Folklore",0
+2510,"Harvesting","fisher",,2010,"Tome of Ichthyological Folklore - Ilsabard and the Northern Empty","Northern Fishing Folklore",0
 2511,"Harvesting","fisher",,2011,"Tome of Ichthyological Folklore - The Sea of Stars","Celestial Fishing Folklore",0
 2512,"Harvesting","fisher",,2011,"Tome of Ichthyological Folklore - The Sea of Stars","Celestial Fishing Folklore",0
 2513,"Harvesting","fisher",,2012,"Tome of Ichthyological Folklore - The World Unsundered","Ancient Fishing Folklore",0

@@ -117,6 +117,9 @@ int32,byte,CompanyCraftType,CompanyCraftProcess,CompanyCraftProcess,CompanyCraft
 745,16,"Exterior Wall (Single)","CompanyCraftProcess#1600","CompanyCraftProcess#1601","CompanyCraftProcess#1602",0
 746,16,"Exterior Wall (Single)","CompanyCraftProcess#1603","CompanyCraftProcess#1604","CompanyCraftProcess#1605",0
 747,16,"Exterior Wall (Single)","CompanyCraftProcess#1606","CompanyCraftProcess#1607","CompanyCraftProcess#1608",0
+748,17,"Exterior Wall (Single)","CompanyCraftProcess#1622","CompanyCraftProcess#1623","CompanyCraftProcess#1624",0
+749,17,"Exterior Wall (Single)","CompanyCraftProcess#1625","CompanyCraftProcess#1626","CompanyCraftProcess#1627",0
+750,17,"Exterior Wall (Single)","CompanyCraftProcess#1628","CompanyCraftProcess#1629","CompanyCraftProcess#1630",0
 800,1,"Roof","CompanyCraftProcess#1050","CompanyCraftProcess#1051","CompanyCraftProcess#1052",0
 801,1,"Roof","CompanyCraftProcess#1053","CompanyCraftProcess#1054","CompanyCraftProcess#1055",0
 802,1,"Roof","CompanyCraftProcess#1056","CompanyCraftProcess#1057","CompanyCraftProcess#1058",0
@@ -165,6 +168,9 @@ int32,byte,CompanyCraftType,CompanyCraftProcess,CompanyCraftProcess,CompanyCraft
 845,16,"Roof","CompanyCraftProcess#1609","CompanyCraftProcess#1610","CompanyCraftProcess#1611",0
 846,16,"Roof","CompanyCraftProcess#1612","CompanyCraftProcess#1613","CompanyCraftProcess#1614",0
 847,16,"Roof","CompanyCraftProcess#1615","CompanyCraftProcess#1616","CompanyCraftProcess#1617",0
+848,17,"Roof","CompanyCraftProcess#1631","CompanyCraftProcess#1632","CompanyCraftProcess#1633",0
+849,17,"Roof","CompanyCraftProcess#1634","CompanyCraftProcess#1635","CompanyCraftProcess#1636",0
+850,17,"Roof","CompanyCraftProcess#1637","CompanyCraftProcess#1638","CompanyCraftProcess#1639",0
 900,1,"Door","CompanyCraftProcess#1100","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 901,2,"Door","CompanyCraftProcess#1101","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 902,3,"Door","CompanyCraftProcess#1102","CompanyCraftProcess#0","CompanyCraftProcess#0",0
@@ -181,6 +187,7 @@ int32,byte,CompanyCraftType,CompanyCraftProcess,CompanyCraftProcess,CompanyCraft
 913,14,"Door","CompanyCraftProcess#1574","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 914,15,"Door","CompanyCraftProcess#1596","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 915,16,"Door","CompanyCraftProcess#1618","CompanyCraftProcess#0","CompanyCraftProcess#0",0
+916,17,"Door","CompanyCraftProcess#1640","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1000,1,"Window","CompanyCraftProcess#1150","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1001,2,"Window","CompanyCraftProcess#1151","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1002,3,"Window","CompanyCraftProcess#1152","CompanyCraftProcess#0","CompanyCraftProcess#0",0
@@ -197,6 +204,7 @@ int32,byte,CompanyCraftType,CompanyCraftProcess,CompanyCraftProcess,CompanyCraft
 1013,0,"Window","CompanyCraftProcess#1575","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1014,0,"Window","CompanyCraftProcess#1597","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1015,0,"Window","CompanyCraftProcess#1619","CompanyCraftProcess#0","CompanyCraftProcess#0",0
+1016,17,"Window","CompanyCraftProcess#1641","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1100,1,"Fence","CompanyCraftProcess#1203","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1101,2,"Fence","CompanyCraftProcess#1202","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1102,3,"Fence","CompanyCraftProcess#1201","CompanyCraftProcess#0","CompanyCraftProcess#0",0
@@ -213,6 +221,7 @@ int32,byte,CompanyCraftType,CompanyCraftProcess,CompanyCraftProcess,CompanyCraft
 1113,14,"Fence","CompanyCraftProcess#1576","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1114,15,"Fence","CompanyCraftProcess#1598","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1115,16,"Fence","CompanyCraftProcess#1620","CompanyCraftProcess#0","CompanyCraftProcess#0",0
+1116,17,"Fence","CompanyCraftProcess#1642","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1200,1,"Signboard","CompanyCraftProcess#1253","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1201,2,"Signboard","CompanyCraftProcess#1252","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1202,3,"Signboard","CompanyCraftProcess#1250","CompanyCraftProcess#0","CompanyCraftProcess#0",0
@@ -229,6 +238,7 @@ int32,byte,CompanyCraftType,CompanyCraftProcess,CompanyCraftProcess,CompanyCraft
 1213,14,"Signboard","CompanyCraftProcess#1577","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1214,15,"Signboard","CompanyCraftProcess#1599","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1215,16,"Signboard","CompanyCraftProcess#1621","CompanyCraftProcess#0","CompanyCraftProcess#0",0
+1216,17,"Signboard","CompanyCraftProcess#1643","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1300,1,"Roof Decoration","CompanyCraftProcess#1303","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1301,2,"Roof Decoration","CompanyCraftProcess#1302","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1302,3,"Roof Decoration","CompanyCraftProcess#1300","CompanyCraftProcess#0","CompanyCraftProcess#0",0

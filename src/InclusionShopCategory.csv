@@ -64,3 +64,8 @@ int32,str,ClassJobCategory,InclusionShopSeries
 60,"Crafters' Scrip (Master Recipes/Materials/Misc.)","Disciple of the Hand","White Scrip Exchange (Master Recipes)"
 61,"Gatherers' Scrip (Gear)","","White Scrip Exchange (Lv. 58/IL 130)"
 62,"Gatherers' Scrip (Materials/Misc.)","Disciple of the Land","White Scrip Exchange (Music/Furnishings/Misc.)"
+63,"Wolf Marks (DoW Weapons)","Disciple of War","Wolf Gear"
+64,"Wolf Marks (DoM Weapons)","Disciple of Magic","Wolf Gear"
+65,"Wolf Marks (DoW Gear)","","Wolf Gear"
+66,"Wolf Marks (DoM Gear)","","Wolf Gear"
+67,"Wolf Marks (Other)","","Miscellaneous"
