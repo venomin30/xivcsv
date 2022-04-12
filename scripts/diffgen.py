@@ -1,8 +1,8 @@
 ﻿import git
 import os
 import io
-import difflib
 import shutil
+import subprocess
 import sys
 
 repo_root = os.path.abspath(os.path.join(os.path.dirname( __file__ ), '..'))
@@ -23,7 +23,7 @@ for i in range(0, i_max):
 	try:
 		commit_version_file = target_commit.tree / 'Version.txt'
 	except:
-		print('Different Version.txt not found')
+		print('Different Version.txt not found in git history')
 		quit()
 
 	with io.BytesIO(commit_version_file.data_stream.read()) as f:
@@ -32,43 +32,58 @@ for i in range(0, i_max):
 		if commit_version != current_version:
 			break
 
-print('target version ' + commit_version + ' found at ' + target_head)
+print('target past version ' + commit_version + ' found at ' + target_head)
 
-target_diff = target_commit.diff(None)
+print('generating diffs ...', end='\r', flush=True)
+
+try:
+	full_diff = subprocess.check_output('git diff ' + target_head + ' --ignore-space-at-eol', stderr=subprocess.STDOUT).decode('utf-8-sig').splitlines()
+	full_diff_len_str = str(len(full_diff))
+	full_diff_len_str_len = len(full_diff_len_str)
+except subprocess.CalledProcessError:
+	print('git diff error' + 6 * ' ')
+	quit()
 
 diff_root = os.path.join(repo_root, 'diff')
-print('writing diff to ' + diff_root)
+print('writing diffs to ' + diff_root + (3 * ' '))
+
+print('cleaning old diff path ...', end='\r', flush=True)
+last_log_len = 26
 
 if (os.path.exists(diff_root)):
 	shutil.rmtree(diff_root)
+	
+current_file = ''
 
-for diff_item in target_diff.iter_change_type('M'):
-	if diff_item.b_path[0:4] != 'src/':
+for i, line in enumerate(full_diff):
+	line_stripped = line.strip()
+	line_len = len(line_stripped)
+
+	if line_len >= 6 and line_stripped[:6] == '+++ b/':
+		f.close()
+		next_file = line_stripped[6:]
+
+		if not next_file or len(next_file) < 4 or next_file[:4] != 'src/':
+			current_file = ''
+			continue
+
+		current_file = next_file[4:]
+		current_file_output = os.path.join(diff_root, current_file)
+		current_out_dir = os.path.dirname(current_file_output)
+		if (not os.path.exists(current_out_dir)):
+			os.makedirs(current_out_dir)
+		
+		f = open(current_file_output, 'w', encoding='utf-8-sig')
 		continue
 
-	diff_item_path = diff_item.b_path[4:]
-	print(diff_item_path)
+	if not current_file or line_len < 2 or line_stripped[0] != '+':
+		continue
 
-	out_path = os.path.join(diff_root, diff_item_path)
-	out_dir = os.path.dirname(out_path)
-	
-	if (not os.path.exists(out_dir)):
-		os.makedirs(out_dir)
+	f.write(line_stripped[1:] + '\n')
 
-	with open(out_path, 'w', encoding='utf-8-sig') as f:
-		data_a = diff_item.a_blob.data_stream.read().decode('utf-8-sig').splitlines(keepends=True)
-		data_b = diff_item.b_blob.data_stream.read().decode('utf-8-sig').splitlines(keepends=True)
-		
-		for line in data_b[0:3]:
-			f.write(line)
-	
-		diff = difflib.ndiff(data_a[3:], data_b[3:])
+	next_log = 'parsing line ' + str(i).rjust(full_diff_len_str_len) + ' / ' + full_diff_len_str + ' ' + current_file
+	next_log_len = len(next_log)
+	print(next_log + (' ' * max(0, last_log_len - next_log_len)), end='\r', flush=True)
+	last_log_len = next_log_len
 
-		for x in diff:
-			if not x.startswith('+ '):
-				continue
-
-			out_line = x[2:].strip()
-
-			if (len(out_line) > 0):
-				f.write(out_line + '\n')
+print('done' + (' ' * max(0, last_log_len - 4)), flush=True)
