@@ -698,11 +698,11 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint32,bit&02
 694,"Elpis Staple","GatheringItemLevelConvertTable#547",True,,69689,False
 695,"Raw Eblan Danburite","GatheringItemLevelConvertTable#580",True,,0,False
 696,"Thavnairian Corn","GatheringItemLevelConvertTable#580",True,,0,False
-697,"","GatheringItemLevelConvertTable#0",False,,0,False
-698,"","GatheringItemLevelConvertTable#0",False,,0,False
-699,"","GatheringItemLevelConvertTable#0",False,,0,False
-700,"","GatheringItemLevelConvertTable#0",False,,0,False
-701,"","GatheringItemLevelConvertTable#0",False,,0,False
+697,"Aetheroconductive Feather","GatheringItemLevelConvertTable#495",True,,0,False
+698,"Aetheroconductive Focus Materials","GatheringItemLevelConvertTable#495",True,,0,False
+699,"Luncheon Coffer Materials","GatheringItemLevelConvertTable#500",True,,0,False
+700,"Aetheroconductive Mammet Materials","GatheringItemLevelConvertTable#500",True,,0,False
+701,"School Supply Materials","GatheringItemLevelConvertTable#510",True,,0,False
 702,"","GatheringItemLevelConvertTable#0",False,,0,False
 703,"","GatheringItemLevelConvertTable#0",False,,0,False
 704,"","GatheringItemLevelConvertTable#0",False,,0,False

@@ -263,6 +263,7 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131343,253,17,0,0,0,,"Alpine Open-air Bath",False,False,True,0,0,0,False
 131344,254,17,0,0,0,,"Ivy-covered Bridge",False,False,True,0,0,0,False
 131345,255,17,0,0,0,,"Snowy Red Brick Bench",False,False,True,0,0,0,False
+131346,256,17,0,0,0,,"Raised Wooden Deck",False,False,True,0,0,0,False
 131347,257,17,0,0,0,,"Garden Gate",False,False,True,0,0,0,False
 131348,258,17,0,0,0,,"Planter Set",False,False,True,0,0,0,False
 131349,259,17,0,0,0,,"Sweet Lawn Ornaments",False,False,True,0,0,0,False

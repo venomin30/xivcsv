@@ -886,23 +886,23 @@ int32,FurnitureCatalogCategory,Item,uint16
 882,"Miscellaneous","Classic Dresser",610
 883,"Shelves/Chests","Log Rack",610
 884,"Miscellaneous","Indoor Marble Fountain",610
-885,"Tables","",0
-886,"Tables","",0
+885,"Miscellaneous","Ornamental Crystal Array",610
+886,"Walls/Pillars/Partitions","Log Pillar",610
 887,"Clocks","Kweh-kweh Clock",610
 888,"Miscellaneous","Small Blackboard",610
 889,"Beds","Eastern Canopy Bed",610
 890,"Tableware/Foods","Wondrous Parfait",610
 891,"Chairs/Sofas","Eulmoran Divan",610
-892,"Tables","",0
+892,"Tableware/Foods","Sweetfish Skewers",610
 893,"Plants","Ivy Curtain",610
 894,"Miscellaneous","Luminous Wooden Loft",610
 895,"Tables","Riviera Swinging-door Counter",610
 896,"Miscellaneous","Ironworks Tool Set",610
 897,"Walls/Pillars/Partitions","Trick Bookshelf Partition",610
-898,"Tables","",0
+898,"Windows","Simple Arched Window",610
 899,"Walls/Pillars/Partitions","Factory Pillar",610
 900,"Walls/Pillars/Partitions","Curved Marble Partition",610
-901,"Tables","",0
+901,"Chairs/Sofas","Iron Chair",610
 902,"Miscellaneous","Indoor Climbing Frame",610
 903,"Shelves/Chests","Steel Locker",610
 904,"Shelves/Chests","Alpine Cabinet",610
@@ -917,8 +917,8 @@ int32,FurnitureCatalogCategory,Item,uint16
 913,"Shelves/Chests","Scholasticate Bookshelf",610
 914,"Miscellaneous","Royal Menagerie Phasmascape",610
 915,"Miscellaneous","Sea of Clouds Phasmascape",610
-916,"Tables","",0
-917,"Tables","",0
-918,"Tables","",0
+916,"Stuffed Toys/Figures","Stuffed Sanduruva",610
+917,"Stuffed Toys/Figures","Stuffed Minduruva",610
+918,"Stuffed Toys/Figures","Stuffed Cinduruva",610
 919,"Flags/Frames/Posters","Azure Banner of Conflict",610
 920,"Flags/Frames/Posters","Crimson Banner of Conflict",610

@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10
-#,Description,Item,GatheringItemLevel,,,FishingRecordType,TerritoryType,IsVisible,,,
+#,Description,Item,GatheringItemLevel,,,FishingRecordType,TerritoryType,,IsVisible,,
 int32,str,Item,GatheringItemLevelConvertTable,bit&01,bit&02,FishingRecordType,TerritoryType,uint16,bit&04,bit&08,bit&10
 0,"","","GatheringItemLevelConvertTable#0",False,False,"Coastlines",,0,False,False,False
 20000,"Those who dare gaze into its swirling whorls risk spiraling into infinite madness. Luckily, few have peered into that void, as an intact specimen of this fragile shell is scarcely to be found.","Wentletrap","GatheringItemLevelConvertTable#205",False,False,"Small","e3f1",0,True,False,False
@@ -233,8 +233,8 @@ int32,str,Item,GatheringItemLevelConvertTable,bit&01,bit&02,FishingRecordType,Te
 20228,"Primordial beings with glimmering teeth so sharp as to earn them the name “blade's ray.” Known to hunt birds in addition to other fish, they propel themselves through the surface with powerful strokes before their prey gets any hint of danger.","Xiphactinus","GatheringItemLevelConvertTable#554",False,False,"Big","m5f1",0,True,False,False
 20229,"A leisurely shark partial to life at the bottom of the seas. While many mistakenly believe it to have skin tougher than armor, this is but a misnomer wrapped in an old wives’ tale. Though comparably inflexible for a creature of the deep seas, when brought ashore, its hide is far from what it is cracked up to be.","Kitefin Shark","GatheringItemLevelConvertTable#560",False,False,"Big","e3f1",0,True,False,False
 20230,"A small tropical fish that inhabits the coral reefs off of Tebqeyiq. Males boast bright blue and yellow patterning to court females, which keep to an arguably drab grey-black.","Tebqeyiq Smelt","GatheringItemLevelConvertTable#560",False,True,"Small","m5f1",0,True,False,False
-20231,"","","GatheringItemLevelConvertTable#0",False,False,"Coastlines",,0,False,False,False
-20232,"","","GatheringItemLevelConvertTable#0",False,False,"Coastlines",,0,False,False,False
+20231,"Among the cephalopods found in salt lakes, this particular wavekin boasts the largest ink sac despite its diminutive size. Treasured as a delicacy in Gyr Abania, its ink is well known for the abundant minerals contained within it, and its pungent kick is ever a delight to those whose family traditions involve a nice lick of licking salt.","Inksquid","GatheringItemLevelConvertTable#495",False,False,"Average","g3f3",0,True,False,False
+20232,"According to Far Eastern legend, this clam emits light of comparable beauty to that which radiates from the very goddess of auroras herself. A coveted ingredient for mother-of-pearl inlays, some believe that simply adorning tableware with its shell will improve the taste of food, a flimsy theory Sharlayan cuisine has put to the proof time and time again.","Auroral Clam","GatheringItemLevelConvertTable#500",False,False,"Small","e3f1",0,True,False,False
 20233,"","","GatheringItemLevelConvertTable#0",False,False,"Coastlines",,0,False,False,False
 20234,"","","GatheringItemLevelConvertTable#0",False,False,"Coastlines",,0,False,False,False
 20235,"","","GatheringItemLevelConvertTable#0",False,False,"Coastlines",,0,False,False,False

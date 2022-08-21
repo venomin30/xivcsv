@@ -3157,5 +3157,35 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003390,"captured charybdis",0,"captured charybdises",0,0,1,0,0,False,"Captured Charybdis","ui/icon/022000/022623.tex","",1,1," Flight of the Charybdis",0,"normal/item_start",0
 2003391,"Epiphanies of House Daemir",0,"Epiphanies of House Daemir",0,0,1,0,0,False,"Epiphanies of House Daemir","ui/icon/026000/026162.tex","",1,1,"Restricted Reading",0,"normal/item_start",0
 2003392,"flask of astral-aspected water",0,"flasks of astral-aspected water",0,0,1,0,0,False,"Astral-aspected Water","ui/icon/024000/024454.tex","",1,1,"Restricted Reading",0,"normal/item_start",0
+2003393,"stack of Hippo Rider handbills",0,"stacks of Hippo Rider handbills",0,0,1,0,0,False,"Hippo Rider Handbills","ui/icon/026000/026151.tex","",3,1," Ridin' Flyers for Flyin' Riders",0,"normal/item_start",0
+2003394,"elegant purse",0,"elegant purses",0,1,1,0,0,False,"Elegant Purse","ui/icon/026000/026112.tex","",1,1," Deal by the Docks",0,"normal/item_start",0
+2003395,"pouch of mysterious dried goods",0,"pouches of mysterious dried goods",0,0,1,0,0,False,"Mysterious Dried Goods","ui/icon/025000/025919.tex","",1,1," Deal by the Docks",0,"normal/item_start",0
+2003396,"familiar wooden crate",0,"familiar wooden crates",0,0,1,0,0,False,"Familiar Wooden Crate","ui/icon/021000/021003.tex","",1,1," Deal by the Docks",0,"normal/item_start",0
+2003397,"bundle of thick manjusaka vines",0,"bundles of thick manjusaka vines",0,0,1,0,0,False,"Thick Manjusaka Vines","ui/icon/021000/021672.tex","",1,1," Do It for the Vine",0,"normal/item_start",0
 2003398,"copy of Destructivity",0,"copies of Destructivity",0,0,1,0,0,False,"Destructivity","ui/icon/026000/026156.tex","",1,1,"A Divine Dilemma",0,"normal/item_start",0
 2003399,"nigh-empty waterskin",0,"nigh-empty waterskins",0,0,1,0,0,False,"Nigh-empty Waterskin","ui/icon/024000/024454.tex","",1,1,"The Face of an Explorer",0,"normal/item_start",0
+2003400,"green astamudgara",0,"green astamudgara",0,0,1,0,0,False,"Green Astamudgara","ui/icon/025000/025992.tex","",3,1," Flowers for Sanduruva",0,"normal/item_start",0
+2003401,"bar of hippo soap",0,"bars of hippo soap",0,0,1,0,0,False,"Hippo Soap","ui/icon/022000/022609.tex","Key Item",1,1," Hippo Scrub",3,"normal/item_start",0
+2003402,"bundle of freshwater weeds",0,"bundles of freshwater weeds",0,0,1,0,0,False,"Freshwater Weeds","ui/icon/025000/025034.tex","",3,1," Vanaspati's Blessing",0,"normal/item_start",0
+2003403,"slab of rotting meat",0,"slabs of rotting meat",0,0,1,0,0,False,"Rotting Meat","ui/icon/024000/024353.tex","Key Item",1,1," Tusk Trouble",3,"normal/item_start",0
+2003404,"handful of tough pisaca scales",0,"handfuls of tough pisaca scales",0,0,1,0,0,False,"Tough Pisaca Scales","ui/icon/022000/022262.tex","",1,1," Tusk Trouble",0,"normal/item_start",0
+2003405,"giantsgall knife",0,"giantsgall knives",0,0,1,0,0,False,"Giantsgall Knife","ui/icon/033000/033801.tex","Key Item",1,1," Patching Up",3,"normal/item_start",0
+2003406,"pot of great tree sap",0,"pots of great tree sap",0,0,1,0,0,False,"Great Tree Sap","ui/icon/022000/022637.tex","",3,1," Patching Up",0,"normal/item_start",0
+2003407,"box of Daemir Demolishers",0,"boxes of Daemir Demolishers",0,0,1,0,0,False,"Daemir Demolishers","ui/icon/026000/026015.tex","",1,1," A Hippo's Best Friend",3,"normal/item_start",3
+2003408,"hunk of Ksiroda mudstone",0,"hunks of Ksiroda mudstone",0,0,1,0,0,False,"Ksiroda Mudstone","ui/icon/021000/021455.tex","",1,1," A Hippo's Best Friend",0,"normal/item_start",0
+2003409,"odqan fragment",0,"odqan fragments",0,1,1,0,0,False,"Odqan Fragment","ui/icon/025000/025978.tex","",2,1," An Explosive Brew",0,"normal/item_start",0
+2003410,"basket of sticky moss",0,"baskets of sticky moss",0,0,1,0,0,False,"Basket of Sticky Moss","ui/icon/022000/022801.tex","",3,1," Gathering Moss",0,"normal/item_start",0
+2003411,"sack of gil owed",0,"sacks of gil owed",0,0,1,0,0,False,"Sack of Gil Owed","ui/icon/026000/026111.tex","",2,1," Blood from a Stonemason",0,"normal/item_start",0
+2003412,"waterlogged crate",0,"waterlogged crates",0,0,1,0,0,False,"Waterlogged Crate","ui/icon/026000/026108.tex","",3,1," Like a Crate to Water",0,"normal/item_start",0
+2003413,"sack of fragrant fish",0,"sacks of fragrant fish",0,0,1,0,0,False,"Fragrant Fish","ui/icon/026000/026110.tex","",1,1," Steep the Legs",0,"normal/item_start",0
+2003414,"Akyaali crab leg",0,"Akyaali crab legs",0,1,1,0,0,False,"Akyaali Crab Leg","ui/icon/022000/022261.tex","",2,1," Steep the Legs",0,"normal/item_start",0
+2003415,"sack of hamsa eggs",0,"sacks of hamsa eggs",0,0,1,0,0,False,"Hamsa Eggs","ui/icon/025000/025919.tex","",1,1," Essential Eggredients",0,"normal/item_start",0
+2003416,"redbloom anemone",0,"redbloom anemones",0,0,1,0,0,False,"Redbloom Anemone","ui/icon/028000/028404.tex","",2,1," Bloomin' Ocean",0,"normal/item_start",0
+2003417,"container of steaming victuals",0,"containers of steaming victuals",0,0,1,0,0,False,"Steaming Victuals","ui/icon/024000/024453.tex","",2,1," Fresh Eats and Ripe Sweets",0,"normal/item_start",0
+2003418,"amra",0,"amra",0,0,1,0,0,False,"Amra","ui/icon/025000/025325.tex","",2,1," Fresh Eats and Ripe Sweets",0,"normal/item_start",0
+2003419,"sack of kitchen scraps",0,"sacks of kitchen scraps",0,0,1,0,0,False,"Kitchen Scraps","ui/icon/025000/025919.tex","",2,1," Waste Not, Want None of That",0,"normal/item_start",0
+2003420,"bottle of Daemir's antidote",0,"bottles of Daemir's antidote",0,0,1,0,0,False,"Daemir's Antidote","ui/icon/020000/020662.tex","Key Item",1,1," Seedy Affair",3,"normal/item_start",0
+2003421,"asvattha seed",0,"asvattha seeds",0,1,1,0,0,False,"Asvattha Seed","ui/icon/025000/025313.tex","",1,1," Seedy Affair",0,"normal/item_start",0
+2003422,"hippo feed bag",0,"hippo feed bags",0,0,1,0,0,False,"Hippo Feed Bag","ui/icon/025000/025919.tex","",1,1," Hells Hath No Fury as a Hippo Scorned",0,"normal/item_start",0
+2003423,"Nashu's Delight",0,"Nashu's Delights",0,0,1,0,0,False,"Nashu's Delight","ui/icon/026000/026015.tex","",1,1,"The Sleeping Gentleman",0,"normal/item_start",0
+2003424,"gentlemanly spirit vessel",0,"gentlemanly spirit vessels",0,0,1,0,0,False,"Gentlemanly Spirit Vessel","ui/icon/026000/026610.tex","",1,1,"A Soulful Reunion",0,"normal/item_start",0

@@ -1163,19 +1163,24 @@ Are you certain you wish to proceed?",0,0,0,True,False
 197820,988,14,0,0,0,0,,"Deluxe Stuffed Kupka Kupp",False,"",3,0,0,True,False
 197821,1107,12,0,0,0,0,,"Indoor Marble Fountain",False,"",0,0,0,True,False
 197822,1108,13,0,0,0,0,,"",False,"",0,0,0,True,False
+197823,1109,15,0,0,0,0,,"Ornamental Crystal Array",False,"",0,0,0,True,False
+197824,1110,12,0,0,0,0,,"Log Pillar",False,"",0,0,0,True,False
 197825,1111,15,0,0,0,0,,"Kweh-kweh Clock",False,"",0,0,0,True,False
 197826,1112,15,0,0,0,0,,"Small Blackboard",False,"",0,0,0,True,False
 197827,1113,12,0,0,0,0,,"Eastern Canopy Bed",False,"",0,0,0,True,False
 197828,1114,14,7,73,0,0,"CmnDefHousingDish_00213","Wondrous Parfait",True,"",9,4,11,True,False
 197829,1115,12,0,0,0,0,,"Eulmoran Divan",False,"",0,0,0,True,False
+197830,1116,14,7,74,0,0,"CmnDefHousingDish_00213","Sweetfish Skewers",True,"",9,4,11,True,False
 197831,1117,15,0,0,0,0,,"Ivy Curtain",False,"",0,0,0,True,False
 197832,1118,15,0,0,0,0,,"Luminous Wooden Loft",False,"",0,0,0,True,False
 197833,1119,13,0,0,0,0,,"Riviera Swinging-door Counter",False,"",0,0,0,True,False
 197842,1128,15,0,0,0,0,,"Emperor Portrait",False,"",5,0,0,True,False
 197843,1129,15,0,0,0,0,,"Ironworks Tool Set",False,"",0,0,0,True,False
 197844,584,12,0,0,0,0,,"Trick Bookshelf Partition",False,"",0,0,0,True,False
+197845,1131,15,0,0,0,0,,"Simple Arched Window",False,"",0,0,0,True,False
 197846,1132,12,0,0,0,0,,"Factory Pillar",False,"",0,0,0,True,False
 197850,1136,12,0,0,0,0,,"Curved Marble Partition",False,"",0,0,0,True,False
+197852,1138,12,0,0,0,0,,"Iron Chair",False,"",0,0,0,True,False
 197853,1139,13,0,0,0,0,,"Alpine Cabinet",False,"",0,0,0,True,False
 197854,1140,14,0,0,0,0,,"Eggsemplary Basket",False,"",5,0,0,True,False
 197855,1141,13,0,0,0,0,,"Indoor Climbing Frame",False,"",5,0,0,True,False
@@ -1193,6 +1198,9 @@ Are you certain you wish to proceed?",0,0,0,True,False
 197873,1163,14,0,0,92,0,,"Bluefeather Astrolabos",False,"",0,0,0,True,False
 197874,1164,12,0,0,0,0,,"Royal Menagerie Phasmascape",False,"",0,0,0,True,False
 197875,1165,12,0,0,0,0,,"Sea of Clouds Phasmascape",False,"",0,0,0,True,False
+197876,1166,14,0,0,0,0,,"Stuffed Sanduruva",False,"",5,0,0,True,False
+197877,1167,14,0,0,0,0,,"Stuffed Minduruva",False,"",5,0,0,True,False
+197878,1168,14,0,0,0,0,,"Stuffed Cinduruva",False,"",5,0,0,True,False
 197879,1169,14,0,0,0,0,,"Moogle Balloon",False,"",5,0,0,True,False
 197881,1171,15,0,0,0,0,,"Hatching-tide Mobile",False,"",5,0,0,True,False
 197882,1172,15,0,0,0,0,,"Azure Banner of Conflict",False,"",5,0,0,True,False

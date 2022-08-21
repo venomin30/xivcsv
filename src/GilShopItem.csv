@@ -7925,7 +7925,7 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262658.46,"Table Mat",False,0,,,"",0,40,600
 262658.47,"Ruby Sea Phasmascape",False,0,,,"",0,2,600
 262658.48,"Aurora Phasmascape",False,0,,,"",0,2,600
-262658.49,"",False,0,,,"",0,10,610
+262658.49,"Log Pillar",False,0,,,"",0,10,610
 262658.50,"Astrologicum Star Map",False,0,,,"",0,40,610
 262658.51,"Royal Menagerie Phasmascape",False,0,,,"",0,2,610
 262658.52,"Sea of Clouds Phasmascape",False,0,,,"",0,2,610
@@ -14823,11 +14823,12 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263122.14,"Leech",False,0,,,"",0,100,600
 263122.15,"Shrimp Ball",False,0,,,"",0,100,600
 263122.16,"Archon Loaf",False,0,,,"",0,100,600
-263122.17,"",False,0,,,"",0,100,610
-263122.18,"",False,0,,,"",0,100,610
-263122.19,"",False,0,,,"",0,100,610
-263122.20,"",False,0,,,"",0,100,610
-263122.21,"",False,0,,,"",0,100,610
+263122.17,"Aetheroconductive Quill Components",False,0,,,"",0,100,610
+263122.18,"Aetheroconductive Focus Components",False,0,,,"",0,100,610
+263122.19,"Luncheon Coffer Components",False,0,,,"",0,100,610
+263122.20,"Aetheroconductive Mammet Components",False,0,,,"",0,100,610
+263122.21,"School Supply Components",False,0,,,"",0,100,610
+263122.22,"Metal Spinner",False,0,,,"",0,101,0
 263123.0,"Oldrose Seeds",False,0,,,"",0,100,0
 263123.1,"Fish Meal",False,0,,,"",0,100,0
 263123.2,"Red Pomace",False,0,,,"",0,100,0
@@ -14932,11 +14933,11 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263134.2,"Wayfarer's Boots",False,0,"Newfound Adventure",,"",0,100,610
 263134.3,"Wayfarer's Earcuff",False,0,"Newfound Adventure",,"",0,100,610
 263134.4,"Wayfarer's Necklace",False,0,"Newfound Adventure",,"",0,100,610
-263134.5,"",False,0,"",,"",0,100,610
-263134.6,"",False,0,"",,"",0,100,610
-263134.7,"",False,0,"",,"",0,100,610
-263134.8,"",False,0,"",,"",0,100,610
-263134.9,"",False,0,"",,"",0,100,610
+263134.5,"Appointed Cap",False,0,"A Gift from House Leveilleur",,"",0,100,610
+263134.6,"Appointed Jacket",False,0,"A Gift from House Leveilleur",,"",0,100,610
+263134.7,"Appointed Gloves",False,0,"A Gift from House Leveilleur",,"",0,100,610
+263134.8,"Appointed Slacks",False,0,"A Gift from House Leveilleur",,"",0,100,610
+263134.9,"Appointed Shoes",False,0,"A Gift from House Leveilleur",,"",0,100,610
 263135.0,"Makai Mauler's Facemask",False,0,,,"Echoes of the Makai Blade",0,100,0
 263135.1,"Makai Mauler's Oilskin",False,0,,,"Echoes of the Makai Blade",0,100,0
 263135.2,"Makai Mauler's Fingerless Gloves",False,0,,,"Echoes of the Makai Blade",0,100,0
@@ -14997,14 +14998,20 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263140.7,"Makai Moon Guide's Fingerless Gloves",False,0,,,"Echoes of the Makai Mind",0,100,0
 263140.8,"Makai Moon Guide's Quartertights",False,0,,,"Echoes of the Makai Mind",0,100,0
 263140.9,"Makai Moon Guide's Longboots",False,0,,,"Echoes of the Makai Mind",0,100,0
-263141.0,"Hempen Camise",False,36,,,"",0,100,0
-263141.1,"Viera Armlets",False,0,,,"",0,100,500
-263141.2,"Viera Pantalettes",False,0,,,"",0,100,500
-263141.3,"Hempen Pantalettes",False,36,,,"",0,100,0
-263141.4,"Viera Sandals",False,0,,,"",0,100,500
-263141.5,"Viera Harness",False,0,,,"",0,100,610
-263141.6,"Viera Armguards",False,0,,,"",0,100,610
-263141.7,"Viera Gaskins",False,0,,,"",0,100,610
-263141.8,"Viera Sollerets",False,0,,,"",0,100,610
-263141.9,"Hempen Undershirt",False,46,,,"",0,100,0
-263141.10,"Hempen Underpants",False,29,,,"",0,100,0
+263141.0,"X-Potion",False,0,,,"",0,100,0
+263141.1,"X-Ether",False,0,,,"",0,100,0
+263141.2,"X-Potion of Strength",False,0,,,"",0,100,0
+263141.3,"X-Potion of Dexterity",False,0,,,"",0,100,0
+263141.4,"X-Potion of Vitality",False,0,,,"",0,100,0
+263141.5,"X-Potion of Intelligence",False,0,,,"",0,100,0
+263141.6,"X-Potion of Mind",False,0,,,"",0,100,0
+263141.7,"Eye Drops",False,0,,,"",0,100,0
+263141.8,"Antidote",False,0,,,"",0,100,0
+263141.9,"Echo Drops",False,0,,,"",0,100,0
+263141.10,"Spine Drops",False,0,,,"",0,100,0
+263141.11,"Gysahl Greens",False,0,,,"",0,100,0
+263141.12,"Grade 8 Dark Matter",False,0,,,"",0,100,600
+263141.13,"Gold Salmon Roe",False,0,,,"",0,100,600
+263141.14,"Leech",False,0,,,"",0,100,600
+263141.15,"Shrimp Ball",False,0,,,"",0,100,600
+263141.16,"Archon Loaf",False,0,,,"",0,100,600

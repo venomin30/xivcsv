@@ -16,4 +16,4 @@ int32,bit&01,byte,BeastRankBonus,Image,Image,byte,ExVersion,Item,byte,str,sbyte,
 12,False,0,"BeastRankBonus#5","ui/icon/061000/061912.tex","ui/icon/065000/065072.tex",8,"Shadowbringers","Fae Fancy",1,"pixies",0,"",0,0,0,0,0,"Pixie Relations"
 13,False,80,"BeastRankBonus#6","ui/icon/061000/061913.tex","ui/icon/065000/065076.tex",8,"Shadowbringers","Qitari Compliment",2,"Qitari",0,"",0,0,0,0,0,"Qitari Relations"
 14,False,80,"BeastRankBonus#7","ui/icon/061000/061914.tex","ui/icon/065000/065079.tex",8,"Shadowbringers","Hammered Frogment",3,"dwarves",0,"",0,0,0,0,0,"Dwarf Relations"
-15,False,0,"BeastRankBonus#8","ui/icon/061000/061915.tex",,8,"Endwalker","",1,"アルカソーダラ族：ヒッポライダーズ",0,"",0,0,0,0,0,"アルカソーダラ族友好度"
+15,False,0,"BeastRankBonus#8","ui/icon/061000/061915.tex","ui/icon/065000/065092.tex",8,"Endwalker","Arkasodara Pana",1,"Arkasodara",0,"",0,0,0,0,0,"Arkasodara Relations"

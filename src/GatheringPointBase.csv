@@ -816,14 +816,14 @@ int32,GatheringType,byte,Row,Row,Row,Row,Row,Row,Row,Row,bit&01
 812,"Quarrying",80,"Art Supply Materials","","","","","","","Lightning Crystal",False
 813,"Harvesting",80,"Art Supply Materials","","","","","","","Earth Crystal",False
 814,"Mining",0,"","","","","","","","",False
-815,"Mining",85,"Raw Ametrine","Sharlayan Rock Salt","","","","","","Water Crystal",False
-816,"Quarrying",85,"High Durium Sand","Chloroschist","Eternity Ring Material","","","","","Water Crystal",False
+815,"Mining",85,"Raw Ametrine","Sharlayan Rock Salt","Aetheroconductive Feather","","","","","Water Crystal",False
+816,"Quarrying",85,"High Durium Sand","Chloroschist","Eternity Ring Material","Aetheroconductive Mammet Materials","","","","Water Crystal",False
 817,"Quarrying",90,"Rarefied Chloroschist","","","","","","","",False
-818,"Mining",85,"High Durium Ore","","","","","","","Ice Crystal",False
+818,"Mining",85,"High Durium Ore","School Supply Materials","","","","","","Ice Crystal",False
 819,"Mining",85,"Rarefied High Durium Ore","","","","","","","",False
-820,"Quarrying",85,"Pewter Ore","Hannish Staple","","","","","","Ice Crystal",False
+820,"Quarrying",85,"Pewter Ore","Hannish Staple","Aetheroconductive Focus Materials","","","","","Ice Crystal",False
 821,"Mining",85,"Bismuth Ore","Lunar Staple","","","","","","Earth Crystal",False
-822,"Quarrying",85,"Phrygian Gold Ore","Eblan Alumen","Garlean Staple","","","","","Lightning Crystal",False
+822,"Quarrying",85,"Phrygian Gold Ore","Eblan Alumen","Garlean Staple","Luncheon Coffer Materials","","","","Lightning Crystal",False
 823,"Mining",90,"Manganese Ore","Elpis Staple","","","","","","Fire Crystal",False
 824,"Quarrying",90,"Raw Blue Zircon","Annite","Ambrosial Water","","","","","Fire Crystal",False
 825,"Mining",90,"Chondrite","","","","","","","Wind Crystal",False
@@ -838,12 +838,12 @@ int32,GatheringType,byte,Row,Row,Row,Row,Row,Row,Row,Row,bit&01
 834,"Mining",90,"Stonehard Water","Rime Dolomite","Raw Eblan Danburite","","","","","",False
 835,"Quarrying",90,"Stonehard Water","Lunar Adamantite Ore","","","","","","",False
 836,"Quarrying",90,"Stonehard Water","Rhodium Sand","","","","","","",False
-837,"Logging",85,"Horse Chestnut Log","","","","","","","Wind Crystal",False
-838,"Harvesting",85,"Dark Hemp","Dark Rye","Iceberg Lettuce","Eternity Ring Material","","","","Wind Crystal",False
-839,"Logging",85,"Palm Log","Palm Syrup","Coconut","","","","","Fire Crystal",False
-840,"Harvesting",85,"Thavnairian Perilla Leaf","Thavnairian Paprika","Hannish Staple","","","","","Fire Crystal",False
+837,"Logging",85,"Horse Chestnut Log","Aetheroconductive Mammet Materials","","","","","","Wind Crystal",False
+838,"Harvesting",85,"Dark Hemp","Dark Rye","Iceberg Lettuce","Eternity Ring Material","Aetheroconductive Feather","","","Wind Crystal",False
+839,"Logging",85,"Palm Log","Palm Syrup","Coconut","School Supply Materials","","","","Fire Crystal",False
+840,"Harvesting",85,"Thavnairian Perilla Leaf","Thavnairian Paprika","Hannish Staple","Aetheroconductive Focus Materials","","","","Fire Crystal",False
 841,"Harvesting",85,"Rarefied Thavnairian Perilla Leaf","","","","","","","",False
-842,"Logging",85,"Red Pine Log","Garlean Staple","","","","","","Earth Crystal",False
+842,"Logging",85,"Red Pine Log","Garlean Staple","Luncheon Coffer Materials","","","","","Earth Crystal",False
 843,"Harvesting",85,"Cucumber","Eblan Lentils","Snow Flax","Beet","","","","Earth Crystal",False
 844,"Logging",90,"Ironwood Log","Sykon","Elder Nutmeg Seeds","","","","","Lightning Crystal",False
 845,"Logging",90,"Rarefied Ironwood Log","","","","","","","",False
@@ -904,5 +904,5 @@ int32,GatheringType,byte,Row,Row,Row,Row,Row,Row,Row,Row,bit&01
 900,"●銛",90,"Gilled Topknot","Meyhane Reveler","Shallows Cod","Dusky Shark","Xiphactinus","Tebqeyiq Smelt","","",False
 901,"Mining",0,"","","","","","","","",False
 902,"Harvesting",85,"Carrot of Happiness","Lunar Staple","","","","","","Ice Crystal",False
-903,"Mining",0,"","","","","","","","",False
-904,"Mining",0,"","","","","","","","",False
+903,"●銛",85,"Moondisc","Carpenter Crab","King's Mantle","Inksquid","","","","",False
+904,"●銛",85,"Red Gurnard","Ruby Haddock","Eastern Seerfish","Auroral Clam","","","","",False
