@@ -44,6 +44,7 @@ except subprocess.CalledProcessError:
 	print('git diff error' + 6 * ' ')
 	quit()
 
+src_root = os.path.join(repo_root, 'src')
 diff_root = os.path.join(repo_root, 'diff')
 print('writing diffs to ' + diff_root + (3 * ' '))
 
@@ -54,6 +55,7 @@ if (os.path.exists(diff_root)):
 	shutil.rmtree(diff_root)
 	
 current_file = ''
+headers_copied = False
 
 for i, line in enumerate(full_diff):
 	line_stripped = line.strip()
@@ -74,10 +76,19 @@ for i, line in enumerate(full_diff):
 			os.makedirs(current_out_dir)
 		
 		f = open(current_file_output, 'w', encoding='utf-8-sig')
+		headers_copied = False
+		
 		continue
 
 	if not current_file or line_len < 2 or line_stripped[0] != '+':
 		continue
+		
+	if not headers_copied:
+		headers_copied = True
+		with open(os.path.join(src_root, current_file), 'r', encoding='utf-8-sig') as fs:
+			f.write(fs.readline().strip() + '\n')
+			f.write(fs.readline().strip() + '\n')
+			f.write(fs.readline().strip() + '\n')
 
 	f.write(line_stripped[1:] + '\n')
 
