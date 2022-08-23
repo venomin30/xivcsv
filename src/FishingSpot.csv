@@ -254,38 +254,38 @@ int32,byte,str,str,byte,bit&01,TerritoryType,PlaceName,PlaceName,int16,int16,uin
 250,1,"A graceful, leafy form appears, swirling and dancing beneath the waves.","The leafy form has swept on out of sight.",1,False,"o1a1","The High Seas","The Rothlyt Sound",1025,1025,300,4,"Crow Puffer","Rothlyt Kelp","Living Lantern","Honeycomb Fish","Godsbed","Lansquenet","Thavnairian Shark","Nephrite Eel","Spectresaur","Ginkgo Fin","Outer Rothlyt Sound",242
 251,1,"A dull cracking and crunching sound echoes up from the sea floor.","The crunching, cracking sounds fade into silence.",1,False,"o1a1","The High Seas","The Rothlyt Sound",1025,1025,300,2,"Garum Jug","Smooth Jaguar","Rothlyt Mussel","Levi Elver","Pearl Bombfish","Trollfish","Panoptes","Crepe Sole","Knifejaw","Placodus","Rothlyt Spectral Current",243
 252,80,"","",1,False,"k5t1","","",1074,1518,2400,4,"Pecten","Northern Herring","Dog-faced Puffer","Cobalt Chromis","Guitarfish","Aetherolectric Guitarfish","","","","","Scholar's Harbor",244
-253,80,"","",2,False,"k5t1","","",1024,732,2100,4,"Astacus","Peacock Bass","Academician","Swordspine Snook","","","","","","","Oinops",245
+253,80,"","",2,False,"k5t1","","",1024,732,2100,4,"Astacus","Peacock Bass","Academician","Swordspine Snook","Greatsword Snook","","","","","","Oinops",245
 254,80,"","",2,False,"k5t1","","",670,980,300,4,"Astacus","Ponderer","Tidal Dahlia","","","","","","","","Reflecting Pool",246
 255,81,"","",2,False,"k5f1","","",831,221,450,4,"Butterfly Fry","Topminnow","Tessera","Giant Aetherlouse","Fat Snook","Jumbo Snook","","","","","Unmoved Source Alpha",247
 256,81,"","",2,False,"k5f1","","",878,496,900,4,"Butterfly Fry","Prochilodus Luminosus","Xenocypris","Mesonauta","Greengill Salmon","","","","","","The Mover Alpha",248
-257,82,"","",2,False,"k5f1","","",1561,409,450,4,"Butterfly Fry","Raiamas","Xenocypris","Red Bowfin","","","","","","","Unmoved Source Beta",249
+257,82,"","",2,False,"k5f1","","",1561,409,450,4,"Butterfly Fry","Raiamas","Xenocypris","Red Bowfin","Swampsucker Bowfin","","","","","","Unmoved Source Beta",249
 258,82,"","",2,False,"k5f1","","",1366,726,1800,4,"Butterfly Fry","Macrobrachium Lar","Xenocypris","Blowgun","Darksteel Knifefish","","","","","","The Mover Beta",250
 259,82,"","",2,False,"k5f1","","",972,756,600,4,"Butterfly Fry","Astacus Aetherius","Xenocypris","Labyrinthos Tilapia","","","","","","","Deepmoat",251
 260,82,"","",2,False,"m5t1","","",459,989,1350,4,"Trunkblessed","Seema Duta","Longear Sunfish","Silver Characin","Earful","","","","","","Meghaduta",252
-261,81,"","",1,False,"m5f1","","",1228,1764,600,4,"Thavnairian Goby","Qeyiq Sole","Gwl Crab","Pantherscale Grouper","","","","","","","Yedlihmad",253
+261,81,"","",1,False,"m5f1","","",1228,1764,600,4,"Thavnairian Goby","Qeyiq Sole","Gwl Crab","Pantherscale Grouper","Lale Crab","","","","","","Yedlihmad",253
 262,81,"","",1,False,"m5f1","","",428,1618,1800,4,"Thavnairian Goby","Qeyiq Sole","Fate's Design","Shadowdart Sardine","Paksa Fish","Chalky Coral","","","","","The Thavnairian Coast",254
 263,82,"","",1,False,"m5f1","","",438,1090,600,4,"Thavnairian Goby","Qeyiq Sole","Garjana Wrasse","Golden Barramundi","","","","","","","The Great Runoff",255
 264,82,"","",2,False,"m5f1","","",998,360,300,4,"Kadjaya's Castaway","Marid Frog","Bluegill","Bronze Pipira","Hippo Frog","","","","","","Giantsgall Grounds",256
 265,85,"","",2,False,"m5f1","","",1500,419,1350,4,"Green Swordtail","Ksirapayin","Wakeful Watcher","Red Drum","","","","","","","The Wakeful Torana",257
-266,85,"","",2,False,"m5f1","","",1478,1018,1200,4,"Green Swordtail","Ksirapayin","Forgeflame","Bicuda","Seedtoad","","","","","","Ksiroda",258
+266,85,"","",2,False,"m5f1","","",1478,1018,1200,4,"Green Swordtail","Ksirapayin","Forgeflame","Bicuda","Seedtoad","Bigcuda","","","","","Ksiroda",258
 267,85,"","",2,False,"m5f1","","",1149,675,450,4,"Green Swordtail","Radzbalik","Half-moon Betta","Banana Eel","","","","","","","Pavana's Remorse",259
-268,85,"","",2,False,"m5f1","","",1161,1187,750,4,"Green Swordtail","Radzbalik","Handy Hamsa","Flowerhorn","Thavnairian Caiman","","","","","","The Font of Maya",260
+268,85,"","",2,False,"m5f1","","",1161,1187,750,4,"Green Swordtail","Radzbalik","Handy Hamsa","Flowerhorn","Thavnairian Caiman","Mayashell","","","","","The Font of Maya",260
 269,85,"","",1,True,"m5f1","","",322,328,900,4,"Fiery Goby","Puff-paya","Narunnairian Octopus","Roosterfish","Basilosaurus","Thavnairian Calamari","","","","","The Perfumed Tides",261
 270,83,"","",2,True,"m5f2","","",504,1484,600,4,"Garlean Clam","Animulus","Eblan Trout","Cerule Core","Icepike","Rimepike","","","","","The Eblan Thaw",262
-271,83,"","",2,False,"m5f2","","",1100,408,1800,4,"Garlean Clam","Dark Crown","Eblan Trout","Imperial Pleco","Bluetail","","","","","","The Stainless Course",263
-272,84,"","",2,False,"u5f1","","",1578,494,2400,4,"Star-blue Guppy","Lunar Cichlid","Teareye","Replipirarucu","","","","","","","Greatest Endsvale",264
+271,83,"","",2,False,"m5f2","","",1100,408,1800,4,"Garlean Clam","Dark Crown","Eblan Trout","Imperial Pleco","Bluetail","Sovereign Shadow","","","","","The Stainless Course",263
+272,84,"","",2,False,"u5f1","","",1578,494,2400,4,"Star-blue Guppy","Lunar Cichlid","Teareye","Replipirarucu","Disappirarucu","","","","","","Greatest Endsvale",264
 273,85,"","",7,True,"u5f1","","",1498,1560,300,4,"Feverfish","Calicia","Protomyke #987","Lunar Deathworm","","","","","","","The Chlorophospond",265
 274,85,"","",7,False,"u5f1","","",1090,1538,600,4,"Feverfish","Calicia","Fleeting Brand","Regotoise","","","","","","","The Frozen Fissure",266
-275,86,"","",2,False,"n5f1","","",508,876,1800,4,"Isle Skipper","Albino Loach","Iribainion","Golden Shiner","Mangar","","","","","","Rumination's Ramble",267
+275,86,"","",2,False,"n5f1","","",508,876,1800,4,"Isle Skipper","Albino Loach","Iribainion","Golden Shiner","Mangar","Planetes","","","","","Rumination's Ramble",267
 276,87,"","",2,False,"n5f1","","",1202,440,900,4,"Isle Skipper","Dermogenys","Iribainion","Colossoma","","","","","","","The Lower Hungering Gardens",268
 277,87,"","",2,False,"n5f1","","",1634,762,1500,4,"Isle Skipper","Antheia","Iribainion","Smaragdos","","","","","","","Lethe",269
 278,88,"","",7,False,"u5f2","","",994,1756,300,4,"Superstring","Vacuum Shrimp","Star Eater","Cosmic Noise","","","","","","","Apohelos 18-γ",272
 279,89,"","",7,False,"u5f2","","",426,1476,300,4,"Superstring","Glassfish","Star Eater","Foun Myhk","Foun Ahlm","","","","","","Apohelos 18-β",271
 280,90,"","",7,False,"u5f2","","",298,1062,300,4,"Superstring","Dragonscale","Star Eater","Ypupîara","Eehs Forhnesh","","","","","","Apohelos 18-α",270
-281,90,"","",2,False,"u5f2","","",698,528,600,4,"Protoflesh","Katoptron","Comet Tail","Aoide","","","","","","","The Wellspring of Regret",273
+281,90,"","",2,False,"u5f2","","",698,528,600,4,"Protoflesh","Katoptron","Comet Tail","Aoide","Starscryer","","","","","","The Wellspring of Regret",273
 282,90,"","",2,False,"u5f2","","",1079,389,750,4,"Protoflesh","Katoptron","Wandering Starscale","","","","","","","","Elegeia",274
 283,89,"","",9,False,"u5f2","","",212,1706,900,4,"Wormhole Worm","Unidentified Flying Biomass II","Sophos Deka-okto","Class Twenty-four","Terrifyingway","Alien Mertone","Monster Carrot","Forbiddingway","","","Limne 18",275
-284,90,"","",9,False,"u5f2","","",1824,406,900,4,"Wormhole Worm","Unidentified Flying Biomass II","Triaina","Argonaut","Echinos","Space Bishop","Alyketos","","","","Limne 3-α",276
+284,90,"","",9,False,"u5f2","","",1824,406,900,4,"Wormhole Worm","Unidentified Flying Biomass II","Triaina","Argonaut","Echinos","Space Bishop","Alyketos","Argonauta argo","","","Limne 3-α",276
 285,90,"","",9,True,"u5f2","","",1202,808,600,4,"Wormhole Worm","Unidentified Flying Biomass II","Triaina","Horizon Event","E.B.E.-9318","Unbegotten","Phallaina ","","","","Limne 3-β",277
 286,0,"","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
 287,0,"","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
@@ -332,3 +332,8 @@ int32,byte,str,str,byte,bit&01,TerritoryType,PlaceName,PlaceName,int16,int16,uin
 10023,80,"You glimpse the blurred form of some flying creature as it flashes across the sky.","Like a living bolt of lightning, the creature flickers past and is gone.",5,False,,"","",0,0,0,0,"Grade 4 Skybuilders' Ghost Faerie","Grade 4 Skybuilders' Ashfish","Grade 4 Skybuilders' Sunfish","Grade 4 Artisanal Skybuilders' Lightning Chaser","Grade 4 Artisanal Skybuilders' Meganeura","","","","","","Windswept Cloudtop",0
 10024,80,"","",5,False,,"","",0,0,0,0,"Grade 4 Skybuilders' Ghost Faerie","Grade 4 Skybuilders' Ashfish","Grade 2 Artisanal Skybuilders' Rhomaleosaurus","Grade 2 Artisanal Skybuilders' Gobbie Mask","Grade 2 Artisanal Skybuilders' Cometfish","Grade 2 Artisanal Skybuilders' Anomalocaris","Grade 3 Artisanal Skybuilders' Oscar","Grade 3 Artisanal Skybuilders' Blind Manta","Grade 3 Artisanal Skybuilders' Archaeopteryx","Grade 3 Artisanal Skybuilders' Cloudshark","Windbreaking Cloudtop",0
 10025,80,"","",5,False,,"","",0,0,0,0,"Grade 4 Skybuilders' Ghost Faerie","Grade 4 Skybuilders' Ashfish","Grade 2 Artisanal Skybuilders' Pterodactyl","Grade 2 Artisanal Skybuilders' Skyfish","Grade 2 Artisanal Skybuilders' Rhamphorhynchus","Grade 2 Artisanal Skybuilders' Dragon's Soul","Grade 3 Artisanal Skybuilders' Mosasaur","Grade 3 Artisanal Skybuilders' Storm Chaser","Grade 3 Artisanal Skybuilders' Wyvern","Grade 3 Artisanal Skybuilders' Helicoprion","Buffeted Cloudtop",0
+10026,0,"","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10027,0,"","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10028,0,"","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10029,0,"","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10030,0,"","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0

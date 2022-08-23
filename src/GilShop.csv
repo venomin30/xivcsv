@@ -1,961 +1,969 @@
-﻿key,0,1,2,3,4,5
-#,Name,Icon,Quest,AcceptTalk,FailTalk,
-int32,str,Image,Quest,DefaultTalk,DefaultTalk,bit&01
-262144,"",,,,,False
-262145,"",,,,,False
-262151,"Purchase Items",,,,,True
-262152,"Purchase Lalafellin Gear",,,,,True
-262153,"Purchase Roegadyn Gear",,,,,True
-262154,"Purchase Elezen Gear",,,,,True
-262155,"Purchase Hyuran Gear",,,,,True
-262156,"Purchase Miqo'te Gear",,,,,True
-262157,"",,,,,True
-262158,"Purchase Items",,,,,True
-262159,"Purchase Lalafellin Gear",,,,,True
-262160,"Purchase Roegadyn Gear",,,,,True
-262161,"Purchase Elezen Gear",,,,,True
-262162,"Purchase Hyuran Gear",,,,,True
-262163,"Purchase Miqo'te Gear",,,,,True
-262164,"Purchase Items",,,,,True
-262165,"Purchase Lalafellin Gear",,,,,True
-262166,"Purchase Roegadyn Gear",,,,,True
-262167,"Purchase Elezen Gear",,,,,True
-262168,"Purchase Hyuran Gear",,,,,True
-262169,"Purchase Miqo'te Gear",,,,,True
-262170,"",,,,,True
-262171,"",,,,,True
-262172,"",,,,,True
-262173,"",,,,,True
-262174,"",,,,,True
-262175,"",,,,,True
-262176,"",,,,,True
-262177,"",,,,,True
-262178,"Purchase Battle Accessories",,,,,True
-262179,"Purchase Field Accessories",,,,,True
-262180,"",,,,,True
-262181,"Purchase Items",,,,,True
-262182,"",,,,,True
-262183,"Purchase Tools",,,,,True
-262184,"Purchase Weapons",,,,,True
-262185,"",,,,,True
-262186,"Purchase Battle Gear",,,,,True
-262187,"Purchase Field Gear",,,,,True
-262188,"Purchase Battle Accessories",,,,,True
-262189,"Purchase Field Accessories",,,,,True
-262190,"",,,,,True
-262191,"Purchase Items",,,,,True
-262192,"",,,,,True
-262193,"Purchase Tools",,,,,True
-262194,"Purchase Weapons",,,,,True
-262195,"Purchase Battle Gear",,,,,True
-262196,"Purchase Field Gear",,,,,True
-262197,"",,,,,True
-262198,"Purchase Battle Accessories",,,,,True
-262199,"Purchase Field Accessories",,,,,True
-262200,"",,,,,True
-262201,"Purchase Items",,,,,True
-262202,"",,,,,True
-262203,"Purchase Tools",,,,,True
-262204,"Purchase Weapons",,,,,True
-262205,"Purchase Battle Gear",,,,,True
-262206,"Purchase Field Gear",,,,,True
-262207,"",,,,,True
-262208,"",,,,,True
-262209,"Purchase Weapons",,,,,True
-262210,"",,,,,True
-262211,"",,,,,True
-262212,"Purchase Battle Accessories",,,,,True
-262213,"Purchase Battle Gear",,,,,True
-262214,"Purchase Field Gear",,,,,True
-262215,"Purchase Weapons",,,,,True
-262216,"Purchase Tools",,,,,True
-262217,"Purchase Weapons",,,,,True
-262218,"Purchase Battle Gear",,,,,True
-262219,"Purchase Field Gear",,,,,True
-262221,"Purchase Tools",,,,,True
-262222,"Purchase Weapons",,,,,True
-262223,"Purchase Battle Gear",,,,,True
-262224,"Purchase Field Gear",,,,,True
-262225,"Purchase Tools",,,,,True
-262226,"Purchase Weapons",,,,,True
-262227,"Purchase Battle Gear",,,,,True
-262228,"Purchase Field Gear",,,,,True
-262229,"Purchase Tools",,,,,True
-262230,"Purchase Weapons",,,,,True
-262231,"Purchase Battle Gear",,,,,True
-262232,"Purchase Field Gear",,,,,True
-262233,"Purchase Tools",,,,,True
-262234,"Purchase Weapons",,,,,True
-262235,"Purchase Battle Gear",,,,,True
-262236,"Purchase Field Gear",,,,,True
-262237,"Purchase Tools",,,,,True
-262238,"Purchase Weapons",,,,,True
-262239,"Purchase Battle Gear",,,,,True
-262240,"Purchase Field Gear",,,,,True
-262241,"Purchase Tools",,,,,True
-262242,"Purchase Weapons",,,,,True
-262243,"Purchase Battle Gear",,,,,True
-262244,"Purchase Field Gear",,,,,True
-262245,"Purchase Tools",,,,,True
-262246,"Purchase Weapons",,,,,True
-262247,"Purchase Battle Gear",,,,,True
-262248,"Purchase Field Gear",,,,,True
-262249,"Purchase Tools",,,,,True
-262250,"Purchase Weapons",,,,,True
-262251,"Purchase Battle Gear",,,,,True
-262252,"Purchase Field Gear",,,,,True
-262253,"Purchase Tools",,,,,True
-262254,"Purchase Weapons",,,,,True
-262255,"Purchase Battle Gear",,,,,True
-262256,"Purchase Field Gear",,,,,True
-262257,"",,,,,True
-262258,"Purchase Tools",,,,,True
-262259,"Purchase Weapons",,,,,True
-262260,"Purchase Battle Gear",,,,,True
-262261,"Purchase Field Gear",,,,,True
-262262,"Purchase Tools",,,,,True
-262263,"Purchase Weapons",,,,,True
-262264,"Purchase Battle Gear",,,,,True
-262265,"Purchase Field Gear",,,,,True
-262266,"Purchase Tools",,,,,True
-262267,"Purchase Weapons",,,,,True
-262268,"Purchase Battle Gear",,,,,True
-262269,"Purchase Field Gear",,,,,True
-262270,"Purchase Weapons",,,,,True
-262271,"Purchase Tools",,,,,True
-262272,"Purchase Battle Gear",,,,,True
-262273,"Purchase Field Gear",,,,,True
-262274,"Purchase Tools",,,,,True
-262275,"Purchase Weapons",,,,,True
-262276,"Purchase Battle Gear",,,,,True
-262277,"Purchase Field Gear",,,,,True
-262278,"Purchase Weapons",,,,,True
-262279,"Purchase Tools",,,,,True
-262280,"Purchase Battle Gear",,,,,True
-262281,"Purchase Field Gear",,,,,True
-262282,"Purchase Tools",,,,,True
-262283,"Purchase Weapons",,,,,True
-262284,"Purchase Battle Gear",,,,,True
-262285,"Purchase Field Gear",,,,,True
-262286,"Purchase Weapons",,,,,True
-262287,"Purchase Tools",,,,,True
-262288,"Purchase Battle Gear",,,,,True
-262289,"Purchase Field Gear",,,,,True
-262290,"Purchase Tools",,,,,True
-262291,"Purchase Weapons",,,,,True
-262292,"Purchase Battle Gear",,,,,True
-262293,"Purchase Field Gear",,,,,True
-262294,"Purchase Tools",,,,,True
-262295,"Purchase Weapons",,,,,True
-262296,"Purchase Battle Gear",,,,,True
-262297,"Purchase Field Gear",,,,,True
-262298,"Purchase Tools",,,,,True
-262299,"Purchase Weapons",,,,,True
-262300,"Purchase Battle Gear",,,,,True
-262301,"Purchase Field Gear",,,,,True
-262302,"Purchase Tools",,,,,True
-262303,"Purchase Weapons",,,,,True
-262304,"Purchase Battle Gear",,,,,True
-262305,"Purchase Field Gear",,,,,True
-262306,"Purchase Tools",,,,,True
-262307,"Purchase Weapons",,,,,True
-262308,"Purchase Battle Gear",,,,,True
-262309,"Purchase Field Gear",,,,,True
-262310,"Purchase Tools",,,,,True
-262311,"Purchase Weapons",,,,,True
-262312,"Purchase Battle Gear",,,,,True
-262313,"Purchase Field Gear",,,,,True
-262314,"Purchase Tools",,,,,True
-262315,"Purchase Weapons",,,,,True
-262316,"Purchase Battle Gear",,,,,True
-262317,"Purchase Field Gear",,,,,True
-262318,"Purchase Tools",,,,,True
-262319,"Purchase Weapons",,,,,True
-262320,"Purchase Battle Gear",,,,,True
-262321,"Purchase Field Gear",,,,,True
-262322,"Purchase Tools",,,,,True
-262323,"Purchase Weapons",,,,,True
-262324,"Purchase Battle Gear",,,,,True
-262325,"Purchase Field Gear",,,,,True
-262326,"Purchase Tools",,,,,True
-262327,"Purchase Weapons",,,,,True
-262328,"Purchase Battle Gear",,,,,True
-262329,"Purchase Field Gear",,,,,True
-262330,"Purchase Tools",,,,,True
-262331,"Purchase Weapons",,,,,True
-262332,"Purchase Battle Gear",,,,,True
-262333,"Purchase Field Gear",,,,,True
-262334,"Purchase Tools",,,,,True
-262335,"Purchase Weapons",,,,,True
-262336,"Purchase Battle Gear",,,,,True
-262337,"Purchase Field Gear",,,,,True
-262338,"Purchase Tools",,,,,True
-262339,"Purchase Weapons",,,,,True
-262340,"Purchase Battle Gear",,,,,True
-262341,"Purchase Field Gear",,,,,True
-262342,"Purchase Tools",,,,,True
-262343,"Purchase Weapons",,,,,True
-262344,"Purchase Battle Gear",,,,,True
-262345,"Purchase Field Gear",,,,,True
-262346,"Purchase Weapons",,,,,True
-262347,"Purchase Tools",,,,,True
-262348,"Purchase Battle Gear",,,,,True
-262349,"Purchase Field Gear",,,,,True
-262350,"",,,,,True
-262351,"Purchase Tools",,,,,True
-262352,"Purchase Weapons",,,,,True
-262353,"Purchase Battle Gear",,,,,True
-262354,"Purchase Field Gear",,,,,True
-262355,"Purchase Tools",,,,,True
-262356,"Purchase Weapons",,,,,True
-262357,"Purchase Battle Gear",,,,,True
-262358,"Purchase Field Gear",,,,,True
-262359,"Purchase Tools",,,,,True
-262360,"Purchase Weapons",,,,,True
-262361,"Purchase Battle Gear",,,,,True
-262362,"Purchase Field Gear",,,,,True
-262363,"Purchase Tools",,,,,True
-262364,"Purchase Weapons",,,,,True
-262365,"Purchase Battle Gear",,,,,True
-262366,"Purchase Field Gear",,,,,True
-262367,"Purchase Tools",,,,,True
-262368,"Purchase Weapons",,,,,True
-262369,"Purchase Battle Gear",,,,,True
-262370,"Purchase Field Gear",,,,,True
-262371,"Purchase Tools",,,,,True
-262372,"Purchase Tools",,,,,True
-262373,"Purchase Weapons",,,,,True
-262374,"Purchase Battle Gear",,,,,True
-262375,"Purchase Field Gear",,,,,True
-262376,"",,,,,True
-262377,"",,,,,True
-262378,"Purchase Tools",,,,,True
-262379,"Purchase Weapons",,,,,True
-262380,"Purchase Battle Gear",,,,,True
-262381,"Purchase Field Gear",,,,,True
-262382,"Purchase Tools",,,,,True
-262383,"Purchase Weapons",,,,,True
-262384,"Purchase Battle Gear",,,,,True
-262385,"Purchase Field Gear",,,,,True
-262386,"Purchase Tools",,,,,True
-262387,"Purchase Weapons",,,,,True
-262388,"Purchase Battle Gear",,,,,True
-262389,"Purchase Field Gear",,,,,True
-262390,"Purchase Tools",,,,,True
-262391,"Purchase Tools",,,,,True
-262392,"Purchase Tools",,,,,True
-262393,"Purchase Weapons",,,,,True
-262394,"Purchase Battle Gear",,,,,True
-262395,"Purchase Field Gear",,,,,True
-262396,"Purchase Tools",,,,,True
-262397,"Purchase Weapons",,,,,True
-262398,"Purchase Battle Gear",,,,,True
-262399,"Purchase Field Gear",,,,,True
-262400,"Purchase Tools",,,,,True
-262401,"Purchase Weapons",,,,,True
-262402,"Purchase Battle Gear",,,,,True
-262403,"Purchase Field Gear",,,,,True
-262404,"",,,,,True
-262405,"",,,,,True
-262406,"",,,,,True
-262407,"",,,,,True
-262408,"Purchase Weapons",,,,,True
-262409,"Purchase Battle Gear",,,,,True
-262410,"Purchase Weapons",,,,,True
-262411,"Purchase Battle Gear",,,,,True
-262412,"Purchase Weapons",,,,,True
-262413,"Purchase Battle Gear",,,,,True
-262414,"",,,,,True
-262415,"",,,,,True
-262419,"Purchase Furnishings (Exterior, Garden, Orchestrion)",,,,,True
-262420,"Purchase Furnishings (Exterior, Garden, Orchestrion)",,,,,True
-262421,"Purchase Furnishings (Exterior, Garden, Orchestrion)",,,,,True
-262422,"Purchase Items",,,,,True
-262423,"",,,,,True
-262424,"",,,,,True
-262425,"",,,,,True
-262426,"Purchase Items (Neutral)",,,,,True
-262427,"Purchase Items (Recognized)",,,,,True
-262428,"Purchase Items (Friendly)",,,,,True
-262429,"Purchase Items (Trusted)",,,,,True
-262430,"Purchase Items (Neutral)",,,,,True
-262431,"Purchase Items (Recognized)",,,,,True
-262432,"Purchase Items (Friendly)",,,,,True
-262433,"Purchase Items (Trusted)",,,,,True
-262434,"",,,,,True
-262435,"",,,,,True
-262436,"",,,,,True
-262437,"",,,,,True
-262438,"",,,,,True
-262439,"",,,,,True
-262440,"",,,,,True
-262441,"",,,,,True
-262442,"",,,,,True
-262443,"Purchase Lv. 50 Gear (DoW)",,,,,True
-262444,"Purchase Lv. 50 Gear (DoM)",,,,,True
-262445,"Purchase Lv. 50 Arms & Tools",,,,,True
-262446,"Purchase Quest Rewards I",,,,,True
-262449,"Purchase Achievement Rewards I",,,,,True
-262450,"Purchase Achievement Rewards II",,,,,True
-262451,"Purchase Items (Neutral)",,,,,True
-262452,"Purchase Items (Recognized)",,,,,True
-262453,"Purchase Items (Friendly)",,,,,True
-262454,"Purchase Items (Trusted)",,,,,True
-262455,"Purchase Items (Neutral)",,,,,True
-262456,"Purchase Items (Recognized)",,,,,True
-262457,"Purchase Items (Friendly)",,,,,True
-262458,"Purchase Items (Trusted)",,,,,True
-262459,"Purchase Glamouring Items",,"Submission Impossible",,,True
-262460,"Purchase Items",,,,,True
-262461,"Purchase Items (Lumber, Metal, Stone, Bone, Leather)","ui/icon/060000/060412.tex",,,,True
-262462,"Purchase Items (Cloth, Reagents)","ui/icon/060000/060412.tex",,,,True
-262463,"Purchase Items (Gardening, Dyes)","ui/icon/060000/060412.tex",,,,True
-262464,"",,,,,True
-262466,"Purchase Items",,,,,True
-262468,"Purchase Gender-specific Gear (Male)",,,,,True
-262469,"Purchase Gender-specific Gear (Female)",,,,,True
-262470,"Purchase Items",,,,,True
-262471,"Purchase Items (Catalysts)","ui/icon/060000/060412.tex",,,,True
-262472,"Purchase (Cooking Ingredients)","ui/icon/060000/060412.tex",,,,True
-262473,"Purchase Items (Neutral-Recognized)",,,,,True
-262474,"Purchase Items (Neutral-Recognized)",,,,,True
-262475,"Purchase Items (Friendly-Trusted)",,,,,True
-262476,"Purchase Items (Friendly-Trusted)",,,,,True
-262477,"Purchase Items (Respected-Honored)",,,,,True
-262478,"Purchase Items (Respected-Honored)",,,,,True
-262479,"Purchase Items (Sworn)",,,,,True
-262480,"Purchase Items (Allied)",,,,,True
-262481,"Purchase Items (Allied)",,,,,True
-262482,"Purchase Items (Allied)",,,,,True
-262483,"Purchase Items (Allied)",,,,,True
-262484,"Purchase Items (Allied)",,,,,True
-262485,"",,,,,True
-262486,"",,,,,True
-262488,"Purchase Novelty Gear",,,,,True
-262489,"Purchase Items",,,,,True
-262491,"Purchase Race Chocobo Forms",,,,"DefaultTalk#592240",True
-262492,"Purchase Items",,,,,True
-262493,"Purchase Items",,,,,True
-262494,"Purchase Items",,,,,True
-262495,"Purchase Items",,,,"DefaultTalk#592222",True
-262496,"Purchase Items",,,,,True
-262497,"Replicate Excalibur Zeta.",,,,,True
-262498,"Replicate Ragnarok Zeta.",,,,,True
-262499,"Replicate the Kaiser Knuckles Zeta.",,,,,True
-262500,"Replicate Longinus Zeta.",,,,,True
-262501,"Replicate the Sasuke's Blades Zeta.",,,,,True
-262502,"Replicate the Yoichi Bow Zeta.",,,,,True
-262503,"Replicate the Lilith Rod Zeta.",,,,,True
-262504,"Replicate Apocalypse Zeta.",,,,,True
-262505,"Replicate Nirvana Zeta.",,,,,True
-262506,"Replicate Last Resort Zeta.",,,,,True
-262507,"Replicate the Aegis Shield Zeta.",,,,,True
-262508,"Purchase Battle Accessories",,,,,True
-262509,"Purchase Items",,,,,True
-262510,"Purchase Battle Gear (DoW)",,,,,True
-262511,"Purchase Battle Gear (DoM)",,,,,True
-262512,"Purchase Weapons",,,,,True
-262513,"Purchase Items",,,,,True
-262514,"Purchase Tools",,,,,True
-262515,"Purchase Items",,,,,True
-262516,"Purchase Items",,,,,True
-262517,"Purchase Weapons",,,,,True
-262518,"Purchase Weapons",,,,,True
-262519,"Purchase Tools",,,,,True
-262520,"Purchase Weapons",,,,,True
-262521,"Purchase Battle Gear (DoW)",,,,,True
-262522,"Purchase Battle Gear (DoM)",,,,,True
-262523,"Purchase Tools",,,,,True
-262524,"Purchase Weapons",,,,,True
-262525,"Purchase Battle Gear (DoW)",,,,,True
-262526,"Purchase Battle Gear (DoM)",,,,,True
-262527,"Purchase Tools",,,,,True
-262528,"Purchase Weapons",,,,,True
-262529,"Purchase Battle Gear (DoW)",,,,,True
-262530,"Purchase Battle Gear (DoM)",,,,,True
-262531,"Purchase Tools",,,,,True
-262532,"Purchase Weapons",,,,,True
-262533,"Purchase Battle Gear (DoW)",,,,,True
-262534,"Purchase Battle Gear (DoM)",,,,,True
-262536,"Purchase Tools",,,,,True
-262537,"Purchase Weapons",,,,,True
-262538,"Purchase Battle Gear (DoW)",,,,,True
-262539,"Purchase Battle Gear (DoM)",,,,,True
-262540,"Purchase Tools",,,,,True
-262541,"Purchase Weapons",,,,,True
-262542,"Purchase Battle Gear (DoW)",,,,,True
-262543,"Purchase Battle Gear (DoM)",,,,,True
-262544,"Purchase Field Gear",,,,,True
-262545,"Purchase Tools",,,,,True
-262546,"Purchase Weapons",,,,,True
-262547,"Purchase Battle Gear (DoW)",,,,,True
-262548,"Purchase Battle Gear (DoM)",,,,,True
-262549,"Purchase Field Gear",,,,,True
-262550,"Purchase Tools",,,,,True
-262551,"Purchase Weapons",,,,,True
-262552,"Purchase Battle Gear (DoW)",,,,,True
-262553,"Purchase Battle Gear (DoM)",,,,,True
-262554,"Purchase Tools",,,,,True
-262555,"Purchase Weapons",,,,,True
-262556,"Purchase Battle Gear (DoW)",,,,,True
-262557,"Purchase Battle Gear (DoM)",,,,,True
-262558,"Purchase Items",,,,,True
-262559,"Purchase Items",,,,,True
-262560,"Purchase Auri Gear",,,,,True
-262561,"Purchase Auri Gear",,,,,True
-262562,"Purchase Auri Gear",,,,,True
-262564,"Purchase Tools",,,,,True
-262565,"Purchase Weapons",,,,,True
-262566,"Purchase Battle Gear (DoW)",,,,,True
-262567,"Purchase Battle Gear (DoM)",,,,,True
-262569,"Purchase Weapons",,,,,True
-262570,"Purchase Tools",,,,,True
-262571,"Purchase Weapons",,,,,True
-262572,"Purchase Battle Gear (DoW)",,,,,True
-262573,"Purchase Battle Gear (DoM)",,,,,True
-262574,"Purchase Minions (Gil)",,,,,True
-262575,"",,,,,True
-262576,"Purchase Items (Recognized)",,,,,True
-262577,"Purchase Items (Friendly)",,,,,True
-262578,"Purchase Items (Trusted-Honored)",,,,,True
-262579,"Purchase Items (Trusted-Honored)",,,,,True
-262580,"Purchase Items (Trusted-Honored)",,,,,True
-262581,"Purchase Items (Sworn-Bloodsworn)",,,,,True
-262582,"Purchase Items (Sworn-Bloodsworn)",,,,,True
-262584,"",,,,,False
-262585,"Purchase Items",,,,,True
-262586,"Purchase Items",,,,,True
-262587,"Purchase Items",,,,,True
-262588,"Purchase Items","ui/icon/060000/060412.tex",,,,True
-262603,"Purchase Items (Friendly)",,,,,True
-262604,"Purchase Items (Trusted)",,,,,True
-262605,"Purchase Items (Respected)",,,,,True
-262606,"Purchase Items (Honored)",,,,,True
-262607,"Purchase Items (Sworn)",,,,,True
-262608,"Purchase Items (Bloodsworn)",,,,,True
-262609,"Deal in Kettles",,,"DefaultTalk#593139","DefaultTalk#592260",True
-262610,"Replicate Awoken Weapons",,,,,True
-262611,"Replicate Anima Weapons",,,,,True
-262612,"Purchase Items (Gil)",,,,"DefaultTalk#593234",True
-262613,"Purchase Items (Neutral)",,,,,True
-262614,"Purchase Items (Recognized)",,,,,True
-262615,"Purchase Items (Friendly)",,,,,True
-262616,"Purchase Items (Trusted)",,,,,True
-262617,"Purchase Items (Respected)",,,,,True
-262618,"Purchase Items (Honored)",,,,,True
-262619,"Purchase Items (Sworn)",,,,,True
-262620,"Purchase Items (Bloodsworn)",,,,,True
-262621,"Purchase Tools",,,,,True
-262622,"Purchase Field Gear",,,,,True
-262623,"Purchase Field Gear",,,,,True
-262624,"Purchase Field Accessories",,,,,True
-262625,"Replicate Hyperconductive Weapons",,,,"DefaultTalk#593415",True
-262626,"Purchase Moonfire Faire Items I",,,,,True
-262627,"Purchase Moonfire Faire Items II",,,,,True
-262628,"Purchase All Saints' Wake Items",,,,,True
-262629,"Purchase Starlight Celebration Items",,,,,True
-262630,"Purchase Heavensturn Items",,,,,True
-262631,"Purchase Valentione's Day Items",,,,,True
-262632,"Purchase Little Ladies' Day Items",,,,,True
-262633,"Purchase Hatching-tide Items",,,,,True
-262634,"Purchase Other Seasonal Event Items",,,,,True
-262635,"Purchase Items",,,,,True
-262636,"Purchase Items",,,,,True
-262637,"Purchase Items",,,,,True
-262638,"Purchase Items I",,,,,True
-262639,"Purchase Items",,,,,True
-262640,"Purchase Battle Accessories",,,,,True
-262641,"Purchase Items",,,,,True
-262642,"Purchase Items",,,,,True
-262643,"Purchase Items",,,,,True
-262644,"Purchase Items",,,,,True
-262645,"Replicate Anima Weapons II",,,,"DefaultTalk#593415",True
-262646,"Purchase Seasonal Event Rewards",,,,,True
-262647,"Purchase Seasonal Event Rewards",,,,,True
-262648,"Purchase Items (Gil)",,,,,True
-262649,"Purchase Items (Allied)",,"Eternity, Loyalty, Honesty",,,True
-262650,"Purchase Items (Allied)",,"Eternity, Loyalty, Honesty",,,True
-262651,"Purchase Items (Allied)",,"Eternity, Loyalty, Honesty",,,True
-262652,"Replicate Sharp Anima Weapons",," Born Again Anima",,,True
-262653,"Replicate Complete Anima Weapons",," Best Friends Forever",,,True
-262654,"Purchase Furnishings (Interior)",,,,,True
-262655,"Purchase Furnishings (Chairs, Beds)",,,,,True
-262656,"Purchase Furnishings (Tables, Food)",,,,,True
-262657,"Purchase Furnishings (Shelves, Rugs, Lighting)",,,,,True
-262658,"Purchase Furnishings (Other)",,,,,True
-262659,"Purchase Paintings (La Noscea)",,,,,True
-262660,"Purchase Paintings (The Black Shroud)",,,,,True
-262661,"Purchase Paintings (Thanalan)",,,,,True
-262662,"Purchase Paintings (Coerthas, Mor Dhona)",,,,,True
-262663,"",,,,,True
-262664,"",,,,,True
-262665,"Purchase Seasonal Event Rewards",,,,,True
-262666,"Purchase Seasonal Event Rewards",,,,,True
-262667,"Purchase Seasonal Event Rewards",,,,,True
-262668,"",,,,,True
-262669,"",,,,,True
-262670,"",,,,,True
-262671,"Purchase Lalafellin Gear",,,,,True
-262672,"Purchase Roegadyn Gear",,,,,True
-262673,"Purchase Elezen Gear",,,,,True
-262674,"Purchase Hyuran Gear",,,,,True
-262675,"Purchase Miqo'te Gear",,,,,True
-262676,"Purchase Auri Gear",,,,,True
-262677,"Repurchase Paladin Gear",,,,,True
-262678,"Repurchase Warrior Gear",,,,,True
-262679,"Repurchase Dark Knight Gear",,,,,True
-262680,"Repurchase Monk Gear",,,,,True
-262681,"Repurchase Dragoon Gear",,,,,True
-262682,"Repurchase Ninja Gear",,,,,True
-262683,"Repurchase Bard Gear",,,,,True
-262684,"Repurchase Machinist Gear",,,,,True
-262685,"Repurchase Black Mage Gear",,,,,True
-262686,"Repurchase Summoner Gear",,,,,True
-262687,"Repurchase White Mage Gear",,,,,True
-262688,"Repurchase Scholar Gear",,,,,True
-262689,"Repurchase Astrologian Gear",,,,,True
-262690,"Purchase Furnishings (Garden, Orchestrion)",,,,,True
-262691,"Purchase Items",,,,,True
-262692,"Purchase Items",,"Brotherhood of Ash",,,True
-262693,"Purchase Items",,"Voyce of Concern",,,True
-262694,"Purchase Items",,"How Low Can You Go",,,True
-262695,"Purchase Items",,"Clutch and Kin",,,True
-262696,"Purchase Items",," Reaching for Cloud Nine",,,True
-262697,"Purchase Items",," A Tribal Reunion",,,True
-262698,"Purchase Items",," The Naming of Vath",,,True
-262699,"Purchase Items",," Tricks and Stones",,,True
-262700,"Purchase Gear (Lv. 1-9)",,,,,True
-262701,"Purchase Gear (Lv. 10-19)",,,,,True
-262702,"Purchase Gear (Lv. 20-29)",,,,,True
-262703,"Purchase Gear (Lv. 30-39)",,,,,True
-262704,"Purchase Gear (Lv. 40-49)",,,,,True
-262705,"Purchase Gear (Lv. 1-9)",,,,,True
-262706,"Purchase Gear (Lv. 10-19)",,,,,True
-262707,"Purchase Gear (Lv. 20-29)",,,,,True
-262708,"Purchase Gear (Lv. 30-39)",,,,,True
-262709,"Purchase Gear (Lv. 40-49)",,,,,True
-262710,"Purchase Gear (Lv. 1-9)",,,,,True
-262711,"Purchase Gear (Lv. 10-19)",,,,,True
-262712,"Purchase Gear (Lv. 20-29)",,,,,True
-262713,"Purchase Gear (Lv. 30-39)",,,,,True
-262714,"Purchase Gear (Lv. 40-49)",,,,,True
-262715,"Purchase Weapons (Lv. 1-9)",,,,,True
-262716,"Purchase Weapons (Lv. 10-19)",,,,,True
-262717,"Purchase Weapons (Lv. 20-29)",,,,,True
-262718,"Purchase Weapons (Lv. 30-39)",,,,,True
-262719,"Purchase Weapons (Lv. 40-49)",,,,,True
-262720,"Purchase Weapons (Lv. 1-9)",,,,,True
-262721,"Purchase Weapons (Lv. 10-19)",,,,,True
-262722,"Purchase Weapons (Lv. 20-29)",,,,,True
-262723,"Purchase Weapons (Lv. 30-39)",,,,,True
-262724,"Purchase Weapons (Lv. 40-49)",,,,,True
-262725,"Purchase Tools (Lv. 1-9)",,,,,True
-262726,"Purchase Tools (Lv. 10-19)",,,,,True
-262727,"Purchase Tools (Lv. 20-29)",,,,,True
-262728,"Purchase Tools (Lv. 30-39)",,,,,True
-262729,"Purchase Tools (Lv. 40-49)",,,,,True
-262730,"Purchase Tools (Lv. 1-9)",,,,,True
-262731,"Purchase Tools (Lv. 10-19)",,,,,True
-262732,"Purchase Tools (Lv. 20-29)",,,,,True
-262733,"Purchase Tools (Lv. 30-39)",,,,,True
-262734,"Purchase Tools (Lv. 40-49)",,,,,True
-262735,"Purchase Battlecraft Accessories",,,,,True
-262736,"Purchase Fieldcraft/Tradecraft Accessories",,,,,True
-262737,"Purchase Gear (Lv. 50)",,,,,True
-262738,"Purchase Gear (Lv. 52)",,,,,True
-262739,"Purchase Gear (Lv. 54)",,,,,True
-262740,"Purchase Gear (Lv. 56)",,,,,True
-262741,"Purchase Gear (Lv. 58)",,,,,True
-262743,"Purchase Gear (Lv. 50)",,,,,True
-262744,"Purchase Gear (Lv. 52)",,,,,True
-262745,"Purchase Gear (Lv. 54)",,,,,True
-262746,"Purchase Gear (Lv. 56)",,,,,True
-262747,"Purchase Gear (Lv. 58)",,,,,True
-262749,"Purchase Gear (Lv. 50-60)",,,,,True
-262750,"Purchase Weapons (Lv. 50)",,,,,True
-262751,"Purchase Weapons (Lv. 52)",,,,,True
-262752,"Purchase Weapons (Lv. 54)",,,,,True
-262753,"Purchase Weapons (Lv. 56)",,,,,True
-262754,"Purchase Weapons (Lv. 58)",,,,,True
-262756,"Purchase Weapons (Lv. 50)",,,,,True
-262757,"Purchase Weapons (Lv. 52)",,,,,True
-262758,"Purchase Weapons (Lv. 54)",,,,,True
-262759,"Purchase Weapons (Lv. 56)",,,,,True
-262760,"Purchase Weapons (Lv. 58)",,,,,True
-262762,"Purchase Tools (Lv. 50-60)",,,,,True
-262763,"Purchase Tools (Lv. 50-60)",,,,,True
-262764,"Purchase Battlecraft Accessories",,,,,True
-262765,"Purchase Fieldcraft/Tradecraft Accessories",,,,,True
-262766,"Purchase Items",,,,,True
-262767,"Purchase Items",,,,,True
-262768,"Purchase Items",,,,,True
-262769,"Purchase Items",,,,,True
-262770,"Purchase Items",,,,,True
-262771,"Purchase Items",,,,,True
-262772,"Purchase Items",,,,,True
-262773,"Purchase Items",,,,,True
-262774,"Purchase Items",,,,,True
-262775,"Purchase Items",,,,,True
-262776,"Purchase Items",,,,,True
-262777,"Purchase Items",,,,,True
-262778,"Purchase Items",,,,,True
-262779,"Purchase Items",,,,,True
-262780,"Purchase Items",,,,,True
-262781,"Purchase Items",,,,,True
-262782,"Purchase Items",,,,,True
-262783,"Purchase Items",,,,,True
-262784,"Purchase Items",,,,,True
-262785,"Purchase Items",,,,,True
-262786,"Purchase Items",,,,,True
-262787,"Purchase Items",,,,,True
-262788,"Purchase Items",,,,,True
-262789,"Purchase Items",,,,,True
-262790,"Purchase Items",,,,,True
-262791,"Purchase Items",,,,,True
-262792,"Purchase Items",,,,,True
-262793,"Purchase Items",,,,,True
-262794,"Purchase Items",,,,,True
-262795,"Purchase Items",,,,,True
-262796,"Purchase Items",,,,,True
-262797,"Purchase Items",,,,,True
-262798,"Purchase Items",,,,,True
-262799,"Purchase Items",,,,,True
-262800,"Purchase Items",,,,,True
-262801,"Purchase Items",,,,,True
-262802,"Purchase Items",,,,,True
-262803,"Purchase Items",,,,,True
-262804,"Purchase Items",,,,,True
-262805,"Purchase Items",,,,,True
-262806,"Purchase Items",,,,,True
-262807,"Purchase Items",,,,,True
-262808,"Purchase Items",,,,,True
-262809,"Purchase Items",,,,,True
-262810,"Purchase Items",,,,,True
-262811,"Purchase Items",,,,,True
-262813,"Purchase Items",,,,,True
-262814,"Purchase Items",,,,,True
-262817,"Purchase Items",,,,,True
-262818,"Purchase Items",,,,,True
-262819,"Purchase Items",,,,,True
-262820,"Purchase Battlecraft Gear (Lv. 60)",,,,,True
-262821,"Purchase Battlecraft Gear (DoW)",,,,,True
-262822,"Purchase Battlecraft Gear (DoW)",,,,,True
-262823,"Purchase Battlecraft Gear (DoW)",,,,,True
-262824,"Purchase Battlecraft Gear (DoW)",,,,,True
-262825,"Purchase Battlecraft Gear (DoW)",,,,,True
-262826,"",,,,,False
-262827,"Purchase Battlecraft Gear (Lv. 60)",,,,,True
-262828,"Purchase Battlecraft Gear (DoM)",,,,,True
-262829,"Purchase Battlecraft Gear (DoM)",,,,,True
-262830,"Purchase Battlecraft Gear (DoM)",,,,,True
-262831,"Purchase Battlecraft Gear (DoM)",,,,,True
-262832,"Purchase Battlecraft Gear (DoM)",,,,,True
-262833,"",,,,,False
-262834,"Purchase Tradecraft Gear",,,,,True
-262835,"Purchase Weapons (Lv. 60)",,,,,True
-262836,"Purchase Weapons",,,,,True
-262837,"Purchase Weapons",,,,,True
-262838,"Purchase Weapons",,,,,True
-262839,"Purchase Weapons",,,,,True
-262840,"Purchase Weapons",,,,,True
-262841,"",,,,,False
-262842,"Purchase Weapons (Lv. 60)",,,,,True
-262843,"Purchase Fieldcraft Gear",,,,,True
-262844,"Purchase Tradecraft Primary Tools",,,,,True
-262845,"Purchase Tradecraft Secondary Tools",,,,,True
-262846,"Purchase Fieldcraft Tools",,,,,True
-262847,"Purchase Battlecraft Accessories",,,,,True
-262848,"Purchase Battlecraft Accessories",,,,,True
-262849,"Purchase Battlecraft Accessories",,,,,True
-262850,"Purchase Battlecraft Accessories",,,,,True
-262851,"Purchase Battlecraft Accessories",,,,,True
-262852,"Purchase Tools",,,,,True
-262853,"Purchase Tools",,,,,True
-262854,"Purchase Tools",,,,,True
-262855,"Purchase Tools",,,,,True
-262856,"Purchase Fieldcraft/Tradecraft Gear",,,,,True
-262857,"Purchase Fieldcraft/Tradecraft Gear",,,,,True
-262858,"Purchase Fieldcraft/Tradecraft Gear",,,,,True
-262859,"Purchase Fieldcraft/Tradecraft Gear",,,,,True
-262860,"Purchase Fieldcraft/Tradecraft Gear",,,,,True
-262861,"Purchase Items",,,,,True
-262862,"Purchase Items",,,,,True
-262863,"Purchase Items",,,,,True
-262864,"Purchase Items",,,,,True
-262865,"Purchase Items",,,,,True
-262866,"Purchase Items",,,,,True
-262867,"Purchase Items",,,,,True
-262868,"Purchase Items",,,,,True
-262869,"Purchase Items",,,,,True
-262870,"Purchase Items",,,,,True
-262871,"Purchase Items",,,,,True
-262872,"Purchase Items",,,,,True
-262873,"Purchase Items",,,,,True
-262874,"Purchase Items",,,,,True
-262875,"Purchase Items",,,,,True
-262876,"Purchase Items",,,,,True
-262877,"Purchase Items",,,,,True
-262878,"Purchase Items",,,,,True
-262879,"Purchase Items",,,,,True
-262880,"Purchase Items",,,,,True
-262881,"Purchase Items",,,,,True
-262882,"Purchase Items",,,,,True
-262883,"Purchase Items",,,,,True
-262884,"Purchase Items",,,,,True
-262885,"Purchase Items",,,,,True
-262886,"Purchase Items",,,,,True
-262887,"Purchase Items",,,,,True
-262888,"Purchase Items",,,,,True
-262889,"Purchase Items",,,,,True
-262890,"Purchase Items",,,,,True
-262891,"Purchase Items",,,,,True
-262892,"Purchase Paintings (Gyr Abania)",,"Sights of Crimson and Dawn",,,True
-262893,"Purchase Paintings (Othard)",,"Sights of Crimson and Dawn",,,True
-262894,"Purchase Seasonal Event Rewards",,,,,True
-262895,"Purchase Seasonal Event Rewards",,,,,True
-262896,"Purchase Lv. 70 Arms ",,,,,True
-262897,"Purchase Lv. 70 Gear (DoW) I",,,,,True
-262898,"Purchase Lv. 70 Gear (DoW) II",,,,,True
-262899,"Purchase Lv. 70 Gear (DoM) ",,,,,True
-262900,"Replicate Anima Lux Weapons",," Best Friends Forever",,,True
-262901,"Purchase Glamouring Items",,"Absolutely Glamourous",,,True
-262902,"Purchase Items",,,,,True
-262903,"",,,,,True
-262904,"",,,,,True
-262905,"",,,,,True
-262906,"Purchase Paintings (Dravania)",,"Sights of the North",,,True
-262907,"Purchase Paintings (Abalathia's Spine)",,"Sights of the North",,,True
-262908,"Purchase Items",,,,,True
-262909,"",,,,,True
-262910,"Enter Boutique",,,"DefaultTalk#594792","DefaultTalk#594791",True
-262911,"Purchase Tools (Lv. 60)",," One Size Fits All",,,True
-262912,"Purchase Tools (Lv. 63)",," One Size Fits All",,,True
-262913,"Purchase Tools (Lv. 65)",," One Size Fits All",,,True
-262914,"Purchase Gear (Lv. 60)",," One Size Fits All",,,True
-262915,"Purchase Gear (Lv. 63)",," One Size Fits All",,,True
-262916,"Purchase Gear (Lv. 65)",," One Size Fits All",,,True
-262917,"Purchase Items",," One Size Fits All",,,True
-262918,"Replicate Eureka Weapons (DoW)",,,,,True
-262919,"",,,,,True
-262920,"Purchase Quest Rewards I","ui/icon/060000/060412.tex",,,,True
-262921,"",,,,,True
-262922,"Replicate Eureka Weapons (DoM)",,,,,True
-262923,"",,,,,True
-262924,"",,,,,True
-262925,"",,,,,False
-262926,"Purchase Blue Mage Arms & Gear",,"Out of the Blue",,,True
-262927,"",,,,,True
-262928,"Purchase Items",,,,,True
-262929,"Purchase Items II",,,,,True
-262930,"Purchase Items",,"A Many-splendored Thing",,,True
-262931,"",,,,"DefaultTalk#595156",True
-262932,"",,,,"DefaultTalk#595164",True
-262933,"Purchase Weapons (Lv. 62)",,,,,True
-262934,"Purchase Weapons (Lv. 64)",,,,,True
-262935,"Purchase Weapons (Lv. 66)",,,,,True
-262936,"Purchase Weapons (Lv. 68)",,,,,True
-262937,"Purchase Weapons (Lv. 70)",,,,,True
-262938,"Purchase Gear (Lv. 62)",,,,,True
-262939,"Purchase Gear (Lv. 64)",,,,,True
-262940,"Purchase Gear (Lv. 66)",,,,,True
-262941,"Purchase Gear (Lv. 68)",,,,,True
-262942,"Purchase Gear (Lv. 70)",,,,,True
-262943,"Purchase Gear (Lv. 62)",,,,,True
-262944,"Purchase Gear (Lv. 64)",,,,,True
-262945,"Purchase Gear (Lv. 66)",,,,,True
-262946,"Purchase Gear (Lv. 68)",,,,,True
-262947,"Purchase Gear (Lv. 70)",,,,,True
-262948,"Purchase Battlecraft Accessories",,,,,True
-262949,"Purchase Items",,,,,True
-262950,"Purchase Fieldcraft/Tradecraft Accessories",,,,,True
-262951,"Purchase Lv. 60 Gear (DoW)",,,,,True
-262952,"Purchase Furnishings (Partitions, Wall Decorations)",,,,,True
-262953,"Purchase Battlecraft Gear (DoW)",,,,,True
-262954,"Purchase Battlecraft Gear (DoW)",,,,,True
-262955,"Purchase Battlecraft Gear (DoW)",,,,,True
-262956,"Purchase Battlecraft Gear (DoW)",,,,,True
-262957,"Purchase Battlecraft Gear (DoW)",,,,,True
-262958,"Purchase Battlecraft Gear (DoM)",,,,,True
-262959,"Purchase Battlecraft Gear (DoM)",,,,,True
-262960,"Purchase Battlecraft Gear (DoM)",,,,,True
-262961,"Purchase Battlecraft Gear (DoM)",,,,,True
-262962,"Purchase Battlecraft Gear (DoM)",,,,,True
-262963,"Purchase Weapons",,,,,True
-262964,"Purchase Weapons",,,,,True
-262965,"Purchase Weapons",,,,,True
-262966,"Purchase Weapons",,,,,True
-262967,"Purchase Weapons",,,,,True
-262968,"Purchase Battlecraft Accessories",,,,,True
-262969,"Purchase Battlecraft Accessories",,,,,True
-262970,"Purchase Battlecraft Accessories",,,,,True
-262971,"Purchase Battlecraft Accessories",,,,,True
-262972,"Purchase Battlecraft Accessories",,,,,True
-262973,"Purchase Tools",,,,,True
-262974,"Purchase Tools",,,,,True
-262975,"Purchase Tools",,,,,True
-262976,"Purchase Tradecraft Primary Tools",,,,,True
-262977,"Purchase Tradecraft Secondary Tools",,,,,True
-262978,"Purchase Fieldcraft Tools",,,,,True
-262979,"Purchase Fieldcraft/Tradecraft Gear",,,,,True
-262980,"Purchase Fieldcraft/Tradecraft Gear",,,,,True
-262981,"Purchase Fieldcraft/Tradecraft Gear",,,,,True
-262982,"Purchase Fieldcraft/Tradecraft Gear",,,,,True
-262983,"Purchase Tradecraft Gear",,,,,True
-262984,"Purchase Fieldcraft Gear",,,,,True
-262985,"Purchase Items",,,,,True
-262986,"Purchase Items",,,,,True
-262987,"Purchase Items",,,,,True
-262988,"Purchase Items",,,,,True
-262989,"Purchase Items",,,,,True
-262990,"Purchase Items",,,,,True
-262991,"Purchase Items",,,,,True
-262992,"Purchase Items",,,,,True
-262993,"Purchase Items",,,,,True
-262994,"Purchase Items",,,,,True
-262995,"Purchase Items",,,,,True
-262996,"Purchase Items",,,,,True
-262997,"Purchase Items",,,,,True
-262998,"Purchase Items",,,,,True
-262999,"Purchase Items",,,,,True
-263000,"Purchase Items",,,,,True
-263001,"Purchase Items",,,,,True
-263002,"Purchase Items",,,,,True
-263003,"Purchase Items",,,,,True
-263004,"Purchase Items",,,,,True
-263005,"Purchase Items",,,,,True
-263006,"Purchase Items",,,,,True
-263007,"Purchase Viera Gear",,,,,True
-263008,"Purchase Hrothgar Gear",,,,,True
-263009,"Purchase Seasonal Event Rewards",,,,,True
-263010,"Purchase Items",,,,,True
-263011,"Purchase Items",,,,,True
-263012,"Purchase Items",,,,,True
-263013,"Purchase Paintings (The First)",,"Sights of the First",,,True
-263014,"Purchase Items",,,,,True
-263015,"Purchase Items",,,,,True
-263016,"Purchase Items",,,,,True
-263017,"Purchase Tools",," The Stewards of Note",,,True
-263018,"Purchase Gear",," The Stewards of Note",,,True
-263019,"Purchase Items",," The Stewards of Note",,,True
-263020,"",,,,,True
-263021,"Purchase Items",,,,,True
-263022,"Purchase Skysteel Prototypes",,"Mislaid Plans",,,True
-263023,"Purchase Items",,,,,True
-263024,"Purchase Skysteel Replicas",,,,,True
-263025,"Purchase Items",,,,,True
-263026,"Purchase Tools",," It's Dwarfin' Time",,,True
-263027,"Purchase Gear",," It's Dwarfin' Time",,,True
-263028,"Purchase Items",," It's Dwarfin' Time",,,True
-263029,"Purchase Scavenged Gear",,,,,True
-263030,"Purchase Items",,,,"DefaultTalk#597023",True
-263031,"Purchase Resistance Weapon Replicas (DoW) I",,,,,True
-263032,"Purchase Resistance Weapon Replicas (DoW) II",,,,,True
-263033,"Purchase Items",,"Coming to Ishgard",,,True
-263034,"Purchase Items III",,,,,True
-263035,"Purchase Items II",,,,,True
-263036,"",,,,"DefaultTalk#597316",True
-263037,"",,,,,True
-263038,"",,,,,True
-263039,"",,,,,True
-263040,"Purchase Resistance Weapon Replicas (DoM)",,,,,True
-263041,"",,,,,True
-263042,"Purchase Items",,,,,True
-263043,"Purchase Luxuries",,,,,True
-263044,"Purchase Luxuries",,,,,True
-263045,"Purchase Achievement Rewards III",,,,,True
-263046,"",,,,,True
-263047,"",,,,,True
-263048,"",,,,,True
-263049,"",,,,,True
-263050,"",,,,,True
-263051,"",,,,,True
-263052,"Purchase Weapons",,,,,True
-263053,"Purchase Weapons",,,,,True
-263054,"Purchase Weapons",,,,,True
-263055,"Purchase Weapons",,,,,True
-263056,"Purchase Weapons",,,,,True
-263057,"Purchase Battlecraft Gear (DoW)",,,,,True
-263058,"Purchase Battlecraft Gear (DoW)",,,,,True
-263059,"Purchase Battlecraft Gear (DoW)",,,,,True
-263060,"Purchase Battlecraft Gear (DoW)",,,,,True
-263061,"Purchase Battlecraft Gear (DoW)",,,,,True
-263062,"Purchase Battlecraft Gear (DoM)",,,,,True
-263063,"Purchase Battlecraft Gear (DoM)",,,,,True
-263064,"Purchase Battlecraft Gear (DoM)",,,,,True
-263065,"Purchase Battlecraft Gear (DoM)",,,,,True
-263066,"Purchase Battlecraft Gear (DoM)",,,,,True
-263067,"Purchase Battlecraft Accessories",,,,,True
-263068,"Purchase Battlecraft Accessories",,,,,True
-263069,"Purchase Battlecraft Accessories",,,,,True
-263070,"Purchase Battlecraft Accessories",,,,,True
-263071,"Purchase Battlecraft Accessories",,,,,True
-263072,"Purchase Tools",,,,,True
-263073,"Purchase Tools",,,,,True
-263074,"Purchase Tools",,,,,True
-263075,"Purchase Tradecraft Primary Tools",,,,,True
-263076,"Purchase Tradecraft Secondary Tools",,,,,True
-263077,"Purchase Fieldcraft Tools",,,,,True
-263078,"Purchase Fieldcraft/Tradecraft Gear",,,,,True
-263079,"Purchase Fieldcraft/Tradecraft Gear",,,,,True
-263080,"Purchase Fieldcraft/Tradecraft Gear",,,,,True
-263081,"Purchase Tradecraft Gear",,,,,True
-263082,"Purchase Fieldcraft Gear",,,,,True
-263083,"Purchase Weapons (Lv. 70)",,,,,True
-263084,"Purchase Weapons (Lv. 72)",,,,,True
-263085,"Purchase Weapons (Lv. 74)",,,,,True
-263086,"Purchase Weapons (Lv. 76)",,,,,True
-263087,"Purchase Weapons (Lv. 78)",,,,,True
-263088,"Purchase Weapons (Lv. 80)",,,,,True
-263089,"Purchase Gear (Lv. 70)",,,,,True
-263090,"Purchase Gear (Lv. 72)",,,,,True
-263091,"Purchase Gear (Lv. 74)",,,,,True
-263092,"Purchase Gear (Lv. 76)",,,,,True
-263093,"Purchase Gear (Lv. 78)",,,,,True
-263094,"Purchase Gear (Lv. 80)",,,,,True
-263095,"Purchase Gear (Lv. 70)",,,,,True
-263096,"Purchase Gear (Lv. 72)",,,,,True
-263097,"Purchase Gear (Lv. 74)",,,,,True
-263098,"Purchase Gear (Lv. 76)",,,,,True
-263099,"Purchase Gear (Lv. 78)",,,,,True
-263100,"Purchase Gear (Lv. 80)",,,,,True
-263101,"Purchase Battlecraft Accessories",,,,,True
-263102,"Purchase Fieldcraft/Tradecraft Accessories",,,,,True
-263103,"Purchase Items",,,,,True
-263104,"Purchase Items",,,,,True
-263105,"Purchase Items",,,,,True
-263106,"Purchase Items",,,,,True
-263107,"Purchase Items",,,,,True
-263108,"Purchase Items",,,,,True
-263109,"Purchase Items",,,,,True
-263110,"Purchase Items",,,,,True
-263111,"Purchase Items",,,,,True
-263112,"Purchase Items",,,,,True
-263113,"Purchase Items",,,,,True
-263114,"Purchase Items",,,,,True
-263115,"Purchase Items",,,,,True
-263116,"Purchase Items",,,,,True
-263117,"Purchase Items",,,,,True
-263118,"Purchase Items",,,,,True
-263119,"Purchase Items",,,,,True
-263120,"Purchase Items",,,,,True
-263121,"Purchase Items",,,,,True
-263122,"Purchase Items",,,,,True
-263123,"Purchase Gardening Items",,,,,True
-263124,"",,,,,False
-263125,"アイテムの購入",,,,,True
-263126,"Purchase Items",," Hippos Born to Run",,,True
-263127,"",,,,,False
-263128,"",,,,,False
-263129,"",,,,,False
-263130,"Purchase Paintings (The Northern Empty)",,"Sights of the End",,,True
-263131,"Purchase Paintings (Ilsabard)",,"Sights of the End",,,True
-263132,"Purchase Paintings (The World Unsundered)",,"Sights of the End",,,True
-263133,"Purchase Paintings (The Sea of Stars)",,"Sights of the End",,,True
-263134,"Purchase Quest Rewards II",,,,,True
-263135,"Repurchase Samurai Gear",,,,,True
-263136,"Repurchase Red Mage Gear",,,,,True
-263137,"Repurchase Gunbreaker Gear",,,,,True
-263138,"Repurchase Dancer Gear",,,,,True
-263139,"Repurchase Reaper Gear",,,,,True
-263140,"Repurchase Sage Gear",,,,,True
-263141,"Purchase Items",,,,,True
+﻿key,0,1,2,3,4,5,6
+#,Name,Icon,Quest,AcceptTalk,FailTalk,,
+int32,str,Image,Quest,DefaultTalk,DefaultTalk,bit&01,uint16
+262144,"",,,,,False,0
+262145,"",,,,,False,0
+262151,"Purchase Items",,,,,True,0
+262152,"Purchase Lalafellin Gear",,,,,True,0
+262153,"Purchase Roegadyn Gear",,,,,True,0
+262154,"Purchase Elezen Gear",,,,,True,0
+262155,"Purchase Hyuran Gear",,,,,True,0
+262156,"Purchase Miqo'te Gear",,,,,True,0
+262157,"",,,,,True,0
+262158,"Purchase Items",,,,,True,0
+262159,"Purchase Lalafellin Gear",,,,,True,0
+262160,"Purchase Roegadyn Gear",,,,,True,0
+262161,"Purchase Elezen Gear",,,,,True,0
+262162,"Purchase Hyuran Gear",,,,,True,0
+262163,"Purchase Miqo'te Gear",,,,,True,0
+262164,"Purchase Items",,,,,True,0
+262165,"Purchase Lalafellin Gear",,,,,True,0
+262166,"Purchase Roegadyn Gear",,,,,True,0
+262167,"Purchase Elezen Gear",,,,,True,0
+262168,"Purchase Hyuran Gear",,,,,True,0
+262169,"Purchase Miqo'te Gear",,,,,True,0
+262170,"",,,,,True,0
+262171,"",,,,,True,0
+262172,"",,,,,True,0
+262173,"",,,,,True,0
+262174,"",,,,,True,0
+262175,"",,,,,True,0
+262176,"",,,,,True,0
+262177,"",,,,,True,0
+262178,"Purchase Battle Accessories",,,,,True,0
+262179,"Purchase Field Accessories",,,,,True,0
+262180,"",,,,,True,0
+262181,"Purchase Items",,,,,True,0
+262182,"",,,,,True,0
+262183,"Purchase Tools",,,,,True,0
+262184,"Purchase Weapons",,,,,True,0
+262185,"",,,,,True,0
+262186,"Purchase Battle Gear",,,,,True,0
+262187,"Purchase Field Gear",,,,,True,0
+262188,"Purchase Battle Accessories",,,,,True,0
+262189,"Purchase Field Accessories",,,,,True,0
+262190,"",,,,,True,0
+262191,"Purchase Items",,,,,True,0
+262192,"",,,,,True,0
+262193,"Purchase Tools",,,,,True,0
+262194,"Purchase Weapons",,,,,True,0
+262195,"Purchase Battle Gear",,,,,True,0
+262196,"Purchase Field Gear",,,,,True,0
+262197,"",,,,,True,0
+262198,"Purchase Battle Accessories",,,,,True,0
+262199,"Purchase Field Accessories",,,,,True,0
+262200,"",,,,,True,0
+262201,"Purchase Items",,,,,True,0
+262202,"",,,,,True,0
+262203,"Purchase Tools",,,,,True,0
+262204,"Purchase Weapons",,,,,True,0
+262205,"Purchase Battle Gear",,,,,True,0
+262206,"Purchase Field Gear",,,,,True,0
+262207,"",,,,,True,0
+262208,"",,,,,True,0
+262209,"Purchase Weapons",,,,,True,0
+262210,"",,,,,True,0
+262211,"",,,,,True,0
+262212,"Purchase Battle Accessories",,,,,True,0
+262213,"Purchase Battle Gear",,,,,True,0
+262214,"Purchase Field Gear",,,,,True,0
+262215,"Purchase Weapons",,,,,True,0
+262216,"Purchase Tools",,,,,True,0
+262217,"Purchase Weapons",,,,,True,0
+262218,"Purchase Battle Gear",,,,,True,0
+262219,"Purchase Field Gear",,,,,True,0
+262221,"Purchase Tools",,,,,True,0
+262222,"Purchase Weapons",,,,,True,0
+262223,"Purchase Battle Gear",,,,,True,0
+262224,"Purchase Field Gear",,,,,True,0
+262225,"Purchase Tools",,,,,True,0
+262226,"Purchase Weapons",,,,,True,0
+262227,"Purchase Battle Gear",,,,,True,0
+262228,"Purchase Field Gear",,,,,True,0
+262229,"Purchase Tools",,,,,True,0
+262230,"Purchase Weapons",,,,,True,0
+262231,"Purchase Battle Gear",,,,,True,0
+262232,"Purchase Field Gear",,,,,True,0
+262233,"Purchase Tools",,,,,True,0
+262234,"Purchase Weapons",,,,,True,0
+262235,"Purchase Battle Gear",,,,,True,0
+262236,"Purchase Field Gear",,,,,True,0
+262237,"Purchase Tools",,,,,True,0
+262238,"Purchase Weapons",,,,,True,0
+262239,"Purchase Battle Gear",,,,,True,0
+262240,"Purchase Field Gear",,,,,True,0
+262241,"Purchase Tools",,,,,True,0
+262242,"Purchase Weapons",,,,,True,0
+262243,"Purchase Battle Gear",,,,,True,0
+262244,"Purchase Field Gear",,,,,True,0
+262245,"Purchase Tools",,,,,True,0
+262246,"Purchase Weapons",,,,,True,0
+262247,"Purchase Battle Gear",,,,,True,0
+262248,"Purchase Field Gear",,,,,True,0
+262249,"Purchase Tools",,,,,True,0
+262250,"Purchase Weapons",,,,,True,0
+262251,"Purchase Battle Gear",,,,,True,0
+262252,"Purchase Field Gear",,,,,True,0
+262253,"Purchase Tools",,,,,True,0
+262254,"Purchase Weapons",,,,,True,0
+262255,"Purchase Battle Gear",,,,,True,0
+262256,"Purchase Field Gear",,,,,True,0
+262257,"",,,,,True,0
+262258,"Purchase Tools",,,,,True,0
+262259,"Purchase Weapons",,,,,True,0
+262260,"Purchase Battle Gear",,,,,True,0
+262261,"Purchase Field Gear",,,,,True,0
+262262,"Purchase Tools",,,,,True,0
+262263,"Purchase Weapons",,,,,True,0
+262264,"Purchase Battle Gear",,,,,True,0
+262265,"Purchase Field Gear",,,,,True,0
+262266,"Purchase Tools",,,,,True,0
+262267,"Purchase Weapons",,,,,True,0
+262268,"Purchase Battle Gear",,,,,True,0
+262269,"Purchase Field Gear",,,,,True,0
+262270,"Purchase Weapons",,,,,True,0
+262271,"Purchase Tools",,,,,True,0
+262272,"Purchase Battle Gear",,,,,True,0
+262273,"Purchase Field Gear",,,,,True,0
+262274,"Purchase Tools",,,,,True,0
+262275,"Purchase Weapons",,,,,True,0
+262276,"Purchase Battle Gear",,,,,True,0
+262277,"Purchase Field Gear",,,,,True,0
+262278,"Purchase Weapons",,,,,True,0
+262279,"Purchase Tools",,,,,True,0
+262280,"Purchase Battle Gear",,,,,True,0
+262281,"Purchase Field Gear",,,,,True,0
+262282,"Purchase Tools",,,,,True,0
+262283,"Purchase Weapons",,,,,True,0
+262284,"Purchase Battle Gear",,,,,True,0
+262285,"Purchase Field Gear",,,,,True,0
+262286,"Purchase Weapons",,,,,True,0
+262287,"Purchase Tools",,,,,True,0
+262288,"Purchase Battle Gear",,,,,True,0
+262289,"Purchase Field Gear",,,,,True,0
+262290,"Purchase Tools",,,,,True,0
+262291,"Purchase Weapons",,,,,True,0
+262292,"Purchase Battle Gear",,,,,True,0
+262293,"Purchase Field Gear",,,,,True,0
+262294,"Purchase Tools",,,,,True,0
+262295,"Purchase Weapons",,,,,True,0
+262296,"Purchase Battle Gear",,,,,True,0
+262297,"Purchase Field Gear",,,,,True,0
+262298,"Purchase Tools",,,,,True,0
+262299,"Purchase Weapons",,,,,True,0
+262300,"Purchase Battle Gear",,,,,True,0
+262301,"Purchase Field Gear",,,,,True,0
+262302,"Purchase Tools",,,,,True,0
+262303,"Purchase Weapons",,,,,True,0
+262304,"Purchase Battle Gear",,,,,True,0
+262305,"Purchase Field Gear",,,,,True,0
+262306,"Purchase Tools",,,,,True,0
+262307,"Purchase Weapons",,,,,True,0
+262308,"Purchase Battle Gear",,,,,True,0
+262309,"Purchase Field Gear",,,,,True,0
+262310,"Purchase Tools",,,,,True,0
+262311,"Purchase Weapons",,,,,True,0
+262312,"Purchase Battle Gear",,,,,True,0
+262313,"Purchase Field Gear",,,,,True,0
+262314,"Purchase Tools",,,,,True,0
+262315,"Purchase Weapons",,,,,True,0
+262316,"Purchase Battle Gear",,,,,True,0
+262317,"Purchase Field Gear",,,,,True,0
+262318,"Purchase Tools",,,,,True,0
+262319,"Purchase Weapons",,,,,True,0
+262320,"Purchase Battle Gear",,,,,True,0
+262321,"Purchase Field Gear",,,,,True,0
+262322,"Purchase Tools",,,,,True,0
+262323,"Purchase Weapons",,,,,True,0
+262324,"Purchase Battle Gear",,,,,True,0
+262325,"Purchase Field Gear",,,,,True,0
+262326,"Purchase Tools",,,,,True,0
+262327,"Purchase Weapons",,,,,True,0
+262328,"Purchase Battle Gear",,,,,True,0
+262329,"Purchase Field Gear",,,,,True,0
+262330,"Purchase Tools",,,,,True,0
+262331,"Purchase Weapons",,,,,True,0
+262332,"Purchase Battle Gear",,,,,True,0
+262333,"Purchase Field Gear",,,,,True,0
+262334,"Purchase Tools",,,,,True,0
+262335,"Purchase Weapons",,,,,True,0
+262336,"Purchase Battle Gear",,,,,True,0
+262337,"Purchase Field Gear",,,,,True,0
+262338,"Purchase Tools",,,,,True,0
+262339,"Purchase Weapons",,,,,True,0
+262340,"Purchase Battle Gear",,,,,True,0
+262341,"Purchase Field Gear",,,,,True,0
+262342,"Purchase Tools",,,,,True,0
+262343,"Purchase Weapons",,,,,True,0
+262344,"Purchase Battle Gear",,,,,True,0
+262345,"Purchase Field Gear",,,,,True,0
+262346,"Purchase Weapons",,,,,True,0
+262347,"Purchase Tools",,,,,True,0
+262348,"Purchase Battle Gear",,,,,True,0
+262349,"Purchase Field Gear",,,,,True,0
+262350,"",,,,,True,0
+262351,"Purchase Tools",,,,,True,0
+262352,"Purchase Weapons",,,,,True,0
+262353,"Purchase Battle Gear",,,,,True,0
+262354,"Purchase Field Gear",,,,,True,0
+262355,"Purchase Tools",,,,,True,0
+262356,"Purchase Weapons",,,,,True,0
+262357,"Purchase Battle Gear",,,,,True,0
+262358,"Purchase Field Gear",,,,,True,0
+262359,"Purchase Tools",,,,,True,0
+262360,"Purchase Weapons",,,,,True,0
+262361,"Purchase Battle Gear",,,,,True,0
+262362,"Purchase Field Gear",,,,,True,0
+262363,"Purchase Tools",,,,,True,0
+262364,"Purchase Weapons",,,,,True,0
+262365,"Purchase Battle Gear",,,,,True,0
+262366,"Purchase Field Gear",,,,,True,0
+262367,"Purchase Tools",,,,,True,0
+262368,"Purchase Weapons",,,,,True,0
+262369,"Purchase Battle Gear",,,,,True,0
+262370,"Purchase Field Gear",,,,,True,0
+262371,"Purchase Tools",,,,,True,0
+262372,"Purchase Tools",,,,,True,0
+262373,"Purchase Weapons",,,,,True,0
+262374,"Purchase Battle Gear",,,,,True,0
+262375,"Purchase Field Gear",,,,,True,0
+262376,"",,,,,True,0
+262377,"",,,,,True,0
+262378,"Purchase Tools",,,,,True,0
+262379,"Purchase Weapons",,,,,True,0
+262380,"Purchase Battle Gear",,,,,True,0
+262381,"Purchase Field Gear",,,,,True,0
+262382,"Purchase Tools",,,,,True,0
+262383,"Purchase Weapons",,,,,True,0
+262384,"Purchase Battle Gear",,,,,True,0
+262385,"Purchase Field Gear",,,,,True,0
+262386,"Purchase Tools",,,,,True,0
+262387,"Purchase Weapons",,,,,True,0
+262388,"Purchase Battle Gear",,,,,True,0
+262389,"Purchase Field Gear",,,,,True,0
+262390,"Purchase Tools",,,,,True,0
+262391,"Purchase Tools",,,,,True,0
+262392,"Purchase Tools",,,,,True,0
+262393,"Purchase Weapons",,,,,True,0
+262394,"Purchase Battle Gear",,,,,True,0
+262395,"Purchase Field Gear",,,,,True,0
+262396,"Purchase Tools",,,,,True,0
+262397,"Purchase Weapons",,,,,True,0
+262398,"Purchase Battle Gear",,,,,True,0
+262399,"Purchase Field Gear",,,,,True,0
+262400,"Purchase Tools",,,,,True,0
+262401,"Purchase Weapons",,,,,True,0
+262402,"Purchase Battle Gear",,,,,True,0
+262403,"Purchase Field Gear",,,,,True,0
+262404,"",,,,,True,0
+262405,"",,,,,True,0
+262406,"",,,,,True,0
+262407,"",,,,,True,0
+262408,"Purchase Weapons",,,,,True,0
+262409,"Purchase Battle Gear",,,,,True,0
+262410,"Purchase Weapons",,,,,True,0
+262411,"Purchase Battle Gear",,,,,True,0
+262412,"Purchase Weapons",,,,,True,0
+262413,"Purchase Battle Gear",,,,,True,0
+262414,"",,,,,True,13
+262415,"",,,,,True,2
+262419,"Purchase Furnishings (Exterior, Garden, Orchestrion)",,,,,True,0
+262420,"Purchase Furnishings (Exterior, Garden, Orchestrion)",,,,,True,0
+262421,"Purchase Furnishings (Exterior, Garden, Orchestrion)",,,,,True,0
+262422,"Purchase Items",,,,,True,0
+262423,"",,,,,True,5
+262424,"",,,,,True,8
+262425,"",,,,,True,9
+262426,"Purchase Items (Neutral)",,,,,True,0
+262427,"Purchase Items (Recognized)",,,,,True,0
+262428,"Purchase Items (Friendly)",,,,,True,0
+262429,"Purchase Items (Trusted)",,,,,True,0
+262430,"Purchase Items (Neutral)",,,,,True,0
+262431,"Purchase Items (Recognized)",,,,,True,0
+262432,"Purchase Items (Friendly)",,,,,True,0
+262433,"Purchase Items (Trusted)",,,,,True,0
+262434,"",,,,,True,0
+262435,"",,,,,True,0
+262436,"",,,,,True,0
+262437,"",,,,,True,0
+262438,"",,,,,True,0
+262439,"",,,,,True,0
+262440,"",,,,,True,0
+262441,"",,,,,True,0
+262442,"",,,,,True,0
+262443,"Purchase Lv. 50 Gear (DoW)",,,,,True,0
+262444,"Purchase Lv. 50 Gear (DoM)",,,,,True,0
+262445,"Purchase Lv. 50 Arms & Tools",,,,,True,0
+262446,"Purchase Quest Rewards I",,,,,True,0
+262449,"Purchase Achievement Rewards I",,,,,True,0
+262450,"Purchase Achievement Rewards II",,,,,True,0
+262451,"Purchase Items (Neutral)",,,,,True,0
+262452,"Purchase Items (Recognized)",,,,,True,0
+262453,"Purchase Items (Friendly)",,,,,True,0
+262454,"Purchase Items (Trusted)",,,,,True,0
+262455,"Purchase Items (Neutral)",,,,,True,0
+262456,"Purchase Items (Recognized)",,,,,True,0
+262457,"Purchase Items (Friendly)",,,,,True,0
+262458,"Purchase Items (Trusted)",,,,,True,0
+262459,"Purchase Glamouring Items",,"Submission Impossible",,,True,0
+262460,"Purchase Items",,,,,True,10
+262461,"Purchase Items (Lumber, Metal, Stone, Bone, Leather)","ui/icon/060000/060412.tex",,,,True,0
+262462,"Purchase Items (Cloth, Reagents)","ui/icon/060000/060412.tex",,,,True,0
+262463,"Purchase Items (Gardening, Dyes)","ui/icon/060000/060412.tex",,,,True,0
+262464,"",,,,,True,0
+262466,"Purchase Items",,,,,True,0
+262468,"Purchase Gender-specific Gear (Male)",,,,,True,11
+262469,"Purchase Gender-specific Gear (Female)",,,,,True,11
+262470,"Purchase Items",,,,,True,11
+262471,"Purchase Items (Catalysts)","ui/icon/060000/060412.tex",,,,True,0
+262472,"Purchase (Cooking Ingredients)","ui/icon/060000/060412.tex",,,,True,0
+262473,"Purchase Items (Neutral-Recognized)",,,,,True,0
+262474,"Purchase Items (Neutral-Recognized)",,,,,True,0
+262475,"Purchase Items (Friendly-Trusted)",,,,,True,0
+262476,"Purchase Items (Friendly-Trusted)",,,,,True,0
+262477,"Purchase Items (Respected-Honored)",,,,,True,0
+262478,"Purchase Items (Respected-Honored)",,,,,True,0
+262479,"Purchase Items (Sworn)",,,,,True,0
+262480,"Purchase Items (Allied)",,,,,True,0
+262481,"Purchase Items (Allied)",,,,,True,0
+262482,"Purchase Items (Allied)",,,,,True,0
+262483,"Purchase Items (Allied)",,,,,True,0
+262484,"Purchase Items (Allied)",,,,,True,0
+262485,"",,,,,True,7
+262486,"",,,,,True,0
+262488,"Purchase Novelty Gear",,,,,True,0
+262489,"Purchase Items",,,,,True,16
+262491,"Purchase Race Chocobo Forms",,,,"DefaultTalk#592240",True,0
+262492,"Purchase Items",,,,,True,0
+262493,"Purchase Items",,,,,True,19
+262494,"Purchase Items",,,,,True,0
+262495,"Purchase Items",,,,"DefaultTalk#592222",True,20
+262496,"Purchase Items",,,,,True,0
+262497,"Replicate Excalibur Zeta.",,,,,True,0
+262498,"Replicate Ragnarok Zeta.",,,,,True,0
+262499,"Replicate the Kaiser Knuckles Zeta.",,,,,True,0
+262500,"Replicate Longinus Zeta.",,,,,True,0
+262501,"Replicate the Sasuke's Blades Zeta.",,,,,True,0
+262502,"Replicate the Yoichi Bow Zeta.",,,,,True,0
+262503,"Replicate the Lilith Rod Zeta.",,,,,True,0
+262504,"Replicate Apocalypse Zeta.",,,,,True,0
+262505,"Replicate Nirvana Zeta.",,,,,True,0
+262506,"Replicate Last Resort Zeta.",,,,,True,0
+262507,"Replicate the Aegis Shield Zeta.",,,,,True,0
+262508,"Purchase Battle Accessories",,,,,True,0
+262509,"Purchase Items",,,,,True,0
+262510,"Purchase Battle Gear (DoW)",,,,,True,0
+262511,"Purchase Battle Gear (DoM)",,,,,True,0
+262512,"Purchase Weapons",,,,,True,0
+262513,"Purchase Items",,,,,True,0
+262514,"Purchase Tools",,,,,True,0
+262515,"Purchase Items",,,,,True,0
+262516,"Purchase Items",,,,,True,0
+262517,"Purchase Weapons",,,,,True,0
+262518,"Purchase Weapons",,,,,True,0
+262519,"Purchase Tools",,,,,True,0
+262520,"Purchase Weapons",,,,,True,0
+262521,"Purchase Battle Gear (DoW)",,,,,True,0
+262522,"Purchase Battle Gear (DoM)",,,,,True,0
+262523,"Purchase Tools",,,,,True,0
+262524,"Purchase Weapons",,,,,True,0
+262525,"Purchase Battle Gear (DoW)",,,,,True,0
+262526,"Purchase Battle Gear (DoM)",,,,,True,0
+262527,"Purchase Tools",,,,,True,0
+262528,"Purchase Weapons",,,,,True,0
+262529,"Purchase Battle Gear (DoW)",,,,,True,0
+262530,"Purchase Battle Gear (DoM)",,,,,True,0
+262531,"Purchase Tools",,,,,True,0
+262532,"Purchase Weapons",,,,,True,0
+262533,"Purchase Battle Gear (DoW)",,,,,True,0
+262534,"Purchase Battle Gear (DoM)",,,,,True,0
+262536,"Purchase Tools",,,,,True,0
+262537,"Purchase Weapons",,,,,True,0
+262538,"Purchase Battle Gear (DoW)",,,,,True,0
+262539,"Purchase Battle Gear (DoM)",,,,,True,0
+262540,"Purchase Tools",,,,,True,0
+262541,"Purchase Weapons",,,,,True,0
+262542,"Purchase Battle Gear (DoW)",,,,,True,0
+262543,"Purchase Battle Gear (DoM)",,,,,True,0
+262544,"Purchase Field Gear",,,,,True,0
+262545,"Purchase Tools",,,,,True,0
+262546,"Purchase Weapons",,,,,True,0
+262547,"Purchase Battle Gear (DoW)",,,,,True,0
+262548,"Purchase Battle Gear (DoM)",,,,,True,0
+262549,"Purchase Field Gear",,,,,True,0
+262550,"Purchase Tools",,,,,True,0
+262551,"Purchase Weapons",,,,,True,0
+262552,"Purchase Battle Gear (DoW)",,,,,True,0
+262553,"Purchase Battle Gear (DoM)",,,,,True,0
+262554,"Purchase Tools",,,,,True,0
+262555,"Purchase Weapons",,,,,True,0
+262556,"Purchase Battle Gear (DoW)",,,,,True,0
+262557,"Purchase Battle Gear (DoM)",,,,,True,0
+262558,"Purchase Items",,,,,True,23
+262559,"Purchase Items",,,,,True,22
+262560,"Purchase Auri Gear",,,,,True,0
+262561,"Purchase Auri Gear",,,,,True,0
+262562,"Purchase Auri Gear",,,,,True,0
+262564,"Purchase Tools",,,,,True,0
+262565,"Purchase Weapons",,,,,True,0
+262566,"Purchase Battle Gear (DoW)",,,,,True,0
+262567,"Purchase Battle Gear (DoM)",,,,,True,0
+262569,"Purchase Weapons",,,,,True,0
+262570,"Purchase Tools",,,,,True,0
+262571,"Purchase Weapons",,,,,True,0
+262572,"Purchase Battle Gear (DoW)",,,,,True,0
+262573,"Purchase Battle Gear (DoM)",,,,,True,0
+262574,"Purchase Minions (Gil)",,,,,True,0
+262575,"",,,,,True,28
+262576,"Purchase Items (Recognized)",,,,,True,0
+262577,"Purchase Items (Friendly)",,,,,True,0
+262578,"Purchase Items (Trusted-Honored)",,,,,True,0
+262579,"Purchase Items (Trusted-Honored)",,,,,True,0
+262580,"Purchase Items (Trusted-Honored)",,,,,True,0
+262581,"Purchase Items (Sworn-Bloodsworn)",,,,,True,0
+262582,"Purchase Items (Sworn-Bloodsworn)",,,,,True,0
+262584,"",,,,,False,0
+262585,"Purchase Items",,,,,True,31
+262586,"Purchase Items",,,,,True,32
+262587,"Purchase Items",,,,,True,33
+262588,"Purchase Items","ui/icon/060000/060412.tex",,,,True,0
+262603,"Purchase Items (Friendly)",,,,,True,0
+262604,"Purchase Items (Trusted)",,,,,True,0
+262605,"Purchase Items (Respected)",,,,,True,0
+262606,"Purchase Items (Honored)",,,,,True,0
+262607,"Purchase Items (Sworn)",,,,,True,0
+262608,"Purchase Items (Bloodsworn)",,,,,True,0
+262609,"Deal in Kettles",,,"DefaultTalk#593139","DefaultTalk#592260",True,0
+262610,"Replicate Awoken Weapons",,,,,True,0
+262611,"Replicate Anima Weapons",,,,,True,0
+262612,"Purchase Items (Gil)",,,,"DefaultTalk#593234",True,0
+262613,"Purchase Items (Neutral)",,,,,True,0
+262614,"Purchase Items (Recognized)",,,,,True,0
+262615,"Purchase Items (Friendly)",,,,,True,0
+262616,"Purchase Items (Trusted)",,,,,True,0
+262617,"Purchase Items (Respected)",,,,,True,0
+262618,"Purchase Items (Honored)",,,,,True,0
+262619,"Purchase Items (Sworn)",,,,,True,0
+262620,"Purchase Items (Bloodsworn)",,,,,True,0
+262621,"Purchase Tools",,,,,True,0
+262622,"Purchase Field Gear",,,,,True,0
+262623,"Purchase Field Gear",,,,,True,0
+262624,"Purchase Field Accessories",,,,,True,0
+262625,"Replicate Hyperconductive Weapons",,,,"DefaultTalk#593415",True,0
+262626,"Purchase Moonfire Faire Items I",,,,,True,0
+262627,"Purchase Moonfire Faire Items II",,,,,True,0
+262628,"Purchase All Saints' Wake Items",,,,,True,0
+262629,"Purchase Starlight Celebration Items",,,,,True,0
+262630,"Purchase Heavensturn Items",,,,,True,0
+262631,"Purchase Valentione's Day Items",,,,,True,0
+262632,"Purchase Little Ladies' Day Items",,,,,True,0
+262633,"Purchase Hatching-tide Items",,,,,True,0
+262634,"Purchase Other Seasonal Event Items",,,,,True,0
+262635,"Purchase Items",,,,,True,0
+262636,"Purchase Items",,,,,True,38
+262637,"Purchase Items",,,,,True,0
+262638,"Purchase Items I",,,,,True,0
+262639,"Purchase Items",,,,,True,0
+262640,"Purchase Battle Accessories",,,,,True,0
+262641,"Purchase Items",,,,,True,37
+262642,"Purchase Items",,,,,True,0
+262643,"Purchase Items",,,,,True,0
+262644,"Purchase Items",,,,,True,0
+262645,"Replicate Anima Weapons II",,,,"DefaultTalk#593415",True,0
+262646,"Purchase Seasonal Event Rewards",,,,,True,43
+262647,"Purchase Seasonal Event Rewards",,,,,True,44
+262648,"Purchase Items (Gil)",,,,,True,46
+262649,"Purchase Items (Allied)",,"Eternity, Loyalty, Honesty",,,True,0
+262650,"Purchase Items (Allied)",,"Eternity, Loyalty, Honesty",,,True,0
+262651,"Purchase Items (Allied)",,"Eternity, Loyalty, Honesty",,,True,0
+262652,"Replicate Sharp Anima Weapons",," Born Again Anima",,,True,0
+262653,"Replicate Complete Anima Weapons",," Best Friends Forever",,,True,0
+262654,"Purchase Furnishings (Interior)",,,,,True,0
+262655,"Purchase Furnishings (Chairs, Beds)",,,,,True,0
+262656,"Purchase Furnishings (Tables, Food)",,,,,True,0
+262657,"Purchase Furnishings (Shelves, Rugs, Lighting)",,,,,True,0
+262658,"Purchase Furnishings (Other)",,,,,True,0
+262659,"Purchase Paintings (La Noscea)",,,,,True,0
+262660,"Purchase Paintings (The Black Shroud)",,,,,True,0
+262661,"Purchase Paintings (Thanalan)",,,,,True,0
+262662,"Purchase Paintings (Coerthas, Mor Dhona)",,,,,True,0
+262663,"",,,,,True,45
+262664,"",,,,,True,47
+262665,"Purchase Seasonal Event Rewards",,,,,True,50
+262666,"Purchase Seasonal Event Rewards",,,,,True,51
+262667,"Purchase Seasonal Event Rewards",,,,,True,52
+262668,"",,,,,True,0
+262669,"",,,,,True,0
+262670,"",,,,,True,0
+262671,"Purchase Lalafellin Gear",,,,,True,0
+262672,"Purchase Roegadyn Gear",,,,,True,0
+262673,"Purchase Elezen Gear",,,,,True,0
+262674,"Purchase Hyuran Gear",,,,,True,0
+262675,"Purchase Miqo'te Gear",,,,,True,0
+262676,"Purchase Auri Gear",,,,,True,0
+262677,"Repurchase Paladin Gear",,,,,True,0
+262678,"Repurchase Warrior Gear",,,,,True,0
+262679,"Repurchase Dark Knight Gear",,,,,True,0
+262680,"Repurchase Monk Gear",,,,,True,0
+262681,"Repurchase Dragoon Gear",,,,,True,0
+262682,"Repurchase Ninja Gear",,,,,True,0
+262683,"Repurchase Bard Gear",,,,,True,0
+262684,"Repurchase Machinist Gear",,,,,True,0
+262685,"Repurchase Black Mage Gear",,,,,True,0
+262686,"Repurchase Summoner Gear",,,,,True,0
+262687,"Repurchase White Mage Gear",,,,,True,0
+262688,"Repurchase Scholar Gear",,,,,True,0
+262689,"Repurchase Astrologian Gear",,,,,True,0
+262690,"Purchase Furnishings (Garden, Orchestrion)",,,,,True,0
+262691,"Purchase Items",,,,,True,0
+262692,"Purchase Items",,"Brotherhood of Ash",,,True,0
+262693,"Purchase Items",,"Voyce of Concern",,,True,0
+262694,"Purchase Items",,"How Low Can You Go",,,True,0
+262695,"Purchase Items",,"Clutch and Kin",,,True,0
+262696,"Purchase Items",," Reaching for Cloud Nine",,,True,0
+262697,"Purchase Items",," A Tribal Reunion",,,True,0
+262698,"Purchase Items",," The Naming of Vath",,,True,0
+262699,"Purchase Items",," Tricks and Stones",,,True,0
+262700,"Purchase Gear (Lv. 1-9)",,,,,True,0
+262701,"Purchase Gear (Lv. 10-19)",,,,,True,0
+262702,"Purchase Gear (Lv. 20-29)",,,,,True,0
+262703,"Purchase Gear (Lv. 30-39)",,,,,True,0
+262704,"Purchase Gear (Lv. 40-49)",,,,,True,0
+262705,"Purchase Gear (Lv. 1-9)",,,,,True,0
+262706,"Purchase Gear (Lv. 10-19)",,,,,True,0
+262707,"Purchase Gear (Lv. 20-29)",,,,,True,0
+262708,"Purchase Gear (Lv. 30-39)",,,,,True,0
+262709,"Purchase Gear (Lv. 40-49)",,,,,True,0
+262710,"Purchase Gear (Lv. 1-9)",,,,,True,0
+262711,"Purchase Gear (Lv. 10-19)",,,,,True,0
+262712,"Purchase Gear (Lv. 20-29)",,,,,True,0
+262713,"Purchase Gear (Lv. 30-39)",,,,,True,0
+262714,"Purchase Gear (Lv. 40-49)",,,,,True,0
+262715,"Purchase Weapons (Lv. 1-9)",,,,,True,0
+262716,"Purchase Weapons (Lv. 10-19)",,,,,True,0
+262717,"Purchase Weapons (Lv. 20-29)",,,,,True,0
+262718,"Purchase Weapons (Lv. 30-39)",,,,,True,0
+262719,"Purchase Weapons (Lv. 40-49)",,,,,True,0
+262720,"Purchase Weapons (Lv. 1-9)",,,,,True,0
+262721,"Purchase Weapons (Lv. 10-19)",,,,,True,0
+262722,"Purchase Weapons (Lv. 20-29)",,,,,True,0
+262723,"Purchase Weapons (Lv. 30-39)",,,,,True,0
+262724,"Purchase Weapons (Lv. 40-49)",,,,,True,0
+262725,"Purchase Tools (Lv. 1-9)",,,,,True,0
+262726,"Purchase Tools (Lv. 10-19)",,,,,True,0
+262727,"Purchase Tools (Lv. 20-29)",,,,,True,0
+262728,"Purchase Tools (Lv. 30-39)",,,,,True,0
+262729,"Purchase Tools (Lv. 40-49)",,,,,True,0
+262730,"Purchase Tools (Lv. 1-9)",,,,,True,0
+262731,"Purchase Tools (Lv. 10-19)",,,,,True,0
+262732,"Purchase Tools (Lv. 20-29)",,,,,True,0
+262733,"Purchase Tools (Lv. 30-39)",,,,,True,0
+262734,"Purchase Tools (Lv. 40-49)",,,,,True,0
+262735,"Purchase Battlecraft Accessories",,,,,True,0
+262736,"Purchase Fieldcraft/Tradecraft Accessories",,,,,True,0
+262737,"Purchase Gear (Lv. 50)",,,,,True,0
+262738,"Purchase Gear (Lv. 52)",,,,,True,0
+262739,"Purchase Gear (Lv. 54)",,,,,True,0
+262740,"Purchase Gear (Lv. 56)",,,,,True,0
+262741,"Purchase Gear (Lv. 58)",,,,,True,0
+262743,"Purchase Gear (Lv. 50)",,,,,True,0
+262744,"Purchase Gear (Lv. 52)",,,,,True,0
+262745,"Purchase Gear (Lv. 54)",,,,,True,0
+262746,"Purchase Gear (Lv. 56)",,,,,True,0
+262747,"Purchase Gear (Lv. 58)",,,,,True,0
+262749,"Purchase Gear (Lv. 50-60)",,,,,True,0
+262750,"Purchase Weapons (Lv. 50)",,,,,True,0
+262751,"Purchase Weapons (Lv. 52)",,,,,True,0
+262752,"Purchase Weapons (Lv. 54)",,,,,True,0
+262753,"Purchase Weapons (Lv. 56)",,,,,True,0
+262754,"Purchase Weapons (Lv. 58)",,,,,True,0
+262756,"Purchase Weapons (Lv. 50)",,,,,True,0
+262757,"Purchase Weapons (Lv. 52)",,,,,True,0
+262758,"Purchase Weapons (Lv. 54)",,,,,True,0
+262759,"Purchase Weapons (Lv. 56)",,,,,True,0
+262760,"Purchase Weapons (Lv. 58)",,,,,True,0
+262762,"Purchase Tools (Lv. 50-60)",,,,,True,0
+262763,"Purchase Tools (Lv. 50-60)",,,,,True,0
+262764,"Purchase Battlecraft Accessories",,,,,True,0
+262765,"Purchase Fieldcraft/Tradecraft Accessories",,,,,True,0
+262766,"Purchase Items",,,,,True,0
+262767,"Purchase Items",,,,,True,0
+262768,"Purchase Items",,,,,True,0
+262769,"Purchase Items",,,,,True,0
+262770,"Purchase Items",,,,,True,0
+262771,"Purchase Items",,,,,True,0
+262772,"Purchase Items",,,,,True,0
+262773,"Purchase Items",,,,,True,0
+262774,"Purchase Items",,,,,True,0
+262775,"Purchase Items",,,,,True,0
+262776,"Purchase Items",,,,,True,0
+262777,"Purchase Items",,,,,True,0
+262778,"Purchase Items",,,,,True,0
+262779,"Purchase Items",,,,,True,0
+262780,"Purchase Items",,,,,True,0
+262781,"Purchase Items",,,,,True,0
+262782,"Purchase Items",,,,,True,0
+262783,"Purchase Items",,,,,True,0
+262784,"Purchase Items",,,,,True,0
+262785,"Purchase Items",,,,,True,0
+262786,"Purchase Items",,,,,True,0
+262787,"Purchase Items",,,,,True,0
+262788,"Purchase Items",,,,,True,0
+262789,"Purchase Items",,,,,True,0
+262790,"Purchase Items",,,,,True,0
+262791,"Purchase Items",,,,,True,0
+262792,"Purchase Items",,,,,True,0
+262793,"Purchase Items",,,,,True,0
+262794,"Purchase Items",,,,,True,0
+262795,"Purchase Items",,,,,True,0
+262796,"Purchase Items",,,,,True,0
+262797,"Purchase Items",,,,,True,0
+262798,"Purchase Items",,,,,True,0
+262799,"Purchase Items",,,,,True,0
+262800,"Purchase Items",,,,,True,0
+262801,"Purchase Items",,,,,True,0
+262802,"Purchase Items",,,,,True,0
+262803,"Purchase Items",,,,,True,0
+262804,"Purchase Items",,,,,True,0
+262805,"Purchase Items",,,,,True,0
+262806,"Purchase Items",,,,,True,0
+262807,"Purchase Items",,,,,True,0
+262808,"Purchase Items",,,,,True,0
+262809,"Purchase Items",,,,,True,0
+262810,"Purchase Items",,,,,True,0
+262811,"Purchase Items",,,,,True,0
+262813,"Purchase Items",,,,,True,0
+262814,"Purchase Items",,,,,True,0
+262817,"Purchase Items",,,,,True,0
+262818,"Purchase Items",,,,,True,0
+262819,"Purchase Items",,,,,True,0
+262820,"Purchase Battlecraft Gear (Lv. 60)",,,,,True,0
+262821,"Purchase Battlecraft Gear (DoW)",,,,,True,0
+262822,"Purchase Battlecraft Gear (DoW)",,,,,True,0
+262823,"Purchase Battlecraft Gear (DoW)",,,,,True,0
+262824,"Purchase Battlecraft Gear (DoW)",,,,,True,0
+262825,"Purchase Battlecraft Gear (DoW)",,,,,True,0
+262826,"",,,,,False,0
+262827,"Purchase Battlecraft Gear (Lv. 60)",,,,,True,0
+262828,"Purchase Battlecraft Gear (DoM)",,,,,True,0
+262829,"Purchase Battlecraft Gear (DoM)",,,,,True,0
+262830,"Purchase Battlecraft Gear (DoM)",,,,,True,0
+262831,"Purchase Battlecraft Gear (DoM)",,,,,True,0
+262832,"Purchase Battlecraft Gear (DoM)",,,,,True,0
+262833,"",,,,,False,0
+262834,"Purchase Tradecraft Gear",,,,,True,0
+262835,"Purchase Weapons (Lv. 60)",,,,,True,0
+262836,"Purchase Weapons",,,,,True,0
+262837,"Purchase Weapons",,,,,True,0
+262838,"Purchase Weapons",,,,,True,0
+262839,"Purchase Weapons",,,,,True,0
+262840,"Purchase Weapons",,,,,True,0
+262841,"",,,,,False,0
+262842,"Purchase Weapons (Lv. 60)",,,,,True,0
+262843,"Purchase Fieldcraft Gear",,,,,True,0
+262844,"Purchase Tradecraft Primary Tools",,,,,True,0
+262845,"Purchase Tradecraft Secondary Tools",,,,,True,0
+262846,"Purchase Fieldcraft Tools",,,,,True,0
+262847,"Purchase Battlecraft Accessories",,,,,True,0
+262848,"Purchase Battlecraft Accessories",,,,,True,0
+262849,"Purchase Battlecraft Accessories",,,,,True,0
+262850,"Purchase Battlecraft Accessories",,,,,True,0
+262851,"Purchase Battlecraft Accessories",,,,,True,0
+262852,"Purchase Tools",,,,,True,0
+262853,"Purchase Tools",,,,,True,0
+262854,"Purchase Tools",,,,,True,0
+262855,"Purchase Tools",,,,,True,0
+262856,"Purchase Fieldcraft/Tradecraft Gear",,,,,True,0
+262857,"Purchase Fieldcraft/Tradecraft Gear",,,,,True,0
+262858,"Purchase Fieldcraft/Tradecraft Gear",,,,,True,0
+262859,"Purchase Fieldcraft/Tradecraft Gear",,,,,True,0
+262860,"Purchase Fieldcraft/Tradecraft Gear",,,,,True,0
+262861,"Purchase Items",,,,,True,0
+262862,"Purchase Items",,,,,True,0
+262863,"Purchase Items",,,,,True,0
+262864,"Purchase Items",,,,,True,0
+262865,"Purchase Items",,,,,True,0
+262866,"Purchase Items",,,,,True,0
+262867,"Purchase Items",,,,,True,0
+262868,"Purchase Items",,,,,True,0
+262869,"Purchase Items",,,,,True,0
+262870,"Purchase Items",,,,,True,0
+262871,"Purchase Items",,,,,True,0
+262872,"Purchase Items",,,,,True,0
+262873,"Purchase Items",,,,,True,0
+262874,"Purchase Items",,,,,True,0
+262875,"Purchase Items",,,,,True,0
+262876,"Purchase Items",,,,,True,0
+262877,"Purchase Items",,,,,True,0
+262878,"Purchase Items",,,,,True,0
+262879,"Purchase Items",,,,,True,0
+262880,"Purchase Items",,,,,True,0
+262881,"Purchase Items",,,,,True,0
+262882,"Purchase Items",,,,,True,0
+262883,"Purchase Items",,,,,True,0
+262884,"Purchase Items",,,,,True,0
+262885,"Purchase Items",,,,,True,0
+262886,"Purchase Items",,,,,True,0
+262887,"Purchase Items",,,,,True,0
+262888,"Purchase Items",,,,,True,0
+262889,"Purchase Items",,,,,True,0
+262890,"Purchase Items",,,,,True,0
+262891,"Purchase Items",,,,,True,0
+262892,"Purchase Paintings (Gyr Abania)",,"Sights of Crimson and Dawn",,,True,0
+262893,"Purchase Paintings (Othard)",,"Sights of Crimson and Dawn",,,True,0
+262894,"Purchase Seasonal Event Rewards",,,,,True,53
+262895,"Purchase Seasonal Event Rewards",,,,,True,54
+262896,"Purchase Lv. 70 Arms ",,,,,True,0
+262897,"Purchase Lv. 70 Gear (DoW) I",,,,,True,0
+262898,"Purchase Lv. 70 Gear (DoW) II",,,,,True,0
+262899,"Purchase Lv. 70 Gear (DoM) ",,,,,True,0
+262900,"Replicate Anima Lux Weapons",," Best Friends Forever",,,True,0
+262901,"Purchase Glamouring Items",,"Absolutely Glamourous",,,True,0
+262902,"Purchase Items",,,,,True,0
+262903,"",,,,,True,61
+262904,"",,,,,True,62
+262905,"",,,,,True,63
+262906,"Purchase Paintings (Dravania)",,"Sights of the North",,,True,0
+262907,"Purchase Paintings (Abalathia's Spine)",,"Sights of the North",,,True,0
+262908,"Purchase Items",,,,,True,0
+262909,"",,,,,True,66
+262910,"Enter Boutique",,,"DefaultTalk#594792","DefaultTalk#594791",True,0
+262911,"Purchase Tools (Lv. 60)",," One Size Fits All",,,True,0
+262912,"Purchase Tools (Lv. 63)",," One Size Fits All",,,True,0
+262913,"Purchase Tools (Lv. 65)",," One Size Fits All",,,True,0
+262914,"Purchase Gear (Lv. 60)",," One Size Fits All",,,True,0
+262915,"Purchase Gear (Lv. 63)",," One Size Fits All",,,True,0
+262916,"Purchase Gear (Lv. 65)",," One Size Fits All",,,True,0
+262917,"Purchase Items",," One Size Fits All",,,True,0
+262918,"Replicate Eureka Weapons (DoW)",,,,,True,0
+262919,"",,,,,True,0
+262920,"Purchase Quest Rewards I","ui/icon/060000/060412.tex",,,,True,0
+262921,"",,,,,True,71
+262922,"Replicate Eureka Weapons (DoM)",,,,,True,0
+262923,"",,,,,True,0
+262924,"",,,,,True,13
+262925,"",,,,,False,0
+262926,"Purchase Blue Mage Arms & Gear",,"Out of the Blue",,,True,0
+262927,"",,,,,True,0
+262928,"Purchase Items",,,,,True,0
+262929,"Purchase Items II",,,,,True,0
+262930,"Purchase Items",,"A Many-splendored Thing",,,True,82
+262931,"",,,,"DefaultTalk#595156",True,83
+262932,"",,,,"DefaultTalk#595164",True,85
+262933,"Purchase Weapons (Lv. 62)",,,,,True,0
+262934,"Purchase Weapons (Lv. 64)",,,,,True,0
+262935,"Purchase Weapons (Lv. 66)",,,,,True,0
+262936,"Purchase Weapons (Lv. 68)",,,,,True,0
+262937,"Purchase Weapons (Lv. 70)",,,,,True,0
+262938,"Purchase Gear (Lv. 62)",,,,,True,0
+262939,"Purchase Gear (Lv. 64)",,,,,True,0
+262940,"Purchase Gear (Lv. 66)",,,,,True,0
+262941,"Purchase Gear (Lv. 68)",,,,,True,0
+262942,"Purchase Gear (Lv. 70)",,,,,True,0
+262943,"Purchase Gear (Lv. 62)",,,,,True,0
+262944,"Purchase Gear (Lv. 64)",,,,,True,0
+262945,"Purchase Gear (Lv. 66)",,,,,True,0
+262946,"Purchase Gear (Lv. 68)",,,,,True,0
+262947,"Purchase Gear (Lv. 70)",,,,,True,0
+262948,"Purchase Battlecraft Accessories",,,,,True,0
+262949,"Purchase Items",,,,,True,0
+262950,"Purchase Fieldcraft/Tradecraft Accessories",,,,,True,0
+262951,"Purchase Lv. 60 Gear (DoW)",,,,,True,0
+262952,"Purchase Furnishings (Partitions, Wall Decorations)",,,,,True,0
+262953,"Purchase Battlecraft Gear (DoW)",,,,,True,0
+262954,"Purchase Battlecraft Gear (DoW)",,,,,True,0
+262955,"Purchase Battlecraft Gear (DoW)",,,,,True,0
+262956,"Purchase Battlecraft Gear (DoW)",,,,,True,0
+262957,"Purchase Battlecraft Gear (DoW)",,,,,True,0
+262958,"Purchase Battlecraft Gear (DoM)",,,,,True,0
+262959,"Purchase Battlecraft Gear (DoM)",,,,,True,0
+262960,"Purchase Battlecraft Gear (DoM)",,,,,True,0
+262961,"Purchase Battlecraft Gear (DoM)",,,,,True,0
+262962,"Purchase Battlecraft Gear (DoM)",,,,,True,0
+262963,"Purchase Weapons",,,,,True,0
+262964,"Purchase Weapons",,,,,True,0
+262965,"Purchase Weapons",,,,,True,0
+262966,"Purchase Weapons",,,,,True,0
+262967,"Purchase Weapons",,,,,True,0
+262968,"Purchase Battlecraft Accessories",,,,,True,0
+262969,"Purchase Battlecraft Accessories",,,,,True,0
+262970,"Purchase Battlecraft Accessories",,,,,True,0
+262971,"Purchase Battlecraft Accessories",,,,,True,0
+262972,"Purchase Battlecraft Accessories",,,,,True,0
+262973,"Purchase Tools",,,,,True,0
+262974,"Purchase Tools",,,,,True,0
+262975,"Purchase Tools",,,,,True,0
+262976,"Purchase Tradecraft Primary Tools",,,,,True,0
+262977,"Purchase Tradecraft Secondary Tools",,,,,True,0
+262978,"Purchase Fieldcraft Tools",,,,,True,0
+262979,"Purchase Fieldcraft/Tradecraft Gear",,,,,True,0
+262980,"Purchase Fieldcraft/Tradecraft Gear",,,,,True,0
+262981,"Purchase Fieldcraft/Tradecraft Gear",,,,,True,0
+262982,"Purchase Fieldcraft/Tradecraft Gear",,,,,True,0
+262983,"Purchase Tradecraft Gear",,,,,True,0
+262984,"Purchase Fieldcraft Gear",,,,,True,0
+262985,"Purchase Items",,,,,True,0
+262986,"Purchase Items",,,,,True,0
+262987,"Purchase Items",,,,,True,0
+262988,"Purchase Items",,,,,True,0
+262989,"Purchase Items",,,,,True,0
+262990,"Purchase Items",,,,,True,0
+262991,"Purchase Items",,,,,True,0
+262992,"Purchase Items",,,,,True,0
+262993,"Purchase Items",,,,,True,0
+262994,"Purchase Items",,,,,True,0
+262995,"Purchase Items",,,,,True,0
+262996,"Purchase Items",,,,,True,0
+262997,"Purchase Items",,,,,True,0
+262998,"Purchase Items",,,,,True,0
+262999,"Purchase Items",,,,,True,0
+263000,"Purchase Items",,,,,True,0
+263001,"Purchase Items",,,,,True,0
+263002,"Purchase Items",,,,,True,0
+263003,"Purchase Items",,,,,True,0
+263004,"Purchase Items",,,,,True,0
+263005,"Purchase Items",,,,,True,0
+263006,"Purchase Items",,,,,True,0
+263007,"Purchase Viera Gear",,,,,True,0
+263008,"Purchase Hrothgar Gear",,,,,True,0
+263009,"Purchase Seasonal Event Rewards",,,,,True,89
+263010,"Purchase Items",,,,,True,0
+263011,"Purchase Items",,,,,True,0
+263012,"Purchase Items",,,,,True,0
+263013,"Purchase Paintings (The First)",,"Sights of the First",,,True,0
+263014,"Purchase Items",,,,,True,0
+263015,"Purchase Items",,,,,True,0
+263016,"Purchase Items",,,,,True,0
+263017,"Purchase Tools",," The Stewards of Note",,,True,0
+263018,"Purchase Gear",," The Stewards of Note",,,True,0
+263019,"Purchase Items",," The Stewards of Note",,,True,0
+263020,"",,,,,True,103
+263021,"Purchase Items",,,,,True,0
+263022,"Purchase Skysteel Prototypes",,"Mislaid Plans",,,True,0
+263023,"Purchase Items",,,,,True,0
+263024,"Purchase Skysteel Replicas",,,,,True,0
+263025,"Purchase Items",,,,,True,0
+263026,"Purchase Tools",," It's Dwarfin' Time",,,True,0
+263027,"Purchase Gear",," It's Dwarfin' Time",,,True,0
+263028,"Purchase Items",," It's Dwarfin' Time",,,True,0
+263029,"Purchase Scavenged Gear",,,,,True,0
+263030,"Purchase Items",,,,"DefaultTalk#597023",True,107
+263031,"Purchase Resistance Weapon Replicas (DoW) I",,,,,True,0
+263032,"Purchase Resistance Weapon Replicas (DoW) II",,,,,True,0
+263033,"Purchase Items",,"Coming to Ishgard",,,True,0
+263034,"Purchase Items III",,,,,True,0
+263035,"Purchase Items II",,,,,True,0
+263036,"",,,,"DefaultTalk#597316",True,0
+263037,"",,,,,True,108
+263038,"",,,,,True,113
+263039,"",,,,,True,113
+263040,"Purchase Resistance Weapon Replicas (DoM)",,,,,True,0
+263041,"",,,,,True,117
+263042,"Purchase Items",,,,,True,0
+263043,"Purchase Luxuries",,,,,True,0
+263044,"Purchase Luxuries",,,,,True,0
+263045,"Purchase Achievement Rewards III",,,,,True,0
+263046,"",,,,,True,0
+263047,"",,,,,True,0
+263048,"",,,,,True,0
+263049,"",,,,,True,123
+263050,"",,,,,True,122
+263051,"",,,,,True,121
+263052,"Purchase Weapons",,,,,True,0
+263053,"Purchase Weapons",,,,,True,0
+263054,"Purchase Weapons",,,,,True,0
+263055,"Purchase Weapons",,,,,True,0
+263056,"Purchase Weapons",,,,,True,0
+263057,"Purchase Battlecraft Gear (DoW)",,,,,True,0
+263058,"Purchase Battlecraft Gear (DoW)",,,,,True,0
+263059,"Purchase Battlecraft Gear (DoW)",,,,,True,0
+263060,"Purchase Battlecraft Gear (DoW)",,,,,True,0
+263061,"Purchase Battlecraft Gear (DoW)",,,,,True,0
+263062,"Purchase Battlecraft Gear (DoM)",,,,,True,0
+263063,"Purchase Battlecraft Gear (DoM)",,,,,True,0
+263064,"Purchase Battlecraft Gear (DoM)",,,,,True,0
+263065,"Purchase Battlecraft Gear (DoM)",,,,,True,0
+263066,"Purchase Battlecraft Gear (DoM)",,,,,True,0
+263067,"Purchase Battlecraft Accessories",,,,,True,0
+263068,"Purchase Battlecraft Accessories",,,,,True,0
+263069,"Purchase Battlecraft Accessories",,,,,True,0
+263070,"Purchase Battlecraft Accessories",,,,,True,0
+263071,"Purchase Battlecraft Accessories",,,,,True,0
+263072,"Purchase Tools",,,,,True,0
+263073,"Purchase Tools",,,,,True,0
+263074,"Purchase Tools",,,,,True,0
+263075,"Purchase Tradecraft Primary Tools",,,,,True,0
+263076,"Purchase Tradecraft Secondary Tools",,,,,True,0
+263077,"Purchase Fieldcraft Tools",,,,,True,0
+263078,"Purchase Fieldcraft/Tradecraft Gear",,,,,True,0
+263079,"Purchase Fieldcraft/Tradecraft Gear",,,,,True,0
+263080,"Purchase Fieldcraft/Tradecraft Gear",,,,,True,0
+263081,"Purchase Tradecraft Gear",,,,,True,0
+263082,"Purchase Fieldcraft Gear",,,,,True,0
+263083,"Purchase Weapons (Lv. 70)",,,,,True,0
+263084,"Purchase Weapons (Lv. 72)",,,,,True,0
+263085,"Purchase Weapons (Lv. 74)",,,,,True,0
+263086,"Purchase Weapons (Lv. 76)",,,,,True,0
+263087,"Purchase Weapons (Lv. 78)",,,,,True,0
+263088,"Purchase Weapons (Lv. 80)",,,,,True,0
+263089,"Purchase Gear (Lv. 70)",,,,,True,0
+263090,"Purchase Gear (Lv. 72)",,,,,True,0
+263091,"Purchase Gear (Lv. 74)",,,,,True,0
+263092,"Purchase Gear (Lv. 76)",,,,,True,0
+263093,"Purchase Gear (Lv. 78)",,,,,True,0
+263094,"Purchase Gear (Lv. 80)",,,,,True,0
+263095,"Purchase Gear (Lv. 70)",,,,,True,0
+263096,"Purchase Gear (Lv. 72)",,,,,True,0
+263097,"Purchase Gear (Lv. 74)",,,,,True,0
+263098,"Purchase Gear (Lv. 76)",,,,,True,0
+263099,"Purchase Gear (Lv. 78)",,,,,True,0
+263100,"Purchase Gear (Lv. 80)",,,,,True,0
+263101,"Purchase Battlecraft Accessories",,,,,True,0
+263102,"Purchase Fieldcraft/Tradecraft Accessories",,,,,True,0
+263103,"Purchase Items",,,,,True,0
+263104,"Purchase Items",,,,,True,0
+263105,"Purchase Items",,,,,True,0
+263106,"Purchase Items",,,,,True,0
+263107,"Purchase Items",,,,,True,0
+263108,"Purchase Items",,,,,True,0
+263109,"Purchase Items",,,,,True,0
+263110,"Purchase Items",,,,,True,0
+263111,"Purchase Items",,,,,True,0
+263112,"Purchase Items",,,,,True,0
+263113,"Purchase Items",,,,,True,0
+263114,"Purchase Items",,,,,True,0
+263115,"Purchase Items",,,,,True,0
+263116,"Purchase Items",,,,,True,0
+263117,"Purchase Items",,,,,True,0
+263118,"Purchase Items",,,,,True,0
+263119,"Purchase Items",,,,,True,0
+263120,"Purchase Items",,,,,True,0
+263121,"Purchase Items",,,,,True,0
+263122,"Purchase Items",,,,,True,0
+263123,"Purchase Gardening Items",,,,,True,0
+263124,"アイテムの購入",,,,,True,127
+263125,"アイテムの購入",,,,,True,126
+263126,"Purchase Items",," Hippos Born to Run",,,True,0
+263127,"",,,,,False,0
+263128,"",,,,,False,0
+263129,"",,,,,False,0
+263130,"Purchase Paintings (The Northern Empty)",,"Sights of the End",,,True,0
+263131,"Purchase Paintings (Ilsabard)",,"Sights of the End",,,True,0
+263132,"Purchase Paintings (The World Unsundered)",,"Sights of the End",,,True,0
+263133,"Purchase Paintings (The Sea of Stars)",,"Sights of the End",,,True,0
+263134,"Purchase Quest Rewards II",,,,,True,0
+263135,"Repurchase Samurai Gear",,,,,True,0
+263136,"Repurchase Red Mage Gear",,,,,True,0
+263137,"Repurchase Gunbreaker Gear",,,,,True,0
+263138,"Repurchase Dancer Gear",,,,,True,0
+263139,"Repurchase Reaper Gear",,,,,True,0
+263140,"Repurchase Sage Gear",,,,,True,0
+263141,"Purchase Items",,,,,True,0
+263142,"",,,,,False,0
+263143,"",,,,,False,0
+263144,"",,,,,False,0
+263145,"Purchase Items",,,,,True,132
+263146,"Purchase Items",,,,,True,133
+263147,"Purchase Items",,,,,True,135
+263148,"アイテムの購入",,,"DefaultTalk#599096",,True,0
+263149,"Purchase Items",,"Soaring Profits",,,True,0

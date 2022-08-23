@@ -204,7 +204,7 @@ int32,byte,CompanyCraftType,CompanyCraftProcess,CompanyCraftProcess,CompanyCraft
 1013,0,"Window","CompanyCraftProcess#1575","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1014,0,"Window","CompanyCraftProcess#1597","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1015,0,"Window","CompanyCraftProcess#1619","CompanyCraftProcess#0","CompanyCraftProcess#0",0
-1016,17,"Window","CompanyCraftProcess#1641","CompanyCraftProcess#0","CompanyCraftProcess#0",0
+1016,0,"Window","CompanyCraftProcess#1641","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1100,1,"Fence","CompanyCraftProcess#1203","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1101,2,"Fence","CompanyCraftProcess#1202","CompanyCraftProcess#0","CompanyCraftProcess#0",0
 1102,3,"Fence","CompanyCraftProcess#1201","CompanyCraftProcess#0","CompanyCraftProcess#0",0

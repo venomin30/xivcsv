@@ -131,7 +131,7 @@ int32,uint32,Row,byte,WeeklyBingoText,Image,byte
 127,4,,0,"Omega: Deltascape","ui/icon/113000/113069.tex",3
 128,4,,0,"Omega: Sigmascape","ui/icon/113000/113074.tex",3
 129,4,,0,"Omega: Alphascape","ui/icon/113000/113081.tex",3
-130,0,,0,"Dammies",,0
+130,0,"InstanceContent#30115",0,"Dammies","ui/icon/113000/113123.tex",0
 131,0,,0,"Dammies",,0
 132,0,,0,"Dammies",,0
 133,0,,0,"Dammies",,0

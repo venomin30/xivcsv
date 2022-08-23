@@ -524,7 +524,7 @@ int32,str,Image,ClassJob,byte,Quest,int16,ClassJobCategory,byte
 520,"Way of the Samurai","ui/icon/006000/006801.tex","samurai",66,,0,"SAM",0
 521,"Way of the Samurai II","ui/icon/006000/006802.tex","samurai",84,,0,"SAM",0
 522,"Melee Mastery II","ui/icon/006000/006802.tex","ninja",84,,0,"NIN",0
-523,"",,"adventurer",0,,0,"",0
+523,"Death Scythe Mastery II","ui/icon/006000/006410.tex","reaper",84,,0,"RPR",0
 524,"",,"adventurer",0,,0,"",0
 525,"",,"adventurer",0,,0,"",0
 526,"",,"adventurer",0,,0,"",0

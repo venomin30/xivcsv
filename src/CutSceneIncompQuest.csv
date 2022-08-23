@@ -3,10 +3,12 @@
 int32,Quest
 0.0,
 1.0,
-2.0,
-2.1,
-2.2,
-2.3,
+2.0," Hippos Born to Run"
+2.1," A Pachyderm's Promptitude"
+2.2," Hippo Healing"
+2.3," Defiant Ogul, Deified!"
+2.4," Leader to Leader"
+2.5," The Hippo Riders"
 3.0,"For Vengeance"
 4.0,"March of the Bloody Queen"
 5.0," Hippos Born to Run"
@@ -15,3 +17,6 @@ int32,Quest
 5.3," Defiant Ogul, Deified!"
 5.4," Leader to Leader"
 5.5," The Hippo Riders"
+6.0,"Where No Loporrit Has Gone Before"
+6.1,""
+6.2,""

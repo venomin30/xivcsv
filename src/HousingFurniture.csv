@@ -1173,22 +1173,37 @@ Are you certain you wish to proceed?",0,0,0,True,False
 197830,1116,14,7,74,0,0,"CmnDefHousingDish_00213","Sweetfish Skewers",True,"",9,4,11,True,False
 197831,1117,15,0,0,0,0,,"Ivy Curtain",False,"",0,0,0,True,False
 197832,1118,15,0,0,0,0,,"Luminous Wooden Loft",False,"",0,0,0,True,False
-197833,1119,13,0,0,0,0,,"Riviera Swinging-door Counter",False,"",0,0,0,True,False
+197833,1119,13,0,0,0,0,,"Swinging-door Counter",False,"",0,0,0,True,False
+197834,1120,15,0,0,0,0,,"Beyond Gloam's Veil",False,"",5,0,0,True,False
+197835,1121,15,0,0,0,0,,"Love and Loss",False,"",5,0,0,True,False
+197836,1122,15,0,0,0,0,,"Wherewith We Learn",False,"",5,0,0,True,False
+197837,1123,15,0,0,0,0,,"Business's Pleasure",False,"",5,0,0,True,False
+197838,1124,15,0,0,0,0,,"Scion of Wisdom",False,"",5,0,0,True,False
+197839,1125,15,0,0,0,0,,"Scion of Valor",False,"",5,0,0,True,False
+197840,1126,15,0,0,0,0,,"Discernment",False,"",5,0,0,True,False
+197841,1127,15,0,0,0,0,,"Adventure Calls",False,"",5,0,0,True,False
 197842,1128,15,0,0,0,0,,"Emperor Portrait",False,"",5,0,0,True,False
 197843,1129,15,0,0,0,0,,"Ironworks Tool Set",False,"",0,0,0,True,False
 197844,584,12,0,0,0,0,,"Trick Bookshelf Partition",False,"",0,0,0,True,False
 197845,1131,15,0,0,0,0,,"Simple Arched Window",False,"",0,0,0,True,False
 197846,1132,12,0,0,0,0,,"Factory Pillar",False,"",0,0,0,True,False
+197847,1133,15,0,0,0,0,,"Imitation Stained Crystal Roundel",False,"",0,0,0,True,False
+197848,1134,15,0,0,0,0,,"Hanging Planter Branch",False,"",0,0,0,True,False
+197849,1135,14,0,0,0,0,,"Simple Basket",False,"",0,0,0,True,False
 197850,1136,12,0,0,0,0,,"Curved Marble Partition",False,"",0,0,0,True,False
 197852,1138,12,0,0,0,0,,"Iron Chair",False,"",0,0,0,True,False
 197853,1139,13,0,0,0,0,,"Alpine Cabinet",False,"",0,0,0,True,False
 197854,1140,14,0,0,0,0,,"Eggsemplary Basket",False,"",5,0,0,True,False
 197855,1141,13,0,0,0,0,,"Indoor Climbing Frame",False,"",5,0,0,True,False
 197856,1142,13,0,0,0,0,"CmnDefHousingObject_00141","Steel Locker",False,"",0,0,0,True,False
-197857,1143,12,0,0,0,0,"CmnDefHousingObject_00141","",False,"",0,0,0,True,False
+197857,1143,12,0,0,0,0,"CmnDefHousingObject_00141","Gaol Partition Door",False,"",5,0,0,True,False
+197859,1145,15,0,0,0,0,,"Wall-climbing Ivy",False,"",0,0,0,True,False
+197860,1146,12,0,0,0,0,,"Gaol Partition",False,"",5,0,0,True,False
+197861,1151,15,0,0,0,0,,"Hydaelyn, as We Know Her",False,"",0,0,0,True,False
+197862,1152,15,0,0,0,0,,"Wondrous Windoor",False,"",0,0,0,True,False
 197864,1154,15,0,0,0,0,,"Alpine Wall Lantern",False,"",0,0,0,True,False
 197865,1155,14,0,0,0,0,,"Astrologicum Star Map",False,"",0,0,0,True,False
-197866,1156,15,0,0,0,0,,"Imitation Alpine Window",False,"",0,0,0,True,False
+197866,1156,15,0,0,0,0,,"Imitation Highland Window",False,"",0,0,0,True,False
 197867,1157,13,0,0,0,0,,"House Fortemps Fireplace",False,"",0,0,0,True,False
 197868,1158,16,0,0,0,0,,"Alpine Doormat",False,"",0,0,0,True,False
 197869,1159,13,0,0,0,0,,"Cathedral Lectern",False,"",0,0,0,True,False
@@ -1210,3 +1225,39 @@ Are you certain you wish to proceed?",0,0,0,True,False
 197886,1028,14,7,65,0,0,"CmnDefHousingDish_00213","Authentic Costa del Hielo",True,"",7,4,11,True,False
 197887,1030,14,7,66,0,0,"CmnDefHousingDish_00213","Authentic Grilled Corn",True,"",7,4,11,True,False
 197888,1021,12,0,0,0,0,,"Authentic White Tiger",False,"",3,0,0,True,False
+197889,1174,13,0,0,0,0,,"Mummer's Shelf",False,"",5,0,0,True,False
+197890,1175,14,7,75,0,0,"CmnDefHousingDish_00213","Cheese Fondue Set",True,"",9,4,11,True,False
+197894,1179,15,0,0,0,0,,"Wall-mounted Wings",False,"",0,0,0,True,False
+197896,1181,14,7,77,0,0,"CmnDefHousingDish_00213","Coconut Water",True,"",9,4,11,True,False
+197900,1185,12,0,0,0,0,,"Kugane Phasmascape",False,"",0,0,0,True,False
+197901,1186,12,0,0,0,0,,"Costa del Sol Phasmascape",False,"",0,0,0,True,False
+197906,1191,12,0,0,0,0,,"Garlean Stove",False,"",5,0,0,True,False
+197907,1192,15,0,0,0,0,,"Side-tied Curtain",False,"",0,0,0,True,False
+197911,1196,14,0,0,0,0,,"Caged Wisp",False,"",5,0,0,True,False
+197912,1197,15,0,0,0,0,,"Korpokkur Chronometer",False,"",0,0,0,True,False
+197913,1198,15,0,0,0,0,,"Natural Wooden Beam",False,"",0,0,0,True,False
+197914,1199,15,0,0,0,0,,"Flagstone Steps",False,"",0,0,0,True,False
+197915,1200,15,0,0,0,0,,"Flagstone Loft",False,"",0,0,0,True,False
+197916,1201,15,0,0,0,0,,"Exciting Neon Wall Light",False,"",0,0,0,True,False
+197917,1203,12,0,0,0,0,,"Farmer's Straw Bed",False,"",0,0,0,True,False
+197918,1204,12,0,0,0,0,,"Valentione's Heart Desk",False,"",5,0,0,True,False
+197919,1208,14,0,0,93,0,,"Storm's Crown Sword Stand",False,"",0,0,0,True,False
+197920,1205,15,0,0,0,0,,"Bill of Contrition (S-1)",False,"",5,0,0,True,False
+197921,1206,15,0,0,0,0,,"Bill of Deep Contrition (M-1)",False,"",5,0,0,True,False
+197922,1207,15,0,0,0,0,,"Bill of Deepest Contrition (L-1)",False,"",5,0,0,True,False
+197923,1176,14,0,0,0,0,"CmnDefHousingObject_00141","Rousing Chronometer",False,"",0,0,0,True,False
+197924,1177,14,0,0,0,0,,"Countertop Coffee Service",False,"",0,0,0,True,False
+197925,987,14,0,0,0,0,,"Authentic Pumpkin Flower Vase",False,"",3,0,0,True,False
+197926,1105,15,0,0,0,0,,"スターライトモービルEX",False,"",3,0,0,True,False
+197927,1205,15,0,0,0,0,,"Bill of Contrition (S-2)",False,"",5,0,0,True,False
+197928,1205,15,0,0,0,0,,"Bill of Contrition (S-3)",False,"",5,0,0,True,False
+197929,1205,15,0,0,0,0,,"Bill of Contrition (S-4)",False,"",5,0,0,True,False
+197930,1205,15,0,0,0,0,,"Bill of Contrition (S-5)",False,"",5,0,0,True,False
+197931,1206,15,0,0,0,0,,"Bill of Deep Contrition (M-2)",False,"",5,0,0,True,False
+197932,1206,15,0,0,0,0,,"Bill of Deep Contrition (M-3)",False,"",5,0,0,True,False
+197933,1206,15,0,0,0,0,,"Bill of Deep Contrition (M-4)",False,"",5,0,0,True,False
+197934,1206,15,0,0,0,0,,"Bill of Deep Contrition (M-5)",False,"",5,0,0,True,False
+197935,1207,15,0,0,0,0,,"Bill of Deepest Contrition (L-2)",False,"",5,0,0,True,False
+197936,1207,15,0,0,0,0,,"Bill of Deepest Contrition (L-3)",False,"",5,0,0,True,False
+197937,1207,15,0,0,0,0,,"Bill of Deepest Contrition (L-4)",False,"",5,0,0,True,False
+197938,1207,15,0,0,0,0,,"Bill of Deepest Contrition (L-5)",False,"",5,0,0,True,False

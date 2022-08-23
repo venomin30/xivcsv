@@ -165,3 +165,13 @@ int32,AquariumWater,byte,Item,uint16
 162,"saltwater",2,"Fate's Design",404
 163,"saltwater",3,"Roosterfish",322
 164,"saltwater",4,"Basilosaurus",100
+165,"freshwater",1,"Half-moon Betta",428
+166,"saltwater",1,"Dog-faced Puffer",414
+167,"saltwater",1,"Tebqeyiq Smelt",473
+168,"freshwater",2,"Flowerhorn",412
+169,"freshwater",2,"Katoptron",424
+170,"saltwater",2,"Aquamaton",389
+171,"saltwater",2,"Aetherolectric Guitarfish",454
+172,"saltwater",2,"Crown Fish",438
+173,"saltwater",3,"Blue Marlin",346
+174,"saltwater",4,"Junkmonger",6

@@ -510,30 +510,59 @@ int32,OrchestrionCategory,uint16
 506,"Dungeons",85
 507,"Trials",48
 508,"Trials",49
-509,"Others",85
+509,"Others",91
 510,"",0
 511,"Raids II",39
 512,"Raids II",40
 513,"Raids II",41
-514,"Locales II",34
-515,"Locales II",35
-516,"Locales II",36
-517,"Locales II",37
-518,"Locales II",38
-519,"Locales II",39
-520,"Locales II",40
-521,"Locales II",41
-522,"Others",86
-523,"Locales II",42
-524,"Locales II",43
-525,"Others",87
-526,"Others",88
-527,"Others",89
+514,"Locales II",43
+515,"Locales II",34
+516,"Locales II",35
+517,"Locales II",36
+518,"Locales II",37
+519,"Locales II",38
+520,"Locales II",39
+521,"Locales II",40
+522,"Others",85
+523,"Locales II",41
+524,"Locales II",42
+525,"Others",86
+526,"Others",87
+527,"Others",88
 528,"Dungeons",82
 529,"Dungeons",83
 530,"Dungeons",84
-531,"Others",90
-532,"Others",91
+531,"Others",89
+532,"Others",90
 533,"Online Store & Bonuses",65535
 534,"Online Store & Bonuses",65535
 535,"Online Store & Bonuses",65535
+536,"Trials",50
+537,"Dungeons",86
+538,"Dungeons",87
+539,"",0
+540,"Raids II",42
+541,"Raids II",43
+542,"Raids II",44
+543,"Raids II",45
+544,"Others",92
+545,"Others",93
+546,"",0
+547,"Others",94
+548,"Locales I",75
+549,"Locales I",76
+550,"Locales I",77
+551,"Others",95
+552,"Others",96
+553,"Others",97
+554,"Trials",51
+555,"Dungeons",88
+556,"Dungeons",89
+557,"Dungeons",90
+558,"Dungeons",91
+559,"Dungeons",92
+560,"Dungeons",93
+561,"Others",98
+562,"Online Store & Bonuses",65535
+563,"Online Store & Bonuses",65535
+564,"Ambient",14

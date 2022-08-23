@@ -20,8 +20,8 @@ int32,ContentsNoteCategory,Image,byte,int32,byte,int32,byte,int32,uint16,HowTo,R
 16,"ContentsNoteCategory#6","ui/icon/061000/061808.tex",2,5,0,0,3,2000,0,"Timeworn Maps",,"Find Your Treasure and Have It Too","Open 5 treasure coffers and obtain their contents while treasure hunting.",0
 17,"ContentsNoteCategory#1","ui/icon/061000/061813.tex",6,20,7,5,3,1000,0,"Fighting with Your Chocobo",,"Bosom Buddies I","Defeat 20 enemies of comparable level to your own with your companion.",0
 18,"ContentsNoteCategory#1","ui/icon/061000/061813.tex",7,100,7,10,3,2000,0,"Fighting with Your Chocobo",,"Bosom Buddies II","Defeat 100 enemies of comparable level to your own with your companion.",0
-19,"ContentsNoteCategory#7","ui/icon/061000/061814.tex",1,5,0,0,3,1000,0,"The Beast Tribes",,"Beast of a Time I","Complete 5 beast tribe daily quests.",0
-20,"ContentsNoteCategory#7","ui/icon/061000/061814.tex",2,15,0,0,3,2000,0,"The Beast Tribes",,"Beast of a Time II","Complete 15 beast tribe daily quests.",0
+19,"ContentsNoteCategory#7","ui/icon/061000/061814.tex",1,5,0,0,3,1000,0,"The Tribes and Their Tribulations",,"Tribe and True I","Complete 5 tribal daily quests.",0
+20,"ContentsNoteCategory#7","ui/icon/061000/061814.tex",2,15,0,0,3,2000,0,"The Tribes and Their Tribulations",,"Tribe and True II","Complete 15 tribal daily quests.",0
 21,"ContentsNoteCategory#12","ui/icon/061000/061810.tex",1,5,0,0,3,10000,0,"",,"Up for a Challenge I","Complete 5 unique challenges.",0
 22,"ContentsNoteCategory#12","ui/icon/061000/061810.tex",2,10,0,0,3,10000,0,"",,"Up for a Challenge II","Complete 10 unique challenges.",0
 23,"ContentsNoteCategory#12","ui/icon/061000/061810.tex",3,15,0,0,3,10000,20,"",,"Up for a Challenge III","Complete 15 unique challenges.",0
@@ -76,8 +76,8 @@ int32,ContentsNoteCategory,Image,byte,int32,byte,int32,byte,int32,uint16,HowTo,R
 72,"ContentsNoteCategory#5","ui/icon/061000/061816.tex",3,5,5,10,3,2000,0,"",,"My Big Break","Successfully desynthesize 5 items.
 ※Experience points may only be earned by crafting classes.",0
 73,"ContentsNoteCategory#10","ui/icon/061000/061820.tex",13,1,0,0,8,3000,0,"","Open and Inviting","Come on in, It's Open","Participate in an Open tournament and receive your reward.",0
-74,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
-75,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
+74,"ContentsNoteCategory#11","ui/icon/061000/061847.tex",11,100,0,0,11,1000,0,"","Seeking Sanctuary","Living off the Land","Collect 100 materials in your island sanctuary.",0
+75,"ContentsNoteCategory#11","ui/icon/061000/061847.tex",12,20,0,0,11,1000,0,"","Seeking Sanctuary","Making a Living off the Land","Ship 20 isleworks handicrafts.",0
 76,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
 77,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
 78,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0

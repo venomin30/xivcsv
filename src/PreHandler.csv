@@ -53,48 +53,48 @@ int32,str,Image,Row,Quest,DefaultTalk,DefaultTalk,byte,byte
 3538993,"",,"Purchase Items",,,,4,0
 3538994,"",,"",,,,3,0
 3538995,"",,"Housing Inquiries",,,,3,0
-3538996,"",,"Yellow Crafters' Scrip Exchange (Master Recipes)","Inscrutable Tastes",,"DefaultTalk#594673",1,0
-3538997,"",,"Yellow Crafters' Scrip Exchange (Master Recipes)","Inscrutable Tastes",,"DefaultTalk#594674",1,0
-3538998,"",,"Yellow Crafters' Scrip Exchange (Master Recipes)","Inscrutable Tastes",,"DefaultTalk#594675",1,0
-3538999,"",,"Yellow Crafters' Scrip Exchange (Master Recipes)","Inscrutable Tastes",,"DefaultTalk#594670",1,0
-3539000,"",,"Yellow Crafters' Scrip Exchange (Master Recipes)","Go West, Craftsman",,"DefaultTalk#594671",1,0
-3539001,"",,"Yellow Crafters' Scrip Exchange (Master Recipes)","Reach Long and Prosper",,"DefaultTalk#594672",1,0
-3539002,"",,"Yellow Crafters' Scrip Exchange (Master Recipes)","Reach Long and Prosper",,"DefaultTalk#594877",1,0
-3539003,"",,"Yellow Crafters' Scrip Exchange (Master Recipes)","The Boutique Always Wins",,"DefaultTalk#595258",1,0
-3539004,"",,"Yellow Crafters' Scrip Exchange (Lv. 50)","Inscrutable Tastes",,,1,0
-3539005,"",,"Yellow Crafters' Scrip Exchange (Lv. 50)","Go West, Craftsman",,,1,0
-3539006,"",,"Yellow Crafters' Scrip Exchange (Lv. 50)","Reach Long and Prosper",,,1,0
-3539007,"",,"Yellow Crafters' Scrip Exchange (Lv. 50)","The Boutique Always Wins",,,1,0
-3539008,"",,"Yellow Crafters' Scrip Exchange (Lv. 61)","Reach Long and Prosper",,,1,0
-3539009,"",,"Yellow Crafters' Scrip Exchange (Lv. 61)","The Boutique Always Wins",,,1,0
-3539010,"",,"Yellow Crafters' Scrip Exchange (Lv. 70 Gear)","Reach Long and Prosper",,,1,0
-3539011,"",,"Yellow Crafters' Scrip Exchange (Lv. 70 Gear)","The Boutique Always Wins",,,1,0
-3539012,"",,"Yellow Crafters' Scrip Exchange (Lv. 70 Gear) II","Reach Long and Prosper",,,1,0
-3539013,"",,"Yellow Crafters' Scrip Exchange (Lv. 70 Gear) II","The Boutique Always Wins",,,1,0
-3539014,"",,"Yellow Crafters' Scrip Exchange (Lv. 70 Augmentation)","Reach Long and Prosper",,,1,0
-3539015,"",,"Yellow Crafters' Scrip Exchange (Lv. 70 Augmentation)","The Boutique Always Wins",,,1,0
-3539016,"",,"Yellow Crafters' Scrip Exchange (Lv. 70 Items)","Reach Long and Prosper",,,1,0
-3539017,"",,"Yellow Crafters' Scrip Exchange (Lv. 70 Items)","The Boutique Always Wins",,,1,0
-3539018,"",,"White Crafters' Scrip Exchange (Lv. 80 Gear)","The Boutique Always Wins",,,1,0
-3539019,"",,"White Crafters' Scrip Exchange (Lv. 80 Gear) II","The Boutique Always Wins",,,1,0
-3539020,"",,"White Crafters' Scrip Exchange (Lv. 80 Items)","The Boutique Always Wins",,,1,0
-3539021,"",,"Yellow Gatherers' Scrip Exchange (Lv. 50)","Inscrutable Tastes",,,1,0
-3539022,"",,"Yellow Gatherers' Scrip Exchange (Lv. 50)","Go West, Craftsman",,,1,0
-3539023,"",,"Yellow Gatherers' Scrip Exchange (Lv. 50)","Reach Long and Prosper",,,1,0
-3539024,"",,"Yellow Gatherers' Scrip Exchange (Lv. 50)","The Boutique Always Wins",,,1,0
-3539025,"",,"Yellow Gatherers' Scrip Exchange (Lv. 61)","Reach Long and Prosper",,,1,0
-3539026,"",,"Yellow Gatherers' Scrip Exchange (Lv. 61)","The Boutique Always Wins",,,1,0
-3539027,"",,"Yellow Gatherers' Scrip Exchange (Lv. 70 Gear)","Reach Long and Prosper",,,1,0
-3539028,"",,"Yellow Gatherers' Scrip Exchange (Lv. 70 Gear)","The Boutique Always Wins",,,1,0
-3539029,"",,"Yellow Gatherers' Scrip Exchange (Lv. 70 Gear) II","Reach Long and Prosper",,,1,0
-3539030,"",,"Yellow Gatherers' Scrip Exchange (Lv. 70 Gear) II","The Boutique Always Wins",,,1,0
-3539031,"",,"Yellow Gatherers' Scrip Exchange (Lv. 70 Augmentation)","Reach Long and Prosper",,,1,0
-3539032,"",,"Yellow Gatherers' Scrip Exchange (Lv. 70 Augmentation)","The Boutique Always Wins",,,1,0
-3539033,"",,"Yellow Gatherers' Scrip Exchange (Lv. 70 Items)","Reach Long and Prosper",,,1,0
-3539034,"",,"Yellow Gatherers' Scrip Exchange (Lv. 70 Items)","The Boutique Always Wins",,,1,0
-3539035,"",,"White Gatherers' Scrip Exchange (Lv. 80 Gear)","The Boutique Always Wins",,,1,0
-3539036,"",,"White Gatherers' Scrip Exchange (Lv. 80 Gear) II","The Boutique Always Wins",,,1,0
-3539037,"",,"White Gatherers' Scrip Exchange (Lv. 80 Items)","The Boutique Always Wins",,,1,0
+3538996,"",,"","Inscrutable Tastes",,"DefaultTalk#594673",1,0
+3538997,"",,"","Inscrutable Tastes",,"DefaultTalk#594674",1,0
+3538998,"",,"","Inscrutable Tastes",,"DefaultTalk#594675",1,0
+3538999,"",,"","Inscrutable Tastes",,"DefaultTalk#594670",1,0
+3539000,"",,"","Go West, Craftsman",,"DefaultTalk#594671",1,0
+3539001,"",,"","Reach Long and Prosper",,"DefaultTalk#594672",1,0
+3539002,"",,"","Reach Long and Prosper",,"DefaultTalk#594877",1,0
+3539003,"",,"","The Boutique Always Wins",,"DefaultTalk#595258",1,0
+3539004,"",,"","Inscrutable Tastes",,,1,0
+3539005,"",,"","Go West, Craftsman",,,1,0
+3539006,"",,"","Reach Long and Prosper",,,1,0
+3539007,"",,"","The Boutique Always Wins",,,1,0
+3539008,"",,"","Reach Long and Prosper",,,1,0
+3539009,"",,"","The Boutique Always Wins",,,1,0
+3539010,"",,"","Reach Long and Prosper",,,1,0
+3539011,"",,"","The Boutique Always Wins",,,1,0
+3539012,"",,"","Reach Long and Prosper",,,1,0
+3539013,"",,"","The Boutique Always Wins",,,1,0
+3539014,"",,"","Reach Long and Prosper",,,1,0
+3539015,"",,"","The Boutique Always Wins",,,1,0
+3539016,"",,"","Reach Long and Prosper",,,1,0
+3539017,"",,"","The Boutique Always Wins",,,1,0
+3539018,"",,"","The Boutique Always Wins",,,1,0
+3539019,"",,"","The Boutique Always Wins",,,1,0
+3539020,"",,"","The Boutique Always Wins",,,1,0
+3539021,"",,"","Inscrutable Tastes",,,1,0
+3539022,"",,"","Go West, Craftsman",,,1,0
+3539023,"",,"","Reach Long and Prosper",,,1,0
+3539024,"",,"","The Boutique Always Wins",,,1,0
+3539025,"",,"","Reach Long and Prosper",,,1,0
+3539026,"",,"","The Boutique Always Wins",,,1,0
+3539027,"",,"","Reach Long and Prosper",,,1,0
+3539028,"",,"","The Boutique Always Wins",,,1,0
+3539029,"",,"","Reach Long and Prosper",,,1,0
+3539030,"",,"","The Boutique Always Wins",,,1,0
+3539031,"",,"","Reach Long and Prosper",,,1,0
+3539032,"",,"","The Boutique Always Wins",,,1,0
+3539033,"",,"","Reach Long and Prosper",,,1,0
+3539034,"",,"","The Boutique Always Wins",,,1,0
+3539035,"",,"","The Boutique Always Wins",,,1,0
+3539036,"",,"","The Boutique Always Wins",,,1,0
+3539037,"",,"","The Boutique Always Wins",,,1,0
 3539038,"",,,,,,1,0
 3539039,"","ui/icon/061000/061392.tex","The Bozjan Southern Front",,"DefaultTalk#596989",,4,0
 3539040,"",,"●収集品回収",,"DefaultTalk#596990","DefaultTalk#596988",4,0
@@ -107,7 +107,7 @@ int32,str,Image,Row,Quest,DefaultTalk,DefaultTalk,byte,byte
 3539047,"",,"Purchase Tools",,,,6,0
 3539048,"",,"Purchase Gear",,,,6,0
 3539049,"",,"Purchase Items",,,,6,0
-3539050,"",,"Yellow Crafters' Scrip Exchange (Master Recipes)","Go West, Craftsman",,"DefaultTalk#597069",1,0
+3539050,"",,"","Go West, Craftsman",,"DefaultTalk#597069",1,0
 3539051,"",,"Purchase Items","Mislaid Plans",,,1,0
 3539052,"",,"Purchase Skysteel Replicas"," The Tools of Tomorrow",,,1,0
 3539053,"",,"Purchase Items","Oddness in the End",,,3,0
@@ -118,7 +118,7 @@ int32,str,Image,Row,Quest,DefaultTalk,DefaultTalk,byte,byte
 3539058,"",,,"The Lady of Blades",,,1,0
 3539059,"",,,,,,1,0
 3539060,"","ui/icon/061000/061392.tex","Zadnor",,"DefaultTalk#597468",,4,0
-3539061,"",,"Yellow Crafters' Scrip Exchange (Master Recipes)","Expanding House of Splendors",,"DefaultTalk#595258",1,0
+3539061,"",,"","Expanding House of Splendors",,"DefaultTalk#595258",1,0
 3539062,"",,"InclusionShop#3801097","Expanding House of Splendors",,,1,0
 3539063,"",,"InclusionShop#3801096","The Boutique Always Wins",,,1,0
 3539064,"",,"InclusionShop#3801094","Reach Long and Prosper",,,1,0

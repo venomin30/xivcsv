@@ -321,8 +321,8 @@ int32,byte,Row,bit&01,bit&02,int32
 15.8,1,"Aspected Benefic",False,False,0
 15.9,1,"Gravity II",False,False,0
 15.10,1,"the Balance",False,False,0
-15.11,1,"the Ewer",False,False,0
-15.12,1,"the Spire",False,False,0
+15.11,1,"the Bole",False,False,0
+15.12,1,"the Arrow",False,False,0
 15.13,1,"Microcosmos",False,False,0
 15.14,1,"Standard-issue Elixir",True,True,0
 15.15,1,"Recuperate",True,True,0

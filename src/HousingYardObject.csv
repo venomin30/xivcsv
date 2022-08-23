@@ -267,7 +267,18 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131347,257,17,0,0,0,,"Garden Gate",False,False,True,0,0,0,False
 131348,258,17,0,0,0,,"Planter Set",False,False,True,0,0,0,False
 131349,259,17,0,0,0,,"Sweet Lawn Ornaments",False,False,True,0,0,0,False
+131350,260,17,0,0,0,,"Camping Tent",False,False,True,0,0,0,False
 131351,261,17,0,0,0,,"Damaged Ishgardian Wall",False,False,True,0,0,0,False
+131352,262,17,0,0,0,,"Damaged Highland Turret",False,False,True,0,0,0,False
 131353,263,17,0,0,0,,"Summer Bonfire",False,False,True,5,0,0,False
+131354,264,17,0,0,0,,"Shoveled Snow",False,False,True,0,0,0,False
 131355,265,17,0,0,0,,"Ishgardian Lamppost",False,False,True,0,0,0,False
 131356,244,17,0,0,0,,"Authentic Moonfire Mask Stall",False,False,True,3,0,0,False
+131358,267,17,0,0,0,,"Bamboo Fence",False,False,True,0,0,0,False
+131359,268,17,0,0,0,,"Camping Furniture",False,False,True,0,0,0,False
+131360,269,17,0,0,0,,"Illuminated Tree",False,False,True,5,0,0,False
+131361,270,17,0,0,0,,"Far Eastern Well",False,False,True,0,0,0,False
+131362,271,17,0,0,0,,"Far Eastern Lamppost",False,False,True,0,0,0,False
+131363,272,17,0,0,0,,"Elpis Stone Pillar",False,False,True,5,0,0,False
+131364,273,17,0,0,0,,"Chocobo Stable Essentials",False,False,True,0,0,0,False
+131365,239,17,0,0,0,,"Authentic Haunted Pumpkin Set",False,False,True,3,0,0,False

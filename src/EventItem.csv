@@ -3029,6 +3029,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003246,"kumbhiraskin treasure map",0,"kumbhiraskin treasure maps",0,0,1,0,0,False,"Kumbhiraskin Treasure Map","ui/icon/026000/026151.tex","Key Item",1,2,,0,"normal/item_start",0
 2003247,"thrill-seeking thief's map",0,"thrill-seeking thief's maps",0,0,1,0,0,False,"Thrill-seeking Thief's Map","ui/icon/026000/026151.tex","Key Item",1,2,,0,"normal/item_start",0
 2003248,"Manusya statuette",0,"Manusya statuettes",0,0,1,0,0,False,"Manusya Statuette","ui/icon/025000/025919.tex","",1,1," Radiant Patrol",0,"normal/item_start",0
+2003249,"questionable cookie",0,"questionable cookies",0,0,1,0,0,False,"Questionable Cookie","ui/icon/024000/024067.tex","",1,1,"A Mad Masquerade",0,"normal/item_start",0
 2003250,"daidalion egg",0,"daidalion eggs",0,0,1,0,0,False,"Daidalion Egg","ui/icon/025000/025252.tex","",1,1," Clutch Devastation",0,"normal/item_start",0
 2003253,"dispelling concept",0,"dispelling concepts",0,0,1,0,0,False,"Dispelling Concept","ui/icon/020000/020001.tex","Key Item",1,1," Searching for Eidos",3,"normal/item_start",0
 2003254,"glob of eidos slime",0,"globs of eidos slime",0,0,1,0,0,False,"Eidos Slime","ui/icon/059000/059451.tex","",1,1," Searching for Eidos",0,"normal/item_start",0
@@ -3057,7 +3058,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003279,"large feed bag",0,"large feed bags",0,0,1,0,0,False,"Large Feed Bag","ui/icon/026000/026110.tex","",1,1," Hungry Hungry Hamsa",0,"normal/item_start",0
 2003281,"matrimonial band",0,"matrimonial bands",0,0,1,0,0,False,"Matrimonial Band","ui/icon/021000/021677.tex","",1,1," A Bond Eternal",0,"normal/item_start",0
 2003285,"letter to the High Crucible",0,"letters to the High Crucible",0,0,1,0,0,False,"Letter to the High Crucible","ui/icon/026000/026177.tex","",1,1," Tidings from Afar",0,"normal/item_start",0
-2003286,"letter to House Barik",0,"letters to House Barik",0,0,1,0,0,False,"Letter to House Barik","ui/icon/026000/026177.tex","",1,1," Tidings from Afar",0,"normal/item_start",0
+2003286,"letter to House Balyk",0,"letters to House Balyk",0,0,1,0,0,False,"Letter to House Balyk","ui/icon/026000/026177.tex","",1,1," Tidings from Afar",0,"normal/item_start",0
 2003287,"glob of mousse slime",0,"globs of mousse slime",0,0,1,0,0,False,"Mousse Slime","ui/icon/022000/022637.tex","",99,1,,0,"normal/item_start",0
 2003288,"bag of sleeping powder",0,"bags of sleeping powder",0,0,1,0,0,False,"Sleeping Powder","ui/icon/025000/025991.tex","",5,1," Booking Books",1,"normal/item_start",4
 2003289,"tranquil tome",0,"tranquil tomes",0,0,1,0,0,False,"Tranquil Tome","ui/icon/026000/026002.tex","",5,1," Booking Books",0,"normal/item_start",0
@@ -3182,7 +3183,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003415,"sack of hamsa eggs",0,"sacks of hamsa eggs",0,0,1,0,0,False,"Hamsa Eggs","ui/icon/025000/025919.tex","",1,1," Essential Eggredients",0,"normal/item_start",0
 2003416,"redbloom anemone",0,"redbloom anemones",0,0,1,0,0,False,"Redbloom Anemone","ui/icon/028000/028404.tex","",2,1," Bloomin' Ocean",0,"normal/item_start",0
 2003417,"container of steaming victuals",0,"containers of steaming victuals",0,0,1,0,0,False,"Steaming Victuals","ui/icon/024000/024453.tex","",2,1," Fresh Eats and Ripe Sweets",0,"normal/item_start",0
-2003418,"amra",0,"amra",0,0,1,0,0,False,"Amra","ui/icon/025000/025325.tex","",2,1," Fresh Eats and Ripe Sweets",0,"normal/item_start",0
+2003418,"amra",0,"amra",0,1,1,0,0,False,"Amra","ui/icon/025000/025325.tex","",2,1," Fresh Eats and Ripe Sweets",0,"normal/item_start",0
 2003419,"sack of kitchen scraps",0,"sacks of kitchen scraps",0,0,1,0,0,False,"Kitchen Scraps","ui/icon/025000/025919.tex","",2,1," Waste Not, Want None of That",0,"normal/item_start",0
 2003420,"bottle of Daemir's antidote",0,"bottles of Daemir's antidote",0,0,1,0,0,False,"Daemir's Antidote","ui/icon/020000/020662.tex","Key Item",1,1," Seedy Affair",3,"normal/item_start",0
 2003421,"asvattha seed",0,"asvattha seeds",0,1,1,0,0,False,"Asvattha Seed","ui/icon/025000/025313.tex","",1,1," Seedy Affair",0,"normal/item_start",0

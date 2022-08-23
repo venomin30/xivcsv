@@ -67,3 +67,4 @@ int32,Emote,Emote,bit&01,bit&02,bit&04,bit&08,byte,bit&10
 63,"Sweep Up","",True,False,False,False,3,False
 64,"Show Right","",True,False,False,False,3,False
 65,"Show Left","",True,False,False,False,3,False
+66,"Spirit","",True,False,False,False,3,False

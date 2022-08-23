@@ -896,7 +896,7 @@ int32,FurnitureCatalogCategory,Item,uint16
 892,"Tableware/Foods","Sweetfish Skewers",610
 893,"Plants","Ivy Curtain",610
 894,"Miscellaneous","Luminous Wooden Loft",610
-895,"Tables","Riviera Swinging-door Counter",610
+895,"Tables","Swinging-door Counter",610
 896,"Miscellaneous","Ironworks Tool Set",610
 897,"Walls/Pillars/Partitions","Trick Bookshelf Partition",610
 898,"Windows","Simple Arched Window",610
@@ -908,7 +908,7 @@ int32,FurnitureCatalogCategory,Item,uint16
 904,"Shelves/Chests","Alpine Cabinet",610
 905,"Lighting","Alpine Wall Lantern",610
 906,"Miscellaneous","Astrologicum Star Map",610
-907,"Windows","Imitation Alpine Window",610
+907,"Windows","Imitation Highland Window",610
 908,"Miscellaneous","House Fortemps Fireplace",610
 909,"Rugs","Alpine Doormat",610
 910,"Tables","Cathedral Lectern",610
@@ -922,3 +922,62 @@ int32,FurnitureCatalogCategory,Item,uint16
 918,"Stuffed Toys/Figures","Stuffed Cinduruva",610
 919,"Flags/Frames/Posters","Azure Banner of Conflict",610
 920,"Flags/Frames/Posters","Crimson Banner of Conflict",610
+921,"Windows","Imitation Stained Crystal Roundel",620
+922,"Plants","Hanging Planter Branch",620
+923,"Miscellaneous","Simple Basket",620
+924,"Walls/Pillars/Partitions","Gaol Partition Door",620
+925,"Plants","Wall-climbing Ivy",620
+926,"Walls/Pillars/Partitions","Gaol Partition",620
+927,"Flags/Frames/Posters","Hydaelyn, as We Know Her",620
+928,"Windows","Wondrous Windoor",620
+929,"Walls/Partitions","Mummer's Shelf",620
+930,"Tableware/Foods","Cheese Fondue Set",620
+931,"Tables","",0
+932,"Miscellaneous","Wall-mounted Wings",620
+933,"Tables","",0
+934,"Tableware/Foods","Coconut Water",620
+935,"Miscellaneous","Side-tied Curtain",620
+936,"Tables","",0
+937,"Miscellaneous","Kugane Phasmascape",620
+938,"Miscellaneous","Costa del Sol Phasmascape",620
+939,"Tables","",0
+940,"Tables","",0
+941,"Tables","",0
+942,"Tables","",0
+943,"Miscellaneous","Garlean Stove",620
+944,"Tables","",0
+945,"Tables","",0
+946,"Tables","",0
+947,"Tables","",0
+948,"Clocks","Korpokkur Chronometer",620
+949,"Miscellaneous","Natural Wooden Beam",620
+950,"Miscellaneous","Flagstone Steps",620
+951,"Miscellaneous","Flagstone Loft",620
+952,"Miscellaneous","Exciting Neon Wall Light",620
+953,"Beds","Farmer's Straw Bed",620
+954,"Stuffed Toys/Figures","Storm's Crown Sword Stand",620
+955,"Flags/Frames/Posters","Bill of Contrition (S-1)",620
+956,"Flags/Frames/Posters","Bill of Deep Contrition (M-1)",620
+957,"Flags/Frames/Posters","Bill of Deepest Contrition (L-1)",620
+958,"Clocks","Rousing Chronometer",620
+959,"Miscellaneous","Countertop Coffee Service",620
+960,"Flags/Frames/Posters","Beyond Gloam's Veil",620
+961,"Flags/Frames/Posters","Love and Loss",620
+962,"Flags/Frames/Posters","Wherewith We Learn",620
+963,"Flags/Frames/Posters","Business's Pleasure",620
+964,"Flags/Frames/Posters","Scion of Wisdom",620
+965,"Flags/Frames/Posters","Scion of Valor",620
+966,"Flags/Frames/Posters","Discernment",620
+967,"Flags/Frames/Posters","Adventure Calls",620
+968,"Flags/Frames/Posters","Bill of Contrition (S-2)",620
+969,"Flags/Frames/Posters","Bill of Contrition (S-3)",620
+970,"Flags/Frames/Posters","Bill of Contrition (S-4)",620
+971,"Flags/Frames/Posters","Bill of Contrition (S-5)",620
+972,"Flags/Frames/Posters","Bill of Deep Contrition (M-2)",620
+973,"Flags/Frames/Posters","Bill of Deep Contrition (M-3)",620
+974,"Flags/Frames/Posters","Bill of Deep Contrition (M-4)",620
+975,"Flags/Frames/Posters","Bill of Deep Contrition (M-5)",620
+976,"Flags/Frames/Posters","Bill of Deepest Contrition (L-2)",620
+977,"Flags/Frames/Posters","Bill of Deepest Contrition (L-3)",620
+978,"Flags/Frames/Posters","Bill of Deepest Contrition (L-4)",620
+979,"Flags/Frames/Posters","Bill of Deepest Contrition (L-5)",620

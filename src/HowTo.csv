@@ -153,7 +153,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 149,"Timeworn Maps",True,"ui/icon/151000/en/151611.tex","ui/icon/151000/en/151612.tex","ui/icon/151000/en/151613.tex","","","","","","","","Items",31
 150,"Deciphering Timeworn Maps",True,"ui/icon/151000/en/151621.tex","ui/icon/151000/en/151622.tex","","","","","","","","","Items",32
 151,"Finding Treasure",True,"ui/icon/151000/en/151631.tex","ui/icon/151000/en/151632.tex","ui/icon/151000/en/151633.tex","","","","","","","","Items",33
-152,"The Beast Tribes",True,"ui/icon/151000/en/151641.tex","ui/icon/151000/en/151642.tex","ui/icon/151000/en/151643.tex","","","","","","","","Quests",21
+152,"The Tribes and Their Tribulations",True,"ui/icon/151000/en/151641.tex","ui/icon/151000/en/151642.tex","ui/icon/151000/en/151643.tex","","","","","","","","Quests",21
 153,"Reputation",True,"ui/icon/151000/en/151651.tex","ui/icon/151000/en/151652.tex","ui/icon/151000/en/151653.tex","","","","","","","","Quests",22
 154,"Transporting",True,"ui/icon/151000/en/151661.tex","ui/icon/151000/en/151661.tex","","","","","","","","","Quests",23
 155,"Transparency",True,"ui/icon/151000/en/151671.tex","ui/icon/151000/en/151672.tex","","","","","","","","","Quests",24
@@ -283,8 +283,8 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 279,"Spearfishing Interface",True,"ui/icon/152000/en/152891.tex","ui/icon/152000/en/152892.tex","ui/icon/152000/en/152893.tex","","","","","","","","Fishing",32
 280,"Fish Population (Spearfishing)",True,"ui/icon/152000/en/152901.tex","ui/icon/152000/en/152902.tex","","","","","","","","","Fishing",33
 281,"",False,"","","","","","","","","","","None",0
-282,"",False,"","","","","","","","","","","None",0
-283,"",False,"","","","","","","","","","","None",0
+282,"Quality Requirements",True,"ui/icon/152000/en/152921.tex","","","","","","","","","","Crafting",12
+283,"Prime and Sublime Collectables",True,"ui/icon/152000/en/152931.tex","ui/icon/152000/en/152932.tex","ui/icon/152000/en/152933.tex","","","","","","","","Gathering",54
 284,"",False,"","","","","","","","","","","None",0
 285,"",False,"","","","","","","","","","","None",0
 286,"",False,"","","","","","","","","","","None",0

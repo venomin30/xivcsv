@@ -42,15 +42,15 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 38,"191-195","",255,255,,0,False,True,True,True,True,True,True,True,True
 39,"196-200","",255,255,,0,False,True,True,True,True,True,True,True,True
 40,"[翻訳不要] レベル区分終端","",255,255,,0,False,True,True,True,True,True,True,True,True
-1000,"Master Recipes (1)","Master Recipes",50,255,,9,True,True,True,True,True,True,True,True,True
-1001,"Master Recipes (2)","Master Recipes",50,255,,8,True,True,True,True,True,True,True,True,True
-1002,"Master Recipes (3)","Master Recipes",50,255,,7,True,True,True,True,True,True,True,True,True
-1003,"Master Recipes (4)","Master Recipes",60,255,,6,True,True,True,True,True,True,True,True,True
-1004,"Master Recipes (5)","Master Recipes",70,255,,5,True,True,True,True,True,True,True,True,True
-1005,"Master Recipes (6)","Master Recipes",70,255,,4,True,True,True,True,True,True,True,True,True
-1006,"Master Recipes (7)","Master Recipes",80,255,,3,True,True,True,True,True,True,True,True,True
-1007,"Master Recipes (8)","Master Recipes",80,255,,2,True,True,True,True,True,True,True,True,True
-1008,"Other Master Recipes","Master Recipes",15,255,,10,True,True,True,True,True,True,True,True,True
+1000,"Master Recipes (1)","Master Recipes",50,255,,10,True,True,True,True,True,True,True,True,True
+1001,"Master Recipes (2)","Master Recipes",50,255,,9,True,True,True,True,True,True,True,True,True
+1002,"Master Recipes (3)","Master Recipes",50,255,,8,True,True,True,True,True,True,True,True,True
+1003,"Master Recipes (4)","Master Recipes",60,255,,7,True,True,True,True,True,True,True,True,True
+1004,"Master Recipes (5)","Master Recipes",70,255,,6,True,True,True,True,True,True,True,True,True
+1005,"Master Recipes (6)","Master Recipes",70,255,,5,True,True,True,True,True,True,True,True,True
+1006,"Master Recipes (7)","Master Recipes",80,255,,4,True,True,True,True,True,True,True,True,True
+1007,"Master Recipes (8)","Master Recipes",80,255,,3,True,True,True,True,True,True,True,True,True
+1008,"Other Master Recipes","Master Recipes",15,255,,11,True,True,True,True,True,True,True,True,True
 1009,"","",0,0,,0,False,False,False,False,False,False,False,False,False
 1010,"","",0,0,,0,False,False,False,False,False,False,False,False,False
 1011,"Dyes","Others",30,255,,1,False,True,True,True,True,True,True,True,True
@@ -59,9 +59,9 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 1014,"Crystarium Deliveries","Story",70,255,"Iola, Forgemaster",2,False,False,True,True,True,False,False,False,False
 1015,"Crystarium Deliveries","Story",70,255,"Cherished Memories",3,False,True,False,False,False,True,True,False,False
 1016,"Crystarium Deliveries","Story",70,255,"Friends of a Feather",4,False,False,False,False,False,False,False,True,True
-1017,"Ixal Quests","Beast Tribe Quests",1,255,,1,False,True,True,True,True,True,True,True,True
-1018,"Moogle Quests","Beast Tribe Quests",50,255,,2,False,True,True,True,True,True,True,True,True
-1019,"Namazu Quests","Beast Tribe Quests",60,255,,3,False,True,True,True,True,True,True,True,True
+1017,"Ixal Quests","Tribal Quests",1,255,,1,False,True,True,True,True,True,True,True,True
+1018,"Moogle Quests","Tribal Quests",50,255,,2,False,True,True,True,True,True,True,True,True
+1019,"Namazu Quests","Tribal Quests",60,255,,3,False,True,True,True,True,True,True,True,True
 1020,"Zhloe Aliapoh","Custom Deliveries",55,255,,1,False,True,True,True,True,True,True,True,True
 1021,"M'naago","Custom Deliveries",55,255,,2,False,True,True,True,True,True,True,True,True
 1022,"Kurenai","Custom Deliveries",55,255,,3,False,True,True,True,True,True,True,True,True
@@ -71,16 +71,16 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 1026,"Other","Ishgard Restoration",20,255,,6,False,True,True,True,True,True,True,True,True
 1027,"Restoration (2)","Ishgard Restoration",20,255,,2,False,True,True,True,True,True,True,True,True
 1028,"Skysteel Tools","Ishgard Restoration",80,255,"Mislaid Plans",5,False,True,True,True,True,True,True,True,True
-1029,"Dwarf Quests","Beast Tribe Quests",70,255,,4,False,True,True,True,True,True,True,True,True
+1029,"Dwarf Quests","Tribal Quests",70,255,,4,False,True,True,True,True,True,True,True,True
 1030,"Ehll Tou","Custom Deliveries",55,255,,6,False,True,True,True,True,True,True,True,True
 1031,"Restoration (3)","Ishgard Restoration",20,255,,3,False,True,True,True,True,True,True,True,True
 1032,"50-60","Collectables",50,255,,4,False,True,True,True,True,True,True,True,True
 1033,"61-70","Collectables",61,255,,3,False,True,True,True,True,True,True,True,True
 1034,"71-80","Collectables",70,255,,2,False,True,True,True,True,True,True,True,True
-1035,"Ornaments","Others",50,255,,3,False,False,False,False,False,False,False,True,False
+1035,"Ornaments (1)","Others",50,255,,3,False,False,False,False,False,False,False,True,False
 1036,"Restoration (4)","Ishgard Restoration",20,255,,4,False,True,True,True,True,True,True,True,True
 1037,"Charlemend","Custom Deliveries",55,255,,7,False,True,True,True,True,True,True,True,True
-1038,"Master Recipes (9)","Master Recipes",90,255,,1,True,True,True,True,True,True,True,True,True
+1038,"Master Recipes (9)","Master Recipes",90,255,,2,True,True,True,True,True,True,True,True,True
 1039,"81-90","Collectables",80,255,,1,False,True,True,True,True,True,True,True,True
 1040,"Studium Deliveries","Story",80,255,"Professor Rurusha's New Friend",5,False,False,True,True,True,False,False,False,False
 1041,"Studium Deliveries","Story",80,255,"In Search of the Azure Star",6,False,True,False,False,False,True,True,False,False
@@ -93,7 +93,9 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 1048,"Wall-mounted","Housing",12,255,,6,False,True,True,True,True,True,True,True,False
 1049,"Other","Housing",12,255,,7,False,False,False,False,False,False,False,True,False
 1050,"Ameliance","Custom Deliveries",80,255,,8,False,True,True,True,True,True,True,True,True
-1051,"","",0,0,,0,False,False,False,False,False,False,False,False,False
+1051,"Master Recipes (10)","Master Recipes",90,255,,1,True,True,True,True,True,True,True,True,True
+1052,"Ornaments (2)","Others",73,255,,4,False,False,False,False,False,False,False,True,False
+1053,"","",0,0,,0,False,False,False,False,False,False,False,False,False
 2000,"Coerthas","Regional Folklore",255,50,,9,False,True,True,True,True,True,True,True,True
 2001,"Dravania","Regional Folklore",255,50,,8,False,True,True,True,True,True,True,True,True
 2002,"Abalathia","Regional Folklore",255,50,,7,False,True,True,True,True,True,True,True,True
