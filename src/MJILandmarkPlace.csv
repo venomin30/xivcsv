@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5
-#,,,,,,
-int32,uint32,uint32,uint32,byte,int16,int16
-0,9260149,2013010,30266,2,-348,100
-1,9260150,2013011,30266,3,-267,336
-2,9260151,2013012,30266,4,-186,228
-3,9260152,2013013,30266,5,-340,324
+#,,Name,SGB,,,
+int32,uint32,EObjName,ExportedSG,byte,int16,int16
+0,9260149,"landmark I logboard","bgcommon/mji/buil/02/0002/asset/mon_t1_m0002.sgb",2,-348,100
+1,9260150,"landmark II logboard","bgcommon/mji/buil/02/0002/asset/mon_t1_m0002.sgb",3,-267,336
+2,9260151,"landmark III logboard","bgcommon/mji/buil/02/0002/asset/mon_t1_m0002.sgb",4,-186,228
+3,9260152,"landmark IV logboard","bgcommon/mji/buil/02/0002/asset/mon_t1_m0002.sgb",5,-340,324
