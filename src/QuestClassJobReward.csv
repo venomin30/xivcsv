@@ -282,22 +282,22 @@ int32,ClassJobCategory,Item,Item,Item,Item,byte,byte,byte,byte,Item,Item,Item,It
 22.14,"RDM","Blade's Temperance","","","",1,0,0,0,"Augmented Law's Order Rapier","","","",1,0,0,0,False,False,False,False,True,True,True,True
 22.15,"GNB","Blade's Resolve","","","",1,0,0,0,"Augmented Law's Order Manatrigger","","","",1,0,0,0,False,False,False,False,True,True,True,True
 22.16,"DNC","Blade's Euphoria","","","",1,0,0,0,"Augmented Law's Order Chakrams","","","",1,0,0,0,False,False,False,False,True,True,True,True
-23.0,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-23.1,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-23.2,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-23.3,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-23.4,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-23.5,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-23.6,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-23.7,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-23.8,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-23.9,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-23.10,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-23.11,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-23.12,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-23.13,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-23.14,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-23.15,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-23.16,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-23.17,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-23.18,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
+23.0,"PLD","Manderville Sword","Manderville Kite Shield","","",1,1,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
+23.1,"MNK","Manderville Knuckles","","","",1,0,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
+23.2,"WAR","Manderville Axe","","","",1,0,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
+23.3,"DRG","Manderville Spear","","","",1,0,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
+23.4,"BRD","Manderville Harp Bow","","","",1,0,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
+23.5,"WHM","Manderville Cane","","","",1,0,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
+23.6,"BLM","Manderville Rod","","","",1,0,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
+23.7,"SMN","Manderville Index","","","",1,0,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
+23.8,"SCH","Manderville Codex","","","",1,0,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
+23.9,"NIN","Manderville Knives","","","",1,0,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
+23.10,"DRK","Manderville Zweihander","","","",1,0,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
+23.11,"MCH","Manderville Revolver","","","",1,0,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
+23.12,"AST","Manderville Torquetum","","","",1,0,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
+23.13,"SAM","Manderville Samurai Blade","","","",1,0,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
+23.14,"RDM","Manderville Rapier","","","",1,0,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
+23.15,"GNB","Manderville Gunblade","","","",1,0,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
+23.16,"DNC","Manderville Chakrams","","","",1,0,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
+23.17,"RPR","Manderville Scythe","","","",1,0,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
+23.18,"SGE","Manderville Milpreves","","","",1,0,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True

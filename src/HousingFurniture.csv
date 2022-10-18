@@ -1227,12 +1227,23 @@ Are you certain you wish to proceed?",0,0,0,True,False
 197888,1021,12,0,0,0,0,,"Authentic White Tiger",False,"",3,0,0,True,False
 197889,1174,13,0,0,0,0,,"Mummer's Shelf",False,"",5,0,0,True,False
 197890,1175,14,7,75,0,0,"CmnDefHousingDish_00213","Cheese Fondue Set",True,"",9,4,11,True,False
+197893,1178,12,0,0,0,0,,"Enigma Partition",False,"",0,0,0,True,False
 197894,1179,15,0,0,0,0,,"Wall-mounted Wings",False,"",0,0,0,True,False
+197895,1180,14,7,76,0,0,"CmnDefHousingDish_00213","Dragonstar aux Marrons",True,"",8,4,11,True,False
 197896,1181,14,7,77,0,0,"CmnDefHousingDish_00213","Coconut Water",True,"",9,4,11,True,False
+197898,1183,12,0,0,0,0,,"Sil'dihn Chair",False,"",0,0,0,True,False
+197899,1184,15,0,0,0,0,,"Tatami Loft",False,"",0,0,0,True,False
 197900,1185,12,0,0,0,0,,"Kugane Phasmascape",False,"",0,0,0,True,False
 197901,1186,12,0,0,0,0,,"Costa del Sol Phasmascape",False,"",0,0,0,True,False
+197902,1187,13,0,0,0,0,,"Sharlayan Sink",False,"",0,0,0,True,False
+197903,1188,12,0,0,0,0,,"Sharlayan Chair",False,"",0,0,0,True,False
+197904,1189,13,0,0,0,0,,"Sharlayan Desk",False,"",0,0,0,True,False
+197905,1190,16,0,0,0,0,,"Sharlayan Rug",False,"",0,0,0,True,False
 197906,1191,12,0,0,0,0,,"Garlean Stove",False,"",5,0,0,True,False
 197907,1192,15,0,0,0,0,,"Side-tied Curtain",False,"",0,0,0,True,False
+197908,1193,13,0,0,0,0,,"Sil'dihn Kitchen Shelf",False,"",0,0,0,True,False
+197909,1194,13,0,0,0,0,,"Sil'dihn Side Table",False,"",0,0,0,True,False
+197910,1195,15,0,0,0,0,,"Sil'dihn Banner",False,"",5,0,0,True,False
 197911,1196,14,0,0,0,0,,"Caged Wisp",False,"",5,0,0,True,False
 197912,1197,15,0,0,0,0,,"Korpokkur Chronometer",False,"",0,0,0,True,False
 197913,1198,15,0,0,0,0,,"Natural Wooden Beam",False,"",0,0,0,True,False
@@ -1248,7 +1259,7 @@ Are you certain you wish to proceed?",0,0,0,True,False
 197923,1176,14,0,0,0,0,"CmnDefHousingObject_00141","Rousing Chronometer",False,"",0,0,0,True,False
 197924,1177,14,0,0,0,0,,"Countertop Coffee Service",False,"",0,0,0,True,False
 197925,987,14,0,0,0,0,,"Authentic Pumpkin Flower Vase",False,"",3,0,0,True,False
-197926,1105,15,0,0,0,0,,"スターライトモービルEX",False,"",3,0,0,True,False
+197926,1105,15,0,0,0,0,,"Authentic Starlight Mobile",False,"",3,0,0,True,False
 197927,1205,15,0,0,0,0,,"Bill of Contrition (S-2)",False,"",5,0,0,True,False
 197928,1205,15,0,0,0,0,,"Bill of Contrition (S-3)",False,"",5,0,0,True,False
 197929,1205,15,0,0,0,0,,"Bill of Contrition (S-4)",False,"",5,0,0,True,False

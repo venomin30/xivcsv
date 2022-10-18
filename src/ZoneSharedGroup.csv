@@ -227,9 +227,9 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 47.10,8802589,2,"You're Not Alone",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 47.11,8483021,2,"You're Not Alone",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 47.12,8996912,2,"You're Not Alone",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-47.13,9342606,1,"",0,False,1,"",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+47.13,9342606,1," The Café at the End of the Universe",0,False,1," Life, the Universe, and Coffee Beans",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 47.14,8961773,1,"Where No Loporrit Has Gone Before",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-47.15,9385708,2,"",1,False,2,"",2,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+47.15,9385708,2," The Café at the End of the Universe",1,False,2," The Café at the End of the Universe",2,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 48.0,8996066,1,"Cooking Up a Culture",0,False,1,"The Culture of Ceruleum",0,False,1,"The Culture of Carrots",0,False,1,"The Culture of the Past",0,False,1,"The Culture of Love",0,False,0,,0,False,0,0,0,False
 48.1,8872864,1,"Go with the Flow",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 48.2,8792715,1,"Data across the Decades",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
@@ -248,6 +248,6 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 50.10,8802589,2,"You're Not Alone",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 50.11,8483021,2,"You're Not Alone",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 50.12,9060003,2,"You're Not Alone",4,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-50.13,9342606,1,"",0,False,1,"",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+50.13,9342606,1," The Café at the End of the Universe",0,False,1," Life, the Universe, and Coffee Beans",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 50.14,8961773,1,"Where No Loporrit Has Gone Before",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-50.15,9385708,2,"",1,False,2,"",2,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+50.15,9385708,2," The Café at the End of the Universe",1,False,2," The Café at the End of the Universe",2,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False

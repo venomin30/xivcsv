@@ -204,75 +204,75 @@ int32,ClassJobCategory,byte,ENpcResident,Item,byte,bit&01
 57.0,"MIN",0,"Qhoterl Pasol","Splendid Black Rock",3,False
 57.1,"BTN",0,"Qhoterl Pasol","Splendid Hemp",3,False
 57.2,"FSH",0,"Qhoterl Pasol","Splendid Mammoth Shellfish",1,False
-58.0,"",0,,"",0,False
-58.1,"",0,,"",0,False
-58.2,"",0,,"",0,False
-59.0,"",0,,"",0,False
-59.1,"",0,,"",0,False
-59.2,"",0,,"",0,False
-60.0,"",0,,"",0,False
-60.1,"",0,,"",0,False
-60.2,"",0,,"",0,False
-61.0,"",0,,"",0,False
-61.1,"",0,,"",0,False
-61.2,"",0,,"",0,False
-62.0,"",0,,"",0,False
-62.1,"",0,,"",0,False
-62.2,"",0,,"",0,False
-63.0,"",0,,"",0,False
-63.1,"",0,,"",0,False
-63.2,"",0,,"",0,False
-64.0,"",0,,"",0,False
-64.1,"",0,,"",0,False
-64.2,"",0,,"",0,False
-65.0,"",0,,"",0,False
-65.1,"",0,,"",0,False
-65.2,"",0,,"",0,False
-66.0,"",0,,"",0,False
-66.1,"",0,,"",0,False
-66.2,"",0,,"",0,False
-67.0,"",0,,"",0,False
-67.1,"",0,,"",0,False
-67.2,"",0,,"",0,False
-68.0,"",0,,"",0,False
-68.1,"",0,,"",0,False
-68.2,"",0,,"",0,False
-69.0,"",0,,"",0,False
-69.1,"",0,,"",0,False
-69.2,"",0,,"",0,False
-70.0,"",0,,"",0,False
-70.1,"",0,,"",0,False
-70.2,"",0,,"",0,False
-71.0,"",0,,"",0,False
-71.1,"",0,,"",0,False
-71.2,"",0,,"",0,False
-72.0,"",0,,"",0,False
-72.1,"",0,,"",0,False
-72.2,"",0,,"",0,False
-73.0,"",0,,"",0,False
-73.1,"",0,,"",0,False
-73.2,"",0,,"",0,False
-74.0,"",0,,"",0,False
-74.1,"",0,,"",0,False
-74.2,"",0,,"",0,False
-75.0,"",0,,"",0,False
-75.1,"",0,,"",0,False
-75.2,"",0,,"",0,False
-76.0,"",0,,"",0,False
-76.1,"",0,,"",0,False
-76.2,"",0,,"",0,False
-77.0,"",0,,"",0,False
-77.1,"",0,,"",0,False
-77.2,"",0,,"",0,False
-78.0,"",0,,"",0,False
-78.1,"",0,,"",0,False
-78.2,"",0,,"",0,False
-79.0,"",0,,"",0,False
-79.1,"",0,,"",0,False
-79.2,"",0,,"",0,False
-80.0,"",0,,"",0,False
-80.1,"",0,,"",0,False
-80.2,"",0,,"",0,False
-81.0,"",0,,"",0,False
-81.1,"",0,,"",0,False
-81.2,"",0,,"",0,False
+58.0,"MIN",0,"N-7000","Wild Liverwort",3,False
+58.1,"BTN",0,"N-7000","Prime Alien Onion",3,False
+58.2,"FSH",0,"N-7000","Soggy Alien Kelp",1,False
+59.0,"MIN",0,"N-7000","Star Sea Salt",3,False
+59.1,"BTN",0,"N-7000","Dragonseye Beans",3,False
+59.2,"FSH",0,"N-7000","Stellar Herring",1,False
+60.0,"MIN",0,"N-7000","Stellar Magnesium",3,False
+60.1,"BTN",0,"N-7000","Stellar Cumin",3,False
+60.2,"FSH",0,"N-7000","Meteoric Bonito",1,False
+61.0,"MIN",0,"N-7000","Pure Green Quartz",3,False
+61.1,"BTN",0,"N-7000","Sohm Al Bloom",3,False
+61.2,"FSH",0,"N-7000","Copperscale",1,False
+62.0,"MIN",0,"Jammingway","Methane Egg",3,False
+62.1,"BTN",0,"Jammingway","Methane Blossom",3,False
+62.2,"FSH",0,"Jammingway","Methane Puffer",1,False
+63.0,"MIN",0,"Karellian quartermaster","Trona Ore",3,False
+63.1,"BTN",0,"Karellian quartermaster","Celestial Grain",3,False
+63.2,"FSH",0,"Karellian quartermaster","Chemically Rich Fish",1,False
+64.0,"MIN",0,"Stigma-4","Mineral Sample",3,False
+64.1,"BTN",0,"Stigma-4","Plant Life Sample",3,False
+64.2,"FSH",0,"Stigma-4","Wildlife Sample",1,False
+65.0,"MIN",0,"Stigma-4","Nutrient-rich Ore",3,False
+65.1,"BTN",0,"Stigma-4","Withered Grass",3,False
+65.2,"FSH",0,"Stigma-4","Nondescript Fish",1,False
+66.0,"MIN",0,"food processing unit","Clear Rock Salt",3,False
+66.1,"BTN",0,"food processing unit","Sweet Nectar",3,False
+66.2,"FSH",0,"food processing unit","Fresh Seaweed",1,False
+67.0,"MIN",0,"analysis unit","Limestone Coral",3,False
+67.1,"BTN",0,"analysis unit","Elysian Cucumber",3,False
+67.2,"FSH",0,"analysis unit","Elysian Nudibranch",1,False
+68.0,"MIN",0,"Stigma-4","Weighted Agalmatolite",3,False
+68.1,"BTN",0,"Stigma-4","Fragrant Greens",3,False
+68.2,"FSH",0,"Stigma-4","Sticky Fingers",1,False
+69.0,"MIN",0,"all-purpose service unit","Bryophyte",3,False
+69.1,"BTN",0,"all-purpose service unit","Elysian Seaweed",3,False
+69.2,"FSH",0,"all-purpose service unit","Elysian Stickleback",1,False
+70.0,"MIN",0,"food processing unit","Elysian Rock Salt",3,False
+70.1,"BTN",0,"food processing unit","Elysian Kelp",3,False
+70.2,"FSH",0,"food processing unit","Saltwater Fish",1,False
+71.0,"MIN",0,"alimentary survey unit","Diatom Cluster",3,False
+71.1,"BTN",0,"alimentary survey unit","Rock Moss",3,False
+71.2,"FSH",0,"alimentary survey unit","Seaweed Snapper",1,False
+72.0,"MIN",0,"intrigued Ea","Karellian Black Salt",3,False
+72.1,"BTN",0,"intrigued Ea","Karellian Prismatic Wheat",3,False
+72.2,"FSH",0,"intrigued Ea","Karellian Fishy Fish",1,False
+73.0,"MIN",0,"aberrant savor-seeking unit","Salt-like Rock",3,False
+73.1,"BTN",0,"aberrant savor-seeking unit","Puantplant",3,False
+73.2,"FSH",0,"aberrant savor-seeking unit","Paraichthyoid",1,False
+74.0,"MIN",0,"expectant Ea","Supremest Space Oyster",3,False
+74.1,"BTN",0,"expectant Ea","Supremest Kelp",3,False
+74.2,"FSH",0,"expectant Ea","Supremest Crustacean",1,False
+75.0,"MIN",0,"food processing unit","Mashable Worm",3,False
+75.1,"BTN",0,"food processing unit","Softmoss",3,False
+75.2,"FSH",0,"food processing unit","Babycray",1,False
+76.0,"MIN",0,"nurturing nanny","Pillowy Cosmoclay",3,False
+76.1,"BTN",0,"nurturing nanny","Supple Cosmowood",3,False
+76.2,"FSH",0,"nurturing nanny","Silky Cosmocoral",1,False
+77.0,"MIN",0,"advanced environmental stimulation unit","Bioluminescent Rock Moss",3,False
+77.1,"BTN",0,"advanced environmental stimulation unit","Lucent Flower",3,False
+77.2,"FSH",0,"advanced environmental stimulation unit","Chromatic Fish",1,False
+78.0,"MIN",0,"advanced culinary research unit","Delectable Worm",3,False
+78.1,"BTN",0,"advanced culinary research unit","True Dragon Fruit",3,False
+78.2,"FSH",0,"advanced culinary research unit","Dragon's Delight",1,False
+79.0,"MIN",0,"wistful dragon","Monumental Whetstone",3,False
+79.1,"BTN",0,"wistful dragon","Cotton-like Plant",3,False
+79.2,"FSH",0,"wistful dragon","Astral Algae",1,False
+80.0,"MIN",0,"soil purification unit","Metalsand",3,False
+80.1,"BTN",0,"soil purification unit","Elysian Herb",3,False
+80.2,"FSH",0,"soil purification unit","Weird Fish",1,False
+81.0,"MIN",0,"advanced dental polishing unit","Porous Stone",3,False
+81.1,"BTN",0,"advanced dental polishing unit","Fibrous Kelp",3,False
+81.2,"FSH",0,"advanced dental polishing unit","Cosmic Sponge",1,False

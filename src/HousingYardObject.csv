@@ -274,6 +274,7 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131354,264,17,0,0,0,,"Shoveled Snow",False,False,True,0,0,0,False
 131355,265,17,0,0,0,,"Ishgardian Lamppost",False,False,True,0,0,0,False
 131356,244,17,0,0,0,,"Authentic Moonfire Mask Stall",False,False,True,3,0,0,False
+131357,266,17,0,0,0,,"Blooming Garden Table",False,False,True,0,0,0,False
 131358,267,17,0,0,0,,"Bamboo Fence",False,False,True,0,0,0,False
 131359,268,17,0,0,0,,"Camping Furniture",False,False,True,0,0,0,False
 131360,269,17,0,0,0,,"Illuminated Tree",False,False,True,5,0,0,False

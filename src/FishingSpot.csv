@@ -282,8 +282,8 @@ int32,byte,str,str,byte,bit&01,TerritoryType,PlaceName,PlaceName,int16,int16,uin
 278,88,"","",7,False,"u5f2","","",994,1756,300,4,"Superstring","Vacuum Shrimp","Star Eater","Cosmic Noise","","","","","","","Apohelos 18-γ",272
 279,89,"","",7,False,"u5f2","","",426,1476,300,4,"Superstring","Glassfish","Star Eater","Foun Myhk","Foun Ahlm","","","","","","Apohelos 18-β",271
 280,90,"","",7,False,"u5f2","","",298,1062,300,4,"Superstring","Dragonscale","Star Eater","Ypupîara","Eehs Forhnesh","","","","","","Apohelos 18-α",270
-281,90,"","",2,False,"u5f2","","",698,528,600,4,"Protoflesh","Katoptron","Comet Tail","Aoide","Starscryer","","","","","","The Wellspring of Regret",273
-282,90,"","",2,False,"u5f2","","",1079,389,750,4,"Protoflesh","Katoptron","Wandering Starscale","","","","","","","","Elegeia",274
+281,84,"","",2,False,"u5f2","","",698,528,600,4,"Protoflesh","Katoptron","Comet Tail","Aoide","Starscryer","","","","","","The Wellspring of Regret",273
+282,84,"","",2,False,"u5f2","","",1079,389,750,4,"Protoflesh","Katoptron","Wandering Starscale","","","","","","","","Abode of the Ea",274
 283,89,"","",9,False,"u5f2","","",212,1706,900,4,"Wormhole Worm","Unidentified Flying Biomass II","Sophos Deka-okto","Class Twenty-four","Terrifyingway","Alien Mertone","Monster Carrot","Forbiddingway","","","Limne 18",275
 284,90,"","",9,False,"u5f2","","",1824,406,900,4,"Wormhole Worm","Unidentified Flying Biomass II","Triaina","Argonaut","Echinos","Space Bishop","Alyketos","Argonauta argo","","","Limne 3-α",276
 285,90,"","",9,True,"u5f2","","",1202,808,600,4,"Wormhole Worm","Unidentified Flying Biomass II","Triaina","Horizon Event","E.B.E.-9318","Unbegotten","Phallaina ","","","","Limne 3-β",277
@@ -332,8 +332,8 @@ int32,byte,str,str,byte,bit&01,TerritoryType,PlaceName,PlaceName,int16,int16,uin
 10023,80,"You glimpse the blurred form of some flying creature as it flashes across the sky.","Like a living bolt of lightning, the creature flickers past and is gone.",5,False,,"","",0,0,0,0,"Grade 4 Skybuilders' Ghost Faerie","Grade 4 Skybuilders' Ashfish","Grade 4 Skybuilders' Sunfish","Grade 4 Artisanal Skybuilders' Lightning Chaser","Grade 4 Artisanal Skybuilders' Meganeura","","","","","","Windswept Cloudtop",0
 10024,80,"","",5,False,,"","",0,0,0,0,"Grade 4 Skybuilders' Ghost Faerie","Grade 4 Skybuilders' Ashfish","Grade 2 Artisanal Skybuilders' Rhomaleosaurus","Grade 2 Artisanal Skybuilders' Gobbie Mask","Grade 2 Artisanal Skybuilders' Cometfish","Grade 2 Artisanal Skybuilders' Anomalocaris","Grade 3 Artisanal Skybuilders' Oscar","Grade 3 Artisanal Skybuilders' Blind Manta","Grade 3 Artisanal Skybuilders' Archaeopteryx","Grade 3 Artisanal Skybuilders' Cloudshark","Windbreaking Cloudtop",0
 10025,80,"","",5,False,,"","",0,0,0,0,"Grade 4 Skybuilders' Ghost Faerie","Grade 4 Skybuilders' Ashfish","Grade 2 Artisanal Skybuilders' Pterodactyl","Grade 2 Artisanal Skybuilders' Skyfish","Grade 2 Artisanal Skybuilders' Rhamphorhynchus","Grade 2 Artisanal Skybuilders' Dragon's Soul","Grade 3 Artisanal Skybuilders' Mosasaur","Grade 3 Artisanal Skybuilders' Storm Chaser","Grade 3 Artisanal Skybuilders' Wyvern","Grade 3 Artisanal Skybuilders' Helicoprion","Buffeted Cloudtop",0
-10026,0,"","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10027,0,"","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10028,0,"","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10029,0,"","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10030,0,"","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10026,84,"","",2,False,"u5e3","","",1069,1141,200,4,"Protoflesh","Comet Tail","","","","","","","","","Elysian Fields",0
+10027,84,"","",2,False,"u5e3","","",1141,821,600,4,"Protoflesh","Katoptron","","","","","","","","","Elysian Seas α",0
+10028,84,"","",2,False,"u5e3","","",1172,627,200,4,"Protoflesh","Comet Tail","","","","","","","","","Elysian Seas β",0
+10029,84,"","",2,False,"u5e3","","",861,1136,800,4,"Protoflesh","Wandering Starscale","","","","","","","","","Elysian Playgrounds α",0
+10030,84,"","",2,False,"u5e3","","",736,1370,800,4,"Protoflesh","Wandering Starscale","Katoptron","","","","","","","","Elysian Playgrounds β",0

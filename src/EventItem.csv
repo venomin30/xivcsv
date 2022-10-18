@@ -3190,3 +3190,8 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003422,"hippo feed bag",0,"hippo feed bags",0,0,1,0,0,False,"Hippo Feed Bag","ui/icon/025000/025919.tex","",1,1," Hells Hath No Fury as a Hippo Scorned",0,"normal/item_start",0
 2003423,"Nashu's Delight",0,"Nashu's Delights",0,0,1,0,0,False,"Nashu's Delight","ui/icon/026000/026015.tex","",1,1,"The Sleeping Gentleman",0,"normal/item_start",0
 2003424,"gentlemanly spirit vessel",0,"gentlemanly spirit vessels",0,0,1,0,0,False,"Gentlemanly Spirit Vessel","ui/icon/026000/026610.tex","",1,1,"A Soulful Reunion",0,"normal/item_start",0
+2003440,"packed meal",0,"packed meals",0,0,1,0,0,False,"Packed Meal","ui/icon/020000/020974.tex","",2,1," The Hunger Pangs",0,"normal/item_start",0
+2003441,"humectant body bag",0,"humectant body bags",0,0,1,0,0,False,"Humectant Body Bag","ui/icon/026000/026110.tex","Key Item",1,1," A Grebuloff Out of Water",3,"normal/item_start",0
+2003442,"occupied body bag",0,"occupied body bags",0,1,1,0,0,False,"Occupied Body Bag","ui/icon/026000/026110.tex","",1,1," A Grebuloff Out of Water",0,"normal/item_start",0
+2003443,"ore sack",0,"ore sacks",0,1,1,0,0,False,"Ore Sack","ui/icon/026000/026110.tex","",2,1,,0,"normal/item_start",0
+2003444,"myrrh incense burner",0,"myrrh incense burners",0,0,1,0,0,False,"Myrrh Incense Burner","ui/icon/022000/022851.tex","",1,1,,0,"normal/item_start",0

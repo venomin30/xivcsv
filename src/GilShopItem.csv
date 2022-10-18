@@ -7853,7 +7853,7 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262655.15,"Hingan Bench",False,0,,,"",0,75,0
 262655.16,"Futon Mattress",False,0,,,"",0,200,420
 262655.17,"Scholasticate Chair",False,0,,,"",0,76,610
-262655.18,"",False,0,,,"",0,77,620
+262655.18,"Sharlayan Chair",False,0,,,"",0,77,620
 262656.0,"Riviera Round Table",False,0,,,"",0,10,0
 262656.1,"Glade Round Table",False,0,,,"",0,20,0
 262656.2,"Oasis Round Table",False,0,,,"",0,30,0
@@ -7880,7 +7880,7 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262656.23,"Wooden Table",False,0,,,"",0,152,520
 262656.24,"Alpine Cabinet",False,0,,,"",0,185,610
 262656.25,"Scholasticate Table",False,0,,,"",0,125,610
-262656.26,"",False,0,,,"",0,125,620
+262656.26,"Sharlayan Desk",False,0,,,"",0,125,620
 262657.0,"Riviera Bookshelf",False,0,,,"",0,10,0
 262657.1,"Glade Bookshelf",False,0,,,"",0,20,0
 262657.2,"Oasis Bookshelf",False,0,,,"",0,30,0
@@ -7913,7 +7913,7 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262657.29,"Alpine Doormat",False,0,,,"",0,153,610
 262657.30,"Scholasticate Bookshelf",False,0,,,"",0,35,610
 262657.31,"Alpine Wall Lantern",False,0,,,"",0,230,610
-262657.32,"",False,0,,,"",0,154,620
+262657.32,"Sharlayan Rug",False,0,,,"",0,154,620
 262658.0,"Ink & Quill",False,0,,,"",0,40,0
 262658.1,"Classified Documents",False,0,,,"",0,40,0
 262658.2,"Scattered Documents",False,0,,,"",0,40,0
@@ -15115,14 +15115,14 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263147.0,"Prismatic Heart (Left)",False,0,,,"",0,10,0
 263147.1,"Prismatic Heart (Right)",False,0,,,"",0,10,0
 263147.2,"Valentione's Heart Desk",False,0,,,"",0,1,620
-263147.3,"Valentione Emissary's Hat",False,0,"ヴァレンティオンデーとそれぞれの愛",,"",0,100,620
-263147.4,"Valentione Emissary's Jacket",False,0,"ヴァレンティオンデーとそれぞれの愛",,"",0,100,620
-263147.5,"Valentione Emissary's Bottoms",False,0,"ヴァレンティオンデーとそれぞれの愛",,"",0,100,620
-263147.6,"Valentione Emissary's Boots",False,0,"ヴァレンティオンデーとそれぞれの愛",,"",0,100,620
-263147.7,"Valentione Emissary's Dress Hat",False,0,"ヴァレンティオンデーとそれぞれの愛",,"",0,110,620
-263147.8,"Valentione Emissary's Ruffled Dress",False,0,"ヴァレンティオンデーとそれぞれの愛",,"",0,110,620
-263147.9,"Valentione Emissary's Culottes",False,0,"ヴァレンティオンデーとそれぞれの愛",,"",0,110,620
-263147.10,"Valentione Emissary's Boots",False,0,"ヴァレンティオンデーとそれぞれの愛",,"",0,110,620
+263147.3,"Valentione Emissary's Hat",False,0,"Suited for Affection",,"",0,100,620
+263147.4,"Valentione Emissary's Jacket",False,0,"Suited for Affection",,"",0,100,620
+263147.5,"Valentione Emissary's Bottoms",False,0,"Suited for Affection",,"",0,100,620
+263147.6,"Valentione Emissary's Boots",False,0,"Suited for Affection",,"",0,100,620
+263147.7,"Valentione Emissary's Dress Hat",False,0,"Suited for Affection",,"",0,110,620
+263147.8,"Valentione Emissary's Ruffled Dress",False,0,"Suited for Affection",,"",0,110,620
+263147.9,"Valentione Emissary's Culottes",False,0,"Suited for Affection",,"",0,110,620
+263147.10,"Valentione Emissary's Dress Boots",False,0,"Suited for Affection",,"",0,110,620
 263147.11,"Ballroom Etiquette - Valentione's Dangers",False,0,,,"",0,1,620
 263148.0,"Bill of Contrition (S-1)",False,0,,,"",0,90,620
 263148.1,"Bill of Contrition (S-2)",False,0,,,"",0,91,620

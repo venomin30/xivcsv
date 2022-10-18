@@ -1506,51 +1506,51 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint32,bit&02,uint32
 10781,"Eternity Ring Material","GatheringItemLevelConvertTable#527",False,,0,False,0
 10782,"Timeworn Saigaskin Map","GatheringItemLevelConvertTable#560",False,,0,False,0
 10783,"Timeworn Kumbhiraskin Map","GatheringItemLevelConvertTable#560",False,,0,False,0
-10784,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10785,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10786,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10787,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10788,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10789,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10790,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10791,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10792,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10793,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10794,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10795,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10796,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10797,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10798,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10799,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10800,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10801,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10802,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10803,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10804,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10805,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10806,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10807,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10808,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10809,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10810,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10811,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10812,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10813,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10814,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10815,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10816,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10817,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10818,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10819,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10820,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10821,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10822,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10823,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10824,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10825,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10826,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10827,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10828,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10829,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10830,"","GatheringItemLevelConvertTable#0",False,,0,False,0
-10831,"","GatheringItemLevelConvertTable#0",False,,0,False,0
+10784,"Wild Liverwort","GatheringItemLevelConvertTable#390",False,,0,False,0
+10785,"Star Sea Salt","GatheringItemLevelConvertTable#400",False,,0,False,0
+10786,"Stellar Magnesium","GatheringItemLevelConvertTable#410",False,,0,False,0
+10787,"Pure Green Quartz","GatheringItemLevelConvertTable#420",False,,0,False,0
+10788,"Methane Egg","GatheringItemLevelConvertTable#430",False,,0,False,0
+10789,"Trona Ore","GatheringItemLevelConvertTable#400",False,,0,False,0
+10790,"Mineral Sample","GatheringItemLevelConvertTable#400",False,,0,False,0
+10791,"Nutrient-rich Ore","GatheringItemLevelConvertTable#400",False,,0,False,0
+10792,"Clear Rock Salt","GatheringItemLevelConvertTable#400",False,,0,False,0
+10793,"Limestone Coral","GatheringItemLevelConvertTable#410",False,,0,False,0
+10794,"Weighted Agalmatolite","GatheringItemLevelConvertTable#410",False,,0,False,0
+10795,"Bryophyte","GatheringItemLevelConvertTable#410",False,,0,False,0
+10796,"Elysian Rock Salt","GatheringItemLevelConvertTable#410",False,,0,False,0
+10797,"Diatom Cluster","GatheringItemLevelConvertTable#410",False,,0,False,0
+10798,"Karellian Black Salt","GatheringItemLevelConvertTable#420",False,,0,False,0
+10799,"Salt-like Rock","GatheringItemLevelConvertTable#420",False,,0,False,0
+10800,"Supremest Space Oyster","GatheringItemLevelConvertTable#420",False,,0,False,0
+10801,"Mashable Worm","GatheringItemLevelConvertTable#420",False,,0,False,0
+10802,"Pillowy Cosmoclay","GatheringItemLevelConvertTable#420",False,,0,False,0
+10803,"Bioluminescent Rock Moss","GatheringItemLevelConvertTable#430",False,,0,False,0
+10804,"Delectable Worm","GatheringItemLevelConvertTable#430",False,,0,False,0
+10805,"Monumental Whetstone","GatheringItemLevelConvertTable#430",False,,0,False,0
+10806,"Metalsand","GatheringItemLevelConvertTable#430",False,,0,False,0
+10807,"Porous Stone","GatheringItemLevelConvertTable#430",False,,0,False,0
+10808,"Prime Alien Onion","GatheringItemLevelConvertTable#390",False,,0,False,0
+10809,"Dragonseye Beans","GatheringItemLevelConvertTable#400",False,,0,False,0
+10810,"Stellar Cumin","GatheringItemLevelConvertTable#410",False,,0,False,0
+10811,"Sohm Al Bloom","GatheringItemLevelConvertTable#420",False,,0,False,0
+10812,"Methane Blossom","GatheringItemLevelConvertTable#430",False,,0,False,0
+10813,"Celestial Grain","GatheringItemLevelConvertTable#400",False,,0,False,0
+10814,"Plant Life Sample","GatheringItemLevelConvertTable#400",False,,0,False,0
+10815,"Withered Grass","GatheringItemLevelConvertTable#400",False,,0,False,0
+10816,"Sweet Nectar","GatheringItemLevelConvertTable#400",False,,0,False,0
+10817,"Elysian Cucumber","GatheringItemLevelConvertTable#410",False,,0,False,0
+10818,"Fragrant Greens","GatheringItemLevelConvertTable#410",False,,0,False,0
+10819,"Elysian Seaweed","GatheringItemLevelConvertTable#410",False,,0,False,0
+10820,"Elysian Kelp","GatheringItemLevelConvertTable#410",False,,0,False,0
+10821,"Rock Moss","GatheringItemLevelConvertTable#410",False,,0,False,0
+10822,"Karellian Prismatic Wheat","GatheringItemLevelConvertTable#420",False,,0,False,0
+10823,"Puantplant","GatheringItemLevelConvertTable#420",False,,0,False,0
+10824,"Supremest Kelp","GatheringItemLevelConvertTable#420",False,,0,False,0
+10825,"Softmoss","GatheringItemLevelConvertTable#420",False,,0,False,0
+10826,"Supple Cosmowood","GatheringItemLevelConvertTable#420",False,,0,False,0
+10827,"Lucent Flower","GatheringItemLevelConvertTable#430",False,,0,False,0
+10828,"True Dragon Fruit","GatheringItemLevelConvertTable#430",False,,0,False,0
+10829,"Cotton-like Plant","GatheringItemLevelConvertTable#430",False,,0,False,0
+10830,"Elysian Herb","GatheringItemLevelConvertTable#430",False,,0,False,0
+10831,"Fibrous Kelp","GatheringItemLevelConvertTable#430",False,,0,False,0

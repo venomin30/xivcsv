@@ -97,18 +97,18 @@ int32,GatheringType,ClassJob,Quest,uint16,Item,str,byte
 2257,"Quarrying","miner","Inscrutable Tastes",2013,"","Lv. 86",0
 2258,"Logging","botanist","Inscrutable Tastes",2013,"","Lv. 86",0
 2259,"Logging","botanist","Inscrutable Tastes",2013,"","Lv. 86",0
-2260,"Quarrying","miner","",0,"","",0
-2261,"Quarrying","miner","",0,"","",0
-2262,"Logging","botanist","",0,"","",0
-2263,"Logging","botanist","",0,"","",0
-2264,"Quarrying","miner","",0,"","",0
-2265,"Quarrying","miner","",0,"","",0
-2266,"Logging","botanist","",0,"","",0
-2267,"Logging","botanist","",0,"","",0
-2268,"Quarrying","miner","",0,"","",0
-2269,"Quarrying","miner","",0,"","",0
-2270,"Logging","botanist","",0,"","",0
-2271,"Logging","botanist","",0,"","",0
+2260,"Quarrying","miner"," The Café at the End of the Universe",0,"","",0
+2261,"Quarrying","miner"," The Café at the End of the Universe",0,"","",0
+2262,"Logging","botanist"," The Café at the End of the Universe",0,"","",0
+2263,"Logging","botanist"," The Café at the End of the Universe",0,"","",0
+2264,"Quarrying","miner"," Longing So for All the Fish",0,"","",0
+2265,"Quarrying","miner"," Longing So for All the Fish",0,"","",0
+2266,"Logging","botanist"," Longing So for All the Fish",0,"","",0
+2267,"Logging","botanist"," Longing So for All the Fish",0,"","",0
+2268,"Quarrying","miner"," And Another Question...",0,"","",0
+2269,"Quarrying","miner"," And Another Question...",0,"","",0
+2270,"Logging","botanist"," And Another Question...",0,"","",0
+2271,"Logging","botanist"," And Another Question...",0,"","",0
 2272,"Mining","adventurer",,0,"","",0
 2273,"Mining","adventurer",,0,"","",0
 2274,"Mining","adventurer",,0,"","",0
