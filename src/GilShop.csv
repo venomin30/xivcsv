@@ -944,9 +944,9 @@ int32,str,Image,Quest,DefaultTalk,DefaultTalk,bit&01,uint16
 263124,"アイテムの購入",,,,,True,127
 263125,"アイテムの購入",,,,,True,126
 263126,"Purchase Items",," Hippos Born to Run",,,True,0
-263127,"",,,,,False,0
-263128,"",,,,,False,0
-263129,"",,,,,False,0
+263127,"アイテムの購入",,,,,True,129
+263128,"アイテムの購入",,,,,True,130
+263129,"アイテムの購入",,,,,True,131
 263130,"Purchase Paintings (The Northern Empty)",,"Sights of the End",,,True,0
 263131,"Purchase Paintings (Ilsabard)",,"Sights of the End",,,True,0
 263132,"Purchase Paintings (The World Unsundered)",,"Sights of the End",,,True,0

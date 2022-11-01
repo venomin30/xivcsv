@@ -510,7 +510,7 @@ int32,str,Image,ClassJob,byte,Quest,int16,ClassJobCategory,byte
 506,"Melee Mastery","ui/icon/006000/006801.tex","dark knight",84,,0,"DRK",0
 507,"Melee Mastery","ui/icon/006000/006801.tex","gunbreaker",84,,0,"GNB",0
 508,"Lance Mastery IV","ui/icon/005000/005293.tex","dragoon",90,,0,"DRG",0
-509,"Enhanced Enochian III","ui/icon/005000/005374.tex","black mage",86,,15,"BLM",0
+509,"Enhanced Enochian III","ui/icon/005000/005374.tex","black mage",86,,16,"BLM",0
 510,"Physis Mastery","ui/icon/006000/006459.tex","sage",60,,0,"SGE",0
 511,"Enhanced Living Shadow","ui/icon/006000/006065.tex","dark knight",88,,0,"DRK",0
 512,"Flint Strike Mastery","ui/icon/005000/005248.tex","monk",86,,0,"MNK",0

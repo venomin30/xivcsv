@@ -1,9 +1,9 @@
 ﻿key,0
-#,
-int32,uint32
-0,0
-1,29729
-2,29730
-3,29731
-4,29732
-5,29733
+#,Action
+int32,Action
+0,""
+1,"Variant Cure"
+2,"Variant Ultimatum"
+3,"Variant Raise"
+4,"Variant Spirit Dart"
+5,"Variant Rampart"
