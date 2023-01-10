@@ -20,5 +20,5 @@ int32,BNpcName,ClassJob,byte
 16,"Alphinaud","sage",0
 17,"Alisaie","red mage",1
 18,"Thancred","gunbreaker",0
-19,"","adventurer",0
-20,"","adventurer",0
+19,"","gladiator",0
+20,"Zero","reaper",1

@@ -96,8 +96,16 @@ int32,HousingEmploymentNpcRace,ENpcBase,ENpcBase
 25.3,"Miqo'te.","ENpcBase#1025919","ENpcBase#1025920"
 25.4,"Roegadyn.","ENpcBase#1025921","ENpcBase#1025922"
 25.5,"Au Ra.","ENpcBase#1025923","ENpcBase#1025924"
-26.0,"コウジン族","ENpcBase#1027015",
-27.0,"コウジン族","ENpcBase#1027016",
-28.0,"コウジン族","ENpcBase#1027017",
-29.0,"コウジン族","ENpcBase#1027018",
+26.0,"Kojin.","ENpcBase#1027015",
+27.0,"Kojin.","ENpcBase#1027016",
+28.0,"Kojin.","ENpcBase#1027017",
+29.0,"Kojin.","ENpcBase#1027018",
 30.0,"Hyur.","ENpcBase#1032491",
+31.0,"","ENpcBase#1045242",
+31.1,"","ENpcBase#1045256",
+32.0,"","ENpcBase#1045243",
+32.1,"","ENpcBase#1045257",
+33.0,"","ENpcBase#1045244",
+33.1,"","ENpcBase#1045258",
+34.0,"","ENpcBase#1045245",
+34.1,"","ENpcBase#1045259",

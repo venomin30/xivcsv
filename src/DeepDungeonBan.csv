@@ -7,3 +7,4 @@ int32,ScreenImage,LogMessage,DeepDungeonFloorEffectUI
 3,"ScreenImage#419","Your entire body feels heavy.","Floor Effect: Knockback Penalty"
 4,"ScreenImage#420","Your body is fatigued and wounds refuse to heal on their own.","Floor Effect: Auto-heal Penalty"
 5,"ScreenImage#614","An ancient enchantment is rendering all magicite useless.","Floor Effect: Magicite Penalty"
+6,"ScreenImage#1172","An ancient enchantment is rendering all magicite useless.","Floor Effect"

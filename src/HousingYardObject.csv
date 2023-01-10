@@ -283,3 +283,11 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131363,272,17,0,0,0,,"Elpis Stone Pillar",False,False,True,5,0,0,False
 131364,273,17,0,0,0,,"Chocobo Stable Essentials",False,False,True,0,0,0,False
 131365,239,17,0,0,0,,"Authentic Haunted Pumpkin Set",False,False,True,3,0,0,False
+131366,274,17,0,0,0,,"Low Garden Hedge",False,False,True,0,0,0,False
+131368,276,17,0,0,0,,"Smaller Water Otter Fountain",False,False,True,0,0,0,False
+131369,277,17,0,0,0,,"Hannish Lamppost",False,False,True,0,0,0,False
+131370,278,17,0,0,0,,"Simple Fountain",False,False,True,0,0,0,False
+131371,279,17,0,0,0,,"Jinrikisha",False,False,True,0,0,0,False
+131372,280,17,0,0,0,,"Lemonade Stand",False,False,True,0,0,0,False
+131374,282,17,0,0,0,,"Stone Garden Wall",False,False,True,0,0,0,False
+131375,283,17,0,0,0,,"Colorful Flower Patch",False,False,True,0,0,0,False

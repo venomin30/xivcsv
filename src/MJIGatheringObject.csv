@@ -1,26 +1,27 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11
-#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article,SGB,,MapIcon,Name
-int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,ExportedSG,bit&01,Image,EObjName
-0,"無効値",0,"",0,0,0,0,0,"",False,,
-1,"食い荒らされたパンプキン",0,"",0,0,0,0,0,"bgcommon/mji/gath/0001/asset/gth_f0_m0001.sgb",True,"ui/icon/063000/063963.tex","lightly gnawed pumpkin"
-2,"食い荒らされたキャベツ",0,"",0,0,0,0,0,"bgcommon/mji/gath/0002/asset/gth_f0_m0002.sgb",True,"ui/icon/063000/063963.tex","partially consumed cabbage"
-3,"トワランツリー",0,"",0,0,0,0,0,"bgcommon/mji/gath/0003/asset/gth_f0_m0003.sgb",False,"ui/icon/063000/063964.tex","tualong tree"
-4,"パームツリー",0,"",0,0,0,0,0,"bgcommon/mji/gath/0004/asset/gth_f0_m0004.sgb",False,"ui/icon/063000/063964.tex","palm tree"
-5,"アイルアップルツリー",0,"",0,0,0,0,0,"bgcommon/mji/gath/0005/asset/gth_f0_m0005.sgb",False,"ui/icon/063000/063964.tex","island apple tree"
-6,"マホガニーツリー",0,"",0,0,0,0,0,"bgcommon/mji/gath/0006/asset/gth_f0_m0006.sgb",False,"ui/icon/063000/063964.tex","mahogany tree"
-7,"青みを帯びた岩",0,"",0,0,0,0,0,"bgcommon/mji/gath/0007/asset/gth_f0_m0007.sgb",False,"ui/icon/063000/063965.tex","bluish rock"
-8,"白いなめらかな岩",0,"",0,0,0,0,0,"bgcommon/mji/gath/0008/asset/gth_f0_m0008.sgb",False,"ui/icon/063000/063965.tex","smooth white rock"
-9,"結晶を帯びた岩",0,"",0,0,0,0,0,"bgcommon/mji/gath/0009/asset/gth_f0_m0009.sgb",False,"ui/icon/063000/063965.tex","crystal-banded rock"
-10,"土山",0,"",0,0,0,0,0,"bgcommon/mji/gath/0010/asset/gth_f0_m0010.sgb",False,"ui/icon/063000/063966.tex","mound of dirt"
-11,"成熟しきったポポト",0,"",0,0,0,0,0,"bgcommon/mji/gath/0011/asset/gth_f0_m0011.sgb",True,"ui/icon/063000/063963.tex","wild popoto"
-12,"成熟しきったパースニップ",0,"",0,0,0,0,0,"bgcommon/mji/gath/0012/asset/gth_f0_m0012.sgb",True,"ui/icon/063000/063963.tex","wild parsnip"
-13,"川底の砂",0,"",0,0,0,0,0,"bgcommon/mji/gath/0013/asset/gth_f0_m0013.sgb",True,"ui/icon/063000/063966.tex","submerged sand"
-14,"サトウキビ",0,"",0,0,0,0,0,"bgcommon/mji/gath/0014/asset/gth_f0_m0014.sgb",True,"ui/icon/063000/063963.tex","sugarcane"
-15,"綿花",0,"",0,0,0,0,0,"bgcommon/mji/gath/0015/asset/gth_f0_m0015.sgb",True,"ui/icon/063000/063963.tex","cotton plant"
-16,"サイザルアサ",0,"",0,0,0,0,0,"bgcommon/mji/gath/0016/asset/gth_f0_m0016.sgb",True,"ui/icon/063000/063963.tex","agave plant"
-17,"大きな貝",0,"",0,0,0,0,0,"bgcommon/mji/gath/0017/asset/gth_f0_m0017.sgb",True,"ui/icon/063000/063967.tex","large shell"
-18,"海藻の茂み",0,"",0,0,0,0,0,"bgcommon/mji/gath/0018/asset/gth_f0_m0018.sgb",True,"ui/icon/063000/063967.tex","seaweed tangle"
-19,"珊瑚礁",0,"",0,0,0,0,0,"bgcommon/mji/gath/0019/asset/gth_f0_m0019.sgb",True,"ui/icon/063000/063967.tex","coral formation"
-20,"深い黒色の岩",0,"",0,0,0,0,0,"bgcommon/mji/gath/0020/asset/gth_f0_m0020.sgb",False,"ui/icon/063000/063965.tex","rough black rock"
-21,"水晶塊",0,"",0,0,0,0,0,"bgcommon/mji/gath/0021/asset/gth_f0_m0021.sgb",False,"ui/icon/063000/063965.tex","quartz formation"
-22,"まだら模様の岩",0,"",0,0,0,0,0,"bgcommon/mji/gath/0022/asset/gth_f0_m0022.sgb",False,"ui/icon/063000/063965.tex","speckled rock"
+﻿key,0,1,2,3
+#,Singular,Adjective,Plural,PossessivePronoun
+int32,uint16,uint32,uint32,uint32
+0,25422,0,0,0
+1,30825,63963,2,2013171
+2,30826,63963,2,2013172
+3,30164,63964,1,2013173
+4,30165,63964,1,2013174
+5,30167,63964,1,2013175
+6,30166,63964,1,2013176
+7,30933,63965,8,2013177
+8,30934,63965,8,2013178
+9,30935,63965,8,2013179
+10,30936,63966,4,2013180
+11,30937,63963,2,2013181
+12,30938,63963,2,2013182
+13,30939,63966,4,2013183
+14,31139,63963,2,2013184
+15,31181,63963,2,2013185
+16,31165,63963,2,2013186
+17,30168,63967,16,2013187
+18,30848,63967,16,2013188
+19,30849,63967,16,2013189
+20,31232,63965,8,2013190
+21,31230,63965,8,2013191
+22,31231,63965,8,2013192
+23,32347,63963,2,2013300

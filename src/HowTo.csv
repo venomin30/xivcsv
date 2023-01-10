@@ -24,9 +24,9 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 20,"Shops",True,"ui/icon/150000/en/150201.tex","ui/icon/150000/en/150202.tex","","","","ui/icon/150000/en/150201.tex","ui/icon/150000/en/150202.tex","","","","Items",5
 21,"The Armoire",True,"ui/icon/151000/en/151521.tex","ui/icon/151000/en/151522.tex","","","","","","","","","Gear",11
 22,"Moogle Delivery Service",True,"ui/icon/150000/en/150221.tex","ui/icon/150000/en/150222.tex","","","","ui/icon/150000/en/150221.tex","ui/icon/150000/en/150222.tex","","","","Adventuring Basics",7
-23,"Finding Mature Trees",True,"ui/icon/150000/en/150231.tex","ui/icon/150000/en/150232.tex","ui/icon/150000/en/150233.tex","","","ui/icon/150000/en/150231.tex","ui/icon/150000/en/150232.tex","ui/icon/150000/en/150233.tex","","","Gathering",2
-24,"Gathering",True,"ui/icon/150000/en/150241.tex","ui/icon/150000/en/150242.tex","ui/icon/150000/en/150243.tex","","","","","","","","Gathering",3
-25,"Gathering Interface",True,"ui/icon/150000/en/150251.tex","ui/icon/150000/en/150252.tex","ui/icon/150000/en/150253.tex","","","","","","","","Gathering",4
+23,"Finding Mature Trees",True,"ui/icon/150000/en/150231.tex","ui/icon/150000/en/150232.tex","ui/icon/150000/en/150233.tex","","","ui/icon/150000/en/150231.tex","ui/icon/150000/en/150232.tex","ui/icon/150000/en/150233.tex","","","Gathering",3
+24,"Gathering",True,"ui/icon/150000/en/150241.tex","ui/icon/150000/en/150242.tex","ui/icon/150000/en/150243.tex","","","","","","","","Gathering",4
+25,"Gathering Interface",True,"ui/icon/150000/en/150251.tex","ui/icon/150000/en/150252.tex","ui/icon/150000/en/150253.tex","","","","","","","","Gathering",5
 26,"Sneak",True,"ui/icon/150000/en/150261.tex","","","","","","","","","","Gathering",10
 27,"Harvesting",True,"ui/icon/150000/en/150271.tex","ui/icon/150000/en/150272.tex","","","","","","","","","Gathering",16
 28,"Crafting Log",True,"ui/icon/150000/en/150281.tex","ui/icon/150000/en/150282.tex","ui/icon/150000/en/150283.tex","","","","","","","","Crafting",1
@@ -42,7 +42,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 38,"Gear Sets",True,"ui/icon/150000/en/150391.tex","ui/icon/150000/en/150392.tex","","","","","","","","","Gear",4
 39,"Emotes",True,"ui/icon/150000/en/150381.tex","ui/icon/150000/en/150382.tex","ui/icon/150000/en/150383.tex","","","ui/icon/150000/en/150381.tex","ui/icon/150000/en/150382.tex","","","","Adventuring Basics",3
 40,"",False,"","","","","","","","","","","None",0
-41,"Using Actions from Other Classes",True,"ui/icon/150000/en/150411.tex","ui/icon/150000/en/150412.tex","ui/icon/150000/en/150413.tex","","","ui/icon/150000/en/150411.tex","ui/icon/150000/en/150412.tex","ui/icon/150000/en/150414.tex","","","Adventuring Basics",10
+41,"",False,"","","","","","","","","","","None",0
 42,"Levequest Duty",True,"ui/icon/150000/en/150421.tex","ui/icon/150000/en/150422.tex","","","","","","","","","Levequests",4
 43,"Collecting Levequest Rewards",True,"ui/icon/150000/en/150431.tex","","","","","","","","","","Levequests",5
 44,"Rechallenging Levequests",True,"ui/icon/150000/en/150441.tex","","","","","ui/icon/150000/en/150441.tex","","","","","Levequests",6
@@ -106,7 +106,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 102,"Using Items",True,"ui/icon/151000/en/151061.tex","ui/icon/151000/en/151062.tex","","","","ui/icon/151000/en/151061.tex","ui/icon/151000/en/151064.tex","","","","Items",1
 103,"",False,"","","","","","","","","","","None",0
 104,"Adding Members",True,"ui/icon/151000/en/151201.tex","","","","","","","","","","Duty",23
-105,"Finding Mineral Deposits",True,"ui/icon/151000/en/151071.tex","ui/icon/151000/en/151072.tex","ui/icon/151000/en/151073.tex","","","","","","","","Gathering",1
+105,"Finding Mineral Deposits",True,"ui/icon/151000/en/151071.tex","ui/icon/151000/en/151072.tex","ui/icon/151000/en/151073.tex","","","","","","","","Gathering",2
 106,"Quarrying",True,"ui/icon/151000/en/151081.tex","ui/icon/151000/en/151082.tex","","","","","","","","","Gathering",13
 107,"",False,"","","","","","","","","","","None",0
 108,"Companion Skills",True,"ui/icon/151000/en/151461.tex","ui/icon/151000/en/151462.tex","ui/icon/151000/en/151463.tex","ui/icon/151000/en/151464.tex","","","","","","","Battle",22
@@ -285,7 +285,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 281,"",False,"","","","","","","","","","","None",0
 282,"Quality Requirements",True,"ui/icon/152000/en/152921.tex","","","","","","","","","","Crafting",12
 283,"Prime and Sublime Collectables",True,"ui/icon/152000/en/152931.tex","ui/icon/152000/en/152932.tex","ui/icon/152000/en/152933.tex","","","","","","","","Gathering",54
-284,"",False,"","","","","","","","","","","None",0
+284,"Gatherer Role Actions",True,"ui/icon/152000/en/152941.tex","ui/icon/152000/en/152942.tex","ui/icon/152000/en/152943.tex","","","","","","","","Gathering",1
 285,"",False,"","","","","","","","","","","None",0
 286,"",False,"","","","","","","","","","","None",0
 287,"",False,"","","","","","","","","","","None",0

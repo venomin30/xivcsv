@@ -101,3 +101,4 @@ int32,Item,uint16,Image,bit&01,bit&02,byte
 97,"Red Triteleia",118,"ui/icon/066000/066502.tex",False,True,16
 98,"Red Byregotia",119,"ui/icon/066000/066502.tex",False,True,17
 99,"Red Sweet Peas",120,"ui/icon/066000/066502.tex",False,True,18
+100,"Red Morning Glories",121,"ui/icon/066000/066502.tex",False,True,19

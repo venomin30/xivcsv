@@ -232,7 +232,7 @@ int32,FurnitureCatalogCategory,Item,uint16
 228,"Miscellaneous","Temple Knight Piece",410
 229,"Miscellaneous","Dragoon Piece",410
 230,"Miscellaneous","Manor Harpsichord",410
-231,"Miscellaneous","Manor Music Stool",410
+231,"Chairs/Sofas","Manor Music Stool",410
 232,"Miscellaneous","Manor Timpani",410
 233,"Miscellaneous","Manor Marching Horn",410
 234,"Miscellaneous","Manor Cello",410
@@ -946,7 +946,7 @@ int32,FurnitureCatalogCategory,Item,uint16
 942,"Rugs","Sharlayan Rug",620
 943,"Miscellaneous","Garlean Stove",620
 944,"Chairs/Sofas","Sil'dihn Chair",620
-945,"Miscellaneous","Sil'dihn Kitchen Shelf",620
+945,"Shelves/Chests","Sil'dihn Kitchen Shelf",620
 946,"Tables","Sil'dihn Side Table",620
 947,"Flags/Frames/Posters","Sil'dihn Banner",620
 948,"Clocks","Korpokkur Chronometer",620
@@ -981,3 +981,37 @@ int32,FurnitureCatalogCategory,Item,uint16
 977,"Flags/Frames/Posters","Bill of Deepest Contrition (L-3)",620
 978,"Flags/Frames/Posters","Bill of Deepest Contrition (L-4)",620
 979,"Flags/Frames/Posters","Bill of Deepest Contrition (L-5)",620
+980,"Tables","",0
+981,"Miscellaneous","Flower Boucage",630
+982,"Miscellaneous","Faerie Door",630
+983,"Chairs/Sofas","Rattan Sofa",630
+984,"Miscellaneous","Charcoal Iron",630
+985,"Windows","Far Eastern Stained Crystal Roundel",630
+986,"Miscellaneous","Timeworn Thaumaturgic Array",630
+987,"Miscellaneous","Darkest Hourglass",630
+988,"Miscellaneous","Classical Water Jug",630
+989,"Tables","",0
+990,"Tables","",0
+991,"Miscellaneous","Toy Cooking Set",630
+992,"Tables","",0
+993,"Interactive Furnishings","Alpine Partition",630
+994,"Walls/Pillars/Partitions","Alpine Partition Door",630
+995,"Walls/Pillars/Partitions","Alpine Pillar",630
+996,"Clocks","Enigma Wall Chronometer",630
+997,"Tables","",0
+998,"Lighting","Hannish Pendant Wall Light",630
+999,"Walls/Pillars/Partitions","Hannish Screen",630
+1000,"Beds","Hannish Bed",630
+1001,"Chairs/Sofas","Hannish Chair",630
+1002,"Tables","Hannish Round Table",630
+1003,"Lighting","Hannish Table Lamp",630
+1004,"Walls/Pillars/Partitions","Hannish Bookshelf Partition",630
+1005,"Rugs","Hannish Rug",630
+1006,"Walls/Pillars/Partitions","Waterfall Partition",630
+1007,"Miscellaneous","Infernal Archfiend Cloak",630
+1008,"Tables","Faerie Round Table",630
+1009,"Tableware/Foods","Pudding Pudding",630
+1010,"Miscellaneous","Exciting Balloon",630
+1011,"Miscellaneous","Simple Sink",630
+1012,"Miscellaneous","Crystal Tower Phasmascape",630
+1013,"Miscellaneous","Urth's Fount Phasmascape",630

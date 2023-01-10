@@ -1,16 +1,17 @@
-﻿key,0
-#,Item
-int32,Item
-0,""
-1,"Islekeep's Stone Hatchet"
-2,"Islekeep's Stone Hammer"
-3,"Islekeep's Shovel"
-4,"Islekeep's Copper Scythe"
-5,"Islekeep's Bronze Gig"
-6,"Islekeep's Bronze Beakaxe"
-7,"Mammet-sized Cropworker's Tools"
-8,"Mammet-sized Pastureworker's Tools"
-9,"Basic Mammet-sized Builder's Tools"
-10,"Better Mammet-sized Builder's Tools"
-11,"Best Mammet-sized Builder's Tools"
-12,"Bestest Mammet-sized Builder's Tools"
+﻿key,0,1
+#,Item,
+int32,Item,byte
+0,"",0
+1,"Islekeep's Stone Hatchet",0
+2,"Islekeep's Stone Hammer",0
+3,"Islekeep's Shovel",0
+4,"Islekeep's Copper Scythe",0
+5,"Islekeep's Bronze Gig",0
+6,"Islekeep's Bronze Beakaxe",0
+7,"Mammet-sized Cropworker's Tools",0
+8,"Mammet-sized Pastureworker's Tools",0
+9,"Basic Mammet-sized Builder's Tools",0
+10,"Better Mammet-sized Builder's Tools",0
+11,"Best Mammet-sized Builder's Tools",0
+12,"Bestest Mammet-sized Builder's Tools",0
+13,"Islekeep's Iron Hatchet",0

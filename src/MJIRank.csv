@@ -12,4 +12,6 @@ int32,uint32,byte,LogMessage,LogMessage,LogMessage
 7,28500,0,"You learn a new sanctuary crafting recipe!","You may now renovate the cozy cabin.",""
 8,34500,0,"You learn a new sanctuary crafting recipe!","You may now renovate workshops.","You may now renovate granaries."
 9,41000,0,"You learn a new sanctuary crafting recipe!","",""
-10,0,0,"","",""
+10,42000,0,"","",""
+11,43500,0,"You are now able to purchase new seeds from the produce producer.","",""
+12,0,0,"You may now construct new landmarks.","",""

@@ -131,6 +131,7 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262157.29,"Triteleia Seeds",False,0,,,"",0,100,600
 262157.30,"Byregotia Seeds",False,0,,,"",0,100,610
 262157.31,"Sweet Pea Seeds",False,0,,,"",0,100,620
+262157.32,"Morning Glory Seeds",False,0,,,"",0,100,630
 262158.0,"Gysahl Greens",False,0,,,"",0,100,0
 262158.1,"Cherry Bomb",False,0,,,"",0,100,0
 262158.2,"Mammet #001",False,0,,,"",0,100,0
@@ -4634,6 +4635,9 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262419.40,"Bamboo Copse",False,0,,,"",0,100,420
 262419.41,"Eastern Wisteria",False,0,,,"",0,100,550
 262419.42,"Plot of Hydrangeas",False,0,,,"",0,100,550
+262419.43,"Hannish Lamppost",False,0,,,"",0,100,630
+262419.44,"Bliss Orchestrion Roll",False,0,,,"",0,100,630
+262419.45,"Sacred Bonds Orchestrion Roll",False,0,,,"",0,100,630
 262420.0,"Brass Bench",False,0,,,"",0,100,0
 262420.1,"Glade Placard",False,0,,,"",0,100,0
 262420.2,"Glade Thatch Wall",False,0,,,"",0,100,0
@@ -4677,6 +4681,9 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262420.40,"Bamboo Copse",False,0,,,"",0,100,420
 262420.41,"Eastern Wisteria",False,0,,,"",0,100,550
 262420.42,"Plot of Hydrangeas",False,0,,,"",0,100,550
+262420.43,"Hannish Lamppost",False,0,,,"",0,100,630
+262420.44,"Bliss Orchestrion Roll",False,0,,,"",0,100,630
+262420.45,"Sacred Bonds Orchestrion Roll",False,0,,,"",0,100,630
 262421.0,"Brass Bench",False,0,,,"",0,100,0
 262421.1,"Oasis Placard",False,0,,,"",0,100,0
 262421.2,"Oasis Wooden Wall",False,0,,,"",0,100,0
@@ -4720,6 +4727,9 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262421.40,"Bamboo Copse",False,0,,,"",0,100,420
 262421.41,"Eastern Wisteria",False,0,,,"",0,100,550
 262421.42,"Plot of Hydrangeas",False,0,,,"",0,100,550
+262421.43,"Hannish Lamppost",False,0,,,"",0,100,630
+262421.44,"Bliss Orchestrion Roll",False,0,,,"",0,100,630
+262421.45,"Sacred Bonds Orchestrion Roll",False,0,,,"",0,100,630
 262422.0,"Ash Log",False,0,,,"",0,100,0
 262422.1,"Ash Lumber",False,0,,,"",0,100,0
 262422.2,"Elm Lumber",False,0,,,"",0,100,0
@@ -4770,6 +4780,7 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262422.47,"Triteleia Seeds",False,0,,,"",0,100,600
 262422.48,"Byregotia Seeds",False,0,,,"",0,100,610
 262422.49,"Sweet Pea Seeds",False,0,,,"",0,100,620
+262422.50,"Morning Glory Seeds",False,0,,,"",0,100,630
 262423.0,"Usagi Kabuto",False,0,,,"",0,100,0
 262423.1,"Silver Usagi Kabuto",False,0,,,"",0,100,0
 262423.2,"Black Usagi Kabuto",False,0,,,"",0,100,0
@@ -7348,6 +7359,11 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262627.48,"Summer's Flame Wrist Torque",False,0,"Flame On",,"",0,140,0
 262627.49,"Summer's Flame Pareo",False,0,"Flame On",,"",0,140,0
 262627.50,"Summer's Flame Sandals",False,0,"Flame On",,"",0,140,0
+262627.51,"Summer Sunset Bandana",False,0,"Fhul Me Once",,"",0,150,0
+262627.52,"Summer Sunset Beach Cover-up",False,0,"Fhul Me Once",,"",0,150,0
+262627.53,"Summer Sunset Wrist Torques",False,0,"Fhul Me Once",,"",0,150,0
+262627.54,"Summer Sunset Bottoms",False,0,"Fhul Me Once",,"",0,150,0
+262627.55,"Summer Sunset Sandals",False,0,"Fhul Me Once",,"",0,150,0
 262628.0,"Pumpkin Head",False,0,,,"Oh My Gourd",0,100,0
 262628.1,"Unripened Pumpkin Head",False,0,,,"Oh My Gourd",0,100,0
 262628.2,"White Pumpkin Head",False,0,,,"Oh My Gourd",0,100,0
@@ -7375,6 +7391,11 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262628.24,"Clown's Shortgloves",False,0,"A Feast to Remember",,"",0,100,0
 262628.25,"Clown's Bottoms",False,0,"A Feast to Remember",,"",0,100,0
 262628.26,"Clown's Boots",False,0,"A Feast to Remember",,"",0,100,0
+262628.27,"Wake Doctor's Mask",False,0,"A Mad Masquerade",,"",0,100,0
+262628.28,"Wake Doctor's White Coat",False,0,"A Mad Masquerade",,"",0,100,0
+262628.29,"Wake Doctor's Rubber Gloves",False,0,"A Mad Masquerade",,"",0,100,0
+262628.30,"Wake Doctor's Bottoms",False,0,"A Mad Masquerade",,"",0,100,0
+262628.31,"Wake Doctor's Shoes",False,0,"A Mad Masquerade",,"",0,100,0
 262629.0,"Snowman Head",False,0,,,"Cold as Ice",0,100,0
 262629.1,"Snowman Suit",False,0,,,"Cold as Ice",0,100,0
 262629.2,"Snowman Mitts",False,0,,,"Cold as Ice",0,100,0
@@ -7608,6 +7629,8 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262642.38,"Starlight and Sellswords Orchestrion Roll",False,0,,,"",0,100,610
 262642.39,"Born to Ride Orchestrion Roll",False,0,,,"",0,100,620
 262642.40,"Silence Orchestrion Roll",False,0,,,"",0,100,620
+262642.41,"Bliss Orchestrion Roll",False,0,,,"",0,100,630
+262642.42,"Sacred Bonds Orchestrion Roll",False,0,,,"",0,100,630
 262643.0,"Clear Prism",False,0,,,"",0,100,0
 262643.1,"Glamour Dispeller",False,0,,,"",0,100,0
 262643.2,"Gysahl Greens",False,0,,,"",0,100,0
@@ -7649,6 +7672,8 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262643.38,"Starlight and Sellswords Orchestrion Roll",False,0,,,"",0,100,610
 262643.39,"Born to Ride Orchestrion Roll",False,0,,,"",0,100,620
 262643.40,"Silence Orchestrion Roll",False,0,,,"",0,100,620
+262643.41,"Bliss Orchestrion Roll",False,0,,,"",0,100,630
+262643.42,"Sacred Bonds Orchestrion Roll",False,0,,,"",0,100,630
 262644.0,"Clear Prism",False,0,,,"",0,100,0
 262644.1,"Glamour Dispeller",False,0,,,"",0,100,0
 262644.2,"Gysahl Greens",False,0,,,"",0,100,0
@@ -7690,6 +7715,8 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262644.38,"Starlight and Sellswords Orchestrion Roll",False,0,,,"",0,100,610
 262644.39,"Born to Ride Orchestrion Roll",False,0,,,"",0,100,620
 262644.40,"Silence Orchestrion Roll",False,0,,,"",0,100,620
+262644.41,"Bliss Orchestrion Roll",False,0,,,"",0,100,630
+262644.42,"Sacred Bonds Orchestrion Roll",False,0,,,"",0,100,630
 262645.0,"Sword of the Twin Thegns Replica",False,0," Future Proof",,"It's Smart: The Twin Thegns",0,50,0
 262645.1,"Shield of the Twin Thegns Replica",False,0," Future Proof",,"It's Smart: The Twin Thegns",0,60,0
 262645.2,"Replica Sultan's Fists",False,0," Future Proof",,"It's Smart: The Sultan",0,70,0
@@ -7848,12 +7875,15 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262655.10,"Glade Armchair",False,0,,,"",0,150,0
 262655.11,"Oasis Armchair",False,0,,,"",0,160,0
 262655.12,"Riviera Bed",False,0,,,"",0,170,0
-262655.13,"Glade Bed",False,0,,,"",0,180,0
-262655.14,"Oasis Bed",False,0,,,"",0,190,0
+262655.13,"Glade Bed",False,0,,,"",0,172,0
+262655.14,"Oasis Bed",False,0,,,"",0,174,0
 262655.15,"Hingan Bench",False,0,,,"",0,75,0
-262655.16,"Futon Mattress",False,0,,,"",0,200,420
+262655.16,"Futon Mattress",False,0,,,"",0,179,420
 262655.17,"Scholasticate Chair",False,0,,,"",0,76,610
 262655.18,"Sharlayan Chair",False,0,,,"",0,77,620
+262655.19,"Hannish Bed",False,0,,,"",0,176,630
+262655.20,"Hannish Chair",False,0,,,"",0,77,630
+262655.21,"",False,0,,,"",0,77,630
 262656.0,"Riviera Round Table",False,0,,,"",0,10,0
 262656.1,"Glade Round Table",False,0,,,"",0,20,0
 262656.2,"Oasis Round Table",False,0,,,"",0,30,0
@@ -7881,6 +7911,8 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262656.24,"Alpine Cabinet",False,0,,,"",0,185,610
 262656.25,"Scholasticate Table",False,0,,,"",0,125,610
 262656.26,"Sharlayan Desk",False,0,,,"",0,125,620
+262656.27,"Hannish Round Table",False,0,,,"",0,35,630
+262656.28,"",False,0,,,"",0,159,630
 262657.0,"Riviera Bookshelf",False,0,,,"",0,10,0
 262657.1,"Glade Bookshelf",False,0,,,"",0,20,0
 262657.2,"Oasis Bookshelf",False,0,,,"",0,30,0
@@ -7914,6 +7946,9 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262657.30,"Scholasticate Bookshelf",False,0,,,"",0,35,610
 262657.31,"Alpine Wall Lantern",False,0,,,"",0,230,610
 262657.32,"Sharlayan Rug",False,0,,,"",0,154,620
+262657.33,"Hannish Rug",False,0,,,"",0,154,630
+262657.34,"Hannish Table Lamp",False,0,,,"",0,185,630
+262657.35,"Hannish Pendant Wall Light",False,0,,,"",0,230,630
 262658.0,"Ink & Quill",False,0,,,"",0,40,0
 262658.1,"Classified Documents",False,0,,,"",0,40,0
 262658.2,"Scattered Documents",False,0,,,"",0,40,0
@@ -7966,6 +8001,10 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262658.49,"Simple Basket",False,0,,,"",0,100,620
 262658.50,"Kugane Phasmascape",False,0,,,"",0,2,620
 262658.51,"Costa del Sol Phasmascape",False,0,,,"",0,2,620
+262658.52,"Crystal Tower Phasmascape",False,0,,,"",0,2,630
+262658.53,"Urth's Fount Phasmascape",False,0,,,"",0,2,630
+262658.54,"Darkest Hourglass",False,0,,,"",0,40,630
+262658.55,"Alpine Pillar",False,0,,,"",0,10,630
 262659.0,"Barracuda Piers Painting",False,0,,,"Out of Sight",0,50,0
 262659.1,"Astalicia Painting",False,0,,,"Out of Sight",0,55,0
 262659.2,"Seasong Grotto Painting",False,0,,,"Out of Sight",0,60,0
@@ -8327,6 +8366,9 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262690.35,"Bamboo Copse",False,0,,,"",0,100,420
 262690.36,"Eastern Wisteria",False,0,,,"",0,100,550
 262690.37,"Plot of Hydrangeas",False,0,,,"",0,100,550
+262690.38,"Hannish Lamppost",False,0,,,"",0,100,630
+262690.39,"Bliss Orchestrion Roll",False,0,,,"",0,100,630
+262690.40,"Sacred Bonds Orchestrion Roll",False,0,,,"",0,100,630
 262691.0,"Clear Prism",False,0,,,"",0,100,0
 262691.1,"Glamour Dispeller",False,0,,,"",0,100,0
 262691.2,"Gysahl Greens",False,0,,,"",0,100,0
@@ -8368,6 +8410,8 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262691.38,"Starlight and Sellswords Orchestrion Roll",False,0,,,"",0,100,610
 262691.39,"Born to Ride Orchestrion Roll",False,0,,,"",0,100,620
 262691.40,"Silence Orchestrion Roll",False,0,,,"",0,100,620
+262691.41,"Bliss Orchestrion Roll",False,0,,,"",0,100,630
+262691.42,"Sacred Bonds Orchestrion Roll",False,0,,,"",0,100,630
 262692.0,"Bronze Rivets",False,0,,,"",0,100,0
 262692.1,"Bronze Plate",False,0,,,"",0,100,0
 262692.2,"Iron Ingot",False,0,,,"",0,100,0
@@ -12301,6 +12345,10 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262952.37,"Curved Marble Partition",False,0,,,"",0,100,610
 262952.38,"Hydaelyn, as We Know Her",False,0,,,"",0,100,620
 262952.39,"Wall-mounted Wings",False,0,,,"",0,100,620
+262952.40,"Alpine Partition",False,0,,,"",0,100,630
+262952.41,"Alpine Partition Door",False,0,,,"",0,100,630
+262952.42,"Hannish Screen",False,0,,,"",0,100,630
+262952.43,"Hannish Bookshelf Partition",False,0,,,"",0,100,630
 262953.0,"Deepgold Helm of Fending",False,0,,,"",0,100,500
 262953.1,"Deepgold Cuirass of Fending",False,0,,,"",0,100,500
 262953.2,"Deepgold Gauntlets of Fending",False,0,,,"",0,100,500
@@ -13699,6 +13747,8 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263042.12,"Art Supply Components",False,0,,,"",0,100,550
 263042.13,"Grade 8 Dark Matter",False,0,,,"",0,100,600
 263043.0,"Gilded Mikoshi Flute",False,0,,,"",0,100,550
+263043.1,"Magitek Avenger G1 Identification Key",False,0,,,"",0,100,630
+263043.2,"Chrysomallos Horn",False,0,,,"",0,100,630
 263044.0,"Golden Ronkan Flute",False,0,,,"",0,100,550
 263045.0,"Resplendent Millfiend's Saw",False,0,,,"Retooled: Resplendent Millfiend's Saw",0,100,550
 263045.1,"Resplendent Forgefiend's Hammer",False,0,,,"Retooled: Resplendent Forgefiend's Hammer",0,100,550
@@ -13722,10 +13772,10 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263048.2,"Highland Mansion Permit (Composite)",False,0,,,"",0,100,610
 263049.0,"Peach Confetti",False,0,,,"",0,100,0
 263049.1,"Cherry Confetti",False,0,,,"",0,100,0
-263050.0,"Valentione Mobile",False,0,,,"",0,90,600
+263050.0,"Valentione Mobile",False,0,,,"",0,90,9999
 263050.1,"Prismatic Heart (Left)",False,0,,,"",0,100,0
 263050.2,"Prismatic Heart (Right)",False,0,,,"",0,100,0
-263051.0,"Starlight Mobile",False,0,,,"",0,90,600
+263051.0,"Starlight Mobile",False,0,,,"",0,90,9999
 263051.1,"Magicked Prism (Sunshine)",False,0,,,"",0,100,0
 263051.2,"Magicked Prism (Stardust)",False,0,,,"",0,100,0
 263052.0,"High Durium Sword",False,0,,,"",0,100,600
@@ -14905,6 +14955,7 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263123.22,"Triteleia Seeds",False,0,,,"",0,100,600
 263123.23,"Byregotia Seeds",False,0,,,"",0,100,610
 263123.24,"Sweet Pea Seeds",False,0,,,"",0,100,620
+263123.25,"Morning Glory Seeds",False,0,,,"",0,100,630
 263124.0,"Nymeia Potpourri",False,0,,,"",0,100,0
 263124.1,"Magicked Prism (Flowers)",False,0,,,"",0,100,0
 263124.2,"Meteor Shower",False,0,,,"",0,100,0
@@ -14995,6 +15046,17 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263134.12,"Isle Farmhand's Widebottoms",False,0,"The Land, Wind, and Sea",,"",0,100,620
 263134.13,"Isle Farmhand's Boots",False,0,"The Land, Wind, and Sea",,"",0,100,620
 263134.14,"Isle Farmhand's Cutoffs",False,0,"The Land, Wind, and Sea",,"",0,100,620
+263134.15,"Yakaku Kamidome",False,0,"An Auspicious Opportunity",,"",0,100,630
+263134.16,"Yakaku Dogi",False,0,"An Auspicious Opportunity",,"",0,100,630
+263134.17,"Yakaku Koshita",False,0,"An Auspicious Opportunity",,"",0,100,630
+263134.18,"Yakaku Geta",False,0,"An Auspicious Opportunity",,"",0,100,630
+263134.19,"Yakaku Fundoshi",False,0,"An Auspicious Opportunity",,"",0,100,630
+263134.20,"Isle Shepherd's Headdress",False,0,"A Far Eastern Yarn",,"",0,100,630
+263134.21,"Isle Shepherd's Tunic",False,0,"A Far Eastern Yarn",,"",0,100,630
+263134.22,"Isle Shepherd's Wristdress",False,0,"A Far Eastern Yarn",,"",0,100,630
+263134.23,"Isle Shepherd's Bottoms",False,0,"A Far Eastern Yarn",,"",0,100,630
+263134.24,"Isle Shepherd's Sandals",False,0,"A Far Eastern Yarn",,"",0,100,630
+263134.25,"Leafman Head",False,0,"A Labor of Leaf",,"",0,100,630
 263135.0,"Makai Mauler's Facemask",False,0,,,"Echoes of the Makai Blade",0,100,0
 263135.1,"Makai Mauler's Oilskin",False,0,,,"Echoes of the Makai Blade",0,100,0
 263135.2,"Makai Mauler's Fingerless Gloves",False,0,,,"Echoes of the Makai Blade",0,100,0
@@ -15106,24 +15168,24 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263144.0,"Gysahl Greens",False,0,,,"",0,100,0
 263144.1,"Grade 8 Dark Matter",False,0,,,"",0,100,0
 263144.2,"Gold Salmon Roe",False,0,,,"",0,100,0
-263145.0,"Caged Wisp",False,0,,,"",0,1,620
+263145.0,"Caged Wisp",False,0,,,"",0,1,9999
 263145.1,"Magicked Prism (Pumpkin)",False,0,,,"",0,10,0
-263145.2,"Ballroom Etiquette - Pumpkin Pleasures",False,0,,,"",0,1,620
-263146.0,"Illuminated Tree",False,0,,,"",0,1,620
+263145.2,"Ballroom Etiquette - Pumpkin Pleasures",False,0,,,"",0,1,9999
+263146.0,"Illuminated Tree",False,0,,,"",0,1,9999
 263146.1,"Magicked Prism (Sunshine)",False,0,,,"",0,10,0
 263146.2,"Magicked Prism (Stardust)",False,0,,,"",0,10,0
 263147.0,"Prismatic Heart (Left)",False,0,,,"",0,10,0
 263147.1,"Prismatic Heart (Right)",False,0,,,"",0,10,0
-263147.2,"Valentione's Heart Desk",False,0,,,"",0,1,620
-263147.3,"Valentione Emissary's Hat",False,0,"Suited for Affection",,"",0,100,620
-263147.4,"Valentione Emissary's Jacket",False,0,"Suited for Affection",,"",0,100,620
-263147.5,"Valentione Emissary's Bottoms",False,0,"Suited for Affection",,"",0,100,620
-263147.6,"Valentione Emissary's Boots",False,0,"Suited for Affection",,"",0,100,620
-263147.7,"Valentione Emissary's Dress Hat",False,0,"Suited for Affection",,"",0,110,620
-263147.8,"Valentione Emissary's Ruffled Dress",False,0,"Suited for Affection",,"",0,110,620
-263147.9,"Valentione Emissary's Culottes",False,0,"Suited for Affection",,"",0,110,620
-263147.10,"Valentione Emissary's Dress Boots",False,0,"Suited for Affection",,"",0,110,620
-263147.11,"Ballroom Etiquette - Valentione's Dangers",False,0,,,"",0,1,620
+263147.2,"Valentione's Heart Desk",False,0,,,"",0,1,9999
+263147.3,"Valentione Emissary's Hat",False,0,"Suited for Affection",,"",0,100,9999
+263147.4,"Valentione Emissary's Jacket",False,0,"Suited for Affection",,"",0,100,9999
+263147.5,"Valentione Emissary's Bottoms",False,0,"Suited for Affection",,"",0,100,9999
+263147.6,"Valentione Emissary's Boots",False,0,"Suited for Affection",,"",0,100,9999
+263147.7,"Valentione Emissary's Dress Hat",False,0,"Suited for Affection",,"",0,110,9999
+263147.8,"Valentione Emissary's Ruffled Dress",False,0,"Suited for Affection",,"",0,110,9999
+263147.9,"Valentione Emissary's Culottes",False,0,"Suited for Affection",,"",0,110,9999
+263147.10,"Valentione Emissary's Dress Boots",False,0,"Suited for Affection",,"",0,110,9999
+263147.11,"Ballroom Etiquette - Valentione's Dangers",False,0,,,"",0,1,9999
 263148.0,"Bill of Contrition (S-1)",False,0,,,"",0,90,620
 263148.1,"Bill of Contrition (S-2)",False,0,,,"",0,91,620
 263148.2,"Bill of Contrition (S-3)",False,0,,,"",0,92,620
@@ -15147,3 +15209,117 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263149.5,"Scion of Valor",False,0,,,"",0,100,620
 263149.6,"Discernment",False,0,,,"",0,100,620
 263149.7,"Adventure Calls",False,0,,,"",0,100,620
+263150.0,"Gysahl Greens",False,0,,,"",0,100,0
+263150.1,"Grade 8 Dark Matter",False,0,,,"",0,100,0
+263150.2,"Metal Spinner",False,0,,,"",0,100,0
+263150.3,"Sheep Equipment Materials",False,0,,,"",0,100,630
+263150.4,"Mountain Garb Materials",False,0,,,"",0,100,630
+263150.5,"Classic Voeburtite Ingredients",False,0,,,"",0,100,630
+263150.6,"Voeburtite Handicraft Materials",False,0,,,"",0,100,630
+263150.7,"Moderately Pretty Things",False,0,,,"",0,100,630
+263151.0,"",False,0,,,"Hamm(er)ing It Up: Manderville Sword & Shield",0,100,630
+263151.1,"",False,0,,,"Hamm(er)ing It Up: Manderville Knuckles",0,100,630
+263151.2,"",False,0,,,"Hamm(er)ing It Up: Manderville Axe",0,100,630
+263151.3,"",False,0,,,"Hamm(er)ing It Up: Manderville Spear",0,100,630
+263151.4,"",False,0,,,"Hamm(er)ing It Up: Manderville Harp Bow",0,100,630
+263151.5,"",False,0,,,"Hamm(er)ing It Up: Manderville Knives",0,100,630
+263151.6,"",False,0,,,"Hamm(er)ing It Up: Manderville Zweihander",0,100,630
+263151.7,"",False,0,,,"Hamm(er)ing It Up: Manderville Revolver",0,100,630
+263151.8,"",False,0,,,"Hamm(er)ing It Up: Manderville Cane",0,100,630
+263151.9,"",False,0,,,"Hamm(er)ing It Up: Manderville Rod",0,100,630
+263151.10,"",False,0,,,"Hamm(er)ing It Up: Manderville Index",0,100,630
+263151.11,"",False,0,,,"Hamm(er)ing It Up: Manderville Codex",0,100,630
+263151.12,"",False,0,,,"Hamm(er)ing It Up: Manderville Torquetum",0,100,630
+263151.13,"",False,0,,,"Hamm(er)ing It Up: Manderville Samurai Blade",0,100,630
+263151.14,"",False,0,,,"Hamm(er)ing It Up: Manderville Rapier",0,100,630
+263151.15,"",False,0,,,"Hamm(er)ing It Up: Manderville Gunblade",0,100,630
+263151.16,"",False,0,,,"Hamm(er)ing It Up: Manderville Chakrams",0,100,630
+263151.17,"",False,0,,,"Hamm(er)ing It Up: Manderville Milpreves",0,100,630
+263151.18,"",False,0,,,"Hamm(er)ing It Up: Manderville Scythe",0,100,630
+263151.19,"",False,0,,,"Hamm(er)ing It Up: Manderville Sword & Shield",0,100,630
+263152.0,"Peach Confetti",False,0,,,"",0,100,0
+263152.1,"Cherry Confetti",False,0,,,"",0,100,0
+263152.2,"Lovely Little Ladies' Day Advertisement",False,0,,,"",0,90,9999
+263152.3,"Decisions Orchestrion Roll",False,0,,,"",0,80,9999
+263153.0,"Zoni",False,0,,,"",0,100,0
+263153.1,"Magicked Prism (Advent Cakes)",False,0,,,"",0,100,0
+263154.0,"Zoni",False,0,,,"",0,100,0
+263154.1,"Magicked Prism (Advent Cakes)",False,0,,,"",0,100,0
+263154.2,"",False,0,,,"",0,100,0
+263154.3,"",False,0,,,"",0,100,0
+263154.4,"",False,0,,,"",0,100,0
+263155.0,"Zoni",False,0,,,"",0,100,0
+263155.1,"Magicked Prism (Advent Cakes)",False,0,,,"",0,100,0
+263156.0,"Storm Tracer",False,0,,,"",0,100,0
+263156.1,"Flame Tracer",False,0,,,"",0,100,0
+263156.2,"Serpent Tracer",False,0,,,"",0,100,0
+263156.3,"Lominsan Sparkler",False,0,,,"",0,100,0
+263156.4,"Gridanian Sparkler",False,0,,,"",0,100,0
+263156.5,"Ul'dahn Sparkler",False,0,,,"",0,100,0
+263156.6,"Bombard Bloom",False,0,,,"",0,100,0
+263156.7,"Pinwheel",False,0,,,"",0,100,0
+263157.0,"High Durium Saw",False,0,,,"",0,100,0
+263157.1,"High Durium Cross-pein Hammer",False,0,,,"",0,100,0
+263157.2,"High Durium Raising Hammer",False,0,,,"",0,100,0
+263157.3,"High Durium Lapidary Hammer",False,0,,,"",0,100,0
+263157.4,"High Durium Creasing Knife",False,0,,,"",0,100,0
+263157.5,"High Durium Needle",False,0,,,"",0,100,0
+263157.6,"High Durium Alembic",False,0,,,"",0,100,0
+263157.7,"High Durium Namazu Frypan",False,0,,,"",0,100,0
+263157.8,"High Durium Claw Hammer",False,0,,,"",0,100,0
+263157.9,"High Durium File",False,0,,,"",0,100,0
+263157.10,"High Durium Pliers",False,0,,,"",0,100,0
+263157.11,"Horse Chestnut Grinding Wheel",False,0,,,"",0,100,0
+263157.12,"High Durium Awl",False,0,,,"",0,100,0
+263157.13,"Horse Chestnut Spinning Wheel",False,0,,,"",0,100,0
+263157.14,"High Durium Mortar",False,0,,,"",0,100,0
+263157.15,"High Durium Culinary Knife",False,0,,,"",0,100,0
+263157.16,"Bismuth Saw",False,0,,,"",0,100,0
+263157.17,"Bismuth Cross-pein Hammer",False,0,,,"",0,100,0
+263157.18,"Bismuth Raising Hammer",False,0,,,"",0,100,0
+263157.19,"Bismuth Lapidary Hammer",False,0,,,"",0,100,0
+263157.20,"Bismuth Round Knife",False,0,,,"",0,100,0
+263157.21,"Phrygian Needle",False,0,,,"",0,100,0
+263157.22,"Bismuth Alembic",False,0,,,"",0,100,0
+263157.23,"Bismuth Fat Cat Frypan",False,0,,,"",0,100,0
+263157.24,"Bismuth Claw Hammer",False,0,,,"",0,100,0
+263157.25,"Bismuth File",False,0,,,"",0,100,0
+263157.26,"Bismuth Pliers",False,0,,,"",0,100,0
+263157.27,"Red Pine Grinding Wheel",False,0,,,"",0,100,0
+263157.28,"Bismuth Awl",False,0,,,"",0,100,0
+263157.29,"Red Pine Spinning Wheel",False,0,,,"",0,100,0
+263157.30,"Bismuth Mortar",False,0,,,"",0,100,0
+263157.31,"Bismuth Culinary Knife",False,0,,,"",0,100,0
+263157.32,"Manganese Saw",False,0,,,"",0,100,0
+263157.33,"Manganese Cross-pein Hammer",False,0,,,"",0,100,0
+263157.34,"Manganese Raising Hammer",False,0,,,"",0,100,0
+263157.35,"Manganese Lapidary Hammer",False,0,,,"",0,100,0
+263157.36,"Manganese Round Knife",False,0,,,"",0,100,0
+263157.37,"Manganese Needle",False,0,,,"",0,100,0
+263157.38,"Manganese Alembic",False,0,,,"",0,100,0
+263157.39,"Manganese Chocobo Frypan",False,0,,,"",0,100,0
+263157.40,"Manganese Claw Hammer",False,0,,,"",0,100,0
+263157.41,"Manganese File",False,0,,,"",0,100,0
+263157.42,"Manganese Pliers",False,0,,,"",0,100,0
+263157.43,"Ironwood Grinding Wheel",False,0,,,"",0,100,0
+263157.44,"Manganese Awl",False,0,,,"",0,100,0
+263157.45,"Ironwood Spinning Wheel",False,0,,,"",0,100,0
+263157.46,"Manganese Mortar",False,0,,,"",0,100,0
+263157.47,"Manganese Culinary Knife",False,0,,,"",0,100,0
+263158.0,"Darkhempen Hat",False,0,,,"",0,100,0
+263158.1,"Darkhempen Dogi",False,0,,,"",0,100,0
+263158.2,"Gajaskin Handekko",False,0,,,"",0,100,0
+263158.3,"Darkhempen Momohiki",False,0,,,"",0,100,0
+263158.4,"Gajaskin Tabi",False,0,,,"",0,100,0
+263158.5,"Snow Linen Turban of Crafting",False,0,,,"",0,100,0
+263158.6,"Snow Linen Doublet of Crafting",False,0,,,"",0,100,0
+263158.7,"Saigaskin Gloves of Crafting",False,0,,,"",0,100,0
+263158.8,"Snow Linen Bottoms of Crafting",False,0,,,"",0,100,0
+263158.9,"Saigaskin Shoes of Crafting",False,0,,,"",0,100,0
+263158.10,"Scarlet Moko Wedge Cap of Crafting",False,0,,,"",0,100,0
+263158.11,"Scarlet Moko Coatee of Crafting",False,0,,,"",0,100,0
+263158.12,"Kumbhiraskin Gloves of Crafting",False,0,,,"",0,100,0
+263158.13,"Scarlet Moko Bottoms of Crafting",False,0,,,"",0,100,0
+263158.14,"Kumbhiraskin Shoes of Crafting",False,0,,,"",0,100,0
+263159.0,"Gysahl Greens",False,0,,,"",0,100,0
+263159.1,"Grade 8 Dark Matter",False,0,,,"",0,100,0

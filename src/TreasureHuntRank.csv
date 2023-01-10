@@ -21,7 +21,9 @@ int32,byte,Image,Item,EventItem,EventItem,byte,byte,uint16,bit&01
 17,1,"ui/icon/060000/060354.tex","Timeworn Gliderskin Map","gliderskin treasure map",,1,0,200,False
 18,1,"ui/icon/060000/060354.tex","Timeworn Zonureskin Map","zonureskin treasure map","legendary thief's map",8,0,200,False
 19,0,,"",,,0,0,0,False
-20,1,"ui/icon/060000/060354.tex","Ostensibly Special Timeworn Map","presumably special treasure map","presumably special thief's map",8,0,200,False
+20,1,"ui/icon/060000/060354.tex","Ostensibly Special Timeworn Map","ostensibly special treasure map","ostensibly special thief's map",8,0,200,False
 21,1,"ui/icon/060000/060354.tex","Timeworn Saigaskin Map","saigaskin treasure map",,1,0,200,False
 22,1,"ui/icon/060000/060354.tex","Timeworn Kumbhiraskin Map","kumbhiraskin treasure map","thrill-seeking thief's map",8,0,200,False
 23,0,,"",,,0,0,0,False
+24,1,"ui/icon/060000/060354.tex","Timeworn Ophiotauroskin Map","ophiotauroskin treasure map","ancient thief's map",8,0,200,False
+25,1,"ui/icon/060000/060354.tex","Potentially Special Timeworn Map","potentially special treasure map","potentially special thief's map",8,0,200,False

@@ -157,6 +157,7 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 30.0,7964397,1,"For Sentimental Reasons",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 30.1,7964396,1,"The Notes of Bond Restoring",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 30.2,8376775,2,"The Converging Light",3,False,2,"Hope's Confluence",1,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+30.3,9662171,1,"",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 31.0,8047917,2,"A Feast of Lies",255,False,2,"Extinguishing the Last Light",2,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 31.1,7968773,1,"More than a Hunch",0,False,2,"A Feast of Lies",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 31.2,8036278,1,"In the Middle of Nowhere",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
@@ -214,6 +215,7 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 46.1,8465762,2,"The Martyr",2,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 46.2,8794413,2,"The Martyr",2,False,2,"The Martyr",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 46.3,8464943,1,"In Shadow's Wake",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+46.4,9627908,1,"",0,False,1,"",0,False,1,"",0,False,1,"",0,False,1,"",0,False,0,,0,False,0,0,0,False
 47.0,8964469,2,"Α Test of Wιll",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 47.1,8998095,2,"Α Test of Wιll",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 47.2,8998096,2,"Α Test of Wιll",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False

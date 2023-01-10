@@ -75,7 +75,7 @@ int32,YardCatalogCategory,Item,uint16
 71,"Lighting","Oasis Path Light",410
 72,"Lighting","Glade Lamppost",410
 73,"Lighting","Oasis Lamppost",410
-74,"Miscellaneous","Dried Well",410
+74,"Ponds/Fountains","Dried Well",410
 75,"Interactive Furnishings","Oriental Striking Dummy",410
 76,"Plants","Wild Banana Tree",410
 77,"Miscellaneous","Personal Astroscope",410
@@ -222,3 +222,13 @@ int32,YardCatalogCategory,Item,uint16
 218,"Lighting","Far Eastern Lamppost",620
 219,"Miscellaneous","Elpis Stone Pillar",620
 220,"Miscellaneous","Chocobo Stable Essentials",620
+221,"Plants","Low Garden Hedge",630
+222,"Plants","",0
+223,"Ponds/Fountains","Smaller Water Otter Fountain",630
+224,"Lighting","Hannish Lamppost",630
+225,"Ponds/Fountains","Simple Fountain",630
+226,"Miscellaneous","Jinrikisha",630
+227,"Stalls","Lemonade Stand",630
+228,"Plants","",0
+229,"Stepping Stones/Stepladders","Stone Garden Wall",630
+230,"Plants","Colorful Flower Patch",630

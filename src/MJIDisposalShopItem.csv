@@ -2,53 +2,60 @@
 #,,,,Category,
 int32,byte,byte,uint16,MJIDisposalShopUICategory,byte
 0,0,1,3,"Materials",1
-1,1,1,3,"Materials",2
-2,2,1,3,"Materials",3
-3,3,1,3,"Materials",4
-4,4,1,3,"Materials",5
-5,5,1,3,"Materials",6
-6,6,1,3,"Materials",7
-7,7,1,3,"Materials",8
-8,8,1,3,"Materials",9
-9,9,1,3,"Materials",10
-10,10,1,3,"Materials",11
-11,11,1,3,"Materials",12
-12,12,1,3,"Materials",13
+1,1,1,3,"Materials",11
+2,2,1,3,"Materials",2
+3,3,1,3,"Materials",3
+4,4,1,3,"Materials",4
+5,5,1,3,"Materials",5
+6,6,1,3,"Materials",6
+7,7,1,3,"Materials",7
+8,8,1,3,"Materials",8
+9,9,1,3,"Materials",12
+10,10,1,3,"Materials",13
+11,11,1,3,"Materials",9
+12,12,1,3,"Materials",10
 13,13,1,3,"Materials",14
 14,14,1,3,"Materials",15
 15,15,1,3,"Materials",16
-16,16,1,3,"Materials",17
-17,17,1,3,"Materials",18
-18,18,1,3,"Materials",19
-19,19,1,3,"Materials",20
-20,20,1,3,"Materials",21
-21,21,1,3,"Materials",22
-22,22,1,3,"Materials",23
-23,23,1,3,"Materials",24
-24,24,1,3,"Materials",25
-25,25,1,3,"Materials",26
-26,26,1,3,"Materials",27
-27,27,0,25,"Rare Materials",28
-28,28,0,25,"Rare Materials",29
-29,29,0,25,"Rare Materials",30
-30,30,0,25,"Rare Materials",31
-31,31,0,25,"Rare Materials",32
-32,42,0,5,"Produce",35
-33,43,0,4,"Produce",33
-34,44,0,6,"Produce",37
-35,45,0,4,"Produce",34
-36,46,0,6,"Produce",38
-37,47,0,6,"Produce",39
-38,48,0,6,"Produce",40
-39,49,0,6,"Produce",41
-40,50,0,5,"Produce",36
-41,51,0,6,"Produce",42
-42,52,0,12,"Leavings",43
-43,53,0,12,"Leavings",44
-44,54,0,12,"Leavings",45
-45,55,0,12,"Leavings",46
-46,56,0,12,"Leavings",47
-47,57,0,12,"Leavings",48
-48,58,0,12,"Leavings",49
-49,59,0,12,"Leavings",50
-50,60,0,12,"Leavings",51
+16,16,1,3,"Materials",19
+17,17,1,3,"Materials",20
+18,18,1,3,"Materials",21
+19,19,1,3,"Materials",17
+20,20,1,3,"Materials",18
+21,21,1,3,"Materials",25
+22,22,1,3,"Materials",26
+23,23,1,3,"Materials",27
+24,24,1,3,"Materials",22
+25,25,1,3,"Materials",23
+26,26,1,3,"Materials",24
+27,27,0,25,"Rare Materials",100
+28,28,0,25,"Rare Materials",101
+29,29,0,25,"Rare Materials",102
+30,30,0,25,"Rare Materials",103
+31,31,0,25,"Rare Materials",104
+32,42,0,5,"Produce",150
+33,43,0,4,"Produce",151
+34,44,0,6,"Produce",152
+35,45,0,4,"Produce",153
+36,46,0,6,"Produce",154
+37,47,0,6,"Produce",155
+38,48,0,6,"Produce",156
+39,49,0,6,"Produce",157
+40,50,0,5,"Produce",158
+41,51,0,6,"Produce",159
+42,52,0,12,"Leavings",200
+43,53,0,12,"Leavings",201
+44,54,0,12,"Leavings",202
+45,55,0,12,"Leavings",203
+46,56,0,12,"Leavings",204
+47,57,0,12,"Leavings",205
+48,58,0,12,"Leavings",206
+49,59,0,12,"Leavings",207
+50,60,0,12,"Leavings",208
+51,67,1,3,"Materials",29
+52,68,1,3,"Materials",30
+53,69,1,3,"Materials",31
+54,70,1,3,"Materials",32
+55,71,1,3,"Materials",28
+56,74,0,6,"Produce",160
+57,75,0,6,"Produce",161

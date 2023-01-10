@@ -7,143 +7,143 @@ int32,byte,Row,uint32,uint32,uint32,uint32,uint32,byte,Row,Row,Row,byte,Quest,by
 3,5,"Reflect",0,0,0,0,0,5,"Ballroom Etiquette - Reflection",,,1,"A Hero in the Making",41,False
 4,5,"Ponder",0,0,0,0,0,2,"Emissary of the Dawn",,,1,"Under the Moonlight",43,False
 5,5,"Endure",0,0,0,0,0,2,"The Call",,,1,"The Will of the Moon",43,False
-6,5,"Eastern Bow",0,0,0,0,0,2,"Confederate Consternation",,,1,"To Bend with the Wind",0,False
+6,0,,0,0,0,0,0,0,,,,0,,0,False
 7,5,"Greeting",0,0,0,0,0,2,"Tidings from the East",,,1,"Return of the Bull",43,False
-8,5,"Imperial Salute",0,0,0,0,0,2,"Acting the Part",,,1,"Getting Even with Garlemald",0,False
+8,0,,0,0,0,0,0,0,,,,0,,0,False
 9,5,"Lali-ho",0,0,0,0,0,2," Learning to Lali-ho",,,1," A Practiced Greeting",54,False
 10,5,"Battle Stance",0,0,0,0,0,2,"Causes and Costs",,,1,"For Those We Can Yet Save",42,False
 11,5,"Victory",0,0,0,0,0,2,"A Spectacle for the Ages",,,1,"Choices",42,False
-12,5,"Haurchefant",0,0,0,0,0,2,"The Burdens We Bear",,,1,"The Triumphs We Share",0,False
-13,5,"Gratuity",0,0,0,0,0,2,"What a Wonder-full World",,,1,"Fish in a Barrel",0,False
-14,5,"Throw",0,0,0,0,0,2,"Toss Fit Workout",,,1,"Rolling with the Snowies",0,False
+12,0,,0,0,0,0,0,0,,,,0,,0,False
+13,0,,0,0,0,0,0,0,,,,0,,0,False
+14,0,,0,0,0,0,0,0,,,,0,,0,False
 15,5,"Spectacles",0,0,0,0,0,2,"Letters from No One",,,1,"The Whipping Boy",52,False
 16,5,"Shush",0,0,0,0,0,2,"Death Unto Dawn",,,1,"On Official Business",44,False
-17,5,"Step Dance",0,0,0,0,0,2,"Good for What Ales You",,,1,"Good for What Ales You",0,False
-18,5,"Harvest Dance",0,0,0,0,0,2,"Saw That One Coming",,,1,"Saw That One Coming",0,False
-19,5,"Ball Dance",0,0,0,0,0,2,"Help Me, Lord of the Dance",,,1,"Help Me, Lord of the Dance",0,False
-20,5,"Manderville Dance",0,0,0,0,0,2,"The Hammer",,,1,"The Science of Deduction",0,False
-21,5,"Most Gentlemanly",0,0,0,0,0,2,"Her Last Vow",,,1,"Truths Untold",0,False
-22,5,"Sundrop Dance",0,0,0,0,0,2," Sundrop the Beat",,,1," Fishing for Friendship",0,False
-23,5,"Moonlift Dance",0,0,0,0,0,2,"Eternity, Loyalty, Honesty",,,1,"Lift Me to the Moon",0,False
-24,5,"Moogle Dance",0,0,0,0,0,2," Piecing Together the Past",,,1," A Monumental Task",0,False
-25,5,"Hum",0,0,0,0,0,2,"The Fire-bird Down Below",,,1,"Tortoise in Time",0,False
-26,5,"Manderville Mambo",0,0,0,0,0,2,"Don't Do the Dewprism",,,1,"The Past Is Never Past",0,False
+17,5,"Step Dance",0,0,0,0,0,2,"Good for What Ales You",,,1,"Good for What Ales You",51,False
+18,0,,0,0,0,0,0,0,,,,0,,0,False
+19,5,"Ball Dance",0,0,0,0,0,2,"Help Me, Lord of the Dance",,,1,"Help Me, Lord of the Dance",51,False
+20,5,"Manderville Dance",0,0,0,0,0,2,"The Hammer",,,1,"The Science of Deduction",51,False
+21,0,,0,0,0,0,0,0,,,,0,,0,False
+22,5,"Sundrop Dance",0,0,0,0,0,2," Sundrop the Beat",,,1," Fishing for Friendship",47,False
+23,5,"Moonlift Dance",0,0,0,0,0,2,"Eternity, Loyalty, Honesty",,,1,"Lift Me to the Moon",47,False
+24,0,,0,0,0,0,0,0,,,,0,,0,False
+25,5,"Hum",0,0,0,0,0,2,"The Fire-bird Down Below",,,1,"Tortoise in Time",53,False
+26,0,,0,0,0,0,0,0,,,,0,,0,False
 27,5,"Box",0,0,0,0,0,2,"Arenvald's Adventure",,,1,"Stormblood",43,False
-28,5,"Embrace",0,0,0,0,0,2,"The Ties That Bind",,,1,"The Ties That Bind",0,True
-29,5,"Thavnairian Dance",0,0,0,0,0,16,,,,1,"It Could Happen to You",51,False
-30,5,"Gold Dance",0,0,0,0,0,16,,,,1,"It Could Happen to You",51,False
+28,0,,0,0,0,0,0,0,,,,0,,0,False
+29,0,,0,0,0,0,0,0,,,,0,,0,False
+30,0,,0,0,0,0,0,0,,,,0,,0,False
 31,5,"Bee's Knees",0,0,0,0,0,16,,,,1,"It Could Happen to You",51,False
-32,5,"Headache",0,0,0,0,0,4,"Maudlin Latool Ja","Level#8157292","Ballroom Etiquette - Feigning Fatigue",1,"Blue Scream of Death",40,False
-33,5,"Tremble",0,0,0,0,0,4,"Eschina","Level#6708398","Ballroom Etiquette - Fear and Loathing",1,"Stormblood",0,False
-34,5,"Winded",0,0,0,0,0,4,"Eschina","Level#6708398","Ballroom Etiquette - Unseemly Exertions",1,"Stormblood",0,False
-35,5,"Insist",0,0,0,0,0,4,"Enie","Level#8104544","Ballroom Etiquette - Emphatic Elucidation",1,"Towards the Firmament",52,False
-36,5,"Break Fast",0,0,0,0,0,4,"Enie","Level#8104544","Ballroom Etiquette - Well Bread",1,"Towards the Firmament",52,False
-37,5,"Eat Rice Ball",0,0,0,0,0,4,"Enie","Level#8104544","Ballroom Etiquette - Concealing Meals",1,"Towards the Firmament",52,False
-38,5,"Read",0,0,0,0,0,4,"Enie","Level#8104544","Ballroom Etiquette - Intelligent Impressions",1,"Towards the Firmament",52,False
-39,5,"High Five",0,0,0,0,0,4,"Enie","Level#8104544","Ballroom Etiquette - Uncouth Congratulations",1,"Towards the Firmament",52,False
-40,5,"Lean",0,0,0,0,0,4,"Enie","Level#8104544","Ballroom Etiquette - The Winsome Wallflower",1,"Towards the Firmament",52,False
-41,5,"Sweep Up",0,0,0,0,0,4,"Enie","Level#8104544","Ballroom Etiquette - Next, Godliness",1,"Towards the Firmament",52,False
-42,5,"Aback",0,0,0,0,0,4,"Kasumi","Level#7244693","Ballroom Etiquette - Bewilderment",1,"It Could Happen to You",51,False
-43,5,"Sweat",0,0,0,0,0,4,"Confederate custodian","Level#7397074","Ballroom Etiquette - Excessive Petticoats",1,"Knocking on Heaven's Door",53,False
-44,5,"Guard",0,0,0,0,0,4,"Resistance quartermaster","Level#8395975","Ballroom Etiquette - Pointed Misgivings",1,"Where Eagles Nest",54,False
-45,5,"Malevolence",0,0,0,0,0,4,"Resistance quartermaster","Level#8395975","Ballroom Etiquette - Dark Entreaty",1,"Where Eagles Nest",54,False
-46,5,"Eastern Greeting",0,0,0,0,0,12,"Ballroom Etiquette - Exotic Greetings",,,0,,0,True
-47,5,"Dote",0,0,0,0,0,6,"Ballroom Etiquette - Improper Amorism",,,0,,0,True
+32,5,"Headache",0,0,0,0,0,19,,,,1,"Blue Scream of Death",40,False
+33,0,,0,0,0,0,0,0,,,,0,,0,False
+34,0,,0,0,0,0,0,0,,,,0,,0,False
+35,0,,0,0,0,0,0,0,,,,0,,0,False
+36,5,"Break Fast",0,0,0,0,0,18,,,,1,"Towards the Firmament",52,False
+37,5,"Eat Rice Ball",0,0,0,0,0,18,,,,1,"Towards the Firmament",52,False
+38,5,"Read",0,0,0,0,0,18,,,,1,"Towards the Firmament",52,False
+39,0,,0,0,0,0,0,0,,,,0,,0,False
+40,5,"Lean",0,0,0,0,0,18,,,,1,"Towards the Firmament",52,False
+41,0,,0,0,0,0,0,0,,,,0,,0,False
+42,5,"Aback",0,0,0,0,0,16,,,,1,"It Could Happen to You",51,False
+43,5,"Sweat",0,0,0,0,0,20,,,,1,"Knocking on Heaven's Door",53,False
+44,0,,0,0,0,0,0,0,,,,0,,0,False
+45,5,"Malevolence",0,0,0,0,0,23,,,,1,"Where Eagles Nest",54,False
+46,0,,0,0,0,0,0,0,,,,0,,0,False
+47,0,,0,0,0,0,0,0,,,,0,,0,False
 48,5,"Huzzah",0,0,0,0,0,6,"Ballroom Etiquette - The Last Huzzah",,,0,,0,False
 49,5,"Eureka",0,0,0,0,0,6,"Ballroom Etiquette - Intellectual Diversions",,,0,,0,False
-50,5,"Senor Sabotender",0,0,0,0,0,6,"Ballroom Etiquette - Positively Prickly",,,0,,0,True
-51,5,"Toast",0,0,0,0,0,12,"Ballroom Etiquette - Celebratory Cups",,,0,,0,True
-52,5,"Snap",0,0,0,0,0,12,"Ballroom Etiquette - Defter Digits",,,0,,0,True
-53,5,"Flower Shower",0,0,0,0,0,12,"Ballroom Etiquette - Floral Rearrangement",,,0,,0,True
-54,5,"Vexed",0,0,0,0,0,6,"Ballroom Etiquette - Displaying Displeasure",,,0,,0,True
-55,5,"Tomestone",0,0,0,0,0,9,,,,0,,0,True
-56,5,"Backflip",0,0,0,0,0,12,"Ballroom Etiquette - Improper Celebration",,,0,,0,True
-57,5,"Eastern Stretch",0,0,0,0,0,12,"Ballroom Etiquette - Exotic Exercises",,,0,,0,True
-58,5,"Pretty Please",0,0,0,0,0,12,"Ballroom Etiquette - Better Dead than Underbred",,,0,,0,True
-59,5,"Power Up",0,0,0,0,0,12,"Ballroom Etiquette - Display of Power",,,0,,0,True
-60,5,"Crimson Lotus",0,0,0,0,0,12,"Ballroom Etiquette - Secrets of the Fist",,,0,,0,True
-61,5,"Eat Pizza",0,0,0,0,0,12,"Ballroom Etiquette - Pizza & Prejudice",,,0,,0,True
-62,5,"Eat Egg",0,0,0,0,0,6,"Ballroom Etiquette - An Egg a Day",,,0,,0,True
-63,5,"Drink Tea",0,0,0,0,0,12,"Ballroom Etiquette - The Tea",,,0,,0,True
+50,0,,0,0,0,0,0,0,,,,0,,0,False
+51,0,,0,0,0,0,0,0,,,,0,,0,False
+52,0,,0,0,0,0,0,0,,,,0,,0,False
+53,0,,0,0,0,0,0,0,,,,0,,0,False
+54,0,,0,0,0,0,0,0,,,,0,,0,False
+55,0,,0,0,0,0,0,0,,,,0,,0,False
+56,0,,0,0,0,0,0,0,,,,0,,0,False
+57,0,,0,0,0,0,0,0,,,,0,,0,False
+58,0,,0,0,0,0,0,0,,,,0,,0,False
+59,0,,0,0,0,0,0,0,,,,0,,0,False
+60,0,,0,0,0,0,0,0,,,,0,,0,False
+61,0,,0,0,0,0,0,0,,,,0,,0,False
+62,0,,0,0,0,0,0,0,,,,0,,0,False
+63,0,,0,0,0,0,0,0,,,,0,,0,False
 64,5,"Consider",0,0,0,0,0,6,"Ballroom Etiquette - Reproachful Rumination",,,0,,0,False
-65,5,"Pantomime",0,0,0,0,0,12,"Ballroom Etiquette - Impromptu Performance",,,0,,0,True
-66,5,"Bomb Dance",0,0,0,0,0,6,"Ballroom Etiquette - The Bomb Dance",,,0,,0,True
+65,0,,0,0,0,0,0,0,,,,0,,0,False
+66,0,,0,0,0,0,0,0,,,,0,,0,False
 67,5,"Red Ranger Pose A",0,0,0,0,0,6,"Ballroom Etiquette - The Red Ranger",,,0,,0,False
 68,5,"Red Ranger Pose B",0,0,0,0,0,6,"Ballroom Etiquette - The Red Ranger",,,0,,0,False
 69,5,"Black Ranger Pose A",0,0,0,0,0,6,"Ballroom Etiquette - The Black Ranger",,,0,,0,False
 70,5,"Black Ranger Pose B",0,0,0,0,0,6,"Ballroom Etiquette - The Black Ranger",,,0,,0,False
 71,5,"Yellow Ranger Pose A",0,0,0,0,0,6,"Ballroom Etiquette - The Yellow Ranger",,,0,,0,False
 72,5,"Yellow Ranger Pose B",0,0,0,0,0,6,"Ballroom Etiquette - The Yellow Ranger",,,0,,0,False
-73,5,"Eastern Dance",0,0,0,0,0,12,"Ballroom Etiquette - Eastern Dance",,,0,,0,True
-74,5,"Songbird",0,0,0,0,0,6,"Ballroom Etiquette - Modern Dance",,,0,,0,True
-75,5,"Cheer On",0,0,0,0,0,6,"Ballroom Etiquette - Improper Praise #1",,,0,,0,True
-76,5,"Cheer Wave",0,0,0,0,0,6,"Ballroom Etiquette - Improper Praise #2",,,0,,0,True
-77,5,"Cheer Jump",0,0,0,0,0,6,"Ballroom Etiquette - Improper Praise #3",,,0,,0,True
-78,5,"Box Step",0,0,0,0,0,12,"Ballroom Etiquette - The Box Step",,,0,,0,True
-79,5,"Side Step",0,0,0,0,0,12,"Ballroom Etiquette - The Side Step",,,0,,0,True
-80,5,"Get Fantasy",0,0,0,0,0,12,"Ballroom Etiquette - Get Fantasy",,,0,,0,True
-81,5,"Popoto Step",0,0,0,0,0,12,"Ballroom Etiquette - The Popoto Step",,,0,,0,True
-82,5,"Heel Toe",0,0,0,0,0,12,"Ballroom Etiquette - The Heel Toe",,,0,,0,True
-83,5,"Goobbue Do",0,0,0,0,0,12,"Ballroom Etiquette - The Goobbue Do",,,0,,0,True
-84,5,"Wasshoi",0,0,0,0,0,12,"Ballroom Etiquette - The Metaphysics of Merrymaking",,,0,,0,True
-85,5,"Flame Dance",0,0,0,0,0,6,"Ballroom Etiquette - The Flame Dance",,,0,,0,True
-86,5,"Play Dead",0,0,0,0,0,12,"Ballroom Etiquette - A Fitting End",,,0,,0,True
-87,5,"Show Right",0,0,0,0,0,6,"Ballroom Etiquette - Soliciting Applause",,,0,,0,True
-88,5,"Show Left",0,0,0,0,0,6,"Ballroom Etiquette - Soliciting Applause",,,0,,0,True
-89,5,"Zantetsuken",0,0,0,0,0,12,"Ballroom Etiquette - Zantetsuken",,,0,,0,True
-90,5,"Diamond Dust",0,0,0,0,0,12,"Ballroom Etiquette - Diamond Dust",,,0,,0,True
-91,5,"Megaflare",0,0,0,0,0,12,"Ballroom Etiquette - Calamitous Endings",,,0,,0,True
-92,5,"Ultima",0,0,0,0,0,12,"Ballroom Etiquette - Ultima",,,0,,0,True
-93,5,"Simulation M",0,0,0,0,0,12,"Ballroom Etiquette - Rival Imitation",,,0,,0,True
-94,5,"Simulation F",0,0,0,0,0,12,"Ballroom Etiquette - Rival Imitation",,,0,,0,True
-95,5,"Fist Pump",0,0,0,0,0,7,"Ballroom Etiquette - Overzealous Affirmations",,,0,,0,False
+73,0,,0,0,0,0,0,0,,,,0,,0,False
+74,0,,0,0,0,0,0,0,,,,0,,0,False
+75,0,,0,0,0,0,0,0,,,,0,,0,False
+76,0,,0,0,0,0,0,0,,,,0,,0,False
+77,0,,0,0,0,0,0,0,,,,0,,0,False
+78,0,,0,0,0,0,0,0,,,,0,,0,False
+79,0,,0,0,0,0,0,0,,,,0,,0,False
+80,0,,0,0,0,0,0,0,,,,0,,0,False
+81,0,,0,0,0,0,0,0,,,,0,,0,False
+82,0,,0,0,0,0,0,0,,,,0,,0,False
+83,0,,0,0,0,0,0,0,,,,0,,0,False
+84,0,,0,0,0,0,0,0,,,,0,,0,False
+85,0,,0,0,0,0,0,0,,,,0,,0,False
+86,0,,0,0,0,0,0,0,,,,0,,0,False
+87,0,,0,0,0,0,0,0,,,,0,,0,False
+88,0,,0,0,0,0,0,0,,,,0,,0,False
+89,0,,0,0,0,0,0,0,,,,0,,0,False
+90,0,,0,0,0,0,0,0,,,,0,,0,False
+91,0,,0,0,0,0,0,0,,,,0,,0,False
+92,0,,0,0,0,0,0,0,,,,0,,0,False
+93,0,,0,0,0,0,0,0,,,,0,,0,False
+94,0,,0,0,0,0,0,0,,,,0,,0,False
+95,0,,0,0,0,0,0,0,,,,0,,0,False
 96,5,"Shiver",0,0,0,0,0,7,"Ballroom Etiquette - Insufficient Petticoats",,,0,,0,False
-97,5,"Scheme",0,0,0,0,0,7,"Ballroom Etiquette - Ideal Gossip",,,0,,0,False
-98,5,"Paint It Black",0,0,0,0,0,7,"Ballroom Etiquette - Decadent Decoration",,,0,,0,False
-99,5,"Paint It Red",0,0,0,0,0,7,"Ballroom Etiquette - Decadent Decoration",,,0,,0,False
-100,5,"Paint It Yellow",0,0,0,0,0,7,"Ballroom Etiquette - Decadent Decoration",,,0,,0,False
-101,5,"Paint It Blue",0,0,0,0,0,7,"Ballroom Etiquette - Decadent Decoration",,,0,,0,False
-102,5,"Confirm",0,0,0,0,0,7,"Ballroom Etiquette - Scholarly Certitude",,,0,,0,False
-103,5,"Eat Apple",0,0,0,0,0,7,"Ballroom Etiquette - Apples with Aplomb",,,0,,0,False
-104,5,"Wring Hands",0,0,0,0,0,7,"Ballroom Etiquette - Good Will Seeking",,,0,,0,False
-105,5,"Ritual Prayer",0,0,0,0,0,17,,,,1," True-blue",0,False
-106,5,"Charmed",0,0,0,0,0,17,,,,1," Chance of Gales",0,False
-107,5,"Yol Dance",0,0,0,0,0,17,,,,1," Out of the Frypan",0,False
-108,5,"Lali Hop",0,0,0,0,0,17,,,,1," Tanks for the Memory",0,False
-109,5,"Storm Salute",0,0,0,0,0,11,"All Watched Over by a Maelstrom of Loving Grace",,,1,"A Hero in the Making",0,False
-110,5,"Serpent Salute",0,0,0,0,0,11,"Snakebitten",,,1,"A Hero in the Making",0,False
-111,5,"Flame Salute",0,0,0,0,0,11,"Light My Fire",,,1,"A Hero in the Making",0,False
-112,5,"Fist Bump",0,0,0,0,0,8,"Ballroom Etiquette - Improper Greetings",,,0,,0,False
-113,5,"Squats",0,0,0,0,0,11,"The Mob Squad I",,,1,"Rising to the Challenge",0,False
-114,5,"Push-ups",0,0,0,0,0,11,"The Mob Squad I",,,1,"Rising to the Challenge",0,False
-115,5,"Sit-ups",0,0,0,0,0,11,"The Mob Squad I",,,1,"Rising to the Challenge",0,False
-116,5,"Breath Control",0,0,0,0,0,11,"The Mob Squad I",,,1,"Rising to the Challenge",0,False
+97,0,,0,0,0,0,0,0,,,,0,,0,False
+98,0,,0,0,0,0,0,0,,,,0,,0,False
+99,0,,0,0,0,0,0,0,,,,0,,0,False
+100,0,,0,0,0,0,0,0,,,,0,,0,False
+101,0,,0,0,0,0,0,0,,,,0,,0,False
+102,0,,0,0,0,0,0,0,,,,0,,0,False
+103,5,"Eat Apple",0,0,0,0,0,7,"Ballroom Etiquette - Apples with Aplomb",,,1,"Towards the Firmament",52,False
+104,0,,0,0,0,0,0,0,,,,0,,0,False
+105,0,,0,0,0,0,0,0,,,,0,,0,False
+106,0,,0,0,0,0,0,0,,,,0,,0,False
+107,5,"Yol Dance",0,0,0,0,0,17,,,,1," Out of the Frypan",48,False
+108,0,,0,0,0,0,0,0,,,,0,,0,False
+109,0,,0,0,0,0,0,0,,,,0,,0,False
+110,0,,0,0,0,0,0,0,,,,0,,0,False
+111,0,,0,0,0,0,0,0,,,,0,,0,False
+112,0,,0,0,0,0,0,0,,,,0,,0,False
+113,0,,0,0,0,0,0,0,,,,0,,0,False
+114,0,,0,0,0,0,0,0,,,,0,,0,False
+115,0,,0,0,0,0,0,0,,,,0,,0,False
+116,0,,0,0,0,0,0,0,,,,0,,0,False
 117,5,"Attention",0,0,0,0,0,5,"Battlefield Etiquette - Attention",,,1,"A Hero in the Making",41,False
 118,5,"At Ease",0,0,0,0,0,5,"Battlefield Etiquette - At Ease",,,1,"A Hero in the Making",41,False
-119,5,"Elucidate",0,0,0,0,0,4,"mark quartermaster","Level#4270098","Ballroom Etiquette - Stimulating Soliloquies",0,,0,False
-120,5,"Determined",0,0,0,0,0,14,,,,0,,0,False
+119,5,"Elucidate",0,0,0,0,0,21,,,,0,,0,False
+120,5,"Determined",0,0,0,0,0,14,,,,0,,0,True
 121,5,"Draw Weapon",0,0,0,0,0,16,,,,1,"It Could Happen to You",51,False
 122,5,"Sheathe Weapon",0,0,0,0,0,16,,,,1,"It Could Happen to You",51,False
-123,5,"Reprimand",0,0,0,0,0,4,"mark quartermaster","Level#4270098","Ballroom Etiquette - Refined Reproaches",0,,0,False
-124,9,,0,0,0,0,0,4,"crystal quartermaster","Level#9159882","Paladin Framer's Kit",0,,0,False
-125,9,,0,0,0,0,0,4,"crystal quartermaster","Level#9159882","Warrior Framer's Kit",0,,0,False
-126,9,,0,0,0,0,0,4,"crystal quartermaster","Level#9159882","Dark Knight Framer's Kit",0,,0,False
-127,9,,0,0,0,0,0,4,"crystal quartermaster","Level#9159882","Gunbreaker Framer's Kit",0,,0,False
-128,9,,0,0,0,0,0,4,"crystal quartermaster","Level#9159882","White Mage Framer's Kit",0,,0,False
-129,9,,0,0,0,0,0,4,"crystal quartermaster","Level#9159882","Scholar Framer's Kit",0,,0,False
-130,9,,0,0,0,0,0,4,"crystal quartermaster","Level#9159882","Astrologian Framer's Kit",0,,0,False
-131,9,,0,0,0,0,0,4,"crystal quartermaster","Level#9159882","Sage Framer's Kit",0,,0,False
-132,9,,0,0,0,0,0,4,"crystal quartermaster","Level#9159882","Monk Framer's Kit",0,,0,False
-133,9,,0,0,0,0,0,4,"crystal quartermaster","Level#9159882","Dragoon Framer's Kit",0,,0,False
-134,9,,0,0,0,0,0,4,"crystal quartermaster","Level#9159882","Ninja Framer's Kit",0,,0,False
-135,9,,0,0,0,0,0,4,"crystal quartermaster","Level#9159882","Samurai Framer's Kit",0,,0,False
-136,9,,0,0,0,0,0,4,"crystal quartermaster","Level#9159882","Reaper Framer's Kit",0,,0,False
-137,9,,0,0,0,0,0,4,"crystal quartermaster","Level#9159882","Bard Framer's Kit",0,,0,False
-138,9,,0,0,0,0,0,4,"crystal quartermaster","Level#9159882","Machinist Framer's Kit",0,,0,False
-139,9,,0,0,0,0,0,4,"crystal quartermaster","Level#9159882","Dancer Framer's Kit",0,,0,False
-140,9,,0,0,0,0,0,4,"crystal quartermaster","Level#9159882","Black Mage Framer's Kit",0,,0,False
-141,9,,0,0,0,0,0,4,"crystal quartermaster","Level#9159882","Summoner Framer's Kit",0,,0,False
-142,9,,0,0,0,0,0,4,"crystal quartermaster","Level#9159882","Red Mage Framer's Kit",0,,0,False
+123,5,"Reprimand",0,0,0,0,0,21,,,,0,,0,False
+124,9,,0,0,0,0,0,21,,,,0,,0,False
+125,9,,0,0,0,0,0,21,,,,0,,0,False
+126,9,,0,0,0,0,0,21,,,,0,,0,False
+127,9,,0,0,0,0,0,21,,,,0,,0,False
+128,9,,0,0,0,0,0,21,,,,0,,0,False
+129,9,,0,0,0,0,0,21,,,,0,,0,False
+130,9,,0,0,0,0,0,21,,,,0,,0,False
+131,9,,0,0,0,0,0,21,,,,0,,0,False
+132,9,,0,0,0,0,0,21,,,,0,,0,False
+133,9,,0,0,0,0,0,21,,,,0,,0,False
+134,9,,0,0,0,0,0,21,,,,0,,0,False
+135,9,,0,0,0,0,0,21,,,,0,,0,False
+136,9,,0,0,0,0,0,21,,,,0,,0,False
+137,9,,0,0,0,0,0,21,,,,0,,0,False
+138,9,,0,0,0,0,0,21,,,,0,,0,False
+139,9,,0,0,0,0,0,21,,,,0,,0,False
+140,9,,0,0,0,0,0,21,,,,0,,0,False
+141,9,,0,0,0,0,0,21,,,,0,,0,False
+142,9,,0,0,0,0,0,21,,,,0,,0,False
 143,9,,0,0,0,0,0,14,,,,0,,0,True
 144,9,,0,0,0,0,0,14,,,,0,,0,True
 145,9,,0,0,0,0,0,11,"Top Tier",,,0,,0,True
@@ -344,61 +344,141 @@ int32,byte,Row,uint32,uint32,uint32,uint32,uint32,byte,Row,Row,Row,byte,Quest,by
 340,9,,0,0,0,0,0,13,,,,0,,0,True
 341,9,,0,0,0,0,0,14,,,,0,,0,False
 342,9,,0,0,0,0,0,14,,,,0,,0,False
-343,9,,0,0,0,0,0,4,"Trisassant","Level#9323367","Sil'dih Survey Framer's Kit",3,,55,False
+343,9,,0,0,0,0,0,24,,,,3,,55,False
 344,9,,0,0,0,0,0,17,,,,1," Life, the Universe, and Coffee Beans",50,False
 345,5,"Spirit",0,0,0,0,0,14,,,,0,,0,False
 346,1,"A Hero in the Making",0,0,0,0,0,2,"A Hero in the Making",,,1,"Lord of the Inferno",41,False
 347,2,,0,0,0,0,0,15,,,,1,"A Song of Bards and Bowmen",34,False
-348,0,,0,0,0,0,0,0,,,,0,,0,False
-349,0,,0,0,0,0,0,0,,,,0,,0,False
-350,0,,0,0,0,0,0,0,,,,0,,0,False
-351,0,,0,0,0,0,0,0,,,,0,,0,False
-352,0,,0,0,0,0,0,0,,,,0,,0,False
-353,0,,0,0,0,0,0,0,,,,0,,0,False
-354,0,,0,0,0,0,0,0,,,,0,,0,False
-355,0,,0,0,0,0,0,0,,,,0,,0,False
-356,0,,0,0,0,0,0,0,,,,0,,0,False
-357,0,,0,0,0,0,0,0,,,,0,,0,False
-358,0,,0,0,0,0,0,0,,,,0,,0,False
-359,0,,0,0,0,0,0,0,,,,0,,0,False
-360,0,,0,0,0,0,0,0,,,,0,,0,False
-361,0,,0,0,0,0,0,0,,,,0,,0,False
-362,0,,0,0,0,0,0,0,,,,0,,0,False
-363,0,,0,0,0,0,0,0,,,,0,,0,False
-364,0,,0,0,0,0,0,0,,,,0,,0,False
-365,0,,0,0,0,0,0,0,,,,0,,0,False
-366,0,,0,0,0,0,0,0,,,,0,,0,False
-367,0,,0,0,0,0,0,0,,,,0,,0,False
-368,0,,0,0,0,0,0,0,,,,0,,0,False
-369,0,,0,0,0,0,0,0,,,,0,,0,False
-370,0,,0,0,0,0,0,0,,,,0,,0,False
-371,0,,0,0,0,0,0,0,,,,0,,0,False
-372,0,,0,0,0,0,0,0,,,,0,,0,False
-373,0,,0,0,0,0,0,0,,,,0,,0,False
-374,0,,0,0,0,0,0,0,,,,0,,0,False
-375,0,,0,0,0,0,0,0,,,,0,,0,False
-376,0,,0,0,0,0,0,0,,,,0,,0,False
-377,0,,0,0,0,0,0,0,,,,0,,0,False
-378,0,,0,0,0,0,0,0,,,,0,,0,False
-379,0,,0,0,0,0,0,0,,,,0,,0,False
-380,0,,0,0,0,0,0,0,,,,0,,0,False
-381,0,,0,0,0,0,0,0,,,,0,,0,False
-382,0,,0,0,0,0,0,0,,,,0,,0,False
-383,0,,0,0,0,0,0,0,,,,0,,0,False
-384,0,,0,0,0,0,0,0,,,,0,,0,False
-385,0,,0,0,0,0,0,0,,,,0,,0,False
-386,0,,0,0,0,0,0,0,,,,0,,0,False
-387,0,,0,0,0,0,0,0,,,,0,,0,False
-388,0,,0,0,0,0,0,0,,,,0,,0,False
-389,0,,0,0,0,0,0,0,,,,0,,0,False
-390,0,,0,0,0,0,0,0,,,,0,,0,False
-391,0,,0,0,0,0,0,0,,,,0,,0,False
-392,0,,0,0,0,0,0,0,,,,0,,0,False
-393,0,,0,0,0,0,0,0,,,,0,,0,False
-394,0,,0,0,0,0,0,0,,,,0,,0,False
-395,0,,0,0,0,0,0,0,,,,0,,0,False
-396,0,,0,0,0,0,0,0,,,,0,,0,False
-397,0,,0,0,0,0,0,0,,,,0,,0,False
-398,0,,0,0,0,0,0,0,,,,0,,0,False
-399,0,,0,0,0,0,0,0,,,,0,,0,False
-400,0,,0,0,0,0,0,0,,,,0,,0,False
+348,6,,0,0,0,0,0,30,,,,0,,0,False
+349,6,,0,0,0,0,0,30,,,,0,,0,False
+350,6,,0,0,0,0,0,30,,,,0,,0,False
+351,6,,0,0,0,0,0,12,"Baby Behemoth",,,0,,0,False
+352,6,,0,0,0,0,0,31,,,,4,,66,False
+353,6,,0,0,0,0,0,29,,,,0,,0,False
+354,6,,0,0,0,0,0,2,"Zombies Are People Too",,,1,"Can't Do It without U",51,False
+355,6,,0,0,0,0,0,7,"Smallshell",,,0,,0,False
+356,6,,0,0,0,0,0,2,"It Was a Very Good Year",,,1,"Battle Scars",41,False
+357,6,,0,0,0,0,0,31,,,,4,,66,False
+358,6,,0,0,0,0,0,28,,,,0,,0,False
+359,6,,0,0,0,0,0,7,"Wind-up Qiqirn",,,0,,0,False
+360,6,,0,0,0,0,0,2,"Man's Best Fiend",,,1,"Like Cats and Dogs",51,False
+361,6,,0,0,0,0,0,2,"Curiosity Killed the Coeurl",,,1,"Like Cats and Dogs",51,False
+362,6,,0,0,0,0,0,7,"Wind-up Tonberry",,,0,,0,False
+363,6,,0,0,0,0,0,7,"Magic Broom",,,0,,0,False
+364,6,,0,0,0,0,0,12,"Wind-up Moogle",,,0,,0,False
+365,6,,0,0,0,0,0,7,"Nutkin",,,0,,0,False
+366,6,,0,0,0,0,0,7,"Fat Cat",,,0,,0,False
+367,6,,0,0,0,0,0,16,,,,1,"It Could Happen to You",51,False
+368,6,,0,0,0,0,0,2,"Do It for Gilly",,,1,"Heavensward",52,False
+369,6,,0,0,0,0,0,18,,,,1,"Towards the Firmament",52,False
+370,6,,0,0,0,0,0,31,,,,4,,67,False
+371,6,,0,0,0,0,0,7,"Odder Otter",,,0,,0,False
+372,6,,0,0,0,0,0,7,"Wind-up Namazu",,,0,,0,False
+373,6,,0,0,0,0,0,4,"Khloe Aliapoh","Level#6526530","Wind-up Khloe",1,"Keeping Up with the Aliapohs",52,False
+374,6,,0,0,0,0,0,7,"Mameshiba",,,0,,0,False
+375,6,,0,0,0,0,0,2," Protectors of the Wood",,,1," Hearts as One",54,False
+376,6,,0,0,0,0,0,4,"giant beaver","Level#7989343","Giant Beaver",1," And Then There Were None",54,False
+377,6,,0,0,0,0,0,11,"No More Fish in the Sea I",,,1,"All the Fish in the Sea",51,False
+378,6,,0,0,0,0,0,12,"Cait Sith Doll",,,0,,0,True
+379,6,,0,0,0,0,0,7,"Bluebird",,,0,,0,False
+380,6,,0,0,0,0,0,29,,,,0,,0,False
+381,6,,0,0,0,0,0,11,"Out of Sight Out of Mind",,,1,"A Sight to Behold",51,False
+382,6,,0,0,0,0,0,6,"Tender Lamb",,,0,,0,False
+383,6,,0,0,0,0,0,7,"Kidragora",,,0,,0,False
+384,6,,0,0,0,0,0,31,,,,4,,66,False
+385,6,,0,0,0,0,0,7,"Wind-up Succubus",,,0,,0,False
+386,6,,0,0,0,0,0,28,,,,0,,0,False
+387,6,,0,0,0,0,0,7,"Onion Prince",,,0,,0,False
+388,6,,0,0,0,0,0,7,"Eggplant Knight",,,0,,0,False
+389,6,,0,0,0,0,0,7,"Garlic Jester",,,0,,0,False
+390,6,,0,0,0,0,0,7,"Tomato King",,,0,,0,False
+391,6,,0,0,0,0,0,7,"Mandragora Queen",,,0,,0,False
+392,6,,0,0,0,0,0,33,,,,4,,71,False
+393,6,,0,0,0,0,0,33,,,,4,,71,False
+394,6,,0,0,0,0,0,7,"Atrophied Atomos",,,0,,0,False
+395,6,,0,0,0,0,0,31,,,,4,,67,False
+396,6,,0,0,0,0,0,31,,,,4,,67,False
+397,6,,0,0,0,0,0,11,"The Road of Verminion I",,,1,"It Could Happen to You",51,False
+398,6,,0,0,0,0,0,16,,,,1,"It Could Happen to You",51,False
+399,6,,0,0,0,0,0,31,,,,4,,67,False
+400,6,,0,0,0,0,0,31,,,,4,,68,False
+401,6,,0,0,0,0,0,7,"Wind-up Chimera",,,0,,0,False
+402,6,,0,0,0,0,0,7,"Yukinko Snowflake",,,1,"And We Shall Call It Hydatos",53,False
+403,6,,0,0,0,0,0,27,,,,1,"Stormblood",43,False
+404,6,,0,0,0,0,0,31,,,,4,,69,False
+405,6,,0,0,0,0,0,7,"Bacon Bits",,,0,,0,False
+406,6,,0,0,0,0,0,26,,,,1,"Fantastic Mr. Faux",54,False
+407,6,,0,0,0,0,0,11,"On a Boat IV",,,1,"All the Fish in the Sea",51,False
+408,5,"Linkpearl",0,0,0,0,0,14,,,,0,,0,False
+409,9,,0,0,0,0,0,11,"Top Tier: Season Four",,,0,,0,True
+410,11,,53,0,0,0,0,11,"Crystal in the Rough: Season Four",,,0,,0,True
+411,11,,53,54,0,0,0,11,"Ranked and Filed: Season Four",,,0,,0,True
+412,9,,0,0,0,0,0,13,,,,0,,0,True
+413,11,,59,0,0,0,0,13,,,,0,,0,True
+414,11,,59,58,0,0,0,13,,,,0,,0,True
+415,11,,59,58,57,0,0,13,,,,0,,0,True
+416,11,,59,58,57,56,0,13,,,,0,,0,True
+417,11,,59,58,57,56,55,13,,,,0,,0,True
+418,9,,0,0,0,0,0,11,"Top Tier: Season Five",,,0,,0,True
+419,11,,62,0,0,0,0,11,"Crystal in the Rough: Season Five",,,0,,0,True
+420,11,,62,63,0,0,0,11,"Ranked and Filed: Season Five",,,0,,0,True
+421,9,,0,0,0,0,0,13,,,,0,,0,True
+422,11,,68,0,0,0,0,13,,,,0,,0,True
+423,11,,68,67,0,0,0,13,,,,0,,0,True
+424,11,,68,67,66,0,0,13,,,,0,,0,True
+425,11,,68,67,66,65,0,13,,,,0,,0,True
+426,11,,68,67,66,65,64,13,,,,0,,0,True
+427,9,,0,0,0,0,0,14,,,,0,,0,False
+428,9,,0,0,0,0,0,14,,,,0,,0,False
+429,9,,0,0,0,0,0,17,,,,1," Forever and a Dream",49,False
+430,9,,0,0,0,0,0,17,,,,1," Glory Be to the Scree",49,False
+431,9,,0,0,0,0,0,17,,,,1," Tanks for the Memory",49,False
+432,9,,0,0,0,0,0,17,,,,1," The Hippo Riders",50,False
+433,0,,0,0,0,0,0,0,,,,0,,0,False
+434,0,,0,0,0,0,0,0,,,,0,,0,False
+435,6,,0,0,0,0,0,16,,,,1,"It Could Happen to You",51,False
+436,6,,0,0,0,0,0,31,,,,4,,66,False
+437,6,,0,0,0,0,0,31,,,,4,,66,False
+438,6,,0,0,0,0,0,7,"Littlefoot",,,0,,0,False
+439,6,,0,0,0,0,0,11,"A Load of Verminion II",,,1,"World of Wonders",51,False
+440,6,,0,0,0,0,0,31,,,,4,,67,False
+441,6,,0,0,0,0,0,2,"The Word of the Mother",,,1,"As It Once Was",42,False
+442,6,,0,0,0,0,0,31,,,,4,,69,False
+443,6,,0,0,0,0,0,7,"Bom Boko",,,0,,0,False
+444,6,,0,0,0,0,0,7,"Hedgehoglet",,,0,,0,False
+445,6,,0,0,0,0,0,26,,,,1,"Fantastic Mr. Faux",54,False
+446,6,,0,0,0,0,0,31,,,,4,,68,False
+447,6,,0,0,0,0,0,31,,,,4,,68,False
+448,6,,0,0,0,0,0,7,"Axolotl Eft",,,0,,0,False
+449,6,,0,0,0,0,0,22,,,,1,"Nuts to You",54,False
+450,6,,0,0,0,0,0,31,,,,4,,67,False
+451,6,,0,0,0,0,0,7,"Byakko Cub",,,0,,0,False
+452,6,,0,0,0,0,0,7,"Scarlet Peacock",,,0,,0,False
+453,6,,0,0,0,0,0,7,"Seitei",,,0,,0,False
+454,6,,0,0,0,0,0,12,"Wind-up Y'shtola",,,1,"The Ultimate Weapon",41,False
+455,6,,0,0,0,0,0,6,"Wind-up Minfilia",,,1,"The Ultimate Weapon",41,False
+456,6,,0,0,0,0,0,6,"Wind-up Thancred",,,1,"The Ultimate Weapon",41,False
+457,6,,0,0,0,0,0,12,"Wind-up Yda",,,1,"The Ultimate Weapon",41,False
+458,6,,0,0,0,0,0,12,"Wind-up Papalymo",,,1,"The Ultimate Weapon",41,False
+459,6,,0,0,0,0,0,12,"Wind-up Urianger",,,1,"The Ultimate Weapon",41,False
+460,6,,0,0,0,0,0,2,"In Search of Iceheart",,,1,"Alphinaud's Way",42,False
+461,6,,0,0,0,0,0,12,"Wind-up Alisaie",,,1,"The Ultimate Weapon",41,False
+462,6,,0,0,0,0,0,12,"Wind-up Tataru",,,1,"The Ultimate Weapon",41,False
+463,6,,0,0,0,0,0,2,"A Difference of Opinion",,,1,"Bolt, Chain, and Island",42,False
+464,6,,0,0,0,0,0,25,,,,1,"Seeking Sanctuary",55,False
+465,0,,0,0,0,0,0,0,,,,0,,0,False
+466,0,,0,0,0,0,0,0,,,,0,,0,False
+467,1,"The Fifth Lord",0,0,0,0,0,2,"The Fifth Lord",,,1,"Surpassing the Samurai",78,False
+468,9,,0,0,0,0,0,25,,,,1,"Seeking Sanctuary",55,False
+469,9,,0,0,0,0,0,25,,,,1,"Seeking Sanctuary",55,False
+470,0,,0,0,0,0,0,0,,,,0,,0,False
+471,0,,0,0,0,0,0,0,,,,0,,0,False
+472,0,,0,0,0,0,0,0,,,,0,,0,False
+473,0,,0,0,0,0,0,0,,,,0,,0,False
+474,0,,0,0,0,0,0,0,,,,0,,0,False
+475,0,,0,0,0,0,0,0,,,,0,,0,False
+476,0,,0,0,0,0,0,0,,,,0,,0,False
+477,0,,0,0,0,0,0,0,,,,0,,0,False
+478,0,,0,0,0,0,0,0,,,,0,,0,False
+479,0,,0,0,0,0,0,0,,,,0,,0,False
+480,0,,0,0,0,0,0,0,,,,0,,0,False

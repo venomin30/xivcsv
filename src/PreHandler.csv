@@ -21,7 +21,7 @@ int32,str,Image,Row,Quest,DefaultTalk,DefaultTalk,byte,byte
 3538961,"",,"Purchase Fieldcraft/Tradecraft Gear",,,,1,0
 3538962,"",,"Purchase Battlecraft Accessories",,,,1,0
 3538963,"",,"Purchase Items",,,,1,0
-3538964,"",,"Mahjong Rules",,,,1,0
+3538964,"",,"68737",,,,1,0
 3538965,"",,"",,,,2,0
 3538966,"",,"Purchase Items",,,,5,0
 3538967,"",,"Purchase Battlecraft Accessories",,,,5,0
@@ -52,7 +52,7 @@ int32,str,Image,Row,Quest,DefaultTalk,DefaultTalk,byte,byte
 3538992,"",,"Purchase Items",,,,6,0
 3538993,"",,"Purchase Items",,,,4,0
 3538994,"",,"",,,,3,0
-3538995,"",,"Housing Inquiries",,,,3,0
+3538995,"",,"0",,,,3,0
 3538996,"",,"","Inscrutable Tastes",,"DefaultTalk#594673",1,0
 3538997,"",,"","Inscrutable Tastes",,"DefaultTalk#594674",1,0
 3538998,"",,"","Inscrutable Tastes",,"DefaultTalk#594675",1,0
@@ -96,7 +96,7 @@ int32,str,Image,Row,Quest,DefaultTalk,DefaultTalk,byte,byte
 3539036,"",,"","The Boutique Always Wins",,,1,0
 3539037,"",,"","The Boutique Always Wins",,,1,0
 3539038,"",,,,,,1,0
-3539039,"","ui/icon/061000/061392.tex","The Bozjan Southern Front",,"DefaultTalk#596989",,4,0
+3539039,"","ui/icon/061000/061392.tex","0",,"DefaultTalk#596989",,4,0
 3539040,"",,"●収集品回収",,"DefaultTalk#596990","DefaultTalk#596988",4,0
 3539041,"","ui/icon/061000/061391.tex","InclusionShop#3801090",,,,1,0
 3539042,"","ui/icon/061000/061391.tex","InclusionShop#3801091",,,,1,0
@@ -117,12 +117,12 @@ int32,str,Image,Row,Quest,DefaultTalk,DefaultTalk,byte,byte
 3539057,"",,"Inconceivably Delicate Parts Exchange",,,,3,0
 3539058,"",,,"The Lady of Blades",,,1,0
 3539059,"",,,,,,1,0
-3539060,"","ui/icon/061000/061392.tex","Zadnor",,"DefaultTalk#597468",,4,0
+3539060,"","ui/icon/061000/061392.tex","0",,"DefaultTalk#597468",,4,0
 3539061,"",,"","Expanding House of Splendors",,"DefaultTalk#595258",1,0
 3539062,"",,"InclusionShop#3801097","Expanding House of Splendors",,,1,0
 3539063,"",,"InclusionShop#3801096","The Boutique Always Wins",,,1,0
 3539064,"",,"InclusionShop#3801094","Reach Long and Prosper",,,1,0
 3539065,"",,"InclusionShop#3801094","Go West, Craftsman",,,1,0
 3539066,"",,"InclusionShop#3801094","Inscrutable Tastes",,,1,0
-3539067,"",,,,,,0,0
+3539067,"",,"InclusionShop#3801099",,,,1,0
 3539068,"",,,,,,0,0

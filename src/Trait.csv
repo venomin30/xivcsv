@@ -262,9 +262,9 @@ int32,str,Image,ClassJob,byte,Quest,int16,ClassJobCategory,byte
 258,"Enhanced Brutal Shell","ui/icon/006000/006302.tex","gunbreaker",52,,0,"GNB",0
 259,"Danger Zone Mastery","ui/icon/006000/006303.tex","gunbreaker",80,,0,"GNB",0
 260,"Rage of Halone Mastery","ui/icon/005000/005213.tex","paladin",60,"This Little Sword of Mine",0,"PLD",0
-261,"Enhanced Prominence","ui/icon/005000/005214.tex","paladin",66,,0,"PLD",0
+261,"Enhanced Prominence","ui/icon/005000/005214.tex","paladin",72,,0,"PLD",0
 262,"Enhanced Sheltron","ui/icon/005000/005215.tex","paladin",74,,0,"PLD",0
-263,"Enhanced Requiescat","ui/icon/005000/005216.tex","adventurer",0,,0,"",0
+263,"Enhanced Requiescat","ui/icon/005000/005216.tex","paladin",80,,0,"PLD",0
 264,"Sword Oath","ui/icon/005000/005217.tex","paladin",76,,0,"PLD",0
 265,"Inner Beast Mastery","ui/icon/005000/005262.tex","warrior",54,"The Bear Necessity",0,"WAR",0
 266,"Steel Cyclone Mastery","ui/icon/005000/005263.tex","warrior",60,"And My Axe",0,"WAR",0
