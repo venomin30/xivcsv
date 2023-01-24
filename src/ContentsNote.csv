@@ -6,7 +6,7 @@ int32,ContentsNoteCategory,Image,byte,int32,byte,int32,byte,int32,uint16,HowTo,R
 2,"ContentsNoteCategory#1","ui/icon/061000/061801.tex",2,5,5,10,3,2000,0,"Clearing Instanced Raids",,"Dungeon Master","Complete 5 dungeons.",525600
 3,"ContentsNoteCategory#1","ui/icon/061000/061803.tex",3,3,5,5,3,1000,0,"Guildhests",,"You're the Hest Around I","Complete 3 guildhests.",262800
 4,"ContentsNoteCategory#1","ui/icon/061000/061803.tex",4,10,5,10,3,2000,0,"Guildhests",,"You're the Hest Around II","Complete 10 guildhests.",525600
-5,"ContentsNoteCategory#6","ui/icon/061000/061808.tex",3,5,0,0,3,2000,0,"Treasure Dungeons",,"Aqua Gleam Hunter Force I","Open 5 treasure coffers in the Aquapolis, Lost Canals of Uznair, Lyhe Ghiah, or Excitatron vaults.",0
+5,"ContentsNoteCategory#6","ui/icon/061000/061808.tex",3,5,0,0,3,2000,0,"Treasure Dungeons",,"Aqua Gleam Hunter Force I","Open 5 treasure coffers in treasure dungeon vaults.",0
 6,"ContentsNoteCategory#1","ui/icon/061000/061825.tex",8,3,0,0,3,2000,60,"",,"Tails of Derring-do Bad and Good Luck","Complete and mark off 3 Wondrous Tails.",0
 7,"ContentsNoteCategory#2","ui/icon/061000/061806.tex",1,10,0,0,9,1000,0,"Crystalline Conflict",,"A Wolf in Your Belly","Participate in 10 Crystalline Conflict matches.",0
 8,"ContentsNoteCategory#2","ui/icon/061000/061806.tex",2,3,0,0,9,1000,0,"Crystalline Conflict",,"Thrown to the Wolves","Triumph in 3 Crystalline Conflict matches.",0
