@@ -567,9 +567,9 @@ int32,OrchestrionCategory,uint16
 563,"Online Store & Bonuses",65535
 564,"Ambient",14
 565,"Trials",52
-566,"",0
+566,"Locales II",45
 567,"Dungeons II",28
-568,"",0
+568,"Dungeons II",29
 569,"Raids II",46
 570,"Raids II",47
 571,"Raids II",48
@@ -583,9 +583,9 @@ int32,OrchestrionCategory,uint16
 579,"Dungeons",73
 580,"Seasonal",65535
 581,"Seasonal",65535
-582,"",0
-583,"",0
-584,"",0
+582,"Locales II",46
+583,"Dungeons",75
+584,"Locales I",78
 585,"Quests",52
 586,"Quests",53
 587,"Quests",54

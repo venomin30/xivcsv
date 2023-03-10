@@ -23,4 +23,4 @@ int32,byte,Quest,str,str,str,bit&01,DescriptionSection
 3604499,0,,"Crystalline Conflict","Crystalline Conflict","",True,"Crystalline Conflict"
 3604500,2,,"Deep Dungeons","Deep Dungeons","",True,"The Palace of the Dead"
 3604501,2,,"Deep Dungeons","Deep Dungeons","",True,"Heaven–on–High"
-3604502,0,,"","","",False,""
+3604502,2,,"Deep Dungeons","Deep Dungeons","",True,"Eureka Orthos"

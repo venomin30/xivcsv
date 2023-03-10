@@ -61,7 +61,7 @@ int32,str,sbyte,Action,Action,Action,Action,uint16,uint16,uint16,bit&01
 57,"Aeolian Edge Combo",0,"Spinning Edge","Gust Slash","Aeolian Edge","",0,0,0,True
 58,"Kasha Combo",0,"Yukikaze","Gekko","Kasha","",0,0,0,True
 59,"Infernal Slice Combo",0,"Slice","Waxing Slice","Infernal Slice","",0,0,0,True
-60,"",0,"","","","",0,0,0,False
+60,"Rage of the Gentleman Combo",0,"Gentlemanly Smash","Gentlemanly Thrust","Rage of the Gentleman","",0,0,0,True
 61,"Infernal Slice Combo",0,"Slice","Waxing Slice","Infernal Slice","",0,0,0,True
 62,"Nightmare Scythe Combo",0,"Spinning Scythe","Nightmare Scythe","","",0,0,0,True
 63,"",0,"","","","",0,0,0,False

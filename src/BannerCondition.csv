@@ -120,41 +120,41 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 116,0,,,,,,,0,,,,0,,"",False
 117,5,"Attention",,,,,,5,"Battlefield Etiquette - Attention",,,1,"A Hero in the Making","Obtained from Seventh Umbral Era main scenario quest progression.",False
 118,5,"At Ease",,,,,,5,"Battlefield Etiquette - At Ease",,,1,"A Hero in the Making","Obtained from Seventh Umbral Era main scenario quest progression.",False
-119,5,"Elucidate",,,,,,21,,,,0,,"",False
+119,5,"Elucidate",,,,,,21,"ENpcBase#1005244","Level#4270098","Ballroom Etiquette - Stimulating Soliloquies",0,,"",False
 120,5,"Determined",,,,,,14,,,,0,,"",True
 121,5,"Draw Weapon",,,,,,16,,,,1,"It Could Happen to You","Obtained from A Realm Reborn sidequest progression.",False
 122,5,"Sheathe Weapon",,,,,,16,,,,1,"It Could Happen to You","Obtained from A Realm Reborn sidequest progression.",False
-123,5,"Reprimand",,,,,,21,,,,0,,"",False
-124,9,,,,,,,21,,,,0,,"",False
-125,9,,,,,,,21,,,,0,,"",False
-126,9,,,,,,,21,,,,0,,"",False
-127,9,,,,,,,21,,,,0,,"",False
-128,9,,,,,,,21,,,,0,,"",False
-129,9,,,,,,,21,,,,0,,"",False
-130,9,,,,,,,21,,,,0,,"",False
-131,9,,,,,,,21,,,,0,,"",False
-132,9,,,,,,,21,,,,0,,"",False
-133,9,,,,,,,21,,,,0,,"",False
-134,9,,,,,,,21,,,,0,,"",False
-135,9,,,,,,,21,,,,0,,"",False
-136,9,,,,,,,21,,,,0,,"",False
-137,9,,,,,,,21,,,,0,,"",False
-138,9,,,,,,,21,,,,0,,"",False
-139,9,,,,,,,21,,,,0,,"",False
-140,9,,,,,,,21,,,,0,,"",False
-141,9,,,,,,,21,,,,0,,"",False
-142,9,,,,,,,21,,,,0,,"",False
+123,5,"Reprimand",,,,,,21,"ENpcBase#1005244","Level#4270098","Ballroom Etiquette - Refined Reproaches",0,,"",False
+124,9,,,,,,,21,"ENpcBase#1038441","Level#9159882","Paladin Framer's Kit",0,,"",False
+125,9,,,,,,,21,"ENpcBase#1038441","Level#9159882","Warrior Framer's Kit",0,,"",False
+126,9,,,,,,,21,"ENpcBase#1038441","Level#9159882","Dark Knight Framer's Kit",0,,"",False
+127,9,,,,,,,21,"ENpcBase#1038441","Level#9159882","Gunbreaker Framer's Kit",0,,"",False
+128,9,,,,,,,21,"ENpcBase#1038441","Level#9159882","White Mage Framer's Kit",0,,"",False
+129,9,,,,,,,21,"ENpcBase#1038441","Level#9159882","Scholar Framer's Kit",0,,"",False
+130,9,,,,,,,21,"ENpcBase#1038441","Level#9159882","Astrologian Framer's Kit",0,,"",False
+131,9,,,,,,,21,"ENpcBase#1038441","Level#9159882","Sage Framer's Kit",0,,"",False
+132,9,,,,,,,21,"ENpcBase#1038441","Level#9159882","Monk Framer's Kit",0,,"",False
+133,9,,,,,,,21,"ENpcBase#1038441","Level#9159882","Dragoon Framer's Kit",0,,"",False
+134,9,,,,,,,21,"ENpcBase#1038441","Level#9159882","Ninja Framer's Kit",0,,"",False
+135,9,,,,,,,21,"ENpcBase#1038441","Level#9159882","Samurai Framer's Kit",0,,"",False
+136,9,,,,,,,21,"ENpcBase#1038441","Level#9159882","Reaper Framer's Kit",0,,"",False
+137,9,,,,,,,21,"ENpcBase#1038441","Level#9159882","Bard Framer's Kit",0,,"",False
+138,9,,,,,,,21,"ENpcBase#1038441","Level#9159882","Machinist Framer's Kit",0,,"",False
+139,9,,,,,,,21,"ENpcBase#1038441","Level#9159882","Dancer Framer's Kit",0,,"",False
+140,9,,,,,,,21,"ENpcBase#1038441","Level#9159882","Black Mage Framer's Kit",0,,"",False
+141,9,,,,,,,21,"ENpcBase#1038441","Level#9159882","Summoner Framer's Kit",0,,"",False
+142,9,,,,,,,21,"ENpcBase#1038441","Level#9159882","Red Mage Framer's Kit",0,,"",False
 143,9,,,,,,,14,,,,0,,"",True
 144,9,,,,,,,14,,,,0,,"",True
 145,9,,,,,,,11,"Top Tier",,,0,,"",True
 146,11,,,,,,,11,"Crystal in the Rough",,,0,,"",True
 147,11,,,,,,,11,"Ranked and Filed",,,0,,"",True
-148,11,,,,,,,13,,,,0,,"",True
-149,11,,,,,,,13,,,,0,,"",True
-150,11,,,,,,,13,,,,0,,"",True
-151,11,,,,,,,13,,,,0,,"",True
-152,11,,,,,,,13,,,,0,,"",True
-153,9,,,,,,,13,,,,0,,"",True
+148,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+149,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+150,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+151,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+152,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+153,9,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
 154,2,,,,,,,9,,,,0,,"",False
 155,2,,,,,,,10,,,,0,,"",False
 156,1,"The Rematch",,,,,,2,"The Rematch",,,1,"On Holy Ground","Obtained from gladiator quest progression.",False
@@ -327,21 +327,21 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 323,9,,,,,,,11,"Top Tier: Season Two",,,0,,"",True
 324,11,,,,,,,11,"Crystal in the Rough: Season Two",,,0,,"",True
 325,11,,,,,,,11,"Ranked and Filed: Season Two",,,0,,"",True
-326,11,,,,,,,13,,,,0,,"",True
-327,11,,,,,,,13,,,,0,,"",True
-328,11,,,,,,,13,,,,0,,"",True
-329,11,,,,,,,13,,,,0,,"",True
-330,11,,,,,,,13,,,,0,,"",True
-331,9,,,,,,,13,,,,0,,"",True
+326,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+327,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+328,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+329,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+330,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+331,9,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
 332,9,,,,,,,11,"Top Tier: Season Three",,,0,,"",True
 333,11,,,,,,,11,"Crystal in the Rough: Season Three",,,0,,"",True
 334,11,,,,,,,11,"Ranked and Filed: Season Three",,,0,,"",True
-335,11,,,,,,,13,,,,0,,"",True
-336,11,,,,,,,13,,,,0,,"",True
-337,11,,,,,,,13,,,,0,,"",True
-338,11,,,,,,,13,,,,0,,"",True
-339,11,,,,,,,13,,,,0,,"",True
-340,9,,,,,,,13,,,,0,,"",True
+335,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+336,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+337,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+338,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+339,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+340,9,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
 341,9,,,,,,,14,,,,0,,"",False
 342,9,,,,,,,14,,,,0,,"",False
 343,9,,,,,,,24,,,,3,,"Obtained from Endwalker sidequest progression.",False
@@ -413,28 +413,28 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 409,9,,,,,,,11,"Top Tier: Season Four",,,0,,"",True
 410,11,,,,,,,11,"Crystal in the Rough: Season Four",,,0,,"",True
 411,11,,,,,,,11,"Ranked and Filed: Season Four",,,0,,"",True
-412,9,,,,,,,13,,,,0,,"",True
-413,11,,,,,,,13,,,,0,,"",True
-414,11,,,,,,,13,,,,0,,"",True
-415,11,,,,,,,13,,,,0,,"",True
-416,11,,,,,,,13,,,,0,,"",True
-417,11,,,,,,,13,,,,0,,"",True
+412,9,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+413,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+414,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+415,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+416,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+417,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
 418,9,,,,,,,11,"Top Tier: Season Five",,,0,,"",True
 419,11,,,,,,,11,"Crystal in the Rough: Season Five",,,0,,"",True
 420,11,,,,,,,11,"Ranked and Filed: Season Five",,,0,,"",True
-421,9,,,,,,,13,,,,0,,"",True
-422,11,,,,,,,13,,,,0,,"",True
-423,11,,,,,,,13,,,,0,,"",True
-424,11,,,,,,,13,,,,0,,"",True
-425,11,,,,,,,13,,,,0,,"",True
-426,11,,,,,,,13,,,,0,,"",True
+421,9,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+422,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+423,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+424,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+425,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+426,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
 427,9,,,,,,,14,,,,0,,"",False
 428,9,,,,,,,14,,,,0,,"",False
 429,9,,,,,,,17,,,,1," Forever and a Dream","Obtained from Shadowbringers tribal quest progression.",False
 430,9,,,,,,,17,,,,1," Glory Be to the Scree","Obtained from Shadowbringers tribal quest progression.",False
 431,9,,,,,,,17,,,,1," Tanks for the Memory","Obtained from Shadowbringers tribal quest progression.",False
 432,9,,,,,,,17,,,,1," The Hippo Riders","Obtained from Endwalker tribal quest progression.",False
-433,0,,,,,,,0,,,,0,,"",False
+433,9,,,,,,,17,,,,1," Dreams Come True","Obtained from Endwalker tribal quest progression.",False
 434,0,,,,,,,0,,,,0,,"",False
 435,6,"heavy hatchling",,,,,,16,,,,1,"It Could Happen to You","Obtained from A Realm Reborn sidequest progression.",False
 436,6,"slime puddle",,,,,,31,,,,4,"Copperbell Mines (Hard)","Obtained by clearing the relevant dungeon from A Realm Reborn.",False
@@ -466,8 +466,8 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 462,6,"wind-up Tataru",,,,,,12,"Wind-up Tataru",,,1,"The Ultimate Weapon","Obtained from Seventh Umbral Era main scenario quest progression.",False
 463,6,"wind-up Cid",,,,,,2,"A Difference of Opinion",,,1,"Bolt, Chain, and Island","Obtained from Heavensward main scenario quest progression.",False
 464,6,"Felicitous Fuzzball",,,,,,25,,,,1,"Seeking Sanctuary","Obtained from Endwalker sidequest progression.",False
-465,0,,,,,,,0,,,,0,,"",False
-466,0,,,,,,,0,,,,0,,"",False
+465,9,,,,,,,20,,,,1,"Delve into Myth","Obtained from Endwalker sidequest progression.",False
+466,9,,,,,,,20,,,,1,"Orthos Unveiled","Obtained from Endwalker sidequest progression.",False
 467,1,"The Fifth Lord",,,,,,2,"The Fifth Lord",,,1,"Surpassing the Samurai","Obtained from Stormblood: Chronicles of a New Era quest progression.",False
 468,9,,,,,,,25,,,,1,"Seeking Sanctuary","Obtained from Endwalker sidequest progression.",False
 469,9,,,,,,,25,,,,1,"Seeking Sanctuary","Obtained from Endwalker sidequest progression.",False

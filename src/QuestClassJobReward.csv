@@ -301,52 +301,52 @@ int32,ClassJobCategory,Item,Item,Item,Item,byte,byte,byte,byte,Item,Item,Item,It
 23.16,"DNC","Manderville Chakrams","","","",1,0,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
 23.17,"RPR","Manderville Scythe","","","",1,0,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
 23.18,"SGE","Manderville Milpreves","","","",1,0,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
-24.0,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-24.1,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-24.2,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-24.3,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-24.4,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-24.5,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-24.6,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-24.7,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-24.8,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-24.9,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-24.10,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-24.11,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-24.12,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-24.13,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-24.14,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-24.15,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-24.16,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-24.17,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-24.18,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-25.0,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-25.1,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-25.2,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-25.3,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-25.4,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-25.5,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-25.6,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-25.7,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-25.8,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-25.9,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-25.10,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-26.0,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-26.1,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-26.2,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-26.3,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-26.4,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-26.5,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-26.6,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-26.7,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-26.8,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-26.9,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-26.10,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-27.0,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-27.1,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-27.2,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-27.3,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-27.4,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-27.5,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-27.6,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-27.7,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
+24.0,"PLD","Amazing Manderville Sword","Amazing Manderville Kite Shield","","",1,1,0,0,"Manderville Sword","Manderville Kite Shield","","",1,1,0,0,False,False,False,False,True,True,True,True
+24.1,"MNK","Amazing Manderville Knuckles","","","",1,0,0,0,"Manderville Knuckles","","","",1,0,0,0,False,False,False,False,True,True,True,True
+24.2,"WAR","Amazing Manderville Axe","","","",1,0,0,0,"Manderville Axe","","","",1,0,0,0,False,False,False,False,True,True,True,True
+24.3,"DRG","Amazing Manderville Spear","","","",1,0,0,0,"Manderville Spear","","","",1,0,0,0,False,False,False,False,True,True,True,True
+24.4,"BRD","Amazing Manderville Harp Bow","","","",1,0,0,0,"Manderville Harp Bow","","","",1,0,0,0,False,False,False,False,True,True,True,True
+24.5,"WHM","Amazing Manderville Cane","","","",1,0,0,0,"Manderville Cane","","","",1,0,0,0,False,False,False,False,True,True,True,True
+24.6,"BLM","Amazing Manderville Rod","","","",1,0,0,0,"Manderville Rod","","","",1,0,0,0,False,False,False,False,True,True,True,True
+24.7,"SMN","Amazing Manderville Index","","","",1,0,0,0,"Manderville Index","","","",1,0,0,0,False,False,False,False,True,True,True,True
+24.8,"SCH","Amazing Manderville Codex","","","",1,0,0,0,"Manderville Codex","","","",1,0,0,0,False,False,False,False,True,True,True,True
+24.9,"NIN","Amazing Manderville Knives","","","",1,0,0,0,"Manderville Knives","","","",1,0,0,0,False,False,False,False,True,True,True,True
+24.10,"DRK","Amazing Manderville Zweihander","","","",1,0,0,0,"Manderville Zweihander","","","",1,0,0,0,False,False,False,False,True,True,True,True
+24.11,"MCH","Amazing Manderville Revolver","","","",1,0,0,0,"Manderville Revolver","","","",1,0,0,0,False,False,False,False,True,True,True,True
+24.12,"AST","Amazing Manderville Torquetum","","","",1,0,0,0,"Manderville Torquetum","","","",1,0,0,0,False,False,False,False,True,True,True,True
+24.13,"SAM","Amazing Manderville Samurai Blade","","","",1,0,0,0,"Manderville Samurai Blade","","","",1,0,0,0,False,False,False,False,True,True,True,True
+24.14,"RDM","Amazing Manderville Rapier","","","",1,0,0,0,"Manderville Rapier","","","",1,0,0,0,False,False,False,False,True,True,True,True
+24.15,"GNB","Amazing Manderville Gunblade","","","",1,0,0,0,"Manderville Gunblade","","","",1,0,0,0,False,False,False,False,True,True,True,True
+24.16,"DNC","Amazing Manderville Chakrams","","","",1,0,0,0,"Manderville Chakrams","","","",1,0,0,0,False,False,False,False,True,True,True,True
+24.17,"RPR","Amazing Manderville Scythe","","","",1,0,0,0,"Manderville Scythe","","","",1,0,0,0,False,False,False,False,True,True,True,True
+24.18,"SGE","Amazing Manderville Milpreves","","","",1,0,0,0,"Manderville Milpreves","","","",1,0,0,0,False,False,False,False,True,True,True,True
+25.0,"CRP","Augmented Splendorous Saw","","","",1,0,0,0,"Splendorous Saw","Splendorous Carpenter's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
+25.1,"BSM","Augmented Splendorous Cross-pein Hammer","","","",1,0,0,0,"Splendorous Cross-pein Hammer","Splendorous Blacksmith's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
+25.2,"ARM","Augmented Splendorous Raising Hammer","","","",1,0,0,0,"Splendorous Raising Hammer","Splendorous Armorer's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
+25.3,"GSM","Augmented Splendorous Mallet","","","",1,0,0,0,"Splendorous Mallet","Splendorous Goldsmith's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
+25.4,"LTW","Augmented Splendorous Knife","","","",1,0,0,0,"Splendorous Knife","Splendorous Leatherworker's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
+25.5,"WVR","Augmented Splendorous Needle","","","",1,0,0,0,"Splendorous Needle","Splendorous Weaver's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
+25.6,"ALC","Augmented Splendorous Alembic","","","",1,0,0,0,"Splendorous Alembic","Splendorous Alchemist's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
+25.7,"CUL","Augmented Splendorous Frypan","","","",1,0,0,0,"Splendorous Frypan","Splendorous Culinarian's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
+25.8,"MIN","Augmented Splendorous Pickaxe","","","",1,0,0,0,"Splendorous Pickaxe","Splendorous Miner's Component","Splendorous Water Shard","",1,180,180,0,False,False,False,False,True,False,False,True
+25.9,"BTN","Augmented Splendorous Hatchet","","","",1,0,0,0,"Splendorous Hatchet","Splendorous Botanist's Component","Splendorous Earth Shard","",1,180,180,0,False,False,False,False,True,False,False,True
+25.10,"FSH","Augmented Splendorous Fishing Rod","","","",1,0,0,0,"Splendorous Fishing Rod","Splendorous Fishing Rod Component","Splendorous Fishing Reel Component","",1,60,60,0,False,False,False,False,True,False,False,True
+26.0,"CRP","Crystalline Saw","","","",1,0,0,0,"Augmented Splendorous Saw","Adaptive Carpenter's Component","","",1,90,0,0,False,False,False,False,True,False,True,True
+26.1,"BSM","Crystalline Cross-pein Hammer","","","",1,0,0,0,"Augmented Splendorous Cross-pein Hammer","Adaptive Blacksmith's Component","","",1,90,0,0,False,False,False,False,True,False,True,True
+26.2,"ARM","Crystalline Raising Hammer","","","",1,0,0,0,"Augmented Splendorous Raising Hammer","Adaptive Armorer's Component","","",1,90,0,0,False,False,False,False,True,False,True,True
+26.3,"GSM","Crystalline Mallet","","","",1,0,0,0,"Augmented Splendorous Mallet","Adaptive Goldsmith's Component","","",1,90,0,0,False,False,False,False,True,False,True,True
+26.4,"LTW","Crystalline Round Knife","","","",1,0,0,0,"Augmented Splendorous Knife","Adaptive Leatherworker's Component","","",1,90,0,0,False,False,False,False,True,False,True,True
+26.5,"WVR","Crystalline Needle","","","",1,0,0,0,"Augmented Splendorous Needle","Adaptive Weaver's Component","","",1,90,0,0,False,False,False,False,True,False,True,True
+26.6,"ALC","Crystalline Alembic","","","",1,0,0,0,"Augmented Splendorous Alembic","Adaptive Alchemist's Component","","",1,90,0,0,False,False,False,False,True,False,True,True
+26.7,"CUL","Crystalline Frypan","","","",1,0,0,0,"Augmented Splendorous Frypan","Adaptive Culinarian's Component","","",1,90,0,0,False,False,False,False,True,False,True,True
+26.8,"MIN","Crystalline Pickaxe","","","",1,0,0,0,"Augmented Splendorous Pickaxe","Adaptive Miner's Component","Adaptive Fire Crystal","",1,210,210,0,False,False,False,False,True,False,False,True
+26.9,"BTN","Crystalline Hatchet","","","",1,0,0,0,"Augmented Splendorous Hatchet","Adaptive Botanist's Component","Adaptive Lightning Crystal","",1,210,210,0,False,False,False,False,True,False,False,True
+26.10,"FSH","Crystalline Fishing Rod","","","",1,0,0,0,"Augmented Splendorous Fishing Rod","Adaptive Fishing Rod Component","Adaptive Fishing Reel Component","",1,80,80,0,False,False,False,False,True,False,False,True
+27.0,"CRP","Loporrit Carat","Wind Crystal","","",1,25,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
+27.1,"BSM","Loporrit Carat","Fire Crystal","","",1,25,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
+27.2,"ARM","Loporrit Carat","Ice Crystal","","",1,25,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
+27.3,"GSM","Loporrit Carat","Wind Crystal","","",1,25,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
+27.4,"LTW","Loporrit Carat","Earth Crystal","","",1,25,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
+27.5,"WVR","Loporrit Carat","Lightning Crystal","","",1,25,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
+27.6,"ALC","Loporrit Carat","Water Crystal","","",1,25,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True
+27.7,"CUL","Loporrit Carat","Fire Crystal","","",1,25,0,0,"","","","",0,0,0,0,False,False,False,False,True,True,True,True

@@ -981,7 +981,7 @@ int32,FurnitureCatalogCategory,Item,uint16
 977,"Flags/Frames/Posters","Bill of Deepest Contrition (L-3)",620
 978,"Flags/Frames/Posters","Bill of Deepest Contrition (L-4)",620
 979,"Flags/Frames/Posters","Bill of Deepest Contrition (L-5)",620
-980,"Tables","",0
+980,"Tables","Simple Low Table",630
 981,"Miscellaneous","Flower Boucage",630
 982,"Miscellaneous","Faerie Door",630
 983,"Chairs/Sofas","Rattan Sofa",630
@@ -990,15 +990,15 @@ int32,FurnitureCatalogCategory,Item,uint16
 986,"Miscellaneous","Timeworn Thaumaturgic Array",630
 987,"Miscellaneous","Darkest Hourglass",630
 988,"Miscellaneous","Classical Water Jug",630
-989,"Tables","",0
-990,"Tables","",0
+989,"Miscellaneous","Allagan Terminal Alpha",630
+990,"Miscellaneous","Allagan Terminal Beta",630
 991,"Miscellaneous","Toy Cooking Set",630
-992,"Tables","",0
+992,"Chairs/Sofas","Lalafell Lifter",630
 993,"Interactive Furnishings","Alpine Partition",630
 994,"Walls/Pillars/Partitions","Alpine Partition Door",630
 995,"Walls/Pillars/Partitions","Alpine Pillar",630
 996,"Clocks","Enigma Wall Chronometer",630
-997,"Tables","",0
+997,"Rugs","Rainbow Hopping Rug",630
 998,"Lighting","Hannish Pendant Wall Light",630
 999,"Walls/Pillars/Partitions","Hannish Screen",630
 1000,"Beds","Hannish Bed",630

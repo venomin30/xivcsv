@@ -109,10 +109,10 @@ int32,GatheringType,ClassJob,Quest,uint16,Item,str,byte
 2269,"Quarrying","miner"," And Another Question...",0,"","",0
 2270,"Logging","botanist"," And Another Question...",0,"","",0
 2271,"Logging","botanist"," And Another Question...",0,"","",0
-2272,"Mining","adventurer",,0,"","",0
-2273,"Mining","adventurer",,0,"","",0
-2274,"Mining","adventurer",,0,"","",0
-2275,"Mining","adventurer",,0,"","",0
+2272,"Quarrying","miner","An Original Improvement",2014,"","Geological Resources",0
+2273,"Quarrying","miner","An Original Improvement",2014,"","モーエンツール：鉱物資源",0
+2274,"Logging","botanist","An Original Improvement",2014,"","Botanical Resources",0
+2275,"Logging","botanist","An Original Improvement",2014,"","モーエンツール：草木資源",0
 2276,"Mining","adventurer",,0,"","",0
 2277,"Mining","adventurer",,0,"","",0
 2278,"Mining","adventurer",,0,"","",0

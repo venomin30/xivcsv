@@ -1562,12 +1562,12 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint32,bit&02,uint32,byte,
 10829,"Cotton-like Plant","GatheringItemLevelConvertTable#430",False,,0,False,0,0,65535
 10830,"Elysian Herb","GatheringItemLevelConvertTable#430",False,,0,False,0,0,65535
 10831,"Fibrous Kelp","GatheringItemLevelConvertTable#430",False,,0,False,0,0,65535
-10832,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10833,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10834,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10835,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10836,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10837,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10838,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10839,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10832,"Connoisseur's Prismstone","GatheringItemLevelConvertTable#570",True,,0,False,0,1,160
+10833,"Splendorous Water Shard","GatheringItemLevelConvertTable#570",True,,0,True,0,0,65535
+10834,"Connoisseur's Wattle Petribark","GatheringItemLevelConvertTable#570",True,,0,False,0,1,160
+10835,"Splendorous Earth Shard","GatheringItemLevelConvertTable#570",True,,0,True,0,0,65535
+10836,"Connoisseur's Red Malachite","GatheringItemLevelConvertTable#590",True,,0,False,0,1,161
+10837,"Adaptive Fire Crystal","GatheringItemLevelConvertTable#590",True,,0,True,0,0,65535
+10838,"Connoisseur's Levin Mint","GatheringItemLevelConvertTable#590",True,,0,False,0,1,161
+10839,"Adaptive Lightning Crystal","GatheringItemLevelConvertTable#590",True,,0,True,0,0,65535
 10840,"Timeworn Ophiotauroskin Map","GatheringItemLevelConvertTable#560",False,,0,False,0,0,65535

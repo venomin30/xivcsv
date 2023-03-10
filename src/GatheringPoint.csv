@@ -4435,29 +4435,29 @@ int32,byte,byte,GatheringPointBase,byte,GatheringPointBonus,GatheringPointBonus,
 34431,1,0,"GatheringPointBase#922",4,"GatheringPointBonus#215","GatheringPointBonus#0","n4f3","Garik",
 34432,1,0,"GatheringPointBase#922",4,"GatheringPointBonus#0","GatheringPointBonus#0","n4f3","Garik",
 34433,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
-34434,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
+34434,1,0,"GatheringPointBase#923",4,"GatheringPointBonus#107","GatheringPointBonus#0","n4f1","Northern Staging Point","Botanical Resources"
 34435,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
-34436,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
+34436,1,0,"GatheringPointBase#923",4,"GatheringPointBonus#107","GatheringPointBonus#0","n4f1","Northern Staging Point","Botanical Resources"
 34437,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
-34438,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
+34438,1,0,"GatheringPointBase#923",4,"GatheringPointBonus#107","GatheringPointBonus#0","n4f1","Northern Staging Point","Botanical Resources"
 34439,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
-34440,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
+34440,1,0,"GatheringPointBase#924",4,"GatheringPointBonus#77","GatheringPointBonus#0","n4f4","Timh Gyeus","Geological Resources"
 34441,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
-34442,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
+34442,1,0,"GatheringPointBase#924",4,"GatheringPointBonus#77","GatheringPointBonus#0","n4f4","Timh Gyeus","Geological Resources"
 34443,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
-34444,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
+34444,1,0,"GatheringPointBase#924",4,"GatheringPointBonus#77","GatheringPointBonus#0","n4f4","Timh Gyeus","Geological Resources"
 34445,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
-34446,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
+34446,1,0,"GatheringPointBase#925",4,"GatheringPointBonus#90","GatheringPointBonus#0","n4f3","Samiel's Backbone","Geological Resources"
 34447,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
-34448,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
+34448,1,0,"GatheringPointBase#925",4,"GatheringPointBonus#90","GatheringPointBonus#0","n4f3","Samiel's Backbone","Geological Resources"
 34449,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
-34450,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
+34450,1,0,"GatheringPointBase#925",4,"GatheringPointBonus#90","GatheringPointBonus#0","n4f3","Samiel's Backbone","Geological Resources"
 34451,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
-34452,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
+34452,1,0,"GatheringPointBase#926",4,"GatheringPointBonus#91","GatheringPointBonus#0","n4f2","Flue Bridge","Botanical Resources"
 34453,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
-34454,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
+34454,1,0,"GatheringPointBase#926",4,"GatheringPointBonus#91","GatheringPointBonus#0","n4f2","Flue Bridge","Botanical Resources"
 34455,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
-34456,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
+34456,1,0,"GatheringPointBase#926",4,"GatheringPointBonus#91","GatheringPointBonus#0","n4f2","Flue Bridge","Botanical Resources"
 34457,1,0,"GatheringPointBase#927",4,"GatheringPointBonus#201","GatheringPointBonus#0","n4f6","The Norvrandt Slope",
 34458,1,0,"GatheringPointBase#927",4,"GatheringPointBonus#0","GatheringPointBonus#0","n4f6","The Norvrandt Slope",
 34459,1,0,"GatheringPointBase#927",4,"GatheringPointBonus#209","GatheringPointBonus#0","n4f6","The Norvrandt Slope",

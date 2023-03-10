@@ -54,30 +54,30 @@ int32,Item,bit&01,byte,byte,byte,uint32,bit&02,byte,byte,byte
 50,"Resplendent Culinarian's Material B",False,1,2,0,0,False,0,0,0
 51,"Resplendent Culinarian's Material C",False,1,2,0,0,False,0,0,0
 52,"Resplendent Culinarian's Final Material",False,1,2,0,0,False,0,0,0
-53,"",False,1,3,0,0,False,0,0,0
-54,"",False,1,3,0,0,False,0,0,0
-55,"",False,1,3,0,0,False,0,0,0
-56,"",False,1,3,0,0,False,0,0,0
-57,"",False,1,3,0,0,False,0,0,0
-58,"",False,1,3,0,0,False,0,0,0
-59,"",False,1,3,0,0,False,0,0,0
-60,"",False,1,3,0,0,False,0,0,0
-61,"",False,1,3,0,0,False,0,0,0
-62,"",False,1,3,0,0,False,0,0,0
-63,"",False,1,3,0,0,False,0,0,0
-64,"",False,1,3,0,0,False,0,0,0
-65,"",False,1,3,0,0,False,0,0,0
-66,"",False,1,3,0,0,False,0,0,0
-67,"",False,1,3,0,0,False,0,0,0
-68,"",False,1,3,0,0,False,0,0,0
-69,"",False,1,3,0,0,False,0,0,0
-70,"",False,1,3,0,0,False,0,0,0
-71,"",False,1,2,3,0,False,0,0,0
-72,"",False,1,2,3,0,False,0,0,0
-73,"",False,1,3,0,0,False,0,0,0
-74,"",False,1,3,0,0,False,0,0,0
-75,"",False,1,2,3,0,False,0,0,0
-76,"",False,1,2,3,0,False,0,0,0
+53,"Splendorous Carpenter's Component",False,1,3,0,0,False,0,0,0
+54,"Splendorous Blacksmith's Component",False,1,3,0,0,False,0,0,0
+55,"Splendorous Armorer's Component",False,1,3,0,0,False,0,0,0
+56,"Splendorous Goldsmith's Component",False,1,3,0,0,False,0,0,0
+57,"Splendorous Leatherworker's Component",False,1,3,0,0,False,0,0,0
+58,"Splendorous Weaver's Component",False,1,3,0,0,False,0,0,0
+59,"Splendorous Alchemist's Component",False,1,3,0,0,False,0,0,0
+60,"Splendorous Culinarian's Component",False,1,3,0,0,False,0,0,0
+61,"Adaptive Carpenter's Component",False,1,3,0,0,False,0,0,0
+62,"Adaptive Blacksmith's Component",False,1,3,0,0,False,0,0,0
+63,"Adaptive Armorer's Component",False,1,3,0,0,False,0,0,0
+64,"Adaptive Goldsmith's Component",False,1,3,0,0,False,0,0,0
+65,"Adaptive Leatherworker's Component",False,1,3,0,0,False,0,0,0
+66,"Adaptive Weaver's Component",False,1,3,0,0,False,0,0,0
+67,"Adaptive Alchemist's Component",False,1,3,0,0,False,0,0,0
+68,"Adaptive Culinarian's Component",False,1,3,0,0,False,0,0,0
+69,"Splendorous Miner's Component",False,1,3,0,0,False,0,0,0
+70,"Splendorous Botanist's Component",False,1,3,0,0,False,0,0,0
+71,"Splendorous Fishing Rod Component",False,1,2,3,0,False,0,0,0
+72,"Splendorous Fishing Reel Component",False,1,2,3,0,False,0,0,0
+73,"Adaptive Miner's Component",False,1,3,0,0,False,0,0,0
+74,"Adaptive Botanist's Component",False,1,3,0,0,False,0,0,0
+75,"Adaptive Fishing Rod Component",False,1,2,3,0,False,0,0,0
+76,"Adaptive Fishing Reel Component",False,1,2,3,0,False,0,0,0
 77,"",False,0,0,0,0,False,0,0,0
 78,"",False,0,0,0,0,False,0,0,0
 79,"",False,0,0,0,0,False,0,0,0

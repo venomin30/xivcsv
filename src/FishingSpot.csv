@@ -205,7 +205,7 @@ int32,byte,str,str,byte,bit&01,TerritoryType,PlaceName,PlaceName,int16,int16,uin
 201,70,"","",2,False,"n4t1","","",1175,1530,600,4,"Crystal Knife","Laxan Carp","Crystarium Tetra","Skeletonfish","Loose Pendant","","","","","","Crystarium Personal Suites",193
 202,71,"","",2,False,"n4f1","","",1500,545,1200,4,"Eighteyes Eel","Hard Candy","Abyssal Snail","Water Ball","Albino Caiman","Sweetheart","","","","","The Rift of Sighs",194
 203,72,"","",2,False,"n4f1","","",545,1025,300,4,"Hard Candy","Abyssal Snail","Water Ball","Misty Killifish","Platinum Guppy","Moonlight Guppy","","","","","The Rusted Reservoir",195
-204,71,"","",2,False,"n4f1","","",585,1430,1500,4,"Hard Candy","Clean Saucer","Rabbit Skipper","Xanthic Bass","Albino Rock Crab","Laxan Inkhorn","","The Unforgiven","","","The Source",196
+204,71,"","",2,False,"n4f1","","",585,1430,1500,4,"Hard Candy","Clean Saucer","Rabbit Skipper","Xanthic Bass","Albino Rock Crab","Laxan Inkhorn","Platinum Seahorse","The Unforgiven","","","The Source",196
 205,72,"","",2,False,"n4f1","","",920,1740,900,4,"Hard Candy","Rabbit Skipper","Xanthic Bass","Snakeskin Discus","Python Discus","","","","","","Sullen",197
 206,75,"","",2,True,"n4f1","","",410,1830,900,4,"Hard Candy","Clean Saucer","Albino Garfish","Vicejaw","The Jaws of Undeath","Listracanthus","","","","","The Isle of Ken",198
 207,78,"","",2,False,"n4f2","","",1300,670,1200,4,"Skulleater","Toffee Snail","Watts Trout","Hucho Taimen","Winged Hatchetfish","Giant Taimen","","","","","Upper Watts River",199
@@ -213,20 +213,20 @@ int32,byte,str,str,byte,bit&01,TerritoryType,PlaceName,PlaceName,int16,int16,uin
 209,71,"","",2,False,"n4f2","","",1460,1300,1200,4,"Skulleater","Toffee Snail","Watts Trout","Zebra Catfish","White Ronso","","","","","","Lower Watts River",201
 210,71,"","",2,False,"n4f2","","",980,1160,1200,4,"Skulleater","Toffee Snail","Sepia Sole","Bronze Sole","","","","","","","Sharptongue Drip",202
 211,72,"","",1,False,"n4f2","","",370,1710,1800,4,"South Kholusian Cod","Kholusian Flounder","Shellfracture Kelp","Creamy Oyster","Rose Shrimp","Razorfish","Kholusian King Crab","Blue Crab","Steel Razor","","The Western Kholusian Coast",203
-212,75,"You see the flickering light of eyes beneath the waters.","The flickering light fades...",1,True,"n4f2","","",790,1740,600,4,"South Kholusian Cod","Kholusian Flounder","Blood Cloud","Shapeshifter","Minstrelfish","","Shadeshifter","Aquamaton","","","Seagazer Shoals",204
+212,75,"You see the flickering light of eyes beneath the waters.","The flickering light fades...",1,True,"n4f2","","",790,1740,600,4,"South Kholusian Cod","Kholusian Flounder","Blood Cloud","Shapeshifter","Minstrelfish","Clavekeeper","Shadeshifter","Aquamaton","","","Seagazer Shoals",204
 213,72,"","",1,False,"n4f2","","",1710,1740,1800,4,"South Kholusian Cod","Shellfracture Kelp","Blood Cloud","Spearhead Squid","Kholusian Wrasse","Weedy Seadragon","Henodus","Ondo Kelp","Henodus Grandis","","The Eastern Kholusian Coast",205
 214,72,"","",1,False,"n4t2","","",1025,1025,2400,4,"Milky Coral","Gravel Mussel","Bonefish","Crimson Sea Spider","Eulmore Butterfly","Red Hammerhead","Winged Dame","","","","The Derelicts",206
 215,71,"You sense eyes staring up at you from the sandy waters...","You no longer sense anything out of the ordinary.",3,False,"n4f3","","",1540,585,900,4,"Shadow Crab","Desert Dustfish","Sand Egg","Hornhelm","Web-footed Sand Gecko","The Horned King","Cinder Surprise","","","","The River of Sand",207
 216,77,"","",3,False,"n4f3","","",725,690,1200,4,"Garik Crab","Desert Dustfish","Web-footed Sand Gecko","Nabaath Manta","Amber Monkfish","Thorned Lizard","Ambling Caltrop","","","","The Hills of Amber",209
 217,72,"","",3,False,"n4f3","","",1500,1530,1500,4,"Shadow Crab","Desert Dustfish","Amber Lamprey","Hornhelm","Desert Saw","Areng Dire","Nabaath Saw","","","","The Nabaath Severance",208
-218,73,"","",2,False,"n4f4","","",165,1065,900,4,"Grey Skipper","Pixie Fish","Lemonfish","Wimple Carp","Faeshine Clam","","Leannisg","","","","Handmirror Lake",210
+218,73,"","",2,False,"n4f4","","",165,1065,900,4,"Grey Skipper","Pixie Fish","Lemonfish","Wimple Carp","Faeshine Clam","Mirror Image","Leannisg","","","","Handmirror Lake",210
 219,73,"","",2,False,"n4f4","","",1000,1090,2400,4,"Grey Skipper","Cerulean Loach","Official Ball","Rebel","Wild Red Betta","Fuchsia Bloom","The Sound of Fury","Ealad Skaan","","","Longmirror Lake",211
 220,74,"","",2,False,"n4f4","","",1050,405,600,2,"Grey Skipper","Cerulean Loach","Official Ball","Blood-eyed Frog","Spotted Ctenopoma","Sunken Tome","","","","","The Haughty One",212
 221,74,"","",2,False,"n4f4","","",1240,400,600,4,"Grey Skipper","Cerulean Loach","Blood-eyed Frog","Spotted Blue-eye","Fae Rainbow","","","","","","The Jealous One",213
 222,75,"","",2,True,"n4f4","","",1545,1065,300,4,"Grey Skipper","Pixie Fish","Official Ball","Toadhead","Celestial","","","","","","Father Collard's Failings",216
 223,74,"","",2,False,"n4f4","","",1395,625,1200,4,"Brightmirror Clam","Grey Skipper","Cerulean Loach","Cherry Herring","Dammroen Herring","","","","","","The Spoiled One",214
 224,74,"","",2,False,"n4f4","","",1695,1265,900,4,"Grey Skipper","Cerulean Loach","Blood-eyed Frog","Golden Lobster","Gold Hammer","","","","","","Saint Fathric's Temple",215
-225,70,"","",2,False,"n4f5","","",320,1385,1800,4,"Clawbow","Yellow Pipira","Robber Crab","Clown Tetra","Eryops","","Priest of Yx'Lokwa","Greater Serpent of Ronka","","","Lake Tusi Mek'ta",217
+225,70,"","",2,False,"n4f5","","",320,1385,1800,4,"Clawbow","Yellow Pipira","Robber Crab","Clown Tetra","Eryops","Spangled Pirarucu","Priest of Yx'Lokwa","Greater Serpent of Ronka","","","Lake Tusi Mek'ta",217
 226,70,"","",2,False,"n4f5","","",435,990,600,4,"Clawbow","Yellow Pipira","Oathfish","Darkroot","Diamond Pipira","Pearl Pipira","","","","","The Red Chalice",218
 227,70,"","",2,False,"n4f5","","",750,1025,900,4,"Clawbow","Yellow Pipira","Rak'tika Trout","Night's Bass","Black Tri-star","Black Jet","","","","","The Lozatl",219
 228,70,"","",2,False,"n4f5","","",1150,1530,1200,4,"Clawbow","Yellow Pipira","Rak'tika Trout","Night's Bass","Robber Crab","Silver Kitten","Recordkiller","","","","South Mjrl's Regret",220

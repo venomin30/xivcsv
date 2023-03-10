@@ -18,4 +18,4 @@ int32,bit&01,byte,BeastRankBonus,Image,Image,byte,ExVersion,Item,byte,str,sbyte,
 14,False,80,"BeastRankBonus#7","ui/icon/061000/061914.tex","ui/icon/065000/065079.tex",8,"Shadowbringers","Hammered Frogment",3,"dwarves",0,"",0,0,0,0,0,"Dwarf Relations"
 15,False,0,"BeastRankBonus#8","ui/icon/061000/061915.tex","ui/icon/065000/065092.tex",8,"Endwalker","Arkasodara Pana",3,"Arkasodara",0,"",0,0,0,0,0,"Arkasodara Relations"
 16,False,90,"BeastRankBonus#9","ui/icon/061000/061916.tex","ui/icon/065000/065093.tex",8,"Endwalker","Omicron Omnitoken",2,"Omicrons",0,"",0,0,0,0,0,"Omicron Relations"
-17,False,90,"BeastRankBonus#10","ui/icon/061000/061917.tex","ui/icon/065000/065101.tex",8,"Endwalker","",1,"レポリット族：ドリーミング・ワークショップ",0,"",0,0,0,0,0,"レポリット族友好度"
+17,False,90,"BeastRankBonus#10","ui/icon/061000/061917.tex","ui/icon/065000/065101.tex",8,"Endwalker","Loporrit Carat",1,"Loporrits",0,"",0,0,0,0,0,"Loporrit Relations"
