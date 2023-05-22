@@ -1789,7 +1789,7 @@ If neither team reaches the goal by the time limit, and progress for both teams 
 ・Should the opposing team have the greater progress score upon the commencement of overtime, you must beat their progress score during overtime to win.
 
 ・Should the teams have equal progress scores upon the commencement of overtime, you must beat the opposing team's progress score during overtime to win.","ui/icon/086000/086167.tex","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■The Tactical Crystal■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-The all-important object placed at the arena's centerpoint is called the “tactical crystal.” It will remain bound until the first 30 seconds of the match have passed.","ui/icon/086000/086165.tex","Once the tactical crystal is unbound, a ring will appear at its base. Should one team be fully in control of this ring─with no members of the opposing team present within its bounds─that team will be able to move the crystal.
+The all-important object placed at the arena's centerpoint is called the “tactical crystal.” It will remain bound until the first 20 seconds of the match have passed.","ui/icon/086000/086165.tex","Once the tactical crystal is unbound, a ring will appear at its base. Should one team be fully in control of this ring─with no members of the opposing team present within its bounds─that team will be able to move the crystal.
 
 The crystal can only be moved along the crystal line─a dedicated path within the arena. It will move faster when:
 ・It reaches a stretch of the line through which the same team has moved it before.
