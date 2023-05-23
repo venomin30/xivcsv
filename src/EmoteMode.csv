@@ -68,3 +68,7 @@ int32,Emote,Emote,bit&01,bit&02,bit&04,bit&08,byte,bit&10
 64,"Show Right","",True,False,False,False,3,False
 65,"Show Left","",True,False,False,False,3,False
 66,"Spirit","",True,False,False,False,3,False
+67,"Cheer On: Bright","",True,False,False,False,3,False
+68,"Cheer Wave: Violet","",True,False,False,False,3,False
+69,"Cheer Jump: Green","",True,False,False,False,3,False
+70,"","",True,False,False,False,3,False

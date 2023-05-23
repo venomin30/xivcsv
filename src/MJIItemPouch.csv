@@ -1,38 +1,38 @@
 ﻿key,0,1,2,3
 #,Item,Category,Crop,
 int32,Item,MJIItemCategory,MJICropSeed,byte
-0,"Island Palm Leaf","Material","",1
-1,"Island Apple","Material","",11
-2,"Island Branch","Material","",2
-3,"Island Stone","Material","",3
-4,"Island Clam","Material","",4
-5,"Island Laver","Material","",5
-6,"Island Coral","Material","",6
-7,"Islewort","Material","",7
-8,"Island Sand","Material","",8
-9,"Island Log","Material","",12
-10,"Island Palm Log","Material","",13
-11,"Island Vine","Material","",9
-12,"Island Sap","Material","",10
-13,"Island Copper Ore","Material","",14
-14,"Island Limestone","Material","",15
-15,"Island Rock Salt","Material","",16
-16,"Island Sugarcane","Material","",19
-17,"Island Cotton Boll","Material","",20
-18,"Island Hemp","Material","",21
-19,"Island Clay","Material","",17
-20,"Island Tinsand","Material","",18
-21,"Island Iron Ore","Material","",25
-22,"Island Quartz","Material","",26
-23,"Island Leucogranite","Material","",27
-24,"Islefish","Material","",22
-25,"Island Squid","Material","",23
-26,"Island Jellyfish","Material","",24
-27,"Island Alyssum","Material","",100
-28,"Raw Island Garnet","Material","",101
-29,"Island Spruce Log","Material","",102
-30,"Island Hammerhead","Material","",103
-31,"Island Silver Ore","Material","",104
+0,"Island Palm Leaf","Material","Diadochos Sword",1
+1,"Island Apple","Material","Diadochos Sword",11
+2,"Island Branch","Material","Diadochos Sword",2
+3,"Island Stone","Material","Diadochos Sword",3
+4,"Island Clam","Material","Diadochos Sword",4
+5,"Island Laver","Material","Diadochos Sword",5
+6,"Island Coral","Material","Diadochos Sword",6
+7,"Islewort","Material","Diadochos Sword",7
+8,"Island Sand","Material","Diadochos Sword",8
+9,"Island Log","Material","Diadochos Sword",12
+10,"Island Palm Log","Material","Diadochos Sword",13
+11,"Island Vine","Material","Diadochos Sword",9
+12,"Island Sap","Material","Diadochos Sword",10
+13,"Island Copper Ore","Material","Diadochos Sword",14
+14,"Island Limestone","Material","Diadochos Sword",15
+15,"Island Rock Salt","Material","Diadochos Sword",16
+16,"Island Sugarcane","Material","Diadochos Sword",19
+17,"Island Cotton Boll","Material","Diadochos Sword",20
+18,"Island Hemp","Material","Diadochos Sword",21
+19,"Island Clay","Material","Diadochos Sword",17
+20,"Island Tinsand","Material","Diadochos Sword",18
+21,"Island Iron Ore","Material","Diadochos Sword",25
+22,"Island Quartz","Material","Diadochos Sword",26
+23,"Island Leucogranite","Material","Diadochos Sword",27
+24,"Islefish","Material","Diadochos Sword",22
+25,"Island Squid","Material","Diadochos Sword",23
+26,"Island Jellyfish","Material","Diadochos Sword",24
+27,"Island Alyssum","Material","Diadochos Sword",100
+28,"Raw Island Garnet","Material","Diadochos Sword",101
+29,"Island Spruce Log","Material","Diadochos Sword",102
+30,"Island Hammerhead","Material","Diadochos Sword",103
+31,"Island Silver Ore","Material","Diadochos Sword",104
 32,"Island Popoto Set","Gardening Starter","Island Popoto",120
 33,"Island Cabbage Seeds","Gardening Starter","Island Cabbage",121
 34,"Isleberry Seeds","Gardening Starter","Isleberry",122
@@ -43,37 +43,53 @@ int32,Item,MJIItemCategory,MJICropSeed,byte
 39,"Island Corn Seeds","Gardening Starter","Island Corn",127
 40,"Island Parsnip Seeds","Gardening Starter","Island Parsnip",128
 41,"Island Radish Seeds","Gardening Starter","Island Radish",129
-42,"Island Popoto","Produce","",150
-43,"Island Cabbage","Produce","",151
-44,"Isleberry","Produce","",152
-45,"Island Pumpkin","Produce","",153
-46,"Island Onion","Produce","",154
-47,"Island Tomato","Produce","",155
-48,"Island Wheat","Produce","",156
-49,"Island Corn","Produce","",157
-50,"Island Parsnip","Produce","",158
-51,"Island Radish","Produce","",159
-52,"Sanctuary Fleece","Leavings","",200
-53,"Sanctuary Claw","Leavings","",201
-54,"Sanctuary Fur","Leavings","",202
-55,"Sanctuary Feather","Leavings","",203
-56,"Sanctuary Egg","Leavings","",204
-57,"Sanctuary Carapace","Leavings","",205
-58,"Sanctuary Fang","Leavings","",206
-59,"Sanctuary Horn","Leavings","",207
-60,"Sanctuary Milk","Leavings","",208
-61,"Island Sweetfeed","Feed","",209
-62,"Island Greenfeed","Feed","",210
-63,"Premium Island Greenfeed","Feed","",211
-64,"Makeshift Net","Restraint","",212
-65,"Makeshift Restraint","Restraint","",213
-66,"Makeshift Soporific","Restraint","",214
-67,"Island Resin","Material","",29
-68,"Island Coconut","Material","",30
-69,"Island Beehive Chip","Material","",31
-70,"Island Wood Opal","Material","",32
-71,"Multicolored Isleblooms","Material","",28
+42,"Island Popoto","Produce","Diadochos Sword",150
+43,"Island Cabbage","Produce","Diadochos Sword",151
+44,"Isleberry","Produce","Diadochos Sword",152
+45,"Island Pumpkin","Produce","Diadochos Sword",153
+46,"Island Onion","Produce","Diadochos Sword",154
+47,"Island Tomato","Produce","Diadochos Sword",155
+48,"Island Wheat","Produce","Diadochos Sword",156
+49,"Island Corn","Produce","Diadochos Sword",157
+50,"Island Parsnip","Produce","Diadochos Sword",158
+51,"Island Radish","Produce","Diadochos Sword",159
+52,"Sanctuary Fleece","Leavings","Diadochos Sword",200
+53,"Sanctuary Claw","Leavings","Diadochos Sword",201
+54,"Sanctuary Fur","Leavings","Diadochos Sword",202
+55,"Sanctuary Feather","Leavings","Diadochos Sword",203
+56,"Sanctuary Egg","Leavings","Diadochos Sword",204
+57,"Sanctuary Carapace","Leavings","Diadochos Sword",205
+58,"Sanctuary Fang","Leavings","Diadochos Sword",206
+59,"Sanctuary Horn","Leavings","Diadochos Sword",207
+60,"Sanctuary Milk","Leavings","Diadochos Sword",208
+61,"Island Sweetfeed","Feed","Diadochos Sword",209
+62,"Island Greenfeed","Feed","Diadochos Sword",210
+63,"Premium Island Greenfeed","Feed","Diadochos Sword",211
+64,"Makeshift Net","Restraint","Diadochos Sword",212
+65,"Makeshift Restraint","Restraint","Diadochos Sword",213
+66,"Makeshift Soporific","Restraint","Diadochos Sword",214
+67,"Island Resin","Material","Diadochos Sword",29
+68,"Island Coconut","Material","Diadochos Sword",30
+69,"Island Beehive Chip","Material","Diadochos Sword",31
+70,"Island Wood Opal","Material","Diadochos Sword",32
+71,"Multicolored Isleblooms","Material","Diadochos Sword",28
 72,"Island Paprika Seeds","Gardening Starter","Island Paprika",130
 73,"Island Leek Set","Gardening Starter","Island Leek",131
-74,"Island Paprika","Produce","",160
-75,"Island Leek","Produce","",161
+74,"Island Paprika","Produce","Diadochos Sword",160
+75,"Island Leek","Produce","Diadochos Sword",161
+76,"Island Coal","Material","Diadochos Sword",33
+77,"Island Shale","Material","Diadochos Sword",36
+78,"Island Glimshroom","Material","Diadochos Sword",34
+79,"Island Marble","Material","Diadochos Sword",37
+80,"Island Mythril Ore","Material","Diadochos Sword",38
+81,"Island Effervescent Water","Material","Diadochos Sword",35
+82,"Island Spectrine","Material","Diadochos Sword",39
+83,"Island Cave Shrimp","Material","Diadochos Sword",105
+84,"Island Runner Bean Seeds","Gardening Starter","Island Runner Beans",132
+85,"Island Beet Seeds","Gardening Starter","Island Beet",133
+86,"Island Eggplant Seeds","Gardening Starter","Island Eggplant",134
+87,"Island Zucchini Seeds","Gardening Starter","Island Zucchini",135
+88,"Island Runner Beans","Produce","Diadochos Sword",162
+89,"Island Beet","Produce","Diadochos Sword",163
+90,"Island Eggplant","Produce","Diadochos Sword",164
+91,"Island Zucchini","Produce","Diadochos Sword",165

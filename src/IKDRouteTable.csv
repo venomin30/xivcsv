@@ -1,147 +1,147 @@
-﻿key,0
-#,Route
-int32,IKDRoute
-0,"Bloodbrine Sea"
-1,"Rothlyt Sound"
-2,"Northern Strait of Merlthor"
-3,"Rhotano Sea"
-4,"Bloodbrine Sea"
-5,"Rothlyt Sound"
-6,"Northern Strait of Merlthor"
-7,"Rhotano Sea"
-8,"Bloodbrine Sea"
-9,"Rothlyt Sound"
-10,"Northern Strait of Merlthor"
-11,"Rhotano Sea"
-12,"Rothlyt Sound"
-13,"Northern Strait of Merlthor"
-14,"Rhotano Sea"
-15,"Bloodbrine Sea"
-16,"Rothlyt Sound"
-17,"Northern Strait of Merlthor"
-18,"Rhotano Sea"
-19,"Bloodbrine Sea"
-20,"Rothlyt Sound"
-21,"Northern Strait of Merlthor"
-22,"Rhotano Sea"
-23,"Bloodbrine Sea"
-24,"Northern Strait of Merlthor"
-25,"Rhotano Sea"
-26,"Bloodbrine Sea"
-27,"Rothlyt Sound"
-28,"Northern Strait of Merlthor"
-29,"Rhotano Sea"
-30,"Bloodbrine Sea"
-31,"Rothlyt Sound"
-32,"Northern Strait of Merlthor"
-33,"Rhotano Sea"
-34,"Bloodbrine Sea"
-35,"Rothlyt Sound"
-36,"Rhotano Sea"
-37,"Bloodbrine Sea"
-38,"Rothlyt Sound"
-39,"Northern Strait of Merlthor"
-40,"Rhotano Sea"
-41,"Bloodbrine Sea"
-42,"Rothlyt Sound"
-43,"Northern Strait of Merlthor"
-44,"Rhotano Sea"
-45,"Bloodbrine Sea"
-46,"Rothlyt Sound"
-47,"Northern Strait of Merlthor"
-48,"Bloodbrine Sea"
-49,"Rothlyt Sound"
-50,"Northern Strait of Merlthor"
-51,"Rhotano Sea"
-52,"Bloodbrine Sea"
-53,"Rothlyt Sound"
-54,"Northern Strait of Merlthor"
-55,"Rhotano Sea"
-56,"Bloodbrine Sea"
-57,"Rothlyt Sound"
-58,"Northern Strait of Merlthor"
-59,"Rhotano Sea"
-60,"Rothlyt Sound"
-61,"Northern Strait of Merlthor"
-62,"Rhotano Sea"
-63,"Bloodbrine Sea"
-64,"Rothlyt Sound"
-65,"Northern Strait of Merlthor"
-66,"Rhotano Sea"
-67,"Bloodbrine Sea"
-68,"Rothlyt Sound"
-69,"Northern Strait of Merlthor"
-70,"Rhotano Sea"
-71,"Bloodbrine Sea"
-72,"Northern Strait of Merlthor"
-73,"Rhotano Sea"
-74,"Bloodbrine Sea"
-75,"Rothlyt Sound"
-76,"Northern Strait of Merlthor"
-77,"Rhotano Sea"
-78,"Bloodbrine Sea"
-79,"Rothlyt Sound"
-80,"Northern Strait of Merlthor"
-81,"Rhotano Sea"
-82,"Bloodbrine Sea"
-83,"Rothlyt Sound"
-84,"Rhotano Sea"
-85,"Bloodbrine Sea"
-86,"Rothlyt Sound"
-87,"Northern Strait of Merlthor"
-88,"Rhotano Sea"
-89,"Bloodbrine Sea"
-90,"Rothlyt Sound"
-91,"Northern Strait of Merlthor"
-92,"Rhotano Sea"
-93,"Bloodbrine Sea"
-94,"Rothlyt Sound"
-95,"Northern Strait of Merlthor"
-96,"Bloodbrine Sea"
-97,"Rothlyt Sound"
-98,"Northern Strait of Merlthor"
-99,"Rhotano Sea"
-100,"Bloodbrine Sea"
-101,"Rothlyt Sound"
-102,"Northern Strait of Merlthor"
-103,"Rhotano Sea"
-104,"Bloodbrine Sea"
-105,"Rothlyt Sound"
-106,"Northern Strait of Merlthor"
-107,"Rhotano Sea"
-108,"Rothlyt Sound"
-109,"Northern Strait of Merlthor"
-110,"Rhotano Sea"
-111,"Bloodbrine Sea"
-112,"Rothlyt Sound"
-113,"Northern Strait of Merlthor"
-114,"Rhotano Sea"
-115,"Bloodbrine Sea"
-116,"Rothlyt Sound"
-117,"Northern Strait of Merlthor"
-118,"Rhotano Sea"
-119,"Bloodbrine Sea"
-120,"Northern Strait of Merlthor"
-121,"Rhotano Sea"
-122,"Bloodbrine Sea"
-123,"Rothlyt Sound"
-124,"Northern Strait of Merlthor"
-125,"Rhotano Sea"
-126,"Bloodbrine Sea"
-127,"Rothlyt Sound"
-128,"Northern Strait of Merlthor"
-129,"Rhotano Sea"
-130,"Bloodbrine Sea"
-131,"Rothlyt Sound"
-132,"Rhotano Sea"
-133,"Bloodbrine Sea"
-134,"Rothlyt Sound"
-135,"Northern Strait of Merlthor"
-136,"Rhotano Sea"
-137,"Bloodbrine Sea"
-138,"Rothlyt Sound"
-139,"Northern Strait of Merlthor"
-140,"Rhotano Sea"
-141,"Bloodbrine Sea"
-142,"Rothlyt Sound"
-143,"Northern Strait of Merlthor"
+﻿key,0,1
+#,Route,
+int32,IKDRoute,uint32
+0,"0",13
+1,"0",16
+2,"0",14
+3,"0",17
+4,"0",15
+5,"0",18
+6,"0",13
+7,"0",16
+8,"0",14
+9,"0",17
+10,"0",15
+11,"0",18
+12,"0",16
+13,"0",14
+14,"0",17
+15,"0",15
+16,"0",18
+17,"0",13
+18,"0",16
+19,"0",14
+20,"0",17
+21,"0",15
+22,"0",18
+23,"0",13
+24,"0",14
+25,"0",17
+26,"0",15
+27,"0",18
+28,"0",13
+29,"0",16
+30,"0",14
+31,"0",17
+32,"0",15
+33,"0",18
+34,"0",13
+35,"0",16
+36,"0",17
+37,"0",15
+38,"0",18
+39,"0",13
+40,"0",16
+41,"0",14
+42,"0",17
+43,"0",15
+44,"0",18
+45,"0",13
+46,"0",16
+47,"0",14
+48,"0",15
+49,"0",18
+50,"0",13
+51,"0",16
+52,"0",14
+53,"0",17
+54,"0",15
+55,"0",18
+56,"0",13
+57,"0",16
+58,"0",14
+59,"0",17
+60,"0",18
+61,"0",13
+62,"0",16
+63,"0",14
+64,"0",17
+65,"0",15
+66,"0",18
+67,"0",13
+68,"0",16
+69,"0",14
+70,"0",17
+71,"0",15
+72,"0",13
+73,"0",16
+74,"0",14
+75,"0",17
+76,"0",15
+77,"0",18
+78,"0",13
+79,"0",16
+80,"0",14
+81,"0",17
+82,"0",15
+83,"0",18
+84,"0",16
+85,"0",14
+86,"0",17
+87,"0",15
+88,"0",18
+89,"0",13
+90,"0",16
+91,"0",14
+92,"0",17
+93,"0",15
+94,"0",18
+95,"0",13
+96,"0",14
+97,"0",17
+98,"0",15
+99,"0",18
+100,"0",13
+101,"0",16
+102,"0",14
+103,"0",17
+104,"0",15
+105,"0",18
+106,"0",13
+107,"0",16
+108,"0",17
+109,"0",15
+110,"0",18
+111,"0",13
+112,"0",16
+113,"0",14
+114,"0",17
+115,"0",15
+116,"0",18
+117,"0",13
+118,"0",16
+119,"0",14
+120,"0",15
+121,"0",18
+122,"0",13
+123,"0",16
+124,"0",14
+125,"0",17
+126,"0",15
+127,"0",18
+128,"0",13
+129,"0",16
+130,"0",14
+131,"0",17
+132,"0",18
+133,"0",13
+134,"0",16
+135,"0",14
+136,"0",17
+137,"0",15
+138,"0",18
+139,"0",13
+140,"0",16
+141,"0",14
+142,"0",17
+143,"0",15

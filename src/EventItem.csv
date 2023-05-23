@@ -2255,7 +2255,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2002420,"cluster of tatsunoko roe",0,"clusters of tatsunoko roe",0,0,1,0,0,False,"Tatsunoko Roe","ui/icon/027000/027031.tex","",2,1," Tale of Roe",0,"normal/item_start",0
 2002421,"bottle of fine Hingan wine",0,"bottles of fine Hingan wine",0,0,1,0,0,False,"Fine Hingan Wine","ui/icon/025000/025051.tex","",1,1," Tale of Roe",0,"normal/item_start",0
 2002422,"Confederate explosive",0,"Confederate explosives",0,0,1,0,0,False,"Confederate Explosive","ui/icon/026000/026015.tex","",3,1," You Blow It Up",3,"normal/item_start",3
-2002423,"giant koromo octopus",0,"giant koromo octopi",0,0,1,0,0,False,"Giant Koromo Octopus","ui/icon/029000/029023.tex","",1,1," Tentacles of Trade",0,"normal/item_start",0
+2002423,"giant koromo octopus",0,"giant koromo octopodes",0,0,1,0,0,False,"Giant Koromo Octopus","ui/icon/029000/029023.tex","",1,1," Tentacles of Trade",0,"normal/item_start",0
 2002424,"handful of bitter pellets",0,"handfuls of bitter pellets",0,0,1,0,0,False,"Bitter Pellets","ui/icon/027000/027008.tex","",3,1," Disciplinary Action",3,"normal/item_start",0
 2002425,"Sarisha's letter",0,"Sarisha's letters",0,0,1,0,1,False,"Sarisha's Letter","ui/icon/026000/026171.tex","",1,1," Brooding Broodmother",0,"normal/item_start",0
 2002426,"pot of Kojin pickles",0,"pots of Kojin pickles",0,0,1,0,0,False,"Kojin Pickles","ui/icon/025000/025051.tex","",2,1," Pickles of Partnership",0,"normal/item_start",0
@@ -3034,7 +3034,6 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003253,"dispelling concept",0,"dispelling concepts",0,0,1,0,0,False,"Dispelling Concept","ui/icon/020000/020001.tex","Key Item",1,1," Searching for Eidos",3,"normal/item_start",0
 2003254,"glob of eidos slime",0,"globs of eidos slime",0,0,1,0,0,False,"Eidos Slime","ui/icon/059000/059451.tex","",1,1," Searching for Eidos",0,"normal/item_start",0
 2003255,"luminion core",0,"luminion cores",0,0,1,0,0,False,"Luminion Core","ui/icon/021000/021263.tex","",2,1," The Body Beautiful",0,"normal/item_start",0
-2003256,"未使用再利用可能",0,"",0,0,1,0,0,False,"",,"",1,1,,0,"normal/item_start",0
 2003257,"Dragonstar rougeblossom",0,"Dragonstar rougeblossoms",0,0,1,0,0,False,"Dragonstar Rougeblossom","ui/icon/025000/025633.tex","",1,1," Stars Like Gems",0,"normal/item_start",0
 2003258,"Dragonstar paleblossom",0,"Dragonstar paleblossoms",0,0,1,0,0,False,"Dragonstar Paleblossom","ui/icon/025000/025634.tex","",1,1," Stars Like Gems",0,"normal/item_start",0
 2003259,"page of stolen documentation",0,"pages of stolen documentation",0,0,1,0,0,False,"Stolen Documentation","ui/icon/026000/026151.tex","",99,1,,0,"normal/item_start",0
@@ -3209,3 +3208,9 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003456,"potentially special thief's map",0,"potentially special thief's maps",0,0,1,0,0,False,"Potentially Special Thief's Map","ui/icon/026000/026151.tex","Key Item",1,2,,0,"normal/item_start",0
 2003457,"ophiotauroskin treasure map",0,"ophiotauroskin treasure maps",0,1,1,0,0,False,"Ophiotauroskin Treasure Map","ui/icon/026000/026151.tex","Key Item",1,2,,0,"normal/item_start",0
 2003458,"ancient thief's map",0,"ancient thief's maps",0,1,1,0,0,False,"Ancient Thief's Map","ui/icon/026000/026151.tex","Key Item",1,2,,0,"normal/item_start",0
+2003461,"bag of spice",0,"bags of spice",0,0,1,0,0,False,"Bag of Spice","ui/icon/025000/025979.tex","",1,1,"Currying Flavor",0,"normal/item_start",0
+2003463,"conceivably special treasure map",0,"conceivably special treasure maps",0,0,1,0,0,False,"Conceivably Special Treasure Map","ui/icon/026000/026151.tex","Key Item",1,2,,0,"normal/item_start",0
+2003464,"conceivably special thief's map",0,"conceivably special thief's maps",0,0,1,0,0,False,"Conceivably Special Thief's Map","ui/icon/026000/026151.tex","Key Item",1,2,,0,"normal/item_start",0
+2003465,"packaged gift",0,"packaged gifts",0,0,1,0,0,False,"Packaged Gift","ui/icon/026000/026109.tex","Key Item",1,1,"Forever in Our Hearts",0,"normal/item_start",0
+2003466,"組紐のブレスレット",0,"",0,0,1,0,0,False,"","ui/icon/026000/026113.tex","",3,1,"星芒祭と子どもたちの輪",0,"normal/item_start",0
+2003467,"友人たちの名前入りブレスレット",0,"",0,0,1,0,0,False,"","ui/icon/026000/026107.tex","",1,1,"星芒祭と子どもたちの輪",0,"normal/item_start",0

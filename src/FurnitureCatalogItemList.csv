@@ -982,7 +982,7 @@ int32,FurnitureCatalogCategory,Item,uint16
 978,"Flags/Frames/Posters","Bill of Deepest Contrition (L-4)",620
 979,"Flags/Frames/Posters","Bill of Deepest Contrition (L-5)",620
 980,"Tables","Simple Low Table",630
-981,"Miscellaneous","Flower Boucage",630
+981,"Plants","Flower Boucage",630
 982,"Miscellaneous","Faerie Door",630
 983,"Chairs/Sofas","Rattan Sofa",630
 984,"Miscellaneous","Charcoal Iron",630
@@ -1015,3 +1015,44 @@ int32,FurnitureCatalogCategory,Item,uint16
 1011,"Miscellaneous","Simple Sink",630
 1012,"Miscellaneous","Crystal Tower Phasmascape",630
 1013,"Miscellaneous","Urth's Fount Phasmascape",630
+1014,"Tables","Botanist's Work Table",640
+1015,"Windows","Imitation Curtained Window",640
+1016,"Tables","Diadochos Sword",0
+1017,"Lighting","Botanical Candle Display",640
+1018,"Plants","Cieldalaes Planter",640
+1019,"Chairs/Sofas","Chair Hena",640
+1020,"Lighting","Classic Table Lamp",640
+1021,"Windows","Imitation Moonlit Window",640
+1022,"Shelves","Metal Pipe Wall Shelf",640
+1023,"Tableware/Foods","Steamed Shumai",640
+1024,"Tableware/Foods","Fried Gyoza",640
+1025,"Shelves","Floating Kitchen Cabinet",640
+1026,"Miscellaneous","Azure Sky Phasmascape",640
+1027,"Miscellaneous","Starry Sky Phasmascape",640
+1028,"Beds","Freestanding Rattan Hammock",640
+1029,"Miscellaneous","Classic Tableware",640
+1030,"Miscellaneous","Classic Umbrella Stand",640
+1031,"Tables","Rustic Log Table",640
+1032,"Chairs/Sofas","Rustic Log Bench",640
+1033,"Miscellaneous","Scattered Tomes",640
+1034,"Tables","Vintage Side Table",640
+1035,"Shelves/Chests","Short Pillar Bookshelf",640
+1036,"Tables","Diadochos Sword",0
+1037,"Lighting","Ivy Pendant Wall Light",640
+1038,"Lighting","Crystarium Pendant Wall Light",640
+1039,"Miscellaneous","Fishing Rod Rack",640
+1040,"Tables","Diadochos Sword",0
+1041,"Tables","Diadochos Sword",0
+1042,"Walls/Pillars/Partitions","Verdant Pillar",640
+1043,"Walls/Pillars/Partitions","Rattan Partition",640
+1044,"Tables","Diadochos Sword",0
+1045,"Tables","Diadochos Sword",0
+1046,"Miscellaneous","Imitation Closed Door",640
+1047,"Miscellaneous","Wall-mounted Pot Rack",640
+1048,"Miscellaneous","Serving Barrel",640
+1049,"Miscellaneous","Raw Log Half Partition",640
+1050,"Flags/Frames/Posters","Forever at Your Side",640
+1051,"Stuffed Toys/Figures","Drowned King Sculpture",640
+1052,"Stuffed Toys/Figures","Eventide Sword Stand",640
+1053,"Tables","Diadochos Sword",0
+1054,"Tables","Diadochos Sword",0

@@ -1,7 +1,7 @@
 ﻿key,0,1,2
 #,EurekaMagiciteItemType,ClassJobCategory,Item
 int32,EurekaMagiciteItemType,ClassJobCategory,Item
-0,"","",""
+0,"","","Diadochos Sword"
 1,"Offensive","WHM SCH AST SGE","Wisdom of the Aetherweaver"
 2,"Offensive","PLD WAR DRK GNB","Wisdom of the Martialist"
 3,"Protective","MNK DRG BRD WHM BLM SMN SCH NIN MCH AST SAM RDM DNC RPR SGE","Wisdom of the Platebearer"

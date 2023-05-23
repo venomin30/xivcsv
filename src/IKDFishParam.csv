@@ -1,7 +1,7 @@
 ﻿key,0,1,2
 #,Fish,IKDContentBonus,
 int32,FishParameter,IKDContentBonus,byte
-0,"","",0
+0,"Diadochos Sword","",0
 1,"Galadion Goby","",0
 2,"Galadion Chovy","",0
 3,"La Noscean Jelly","Jelled Together",0
@@ -142,3 +142,83 @@ int32,FishParameter,IKDContentBonus,byte
 138,"Crepe Sole","",0
 139,"Knifejaw","",0
 140,"Placodus","",0
+141,"Pink Shrimp","",42
+142,"Sirensong Mussel","Maximum Mussel",0
+143,"Arrowhead","Squid Squadron",0
+144,"Ruby Herring","",0
+145,"Whirlpool Turban","Maximum Mussel",0
+146,"Leopard Prawn","",42
+147,"Crimson Kelp","",0
+148,"Reef Squid","Squid Squadron",0
+149,"Pinebark Flounder","",0
+150,"Catching Carp","",0
+151,"Garlean Bluegill","",0
+152,"Yanxian Softshell","",0
+153,"Deepshade Sardine","",0
+154,"Sirensong Mullet","",0
+155,"Selkie Puffer","",0
+156,"Spear Squid","Squid Squadron",0
+157,"Floating Lantern","",0
+158,"Rubescent Tatsunoko","",0
+159,"Mantle Moray","",0
+160,"Shisui Goby","",0
+161,"Sanbaso","",0
+162,"Princess Salmon","",0
+163,"Calligraph","",0
+164,"Singular Shrimp","",42
+165,"Poet's Pipe","",0
+166,"Marine Matanga","",0
+167,"Hatatate","",0
+168,"Silent Shark","",0
+169,"Barded Lobster","",42
+170,"Violet Sentry","",0
+171,"Brocade Carp","",0
+172,"Yanxian Sturgeon","",0
+173,"Dusk Shark","",0
+174,"Mizuhiki","",0
+175,"Heavensent Shark","",0
+176,"Fishy Shark","",0
+177,"Mermaid Scale","Maximum Mussel",0
+178,"Broadhead","Squid Squadron",0
+179,"Vivid Pink Shrimp","",42
+180,"Sunken Coelacanth","",0
+181,"Siren's Sigh","",0
+182,"Black-jawed Helicoprion","",0
+183,"Impostopus","",0
+184,"Jade Shrimp","",0
+185,"Nymeia's Wheel","",0
+186,"Snapping Koban","",0
+187,"Silkweft Prawn","",42
+188,"Stingfin Trevally","",0
+189,"Swordtip Squid","Squid Squadron",0
+190,"Mailfish","",0
+191,"Idaten's Bolt","",0
+192,"Maelstrom Turban","Maximum Mussel",0
+193,"Shoshitsuki","",0
+194,"Spadefish","",0
+195,"Fleeting Squid","Squid Squadron",0
+196,"Bowbarb Lobster","",42
+197,"Pitch Pickle","",0
+198,"Senbei Octopus","",0
+199,"Tentacle Thresher","",0
+200,"Bekko Rockhugger","",0
+201,"Yellow Iris","",0
+202,"Crimson Sentry","",0
+203,"Flying Squid","Squid Squadron",0
+204,"Gensui Shrimp","",42
+205,"Yato-no-kami","",0
+206,"Heron's Eel","",0
+207,"Crowshadow Mussel","Maximum Mussel",0
+208,"Yanxian Goby","",0
+209,"Iridescent Trout","",0
+210,"Un-Namazu","",0
+211,"Gakugyo","",0
+212,"Ginrin Goshiki","",0
+213,"Spectral Coelacanth","",0
+214,"Spectral Wrasse","",0
+215,"Spectral Snake Eel","",0
+216,"Spectral Kotsu Zetsu","",0
+217,"Taniwha","",0
+218,"Glass Dragon","",0
+219,"Hells' Claw","",0
+220,"Jewel of Plum Spring","",0

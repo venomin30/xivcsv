@@ -186,7 +186,7 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 39.0,8468751,1,"The Great Ship Vylbrand",0,False,2,"A Trip to the Moon",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 40.0,8724610,2,"Brave New World",2,False,2,"Brave New World",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 40.1,8462348,2,"Brave New World",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-41.0,8754908,2,"Duty in the Sky with Diamond",7,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+41.0,8754908,2,"Duty in the Sky with Diamond",7,False,2,"Aggressive Expansion",1,False,2,"Aggressive Expansion",255,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 42.0,8773502,2,"Where Eagles Roost",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 42.1,8773523,2,"In Their Shadow",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 42.2,8773532,2,"In Their Shadow",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
@@ -205,17 +205,19 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 42.15,8715333,2,"A New Playing Field",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 43.0,8992911,2,"Once Forged",2,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 43.1,8872828,2,"Unto the Heavens",3,False,1,"Endwalker",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-43.2,9396828,2,"Truth Imperfect",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+43.2,9396828,2,"Truth Imperfect",255,False,2,"A Mother's Touch",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 44.0,8751915,2,"In the Dark of the Tower",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 44.1,9000193,2,"Beyond the Depths of Despair",2,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 44.2,9167820,1," Hippos Born to Run",0,False,1," A Pachyderm's Promptitude",0,False,1," Hippo Healing",0,False,1," Defiant Ogul, Deified!",0,False,1," Leader to Leader",0,False,0,,0,False,0,0,0,False
 45.0,8905301,2,"At the End of the Trail",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 45.1,8905079,2,"Alea Iacta Est",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-46.0,8465766,1,"Sea of Sorrow",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-46.1,8465762,2,"The Martyr",2,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+46.0,8465766,1,"Sea of Sorrow",0,False,1,"Lunar Rendezvous",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+46.1,8465762,2,"The Martyr",2,False,1,"Lunar Rendezvous",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 46.2,8794413,2,"The Martyr",2,False,2,"The Martyr",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 46.3,8464943,1,"In Shadow's Wake",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 46.4,9627908,1," Must Be Dreaming(way)",0,False,1," The Incredible Machines",0,False,1," Too Few Cooks",0,False,1," Teamwork Makes the Dream Work",0,False,1," A Million Malms Away",0,False,0,,0,False,0,0,0,False
+46.5,9808974,1,"Lunar Rendezvous",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+46.6,9838150,2,"The Red Side of the Moon",2,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 47.0,8964469,2,"Α Test of Wιll",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 47.1,8998095,2,"Α Test of Wιll",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 47.2,8998096,2,"Α Test of Wιll",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False

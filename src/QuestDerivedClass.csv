@@ -3,6 +3,7 @@
 int32,ClassJob
 0,"adventurer"
 65580,"goldsmith"
+66058,"astrologian"
 66219,"goldsmith"
 66220,"goldsmith"
 66221,"goldsmith"
@@ -126,3 +127,9 @@ int32,ClassJob
 70251,"adventurer"
 70252,"adventurer"
 70265,"rogue"
+70270,"ninja"
+70272,"marauder"
+70299,"dark knight"
+70307,"machinist"
+70308,"machinist"
+70320,"machinist"

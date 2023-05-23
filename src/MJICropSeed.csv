@@ -1,7 +1,7 @@
 ﻿key,0,1,2
 #,Item,SGB,Name
 int32,Item,ExportedSG,EObjName
-0,"",,
+0,"Diadochos Sword",,
 1,"Island Popoto","bgcommon/mji/feed/0001/asset/fee_f0_m0001.sgb","island popoto"
 2,"Island Cabbage","bgcommon/mji/feed/0006/asset/fee_f0_m0006.sgb","island cabbage"
 3,"Isleberry","bgcommon/mji/feed/0003/asset/fee_f0_m0003.sgb","isleberry"
@@ -14,3 +14,7 @@ int32,Item,ExportedSG,EObjName
 10,"Island Radish","bgcommon/mji/feed/0010/asset/fee_f0_m0010.sgb","island radish"
 11,"Island Paprika","bgcommon/mji/feed/0020/asset/fee_f0_m0020.sgb","island paprika"
 12,"Island Leek","bgcommon/mji/feed/0009/asset/fee_f0_m0009.sgb","island leek"
+13,"Island Runner Beans","bgcommon/mji/feed/0004/asset/fee_f0_m0004.sgb","island runner beanstalk"
+14,"Island Beet","bgcommon/mji/feed/0011/asset/fee_f0_m0011.sgb","island beet"
+15,"Island Eggplant","bgcommon/mji/feed/0014/asset/fee_f0_m0014.sgb","island eggplant"
+16,"Island Zucchini","bgcommon/mji/feed/0017/asset/fee_f0_m0017.sgb","island zucchini"

@@ -11,7 +11,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 7,"Battle",True,"ui/icon/150000/en/150931.tex","ui/icon/150000/en/150082.tex","ui/icon/150000/en/150083.tex","ui/icon/150000/en/150084.tex","","ui/icon/150000/en/150931.tex","ui/icon/150000/en/150932.tex","ui/icon/150000/en/150933.tex","ui/icon/150000/en/150934.tex","ui/icon/150000/en/150084.tex","Battle",1
 8,"Experience Points",True,"ui/icon/151000/en/151391.tex","","","","","","","","","","Battle",2
 9,"Handing Over Items",True,"ui/icon/150000/en/150921.tex","","","","","ui/icon/150000/en/150922.tex","","","","","Quests",13
-10,"Changing Classes",True,"ui/icon/150000/en/150111.tex","","","","","","","","","","Adventuring Basics",8
+10,"Changing Classes",True,"ui/icon/150000/en/150111.tex","ui/icon/150000/en/150112.tex","","","","","","","","","Adventuring Basics",8
 11,"Collecting Rewards",False,"ui/icon/150000/en/150811.tex","","","","","ui/icon/150000/en/150812.tex","","","","","Quests",5
 12,"Accepting Quests",False,"ui/icon/150000/en/150121.tex","","","","","ui/icon/150000/en/150121.tex","","","","","Quests",2
 13,"Return",True,"ui/icon/150000/en/150131.tex","ui/icon/150000/en/150132.tex","","","","ui/icon/150000/en/150131.tex","ui/icon/150000/en/150133.tex","","","","Movement",1
@@ -39,7 +39,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 35,"Levequest Difficulty",True,"ui/icon/150000/en/150351.tex","ui/icon/150000/en/150352.tex","","","","","","","","","Levequests",3
 36,"Sanctuaries",True,"ui/icon/150000/en/150361.tex","ui/icon/150000/en/150362.tex","ui/icon/150000/en/150363.tex","ui/icon/150000/en/150364.tex","","ui/icon/150000/en/150361.tex","ui/icon/150000/en/150362.tex","ui/icon/150000/en/150363.tex","ui/icon/150000/en/150364.tex","","Adventuring Basics",6
 37,"Armoury Chest",True,"ui/icon/151000/en/151141.tex","ui/icon/151000/en/151142.tex","ui/icon/151000/en/151143.tex","","","ui/icon/151000/en/151141.tex","ui/icon/151000/en/151142.tex","ui/icon/151000/en/151143.tex","","","Gear",3
-38,"Gear Sets",True,"ui/icon/150000/en/150391.tex","ui/icon/150000/en/150392.tex","","","","","","","","","Gear",4
+38,"Unlocking Classes",True,"ui/icon/150000/en/150101.tex","ui/icon/150000/en/150102.tex","","","","","","","","","Adventuring Basics",4
 39,"Emotes",True,"ui/icon/150000/en/150381.tex","ui/icon/150000/en/150382.tex","ui/icon/150000/en/150383.tex","","","ui/icon/150000/en/150381.tex","ui/icon/150000/en/150382.tex","","","","Adventuring Basics",3
 40,"",False,"","","","","","","","","","","None",0
 41,"",False,"","","","","","","","","","","None",0
@@ -79,7 +79,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 75,"Guildhest Rewards",True,"ui/icon/150000/en/150751.tex","","","","","","","","","","Duty",15
 76,"Leve Linking",True,"ui/icon/150000/en/150761.tex","","","","","","","","","","Levequests",9
 77,"",False,"","","","","","","","","","","None",0
-78,"Joining a Party",True,"ui/icon/150000/en/150901.tex","ui/icon/150000/en/150903.tex","ui/icon/150000/en/150902.tex","ui/icon/150000/en/150904.tex","ui/icon/150000/en/150905.tex","ui/icon/150000/en/150901.tex","ui/icon/150000/en/150903.tex","ui/icon/150000/en/150902.tex","ui/icon/150000/en/150904.tex","ui/icon/150000/en/150905.tex","Adventuring Basics",4
+78,"Joining a Party",True,"ui/icon/150000/en/150901.tex","ui/icon/150000/en/150903.tex","ui/icon/150000/en/150902.tex","ui/icon/150000/en/150904.tex","ui/icon/150000/en/150905.tex","ui/icon/150000/en/150901.tex","ui/icon/150000/en/150903.tex","ui/icon/150000/en/150902.tex","ui/icon/150000/en/150904.tex","ui/icon/150000/en/150905.tex","Adventuring Basics",5
 79,"Special Instances",True,"ui/icon/150000/en/150791.tex","ui/icon/150000/en/150792.tex","","","","","","","","","Quests",15
 80,"Main Scenario Quests",True,"ui/icon/150000/en/150801.tex","ui/icon/150000/en/150802.tex","","","","","","","","","Quests",6
 81,"Rental Chocobos",True,"ui/icon/150000/en/150821.tex","","","","","","","","","","Movement",6
@@ -234,7 +234,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 230,"Flowerpots",True,"ui/icon/152000/en/152421.tex","","","","","","","","","","Adventuring Basics",19
 231,"Treasure Dungeons",True,"ui/icon/152000/en/152431.tex","ui/icon/152000/en/152432.tex","ui/icon/152000/en/152433.tex","","","","","","","","Items",34
 232,"Aquariums",True,"ui/icon/152000/en/152441.tex","ui/icon/152000/en/152442.tex","ui/icon/152000/en/152443.tex","ui/icon/152000/en/152444.tex","","","","","","","Adventuring Basics",22
-233,"Pet Glamours",True,"ui/icon/152000/en/152451.tex","ui/icon/152000/en/152452.tex","ui/icon/152000/en/152453.tex","","","","","","","","Battle",63
+233,"Pet Glamours",True,"ui/icon/152000/en/152451.tex","ui/icon/152000/en/152452.tex","ui/icon/152000/en/152453.tex","ui/icon/152000/en/152454.tex","","","","","","","Battle",63
 234,"Item Level",True,"ui/icon/152000/en/152461.tex","ui/icon/152000/en/152462.tex","ui/icon/152000/en/152463.tex","","","","","","","","Battle",70
 235,"Increasing Item Level",True,"ui/icon/152000/en/152471.tex","ui/icon/152000/en/152472.tex","ui/icon/152000/en/152473.tex","","","","","","","","Battle",71
 236,"",False,"","","","","","","","","","","None",0

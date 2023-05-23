@@ -16,14 +16,15 @@ int32,byte,Image,Item,EventItem,EventItem,byte,byte,uint16,bit&01
 12,1,"ui/icon/060000/060355.tex","Timeworn Gaganaskin Map","gaganaskin treasure map",,1,0,200,False
 13,1,"ui/icon/060000/060354.tex","Timeworn Gazelleskin Map","gazelleskin treasure map","veteran thief's map",8,0,200,False
 14,2,"ui/icon/060000/060354.tex","Timeworn Thief's Map","fabled thief's map","fabled thief's map",8,4,100,False
-15,0,,"",,,0,0,0,False
+15,0,,"Diadochos Sword",,,0,0,0,False
 16,1,"ui/icon/060000/060354.tex","Seemingly Special Timeworn Map","seemingly special treasure map","seemingly special thief's map",8,0,200,False
 17,1,"ui/icon/060000/060354.tex","Timeworn Gliderskin Map","gliderskin treasure map",,1,0,200,False
 18,1,"ui/icon/060000/060354.tex","Timeworn Zonureskin Map","zonureskin treasure map","legendary thief's map",8,0,200,False
-19,0,,"",,,0,0,0,False
+19,0,,"Diadochos Sword",,,0,0,0,False
 20,1,"ui/icon/060000/060354.tex","Ostensibly Special Timeworn Map","ostensibly special treasure map","ostensibly special thief's map",8,0,200,False
 21,1,"ui/icon/060000/060354.tex","Timeworn Saigaskin Map","saigaskin treasure map",,1,0,200,False
 22,1,"ui/icon/060000/060354.tex","Timeworn Kumbhiraskin Map","kumbhiraskin treasure map","thrill-seeking thief's map",8,0,200,False
-23,0,,"",,,0,0,0,False
+23,0,,"Diadochos Sword",,,0,0,0,False
 24,1,"ui/icon/060000/060354.tex","Timeworn Ophiotauroskin Map","ophiotauroskin treasure map","ancient thief's map",8,0,200,False
 25,1,"ui/icon/060000/060354.tex","Potentially Special Timeworn Map","potentially special treasure map","potentially special thief's map",8,0,200,False
+26,1,"ui/icon/060000/060354.tex","Conceivably Special Timeworn Map","conceivably special treasure map","conceivably special thief's map",8,0,200,False

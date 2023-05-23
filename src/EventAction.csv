@@ -106,3 +106,4 @@ int32,str,Image,byte,ActionTimeline,ActionTimeline,ActionTimeline
 102,"Gift Aether","ui/icon/061000/061103.tex",5,"normal/touchaction_start","normal/touchaction_loop","normal/touchaction_end"
 103,"Whistling","ui/icon/061000/061103.tex",3,"normal/fueaction_start","normal/fueaction_loop","normal/fueaction_end"
 104,"Aiding","ui/icon/061000/061103.tex",5,"normal/searchaction_start","normal/searchaction_loop","normal/searchaction_end"
+105,"Interacting","ui/icon/061000/061103.tex",3,"normal/searchaction_start","normal/searchaction_loop","normal/searchaction_end"

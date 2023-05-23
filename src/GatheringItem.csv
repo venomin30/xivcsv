@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8
 #,Item,GatheringItemLevel,,Quest,,IsHidden,,,
 int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint32,bit&02,uint32,byte,uint16
-0,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+0,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
 1,"Fire Shard","GatheringItemLevelConvertTable#1",True,,0,False,0,0,65535
 2,"Ice Shard","GatheringItemLevelConvertTable#1",True,,0,False,0,0,65535
 3,"Wind Shard","GatheringItemLevelConvertTable#1",True,,0,False,0,0,65535
@@ -21,15 +21,15 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint32,bit&02,uint32,byte,
 17,"Lightning Cluster","GatheringItemLevelConvertTable#50",True,,0,False,0,0,65535
 18,"Water Cluster","GatheringItemLevelConvertTable#50",True,,0,False,0,0,65535
 19,"Art Supply Materials","GatheringItemLevelConvertTable#400",True,,0,False,0,3,35
-20,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-21,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-22,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-23,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+20,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+21,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+22,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+23,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
 24,"Grade 1 Carbonized Matter","GatheringItemLevelConvertTable#20",True,,0,False,0,0,65535
-25,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-26,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-27,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-28,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+25,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+26,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+27,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+28,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
 29,"Blue Pigment","GatheringItemLevelConvertTable#28",True,,0,False,0,0,65535
 30,"Red Pigment","GatheringItemLevelConvertTable#28",True,,0,False,0,0,65535
 31,"Yellow Pigment","GatheringItemLevelConvertTable#28",True,,0,False,0,0,65535
@@ -726,11 +726,19 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint32,bit&02,uint32,byte,
 722,"Sublime Achondrite","GatheringItemLevelConvertTable#610",True,,0,False,0,5,63
 723,"Prime Sphongos","GatheringItemLevelConvertTable#610",True,,0,False,724,5,62
 724,"Sublime Sphongos","GatheringItemLevelConvertTable#610",True,,0,False,0,5,64
-725,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-726,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-727,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-728,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10000,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+725,"Maghemite","GatheringItemLevelConvertTable#620",True,,0,False,0,0,65535
+726,"Softsilver Ore","GatheringItemLevelConvertTable#620",True,,0,False,0,0,65535
+727,"Raw Spodumene","GatheringItemLevelConvertTable#620",True,,0,False,0,0,65535
+728,"Dark Cherry Log","GatheringItemLevelConvertTable#620",True,,0,False,0,0,65535
+729,"Field Mustard","GatheringItemLevelConvertTable#620",True,,0,False,0,0,65535
+730,"Lovingbloom","GatheringItemLevelConvertTable#620",True,,0,False,0,0,65535
+731,"Prime Chloroschist","GatheringItemLevelConvertTable#620",True,,0,False,732,5,66
+732,"Sublime Chloroschist","GatheringItemLevelConvertTable#620",True,,0,False,0,5,68
+733,"Prime Haritaki","GatheringItemLevelConvertTable#620",True,,0,False,734,5,67
+734,"Sublime Haritaki","GatheringItemLevelConvertTable#620",True,,0,False,0,5,69
+735,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+736,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10000,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
 10001,"treant acorn","GatheringItemLevelConvertTable#4",False,,0,False,0,0,65535
 10002,"throbbing maple log","GatheringItemLevelConvertTable#1",False,,0,False,0,0,65535
 10003,"sprig of east bank mistletoe","GatheringItemLevelConvertTable#4",False,,0,False,0,0,65535
@@ -917,24 +925,24 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint32,bit&02,uint32,byte,
 10184,"transparent crystal","GatheringItemLevelConvertTable#145",False,,0,False,0,0,65535
 10185,"cracked Sharlayan flagstone","GatheringItemLevelConvertTable#145",False,,0,False,0,0,65535
 10186,"Sharlayan flagstone","GatheringItemLevelConvertTable#150",False,,0,False,0,0,65535
-10187,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10188,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10189,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10190,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10191,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10192,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10193,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10194,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10195,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10196,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10197,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10198,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10199,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10200,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10201,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10202,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10203,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10204,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10187,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10188,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10189,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10190,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10191,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10192,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10193,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10194,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10195,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10196,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10197,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10198,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10199,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10200,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10201,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10202,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10203,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10204,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
 10205,"Swordleaf","GatheringItemLevelConvertTable#180",False,,0,False,0,0,65535
 10206,"Mute Swan Feather","GatheringItemLevelConvertTable#180",False,,0,False,0,0,65535
 10207,"Sphalerite","GatheringItemLevelConvertTable#180",False,,0,False,0,0,65535
@@ -1000,8 +1008,8 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint32,bit&02,uint32,byte,
 10267,"Walker's Popoto","GatheringItemLevelConvertTable#225",False,,0,False,0,0,65535
 10268,"Nanoriso","GatheringItemLevelConvertTable#260",False,,0,False,0,0,65535
 10269,"Rhalgr's Streak","GatheringItemLevelConvertTable#290",False,,0,False,0,0,65535
-10270,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10271,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10270,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10271,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
 10272,"Red Malachite","GatheringItemLevelConvertTable#142",False,,0,False,0,0,65535
 10273,"Skystone","GatheringItemLevelConvertTable#145",False,,0,False,0,0,65535
 10274,"Dawn Dust","GatheringItemLevelConvertTable#148",False,,0,False,0,0,65535
@@ -1143,7 +1151,7 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint32,bit&02,uint32,byte,
 10410,"Skybuilders' Resin","GatheringItemLevelConvertTable#430",True,,0,False,0,0,65535
 10411,"Skybuilders' Sea Salt","GatheringItemLevelConvertTable#430",True,,0,False,0,0,65535
 10412,"Skybuilders' Toad","GatheringItemLevelConvertTable#25",True,,0,False,0,0,65535
-10413,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10413,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
 10414,"Shimmering Quartz","GatheringItemLevelConvertTable#260",False,,0,False,0,0,65535
 10415,"Serpent's-eye","GatheringItemLevelConvertTable#275",False,,0,False,0,0,65535
 10416,"Blessed Spring Water","GatheringItemLevelConvertTable#290",False,,0,False,0,0,65535
@@ -1571,3 +1579,63 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint32,bit&02,uint32,byte,
 10838,"Connoisseur's Levin Mint","GatheringItemLevelConvertTable#590",True,,0,False,0,1,161
 10839,"Adaptive Lightning Crystal","GatheringItemLevelConvertTable#590",True,,0,True,0,0,65535
 10840,"Timeworn Ophiotauroskin Map","GatheringItemLevelConvertTable#560",False,,0,False,0,0,65535
+10841,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10842,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10843,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10844,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10845,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10846,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10847,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10848,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10849,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10850,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10851,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10852,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10853,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10854,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10855,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10856,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10857,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10858,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10859,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10860,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10861,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10862,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10863,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10864,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10865,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10866,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10867,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10868,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10869,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10870,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10871,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10872,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10873,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10874,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10875,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10876,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10877,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10878,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10879,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10880,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10881,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10882,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10883,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10884,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10885,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10886,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10887,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10888,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10889,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10890,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10891,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10892,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10893,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10894,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10895,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10896,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10897,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10898,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10899,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10900,"Diadochos Sword","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0

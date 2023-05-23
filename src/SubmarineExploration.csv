@@ -95,14 +95,14 @@ int32,str,str,int16,int16,int16,SubmarineMap,bit&01,byte,byte,byte,uint16,byte,u
 91,"Tidewind Isle","Tidewind Isle",678,289,0,"Sirensong Sea",False,5,104,6,1390,47,5904983
 92,"Bloodbreak","Bloodbreak",937,651,1000,"Sirensong Sea",False,5,105,6,1400,48,6377382
 93,"the Crystal Font","Crystal Font",747,901,200,"Sirensong Sea",False,5,105,6,1400,48,6377382
-94,"","",0,0,0,"",False,0,0,0,0,0,0
-95,"","",0,0,0,"",False,0,0,0,0,0,0
-96,"","",0,0,0,"",False,0,0,0,0,0,0
-97,"","",0,0,0,"",False,0,0,0,0,0,0
-98,"","",0,0,0,"",False,0,0,0,0,0,0
-99,"","",0,0,0,"",False,0,0,0,0,0,0
-100,"","",0,0,0,"",False,0,0,0,0,0,0
-101,"","",0,0,0,"",False,0,0,0,0,0,0
+94,"","",49,928,0,"The Lilac Sea",True,0,0,0,0,0,0
+95,"Weeping Trellis","Weeping Trellis",177,858,600,"The Lilac Sea",False,1,105,6,1400,48,6377382
+96,"the Forsaken Isle","Forsaken Isle",189,713,100,"The Lilac Sea",False,1,105,6,1400,48,6377382
+97,"Fortune's Ford","Fortune's Ford",494,744,300,"The Lilac Sea",False,1,105,6,1400,48,6377382
+98,"the Lilac Sea 1","Lilac Sea 1",90,514,300,"The Lilac Sea",False,1,106,6,1420,48,6536817
+99,"Runners' Reach","Runners' Reach",545,898,100,"The Lilac Sea",False,1,107,6,1430,48,6700238
+100,"Bellflower Flood","Bellflower Flood",366,534,1000,"The Lilac Sea",False,2,108,6,1450,49,6867744
+101,"the Lilac Sea 2","Lilac Sea 2",741,797,300,"The Lilac Sea",False,2,110,6,1480,49,7215424
 102,"","",0,0,0,"",False,0,0,0,0,0,0
 103,"","",0,0,0,"",False,0,0,0,0,0,0
 104,"","",0,0,0,"",False,0,0,0,0,0,0

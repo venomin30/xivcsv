@@ -1,16 +1,22 @@
-﻿key,0,1,2,3,4,5,6,7,8
-#,Spot[0],Time[0],Spot[1],Time[1],Spot[2],Time[2],Image,TerritoryType,Name
-int32,IKDSpot,IKDTimeDefine,IKDSpot,IKDTimeDefine,IKDSpot,IKDTimeDefine,Image,TerritoryType,str
-0,"Undiscovered Fishing Hole","IKDTimeDefine#0","Undiscovered Fishing Hole","IKDTimeDefine#0","Undiscovered Fishing Hole","IKDTimeDefine#0",,,""
-1,"The Southern Strait of Merlthor","IKDTimeDefine#1","Outer Galadion Bay","IKDTimeDefine#2","The Northern Strait of Merlthor","IKDTimeDefine#3","ui/icon/063000/063172.tex","e0170","Northern Strait of Merlthor"
-2,"The Southern Strait of Merlthor","IKDTimeDefine#2","Outer Galadion Bay","IKDTimeDefine#3","The Northern Strait of Merlthor","IKDTimeDefine#1","ui/icon/063000/063172.tex","g3fc","Northern Strait of Merlthor"
-3,"The Southern Strait of Merlthor","IKDTimeDefine#3","Outer Galadion Bay","IKDTimeDefine#1","The Northern Strait of Merlthor","IKDTimeDefine#2","ui/icon/063000/063172.tex","g3d4","Northern Strait of Merlthor"
-4,"Outer Galadion Bay","IKDTimeDefine#1","The Southern Strait of Merlthor","IKDTimeDefine#2","Open Rhotano Sea","IKDTimeDefine#3","ui/icon/063000/063171.tex","z3fa","Rhotano Sea"
-5,"Outer Galadion Bay","IKDTimeDefine#2","The Southern Strait of Merlthor","IKDTimeDefine#3","Open Rhotano Sea","IKDTimeDefine#1","ui/icon/063000/063171.tex","f1bz","Rhotano Sea"
-6,"Outer Galadion Bay","IKDTimeDefine#3","The Southern Strait of Merlthor","IKDTimeDefine#1","Open Rhotano Sea","IKDTimeDefine#2","ui/icon/063000/063171.tex","z3r1","Rhotano Sea"
-7,"Cieldalaes Margin","IKDTimeDefine#1","The Northern Strait of Merlthor","IKDTimeDefine#2","Open Bloodbrine Sea","IKDTimeDefine#3","ui/icon/063000/063173.tex","e3c1","Bloodbrine Sea"
-8,"Cieldalaes Margin","IKDTimeDefine#2","The Northern Strait of Merlthor","IKDTimeDefine#3","Open Bloodbrine Sea","IKDTimeDefine#1","ui/icon/063000/063173.tex","e3c2","Bloodbrine Sea"
-9,"Cieldalaes Margin","IKDTimeDefine#3","The Northern Strait of Merlthor","IKDTimeDefine#1","Open Bloodbrine Sea","IKDTimeDefine#2","ui/icon/063000/063173.tex","e3c3","Bloodbrine Sea"
-10,"Cieldalaes Margin","IKDTimeDefine#1","Open Rhotano Sea","IKDTimeDefine#2","Outer Rothlyt Sound","IKDTimeDefine#3","ui/icon/063000/063174.tex","e3c4","Rothlyt Sound"
-11,"Cieldalaes Margin","IKDTimeDefine#2","Open Rhotano Sea","IKDTimeDefine#3","Outer Rothlyt Sound","IKDTimeDefine#1","ui/icon/063000/063174.tex","e3c5","Rothlyt Sound"
-12,"Cieldalaes Margin","IKDTimeDefine#3","Open Rhotano Sea","IKDTimeDefine#1","Outer Rothlyt Sound","IKDTimeDefine#2","ui/icon/063000/063174.tex","e3c6","Rothlyt Sound"
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11
+#,Spot[0],Time[0],Spot[1],Time[1],Spot[2],Time[2],Image,TerritoryType,Name,,,
+int32,IKDSpot,IKDTimeDefine,IKDSpot,IKDTimeDefine,IKDSpot,IKDTimeDefine,Image,TerritoryType,uint32,uint32,uint32,str
+0,"Undiscovered Fishing Hole","IKDTimeDefine#0","Undiscovered Fishing Hole","IKDTimeDefine#0","Undiscovered Fishing Hole","IKDTimeDefine#0",,,0,0,0,""
+1,"The Southern Strait of Merlthor","IKDTimeDefine#1","Outer Galadion Bay","IKDTimeDefine#2","The Northern Strait of Merlthor","IKDTimeDefine#3","ui/icon/063000/063172.tex",,0,721,0,"Northern Strait of Merlthor"
+2,"The Southern Strait of Merlthor","IKDTimeDefine#2","Outer Galadion Bay","IKDTimeDefine#3","The Northern Strait of Merlthor","IKDTimeDefine#1","ui/icon/063000/063172.tex",,0,730,0,"Northern Strait of Merlthor"
+3,"The Southern Strait of Merlthor","IKDTimeDefine#3","Outer Galadion Bay","IKDTimeDefine#1","The Northern Strait of Merlthor","IKDTimeDefine#2","ui/icon/063000/063172.tex",,0,731,0,"Northern Strait of Merlthor"
+4,"Outer Galadion Bay","IKDTimeDefine#1","The Southern Strait of Merlthor","IKDTimeDefine#2","Open Rhotano Sea","IKDTimeDefine#3","ui/icon/063000/063171.tex",,0,732,0,"Rhotano Sea"
+5,"Outer Galadion Bay","IKDTimeDefine#2","The Southern Strait of Merlthor","IKDTimeDefine#3","Open Rhotano Sea","IKDTimeDefine#1","ui/icon/063000/063171.tex",,0,733,0,"Rhotano Sea"
+6,"Outer Galadion Bay","IKDTimeDefine#3","The Southern Strait of Merlthor","IKDTimeDefine#1","Open Rhotano Sea","IKDTimeDefine#2","ui/icon/063000/063171.tex",,0,734,0,"Rhotano Sea"
+7,"Cieldalaes Margin","IKDTimeDefine#1","The Northern Strait of Merlthor","IKDTimeDefine#2","Open Bloodbrine Sea","IKDTimeDefine#3","ui/icon/063000/063173.tex",,0,770,0,"Bloodbrine Sea"
+8,"Cieldalaes Margin","IKDTimeDefine#2","The Northern Strait of Merlthor","IKDTimeDefine#3","Open Bloodbrine Sea","IKDTimeDefine#1","ui/icon/063000/063173.tex",,0,771,0,"Bloodbrine Sea"
+9,"Cieldalaes Margin","IKDTimeDefine#3","The Northern Strait of Merlthor","IKDTimeDefine#1","Open Bloodbrine Sea","IKDTimeDefine#2","ui/icon/063000/063173.tex",,0,772,0,"Bloodbrine Sea"
+10,"Cieldalaes Margin","IKDTimeDefine#1","Open Rhotano Sea","IKDTimeDefine#2","Outer Rothlyt Sound","IKDTimeDefine#3","ui/icon/063000/063174.tex",,0,773,0,"Rothlyt Sound"
+11,"Cieldalaes Margin","IKDTimeDefine#2","Open Rhotano Sea","IKDTimeDefine#3","Outer Rothlyt Sound","IKDTimeDefine#1","ui/icon/063000/063174.tex",,0,774,0,"Rothlyt Sound"
+12,"Cieldalaes Margin","IKDTimeDefine#3","Open Rhotano Sea","IKDTimeDefine#1","Outer Rothlyt Sound","IKDTimeDefine#2","ui/icon/063000/063174.tex",,0,775,0,"Rothlyt Sound"
+13,"Open Sirensong Sea","IKDTimeDefine#1","Kugane Coast","IKDTimeDefine#2","Lower One River","IKDTimeDefine#3","ui/icon/063000/063175.tex",,11,952,68089,"One River"
+14,"Open Sirensong Sea","IKDTimeDefine#2","Kugane Coast","IKDTimeDefine#3","Lower One River","IKDTimeDefine#1","ui/icon/063000/063175.tex",,11,953,68089,"One River"
+15,"Open Sirensong Sea","IKDTimeDefine#3","Kugane Coast","IKDTimeDefine#1","Lower One River","IKDTimeDefine#2","ui/icon/063000/063175.tex",,11,954,68089,"One River"
+16,"Open Sirensong Sea","IKDTimeDefine#1","Kugane Coast","IKDTimeDefine#2","Open Ruby Sea","IKDTimeDefine#3","ui/icon/063000/063177.tex",,11,955,68089,"Ruby Price"
+17,"Open Sirensong Sea","IKDTimeDefine#2","Kugane Coast","IKDTimeDefine#3","Open Ruby Sea","IKDTimeDefine#1","ui/icon/063000/063177.tex",,11,956,68089,"Ruby Price"
+18,"Open Sirensong Sea","IKDTimeDefine#3","Kugane Coast","IKDTimeDefine#1","Open Ruby Sea","IKDTimeDefine#2","ui/icon/063000/063177.tex",,11,957,68089,"Ruby Price"

@@ -107,7 +107,7 @@ int32,byte,Row,bit&01,bit&02,int32
 5.16,1,"Purify",True,True,0
 5.17,1,"Guard",True,True,0
 5.18,1,"Sprint",True,True,0
-5.19,0,,True,True,0
+5.19,0,,False,False,0
 5.20,0,,True,True,0
 5.21,0,,True,True,0
 5.22,0,,True,True,0
@@ -432,19 +432,19 @@ int32,byte,Row,bit&01,bit&02,int32
 23.8,1,"Hell's Ingress",True,True,0
 23.9,1,"Arcane Crest",True,True,0
 23.10,1,"Tenebrae Lemurum",True,True,0
-23.11,1,"Gibbet",False,False,0
-23.12,1,"Gallows",False,False,0
-23.13,1,"Void Reaping",False,False,0
-23.14,1,"Cross Reaping",False,False,0
-23.15,1,"Lemure's Slice",False,False,0
-23.16,1,"Harvest Moon",False,False,0
-23.17,1,"Regress",False,False,0
-23.18,1,"Communio",False,False,0
-23.19,1,"Standard-issue Elixir",True,True,0
-23.20,1,"Recuperate",True,True,0
-23.21,1,"Purify",True,True,0
-23.22,1,"Guard",True,True,0
-23.23,1,"Sprint",True,True,0
+23.11,1,"Guillotine",False,False,0
+23.12,1,"Void Reaping",False,False,0
+23.13,1,"Cross Reaping",False,False,0
+23.14,1,"Lemure's Slice",False,False,0
+23.15,1,"Harvest Moon",False,False,0
+23.16,1,"Regress",False,False,0
+23.17,1,"Communio",False,False,0
+23.18,1,"Standard-issue Elixir",True,True,0
+23.19,1,"Recuperate",True,True,0
+23.20,1,"Purify",True,True,0
+23.21,1,"Guard",True,True,0
+23.22,1,"Sprint",True,True,0
+23.23,0,,True,True,0
 23.24,0,,True,True,0
 23.25,0,,True,True,0
 23.26,0,,True,True,0
@@ -469,6 +469,6 @@ int32,byte,Row,bit&01,bit&02,int32
 24.12,1,"Purify",True,True,0
 24.13,1,"Guard",True,True,0
 24.14,1,"Sprint",True,True,0
-24.15,0,,True,True,0
+24.15,0,,False,False,0
 24.16,0,,True,True,0
 24.17,0,,True,True,0

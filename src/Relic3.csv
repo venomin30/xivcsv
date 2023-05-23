@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5
 #,Item{Animus},Item{Scroll},MateriaLimit,Item{Novus},Icon,
 int32,Item,Item,byte,Item,Image,sbyte
-0,"","",0,"",,0
+0,"Diadochos Sword","Diadochos Sword",0,"Diadochos Sword",,0
 1,"Curtana Animus","Sphere Scroll: Curtana",53,"Curtana Novus","ui/icon/080000/080152.tex",1
 2,"Sphairai Animus","Sphere Scroll: Sphairai",75,"Sphairai Novus","ui/icon/080000/080153.tex",0
 3,"Bravura Animus","Sphere Scroll: Bravura",75,"Bravura Novus","ui/icon/080000/080154.tex",0

@@ -1,9 +1,14 @@
 ﻿key,0
 #,Action
 int32,Action
-0,""
-1,"Variant Cure"
-2,"Variant Ultimatum"
-3,"Variant Raise"
-4,"Variant Spirit Dart"
-5,"Variant Rampart"
+0.0,""
+1.0,"Variant Cure"
+1.1,""
+2.0,"Variant Ultimatum"
+2.1,"Variant Ultimatum"
+3.0,"Variant Raise"
+3.1,"Variant Raise"
+4.0,"Variant Spirit Dart"
+4.1,""
+5.0,"Variant Rampart"
+5.1,""

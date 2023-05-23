@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
 #,Item,Theme[0],Theme[1],,Material[0],Amount[0],Material[1],Amount[1],Material[2],Amount[2],Material[3],Amount[3],LevelReq,CraftingTime,Value
 int32,Item,MJICraftworksObjectTheme,MJICraftworksObjectTheme,uint16,MJIItemPouch,uint16,MJIItemPouch,uint16,MJIItemPouch,uint16,MJIItemPouch,uint16,uint16,uint16,uint16
-0,"","","",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,0,0,0
+0,"Diadochos Sword","","",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,0,0,0
 1,"Isleworks Potion","Concoctions","",0,"Island Palm Leaf",2,"Islewort",2,"Island Palm Leaf",0,"Island Palm Leaf",0,1,4,28
 2,"Isleworks Firesand","Concoctions","Unburied Treasures",0,"Island Sand",2,"Island Limestone",1,"Islewort",1,"Island Palm Leaf",0,1,4,28
 3,"Isleworks Wooden Chair","Furnishings","Woodworks",0,"Island Log",4,"Island Vine",2,"Island Palm Leaf",0,"Island Palm Leaf",0,1,6,42
@@ -62,13 +62,23 @@ int32,Item,MJICraftworksObjectTheme,MJICraftworksObjectTheme,uint16,MJIItemPouch
 58,"Isleworks Isloaf","Foodstuffs","Concoctions",0,"Island Wheat",2,"Islefish",1,"Island Rock Salt",1,"Island Palm Leaf",0,11,4,52
 59,"Isleworks Popoto Salad","Foodstuffs","",0,"Island Popoto",2,"Island Apple",1,"Islewort",1,"Island Palm Leaf",0,11,4,52
 60,"Isleworks Dressing","Ingredients","",0,"Island Onion",2,"Island Sap",1,"Island Laver",1,"Island Palm Leaf",0,11,4,52
-61,"","","",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,0,0,0
-62,"","","",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,0,0,0
-63,"","","",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,0,0,0
-64,"","","",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,0,0,0
-65,"","","",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,0,0,0
-66,"","","",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,0,0,0
-67,"","","",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,0,0,0
-68,"","","",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,0,0,0
-69,"","","",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,0,0,0
-70,"","","",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,0,0,0
+61,"Isleworks Stove","Furnishings","Metalworks",0,"Island Coal",2,"Island Iron Ore",3,"Island Leucogranite",1,"Island Palm Leaf",0,12,6,54
+62,"Isleworks Lantern","Sundries","",0,"Island Glimshroom",3,"Island Quartz",3,"Island Copper Ore",2,"Island Palm Leaf",0,12,8,80
+63,"Isleworks Natron","Sundries","Concoctions",0,"Island Effervescent Water",2,"Island Rock Salt",2,"Island Palm Leaf",0,"Island Palm Leaf",0,12,4,36
+64,"Isleworks Bouillabaisse","Foodstuffs","Marine Merchandise",0,"Island Cave Shrimp",2,"Island Clam",2,"Island Squid",2,"Island Tomato",2,12,8,136
+65,"Isleworks Fossil Display","Creature Creations","Unburied Treasures",0,"Island Shale",3,"Island Palm Log",2,"Island Cotton Boll",1,"Island Palm Leaf",0,13,6,54
+66,"Isleworks Bathtub","Furnishings","Unburied Treasures",0,"Island Marble",4,"Island Leucogranite",2,"Island Clay",2,"Island Palm Leaf",0,13,8,72
+67,"Isleworks Spectacles","Attire","Sundries",0,"Island Mythril Ore",3,"Island Quartz",2,"Island Copper Ore",1,"Island Palm Leaf",0,13,6,54
+68,"Isleworks Cooling Glass","Unburied Treasures","",0,"Island Spectrine",4,"Island Sand",4,"Island Palm Leaf",0,"Island Palm Leaf",0,13,8,80
+69,"Isleworks Runner Bean Saute","Foodstuffs","",0,"Island Runner Beans",2,"Island Rock Salt",2,"Island Palm Leaf",0,"Island Palm Leaf",0,14,4,52
+70,"Isleworks Beet Soup","Foodstuffs","",0,"Island Beet",3,"Island Popoto",1,"Sanctuary Milk",1,"Island Palm Leaf",0,14,6,78
+71,"Isleworks Imam Bayildi","Foodstuffs","",0,"Island Eggplant",2,"Island Onion",2,"Island Tomato",2,"Island Palm Leaf",0,14,6,90
+72,"Isleworks Pickled Zucchini","Preserved Food","",0,"Island Zucchini",4,"Island Laver",2,"Island Sugarcane",2,"Island Palm Leaf",0,14,8,104
+73,"Diadochos Sword","","",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,0,0,0
+74,"Diadochos Sword","","",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,0,0,0
+75,"Diadochos Sword","","",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,0,0,0
+76,"Diadochos Sword","","",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,0,0,0
+77,"Diadochos Sword","","",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,0,0,0
+78,"Diadochos Sword","","",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,0,0,0
+79,"Diadochos Sword","","",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,0,0,0
+80,"Diadochos Sword","","",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,"Island Palm Leaf",0,0,0,0

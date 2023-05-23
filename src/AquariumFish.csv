@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3
 #,AquariumWater,Size,Item,
 int32,AquariumWater,byte,Item,uint16
-0,"nothing",0,"",0
+0,"nothing",0,"Diadochos Sword",0
 2,"Freshwater",1,"Copperfish",40
 3,"Saltwater",1,"Coral Butterfly",49
 4,"Saltwater",2,"Blowfish",7
@@ -185,3 +185,13 @@ int32,AquariumWater,byte,Item,uint16
 182,"Saltwater",2,"Othardian Wrasse",453
 183,"Freshwater",3,"Greatsword Snook",363
 184,"Saltwater",4,"Coral Manta",87
+185,"Freshwater",1,"Blowgun",423
+186,"Freshwater",1,"Verdigris Guppy",487
+187,"Saltwater",1,"Mini Yasha",469
+188,"Freshwater",2,"Imperial Pleco",416
+189,"Freshwater",2,"Atamra Cichlid",446
+190,"Saltwater",2,"Vidyutvat Wrasse",465
+191,"Saltwater",2,"Shadowdart Sardine",405
+192,"Saltwater",2,"Gilled Topknot",434
+193,"Saltwater",3,"Kitefin Shark",359
+194,"Saltwater",4,"Sothis",86

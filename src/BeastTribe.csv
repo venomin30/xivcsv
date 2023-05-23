@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
 #,,MinLevel,BeastRankBonus,Icon{Reputation},Icon,MaxRank,Expansion,CurrencyItem,DisplayOrder,Name,Adjective,Plural,PossessivePronoun,StartsWithVowel,Pronoun,Article,DEF,Name{Relation}
 int32,bit&01,byte,BeastRankBonus,Image,Image,byte,ExVersion,Item,byte,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str
-0,False,0,"BeastRankBonus#0",,,0,"A Realm Reborn","",0,"",0,"",0,0,0,0,0,""
+0,False,0,"BeastRankBonus#0",,,0,"A Realm Reborn","Diadochos Sword",0,"",0,"",0,0,0,0,0,""
 1,True,0,"BeastRankBonus#0","ui/icon/061000/061901.tex","ui/icon/065000/065016.tex",4,"A Realm Reborn","Steel Amalj'ok",1,"Amalj'aa",0,"",0,0,0,0,0,"Amalj'aa Relations"
 2,True,0,"BeastRankBonus#0","ui/icon/061000/061902.tex","ui/icon/065000/065017.tex",4,"A Realm Reborn","Sylphic Goldleaf",2,"sylphs",0,"",0,0,0,0,0,"Sylphic Relations"
 3,True,0,"BeastRankBonus#0","ui/icon/061000/061904.tex","ui/icon/065000/065019.tex",4,"A Realm Reborn","Titan Cobaltpiece",3,"kobolds",0,"",0,0,0,0,0,"Kobold Relations"

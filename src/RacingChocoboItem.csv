@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3
 #,Item,Category,Param[0],Param[1]
 int32,Item,byte,byte,byte
-0,"",0,0,0
+0,"Diadochos Sword",0,0,0
 1,"Proof of Covering",1,0,0
 2,"Fledgling Chocobo Registration G1-M",2,0,1
 3,"Fledgling Chocobo Registration G2-M",2,0,2
@@ -145,5 +145,5 @@ int32,Item,byte,byte,byte
 141,"Chocobo Training Manual - Breather I",6,65,0
 142,"Chocobo Training Manual - Breather II",6,66,0
 143,"Chocobo Training Manual - Breather III",6,67,0
-144,"",0,0,0
-145,"",0,0,0
+144,"Diadochos Sword",0,0,0
+145,"Diadochos Sword",0,0,0

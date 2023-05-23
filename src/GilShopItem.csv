@@ -132,6 +132,7 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262157.30,"Byregotia Seeds",False,0,,,"",0,100,610
 262157.31,"Sweet Pea Seeds",False,0,,,"",0,100,620
 262157.32,"Morning Glory Seeds",False,0,,,"",0,100,630
+262157.33,"Chrysanthemum Seeds",False,0,,,"",0,100,640
 262158.0,"Gysahl Greens",False,0,,,"",0,100,0
 262158.1,"Cherry Bomb",False,0,,,"",0,100,0
 262158.2,"Mammet #001",False,0,,,"",0,100,0
@@ -4638,6 +4639,8 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262419.43,"Hannish Lamppost",False,0,,,"",0,100,630
 262419.44,"Bliss Orchestrion Roll",False,0,,,"",0,100,630
 262419.45,"Sacred Bonds Orchestrion Roll",False,0,,,"",0,100,630
+262419.46,"Railway Sleepers",False,0,,,"",0,100,640
+262419.47,"",False,0,,,"",0,100,640
 262420.0,"Brass Bench",False,0,,,"",0,100,0
 262420.1,"Glade Placard",False,0,,,"",0,100,0
 262420.2,"Glade Thatch Wall",False,0,,,"",0,100,0
@@ -4684,6 +4687,8 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262420.43,"Hannish Lamppost",False,0,,,"",0,100,630
 262420.44,"Bliss Orchestrion Roll",False,0,,,"",0,100,630
 262420.45,"Sacred Bonds Orchestrion Roll",False,0,,,"",0,100,630
+262420.46,"Railway Sleepers",False,0,,,"",0,100,640
+262420.47,"",False,0,,,"",0,100,640
 262421.0,"Brass Bench",False,0,,,"",0,100,0
 262421.1,"Oasis Placard",False,0,,,"",0,100,0
 262421.2,"Oasis Wooden Wall",False,0,,,"",0,100,0
@@ -4730,6 +4735,8 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262421.43,"Hannish Lamppost",False,0,,,"",0,100,630
 262421.44,"Bliss Orchestrion Roll",False,0,,,"",0,100,630
 262421.45,"Sacred Bonds Orchestrion Roll",False,0,,,"",0,100,630
+262421.46,"Railway Sleepers",False,0,,,"",0,100,640
+262421.47,"",False,0,,,"",0,100,640
 262422.0,"Ash Log",False,0,,,"",0,100,0
 262422.1,"Ash Lumber",False,0,,,"",0,100,0
 262422.2,"Elm Lumber",False,0,,,"",0,100,0
@@ -4781,6 +4788,7 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262422.48,"Byregotia Seeds",False,0,,,"",0,100,610
 262422.49,"Sweet Pea Seeds",False,0,,,"",0,100,620
 262422.50,"Morning Glory Seeds",False,0,,,"",0,100,630
+262422.51,"Chrysanthemum Seeds",False,0,,,"",0,100,640
 262423.0,"Usagi Kabuto",False,0,,,"",0,100,0
 262423.1,"Silver Usagi Kabuto",False,0,,,"",0,100,0
 262423.2,"Black Usagi Kabuto",False,0,,,"",0,100,0
@@ -7370,54 +7378,59 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262628.3,"Ripened Pumpkin Head",False,0,,,"Oh My Gourd",0,100,0
 262628.4,"The Wailing Spirit",False,0,,,"Oh My Gourd",0,100,0
 262628.5,"The Howling Spirit",False,0,,,"Oh My Gourd",0,100,0
-262628.6,"Eerie Hat",False,0,"Yes We Cant",,"",0,100,0
-262628.7,"Eerie Robe",False,0,"Yes We Cant",,"",0,100,0
-262628.8,"Eerie Tights",False,0,"Yes We Cant",,"",0,100,0
-262628.9,"Eerie Crakows",False,0,"Yes We Cant",,"",0,100,0
-262628.10,"Pumpkin Earrings",False,0,"Yes We Cant",,"",0,100,0
-262628.11,"Witch's Hat",False,0,"Sweeping the Meadows",,"",0,100,0
-262628.12,"Witch's Coatee",False,0,"Sweeping the Meadows",,"",0,100,0
-262628.13,"Witch's Gloves",False,0,"Sweeping the Meadows",,"",0,100,0
-262628.14,"Witch's Thighboots",False,0,"Sweeping the Meadows",,"",0,100,0
-262628.15,"Vampire's Vest",False,0,"In a Manor of Spooking",,"",0,100,0
-262628.16,"Werewolf Head",False,0,"An Othardian Wolfman in Gridania",,"",0,100,0
-262628.17,"Werewolf Body",False,0,"An Othardian Wolfman in Gridania",,"",0,100,0
-262628.18,"Werewolf Arms",False,0,"An Othardian Wolfman in Gridania",,"",0,100,0
-262628.19,"Werewolf Bottoms",False,0,"An Othardian Wolfman in Gridania",,"",0,100,0
-262628.20,"Werewolf Feet",False,0,"An Othardian Wolfman in Gridania",,"",0,100,0
-262628.21,"Werewolf Legs",False,0,"An Othardian Wolfman in Gridania",,"",0,100,0
-262628.22,"Clown's Hat",False,0,"A Feast to Remember",,"",0,100,0
-262628.23,"Clown's Top",False,0,"A Feast to Remember",,"",0,100,0
-262628.24,"Clown's Shortgloves",False,0,"A Feast to Remember",,"",0,100,0
-262628.25,"Clown's Bottoms",False,0,"A Feast to Remember",,"",0,100,0
-262628.26,"Clown's Boots",False,0,"A Feast to Remember",,"",0,100,0
-262628.27,"Wake Doctor's Mask",False,0,"A Mad Masquerade",,"",0,100,0
-262628.28,"Wake Doctor's White Coat",False,0,"A Mad Masquerade",,"",0,100,0
-262628.29,"Wake Doctor's Rubber Gloves",False,0,"A Mad Masquerade",,"",0,100,0
-262628.30,"Wake Doctor's Bottoms",False,0,"A Mad Masquerade",,"",0,100,0
-262628.31,"Wake Doctor's Shoes",False,0,"A Mad Masquerade",,"",0,100,0
+262628.6,"Eerie Hat",False,0,"Yes We Cant",,"",0,110,0
+262628.7,"Eerie Robe",False,0,"Yes We Cant",,"",0,110,0
+262628.8,"Eerie Tights",False,0,"Yes We Cant",,"",0,110,0
+262628.9,"Eerie Crakows",False,0,"Yes We Cant",,"",0,110,0
+262628.10,"Pumpkin Earrings",False,0,"Yes We Cant",,"",0,110,0
+262628.11,"Witch's Hat",False,0,"Sweeping the Meadows",,"",0,120,0
+262628.12,"Witch's Coatee",False,0,"Sweeping the Meadows",,"",0,120,0
+262628.13,"Witch's Gloves",False,0,"Sweeping the Meadows",,"",0,120,0
+262628.14,"Witch's Thighboots",False,0,"Sweeping the Meadows",,"",0,120,0
+262628.15,"Vampire's Vest",False,0,"In a Manor of Spooking",,"",0,130,0
+262628.16,"Werewolf Head",False,0,"An Othardian Wolfman in Gridania",,"",0,140,0
+262628.17,"Werewolf Body",False,0,"An Othardian Wolfman in Gridania",,"",0,140,0
+262628.18,"Werewolf Arms",False,0,"An Othardian Wolfman in Gridania",,"",0,140,0
+262628.19,"Werewolf Bottoms",False,0,"An Othardian Wolfman in Gridania",,"",0,140,0
+262628.20,"Werewolf Feet",False,0,"An Othardian Wolfman in Gridania",,"",0,140,0
+262628.21,"Werewolf Legs",False,0,"An Othardian Wolfman in Gridania",,"",0,140,0
+262628.22,"Clown's Hat",False,0,"A Feast to Remember",,"",0,150,0
+262628.23,"Clown's Top",False,0,"A Feast to Remember",,"",0,150,0
+262628.24,"Clown's Shortgloves",False,0,"A Feast to Remember",,"",0,150,0
+262628.25,"Clown's Bottoms",False,0,"A Feast to Remember",,"",0,150,0
+262628.26,"Clown's Boots",False,0,"A Feast to Remember",,"",0,150,0
+262628.27,"Wake Doctor's Mask",False,0,"A Mad Masquerade",,"",0,160,0
+262628.28,"Wake Doctor's White Coat",False,0,"A Mad Masquerade",,"",0,160,0
+262628.29,"Wake Doctor's Rubber Gloves",False,0,"A Mad Masquerade",,"",0,160,0
+262628.30,"Wake Doctor's Bottoms",False,0,"A Mad Masquerade",,"",0,160,0
+262628.31,"Wake Doctor's Shoes",False,0,"A Mad Masquerade",,"",0,160,0
 262629.0,"Snowman Head",False,0,,,"Cold as Ice",0,100,0
 262629.1,"Snowman Suit",False,0,,,"Cold as Ice",0,100,0
 262629.2,"Snowman Mitts",False,0,,,"Cold as Ice",0,100,0
-262629.3,"Dream Hat",False,0,,,"Cold as Ice",0,100,0
-262629.4,"Dream Tunic",False,0,,,"Cold as Ice",0,100,0
-262629.5,"Dream Boots",False,0,,,"Cold as Ice",0,100,0
-262629.6,"Reindeer Antlers",False,0,,,"Cold as Ice",0,100,0
-262629.7,"Reindeer Suit",False,0,,,"Cold as Ice",0,100,0
-262629.8,"Starlight Sugarloaf Hat",False,0,"Going the Extra Smile",,"",0,100,0
-262629.9,"Starlight Tunic",False,0,"A Starlight Miracle",,"",0,100,0
-262629.10,"Starlight Tights",False,0,"Going the Extra Smile",,"",0,100,0
-262629.11,"Starlight Boots",False,0,"Going the Extra Smile",,"",0,100,0
-262629.12,"Reindeer Antler Headband",False,0,"For Whom the Starlight Bell Tolls",,"",0,100,0
-262629.13,"Reindeer Gloves",False,0,"For Whom the Starlight Bell Tolls",,"",0,100,0
-262629.14,"Reindeer Hooves",False,0,"For Whom the Starlight Bell Tolls",,"",0,100,0
-262629.15,"Saint's Beard",False,0,"For Whom the Starlight Bell Tolls",,"",0,100,0
-262629.16,"Saint's Cap",False,0,"For Whom the Starlight Bell Tolls",,"",0,100,0
-262629.17,"Starlight Robe",False,0,"Naughty or Nice",,"",0,100,0
-262629.18,"False Mustache",False,0,"Going the Extra Smile",,"",0,100,0
-262629.19,"Choir Hat",False,0,"Theatgrhythdaniam",,"",0,100,0
-262629.20,"Choir Robe",False,0,"Theatgrhythdaniam",,"",0,100,0
-262629.21,"Choir Shoes",False,0,"Theatgrhythdaniam",,"",0,100,0
+262629.3,"Dream Hat",False,0,,,"Cold as Ice",0,105,0
+262629.4,"Dream Tunic",False,0,,,"Cold as Ice",0,105,0
+262629.5,"Dream Boots",False,0,,,"Cold as Ice",0,105,0
+262629.6,"Reindeer Antlers",False,0,,,"Cold as Ice",0,110,0
+262629.7,"Reindeer Suit",False,0,,,"Cold as Ice",0,110,0
+262629.8,"Starlight Sugarloaf Hat",False,0,"Going the Extra Smile",,"",0,120,0
+262629.9,"Starlight Tunic",False,0,"A Starlight Miracle",,"",0,120,0
+262629.10,"Starlight Tights",False,0,"Going the Extra Smile",,"",0,120,0
+262629.11,"Starlight Boots",False,0,"Going the Extra Smile",,"",0,120,0
+262629.12,"Reindeer Antler Headband",False,0,"For Whom the Starlight Bell Tolls",,"",0,130,0
+262629.13,"Reindeer Gloves",False,0,"For Whom the Starlight Bell Tolls",,"",0,130,0
+262629.14,"Reindeer Hooves",False,0,"For Whom the Starlight Bell Tolls",,"",0,130,0
+262629.15,"Saint's Beard",False,0,"For Whom the Starlight Bell Tolls",,"",0,135,0
+262629.16,"Saint's Cap",False,0,"For Whom the Starlight Bell Tolls",,"",0,135,0
+262629.17,"Starlight Robe",False,0,"Naughty or Nice",,"",0,140,0
+262629.18,"False Mustache",False,0,"Going the Extra Smile",,"",0,125,0
+262629.19,"Choir Hat",False,0,"Theatgrhythdaniam",,"",0,150,0
+262629.20,"Choir Robe",False,0,"Theatgrhythdaniam",,"",0,150,0
+262629.21,"Choir Shoes",False,0,"Theatgrhythdaniam",,"",0,150,0
+262629.22,"Unorthodox Saint's Cap",False,0,"星芒祭と子どもたちの贈り物",,"",0,160,640
+262629.23,"Unorthodox Saint's Halfrobe",False,0,"星芒祭と子どもたちの贈り物",,"",0,160,640
+262629.24,"Unorthodox Saint's Gloves",False,0,"星芒祭と子どもたちの贈り物",,"",0,160,640
+262629.25,"Unorthodox Saint's Bottoms",False,0,"星芒祭と子どもたちの贈り物",,"",0,160,640
+262629.26,"Unorthodox Saint's Longboots",False,0,"星芒祭と子どもたちの贈り物",,"",0,160,640
 262630.0,"Usagi Kabuto",False,0,,,"Horsing About",0,100,0
 262630.1,"Silver Usagi Kabuto",False,0,,,"Horsing About",0,100,0
 262630.2,"Black Usagi Kabuto",False,0,,,"Horsing About",0,100,0
@@ -7449,71 +7462,83 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262630.28,"Black Ushi Kabuto",False,0,"Steering Clear of Trouble",,"",0,110,0
 262630.29,"Golden Tora Kabuto",False,0,"Tangle with a Tora",,"",0,110,0
 262630.30,"Silver Tora Kabuto",False,0,"Tangle with a Tora",,"",0,110,0
+262630.31,"Heavensturn Domaru",False,0,"With Great Fortune Comes Great Responsibility",,"",0,120,0
+262630.32,"Heavensturn Kote",False,0,"With Great Fortune Comes Great Responsibility",,"",0,120,0
+262630.33,"Heavensturn Haidate",False,0,"With Great Fortune Comes Great Responsibility",,"",0,120,0
+262630.34,"Heavensturn Sune-ate",False,0,"With Great Fortune Comes Great Responsibility",,"",0,120,0
 262631.0,"Valentione Trousers",False,0,"The Puissance of Love",,"",0,100,0
-262631.1,"Valentione Skirt",False,0,"The Puissance of Love",,"",0,100,0
+262631.1,"Valentione Skirt",False,0,"The Puissance of Love",,"",0,105,0
 262631.2,"Valentione Apron",False,0,"Never Say Farewell",,"",0,100,0
-262631.3,"Valentione Apron Dress",False,0,"Never Say Farewell",,"",0,100,0
-262631.4,"Paramour's Pendant",False,0,,,"Spreading the Love",0,100,0
-262631.5,"Platinum Paramour's Pendant",False,0,,,"Spreading the Love",0,100,0
-262631.6,"Band of Eternal Passion",False,0,,,"Spreading the Love",0,100,0
-262631.7,"Valentione Hat",False,0,,,"Spreading the Love",0,100,0
-262631.8,"Valentione Mitts",False,0,,,"Spreading the Love",0,100,0
-262631.9,"Valentione Pattens",False,0,,,"Spreading the Love",0,100,0
-262631.10,"Black-feathered Flat Hat",False,0,"A Pair of Hearts",,"",0,100,0
-262631.11,"Red-feathered Flat Hat",False,0,"A Pair of Hearts",,"",0,100,0
-262631.12,"Platinum Paramour's Earrings",False,0,"What Is Love",,"",0,100,0
-262631.13,"Paramour's Earrings",False,0,"What Is Love",,"",0,100,0
-262631.14,"Valentione Rose Hat",False,0,"A Vote for Astrid",,"",0,100,0
-262631.15,"Valentione Rose Waistcoat",False,0,"A Vote for Astrid",,"",0,100,0
-262631.16,"Valentione Rose Gloves",False,0,"A Vote for Astrid",,"",0,100,0
-262631.17,"Valentione Rose Slacks",False,0,"A Vote for Astrid",,"",0,100,0
-262631.18,"Valentione Rose Shoes",False,0,"A Vote for Astrid",,"",0,100,0
-262631.19,"Valentione Forget-me-not Hat",False,0,"A Vote for Rodrigault",,"",0,100,0
-262631.20,"Valentione Forget-me-not Waistcoat",False,0,"A Vote for Rodrigault",,"",0,100,0
-262631.21,"Valentione Forget-me-not Gloves",False,0,"A Vote for Rodrigault",,"",0,100,0
-262631.22,"Valentione Forget-me-not Slacks",False,0,"A Vote for Rodrigault",,"",0,100,0
-262631.23,"Valentione Forget-me-not Shoes",False,0,"A Vote for Rodrigault",,"",0,100,0
-262631.24,"Valentione Acacia Hat",False,0,"A Vote for Bert",,"",0,100,0
-262631.25,"Valentione Acacia Waistcoat",False,0,"A Vote for Bert",,"",0,100,0
-262631.26,"Valentione Acacia Gloves",False,0,"A Vote for Bert",,"",0,100,0
-262631.27,"Valentione Acacia Slacks",False,0,"A Vote for Bert",,"",0,100,0
-262631.28,"Valentione Acacia Shoes",False,0,"A Vote for Bert",,"",0,100,0
-262631.29,"Valentione Rose Ribboned Hat",False,0,"A Vote for Astrid",,"",0,100,0
-262631.30,"Valentione Rose Dress",False,0,"A Vote for Astrid",,"",0,100,0
-262631.31,"Valentione Rose Ribboned Gloves",False,0,"A Vote for Astrid",,"",0,100,0
-262631.32,"Valentione Rose Tights",False,0,"A Vote for Astrid",,"",0,100,0
-262631.33,"Valentione Rose Heels",False,0,"A Vote for Astrid",,"",0,100,0
-262631.34,"Valentione Forget-me-not Ribboned Hat",False,0,"A Vote for Rodrigault",,"",0,100,0
-262631.35,"Valentione Forget-me-not Dress",False,0,"A Vote for Rodrigault",,"",0,100,0
-262631.36,"Valentione Forget-me-not Ribboned Gloves",False,0,"A Vote for Rodrigault",,"",0,100,0
-262631.37,"Valentione Forget-me-not Tights",False,0,"A Vote for Rodrigault",,"",0,100,0
-262631.38,"Valentione Forget-me-not Heels",False,0,"A Vote for Rodrigault",,"",0,100,0
-262631.39,"Valentione Acacia Ribboned Hat",False,0,"A Vote for Bert",,"",0,100,0
-262631.40,"Valentione Acacia Dress",False,0,"A Vote for Bert",,"",0,100,0
-262631.41,"Valentione Acacia Ribboned Gloves",False,0,"A Vote for Bert",,"",0,100,0
-262631.42,"Valentione Acacia Tights",False,0,"A Vote for Bert",,"",0,100,0
-262631.43,"Valentione Acacia Heels",False,0,"A Vote for Bert",,"",0,100,0
-262631.44,"Lovely Moogle Cap",False,0,"Little Lady Adventurer",,"",0,100,0
+262631.3,"Valentione Apron Dress",False,0,"Never Say Farewell",,"",0,105,0
+262631.4,"Paramour's Pendant",False,0,,,"Spreading the Love",0,115,0
+262631.5,"Platinum Paramour's Pendant",False,0,,,"Spreading the Love",0,115,0
+262631.6,"Band of Eternal Passion",False,0,,,"Spreading the Love",0,115,0
+262631.7,"Valentione Hat",False,0,,,"Spreading the Love",0,120,0
+262631.8,"Valentione Mitts",False,0,,,"Spreading the Love",0,120,0
+262631.9,"Valentione Pattens",False,0,,,"Spreading the Love",0,120,0
+262631.10,"Black-feathered Flat Hat",False,0,"A Pair of Hearts",,"",0,130,0
+262631.11,"Red-feathered Flat Hat",False,0,"A Pair of Hearts",,"",0,130,0
+262631.12,"Platinum Paramour's Earrings",False,0,"What Is Love",,"",0,135,0
+262631.13,"Paramour's Earrings",False,0,"What Is Love",,"",0,135,0
+262631.14,"Valentione Rose Hat",False,0,"A Vote for Astrid",,"",0,140,0
+262631.15,"Valentione Rose Waistcoat",False,0,"A Vote for Astrid",,"",0,140,0
+262631.16,"Valentione Rose Gloves",False,0,"A Vote for Astrid",,"",0,140,0
+262631.17,"Valentione Rose Slacks",False,0,"A Vote for Astrid",,"",0,140,0
+262631.18,"Valentione Rose Shoes",False,0,"A Vote for Astrid",,"",0,140,0
+262631.19,"Valentione Forget-me-not Hat",False,0,"A Vote for Rodrigault",,"",0,141,0
+262631.20,"Valentione Forget-me-not Waistcoat",False,0,"A Vote for Rodrigault",,"",0,141,0
+262631.21,"Valentione Forget-me-not Gloves",False,0,"A Vote for Rodrigault",,"",0,141,0
+262631.22,"Valentione Forget-me-not Slacks",False,0,"A Vote for Rodrigault",,"",0,141,0
+262631.23,"Valentione Forget-me-not Shoes",False,0,"A Vote for Rodrigault",,"",0,141,0
+262631.24,"Valentione Acacia Hat",False,0,"A Vote for Bert",,"",0,142,0
+262631.25,"Valentione Acacia Waistcoat",False,0,"A Vote for Bert",,"",0,142,0
+262631.26,"Valentione Acacia Gloves",False,0,"A Vote for Bert",,"",0,142,0
+262631.27,"Valentione Acacia Slacks",False,0,"A Vote for Bert",,"",0,142,0
+262631.28,"Valentione Acacia Shoes",False,0,"A Vote for Bert",,"",0,142,0
+262631.29,"Valentione Rose Ribboned Hat",False,0,"A Vote for Astrid",,"",0,145,0
+262631.30,"Valentione Rose Dress",False,0,"A Vote for Astrid",,"",0,145,0
+262631.31,"Valentione Rose Ribboned Gloves",False,0,"A Vote for Astrid",,"",0,145,0
+262631.32,"Valentione Rose Tights",False,0,"A Vote for Astrid",,"",0,145,0
+262631.33,"Valentione Rose Heels",False,0,"A Vote for Astrid",,"",0,145,0
+262631.34,"Valentione Forget-me-not Ribboned Hat",False,0,"A Vote for Rodrigault",,"",0,146,0
+262631.35,"Valentione Forget-me-not Dress",False,0,"A Vote for Rodrigault",,"",0,146,0
+262631.36,"Valentione Forget-me-not Ribboned Gloves",False,0,"A Vote for Rodrigault",,"",0,146,0
+262631.37,"Valentione Forget-me-not Tights",False,0,"A Vote for Rodrigault",,"",0,146,0
+262631.38,"Valentione Forget-me-not Heels",False,0,"A Vote for Rodrigault",,"",0,146,0
+262631.39,"Valentione Acacia Ribboned Hat",False,0,"A Vote for Bert",,"",0,147,0
+262631.40,"Valentione Acacia Dress",False,0,"A Vote for Bert",,"",0,147,0
+262631.41,"Valentione Acacia Ribboned Gloves",False,0,"A Vote for Bert",,"",0,147,0
+262631.42,"Valentione Acacia Tights",False,0,"A Vote for Bert",,"",0,147,0
+262631.43,"Valentione Acacia Heels",False,0,"A Vote for Bert",,"",0,147,0
+262631.44,"Lovely Moogle Cap",False,0,"Little Lady Adventurer",,"",0,150,0
+262631.45,"Valentione Emissary's Hat",False,0,"Suited for Affection",,"",0,160,0
+262631.46,"Valentione Emissary's Jacket",False,0,"Suited for Affection",,"",0,160,0
+262631.47,"Valentione Emissary's Bottoms",False,0,"Suited for Affection",,"",0,160,0
+262631.48,"Valentione Emissary's Boots",False,0,"Suited for Affection",,"",0,160,0
+262631.49,"Valentione Emissary's Dress Hat",False,0,"Suited for Affection",,"",0,165,0
+262631.50,"Valentione Emissary's Ruffled Dress",False,0,"Suited for Affection",,"",0,165,0
+262631.51,"Valentione Emissary's Culottes",False,0,"Suited for Affection",,"",0,165,0
+262631.52,"Valentione Emissary's Dress Boots",False,0,"Suited for Affection",,"",0,165,0
 262632.0,"Peach Blossoms",False,0,,,"Pretty in Pink",0,100,0
-262632.1,"Peach Blossom Choker",False,0,"A Father's Folly",,"",0,100,0
-262632.2,"Lord's Suikan",False,0,"The Lead Starling",,"",0,100,0
-262632.3,"Lady's Suikan",False,0,"The Lead Starling",,"",0,100,0
-262632.4,"Little Lord's Clogs",False,0,"The Lead Starling",,"",0,100,0
-262632.5,"Little Lady's Clogs",False,0,"The Lead Starling",,"",0,100,0
-262632.6,"Songbird Hat",False,0,"Idols Give Back",,"",0,100,0
-262632.7,"Songbird Jacket",False,0,"Idols Give Back",,"",0,100,0
-262632.8,"Songbird Gloves",False,0,"Idols Give Back",,"",0,100,0
-262632.9,"Songbird Skirt",False,0,"Idols Give Back",,"",0,100,0
-262632.10,"Songbird Boots",False,0,"Idols Give Back",,"",0,100,0
-262632.11,"Royal Seneschal's Chapeau",False,0,"Idols Give Back",,"",0,100,0
-262632.12,"Royal Seneschal's Coat",False,0,"Idols Give Back",,"",0,100,0
-262632.13,"Royal Seneschal's Fingerless Gloves",False,0,"Idols Give Back",,"",0,100,0
-262632.14,"Royal Seneschal's Breeches",False,0,"Idols Give Back",,"",0,100,0
-262632.15,"Royal Seneschal's Boots",False,0,"Idols Give Back",,"",0,100,0
-262632.16,"Flower Crown",False,0,"Princess of Flowers",,"",0,100,0
-262632.17,"Seneschal's Monocle",False,0,"Pretty in Peaches",,"",0,100,0
-262632.18,"Princess's Peach Corsage",False,0,"Pretty in Peaches",,"",0,100,0
-262632.19,"Little Lady's Crown",False,0,"Fashion Face-off",,"",0,100,0
+262632.1,"Peach Blossom Choker",False,0,"A Father's Folly",,"",0,101,0
+262632.2,"Lord's Suikan",False,0,"The Lead Starling",,"",0,105,0
+262632.3,"Lady's Suikan",False,0,"The Lead Starling",,"",0,106,0
+262632.4,"Little Lord's Clogs",False,0,"The Lead Starling",,"",0,105,0
+262632.5,"Little Lady's Clogs",False,0,"The Lead Starling",,"",0,106,0
+262632.6,"Songbird Hat",False,0,"Idols Give Back",,"",0,115,0
+262632.7,"Songbird Jacket",False,0,"Idols Give Back",,"",0,115,0
+262632.8,"Songbird Gloves",False,0,"Idols Give Back",,"",0,115,0
+262632.9,"Songbird Skirt",False,0,"Idols Give Back",,"",0,115,0
+262632.10,"Songbird Boots",False,0,"Idols Give Back",,"",0,115,0
+262632.11,"Royal Seneschal's Chapeau",False,0,"Idols Give Back",,"",0,110,0
+262632.12,"Royal Seneschal's Coat",False,0,"Idols Give Back",,"",0,110,0
+262632.13,"Royal Seneschal's Fingerless Gloves",False,0,"Idols Give Back",,"",0,110,0
+262632.14,"Royal Seneschal's Breeches",False,0,"Idols Give Back",,"",0,110,0
+262632.15,"Royal Seneschal's Boots",False,0,"Idols Give Back",,"",0,110,0
+262632.16,"Flower Crown",False,0,"Princess of Flowers",,"",0,120,0
+262632.17,"Seneschal's Monocle",False,0,"Pretty in Peaches",,"",0,130,0
+262632.18,"Princess's Peach Corsage",False,0,"Pretty in Peaches",,"",0,130,0
+262632.19,"Little Lady's Crown",False,0,"Fashion Face-off",,"",0,140,0
 262633.0,"Pristine Egg Cap",False,0,"Hard-boiled",,"",0,100,0
 262633.1,"Chocobo Egg Cap",False,0,"Hard-boiled",,"",0,100,0
 262633.2,"Vibrant Egg Cap",False,0,"Hard-boiled",,"",0,100,0
@@ -7524,28 +7549,33 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262633.7,"Brilliant Egg Ring",False,0,"Hard-boiled",,"",0,100,0
 262633.8,"Vibrant Egg Ring",False,0,"Hard-boiled",,"",0,100,0
 262633.9,"Chocobo Egg Ring",False,0,"Hard-boiled",,"",0,100,0
-262633.10,"Egg Earrings",False,0,"Eggs Pluribus Unum",,"",0,100,0
-262633.11,"Midnight Egg Earrings",False,0,"Eggs Pluribus Unum",,"",0,100,0
-262633.12,"Brilliant Egg Earrings",False,0,"Eggs Pluribus Unum",,"",0,100,0
-262633.13,"Vibrant Egg Earrings",False,0,"Eggs Pluribus Unum",,"",0,100,0
-262633.14,"Spriggan Jacket",False,0,"Eggstreme Eggstrapolation",,"",0,100,0
-262633.15,"Spriggan Bottoms",False,0,"Deus Eggs Machina",,"",0,100,0
-262633.16,"Spriggan Boots",False,0,"Deus Eggs Machina",,"",0,100,0
-262633.17,"Rabbit Head",False,0,"The Eggth Umbral Calamity",,"",0,100,0
-262633.18,"Rabbit Suit",False,0,"The Eggth Umbral Calamity",,"",0,100,0
-262633.19,"Dapper Rabbit Suit",False,0,"A Procession Eggstraordinaire",,"",0,100,0
-262633.20,"Chicken Head",False,0,"A Poultry Sum",,"",0,100,0
-262633.21,"Chicken Suit",False,0,"A Poultry Sum",,"",0,100,0
+262633.10,"Egg Earrings",False,0,"Eggs Pluribus Unum",,"",0,110,0
+262633.11,"Midnight Egg Earrings",False,0,"Eggs Pluribus Unum",,"",0,110,0
+262633.12,"Brilliant Egg Earrings",False,0,"Eggs Pluribus Unum",,"",0,110,0
+262633.13,"Vibrant Egg Earrings",False,0,"Eggs Pluribus Unum",,"",0,110,0
+262633.14,"Spriggan Jacket",False,0,"Eggstreme Eggstrapolation",,"",0,120,0
+262633.15,"Spriggan Bottoms",False,0,"Deus Eggs Machina",,"",0,120,0
+262633.16,"Spriggan Boots",False,0,"Deus Eggs Machina",,"",0,120,0
+262633.17,"Rabbit Head",False,0,"The Eggth Umbral Calamity",,"",0,130,0
+262633.18,"Rabbit Suit",False,0,"The Eggth Umbral Calamity",,"",0,130,0
+262633.19,"Dapper Rabbit Suit",False,0,"A Procession Eggstraordinaire",,"",0,130,0
+262633.20,"Chicken Head",False,0,"A Poultry Sum",,"",0,140,0
+262633.21,"Chicken Suit",False,0,"A Poultry Sum",,"",0,140,0
+262633.22,"Tonberry Head",False,0,"Chaos, Carnage, Eggs",,"",0,150,0
+262633.23,"Tonberry Body",False,0,"Chaos, Carnage, Eggs",,"",0,150,0
+262633.24,"Tonberry Hands",False,0,"Chaos, Carnage, Eggs",,"",0,150,0
+262633.25,"Tonberry Culottes",False,0,"Chaos, Carnage, Eggs",,"",0,150,0
+262633.26,"Tonberry Boots",False,0,"Chaos, Carnage, Eggs",,"",0,150,0
 262634.0,"Amatsu Hachigane",False,0,"A Journey to Remember",,"",0,100,0
 262634.1,"Amatsu Togi",False,0,"A Journey to Remember",,"",0,100,0
 262634.2,"Amatsu Tekko",False,0,"A Journey to Remember",,"",0,100,0
 262634.3,"Amatsu Haidate",False,0,"A Journey to Remember",,"",0,100,0
 262634.4,"Amatsu Sune-ate",False,0,"A Journey to Remember",,"",0,100,0
-262634.5,"Yo-kai Watch",False,0,"A Complete Game Changer",,"",0,100,0
-262634.6,"Lucian Prince's Jacket",False,0,"Messenger of the Winds",,"",0,100,0
-262634.7,"Lucian Prince's Fingerless Glove",False,0,"The Man in Black",,"",0,100,0
-262634.8,"Lucian Prince's Bottoms",False,0,"In the Dark of Night",,"",0,100,0
-262634.9,"Lucian Prince's Boots",False,0,"Messenger of the Winds",,"",0,100,0
+262634.5,"Yo-kai Watch",False,0,"A Complete Game Changer",,"",0,110,0
+262634.6,"Lucian Prince's Jacket",False,0,"Messenger of the Winds",,"",0,120,0
+262634.7,"Lucian Prince's Fingerless Glove",False,0,"The Man in Black",,"",0,120,0
+262634.8,"Lucian Prince's Bottoms",False,0,"In the Dark of Night",,"",0,120,0
+262634.9,"Lucian Prince's Boots",False,0,"Messenger of the Winds",,"",0,120,0
 262635.0,"The Mushroomery Orchestrion Roll",False,0,,,"",0,100,0
 262636.0,"Rising Pillar",False,0,,,"",0,100,0
 262636.1,"Rising Banner",False,0,,,"",0,100,0
@@ -8005,6 +8035,10 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262658.53,"Urth's Fount Phasmascape",False,0,,,"",0,2,630
 262658.54,"Darkest Hourglass",False,0,,,"",0,40,630
 262658.55,"Alpine Pillar",False,0,,,"",0,10,630
+262658.56,"Scattered Tomes",False,0,,,"",0,40,640
+262658.57,"Verdant Pillar",False,0,,,"",0,11,640
+262658.58,"Azure Sky Phasmascape",False,0,,,"",0,3,640
+262658.59,"Starry Sky Phasmascape",False,0,,,"",0,3,640
 262659.0,"Barracuda Piers Painting",False,0,,,"Out of Sight",0,50,0
 262659.1,"Astalicia Painting",False,0,,,"Out of Sight",0,55,0
 262659.2,"Seasong Grotto Painting",False,0,,,"Out of Sight",0,60,0
@@ -8369,6 +8403,8 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262690.38,"Hannish Lamppost",False,0,,,"",0,100,630
 262690.39,"Bliss Orchestrion Roll",False,0,,,"",0,100,630
 262690.40,"Sacred Bonds Orchestrion Roll",False,0,,,"",0,100,630
+262690.41,"Railway Sleepers",False,0,,,"",0,100,640
+262690.42,"",False,0,,,"",0,100,640
 262691.0,"Clear Prism",False,0,,,"",0,100,0
 262691.1,"Glamour Dispeller",False,0,,,"",0,100,0
 262691.2,"Gysahl Greens",False,0,,,"",0,100,0
@@ -11891,6 +11927,12 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262926.17,"Mirage Gloves",False,0,"Master of Mimicry",,"",0,140,540
 262926.18,"Mirage Bottoms",False,0,"Master of Mimicry",,"",0,140,540
 262926.19,"Mirage Boots",False,0,"Master of Mimicry",,"",0,140,540
+262926.20,"",False,0,"",,"",0,150,640
+262926.21,"",False,0,"",,"",0,150,640
+262926.22,"",False,0,"",,"",0,150,640
+262926.23,"",False,0,"",,"",0,150,640
+262926.24,"",False,0,"",,"",0,150,640
+262926.25,"",False,0,"",,"",0,150,640
 262927.0,"Eurekan Potion",False,0,,,"",0,100,0
 262927.1,"Antidote",False,0,,,"",0,100,0
 262927.2,"Eye Drops",False,0,,,"",0,100,0
@@ -14956,6 +14998,7 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263123.23,"Byregotia Seeds",False,0,,,"",0,100,610
 263123.24,"Sweet Pea Seeds",False,0,,,"",0,100,620
 263123.25,"Morning Glory Seeds",False,0,,,"",0,100,630
+263123.26,"Chrysanthemum Seeds",False,0,,,"",0,100,640
 263124.0,"Nymeia Potpourri",False,0,,,"",0,100,0
 263124.1,"Magicked Prism (Flowers)",False,0,,,"",0,100,0
 263124.2,"Meteor Shower",False,0,,,"",0,100,0
@@ -15057,6 +15100,12 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263134.23,"Isle Shepherd's Bottoms",False,0,"A Far Eastern Yarn",,"",0,100,630
 263134.24,"Isle Shepherd's Sandals",False,0,"A Far Eastern Yarn",,"",0,100,630
 263134.25,"Leafman Head",False,0,"A Labor of Leaf",,"",0,100,630
+263134.26,"Baronial Hat",False,0,"An Ideal Marriage",,"",0,100,640
+263134.27,"Baronial Jacket",False,0,"An Ideal Marriage",,"",0,100,640
+263134.28,"Baronial Wristwraps",False,0,"An Ideal Marriage",,"",0,100,640
+263134.29,"Baronial Culottes",False,0,"An Ideal Marriage",,"",0,100,640
+263134.30,"Baronial Longboots",False,0,"An Ideal Marriage",,"",0,100,640
+263134.31,"Forever at Your Side",False,0,"Forever in Our Hearts",,"",0,100,640
 263135.0,"Makai Mauler's Facemask",False,0,,,"Echoes of the Makai Blade",0,100,0
 263135.1,"Makai Mauler's Oilskin",False,0,,,"Echoes of the Makai Blade",0,100,0
 263135.2,"Makai Mauler's Fingerless Gloves",False,0,,,"Echoes of the Makai Blade",0,100,0
@@ -15237,6 +15286,26 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263151.17,"Replica Manderville Milpreves",False,0,,,"Hamm(er)ing It Up: Manderville Milpreves",0,100,630
 263151.18,"Manderville Scythe Replica",False,0,,,"Hamm(er)ing It Up: Manderville Scythe",0,100,630
 263151.19,"Manderville Kite Shield Replica",False,0,,,"Hamm(er)ing It Up: Manderville Sword & Shield",0,100,630
+263151.20,"",False,0,,,"Well-oiled: Amazing Manderville Sword & Shield ",0,100,640
+263151.21,"",False,0,,,"Well-oiled: Amazing Manderville Knuckles",0,100,640
+263151.22,"",False,0,,,"Well-oiled: Amazing Manderville Axe ",0,100,640
+263151.23,"",False,0,,,"Well-oiled: Amazing Manderville Spear",0,100,640
+263151.24,"",False,0,,,"Well-oiled: Amazing Manderville Harp Bow",0,100,640
+263151.25,"",False,0,,,"Well-oiled: Amazing Manderville Knives",0,100,640
+263151.26,"",False,0,,,"Well-oiled: Amazing Manderville Zweihander",0,100,640
+263151.27,"",False,0,,,"Well-oiled: Amazing Manderville Revolver",0,100,640
+263151.28,"",False,0,,,"Well-oiled: Amazing Manderville Cane",0,100,640
+263151.29,"",False,0,,,"Well-oiled: Amazing Manderville Rod",0,100,640
+263151.30,"",False,0,,,"Well-oiled: Amazing Manderville Index",0,100,640
+263151.31,"",False,0,,,"Well-oiled: Amazing Manderville Codex",0,100,640
+263151.32,"",False,0,,,"Well-oiled: Amazing Manderville Torquetum",0,100,640
+263151.33,"",False,0,,,"Well-oiled: Amazing Manderville Samurai Blade",0,100,640
+263151.34,"",False,0,,,"Well-oiled: Amazing Manderville Rapier",0,100,640
+263151.35,"",False,0,,,"Well-oiled: Amazing Manderville Gunblade",0,100,640
+263151.36,"",False,0,,,"Well-oiled: Amazing Manderville Chakrams",0,100,640
+263151.37,"",False,0,,,"Well-oiled: Amazing Manderville Milpreves",0,100,640
+263151.38,"",False,0,,,"Well-oiled: Amazing Manderville Scythe",0,100,640
+263151.39,"",False,0,,,"Well-oiled: Amazing Manderville Sword & Shield ",0,100,640
 263152.0,"Peach Confetti",False,0,,,"",0,100,0
 263152.1,"Cherry Confetti",False,0,,,"",0,100,0
 263152.2,"Lovely Little Ladies' Day Advertisement",False,0,,,"",0,90,9999
@@ -15323,3 +15392,36 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263158.14,"Kumbhiraskin Shoes of Crafting",False,0,,,"",0,100,0
 263159.0,"Gysahl Greens",False,0,,,"",0,100,0
 263159.1,"Grade 8 Dark Matter",False,0,,,"",0,100,0
+263160.0,"",False,0,,,"Splendid: Crystalline Saw",0,100,640
+263160.1,"",False,0,,,"Splendid: Crystalline Cross-pein Hammer",0,100,640
+263160.2,"",False,0,,,"Splendid: Crystalline Raising Hammer",0,100,640
+263160.3,"",False,0,,,"Splendid: Crystalline Mallet",0,100,640
+263160.4,"",False,0,,,"Splendid: Crystalline Round Knife",0,100,640
+263160.5,"",False,0,,,"Splendid: Crystalline Needle",0,100,640
+263160.6,"",False,0,,,"Splendid: Crystalline Alembic",0,100,640
+263160.7,"",False,0,,,"Splendid: Crystalline Frypan",0,100,640
+263160.8,"",False,0,,,"Splendid: Crystalline Pickaxe",0,100,640
+263160.9,"",False,0,,,"Splendid: Crystalline Hatchet",0,100,640
+263160.10,"",False,0,,,"Splendid: Crystalline Fishing Rod",0,100,640
+263161.0,"Wall-mounted Vampire Bats",False,0,,,"",0,100,9999
+263161.1,"Magicked Prism (Pumpkin)",False,0,,,"",0,110,0
+263162.0,"Illuminated Topiary Chocobo",False,0,,,"",0,100,9999
+263162.1,"Magicked Prism (Sunshine)",False,0,,,"",0,110,0
+263162.2,"Magicked Prism (Stardust)",False,0,,,"",0,110,0
+263163.0,"",False,0,,,"",0,90,9999
+263163.1,"",False,0,,,"",0,90,9999
+263163.2,"",False,0,,,"",0,100,9999
+263163.3,"Nymeia Potpourri",False,0,,,"",0,110,0
+263163.4,"Magicked Prism (Flowers)",False,0,,,"",0,111,0
+263163.5,"Meteor Shower",False,0,,,"",0,112,0
+263163.6,"Heavenscracker",False,0,,,"",0,113,0
+263163.7,"Realm Reborn Red",False,0,,,"",0,114,0
+263163.8,"Magicked Prism (Meteor Survivor)",False,0,,,"",0,115,0
+263164.0,"Fracture Orchestrion Roll",False,0,,,"",0,100,640
+263164.1,"Conundrum Orchestrion Roll",False,0,,,"",0,100,640
+263164.2,"Return of the Hero Orchestrion Roll",False,0,,,"",0,100,640
+263164.3,"Kiss of Chaos Orchestrion Roll",False,0,,,"",0,100,640
+263164.4,"Machinations Orchestrion Roll",False,0,,,"",0,100,640
+263164.5,"Damnation Orchestrion Roll",False,0,,,"",0,100,640
+263164.6,"Skullduggery Orchestrion Roll",False,0,,,"",0,100,640
+263164.7,"Tranquility Orchestrion Roll",False,0,,,"",0,100,640
