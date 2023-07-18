@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3
 #,Item,Required{GrandCompanyRank},Cost{GCSeals},SortKey
 int32,Item,GrandCompanyRank,uint32,byte
-0.0,"Diadochos Sword","GrandCompanyRank#0",0,0
+0.0,"","GrandCompanyRank#0",0,0
 1.0,"Grade 1 Dark Matter","GrandCompanyRank#1",12,50
 1.1,"Grade 2 Dark Matter","GrandCompanyRank#1",34,50
 1.2,"Grade 3 Dark Matter","GrandCompanyRank#1",70,50
@@ -17,7 +17,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 1.12,"Company-issue Survival Manual","GrandCompanyRank#3",1440,150
 1.13,"Grade 4 Dark Matter","GrandCompanyRank#4",138,200
 1.14,"Grade 5 Dark Matter","GrandCompanyRank#4",230,200
-1.15,"Diadochos Sword","GrandCompanyRank#0",0,0
+1.15,"","GrandCompanyRank#0",0,0
 2.0,"Storm Private's Sword","GrandCompanyRank#1",1060,50
 2.1,"Storm Private's Hora","GrandCompanyRank#1",1060,50
 2.2,"Storm Private's Axe","GrandCompanyRank#1",1060,50
@@ -39,7 +39,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 2.18,"Storm Private's Zweihander","GrandCompanyRank#4",1770,200
 2.19,"Storm Private's Musketoon","GrandCompanyRank#4",1770,200
 2.20,"Storm Private's Planisphere","GrandCompanyRank#4",1770,200
-2.21,"Diadochos Sword","GrandCompanyRank#0",0,0
+2.21,"","GrandCompanyRank#0",0,0
 3.0,"Lominsan Soldier's Cap","GrandCompanyRank#1",680,50
 3.1,"Lominsan Soldier's Overcoat","GrandCompanyRank#1",1040,50
 3.2,"Lominsan Soldier's Gloves","GrandCompanyRank#1",660,50
@@ -67,7 +67,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 3.24,"Storm Private's Bliaud","GrandCompanyRank#4",1960,200
 3.25,"Storm Private's Trousers","GrandCompanyRank#4",1360,200
 3.26,"Patriot's Bracelet","GrandCompanyRank#4",1210,200
-3.27,"Diadochos Sword","GrandCompanyRank#0",0,0
+3.27,"","GrandCompanyRank#0",0,0
 4.0,"Lominsan Half Barding","GrandCompanyRank#5",4000,50
 4.1,"Dusken Draught","GrandCompanyRank#5",2850,50
 4.2,"Lominsan Barding","GrandCompanyRank#6",6000,100
@@ -88,13 +88,13 @@ int32,Item,GrandCompanyRank,uint32,byte
 4.17,"Storm Ceiling Fan & Lamp","GrandCompanyRank#8",6800,200
 4.18,"Glamour Dispeller","GrandCompanyRank#8",200,200
 4.19,"Glamour Prism","GrandCompanyRank#8",200,200
-4.20,"Diadochos Sword","GrandCompanyRank#0",0,0
-4.21,"Diadochos Sword","GrandCompanyRank#0",0,0
-4.22,"Diadochos Sword","GrandCompanyRank#0",0,0
-4.23,"Diadochos Sword","GrandCompanyRank#0",0,0
-4.24,"Diadochos Sword","GrandCompanyRank#0",0,0
-4.25,"Diadochos Sword","GrandCompanyRank#0",0,0
-4.26,"Diadochos Sword","GrandCompanyRank#0",0,0
+4.20,"","GrandCompanyRank#0",0,0
+4.21,"","GrandCompanyRank#0",0,0
+4.22,"","GrandCompanyRank#0",0,0
+4.23,"","GrandCompanyRank#0",0,0
+4.24,"","GrandCompanyRank#0",0,0
+4.25,"","GrandCompanyRank#0",0,0
+4.26,"","GrandCompanyRank#0",0,0
 5.0,"Lominsan Shortsword","GrandCompanyRank#6",2970,100
 5.1,"Lominsan Baghnakhs","GrandCompanyRank#6",2970,100
 5.2,"Lominsan War Axe","GrandCompanyRank#6",2970,100
@@ -133,7 +133,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 5.35,"Storm Sergeant's Claymore","GrandCompanyRank#8",4200,200
 5.36,"Storm Sergeant's Musketoon","GrandCompanyRank#8",4200,200
 5.37,"Storm Sergeant's Star Globe","GrandCompanyRank#8",4200,200
-5.38,"Diadochos Sword","GrandCompanyRank#0",0,0
+5.38,"","GrandCompanyRank#0",0,0
 6.0,"Storm Sergeant's Skirt","GrandCompanyRank#5",1620,50
 6.1,"Storm Sergeant's Kecks","GrandCompanyRank#5",1620,50
 6.2,"Storm Sergeant's Breeches","GrandCompanyRank#5",1620,50
@@ -164,7 +164,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 6.27,"Stormbringer's Ring","GrandCompanyRank#8",1900,200
 6.28,"Stormcarrier's Ring","GrandCompanyRank#8",1900,200
 6.29,"Storm Sergeant's Ring","GrandCompanyRank#8",2010,200
-6.30,"Diadochos Sword","GrandCompanyRank#0",0,0
+6.30,"","GrandCompanyRank#0",0,0
 7.0,"Grade 6 Dark Matter","GrandCompanyRank#9",345,10
 7.1,"Storm Hatchling","GrandCompanyRank#9",20000,90
 7.2,"Reagan Pepper","GrandCompanyRank#9",48000,90
@@ -204,7 +204,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 7.36,"Materiel Container 4.0","GrandCompanyRank#11",20000,200
 7.37,"Maelstrom Command Orchestrion Roll","GrandCompanyRank#11",40000,95
 7.38,"Ripples in the Sea Orchestrion Roll","GrandCompanyRank#11",40000,95
-7.39,"Diadochos Sword","GrandCompanyRank#0",0,0
+7.39,"","GrandCompanyRank#0",0,0
 8.0,"Storm Officer's Cutlass","GrandCompanyRank#9",7040,50
 8.1,"Storm Officer's Hooks","GrandCompanyRank#9",7040,50
 8.2,"Storm Officer's Labrys","GrandCompanyRank#9",7040,50
@@ -244,7 +244,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 8.36,"Storm Captain's Astrometer","GrandCompanyRank#11",35000,90
 8.37,"Storm Captain's Katana","GrandCompanyRank#11",35000,90
 8.38,"Storm Captain's Rapier","GrandCompanyRank#11",35000,90
-8.39,"Diadochos Sword","GrandCompanyRank#0",0,0
+8.39,"","GrandCompanyRank#0",0,0
 9.0,"Lominsan Officer's Cap","GrandCompanyRank#9",4800,50
 9.1,"Lominsan Officer's Overcoat","GrandCompanyRank#9",7340,50
 9.2,"Lominsan Officer's Gloves","GrandCompanyRank#9",4650,50
@@ -257,7 +257,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 9.9,"Artisan's Chausses","GrandCompanyRank#9",5000,80
 9.10,"Artisan's Gown","GrandCompanyRank#9",6500,80
 9.11,"Artisan's Pattens","GrandCompanyRank#9",5000,80
-9.12,"Diadochos Sword","GrandCompanyRank#0",0,0
+9.12,"","GrandCompanyRank#0",0,0
 10.0,"Grade 1 Dark Matter","GrandCompanyRank#1",12,50
 10.1,"Grade 2 Dark Matter","GrandCompanyRank#1",34,50
 10.2,"Grade 3 Dark Matter","GrandCompanyRank#1",70,50
@@ -273,7 +273,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 10.12,"Company-issue Survival Manual","GrandCompanyRank#3",1440,150
 10.13,"Grade 4 Dark Matter","GrandCompanyRank#4",138,200
 10.14,"Grade 5 Dark Matter","GrandCompanyRank#4",230,200
-10.15,"Diadochos Sword","GrandCompanyRank#0",0,0
+10.15,"","GrandCompanyRank#0",0,0
 11.0,"Serpent Private's Sword","GrandCompanyRank#1",1060,50
 11.1,"Serpent Private's Hora","GrandCompanyRank#1",1060,50
 11.2,"Serpent Private's Axe","GrandCompanyRank#1",1060,50
@@ -295,7 +295,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 11.18,"Serpent Private's Zweihander","GrandCompanyRank#4",1770,200
 11.19,"Serpent Private's Musketoon","GrandCompanyRank#4",1770,200
 11.20,"Serpent Private's Planisphere","GrandCompanyRank#4",1770,200
-11.21,"Diadochos Sword","GrandCompanyRank#0",0,0
+11.21,"","GrandCompanyRank#0",0,0
 12.0,"Gridanian Soldier's Cap","GrandCompanyRank#1",680,50
 12.1,"Gridanian Soldier's Overcoat","GrandCompanyRank#1",1040,50
 12.2,"Gridanian Soldier's Gloves","GrandCompanyRank#1",660,50
@@ -323,7 +323,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 12.24,"Serpent Private's Bliaud","GrandCompanyRank#4",1960,200
 12.25,"Serpent Private's Kecks","GrandCompanyRank#4",1360,200
 12.26,"Patriot's Bracelet","GrandCompanyRank#4",1210,200
-12.27,"Diadochos Sword","GrandCompanyRank#0",0,0
+12.27,"","GrandCompanyRank#0",0,0
 13.0,"Gridanian Half Barding","GrandCompanyRank#5",4000,50
 13.1,"Kiss of the Morning Meadow","GrandCompanyRank#5",2850,50
 13.2,"Gridanian Barding","GrandCompanyRank#6",6000,100
@@ -344,13 +344,13 @@ int32,Item,GrandCompanyRank,uint32,byte
 13.17,"Serpent Ceiling Fan & Lamp","GrandCompanyRank#8",6800,200
 13.18,"Glamour Dispeller","GrandCompanyRank#8",200,200
 13.19,"Glamour Prism","GrandCompanyRank#8",200,200
-13.20,"Diadochos Sword","GrandCompanyRank#0",0,0
-13.21,"Diadochos Sword","GrandCompanyRank#0",0,0
-13.22,"Diadochos Sword","GrandCompanyRank#0",0,0
-13.23,"Diadochos Sword","GrandCompanyRank#0",0,0
-13.24,"Diadochos Sword","GrandCompanyRank#0",0,0
-13.25,"Diadochos Sword","GrandCompanyRank#0",0,0
-13.26,"Diadochos Sword","GrandCompanyRank#0",0,0
+13.20,"","GrandCompanyRank#0",0,0
+13.21,"","GrandCompanyRank#0",0,0
+13.22,"","GrandCompanyRank#0",0,0
+13.23,"","GrandCompanyRank#0",0,0
+13.24,"","GrandCompanyRank#0",0,0
+13.25,"","GrandCompanyRank#0",0,0
+13.26,"","GrandCompanyRank#0",0,0
 14.0,"Gridanian Macuahuitl","GrandCompanyRank#6",2970,100
 14.1,"Gridanian Knuckles","GrandCompanyRank#6",2970,100
 14.2,"Gridanian Bill","GrandCompanyRank#6",2970,100
@@ -388,7 +388,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 14.34,"Serpent Sergeant's Claymore","GrandCompanyRank#8",4200,200
 14.35,"Serpent Sergeant's Musketoon","GrandCompanyRank#8",4200,200
 14.36,"Serpent Sergeant's Star Globe","GrandCompanyRank#8",4200,200
-14.37,"Diadochos Sword","GrandCompanyRank#0",0,0
+14.37,"","GrandCompanyRank#0",0,0
 15.0,"Serpent Sergeant's Skirt","GrandCompanyRank#5",1620,50
 15.1,"Serpent Sergeant's Trousers","GrandCompanyRank#5",1620,50
 15.2,"Serpent Sergeant's Breeches","GrandCompanyRank#5",1620,50
@@ -420,7 +420,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 15.28,"Serpentbringer's Ring","GrandCompanyRank#8",1900,200
 15.29,"Serpentcarrier's Ring","GrandCompanyRank#8",1900,200
 15.30,"Serpent Sergeant's Ring","GrandCompanyRank#8",2010,200
-15.31,"Diadochos Sword","GrandCompanyRank#0",0,0
+15.31,"","GrandCompanyRank#0",0,0
 16.0,"Grade 6 Dark Matter","GrandCompanyRank#9",345,10
 16.1,"Serpent Hatchling","GrandCompanyRank#9",20000,90
 16.2,"Reagan Pepper","GrandCompanyRank#9",48000,90
@@ -460,7 +460,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 16.36,"Materiel Container 4.0","GrandCompanyRank#11",20000,200
 16.37,"Into the Adder's Den Orchestrion Roll","GrandCompanyRank#11",40000,95
 16.38,"Dewdrops & Moonbeams Orchestrion Roll","GrandCompanyRank#11",40000,95
-16.39,"Diadochos Sword","GrandCompanyRank#0",0,0
+16.39,"","GrandCompanyRank#0",0,0
 17.0,"Serpent Officer's Longsword","GrandCompanyRank#9",7040,50
 17.1,"Serpent Officer's Claws","GrandCompanyRank#9",7040,50
 17.2,"Serpent Officer's Bardiche","GrandCompanyRank#9",7040,50
@@ -500,7 +500,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 17.36,"Serpent Captain's Planisphere","GrandCompanyRank#11",35000,90
 17.37,"Serpent Captain's Katana","GrandCompanyRank#11",35000,90
 17.38,"Serpent Captain's Smallsword","GrandCompanyRank#11",35000,90
-17.39,"Diadochos Sword","GrandCompanyRank#0",0,0
+17.39,"","GrandCompanyRank#0",0,0
 18.0,"Gridanian Officer's Cap","GrandCompanyRank#9",4800,50
 18.1,"Gridanian Officer's Overcoat","GrandCompanyRank#9",7340,50
 18.2,"Gridanian Officer's Gloves","GrandCompanyRank#9",4650,50
@@ -513,7 +513,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 18.9,"Artisan's Chausses","GrandCompanyRank#9",5000,80
 18.10,"Artisan's Gown","GrandCompanyRank#9",6500,80
 18.11,"Artisan's Pattens","GrandCompanyRank#9",5000,80
-18.12,"Diadochos Sword","GrandCompanyRank#0",0,0
+18.12,"","GrandCompanyRank#0",0,0
 19.0,"Grade 1 Dark Matter","GrandCompanyRank#1",12,50
 19.1,"Grade 2 Dark Matter","GrandCompanyRank#1",34,50
 19.2,"Grade 3 Dark Matter","GrandCompanyRank#1",70,50
@@ -529,7 +529,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 19.12,"Company-issue Survival Manual","GrandCompanyRank#3",1440,150
 19.13,"Grade 4 Dark Matter","GrandCompanyRank#4",138,200
 19.14,"Grade 5 Dark Matter","GrandCompanyRank#4",230,200
-19.15,"Diadochos Sword","GrandCompanyRank#0",0,0
+19.15,"","GrandCompanyRank#0",0,0
 20.0,"Flame Private's Sword","GrandCompanyRank#1",1060,50
 20.1,"Flame Private's Hora","GrandCompanyRank#1",1060,50
 20.2,"Flame Private's Axe","GrandCompanyRank#1",1060,50
@@ -551,7 +551,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 20.18,"Flame Private's Zweihander","GrandCompanyRank#4",1770,200
 20.19,"Flame Private's Musketoon","GrandCompanyRank#4",1770,200
 20.20,"Flame Private's Planisphere","GrandCompanyRank#4",1770,200
-20.21,"Diadochos Sword","GrandCompanyRank#0",0,0
+20.21,"","GrandCompanyRank#0",0,0
 21.0,"Ul'dahn Soldier's Cap","GrandCompanyRank#1",680,50
 21.1,"Ul'dahn Soldier's Overcoat","GrandCompanyRank#1",1040,50
 21.2,"Ul'dahn Soldier's Gloves","GrandCompanyRank#1",660,50
@@ -580,7 +580,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 21.25,"Flame Private's Bliaud","GrandCompanyRank#4",1960,200
 21.26,"Flame Private's Sarouel","GrandCompanyRank#4",1360,200
 21.27,"Patriot's Bracelet","GrandCompanyRank#4",1210,200
-21.28,"Diadochos Sword","GrandCompanyRank#0",0,0
+21.28,"","GrandCompanyRank#0",0,0
 22.0,"Ul'dahn Half Barding","GrandCompanyRank#5",4000,50
 22.1,"Onyx Tears","GrandCompanyRank#5",2850,50
 22.2,"Ul'dahn Barding","GrandCompanyRank#6",6000,100
@@ -601,13 +601,13 @@ int32,Item,GrandCompanyRank,uint32,byte
 22.17,"Flame Ceiling Fan & Lamp","GrandCompanyRank#8",6800,200
 22.18,"Glamour Dispeller","GrandCompanyRank#8",200,200
 22.19,"Glamour Prism","GrandCompanyRank#8",200,200
-22.20,"Diadochos Sword","GrandCompanyRank#0",0,0
-22.21,"Diadochos Sword","GrandCompanyRank#0",0,0
-22.22,"Diadochos Sword","GrandCompanyRank#0",0,0
-22.23,"Diadochos Sword","GrandCompanyRank#0",0,0
-22.24,"Diadochos Sword","GrandCompanyRank#0",0,0
-22.25,"Diadochos Sword","GrandCompanyRank#0",0,0
-22.26,"Diadochos Sword","GrandCompanyRank#0",0,0
+22.20,"","GrandCompanyRank#0",0,0
+22.21,"","GrandCompanyRank#0",0,0
+22.22,"","GrandCompanyRank#0",0,0
+22.23,"","GrandCompanyRank#0",0,0
+22.24,"","GrandCompanyRank#0",0,0
+22.25,"","GrandCompanyRank#0",0,0
+22.26,"","GrandCompanyRank#0",0,0
 23.0,"Ul'dahn Falchion","GrandCompanyRank#6",2970,100
 23.1,"Ul'dahn Hora","GrandCompanyRank#6",2970,100
 23.2,"Ul'dahn Bhuj","GrandCompanyRank#6",2970,100
@@ -645,7 +645,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 23.34,"Flame Sergeant's Claymore","GrandCompanyRank#8",4200,200
 23.35,"Flame Sergeant's Musketoon","GrandCompanyRank#8",4200,200
 23.36,"Flame Sergeant's Star Globe","GrandCompanyRank#8",4200,200
-23.37,"Diadochos Sword","GrandCompanyRank#0",0,0
+23.37,"","GrandCompanyRank#0",0,0
 24.0,"Flame Sergeant's Trousers","GrandCompanyRank#5",1620,50
 24.1,"Flame Sergeant's Subligar","GrandCompanyRank#5",1620,50
 24.2,"Flame Sergeant's Tights","GrandCompanyRank#5",1620,50
@@ -677,7 +677,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 24.28,"Flamebringer's Ring","GrandCompanyRank#8",1900,200
 24.29,"Flamecarrier's Ring","GrandCompanyRank#8",1900,200
 24.30,"Flame Sergeant's Ring","GrandCompanyRank#8",2010,200
-24.31,"Diadochos Sword","GrandCompanyRank#0",0,0
+24.31,"","GrandCompanyRank#0",0,0
 25.0,"Grade 6 Dark Matter","GrandCompanyRank#9",345,10
 25.1,"Flame Hatchling","GrandCompanyRank#9",20000,90
 25.2,"Reagan Pepper","GrandCompanyRank#9",48000,90
@@ -718,7 +718,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 25.37,"Materiel Container 4.0","GrandCompanyRank#11",20000,200
 25.38,"The Hall of Flames Orchestrion Roll","GrandCompanyRank#11",40000,95
 25.39,"The Sands' Secrets Orchestrion Roll","GrandCompanyRank#11",40000,95
-25.40,"Diadochos Sword","GrandCompanyRank#0",0,0
+25.40,"","GrandCompanyRank#0",0,0
 26.0,"Flame Officer's Katzbalger","GrandCompanyRank#9",7040,50
 26.1,"Flame Officer's Jamadhars","GrandCompanyRank#9",7040,50
 26.2,"Flame Officer's Axe","GrandCompanyRank#9",7040,50
@@ -758,7 +758,7 @@ int32,Item,GrandCompanyRank,uint32,byte
 26.36,"Flame Captain's Star Globe","GrandCompanyRank#11",35000,90
 26.37,"Flame Captain's Samurai Blade","GrandCompanyRank#11",35000,90
 26.38,"Flame Captain's Tuck","GrandCompanyRank#11",35000,90
-26.39,"Diadochos Sword","GrandCompanyRank#0",0,0
+26.39,"","GrandCompanyRank#0",0,0
 27.0,"Ul'dahn Officer's Cap","GrandCompanyRank#9",4800,50
 27.1,"Ul'dahn Officer's Overcoat","GrandCompanyRank#9",7340,50
 27.2,"Ul'dahn Officer's Gloves","GrandCompanyRank#9",4650,50
@@ -771,12 +771,12 @@ int32,Item,GrandCompanyRank,uint32,byte
 27.9,"Artisan's Chausses","GrandCompanyRank#9",5000,80
 27.10,"Artisan's Gown","GrandCompanyRank#9",6500,80
 27.11,"Artisan's Pattens","GrandCompanyRank#9",5000,80
-27.12,"Diadochos Sword","GrandCompanyRank#0",0,0
+27.12,"","GrandCompanyRank#0",0,0
 28.0,"Swan Feather","GrandCompanyRank#4",200,200
 28.1,"Eagle Feather","GrandCompanyRank#4",200,200
 28.2,"Pudding Flesh","GrandCompanyRank#4",200,200
-28.3,"Diadochos Sword","GrandCompanyRank#0",0,0
-29.0,"Diadochos Sword","GrandCompanyRank#0",0,0
+28.3,"","GrandCompanyRank#0",0,0
+29.0,"","GrandCompanyRank#0",0,0
 30.0,"Cooking Sherry","GrandCompanyRank#9",20,40
 30.1,"Filtered Water","GrandCompanyRank#9",20,40
 30.2,"Voidsent Blood","GrandCompanyRank#9",20,40
@@ -818,12 +818,12 @@ int32,Item,GrandCompanyRank,uint32,byte
 30.38,"Quick-hardening Sealant","GrandCompanyRank#9",2300,15
 30.39,"Glass Fiber","GrandCompanyRank#9",7000,15
 30.40,"Xelphatol Spring Water","GrandCompanyRank#11",2500,60
-30.41,"Diadochos Sword","GrandCompanyRank#0",0,0
+30.41,"","GrandCompanyRank#0",0,0
 31.0,"Swan Feather","GrandCompanyRank#4",200,200
 31.1,"Eagle Feather","GrandCompanyRank#4",200,200
 31.2,"Pudding Flesh","GrandCompanyRank#4",200,200
-31.3,"Diadochos Sword","GrandCompanyRank#0",0,0
-32.0,"Diadochos Sword","GrandCompanyRank#0",0,0
+31.3,"","GrandCompanyRank#0",0,0
+32.0,"","GrandCompanyRank#0",0,0
 33.0,"Cooking Sherry","GrandCompanyRank#9",20,40
 33.1,"Filtered Water","GrandCompanyRank#9",20,40
 33.2,"Voidsent Blood","GrandCompanyRank#9",20,40
@@ -865,12 +865,12 @@ int32,Item,GrandCompanyRank,uint32,byte
 33.38,"Quick-hardening Sealant","GrandCompanyRank#9",2300,15
 33.39,"Glass Fiber","GrandCompanyRank#9",7000,15
 33.40,"Xelphatol Spring Water","GrandCompanyRank#11",2500,60
-33.41,"Diadochos Sword","GrandCompanyRank#0",0,0
+33.41,"","GrandCompanyRank#0",0,0
 34.0,"Swan Feather","GrandCompanyRank#4",200,200
 34.1,"Eagle Feather","GrandCompanyRank#4",200,200
 34.2,"Pudding Flesh","GrandCompanyRank#4",200,200
-34.3,"Diadochos Sword","GrandCompanyRank#0",0,0
-35.0,"Diadochos Sword","GrandCompanyRank#0",0,0
+34.3,"","GrandCompanyRank#0",0,0
+35.0,"","GrandCompanyRank#0",0,0
 36.0,"Cooking Sherry","GrandCompanyRank#9",20,40
 36.1,"Filtered Water","GrandCompanyRank#9",20,40
 36.2,"Voidsent Blood","GrandCompanyRank#9",20,40
@@ -912,4 +912,4 @@ int32,Item,GrandCompanyRank,uint32,byte
 36.38,"Quick-hardening Sealant","GrandCompanyRank#9",2300,15
 36.39,"Glass Fiber","GrandCompanyRank#9",7000,15
 36.40,"Xelphatol Spring Water","GrandCompanyRank#11",2500,60
-36.41,"Diadochos Sword","GrandCompanyRank#0",0,0
+36.41,"","GrandCompanyRank#0",0,0

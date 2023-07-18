@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5
 #,Item,ModelID,Icon,SE,,
 int32,Item,uint16,Image,bit&01,bit&02,byte
-0,"Diadochos Sword",0,,False,False,0
+0,"",0,,False,False,0
 1,"Paprika",2,"ui/icon/066000/066501.tex",False,False,0
 2,"Wild Onion",2,"ui/icon/066000/066502.tex",False,False,0
 3,"Coerthan Carrot",2,"ui/icon/066000/066503.tex",False,False,0

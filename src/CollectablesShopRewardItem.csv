@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9
 #,Item,,RewardLow,RewardMid,RewardHigh,,,,,
 int32,Item,bit&01,byte,byte,byte,uint32,bit&02,byte,byte,byte
-0,"Diadochos Sword",False,0,0,0,0,False,0,0,0
+0,"",False,0,0,0,0,False,0,0,0
 1,"Carpenter's Gobbiegoo",False,2,3,5,0,False,0,0,0
 2,"Highly Viscous Carpenter's Gobbiegoo",False,2,3,5,0,False,0,0,0
 3,"Blacksmith's Gobbiegoo",False,2,3,5,0,False,0,0,0
@@ -78,46 +78,46 @@ int32,Item,bit&01,byte,byte,byte,uint32,bit&02,byte,byte,byte
 74,"Adaptive Botanist's Component",False,1,3,0,0,False,0,0,0
 75,"Adaptive Fishing Rod Component",False,1,2,3,0,False,0,0,0
 76,"Adaptive Fishing Reel Component",False,1,2,3,0,False,0,0,0
-77,"",False,1,3,0,0,False,0,0,0
-78,"",False,1,3,0,0,False,0,0,0
-79,"",False,1,3,0,0,False,0,0,0
-80,"",False,1,3,0,0,False,0,0,0
-81,"",False,1,3,0,0,False,0,0,0
-82,"",False,1,3,0,0,False,0,0,0
-83,"",False,1,3,0,0,False,0,0,0
-84,"",False,1,3,0,0,False,0,0,0
-85,"",False,1,3,0,0,False,0,0,0
-86,"",False,1,3,0,0,False,0,0,0
-87,"",False,1,3,0,0,False,0,0,0
-88,"",False,1,3,0,0,False,0,0,0
-89,"",False,1,3,0,0,False,0,0,0
-90,"",False,1,3,0,0,False,0,0,0
-91,"",False,1,3,0,0,False,0,0,0
-92,"",False,1,3,0,0,False,0,0,0
-93,"",False,1,3,0,0,False,0,0,0
-94,"",False,1,3,0,0,False,0,0,0
-95,"",False,1,2,0,0,False,0,0,0
-96,"",False,1,2,0,0,False,0,0,0
-97,"",False,1,3,0,0,False,0,0,0
-98,"",False,1,3,0,0,False,0,0,0
-99,"",False,1,2,0,0,False,0,0,0
-100,"",False,1,2,0,0,False,0,0,0
-101,"Diadochos Sword",False,0,0,0,0,False,0,0,0
-102,"Diadochos Sword",False,0,0,0,0,False,0,0,0
-103,"Diadochos Sword",False,0,0,0,0,False,0,0,0
-104,"Diadochos Sword",False,0,0,0,0,False,0,0,0
-105,"Diadochos Sword",False,0,0,0,0,False,0,0,0
-106,"Diadochos Sword",False,0,0,0,0,False,0,0,0
-107,"Diadochos Sword",False,0,0,0,0,False,0,0,0
-108,"Diadochos Sword",False,0,0,0,0,False,0,0,0
-109,"Diadochos Sword",False,0,0,0,0,False,0,0,0
-110,"Diadochos Sword",False,0,0,0,0,False,0,0,0
-111,"Diadochos Sword",False,0,0,0,0,False,0,0,0
-112,"Diadochos Sword",False,0,0,0,0,False,0,0,0
-113,"Diadochos Sword",False,0,0,0,0,False,0,0,0
-114,"Diadochos Sword",False,0,0,0,0,False,0,0,0
-115,"Diadochos Sword",False,0,0,0,0,False,0,0,0
-116,"Diadochos Sword",False,0,0,0,0,False,0,0,0
-117,"Diadochos Sword",False,0,0,0,0,False,0,0,0
-118,"Diadochos Sword",False,0,0,0,0,False,0,0,0
-119,"Diadochos Sword",False,0,0,0,0,False,0,0,0
+77,"Customized Carpenter's Component",False,1,3,0,0,False,0,0,0
+78,"Customized Blacksmith's Component",False,1,3,0,0,False,0,0,0
+79,"Customized Armorer's Component",False,1,3,0,0,False,0,0,0
+80,"Customized Goldsmith's Component",False,1,3,0,0,False,0,0,0
+81,"Customized Leatherworker's Component",False,1,3,0,0,False,0,0,0
+82,"Customized Weaver's Component",False,1,3,0,0,False,0,0,0
+83,"Customized Alchemist's Component",False,1,3,0,0,False,0,0,0
+84,"Customized Culinarian's Component",False,1,3,0,0,False,0,0,0
+85,"Brilliant Carpenter's Component",False,1,3,0,0,False,0,0,0
+86,"Brilliant Blacksmith's Component",False,1,3,0,0,False,0,0,0
+87,"Brilliant Armorer's Component",False,1,3,0,0,False,0,0,0
+88,"Brilliant Goldsmith's Component",False,1,3,0,0,False,0,0,0
+89,"Brilliant Leatherworker's Component",False,1,3,0,0,False,0,0,0
+90,"Brilliant Weaver's Component",False,1,3,0,0,False,0,0,0
+91,"Brilliant Alchemist's Component",False,1,3,0,0,False,0,0,0
+92,"Brilliant Culinarian's Component",False,1,3,0,0,False,0,0,0
+93,"Customized Miner's Component",False,1,3,0,0,False,0,0,0
+94,"Customized Botanist's Component",False,1,3,0,0,False,0,0,0
+95,"Customized Fishing Rod Component",False,1,2,0,0,False,0,0,0
+96,"Customized Fishing Reel Component",False,1,2,0,0,False,0,0,0
+97,"Brilliant Miner's Component",False,1,3,0,0,False,0,0,0
+98,"Brilliant Botanist's Component",False,1,3,0,0,False,0,0,0
+99,"Brilliant Fishing Rod Component",False,1,2,0,0,False,0,0,0
+100,"Brilliant Fishing Reel Component",False,1,2,0,0,False,0,0,0
+101,"",False,0,0,0,0,False,0,0,0
+102,"",False,0,0,0,0,False,0,0,0
+103,"",False,0,0,0,0,False,0,0,0
+104,"",False,0,0,0,0,False,0,0,0
+105,"",False,0,0,0,0,False,0,0,0
+106,"",False,0,0,0,0,False,0,0,0
+107,"",False,0,0,0,0,False,0,0,0
+108,"",False,0,0,0,0,False,0,0,0
+109,"",False,0,0,0,0,False,0,0,0
+110,"",False,0,0,0,0,False,0,0,0
+111,"",False,0,0,0,0,False,0,0,0
+112,"",False,0,0,0,0,False,0,0,0
+113,"",False,0,0,0,0,False,0,0,0
+114,"",False,0,0,0,0,False,0,0,0
+115,"",False,0,0,0,0,False,0,0,0
+116,"",False,0,0,0,0,False,0,0,0
+117,"",False,0,0,0,0,False,0,0,0
+118,"",False,0,0,0,0,False,0,0,0
+119,"",False,0,0,0,0,False,0,0,0

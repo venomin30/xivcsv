@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5
 #,Item{Disposed},,Item{Received},,Quantity{Received},
 int32,Item,bit&01,Item,bit&02,uint32,uint16
-3473408.0,"Diadochos Sword",False,"Diadochos Sword",False,0,0
+3473408.0,"",False,"",False,0,0
 3473409.0,"Mistfall Sallet of Fending",False,"Brass Sky Pirate Spoil",False,1,1000
 3473409.1,"Mistfall Hauberk of Fending",False,"Brass Sky Pirate Spoil",False,1,999
 3473409.2,"Mistfall Gauntlets of Fending",False,"Brass Sky Pirate Spoil",False,1,998

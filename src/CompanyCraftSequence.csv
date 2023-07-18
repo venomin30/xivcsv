@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
 #,ResultItem,Category,CompanyCraftDraftCategory,CompanyCraftType,CompanyCraftDraft,CompanyCraftPart[0],CompanyCraftPart[1],CompanyCraftPart[2],CompanyCraftPart[3],CompanyCraftPart[4],CompanyCraftPart[5],CompanyCraftPart[6],CompanyCraftPart[7],Order
 int32,Item,int32,CompanyCraftDraftCategory,CompanyCraftType,CompanyCraftDraft,CompanyCraftPart,CompanyCraftPart,CompanyCraftPart,CompanyCraftPart,CompanyCraftPart,CompanyCraftPart,CompanyCraftPart,CompanyCraftPart,uint32
-0,"Diadochos Sword",0,"Aetherial Wheels","",,"CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",0
+0,"",0,"Aetherial Wheels","",,"CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",0
 1,"Level 2 Aetherial Wheel Stand",1,"Aetherial Wheels","Wheel Stand",,"CompanyCraftPart#1","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",1
 2,"Level 3 Aetherial Wheel Stand",1,"Aetherial Wheels","Wheel Stand","wheel stand prototype II","CompanyCraftPart#2","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",2
 3,"Level 4 Aetherial Wheel Stand",1,"Aetherial Wheels","Wheel Stand","wheel stand prototype III","CompanyCraftPart#3","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0","CompanyCraftPart#0",3

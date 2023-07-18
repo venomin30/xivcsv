@@ -977,7 +977,7 @@ int32,str,Image,Quest,DefaultTalk,DefaultTalk,bit&01,uint16
 263157,"Purchase Tools",,,,,True,0
 263158,"Purchase Gear",,,,,True,0
 263159,"Purchase Items",,,,,True,0
-263160,"",,,,,False,0
+263160,"Purchase Splendorous Replicas",,"The Joy of Zoi",,,True,0
 263161,"",,,,,True,142
 263162,"",,,,,True,143
 263163,"",,,,,False,0

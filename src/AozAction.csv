@@ -106,23 +106,23 @@ int32,Action,byte
 102,"Both Ends",5
 103,"Phantom Flurry",5
 104,"Nightbloom",5
-105,"",0
-106,"",0
-107,"",0
-108,"",0
-109,"",0
-110,"",0
-111,"",0
-112,"",0
-113,"",0
-114,"",0
-115,"",0
-116,"",0
-117,"",0
-118,"",0
-119,"",0
-120,"",0
-121,"",0
-122,"",0
-123,"",0
-124,"",0
+105,"Goblin Punch",1
+106,"Right Round",2
+107,"Schiltron",1
+108,"Rehydration",1
+109,"Breath of Magic",3
+110,"Wild Rage",4
+111,"Peat Pelt",2
+112,"Deep Clean",3
+113,"Ruby Dynamics",4
+114,"Divination Rune",4
+115,"Dimensional Shift",4
+116,"Conviction Marcato",3
+117,"Force Field",3
+118,"Winged Reprobation",3
+119,"Laser Eye",3
+120,"Candy Cane",2
+121,"Mortal Flame",3
+122,"Sea Shanty",5
+123,"Apokalypsis",5
+124,"Being Mortal",5

@@ -1017,7 +1017,7 @@ int32,FurnitureCatalogCategory,Item,uint16
 1013,"Miscellaneous","Urth's Fount Phasmascape",630
 1014,"Tables","Botanist's Work Table",640
 1015,"Windows","Imitation Curtained Window",640
-1016,"Tables","Diadochos Sword",0
+1016,"Tableware/Foods","Assorted Cookies",640
 1017,"Lighting","Botanical Candle Display",640
 1018,"Plants","Cieldalaes Planter",640
 1019,"Chairs/Sofas","Chair Hena",640
@@ -1037,16 +1037,16 @@ int32,FurnitureCatalogCategory,Item,uint16
 1033,"Miscellaneous","Scattered Tomes",640
 1034,"Tables","Vintage Side Table",640
 1035,"Shelves/Chests","Short Pillar Bookshelf",640
-1036,"Tables","Diadochos Sword",0
+1036,"Miscellaneous","Imitation Vault",640
 1037,"Lighting","Ivy Pendant Wall Light",640
 1038,"Lighting","Crystarium Pendant Wall Light",640
 1039,"Miscellaneous","Fishing Rod Rack",640
-1040,"Tables","Diadochos Sword",0
-1041,"Tables","Diadochos Sword",0
+1040,"Miscellaneous","Far Eastern Indoor Bamboo Fountain",640
+1041,"Plants","Cactuar Colony Planter",640
 1042,"Walls/Pillars/Partitions","Verdant Pillar",640
 1043,"Walls/Pillars/Partitions","Rattan Partition",640
-1044,"Tables","Diadochos Sword",0
-1045,"Tables","Diadochos Sword",0
+1044,"Stuffed Toys/Figures","Oyoroi Display",640
+1045,"Lighting","Far Eastern Brazier",640
 1046,"Miscellaneous","Imitation Closed Door",640
 1047,"Miscellaneous","Wall-mounted Pot Rack",640
 1048,"Miscellaneous","Serving Barrel",640
@@ -1054,5 +1054,5 @@ int32,FurnitureCatalogCategory,Item,uint16
 1050,"Flags/Frames/Posters","Forever at Your Side",640
 1051,"Stuffed Toys/Figures","Drowned King Sculpture",640
 1052,"Stuffed Toys/Figures","Eventide Sword Stand",640
-1053,"Tables","Diadochos Sword",0
-1054,"Tables","Diadochos Sword",0
+1053,"Miscellaneous","Seiryu Sculpture",640
+1054,"Miscellaneous","Suzaku Sculpture",640

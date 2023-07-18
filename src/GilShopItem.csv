@@ -4640,7 +4640,7 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262419.44,"Bliss Orchestrion Roll",False,0,,,"",0,100,630
 262419.45,"Sacred Bonds Orchestrion Roll",False,0,,,"",0,100,630
 262419.46,"Railway Sleepers",False,0,,,"",0,100,640
-262419.47,"",False,0,,,"",0,100,640
+262419.47,"Smashed Flower Pot",False,0,,,"",0,100,640
 262420.0,"Brass Bench",False,0,,,"",0,100,0
 262420.1,"Glade Placard",False,0,,,"",0,100,0
 262420.2,"Glade Thatch Wall",False,0,,,"",0,100,0
@@ -4688,7 +4688,7 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262420.44,"Bliss Orchestrion Roll",False,0,,,"",0,100,630
 262420.45,"Sacred Bonds Orchestrion Roll",False,0,,,"",0,100,630
 262420.46,"Railway Sleepers",False,0,,,"",0,100,640
-262420.47,"",False,0,,,"",0,100,640
+262420.47,"Smashed Flower Pot",False,0,,,"",0,100,640
 262421.0,"Brass Bench",False,0,,,"",0,100,0
 262421.1,"Oasis Placard",False,0,,,"",0,100,0
 262421.2,"Oasis Wooden Wall",False,0,,,"",0,100,0
@@ -4736,7 +4736,7 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262421.44,"Bliss Orchestrion Roll",False,0,,,"",0,100,630
 262421.45,"Sacred Bonds Orchestrion Roll",False,0,,,"",0,100,630
 262421.46,"Railway Sleepers",False,0,,,"",0,100,640
-262421.47,"",False,0,,,"",0,100,640
+262421.47,"Smashed Flower Pot",False,0,,,"",0,100,640
 262422.0,"Ash Log",False,0,,,"",0,100,0
 262422.1,"Ash Lumber",False,0,,,"",0,100,0
 262422.2,"Elm Lumber",False,0,,,"",0,100,0
@@ -7426,11 +7426,11 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262629.19,"Choir Hat",False,0,"Theatgrhythdaniam",,"",0,150,0
 262629.20,"Choir Robe",False,0,"Theatgrhythdaniam",,"",0,150,0
 262629.21,"Choir Shoes",False,0,"Theatgrhythdaniam",,"",0,150,0
-262629.22,"Unorthodox Saint's Cap",False,0,"星芒祭と子どもたちの贈り物",,"",0,160,640
-262629.23,"Unorthodox Saint's Halfrobe",False,0,"星芒祭と子どもたちの贈り物",,"",0,160,640
-262629.24,"Unorthodox Saint's Gloves",False,0,"星芒祭と子どもたちの贈り物",,"",0,160,640
-262629.25,"Unorthodox Saint's Bottoms",False,0,"星芒祭と子どもたちの贈り物",,"",0,160,640
-262629.26,"Unorthodox Saint's Longboots",False,0,"星芒祭と子どもたちの贈り物",,"",0,160,640
+262629.22,"Unorthodox Saint's Cap",False,0,"Blue Starlight",,"",0,160,640
+262629.23,"Unorthodox Saint's Halfrobe",False,0,"Blue Starlight",,"",0,160,640
+262629.24,"Unorthodox Saint's Gloves",False,0,"Blue Starlight",,"",0,160,640
+262629.25,"Unorthodox Saint's Bottoms",False,0,"Blue Starlight",,"",0,160,640
+262629.26,"Unorthodox Saint's Longboots",False,0,"Blue Starlight",,"",0,160,640
 262630.0,"Usagi Kabuto",False,0,,,"Horsing About",0,100,0
 262630.1,"Silver Usagi Kabuto",False,0,,,"Horsing About",0,100,0
 262630.2,"Black Usagi Kabuto",False,0,,,"Horsing About",0,100,0
@@ -8404,7 +8404,7 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262690.39,"Bliss Orchestrion Roll",False,0,,,"",0,100,630
 262690.40,"Sacred Bonds Orchestrion Roll",False,0,,,"",0,100,630
 262690.41,"Railway Sleepers",False,0,,,"",0,100,640
-262690.42,"",False,0,,,"",0,100,640
+262690.42,"Smashed Flower Pot",False,0,,,"",0,100,640
 262691.0,"Clear Prism",False,0,,,"",0,100,0
 262691.1,"Glamour Dispeller",False,0,,,"",0,100,0
 262691.2,"Gysahl Greens",False,0,,,"",0,100,0
@@ -11927,12 +11927,12 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262926.17,"Mirage Gloves",False,0,"Master of Mimicry",,"",0,140,540
 262926.18,"Mirage Bottoms",False,0,"Master of Mimicry",,"",0,140,540
 262926.19,"Mirage Boots",False,0,"Master of Mimicry",,"",0,140,540
-262926.20,"",False,0,"",,"",0,150,640
-262926.21,"",False,0,"",,"",0,150,640
-262926.22,"",False,0,"",,"",0,150,640
-262926.23,"",False,0,"",,"",0,150,640
-262926.24,"",False,0,"",,"",0,150,640
-262926.25,"",False,0,"",,"",0,150,640
+262926.20,"Blue-eyes",False,0,"The Brave and the Blue",,"",0,150,640
+262926.21,"Phantasmal Hat",False,0,"A New Gold Standard",,"",0,150,640
+262926.22,"Phantasmal Robe",False,0,"A New Gold Standard",,"",0,150,640
+262926.23,"Phantasmal Gloves",False,0,"A New Gold Standard",,"",0,150,640
+262926.24,"Phantasmal Slacks",False,0,"A New Gold Standard",,"",0,150,640
+262926.25,"Phantasmal Shoes",False,0,"A New Gold Standard",,"",0,150,640
 262927.0,"Eurekan Potion",False,0,,,"",0,100,0
 262927.1,"Antidote",False,0,,,"",0,100,0
 262927.2,"Eye Drops",False,0,,,"",0,100,0
@@ -15286,26 +15286,26 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263151.17,"Replica Manderville Milpreves",False,0,,,"Hamm(er)ing It Up: Manderville Milpreves",0,100,630
 263151.18,"Manderville Scythe Replica",False,0,,,"Hamm(er)ing It Up: Manderville Scythe",0,100,630
 263151.19,"Manderville Kite Shield Replica",False,0,,,"Hamm(er)ing It Up: Manderville Sword & Shield",0,100,630
-263151.20,"",False,0,,,"Well-oiled: Amazing Manderville Sword & Shield ",0,100,640
-263151.21,"",False,0,,,"Well-oiled: Amazing Manderville Knuckles",0,100,640
-263151.22,"",False,0,,,"Well-oiled: Amazing Manderville Axe ",0,100,640
-263151.23,"",False,0,,,"Well-oiled: Amazing Manderville Spear",0,100,640
-263151.24,"",False,0,,,"Well-oiled: Amazing Manderville Harp Bow",0,100,640
-263151.25,"",False,0,,,"Well-oiled: Amazing Manderville Knives",0,100,640
-263151.26,"",False,0,,,"Well-oiled: Amazing Manderville Zweihander",0,100,640
-263151.27,"",False,0,,,"Well-oiled: Amazing Manderville Revolver",0,100,640
-263151.28,"",False,0,,,"Well-oiled: Amazing Manderville Cane",0,100,640
-263151.29,"",False,0,,,"Well-oiled: Amazing Manderville Rod",0,100,640
-263151.30,"",False,0,,,"Well-oiled: Amazing Manderville Index",0,100,640
-263151.31,"",False,0,,,"Well-oiled: Amazing Manderville Codex",0,100,640
-263151.32,"",False,0,,,"Well-oiled: Amazing Manderville Torquetum",0,100,640
-263151.33,"",False,0,,,"Well-oiled: Amazing Manderville Samurai Blade",0,100,640
-263151.34,"",False,0,,,"Well-oiled: Amazing Manderville Rapier",0,100,640
-263151.35,"",False,0,,,"Well-oiled: Amazing Manderville Gunblade",0,100,640
-263151.36,"",False,0,,,"Well-oiled: Amazing Manderville Chakrams",0,100,640
-263151.37,"",False,0,,,"Well-oiled: Amazing Manderville Milpreves",0,100,640
-263151.38,"",False,0,,,"Well-oiled: Amazing Manderville Scythe",0,100,640
-263151.39,"",False,0,,,"Well-oiled: Amazing Manderville Sword & Shield ",0,100,640
+263151.20,"Amazing Manderville Sword Replica",False,0,,,"Well-oiled: Amazing Manderville Sword & Shield ",0,100,640
+263151.21,"Replica Amazing Manderville Knuckles",False,0,,,"Well-oiled: Amazing Manderville Knuckles",0,100,640
+263151.22,"Amazing Manderville Axe Replica",False,0,,,"Well-oiled: Amazing Manderville Axe ",0,100,640
+263151.23,"Amazing Manderville Spear Replica",False,0,,,"Well-oiled: Amazing Manderville Spear",0,100,640
+263151.24,"Amazing Manderville Harp Bow Replica",False,0,,,"Well-oiled: Amazing Manderville Harp Bow",0,100,640
+263151.25,"Replica Amazing Manderville Knives",False,0,,,"Well-oiled: Amazing Manderville Knives",0,100,640
+263151.26,"Amazing Manderville Zweihander Replica",False,0,,,"Well-oiled: Amazing Manderville Zweihander",0,100,640
+263151.27,"Amazing Manderville Revolver Replica",False,0,,,"Well-oiled: Amazing Manderville Revolver",0,100,640
+263151.28,"Amazing Manderville Cane Replica",False,0,,,"Well-oiled: Amazing Manderville Cane",0,100,640
+263151.29,"Amazing Manderville Rod Replica",False,0,,,"Well-oiled: Amazing Manderville Rod",0,100,640
+263151.30,"Amazing Manderville Index Replica",False,0,,,"Well-oiled: Amazing Manderville Index",0,100,640
+263151.31,"Amazing Manderville Codex Replica",False,0,,,"Well-oiled: Amazing Manderville Codex",0,100,640
+263151.32,"Amazing Manderville Torquetum Replica",False,0,,,"Well-oiled: Amazing Manderville Torquetum",0,100,640
+263151.33,"Amazing Manderville Samurai Blade Replica",False,0,,,"Well-oiled: Amazing Manderville Samurai Blade",0,100,640
+263151.34,"Amazing Manderville Rapier Replica",False,0,,,"Well-oiled: Amazing Manderville Rapier",0,100,640
+263151.35,"Amazing Manderville Gunblade Replica",False,0,,,"Well-oiled: Amazing Manderville Gunblade",0,100,640
+263151.36,"Replica Amazing Manderville Chakrams",False,0,,,"Well-oiled: Amazing Manderville Chakrams",0,100,640
+263151.37,"Replica Amazing Manderville Milpreves",False,0,,,"Well-oiled: Amazing Manderville Milpreves",0,100,640
+263151.38,"Amazing Manderville Scythe Replica",False,0,,,"Well-oiled: Amazing Manderville Scythe",0,100,640
+263151.39,"Amazing Manderville Kite Shield Replica",False,0,,,"Well-oiled: Amazing Manderville Sword & Shield ",0,100,640
 263152.0,"Peach Confetti",False,0,,,"",0,100,0
 263152.1,"Cherry Confetti",False,0,,,"",0,100,0
 263152.2,"Lovely Little Ladies' Day Advertisement",False,0,,,"",0,90,9999
@@ -15392,17 +15392,17 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263158.14,"Kumbhiraskin Shoes of Crafting",False,0,,,"",0,100,0
 263159.0,"Gysahl Greens",False,0,,,"",0,100,0
 263159.1,"Grade 8 Dark Matter",False,0,,,"",0,100,0
-263160.0,"",False,0,,,"Splendid: Crystalline Saw",0,100,640
-263160.1,"",False,0,,,"Splendid: Crystalline Cross-pein Hammer",0,100,640
-263160.2,"",False,0,,,"Splendid: Crystalline Raising Hammer",0,100,640
-263160.3,"",False,0,,,"Splendid: Crystalline Mallet",0,100,640
-263160.4,"",False,0,,,"Splendid: Crystalline Round Knife",0,100,640
-263160.5,"",False,0,,,"Splendid: Crystalline Needle",0,100,640
-263160.6,"",False,0,,,"Splendid: Crystalline Alembic",0,100,640
-263160.7,"",False,0,,,"Splendid: Crystalline Frypan",0,100,640
-263160.8,"",False,0,,,"Splendid: Crystalline Pickaxe",0,100,640
-263160.9,"",False,0,,,"Splendid: Crystalline Hatchet",0,100,640
-263160.10,"",False,0,,,"Splendid: Crystalline Fishing Rod",0,100,640
+263160.0,"Replica Crystalline Saw",False,0,,,"Splendid: Crystalline Saw",0,100,640
+263160.1,"Replica Crystalline Cross-pein Hammer",False,0,,,"Splendid: Crystalline Cross-pein Hammer",0,100,640
+263160.2,"Replica Crystalline Raising Hammer",False,0,,,"Splendid: Crystalline Raising Hammer",0,100,640
+263160.3,"Replica Crystalline Mallet",False,0,,,"Splendid: Crystalline Mallet",0,100,640
+263160.4,"Replica Crystalline Round Knife",False,0,,,"Splendid: Crystalline Round Knife",0,100,640
+263160.5,"Replica Crystalline Needle",False,0,,,"Splendid: Crystalline Needle",0,100,640
+263160.6,"Replica Crystalline Alembic",False,0,,,"Splendid: Crystalline Alembic",0,100,640
+263160.7,"Replica Crystalline Frypan",False,0,,,"Splendid: Crystalline Frypan",0,100,640
+263160.8,"Replica Crystalline Pickaxe",False,0,,,"Splendid: Crystalline Pickaxe",0,100,640
+263160.9,"Replica Crystalline Hatchet",False,0,,,"Splendid: Crystalline Hatchet",0,100,640
+263160.10,"Replica Crystalline Fishing Rod",False,0,,,"Splendid: Crystalline Fishing Rod",0,100,640
 263161.0,"Wall-mounted Vampire Bats",False,0,,,"",0,100,9999
 263161.1,"Magicked Prism (Pumpkin)",False,0,,,"",0,110,0
 263162.0,"Illuminated Topiary Chocobo",False,0,,,"",0,100,9999

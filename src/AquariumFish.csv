@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3
 #,AquariumWater,Size,Item,
 int32,AquariumWater,byte,Item,uint16
-0,"nothing",0,"Diadochos Sword",0
+0,"nothing",0,"",0
 2,"Freshwater",1,"Copperfish",40
 3,"Saltwater",1,"Coral Butterfly",49
 4,"Saltwater",2,"Blowfish",7

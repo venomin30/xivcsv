@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3
 #,Item{Unprimed},Item{Primed},Grade,HoursRequired
 int32,Item,Item,byte,byte
-0,"Diadochos Sword","Diadochos Sword",0,72
+0,"","",0,72
 1,"Grade 1 Wheel of Confrontation","Primed Grade 1 Wheel of Confrontation",1,20
 2,"Grade 1 Wheel of Productivity","Primed Grade 1 Wheel of Productivity",1,20
 3,"Grade 1 Wheel of Industry","Primed Grade 1 Wheel of Industry",1,20

@@ -1,23 +1,23 @@
 ﻿key,0,1,2,3,4,5
 #,ClassJobCategory,,ENpcResident,Item,AmountRequired,ItemHQ
 int32,ClassJobCategory,byte,ENpcResident,Item,byte,bit&01
-0.0,"",0,,"Diadochos Sword",0,False
-1.0,"",0,,"Diadochos Sword",0,False
-1.1,"",0,,"Diadochos Sword",0,False
-1.2,"",0,,"Diadochos Sword",0,False
-1.3,"",0,,"Diadochos Sword",0,False
-2.0,"",0,,"Diadochos Sword",0,False
-2.1,"",0,,"Diadochos Sword",0,False
-2.2,"",0,,"Diadochos Sword",0,False
-2.3,"",0,,"Diadochos Sword",0,False
-3.0,"",0,,"Diadochos Sword",0,False
-3.1,"",0,,"Diadochos Sword",0,False
-3.2,"",0,,"Diadochos Sword",0,False
-3.3,"",0,,"Diadochos Sword",0,False
-4.0,"",0,,"Diadochos Sword",0,False
-4.1,"",0,,"Diadochos Sword",0,False
-4.2,"",0,,"Diadochos Sword",0,False
-4.3,"",0,,"Diadochos Sword",0,False
+0.0,"",0,,"",0,False
+1.0,"",0,,"",0,False
+1.1,"",0,,"",0,False
+1.2,"",0,,"",0,False
+1.3,"",0,,"",0,False
+2.0,"",0,,"",0,False
+2.1,"",0,,"",0,False
+2.2,"",0,,"",0,False
+2.3,"",0,,"",0,False
+3.0,"",0,,"",0,False
+3.1,"",0,,"",0,False
+3.2,"",0,,"",0,False
+3.3,"",0,,"",0,False
+4.0,"",0,,"",0,False
+4.1,"",0,,"",0,False
+4.2,"",0,,"",0,False
+4.3,"",0,,"",0,False
 5.0,"Disciple of the Hand",0,"earnest Namazu","Finery Components",2,False
 5.1,"MIN",0,"earnest Namazu","Steppe Mica",3,False
 5.2,"BTN",0,"earnest Namazu","Steppe Safflowers",3,False

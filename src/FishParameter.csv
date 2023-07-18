@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9
 #,Text,Item,GatheringItemLevel,OceanStars,IsHidden,FishingRecordType,FishingSpot,GatheringSubCategory,IsInLog,AchievementCredit
 int32,str,Row,GatheringItemLevelConvertTable,byte,bit&01,FishingRecordType,FishingSpot,GatheringSubCategory,bit&02,uint32
-0,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,True,0
+0,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,True,0
 1,"This dark green variety of seaweed found in all five of Eorzea's seas has been known to grow up to a malm (1760 yalms) in length.","Malm Kelp","GatheringItemLevelConvertTable#4",0,False,"Coastlines","Limsa Lominsa Upper Decks",,True,0
 2,"A brown-carapaced freshwater crustacean commonly found in the rivers and lakes of Aldenard. So eager are crayfish to grasp at anything that may happen by, fishers boast that they need not even bait their lines to catch the creatures.","Crayfish","GatheringItemLevelConvertTable#2",0,False,"Rivers","The Vein",,True,0
 3,"When spawning, the head, belly, and tail of this common freshwater fish take on a vibrant red hue─a color which, across Eorzea, traditionally represents happiness and longevity. Because of this, chubs are often given as gifts to newlyweds.","Chub","GatheringItemLevelConvertTable#3",0,False,"Rivers","Rogue River",,True,0
@@ -1229,7 +1229,7 @@ From <Emphasis>O'er Westward Seas</Emphasis>
 1217,"Often spotted congregating around wreckage on the ocean floor, these fish were named for the sirens thought to lure ships to their demise.","Siren's Sigh","GatheringItemLevelConvertTable#1",4,True,"Deep Sea","Sirensong Spectral Current",,True,0
 1218,"The lower jaw of this wavekin continues to grow until it folds back on itself and coils, creating a suitable tool for grinding captured prey against rocks. As one might expect, red waters are a telltale sign one has entered its feeding grounds.","Black-jawed Helicoprion","GatheringItemLevelConvertTable#1",4,True,"Deep Sea","Sirensong Spectral Current",,True,0
 1219,"By making full use of their tentacles, these cephalopods are said to be capable of impersonating any living creature. While they clearly understand the composition of their subjects, impostopodes seem to enjoy adding additional eyes to these imitations by way of their suction cups.","Impostopus","GatheringItemLevelConvertTable#1",4,True,"Deep Sea","Sirensong Spectral Current",,True,0
-1220,"Making its home in the Sea of Jade, this species of mantis shrimp is well known for the breathtaking green of its carapace─a color with which it seems rather singularly taken in spite of its ability to perceive myriad hues. To maintain the desired coloration, individuals will migrate along spectral currents upon coming of age, in search of the perfect environment.","Jade Shrimp","GatheringItemLevelConvertTable#1",4,True,"Deep Sea","Sirensong Spectral Current",,True,0
+1220,"Making its home in the Sea of Jade, this species of crustacean is well known for the breathtaking green of its carapace─a color with which it seems rather singularly taken in spite of its ability to perceive myriad hues. To maintain the desired coloration, individuals will migrate along spectral currents upon coming of age, in search of the perfect environment.","Jade Mantis Shrimp","GatheringItemLevelConvertTable#1",4,True,"Deep Sea","Sirensong Spectral Current",,True,0
 1221,"Legends say that each time the goddess Nymeia drops a spinning wheel, it falls from the heavens and becomes a shell for one of these enormous tortoises. The sheer number of these wavekin suggests that even the Twelve are fallible. ","Nymeia's Wheel","GatheringItemLevelConvertTable#1",4,True,"Deep Sea","Sirensong Spectral Current",,True,0
 1222,"Spectral currents make the blue skin of this wavekin almost transparent, causing its yellow fins and mouth to appear as coins floating just under the ocean's surface. Many a greedy sailor has fallen overboard after reaching out a little too far over the bulwark. ","Snapping Koban","GatheringItemLevelConvertTable#1",4,True,"Deep Sea","Kugane Spectral Current",,True,0
 1223,"These wavekin are named for the fine material of the nets used to catch them. Connoisseurs insist that any other netting would ruin the prawn's delicate flesh, while others claim it is merely a pretext to sell the crustacean at an inflated price.","Silkweft Prawn","GatheringItemLevelConvertTable#1",4,True,"Deep Sea","Kugane Spectral Current",,True,0
@@ -1267,37 +1267,37 @@ From <Emphasis>O'er Westward Seas</Emphasis>
 1255,"This formidable king of the Crab Pots dons an armored shell of volcanic rock to protect itself against would-be predators. While this defense mechanism has proven successful, the sweltering heat of its once-molten carapace would cook the crustacean from the inside out had it not made a habit of launching itself into the cool depths of the Ruby Sea.","Hells' Claw","GatheringItemLevelConvertTable#615",5,True,"Deep Sea","Ruby Spectral Current",,True,0
 1256,"Wanting nothing more than to swim in the limpid waters it had long admired from afar, a wise old tree of Plum Spring is said to have shaped one of its knots into this flowering turtle. Though the plum blossoms are often submerged when the creature dives, their petals miraculously show no signs of wear.","Jewel of Plum Spring","GatheringItemLevelConvertTable#615",5,True,"Rivers","One River Spectral Current",,True,0
 1257,"For reasons as of yet unknown, Sharlayan naturalists have recently been inundated by a veritable mountain of inquiries from anonymous adventurers asking why this species of shrimp does not have the ability to transform into a shrimp-sized sword and fire shrimp-sized beams of rime. Perplexed by the specificity of the question, they have been unable to give a satisfactory answer.","The Fury's Aegis","GatheringItemLevelConvertTable#620",0,True,"Rivers","The Mover Beta","Northern Fishing Folklore",True,0
-1258,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1259,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1260,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1261,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1262,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1263,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1264,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1265,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1266,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1267,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1268,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1269,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1270,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1271,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1272,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1273,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1274,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1275,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1276,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1277,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1278,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1279,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1280,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1281,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1282,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1283,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1284,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1285,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1286,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1287,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1288,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1258,"Such is the beauty of this creature's aurulent scales that it has been likened to a treasure once lost by the Nabaath royal family to the dunes of Amh Araeng.","Gold Dustfish","GatheringItemLevelConvertTable#620",0,False,"Sands","The Nabaath Severance",,True,0
+1259,"Whether this entity is an albino fish or a sin eater masquerading as one has long been a matter of debate among Crystarium naturalists. Recent testimony from former inhabitants of the Derelicts, however, may at last tip the scales─evidently, the creature tastes uncannily similar to meol.","Forgiven Melancholy","GatheringItemLevelConvertTable#620",0,False,"Lakes","The Isle of Ken",,True,0
+1260,"The scales of this creature glisten with a cacophony of colors like unto the surface of gleaming oil─a useful form of camouflage amidst the iridescent sheen of the iron-rich plunge basin it calls home.","Oil Slick","GatheringItemLevelConvertTable#620",0,False,"Rivers","White Oil Falls",,True,0
+1261,"According to Kholusian legend, this brightly colored echinoderm once served a princely sort who found himself stranded far out to sea. After a series of trials involving literacy, magic, and a rather abrupt masque, Gonzalo returned his liege to his rightful place and vanished amongst the tides, never to be seen again─until an adventurer from another world unknowingly reeled him in.","Gonzalo's Grace","GatheringItemLevelConvertTable#620",0,False,"Deep Sea","West Caliban Gap",,True,0
+1262,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1263,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1264,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1265,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1266,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1267,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1268,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1269,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1270,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1271,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1272,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1273,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1274,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1275,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1276,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1277,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1278,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1279,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1280,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1281,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1282,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1283,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1284,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1285,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1286,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1287,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1288,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
 15000,"","Timeworn Leather Map","GatheringItemLevelConvertTable#36",0,False,"","Undiscovered Fishing Hole",,False,0
 15001,"","Timeworn Goatskin Map","GatheringItemLevelConvertTable#41",0,False,"","Undiscovered Fishing Hole",,False,0
 15002,"","Timeworn Toadskin Map","GatheringItemLevelConvertTable#46",0,False,"","Undiscovered Fishing Hole",,False,0
@@ -1377,8 +1377,8 @@ From <Emphasis>O'er Westward Seas</Emphasis>
 15076,"","Splendid Egg-bearing Trout","GatheringItemLevelConvertTable#290",0,False,"","Undiscovered Fishing Hole",,False,0
 15077,"","Splendid Diamondtongue","GatheringItemLevelConvertTable#290",0,False,"","Undiscovered Fishing Hole",,False,0
 15078,"","Splendid Larva","GatheringItemLevelConvertTable#290",0,False,"","Undiscovered Fishing Hole",,False,0
-15079,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-15080,"","Diadochos Sword","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15079,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15080,"","","GatheringItemLevelConvertTable#0",0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
 15081,"","Grade 2 Skybuilders' Cloudskipper","GatheringItemLevelConvertTable#1",0,False,"","Undiscovered Fishing Hole",,False,0
 15082,"","Grade 2 Skybuilders' Meditator","GatheringItemLevelConvertTable#1",0,False,"","Undiscovered Fishing Hole",,False,0
 15083,"","Grade 2 Skybuilders' Coeurlfish","GatheringItemLevelConvertTable#1",0,False,"","Undiscovered Fishing Hole",,False,0

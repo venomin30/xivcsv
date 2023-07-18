@@ -1,7 +1,7 @@
 ﻿key,0,1,2
 #,Fish,IKDContentBonus,
 int32,FishParameter,IKDContentBonus,byte
-0,"Diadochos Sword","",0
+0,"","",0
 1,"Galadion Goby","",0
 2,"Galadion Chovy","",0
 3,"La Noscean Jelly","Jelled Together",0
@@ -185,7 +185,7 @@ int32,FishParameter,IKDContentBonus,byte
 181,"Siren's Sigh","",0
 182,"Black-jawed Helicoprion","",0
 183,"Impostopus","",0
-184,"Jade Shrimp","",0
+184,"Jade Mantis Shrimp","",0
 185,"Nymeia's Wheel","",0
 186,"Snapping Koban","",0
 187,"Silkweft Prawn","",42

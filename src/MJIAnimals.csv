@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6
 #,BNpcBase,Size,,,Reward[0],Reward[1],Icon
 int32,BNpcBase,byte,byte,byte,Item,Item,Image
-0,"BNpcBase#0",0,0,0,"Diadochos Sword","Diadochos Sword",
+0,"BNpcBase#0",0,0,0,"","",
 1,"BNpcBase#14906",1,1,1,"Sanctuary Fleece","Sanctuary Milk","ui/icon/070000/070121.tex"
 2,"BNpcBase#14907",1,2,1,"Sanctuary Milk","Sanctuary Fleece","ui/icon/070000/070122.tex"
 3,"BNpcBase#14908",1,1,2,"Sanctuary Claw","Sanctuary Fur","ui/icon/070000/070123.tex"

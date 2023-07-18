@@ -32,9 +32,9 @@ int32,InstanceContent,Item,byte,byte,byte
 28,"InstanceContent#50005","Irregular Tomestone of Mendacity",5,3,3
 29,"InstanceContent#50006","Irregular Tomestone of Mendacity",5,3,3
 30,"InstanceContent#51002","Irregular Tomestone of Mendacity",5,3,3
-31,"InstanceContent#0","Diadochos Sword",0,0,0
-32,"InstanceContent#0","Diadochos Sword",0,0,0
-33,"InstanceContent#0","Diadochos Sword",0,0,0
-34,"InstanceContent#0","Diadochos Sword",0,0,0
-35,"InstanceContent#0","Diadochos Sword",0,0,0
-36,"InstanceContent#0","Diadochos Sword",0,0,0
+31,"InstanceContent#0","",0,0,0
+32,"InstanceContent#0","",0,0,0
+33,"InstanceContent#0","",0,0,0
+34,"InstanceContent#0","",0,0,0
+35,"InstanceContent#0","",0,0,0
+36,"InstanceContent#0","",0,0,0

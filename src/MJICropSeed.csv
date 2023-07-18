@@ -1,7 +1,7 @@
 ﻿key,0,1,2
 #,Item,SGB,Name
 int32,Item,ExportedSG,EObjName
-0,"Diadochos Sword",,
+0,"",,
 1,"Island Popoto","bgcommon/mji/feed/0001/asset/fee_f0_m0001.sgb","island popoto"
 2,"Island Cabbage","bgcommon/mji/feed/0006/asset/fee_f0_m0006.sgb","island cabbage"
 3,"Isleberry","bgcommon/mji/feed/0003/asset/fee_f0_m0003.sgb","isleberry"

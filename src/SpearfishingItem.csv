@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7
 #,Description,Item,GatheringItemLevel,,FishingRecordType,TerritoryType,,IsVisible
 int32,str,Item,GatheringItemLevelConvertTable,bit&01,FishingRecordType,TerritoryType,uint16,bit&02
-0,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+0,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
 20000,"Those who dare gaze into its swirling whorls risk spiraling into infinite madness. Luckily, few have peered into that void, as an intact specimen of this fragile shell is scarcely to be found.","Wentletrap","GatheringItemLevelConvertTable#205",False,"Small",,0,True
 20001,"Despite its name, the shading of this protogynous species is subject to variation as it transitions genders. As a result, some infer that its tenebrous title in fact references the deadly, viscous toxin it secretes.","Black Boxfish","GatheringItemLevelConvertTable#205",False,"Average",,0,True
 20002,"The glass manta is known as a languorous, lackadaisical wayfarer whose striped ray brethren were domesticated by the Kojin long ago.","Glass Manta","GatheringItemLevelConvertTable#205",False,"Big","",0,True
@@ -243,38 +243,38 @@ int32,str,Item,GatheringItemLevelConvertTable,bit&01,FishingRecordType,Territory
 20238,"This member of the peacock bass family is recognizable for its bold stripes, the deep green markings a stunning reflection of the lake's emerald waters. Spearfishers consider this fish one of the region's prize catches.","Striped Peacock Bass","GatheringItemLevelConvertTable#540",False,"Average",,0,True
 20239,"The scales of this distinctive trout range from a deep olive green to a gleaming bronze brown. Its crimson flesh is highly sought after by fishermen, who equate the darker hue with a richer─and thus more expensive─flavor.","Bronze Trout","GatheringItemLevelConvertTable#547",False,"Big",,0,True
 20240,"This “unexpected predator,” as naturalists have dubbed it, is a surprisingly harmonious cog in the local ecology. Despite its prehistoric appearance, the massive nosceasaur appears to consciously avoid disrupting the food chain's delicate equilibrium.","Nosceasaur","GatheringItemLevelConvertTable#600",False,"Big",,0,True
-20241,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20242,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20243,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20244,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20245,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20246,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20247,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20248,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20249,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20250,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20251,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20252,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20253,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20254,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20255,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20256,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20257,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20258,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20259,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20260,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20261,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20262,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20263,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20264,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20265,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20266,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20267,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20268,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20269,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20270,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20271,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
-20272,"","Diadochos Sword","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20241,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20242,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20243,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20244,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20245,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20246,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20247,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20248,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20249,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20250,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20251,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20252,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20253,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20254,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20255,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20256,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20257,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20258,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20259,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20260,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20261,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20262,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20263,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20264,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20265,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20266,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20267,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20268,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20269,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20270,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20271,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
+20272,"","","GatheringItemLevelConvertTable#0",False,"Coastlines",,0,False
 30000,"","Timeworn Gaganaskin Map","GatheringItemLevelConvertTable#290",False,"",,0,False
 30001,"","Timeworn Gazelleskin Map","GatheringItemLevelConvertTable#290",False,"",,0,False
 30002,"","Dafangshi","GatheringItemLevelConvertTable#260",False,"",,0,False

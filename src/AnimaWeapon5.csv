@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7
 #,Item,,SecondaryStatTotal,Parameter[0],Parameter[1],Parameter[2],Parameter[3],Parameter[4]
 int32,Item,byte,byte,AnimaWeapon5Param,AnimaWeapon5Param,AnimaWeapon5Param,AnimaWeapon5Param,AnimaWeapon5Param
-0,"Diadochos Sword",0,0,"","","","",""
+0,"",0,0,"","","","",""
 1,"Hyperconductive Almace",1,128,"Tenacity","Direct Hit Rate","Critical Hit","Determination","Skill Speed"
 2,"Hyperconductive Verethragna",2,180,"Tenacity","Direct Hit Rate","Critical Hit","Determination","Skill Speed"
 3,"Hyperconductive Ukonvasara",3,180,"Tenacity","Direct Hit Rate","Critical Hit","Determination","Skill Speed"

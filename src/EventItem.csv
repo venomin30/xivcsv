@@ -3208,9 +3208,11 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003456,"potentially special thief's map",0,"potentially special thief's maps",0,0,1,0,0,False,"Potentially Special Thief's Map","ui/icon/026000/026151.tex","Key Item",1,2,,0,"normal/item_start",0
 2003457,"ophiotauroskin treasure map",0,"ophiotauroskin treasure maps",0,1,1,0,0,False,"Ophiotauroskin Treasure Map","ui/icon/026000/026151.tex","Key Item",1,2,,0,"normal/item_start",0
 2003458,"ancient thief's map",0,"ancient thief's maps",0,1,1,0,0,False,"Ancient Thief's Map","ui/icon/026000/026151.tex","Key Item",1,2,,0,"normal/item_start",0
+2003459,"giant tortoise liver",0,"giant tortoise livers",0,0,1,0,0,False,"Giant Tortoise Liver","ui/icon/025000/025919.tex","",1,1,"By Agents Unknown",0,"normal/item_start",0
+2003460,"Shishu dogu",0,"Shishu dogu",0,0,1,0,0,False,"Shishu Dogu","ui/icon/025000/025919.tex","",1,1,,0,"normal/item_start",0
 2003461,"bag of spice",0,"bags of spice",0,0,1,0,0,False,"Bag of Spice","ui/icon/025000/025979.tex","",1,1,"Currying Flavor",0,"normal/item_start",0
 2003463,"conceivably special treasure map",0,"conceivably special treasure maps",0,0,1,0,0,False,"Conceivably Special Treasure Map","ui/icon/026000/026151.tex","Key Item",1,2,,0,"normal/item_start",0
 2003464,"conceivably special thief's map",0,"conceivably special thief's maps",0,0,1,0,0,False,"Conceivably Special Thief's Map","ui/icon/026000/026151.tex","Key Item",1,2,,0,"normal/item_start",0
 2003465,"packaged gift",0,"packaged gifts",0,0,1,0,0,False,"Packaged Gift","ui/icon/026000/026109.tex","Key Item",1,1,"Forever in Our Hearts",0,"normal/item_start",0
-2003466,"組紐のブレスレット",0,"",0,0,1,0,0,False,"","ui/icon/026000/026113.tex","",3,1,"星芒祭と子どもたちの輪",0,"normal/item_start",0
-2003467,"友人たちの名前入りブレスレット",0,"",0,0,1,0,0,False,"","ui/icon/026000/026107.tex","",1,1,"星芒祭と子どもたちの輪",0,"normal/item_start",0
+2003466,"woven bracelet",0,"woven bracelets",0,0,1,0,0,False,"Woven Bracelet","ui/icon/026000/026113.tex","",3,1,"Together at a Distance",0,"normal/item_start",0
+2003467,"engraved bracelet",0,"engraved bracelets",0,1,1,0,0,False,"Engraved Bracelet","ui/icon/026000/026107.tex","",1,1,"Together at a Distance",0,"normal/item_start",0

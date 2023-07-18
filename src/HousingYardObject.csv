@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14
 #,ModelKey,HousingItemCategory,UsageType,UsageParameter,,CustomTalk,Item,DestroyOnRemoval,,,,,,,
 int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byte,byte,bit&08,bit&10
-131072,0,17,0,0,0,,"Diadochos Sword",False,False,True,0,0,0,False,False
+131072,0,17,0,0,0,,"",False,False,True,0,0,0,False,False
 131073,1,17,0,0,0,,"Amalj'aa Supply Carriage",False,False,True,0,0,0,False,True
 131074,2,17,0,0,0,,"Shroud Broadleaf",False,False,True,0,0,0,False,True
 131075,3,17,0,0,0,,"Unbreakable Rock",False,False,True,0,0,0,False,True
@@ -300,7 +300,12 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131381,289,17,0,0,0,,"Garden Creek",False,False,True,0,0,0,False,True
 131382,290,17,0,0,0,,"Mushroom Medley Lamp",False,False,True,0,0,0,False,True
 131383,291,17,0,0,0,,"Country Swing Seat",False,False,True,0,0,0,False,True
+131384,292,17,0,0,0,,"Ornate Fountain",False,False,True,0,0,0,False,True
+131385,293,17,0,0,0,,"Smashed Flower Pot",False,False,True,0,0,0,False,True
 131386,294,17,0,0,0,"CmnDefHousingObject_00141","Well Pump",False,False,True,0,0,0,False,True
 131387,295,17,0,0,0,,"Ivy-canopied Deck",False,False,True,0,0,0,False,True
+131388,296,17,0,0,0,,"Komainu Statue",False,False,True,0,0,0,False,True
+131389,297,17,0,0,0,,"Stone Toro Lantern",False,False,True,0,0,0,False,True
+131390,298,17,0,0,0,,"Planted Toro Lantern",False,False,True,0,0,0,False,True
 131391,299,17,0,0,0,,"Illuminated Topiary Chocobo",False,False,True,5,0,0,False,True
 131392,263,17,0,0,0,,"Authentic Summer Bonfire",False,False,True,3,0,0,False,True

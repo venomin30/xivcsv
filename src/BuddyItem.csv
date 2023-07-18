@@ -1,7 +1,7 @@
 ﻿key,0,1,2,3,4
 #,Item,UseField,UseTraining,,Status
 int32,Item,bit&01,bit&02,bit&04,byte
-0,"Diadochos Sword",False,False,False,0
+0,"",False,False,False,0
 1,"Krakka Root",True,False,False,0
 2,"Thavnairian Onion",True,False,False,0
 3,"Curiel Root",True,True,False,1
@@ -19,6 +19,6 @@ int32,Item,bit&01,bit&02,bit&04,byte
 15,"O'Ghomoro Berries",False,False,True,0
 16,"Cieldalaes Pineapple",False,False,True,0
 17,"Han Lemon",False,False,True,0
-18,"Diadochos Sword",False,False,False,0
-19,"Diadochos Sword",False,False,False,0
-20,"Diadochos Sword",False,False,False,0
+18,"",False,False,False,0
+19,"",False,False,False,0
+20,"",False,False,False,0

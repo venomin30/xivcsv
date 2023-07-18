@@ -4417,11 +4417,11 @@ int32,byte,byte,GatheringPointBase,byte,GatheringPointBonus,GatheringPointBonus,
 34413,1,0,"GatheringPointBase#919",4,"GatheringPointBonus#215","GatheringPointBonus#0","n4f3","The Central Hills of Amber",
 34414,1,0,"GatheringPointBase#919",4,"GatheringPointBonus#0","GatheringPointBonus#0","n4f3","The Central Hills of Amber",
 34415,5,0,"GatheringPointBase#932",6,"GatheringPointBonus#143","GatheringPointBonus#0","m5f1","Pavana's Remorse","Northern Mining Folklore"
-34416,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
+34416,1,0,"GatheringPointBase#920",4,"GatheringPointBonus#71","GatheringPointBonus#0","n4f1","The Stay","Geological Resources II"
 34417,5,0,"GatheringPointBase#933",6,"GatheringPointBonus#143","GatheringPointBonus#0","u5f2","Ostrakon Deka-okto","Celestial Mining Folklore"
-34418,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
+34418,1,0,"GatheringPointBase#920",4,"GatheringPointBonus#71","GatheringPointBonus#0","n4f1","The Stay","Geological Resources II"
 34419,5,0,"GatheringPointBase#934",6,"GatheringPointBonus#143","GatheringPointBonus#0","n5f1","Lethe","Ancient Mining Folklore"
-34420,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
+34420,1,0,"GatheringPointBase#920",4,"GatheringPointBonus#71","GatheringPointBonus#0","n4f1","The Stay","Geological Resources II"
 34421,1,0,"GatheringPointBase#921",4,"GatheringPointBonus#198","GatheringPointBonus#0","n4f4","Good Jenanna's Grace",
 34422,1,0,"GatheringPointBase#921",4,"GatheringPointBonus#0","GatheringPointBonus#0","n4f4","Good Jenanna's Grace",
 34423,1,0,"GatheringPointBase#921",4,"GatheringPointBonus#206","GatheringPointBonus#0","n4f4","Good Jenanna's Grace",
@@ -4470,15 +4470,15 @@ int32,byte,byte,GatheringPointBase,byte,GatheringPointBonus,GatheringPointBonus,
 34466,1,0,"GatheringPointBase#928",4,"GatheringPointBonus#0","GatheringPointBonus#0","n4f6","The Norvrandt Slope",
 34467,1,0,"GatheringPointBase#928",4,"GatheringPointBonus#217","GatheringPointBonus#0","n4f6","The Norvrandt Slope",
 34468,1,0,"GatheringPointBase#928",4,"GatheringPointBonus#0","GatheringPointBonus#0","n4f6","The Norvrandt Slope",
-34469,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
-34470,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
-34471,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
-34472,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
-34473,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
-34474,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
-34475,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
-34476,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
-34477,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
+34469,1,0,"GatheringPointBase#929",4,"GatheringPointBonus#72","GatheringPointBonus#0","n4f2","The Bright Cliff","Geological Resources II"
+34470,1,0,"GatheringPointBase#929",4,"GatheringPointBonus#72","GatheringPointBonus#0","n4f2","The Bright Cliff","Geological Resources II"
+34471,1,0,"GatheringPointBase#929",4,"GatheringPointBonus#72","GatheringPointBonus#0","n4f2","The Bright Cliff","Geological Resources II"
+34472,1,0,"GatheringPointBase#930",4,"GatheringPointBonus#73","GatheringPointBonus#0","n4f4","Mithai Glorianda","Botanical Resources II"
+34473,1,0,"GatheringPointBase#930",4,"GatheringPointBonus#73","GatheringPointBonus#0","n4f4","Mithai Glorianda","Botanical Resources II"
+34474,1,0,"GatheringPointBase#930",4,"GatheringPointBonus#73","GatheringPointBonus#0","n4f4","Mithai Glorianda","Botanical Resources II"
+34475,1,0,"GatheringPointBase#931",4,"GatheringPointBonus#74","GatheringPointBonus#0","n4f3","The Central Hills of Amber","Botanical Resources II"
+34476,1,0,"GatheringPointBase#931",4,"GatheringPointBonus#74","GatheringPointBonus#0","n4f3","The Central Hills of Amber","Botanical Resources II"
+34477,1,0,"GatheringPointBase#931",4,"GatheringPointBonus#74","GatheringPointBonus#0","n4f3","The Central Hills of Amber","Botanical Resources II"
 34478,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
 34479,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",
 34480,0,0,"GatheringPointBase#0",0,"GatheringPointBonus#0","GatheringPointBonus#0",,"",

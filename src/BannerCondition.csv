@@ -529,7 +529,7 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 525,9,,,,,,,17,,,,1," Celebratory Smorgasbord","Obtained from Stormblood tribal quest progression.",False
 526,9,,,,,,,17,,,,1," Disciples of Creation","Obtained from Stormblood tribal quest progression.",False
 527,0,,,,,,,0,,,,0,,"",False
-528,0,,,,,,,0,,,,0,,"",False
+528,9,,,,,,,24,,,,3,,"Obtained from Endwalker sidequest progression.",False
 529,9,,,,,,,36,,,,1,"All the Fish in the Sea","Obtained from A Realm Reborn sidequest progression.",False
 530,9,,,,,,,36,,,,1,"Way of the Fisher","Obtained from fisher quest progression.",False
 531,9,,,,,,,36,,,,1,"Every Little Thing She Does Is Mahjong","Obtained from A Realm Reborn sidequest progression.",False
