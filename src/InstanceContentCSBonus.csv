@@ -1,40 +1,44 @@
 ﻿key,0,1,2,3,4
 #,Instance,Item,,,
 int32,InstanceContent,Item,byte,byte,byte
-0,"InstanceContent#9","Irregular Tomestone of Mendacity",3,0,0
-1,"InstanceContent#12","Irregular Tomestone of Mendacity",3,0,0
-2,"InstanceContent#13","Irregular Tomestone of Mendacity",3,0,0
-3,"InstanceContent#23","Irregular Tomestone of Mendacity",4,0,0
-4,"InstanceContent#24","Irregular Tomestone of Mendacity",4,0,0
-5,"InstanceContent#30087","Irregular Tomestone of Mendacity",5,0,0
-6,"InstanceContent#30096","Irregular Tomestone of Mendacity",6,0,0
-7,"InstanceContent#30105","Irregular Tomestone of Mendacity",7,0,0
-8,"InstanceContent#30021","Irregular Tomestone of Mendacity",2,0,0
-9,"InstanceContent#30022","Irregular Tomestone of Mendacity",2,0,0
-10,"InstanceContent#30023","Irregular Tomestone of Mendacity",2,0,0
-11,"InstanceContent#30024","Irregular Tomestone of Mendacity",2,0,0
-12,"InstanceContent#30030","Irregular Tomestone of Mendacity",2,0,0
-13,"InstanceContent#30031","Irregular Tomestone of Mendacity",2,0,0
-14,"InstanceContent#30032","Irregular Tomestone of Mendacity",2,0,0
-15,"InstanceContent#30033","Irregular Tomestone of Mendacity",2,0,0
-16,"InstanceContent#30039","Irregular Tomestone of Mendacity",2,0,0
-17,"InstanceContent#30040","Irregular Tomestone of Mendacity",2,0,0
-18,"InstanceContent#30041","Irregular Tomestone of Mendacity",2,0,0
-19,"InstanceContent#30042","Irregular Tomestone of Mendacity",2,0,0
-20,"InstanceContent#20068","Irregular Tomestone of Mendacity",2,0,0
-21,"InstanceContent#20073","Irregular Tomestone of Mendacity",2,0,0
-22,"InstanceContent#20075","Irregular Tomestone of Mendacity",2,0,0
-23,"InstanceContent#15","Irregular Tomestone of Mendacity",4,0,0
-24,"InstanceContent#86","Irregular Tomestone of Mendacity",7,0,0
-25,"InstanceContent#20082","Irregular Tomestone of Mendacity",3,0,0
-26,"InstanceContent#50001","Irregular Tomestone of Mendacity",5,3,3
-27,"InstanceContent#50004","Irregular Tomestone of Mendacity",5,3,3
-28,"InstanceContent#50005","Irregular Tomestone of Mendacity",5,3,3
-29,"InstanceContent#50006","Irregular Tomestone of Mendacity",5,3,3
-30,"InstanceContent#51002","Irregular Tomestone of Mendacity",5,3,3
-31,"InstanceContent#0","",0,0,0
-32,"InstanceContent#0","",0,0,0
-33,"InstanceContent#0","",0,0,0
-34,"InstanceContent#0","",0,0,0
-35,"InstanceContent#0","",0,0,0
-36,"InstanceContent#0","",0,0,0
+0,"InstanceContent#78","Irregular Tomestone Of Tenfold Pageantry",8,0,0
+1,"InstanceContent#80","Irregular Tomestone Of Tenfold Pageantry",8,0,0
+2,"InstanceContent#83","Irregular Tomestone Of Tenfold Pageantry",8,0,0
+3,"InstanceContent#82","Irregular Tomestone Of Tenfold Pageantry",8,0,0
+4,"InstanceContent#81","Irregular Tomestone Of Tenfold Pageantry",8,0,0
+5,"InstanceContent#84","Irregular Tomestone Of Tenfold Pageantry",8,0,0
+6,"InstanceContent#30001","Irregular Tomestone Of Tenfold Pageantry",6,0,0
+7,"InstanceContent#30011","Irregular Tomestone Of Tenfold Pageantry",6,0,0
+8,"InstanceContent#30020","Irregular Tomestone Of Tenfold Pageantry",6,0,0
+9,"InstanceContent#30029","Irregular Tomestone Of Tenfold Pageantry",6,0,0
+10,"InstanceContent#30038","Irregular Tomestone Of Tenfold Pageantry",10,0,0
+11,"InstanceContent#30047","Irregular Tomestone Of Tenfold Pageantry",14,0,0
+12,"InstanceContent#30058","Irregular Tomestone Of Tenfold Pageantry",10,0,0
+13,"InstanceContent#30068","Irregular Tomestone Of Tenfold Pageantry",12,0,0
+14,"InstanceContent#30077","Irregular Tomestone Of Tenfold Pageantry",14,0,0
+15,"InstanceContent#30087","Irregular Tomestone Of Tenfold Pageantry",10,0,0
+16,"InstanceContent#30096","Irregular Tomestone Of Tenfold Pageantry",12,0,0
+17,"InstanceContent#30105","Irregular Tomestone Of Tenfold Pageantry",14,0,0
+18,"InstanceContent#30115","Irregular Tomestone Of Tenfold Pageantry",12,0,0
+19,"InstanceContent#30125","Irregular Tomestone Of Tenfold Pageantry",14,0,0
+20,"InstanceContent#30111","Irregular Tomestone Of Tenfold Pageantry",3,0,0
+21,"InstanceContent#30113","Irregular Tomestone Of Tenfold Pageantry",3,0,0
+22,"InstanceContent#30109","Irregular Tomestone Of Tenfold Pageantry",3,0,0
+23,"InstanceContent#30107","Irregular Tomestone Of Tenfold Pageantry",3,0,0
+24,"InstanceContent#30116","Irregular Tomestone Of Tenfold Pageantry",3,0,0
+25,"InstanceContent#30120","Irregular Tomestone Of Tenfold Pageantry",3,0,0
+26,"InstanceContent#30118","Irregular Tomestone Of Tenfold Pageantry",3,0,0
+27,"InstanceContent#30122","Irregular Tomestone Of Tenfold Pageantry",3,0,0
+28,"InstanceContent#30126","Irregular Tomestone Of Tenfold Pageantry",4,0,0
+29,"InstanceContent#30128","Irregular Tomestone Of Tenfold Pageantry",4,0,0
+30,"InstanceContent#30130","Irregular Tomestone Of Tenfold Pageantry",4,0,0
+31,"InstanceContent#30132","Irregular Tomestone Of Tenfold Pageantry",4,0,0
+32,"InstanceContent#64007","Irregular Tomestone Of Tenfold Pageantry",8,0,0
+33,"InstanceContent#15","Irregular Tomestone Of Tenfold Pageantry",8,0,0
+34,"InstanceContent#86","Irregular Tomestone Of Tenfold Pageantry",14,0,0
+35,"InstanceContent#20082","Irregular Tomestone Of Tenfold Pageantry",6,0,0
+36,"InstanceContent#50004","Irregular Tomestone Of Tenfold Pageantry",10,6,6
+37,"InstanceContent#50005","Irregular Tomestone Of Tenfold Pageantry",10,6,6
+38,"InstanceContent#50006","Irregular Tomestone Of Tenfold Pageantry",10,6,6
+39,"InstanceContent#51002","Irregular Tomestone Of Tenfold Pageantry",10,6,6
+40,"InstanceContent#0","",0,0,0

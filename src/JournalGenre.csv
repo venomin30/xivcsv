@@ -78,7 +78,7 @@ int32,Image,JournalCategory,bit&01,str
 74,"ui/icon/061000/061411.tex","Weapon Enhancement Sidequests",True,"Anima Weapons"
 75,"ui/icon/061000/061411.tex","Weapon Enhancement Sidequests",True,"The Forbidden Land, Eureka"
 76,"ui/icon/061000/061411.tex","Weapon Enhancement Sidequests",True,"Resistance Weapons"
-77,,"Sephiroth Missions",False,""
+77,"ui/icon/061000/061411.tex","Side Story Quests",True,"Tales from the Calamity"
 78,"ui/icon/061000/061411.tex","Side Story Quests",True,"Delivery Moogle Quests"
 79,"ui/icon/061000/061411.tex","Side Story Quests",True,"Scholasticate Quests"
 80,"ui/icon/061000/061411.tex","Side Story Quests",True,"Void Quests"

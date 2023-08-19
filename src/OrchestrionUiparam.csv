@@ -595,8 +595,8 @@ int32,OrchestrionCategory,uint16
 591,"Locales II",47
 592,"Trials",53
 593,"Others",49
-594,"",0
-595,"",0
+594,"Seasonal",65535
+595,"Seasonal",65535
 596,"Dungeons II",30
 597,"Dungeons II",31
 598,"Raids II",49

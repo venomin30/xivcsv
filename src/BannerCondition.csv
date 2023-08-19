@@ -524,11 +524,11 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 520,9,,,,,,,14,,,,0,,"",False
 521,9,,,,,,,14,,,,0,,"",False
 522,9,,,,,,,19,,,,1,"Blue Scream of Death","Obtained from blue mage quest progression.",False
-523,0,,,,,,,0,,,,0,,"",False
+523,9,,,,,,,35,,,,0,,"",True
 524,9,,,,,,,17,,,,1," True-blue","Obtained from Stormblood tribal quest progression.",False
 525,9,,,,,,,17,,,,1," Celebratory Smorgasbord","Obtained from Stormblood tribal quest progression.",False
 526,9,,,,,,,17,,,,1," Disciples of Creation","Obtained from Stormblood tribal quest progression.",False
-527,0,,,,,,,0,,,,0,,"",False
+527,9,,,,,,,2," Preserving the Future",,,1," Remembering the Past","Obtained from A Realm Reborn sidequest progression.",True
 528,9,,,,,,,24,,,,3,,"Obtained from Endwalker sidequest progression.",False
 529,9,,,,,,,36,,,,1,"All the Fish in the Sea","Obtained from A Realm Reborn sidequest progression.",False
 530,9,,,,,,,36,,,,1,"Way of the Fisher","Obtained from fisher quest progression.",False
