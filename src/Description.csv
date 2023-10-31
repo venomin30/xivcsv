@@ -24,4 +24,4 @@ int32,byte,Quest,str,str,str,bit&01,DescriptionSection
 3604500,2,,"Deep Dungeons","Deep Dungeons","",True,"The Palace of the Dead"
 3604501,2,,"Deep Dungeons","Deep Dungeons","",True,"Heaven–on–High"
 3604502,2,,"Deep Dungeons","Deep Dungeons","",True,"Eureka Orthos"
-3604503,0,,"","","",False,""
+3604503,0,,"Small Talk","Blunderville","",True,"Blunderville"

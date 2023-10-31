@@ -1603,14 +1603,14 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint32,bit&02,uint32,byte,
 10846,"Brilliant Lightning Cluster","GatheringItemLevelConvertTable#620",True,,0,True,0,0,65535
 10847,"Connoisseur's Cloves","GatheringItemLevelConvertTable#620",True,,0,False,0,1,169
 10848,"Brilliant Earth Cluster","GatheringItemLevelConvertTable#620",True,,0,True,0,0,65535
-10849,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10850,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10851,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10852,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10853,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10854,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10855,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10856,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10849,"Connoisseur's Asphaltum","GatheringItemLevelConvertTable#625",True,,0,False,0,1,176
+10850,"Inspirational Wind Cluster","GatheringItemLevelConvertTable#625",True,,0,True,0,0,65535
+10851,"Connoisseur's Gianthive Chip","GatheringItemLevelConvertTable#625",True,,0,False,0,1,176
+10852,"Inspirational Fire Cluster","GatheringItemLevelConvertTable#625",True,,0,True,0,0,65535
+10853,"Connoisseur's Raw Onyx","GatheringItemLevelConvertTable#630",True,,0,False,0,1,177
+10854,"Nightforged Ice Cluster","GatheringItemLevelConvertTable#630",True,,0,True,0,0,65535
+10855,"Connoisseur's Glimshroom","GatheringItemLevelConvertTable#630",True,,0,False,0,1,177
+10856,"Nightforged Water Cluster","GatheringItemLevelConvertTable#630",True,,0,True,0,0,65535
 10857,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
 10858,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
 10859,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0

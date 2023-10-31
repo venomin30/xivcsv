@@ -5,7 +5,7 @@ int32,str,bit&01,byte,uint16,Row,Row,Row,Row,Row,Row,Row,Row,Row,Row
 3276801,"",False,0,0,,,,,,,,,,
 3276802,"Purchase Gordian Items",False,0,0,"Gordian Part Exchange (DoW) I","Gordian Part Exchange (DoW) II","Gordian Part Exchange (DoM)","Gordian Manifesto Exchange (DoW) I","Gordian Manifesto Exchange (DoW) II","Gordian Manifesto Exchange (DoM)","Precision Gordian Part Exchange",,,
 3276803,"Purchase Midan Items",False,0,0,"Midan Part Exchange (DoW) I","Midan Part Exchange (DoW) II","Midan Part Exchange (DoM)","Midan Manifesto Exchange (DoW) I","Midan Manifesto Exchange (DoW) II","Midan Manifesto Exchange (DoM)",,,,
-3276804,"",False,0,0,,,,,,,,,,
+3276804,"Aloalo Island Artifact Exchange",False,0,0,"Aloalo Potsherd Exchange","Aloalo Coin Exchange","Aloalo Manuscript Exchange",,,,,,,
 3276805,"",False,0,0,"Tradecraft Keep Tool Augmentation","Tradecraft Keep Gear Augmentation","Fieldcraft Keep Tool Augmentation","Fieldcraft Keep Gear Augmentation",,,,,,
 3276806,"Purchase Alexandrian Items",False,0,0,"Alexandrian Part Exchange (DoW) I","Alexandrian Part Exchange (DoW) II","Alexandrian Part Exchange (DoM)","Alexandrian Manifesto Exchange (DoW) I","Alexandrian Manifesto Exchange (DoW) II","Alexandrian Manifesto Exchange (DoM)",,,,
 3276807,"",False,0,0,,,,,,,,,,

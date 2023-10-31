@@ -565,8 +565,8 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 561,6,"Midgardsormr",,,,,,2,"The Rising Chorus",,,1,"Best Laid Schemes","Obtained from Seventh Umbral Era main scenario quest progression.",False
 562,6,"wind-up Hraesvelgr",,,,,,12,"Wind-up Hraesvelgr",,,0,,"",False
 563,6,"wind-up Nidhogg",,,,,,12,"Wind-up Nidhogg",,,0,,"",False
-564,0,,,,,,,0,,,,0,,"",False
-565,0,,,,,,,0,,,,0,,"",False
+564,6,"pink Bean",,,,,,4,"MGF trader","Level#10215752","Pink Bean",1,"Just Crowning Around","Obtained from A Realm Reborn sidequest progression.",True
+565,6,"Pegwin",,,,,,4,"MGF trader","Level#10215752","Pegwin",1,"Just Crowning Around","Obtained from A Realm Reborn sidequest progression.",True
 566,0,,,,,,,0,,,,0,,"",False
 567,9,,,,,,,17,,,,1,"The Nest of Honor","Obtained from Heavensward tribal quest progression.",False
 568,9,,,,,,,17,,,,1,"A Symbiotic Friendship","Obtained from Heavensward tribal quest progression.",False
@@ -575,10 +575,10 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 571,9,,,,,,,26,,,,1,"Fantastic Mr. Faux","Obtained from Shadowbringers sidequest progression.",False
 572,9,,,,,,,2,"Embraced by Gods",,,1,"The Heart of the Myth","Obtained from Endwalker: Chronicles of a New Era quest progression.",False
 573,9,,,,,,,2,"",,,1,"","Obtained from Endwalker sidequest progression.",False
-574,0,,,,,,,0,,,,0,,"",False
-575,0,,,,,,,0,,,,0,,"",False
-576,0,,,,,,,0,,,,0,,"",False
-577,0,,,,,,,0,,,,0,,"",False
+574,9,,,,,,,24,,,,3,,"Obtained from Endwalker sidequest progression.",False
+575,9,,,,,,,4,"MGF trader","Level#10215752","Blunderful Framer's Kit",1,"Just Crowning Around","Obtained from A Realm Reborn sidequest progression.",True
+576,9,,,,,,,4,"MGF trader","Level#10215752","Blunderous Framer's Kit",1,"Just Crowning Around","Obtained from A Realm Reborn sidequest progression.",True
+577,9,,,,,,,4,"MGF trader","Level#10215752","Blunder-villed Framer's Kit",1,"Just Crowning Around","Obtained from A Realm Reborn sidequest progression.",True
 578,9,,,,,,,14,,,,0,,"",False
 579,9,,,,,,,14,,,,0,,"",False
 580,9,,,,,,,11,"Top Tier: Season Eight",,,0,,"",True

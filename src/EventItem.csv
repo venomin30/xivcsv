@@ -3217,5 +3217,10 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003465,"packaged gift",0,"packaged gifts",0,0,1,0,0,False,"Packaged Gift","ui/icon/026000/026109.tex","Key Item",1,1,"Forever in Our Hearts",0,"normal/item_start",0
 2003466,"woven bracelet",0,"woven bracelets",0,0,1,0,0,False,"Woven Bracelet","ui/icon/026000/026113.tex","",3,1,"Together at a Distance",0,"normal/item_start",0
 2003467,"engraved bracelet",0,"engraved bracelets",0,1,1,0,0,False,"Engraved Bracelet","ui/icon/026000/026107.tex","",1,1,"Together at a Distance",0,"normal/item_start",0
+2003468,"sparrow statue",0,"sparrow statues",0,0,1,0,0,False,"Sparrow Statue","ui/icon/025000/025919.tex","",1,1,,0,"normal/item_start",0
+2003469,"southern sow bug",0,"southern sow bugs",0,0,1,0,0,False,"Southern Sow Bug","ui/icon/025000/025919.tex","",1,1,,0,"normal/item_start",0
+2003470,"southern worm",0,"southern worms",0,0,1,0,0,False,"Southern Worm","ui/icon/025000/025919.tex","",1,1,,0,"normal/item_start",0
 2003471,"curiously carrot-shaped amplifier",0,"curiously carrot-shaped amplifiers",0,0,1,0,0,False,"Curiously Carrot-shaped Amplifier","ui/icon/025000/025207.tex","Key Item",1,1,"Wings of Hope",0,"normal/item_start",0
 2003472,"apocryphal horn",0,"apocryphal horns",0,1,1,0,0,False,"Apocryphal Horn","ui/icon/026000/026038.tex","Key Item",1,1,"Wings of Hope",0,"normal/item_start",0
+2003474,"turtle statue",0,"turtle statues",0,0,1,0,0,False,"Turtle Statue","ui/icon/025000/025919.tex","",1,1,,0,"normal/item_start",0
+2003475,"whale statue",0,"whale statues",0,0,1,0,0,False,"Whale Statue","ui/icon/025000/025919.tex","",1,1,,0,"normal/item_start",0

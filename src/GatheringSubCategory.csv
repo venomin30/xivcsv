@@ -117,10 +117,10 @@ int32,GatheringType,ClassJob,Quest,uint16,Item,str,byte
 2277,"Quarrying","miner","The Joy of Zoi",2014,"","",0
 2278,"Logging","botanist","The Joy of Zoi",2014,"","Botanical Resources II",0
 2279,"Logging","botanist","The Joy of Zoi",2014,"","",0
-2280,"Mining","adventurer",,0,"","",0
-2281,"Mining","adventurer",,0,"","",0
-2282,"Mining","adventurer",,0,"","",0
-2283,"Mining","adventurer",,0,"","",0
+2280,"Quarrying","miner","Dance Like Mowen Is Watching",2014,"","Geological Resources III",0
+2281,"Quarrying","miner","Dance Like Mowen Is Watching",2014,"","",0
+2282,"Logging","botanist","Dance Like Mowen Is Watching",2014,"","Botanical Resources III",0
+2283,"Logging","botanist","Dance Like Mowen Is Watching",2014,"","",0
 2284,"Mining","adventurer",,0,"","",0
 2285,"Mining","adventurer",,0,"","",0
 2286,"Mining","adventurer",,0,"","",0

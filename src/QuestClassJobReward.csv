@@ -410,25 +410,25 @@ int32,ClassJobCategory,Item,Item,Item,Item,byte,byte,byte,byte,Item,Item,Item,It
 31.16,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
 31.17,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
 31.18,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-32.0,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-32.1,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-32.2,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-32.3,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-32.4,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-32.5,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-32.6,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-32.7,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-32.8,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-32.9,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-32.10,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-33.0,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-33.1,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-33.2,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-33.3,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-33.4,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-33.5,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-33.6,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-33.7,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-33.8,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-33.9,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-33.10,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
+32.0,"CRP","Vrandtic Visionary's Saw","","","",1,0,0,0,"Brilliant Saw","Inspirational Carpenter's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
+32.1,"BSM","Vrandtic Visionary's Cross-pein Hammer","","","",1,0,0,0,"Brilliant Cross-pein Hammer","Inspirational Blacksmith's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
+32.2,"ARM","Vrandtic Visionary's Raising Hammer","","","",1,0,0,0,"Brilliant Raising Hammer","Inspirational Armorer's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
+32.3,"GSM","Vrandtic Visionary's Mallet","","","",1,0,0,0,"Brilliant Mallet","Inspirational Goldsmith's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
+32.4,"LTW","Vrandtic Visionary's Round Knife","","","",1,0,0,0,"Brilliant Round Knife","Inspirational Leatherworker's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
+32.5,"WVR","Vrandtic Visionary's Needle","","","",1,0,0,0,"Brilliant Needle","Inspirational Weaver's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
+32.6,"ALC","Vrandtic Visionary's Alembic","","","",1,0,0,0,"Brilliant Alembic","Inspirational Alchemist's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
+32.7,"CUL","Vrandtic Visionary's Frypan","","","",1,0,0,0,"Brilliant Frypan","Inspirational Culinarian's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
+32.8,"MIN","Vrandtic Visionary's Pickaxe","","","",1,0,0,0,"Brilliant Pickaxe","Inspirational Miner's Component","Inspirational Wind Cluster","",1,220,220,0,False,False,False,False,True,False,False,True
+32.9,"BTN","Vrandtic Visionary's Hatchet","","","",1,0,0,0,"Brilliant Hatchet","Inspirational Botanist's Component","Inspirational Fire Cluster","",1,220,220,0,False,False,False,False,True,False,False,True
+32.10,"FSH","Vrandtic Visionary's Fishing Rod","","","",1,0,0,0,"Brilliant Fishing Rod","Inspirational Fisher's Component","","",1,170,0,0,False,False,False,False,True,False,True,True
+33.0,"CRP","Lodestar Saw","","","",1,0,0,0,"Vrandtic Visionary's Saw","Nightforged Carpenter's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
+33.1,"BSM","Lodestar Cross-pein Hammer","","","",1,0,0,0,"Vrandtic Visionary's Cross-pein Hammer","Nightforged Blacksmith's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
+33.2,"ARM","Lodestar Raising Hammer","","","",1,0,0,0,"Vrandtic Visionary's Raising Hammer","Nightforged Armorer's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
+33.3,"GSM","Lodestar Mallet","","","",1,0,0,0,"Vrandtic Visionary's Mallet","Nightforged Goldsmith's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
+33.4,"LTW","Lodestar Round Knife","","","",1,0,0,0,"Vrandtic Visionary's Round Knife","Nightforged Leatherworker's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
+33.5,"WVR","Lodestar Needle","","","",1,0,0,0,"Vrandtic Visionary's Needle","Nightforged Weaver's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
+33.6,"ALC","Lodestar Alembic","","","",1,0,0,0,"Vrandtic Visionary's Alembic","Nightforged Alchemist's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
+33.7,"CUL","Lodestar Frypan","","","",1,0,0,0,"Vrandtic Visionary's Frypan","Nightforged Culinarian's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
+33.8,"MIN","Lodestar Pickaxe","","","",1,0,0,0,"Vrandtic Visionary's Pickaxe","Nightforged Miner's Component","Nightforged Ice Cluster","",1,220,220,0,False,False,False,False,True,False,False,True
+33.9,"BTN","Lodestar Hatchet","","","",1,0,0,0,"Vrandtic Visionary's Hatchet","Nightforged Botanist's Component","Nightforged Water Cluster","",1,220,220,0,False,False,False,False,True,False,False,True
+33.10,"FSH","Lodestar Fishing Rod","","","",1,0,0,0,"Vrandtic Visionary's Fishing Rod","Nightforged Fisher's Component","","",1,170,0,0,False,False,False,False,True,False,True,True
