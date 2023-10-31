@@ -18,3 +18,7 @@ int32,Item,ExportedSG,EObjName
 14,"Island Beet","bgcommon/mji/feed/0011/asset/fee_f0_m0011.sgb","island beet"
 15,"Island Eggplant","bgcommon/mji/feed/0014/asset/fee_f0_m0014.sgb","island eggplant"
 16,"Island Zucchini","bgcommon/mji/feed/0017/asset/fee_f0_m0017.sgb","island zucchini"
+17,"Island Watermelon","bgcommon/mji/feed/0002/asset/fee_f0_m0002.sgb","island watermelon"
+18,"Island Sweet Popoto","bgcommon/mji/feed/0015/asset/fee_f0_m0015.sgb","island sweet popoto"
+19,"Island Broccoli","bgcommon/mji/feed/0018/asset/fee_f0_m0018.sgb","island broccoli"
+20,"Island Buffalo Beans","bgcommon/mji/feed/0012/asset/fee_f0_m0012.sgb","island buffalo beanstalk"

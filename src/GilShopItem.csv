@@ -133,6 +133,7 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262157.31,"Sweet Pea Seeds",False,0,,,"",0,100,620
 262157.32,"Morning Glory Seeds",False,0,,,"",0,100,630
 262157.33,"Chrysanthemum Seeds",False,0,,,"",0,100,640
+262157.34,"Lupin Seeds",False,0,,,"",0,100,650
 262158.0,"Gysahl Greens",False,0,,,"",0,100,0
 262158.1,"Cherry Bomb",False,0,,,"",0,100,0
 262158.2,"Mammet #001",False,0,,,"",0,100,0
@@ -4789,6 +4790,7 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262422.49,"Sweet Pea Seeds",False,0,,,"",0,100,620
 262422.50,"Morning Glory Seeds",False,0,,,"",0,100,630
 262422.51,"Chrysanthemum Seeds",False,0,,,"",0,100,640
+262422.52,"Lupin Seeds",False,0,,,"",0,100,650
 262423.0,"Usagi Kabuto",False,0,,,"",0,100,0
 262423.1,"Silver Usagi Kabuto",False,0,,,"",0,100,0
 262423.2,"Black Usagi Kabuto",False,0,,,"",0,100,0
@@ -5054,58 +5056,58 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262445.30,"Mammon Lucis",False,0,"Canyon of Regret",,"Tool Time for the Land",0,100,0
 262445.31,"Rauni Lucis",False,0,"Seeds of Hope",,"Tool Time for the Land",0,100,0
 262445.32,"Halcyon Rod Lucis",False,0,"So Long, and Thanks for All the Fish",,"Tool Time for the Land",0,100,0
-262446.0,"Monoa Mask",False,0,"Festive Endeavors",,"",0,100,0
-262446.1,"Dress Shoes",False,0,"High Society",,"",0,100,0
-262446.2,"Voice of the Just",False,0,"A Matter of Tradition",,"",0,100,0
-262446.3,"Dawn Wristguards",False,0,"Lord of the Inferno",,"",0,100,0
-262446.4,"Lominsan Ring",False,0,"Feint and Strike",,"",0,100,0
-262446.5,"Gridanian Ring",False,0,"To Guard a Guardian",,"",0,100,0
-262446.6,"Ul'dahn Ring",False,0,"Duty, Honor, Country",,"",0,100,0
-262446.7,"Meteor Survivor Ring",False,0,"The Adventure of the Fainting Goldsmith",,"",0,100,0
-262446.8,"Star-spangled Subligar",False,0,"Thanks for Your Support",,"",0,100,0
-262446.9,"Postmoogle Cap",False,0,"The Little Postmoogle That Could",,"",0,100,0
-262446.10,"Sable Death Mask",False,0,"Friends Forever",,"",0,100,0
-262446.11,"Manderville Coatee",False,0,"Her Last Vow",,"",0,100,0
-262446.12,"Manderville Bottoms",False,0,"Her Last Vow",,"",0,100,0
-262446.13,"Custom-made Cuirass",False,0,"Kicking the Hornet's Nest","Axe in the Stone","",0,100,0
-262446.14,"Custom-made Scale Mail",False,0,"Spear of the Fearless",,"",0,100,0
-262446.15,"Custom-made Shirt",False,0,"Harder than Rock",,"",0,100,0
-262446.16,"Custom-made Tunic",False,0,"A Matter of Perspective","A Dainty Dilemma","",0,100,0
-262446.17,"Custom-made Robe of Casting",False,0,"The Threat of Intimacy","What's in the Box","",0,100,0
-262446.18,"Custom-made Robe of Healing",False,0,"Trial by Earth",,"",0,100,0
-262446.19,"Alpine Coat",False,0,"Litany of Peace",,"",0,100,0
-262446.20,"Mended Imperial Pot Helm",False,0,"Dressed for Conquest",,"",0,100,0
-262446.21,"Mended Imperial Short Robe",False,0,"Dressed for Conquest",,"",0,100,0
-262446.22,"Scion Adventurer's Monocle",False,0,"The Greater Obeisance",,"",0,100,0
-262446.23,"Scion Adventurer's Jacket",False,0,"The Greater Obeisance",,"",0,100,0
-262446.24,"Scion Adventurer's Bottoms",False,0,"The Greater Obeisance",,"",0,100,0
-262446.25,"Scion Adventurer's Boots",False,0,"The Greater Obeisance",,"",0,100,0
+262446.0,"Monoa Mask",False,0,"Festive Endeavors",,"",0,5,0
+262446.1,"Dress Shoes",False,0,"High Society",,"",0,10,0
+262446.2,"Voice of the Just",False,0,"A Matter of Tradition",,"",0,15,0
+262446.3,"Dawn Wristguards",False,0,"Lord of the Inferno",,"",0,20,0
+262446.4,"Lominsan Ring",False,0,"Feint and Strike",,"",0,25,0
+262446.5,"Gridanian Ring",False,0,"To Guard a Guardian",,"",0,25,0
+262446.6,"Ul'dahn Ring",False,0,"Duty, Honor, Country",,"",0,25,0
+262446.7,"Meteor Survivor Ring",False,0,"The Adventure of the Fainting Goldsmith",,"",0,30,0
+262446.8,"Star-spangled Subligar",False,0,"Thanks for Your Support",,"",0,35,0
+262446.9,"Postmoogle Cap",False,0,"The Little Postmoogle That Could",,"",0,40,0
+262446.10,"Sable Death Mask",False,0,"Friends Forever",,"",0,45,0
+262446.11,"Manderville Coatee",False,0,"Her Last Vow",,"",0,50,0
+262446.12,"Manderville Bottoms",False,0,"Her Last Vow",,"",0,50,0
+262446.13,"Custom-made Cuirass",False,0,"Kicking the Hornet's Nest","Axe in the Stone","",0,60,0
+262446.14,"Custom-made Scale Mail",False,0,"Spear of the Fearless",,"",0,60,0
+262446.15,"Custom-made Shirt",False,0,"Harder than Rock",,"",0,60,0
+262446.16,"Custom-made Tunic",False,0,"A Matter of Perspective","A Dainty Dilemma","",0,60,0
+262446.17,"Custom-made Robe of Casting",False,0,"The Threat of Intimacy","What's in the Box","",0,60,0
+262446.18,"Custom-made Robe of Healing",False,0,"Trial by Earth",,"",0,60,0
+262446.19,"Alpine Coat",False,0,"Litany of Peace",,"",0,70,0
+262446.20,"Mended Imperial Pot Helm",False,0,"Dressed for Conquest",,"",0,80,0
+262446.21,"Mended Imperial Short Robe",False,0,"Dressed for Conquest",,"",0,80,0
+262446.22,"Scion Adventurer's Monocle",False,0,"The Greater Obeisance",,"",0,90,0
+262446.23,"Scion Adventurer's Jacket",False,0,"The Greater Obeisance",,"",0,90,0
+262446.24,"Scion Adventurer's Bottoms",False,0,"The Greater Obeisance",,"",0,90,0
+262446.25,"Scion Adventurer's Boots",False,0,"The Greater Obeisance",,"",0,90,0
 262446.26,"Inspector's Eyeglasses",False,0,"Letters from No One",,"",0,100,0
-262446.27,"Scholasticate Coat",False,0,"The Life and Lies of Father Saturnois",,"",0,100,0
-262446.28,"Redbill Scarf",False,0,"A Redbill Farewell",,"",0,100,0
-262446.29,"Kabuto #55",False,0,"The Will to Live",,"",0,100,0
-262446.30,"Uwagi #55",False,0,"The Will to Live",,"",0,100,0
-262446.31,"Tekko #55",False,0,"The Will to Live",,"",0,100,0
-262446.32,"Hakama #55",False,0,"The Will to Live",,"",0,100,0
-262446.33,"Choka #55",False,0,"The Will to Live",,"",0,100,0
-262446.34,"Head Bandage",False,0,"Ant Juice",,"",0,100,0
-262446.35,"Scion Rogue's Bandana",False,0,"The Resonant",,"",0,100,0
-262446.36,"House Fortemps Kite Shield",False,0,"As Goes Light, So Goes Darkness",,"",0,100,0
-262446.37,"Scion Traveler's Mask",False,0,"A Requiem for Heroes",,"",0,100,450
-262446.38,"Scion Traveler's Jacket",False,0,"A Requiem for Heroes",,"",0,100,450
-262446.39,"Scion Traveler's Gloves",False,0,"A Requiem for Heroes",,"",0,100,450
-262446.40,"Scion Traveler's Trousers",False,0,"A Requiem for Heroes",,"",0,100,450
-262446.41,"Scion Traveler's Boots",False,0,"A Requiem for Heroes",,"",0,100,450
-262446.42,"Crystarium Helm",False,0,"The Oracle of Light",,"",0,100,500
-262446.43,"Crystarium Tabard",False,0,"The Oracle of Light",,"",0,100,500
-262446.44,"Crystarium Gauntlets",False,0,"The Oracle of Light",,"",0,100,500
-262446.45,"Crystarium Greaves",False,0,"The Oracle of Light",,"",0,100,500
-262446.46,"Sapphire Weapon Bust",False,0,"Sleep Now in Sapphire",,"",0,100,530
-262446.47,"G-Warrior MG",False,0,"Forever at Your Side",,"",0,100,550
-262446.48,"Northsea Coat",False,0,"Best of the Best",,"",0,100,600
-262446.49,"Sophist's Robe",False,0,"Petalouda Hunt",,"",0,100,600
-262446.50,"Sophist's Podea",False,0,"Petalouda Hunt",,"",0,100,600
-262446.51,"Sophist's Hupodema",False,0,"Petalouda Hunt",,"",0,100,600
+262446.27,"Scholasticate Coat",False,0,"The Life and Lies of Father Saturnois",,"",0,110,0
+262446.28,"Redbill Scarf",False,0,"A Redbill Farewell",,"",0,120,0
+262446.29,"Kabuto #55",False,0,"The Will to Live",,"",0,130,0
+262446.30,"Uwagi #55",False,0,"The Will to Live",,"",0,130,0
+262446.31,"Tekko #55",False,0,"The Will to Live",,"",0,130,0
+262446.32,"Hakama #55",False,0,"The Will to Live",,"",0,130,0
+262446.33,"Choka #55",False,0,"The Will to Live",,"",0,130,0
+262446.34,"Head Bandage",False,0,"Ant Juice",,"",0,140,0
+262446.35,"Scion Rogue's Bandana",False,0,"The Resonant",,"",0,145,0
+262446.36,"House Fortemps Kite Shield",False,0,"As Goes Light, So Goes Darkness",,"",0,150,0
+262446.37,"Scion Traveler's Mask",False,0,"A Requiem for Heroes",,"",0,160,450
+262446.38,"Scion Traveler's Jacket",False,0,"A Requiem for Heroes",,"",0,160,450
+262446.39,"Scion Traveler's Gloves",False,0,"A Requiem for Heroes",,"",0,160,450
+262446.40,"Scion Traveler's Trousers",False,0,"A Requiem for Heroes",,"",0,160,450
+262446.41,"Scion Traveler's Boots",False,0,"A Requiem for Heroes",,"",0,160,450
+262446.42,"Crystarium Helm",False,0,"The Oracle of Light",,"",0,170,500
+262446.43,"Crystarium Tabard",False,0,"The Oracle of Light",,"",0,170,500
+262446.44,"Crystarium Gauntlets",False,0,"The Oracle of Light",,"",0,170,500
+262446.45,"Crystarium Greaves",False,0,"The Oracle of Light",,"",0,170,500
+262446.46,"Sapphire Weapon Bust",False,0,"Sleep Now in Sapphire",,"",0,175,530
+262446.47,"G-Warrior MG",False,0,"Forever at Your Side",,"",0,180,550
+262446.48,"Northsea Coat",False,0,"Best of the Best",,"",0,190,600
+262446.49,"Sophist's Robe",False,0,"Petalouda Hunt",,"",0,195,600
+262446.50,"Sophist's Podea",False,0,"Petalouda Hunt",,"",0,195,600
+262446.51,"Sophist's Hupodema",False,0,"Petalouda Hunt",,"",0,195,600
 262449.0,"Butcher's Crown",False,0,,,"Let the Bodies Hit the Floor",0,100,0
 262449.1,"Paragon's Crown",False,0,,,"A Life of Adventure I",0,100,0
 262449.2,"Gambler's Crown",False,0,,,"I Got This!",0,100,0
@@ -7372,6 +7374,8 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262627.53,"Summer Sunset Wrist Torques",False,0,"Fhul Me Once",,"",0,150,0
 262627.54,"Summer Sunset Bottoms",False,0,"Fhul Me Once",,"",0,150,0
 262627.55,"Summer Sunset Sandals",False,0,"Fhul Me Once",,"",0,150,0
+262627.56,"Phoenix Riser Helmet",False,0,"I Am the Sunshine",,"",0,160,650
+262627.57,"Phoenix Riser Suit",False,0,"I Am the Sunshine",,"",0,160,650
 262628.0,"Pumpkin Head",False,0,,,"Oh My Gourd",0,100,0
 262628.1,"Unripened Pumpkin Head",False,0,,,"Oh My Gourd",0,100,0
 262628.2,"White Pumpkin Head",False,0,,,"Oh My Gourd",0,100,0
@@ -7979,6 +7983,7 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262657.33,"Hannish Rug",False,0,,,"",0,154,630
 262657.34,"Hannish Table Lamp",False,0,,,"",0,185,630
 262657.35,"Hannish Pendant Wall Light",False,0,,,"",0,230,630
+262657.36,"Magazine Display Rack",False,0,,,"",0,67,650
 262658.0,"Ink & Quill",False,0,,,"",0,40,0
 262658.1,"Classified Documents",False,0,,,"",0,40,0
 262658.2,"Scattered Documents",False,0,,,"",0,40,0
@@ -8020,25 +8025,15 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262658.38,"Cutting Board",False,0,,,"",0,40,520
 262658.39,"Open Book",False,0,,,"",0,100,520
 262658.40,"Sealed Letter",False,0,,,"",0,40,550
-262658.41,"Azim Steppe Phasmascape",False,0,,,"",0,2,550
-262658.42,"Table Mat",False,0,,,"",0,40,600
-262658.43,"Ruby Sea Phasmascape",False,0,,,"",0,2,600
-262658.44,"Aurora Phasmascape",False,0,,,"",0,2,600
-262658.45,"Log Pillar",False,0,,,"",0,10,610
-262658.46,"Astrologicum Star Map",False,0,,,"",0,40,610
-262658.47,"Royal Menagerie Phasmascape",False,0,,,"",0,2,610
-262658.48,"Sea of Clouds Phasmascape",False,0,,,"",0,2,610
-262658.49,"Simple Basket",False,0,,,"",0,100,620
-262658.50,"Kugane Phasmascape",False,0,,,"",0,2,620
-262658.51,"Costa del Sol Phasmascape",False,0,,,"",0,2,620
-262658.52,"Crystal Tower Phasmascape",False,0,,,"",0,2,630
-262658.53,"Urth's Fount Phasmascape",False,0,,,"",0,2,630
-262658.54,"Darkest Hourglass",False,0,,,"",0,40,630
-262658.55,"Alpine Pillar",False,0,,,"",0,10,630
-262658.56,"Scattered Tomes",False,0,,,"",0,40,640
-262658.57,"Verdant Pillar",False,0,,,"",0,11,640
-262658.58,"Azure Sky Phasmascape",False,0,,,"",0,3,640
-262658.59,"Starry Sky Phasmascape",False,0,,,"",0,3,640
+262658.41,"Table Mat",False,0,,,"",0,40,600
+262658.42,"Log Pillar",False,0,,,"",0,10,610
+262658.43,"Astrologicum Star Map",False,0,,,"",0,40,610
+262658.44,"Simple Basket",False,0,,,"",0,100,620
+262658.45,"Darkest Hourglass",False,0,,,"",0,40,630
+262658.46,"Alpine Pillar",False,0,,,"",0,10,630
+262658.47,"Scattered Tomes",False,0,,,"",0,40,640
+262658.48,"Verdant Pillar",False,0,,,"",0,11,640
+262658.49,"Sealing Wax & Letter Set",False,0,,,"",0,40,650
 262659.0,"Barracuda Piers Painting",False,0,,,"Out of Sight",0,50,0
 262659.1,"Astalicia Painting",False,0,,,"Out of Sight",0,55,0
 262659.2,"Seasong Grotto Painting",False,0,,,"Out of Sight",0,60,0
@@ -14999,6 +14994,7 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263123.24,"Sweet Pea Seeds",False,0,,,"",0,100,620
 263123.25,"Morning Glory Seeds",False,0,,,"",0,100,630
 263123.26,"Chrysanthemum Seeds",False,0,,,"",0,100,640
+263123.27,"Lupin Seeds",False,0,,,"",0,100,650
 263124.0,"Nymeia Potpourri",False,0,,,"",0,100,0
 263124.1,"Magicked Prism (Flowers)",False,0,,,"",0,100,0
 263124.2,"Meteor Shower",False,0,,,"",0,100,0
@@ -15074,38 +15070,46 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263133.7,"Ostrakon Tria Painting",False,0,,,"End in Sight",0,100,610
 263133.8,"Ostrakon Deka-okto Painting",False,0,,,"End in Sight",0,100,610
 263133.9,"Ostrakon Hena Painting",False,0,,,"End in Sight",0,100,610
-263134.0,"Wayfarer's Tabard",False,0,"Newfound Adventure",,"",0,100,610
-263134.1,"Wayfarer's Fingerless Gloves",False,0,"Newfound Adventure",,"",0,100,610
-263134.2,"Wayfarer's Boots",False,0,"Newfound Adventure",,"",0,100,610
-263134.3,"Wayfarer's Earcuff",False,0,"Newfound Adventure",,"",0,100,610
-263134.4,"Wayfarer's Necklace",False,0,"Newfound Adventure",,"",0,100,610
-263134.5,"Appointed Cap",False,0,"A Gift from House Leveilleur",,"",0,100,610
-263134.6,"Appointed Jacket",False,0,"A Gift from House Leveilleur",,"",0,100,610
-263134.7,"Appointed Gloves",False,0,"A Gift from House Leveilleur",,"",0,100,610
-263134.8,"Appointed Slacks",False,0,"A Gift from House Leveilleur",,"",0,100,610
-263134.9,"Appointed Shoes",False,0,"A Gift from House Leveilleur",,"",0,100,610
-263134.10,"Isle Farmhand's Work Shirt",False,0,"The Land, Wind, and Sea",,"",0,100,620
-263134.11,"Isle Farmhand's Cotton Gloves",False,0,"The Land, Wind, and Sea",,"",0,100,620
-263134.12,"Isle Farmhand's Widebottoms",False,0,"The Land, Wind, and Sea",,"",0,100,620
-263134.13,"Isle Farmhand's Boots",False,0,"The Land, Wind, and Sea",,"",0,100,620
-263134.14,"Isle Farmhand's Cutoffs",False,0,"The Land, Wind, and Sea",,"",0,100,620
-263134.15,"Yakaku Kamidome",False,0,"An Auspicious Opportunity",,"",0,100,630
-263134.16,"Yakaku Dogi",False,0,"An Auspicious Opportunity",,"",0,100,630
-263134.17,"Yakaku Koshita",False,0,"An Auspicious Opportunity",,"",0,100,630
-263134.18,"Yakaku Geta",False,0,"An Auspicious Opportunity",,"",0,100,630
-263134.19,"Yakaku Fundoshi",False,0,"An Auspicious Opportunity",,"",0,100,630
-263134.20,"Isle Shepherd's Headdress",False,0,"A Far Eastern Yarn",,"",0,100,630
-263134.21,"Isle Shepherd's Tunic",False,0,"A Far Eastern Yarn",,"",0,100,630
-263134.22,"Isle Shepherd's Wristdress",False,0,"A Far Eastern Yarn",,"",0,100,630
-263134.23,"Isle Shepherd's Bottoms",False,0,"A Far Eastern Yarn",,"",0,100,630
-263134.24,"Isle Shepherd's Sandals",False,0,"A Far Eastern Yarn",,"",0,100,630
-263134.25,"Leafman Head",False,0,"A Labor of Leaf",,"",0,100,630
-263134.26,"Baronial Hat",False,0,"An Ideal Marriage",,"",0,100,640
-263134.27,"Baronial Jacket",False,0,"An Ideal Marriage",,"",0,100,640
-263134.28,"Baronial Wristwraps",False,0,"An Ideal Marriage",,"",0,100,640
-263134.29,"Baronial Culottes",False,0,"An Ideal Marriage",,"",0,100,640
-263134.30,"Baronial Longboots",False,0,"An Ideal Marriage",,"",0,100,640
-263134.31,"Forever at Your Side",False,0,"Forever in Our Hearts",,"",0,100,640
+263134.0,"Wayfarer's Tabard",False,0,"Newfound Adventure",,"",0,10,610
+263134.1,"Wayfarer's Fingerless Gloves",False,0,"Newfound Adventure",,"",0,10,610
+263134.2,"Wayfarer's Boots",False,0,"Newfound Adventure",,"",0,10,610
+263134.3,"Wayfarer's Earcuff",False,0,"Newfound Adventure",,"",0,10,610
+263134.4,"Wayfarer's Necklace",False,0,"Newfound Adventure",,"",0,10,610
+263134.5,"Appointed Cap",False,0,"A Gift from House Leveilleur",,"",0,20,610
+263134.6,"Appointed Jacket",False,0,"A Gift from House Leveilleur",,"",0,20,610
+263134.7,"Appointed Gloves",False,0,"A Gift from House Leveilleur",,"",0,20,610
+263134.8,"Appointed Slacks",False,0,"A Gift from House Leveilleur",,"",0,20,610
+263134.9,"Appointed Shoes",False,0,"A Gift from House Leveilleur",,"",0,20,610
+263134.10,"Isle Farmhand's Work Shirt",False,0,"The Land, Wind, and Sea",,"",0,30,620
+263134.11,"Isle Farmhand's Cotton Gloves",False,0,"The Land, Wind, and Sea",,"",0,30,620
+263134.12,"Isle Farmhand's Widebottoms",False,0,"The Land, Wind, and Sea",,"",0,30,620
+263134.13,"Isle Farmhand's Boots",False,0,"The Land, Wind, and Sea",,"",0,30,620
+263134.14,"Isle Farmhand's Cutoffs",False,0,"The Land, Wind, and Sea",,"",0,30,620
+263134.15,"Yakaku Kamidome",False,0,"An Auspicious Opportunity",,"",0,40,630
+263134.16,"Yakaku Dogi",False,0,"An Auspicious Opportunity",,"",0,40,630
+263134.17,"Yakaku Koshita",False,0,"An Auspicious Opportunity",,"",0,40,630
+263134.18,"Yakaku Geta",False,0,"An Auspicious Opportunity",,"",0,40,630
+263134.19,"Yakaku Fundoshi",False,0,"An Auspicious Opportunity",,"",0,40,630
+263134.20,"Isle Shepherd's Headdress",False,0,"A Far Eastern Yarn",,"",0,50,630
+263134.21,"Isle Shepherd's Tunic",False,0,"A Far Eastern Yarn",,"",0,50,630
+263134.22,"Isle Shepherd's Wristdress",False,0,"A Far Eastern Yarn",,"",0,50,630
+263134.23,"Isle Shepherd's Bottoms",False,0,"A Far Eastern Yarn",,"",0,50,630
+263134.24,"Isle Shepherd's Sandals",False,0,"A Far Eastern Yarn",,"",0,50,630
+263134.25,"Leafman Head",False,0,"A Labor of Leaf",,"",0,60,630
+263134.26,"Baronial Hat",False,0,"An Ideal Marriage",,"",0,70,640
+263134.27,"Baronial Jacket",False,0,"An Ideal Marriage",,"",0,70,640
+263134.28,"Baronial Wristwraps",False,0,"An Ideal Marriage",,"",0,70,640
+263134.29,"Baronial Culottes",False,0,"An Ideal Marriage",,"",0,70,640
+263134.30,"Baronial Longboots",False,0,"An Ideal Marriage",,"",0,70,640
+263134.31,"Forever at Your Side",False,0,"Forever in Our Hearts",,"",0,80,640
+263134.32,"Recreationisle Shirt",False,0,"The Sweetest Thing",,"",0,90,650
+263134.33,"Recreationisle Dive Watch",False,0,"The Sweetest Thing",,"",0,90,650
+263134.34,"Recreationisle Halfslops",False,0,"The Sweetest Thing",,"",0,90,650
+263134.35,"Recreationisle Shoes",False,0,"The Sweetest Thing",,"",0,90,650
+263134.36,"Gleaner's Coat",False,0,"The Pride of Labyrinthos",,"",0,100,650
+263134.37,"Gleaner's Work Gloves",False,0,"The Pride of Labyrinthos",,"",0,100,650
+263134.38,"Gleaner's Breeches",False,0,"The Pride of Labyrinthos",,"",0,100,650
+263134.39,"Gleaner's Longboots",False,0,"The Pride of Labyrinthos",,"",0,100,650
 263135.0,"Makai Mauler's Facemask",False,0,,,"Echoes of the Makai Blade",0,100,0
 263135.1,"Makai Mauler's Oilskin",False,0,,,"Echoes of the Makai Blade",0,100,0
 263135.2,"Makai Mauler's Fingerless Gloves",False,0,,,"Echoes of the Makai Blade",0,100,0
@@ -15258,6 +15262,12 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263149.5,"Scion of Valor",False,0,,,"",0,100,620
 263149.6,"Discernment",False,0,,,"",0,100,620
 263149.7,"Adventure Calls",False,0,,,"",0,100,620
+263149.8,"The Builder",False,0,"Embraced by Gods",,"",0,110,650
+263149.9,"The Destroyer",False,0,"Embraced by Gods",,"",0,110,650
+263149.10,"The Warden",False,0,"Embraced by Gods",,"",0,110,650
+263149.11,"The Traders",False,0,"Embraced by Gods",,"",0,110,650
+263149.12,"The Matron",False,0,"Embraced by Gods",,"",0,110,650
+263149.13,"The Keeper",False,0,"Embraced by Gods",,"",0,110,650
 263150.0,"Gysahl Greens",False,0,,,"",0,100,0
 263150.1,"Grade 8 Dark Matter",False,0,,,"",0,100,0
 263150.2,"Metal Spinner",False,0,,,"",0,100,0
@@ -15270,42 +15280,47 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263151.1,"Replica Manderville Knuckles",False,0,,,"Hamm(er)ing It Up: Manderville Knuckles",0,100,630
 263151.2,"Manderville Axe Replica",False,0,,,"Hamm(er)ing It Up: Manderville Axe",0,100,630
 263151.3,"Manderville Spear Replica",False,0,,,"Hamm(er)ing It Up: Manderville Spear",0,100,630
-263151.4,"Manderville Harp Bow Replica",False,0,,,"Hamm(er)ing It Up: Manderville Harp Bow",0,100,630
-263151.5,"Replica Manderville Knives",False,0,,,"Hamm(er)ing It Up: Manderville Knives",0,100,630
-263151.6,"Manderville Zweihander Replica",False,0,,,"Hamm(er)ing It Up: Manderville Zweihander",0,100,630
-263151.7,"Manderville Revolver Replica",False,0,,,"Hamm(er)ing It Up: Manderville Revolver",0,100,630
-263151.8,"Manderville Cane Replica",False,0,,,"Hamm(er)ing It Up: Manderville Cane",0,100,630
-263151.9,"Manderville Rod Replica",False,0,,,"Hamm(er)ing It Up: Manderville Rod",0,100,630
-263151.10,"Manderville Index Replica",False,0,,,"Hamm(er)ing It Up: Manderville Index",0,100,630
-263151.11,"Manderville Codex Replica",False,0,,,"Hamm(er)ing It Up: Manderville Codex",0,100,630
-263151.12,"Manderville Torquetum Replica",False,0,,,"Hamm(er)ing It Up: Manderville Torquetum",0,100,630
-263151.13,"Manderville Samurai Blade Replica",False,0,,,"Hamm(er)ing It Up: Manderville Samurai Blade",0,100,630
-263151.14,"Manderville Rapier Replica",False,0,,,"Hamm(er)ing It Up: Manderville Rapier",0,100,630
-263151.15,"Manderville Gunblade Replica",False,0,,,"Hamm(er)ing It Up: Manderville Gunblade",0,100,630
-263151.16,"Replica Manderville Chakrams",False,0,,,"Hamm(er)ing It Up: Manderville Chakrams",0,100,630
-263151.17,"Replica Manderville Milpreves",False,0,,,"Hamm(er)ing It Up: Manderville Milpreves",0,100,630
-263151.18,"Manderville Scythe Replica",False,0,,,"Hamm(er)ing It Up: Manderville Scythe",0,100,630
-263151.19,"Manderville Kite Shield Replica",False,0,,,"Hamm(er)ing It Up: Manderville Sword & Shield",0,100,630
-263151.20,"Amazing Manderville Sword Replica",False,0,,,"Well-oiled: Amazing Manderville Sword & Shield ",0,100,640
-263151.21,"Replica Amazing Manderville Knuckles",False,0,,,"Well-oiled: Amazing Manderville Knuckles",0,100,640
-263151.22,"Amazing Manderville Axe Replica",False,0,,,"Well-oiled: Amazing Manderville Axe ",0,100,640
-263151.23,"Amazing Manderville Spear Replica",False,0,,,"Well-oiled: Amazing Manderville Spear",0,100,640
-263151.24,"Amazing Manderville Harp Bow Replica",False,0,,,"Well-oiled: Amazing Manderville Harp Bow",0,100,640
-263151.25,"Replica Amazing Manderville Knives",False,0,,,"Well-oiled: Amazing Manderville Knives",0,100,640
-263151.26,"Amazing Manderville Zweihander Replica",False,0,,,"Well-oiled: Amazing Manderville Zweihander",0,100,640
-263151.27,"Amazing Manderville Revolver Replica",False,0,,,"Well-oiled: Amazing Manderville Revolver",0,100,640
-263151.28,"Amazing Manderville Cane Replica",False,0,,,"Well-oiled: Amazing Manderville Cane",0,100,640
-263151.29,"Amazing Manderville Rod Replica",False,0,,,"Well-oiled: Amazing Manderville Rod",0,100,640
-263151.30,"Amazing Manderville Index Replica",False,0,,,"Well-oiled: Amazing Manderville Index",0,100,640
-263151.31,"Amazing Manderville Codex Replica",False,0,,,"Well-oiled: Amazing Manderville Codex",0,100,640
-263151.32,"Amazing Manderville Torquetum Replica",False,0,,,"Well-oiled: Amazing Manderville Torquetum",0,100,640
-263151.33,"Amazing Manderville Samurai Blade Replica",False,0,,,"Well-oiled: Amazing Manderville Samurai Blade",0,100,640
-263151.34,"Amazing Manderville Rapier Replica",False,0,,,"Well-oiled: Amazing Manderville Rapier",0,100,640
-263151.35,"Amazing Manderville Gunblade Replica",False,0,,,"Well-oiled: Amazing Manderville Gunblade",0,100,640
-263151.36,"Replica Amazing Manderville Chakrams",False,0,,,"Well-oiled: Amazing Manderville Chakrams",0,100,640
-263151.37,"Replica Amazing Manderville Milpreves",False,0,,,"Well-oiled: Amazing Manderville Milpreves",0,100,640
-263151.38,"Amazing Manderville Scythe Replica",False,0,,,"Well-oiled: Amazing Manderville Scythe",0,100,640
-263151.39,"Amazing Manderville Kite Shield Replica",False,0,,,"Well-oiled: Amazing Manderville Sword & Shield ",0,100,640
+263151.4,"Manderville Zweihander Replica",False,0,,,"Hamm(er)ing It Up: Manderville Zweihander",0,100,630
+263151.5,"Manderville Samurai Blade Replica",False,0,,,"Hamm(er)ing It Up: Manderville Samurai Blade",0,100,630
+263151.6,"Manderville Gunblade Replica",False,0,,,"Hamm(er)ing It Up: Manderville Gunblade",0,100,630
+263151.7,"Manderville Scythe Replica",False,0,,,"Hamm(er)ing It Up: Manderville Scythe",0,100,630
+263151.8,"Manderville Kite Shield Replica",False,0,,,"Hamm(er)ing It Up: Manderville Sword & Shield",0,100,630
+263151.9,"Amazing Manderville Sword Replica",False,0,,,"Well-oiled: Amazing Manderville Sword & Shield ",0,100,640
+263151.10,"Replica Amazing Manderville Knuckles",False,0,,,"Well-oiled: Amazing Manderville Knuckles",0,100,640
+263151.11,"Amazing Manderville Axe Replica",False,0,,,"Well-oiled: Amazing Manderville Axe ",0,100,640
+263151.12,"Amazing Manderville Spear Replica",False,0,,,"Well-oiled: Amazing Manderville Spear",0,100,640
+263151.13,"Amazing Manderville Zweihander Replica",False,0,,,"Well-oiled: Amazing Manderville Zweihander",0,100,640
+263151.14,"Amazing Manderville Samurai Blade Replica",False,0,,,"Well-oiled: Amazing Manderville Samurai Blade",0,100,640
+263151.15,"Amazing Manderville Gunblade Replica",False,0,,,"Well-oiled: Amazing Manderville Gunblade",0,100,640
+263151.16,"Amazing Manderville Scythe Replica",False,0,,,"Well-oiled: Amazing Manderville Scythe",0,100,640
+263151.17,"Amazing Manderville Kite Shield Replica",False,0,,,"Well-oiled: Amazing Manderville Sword & Shield ",0,100,640
+263151.18,"",False,0,,,"Reforged: Majestic Manderville Sword & Shield",0,100,650
+263151.19,"",False,0,,,"Reforged: Majestic Manderville Fists",0,100,650
+263151.20,"",False,0,,,"Reforged: Majestic Manderville Bardiche",0,100,650
+263151.21,"",False,0,,,"Reforged: Majestic Manderville Spear",0,100,650
+263151.22,"",False,0,,,"Reforged: Majestic Manderville Greatsword",0,100,650
+263151.23,"",False,0,,,"Reforged: Majestic Manderville Samurai Blade",0,100,650
+263151.24,"",False,0,,,"Reforged: Majestic Manderville Bayonet",0,100,650
+263151.25,"",False,0,,,"Reforged: Majestic Manderville War Scythe",0,100,650
+263151.26,"",False,0,,,"Reforged: Majestic Manderville Sword & Shield",0,100,650
+263151.27,"",False,0,,,"Reforged: Majestic Manderville Sword & Shield",0,100,650
+263151.28,"",False,0,,,"Reforged: Majestic Manderville Fists",0,100,650
+263151.29,"",False,0,,,"Reforged: Majestic Manderville Bardiche",0,100,650
+263151.30,"",False,0,,,"Reforged: Majestic Manderville Spear",0,100,650
+263151.31,"",False,0,,,"Reforged: Majestic Manderville Greatsword",0,100,650
+263151.32,"",False,0,,,"Reforged: Majestic Manderville Samurai Blade",0,100,650
+263151.33,"",False,0,,,"Reforged: Majestic Manderville Bayonet",0,100,650
+263151.34,"",False,0,,,"Reforged: Majestic Manderville War Scythe",0,100,650
+263151.35,"",False,0,,,"Reforged: Majestic Manderville Sword & Shield",0,100,650
+263151.36,"",False,0,,,"",0,100,650
+263151.37,"",False,0,,,"",0,100,650
+263151.38,"",False,0,,,"",0,100,650
+263151.39,"",False,0,,,"",0,100,650
+263151.40,"",False,0,,,"",0,100,650
+263151.41,"",False,0,,,"",0,100,650
+263151.42,"",False,0,,,"",0,100,650
+263151.43,"",False,0,,,"",0,100,650
+263151.44,"",False,0,,,"",0,100,650
 263152.0,"Peach Confetti",False,0,,,"",0,100,0
 263152.1,"Cherry Confetti",False,0,,,"",0,100,0
 263152.2,"Lovely Little Ladies' Day Advertisement",False,0,,,"",0,90,9999
@@ -15403,6 +15418,50 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263160.8,"Replica Crystalline Pickaxe",False,0,,,"Splendid: Crystalline Pickaxe",0,100,640
 263160.9,"Replica Crystalline Hatchet",False,0,,,"Splendid: Crystalline Hatchet",0,100,640
 263160.10,"Replica Crystalline Fishing Rod",False,0,,,"Splendid: Crystalline Fishing Rod",0,100,640
+263160.11,"",False,0,,,"Resplendent: Brilliant Saw",0,100,650
+263160.12,"",False,0,,,"Resplendent: Brilliant Cross-pein Hammer",0,100,650
+263160.13,"",False,0,,,"Resplendent: Brilliant Raising Hammer",0,100,650
+263160.14,"",False,0,,,"Resplendent: Brilliant Mallet",0,100,650
+263160.15,"",False,0,,,"Resplendent: Brilliant Round Knife",0,100,650
+263160.16,"",False,0,,,"Resplendent: Brilliant Needle",0,100,650
+263160.17,"",False,0,,,"Resplendent: Brilliant Alembic",0,100,650
+263160.18,"",False,0,,,"Resplendent: Brilliant Frypan",0,100,650
+263160.19,"",False,0,,,"Resplendent: Brilliant Pickaxe",0,100,650
+263160.20,"",False,0,,,"Resplendent: Brilliant Hatchet",0,100,650
+263160.21,"",False,0,,,"Resplendent: Brilliant Fishing Rod",0,100,650
+263160.22,"",False,0,,,"Resplendent: Brilliant Saw",0,100,650
+263160.23,"",False,0,,,"Resplendent: Brilliant Cross-pein Hammer",0,100,650
+263160.24,"",False,0,,,"Resplendent: Brilliant Raising Hammer",0,100,650
+263160.25,"",False,0,,,"Resplendent: Brilliant Mallet",0,100,650
+263160.26,"",False,0,,,"Resplendent: Brilliant Round Knife",0,100,650
+263160.27,"",False,0,,,"Resplendent: Brilliant Needle",0,100,650
+263160.28,"",False,0,,,"Resplendent: Brilliant Alembic",0,100,650
+263160.29,"",False,0,,,"Resplendent: Brilliant Frypan",0,100,650
+263160.30,"",False,0,,,"Resplendent: Brilliant Pickaxe",0,100,650
+263160.31,"",False,0,,,"Resplendent: Brilliant Hatchet",0,100,650
+263160.32,"",False,0,,,"Resplendent: Brilliant Fishing Rod",0,100,650
+263160.33,"",False,0,,,"",0,100,650
+263160.34,"",False,0,,,"",0,100,650
+263160.35,"",False,0,,,"",0,100,650
+263160.36,"",False,0,,,"",0,100,650
+263160.37,"",False,0,,,"",0,100,650
+263160.38,"",False,0,,,"",0,100,650
+263160.39,"",False,0,,,"",0,100,650
+263160.40,"",False,0,,,"",0,100,650
+263160.41,"",False,0,,,"",0,100,650
+263160.42,"",False,0,,,"",0,100,650
+263160.43,"",False,0,,,"",0,100,650
+263160.44,"",False,0,,,"",0,100,650
+263160.45,"",False,0,,,"",0,100,650
+263160.46,"",False,0,,,"",0,100,650
+263160.47,"",False,0,,,"",0,100,650
+263160.48,"",False,0,,,"",0,100,650
+263160.49,"",False,0,,,"",0,100,650
+263160.50,"",False,0,,,"",0,100,650
+263160.51,"",False,0,,,"",0,100,650
+263160.52,"",False,0,,,"",0,100,650
+263160.53,"",False,0,,,"",0,100,650
+263160.54,"",False,0,,,"",0,100,650
 263161.0,"Wall-mounted Vampire Bats",False,0,,,"",0,100,9999
 263161.1,"Magicked Prism (Pumpkin)",False,0,,,"",0,110,0
 263162.0,"Illuminated Topiary Chocobo",False,0,,,"",0,100,9999
@@ -15425,3 +15484,85 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263164.5,"Damnation Orchestrion Roll",False,0,,,"",0,100,640
 263164.6,"Skullduggery Orchestrion Roll",False,0,,,"",0,100,640
 263164.7,"Tranquility Orchestrion Roll",False,0,,,"",0,100,640
+263165.0,"Magicked Prism (Hatching-tide)",False,0,,,"",0,100,0
+263166.0,"Heart Chocolate",False,0,,,"",0,100,0
+263166.1,"White Chocolate",False,0,,,"",0,100,0
+263166.2,"Prismatic Heart (Left)",False,0,,,"",0,100,0
+263166.3,"Prismatic Heart (Right)",False,0,,,"",0,100,0
+263166.4,"ヴァレンティオン・ハートチェア",False,0,,,"",0,90,9999
+263167.0,"Gysahl Greens",False,0,,,"",0,100,650
+263167.1,"Grade 8 Dark Matter",False,0,,,"",0,100,650
+263167.2,"Metal Spinner",False,0,,,"",0,100,650
+263167.3,"Cushion Care Package Components",False,0,,,"",0,100,650
+263167.4,"Feline Recreational Device Components",False,0,,,"",0,100,650
+263167.5,"Mesmerizing Miniature Components",False,0,,,"",0,100,650
+263167.6,"Energizing Eye-lixir Components",False,0,,,"",0,100,650
+263167.7,"Researcher's Relaxation Kit Components",False,0,,,"",0,100,650
+263168.0,"Peach Confetti",False,0,,,"",0,100,0
+263168.1,"Cherry Confetti",False,0,,,"",0,100,0
+263169.0,"Manderville Harp Bow Replica",False,0,,,"Hamm(er)ing It Up: Manderville Harp Bow",0,100,630
+263169.1,"Replica Manderville Knives",False,0,,,"Hamm(er)ing It Up: Manderville Knives",0,100,630
+263169.2,"Manderville Revolver Replica",False,0,,,"Hamm(er)ing It Up: Manderville Revolver",0,100,630
+263169.3,"Replica Manderville Chakrams",False,0,,,"Hamm(er)ing It Up: Manderville Chakrams",0,100,630
+263169.4,"Amazing Manderville Harp Bow Replica",False,0,,,"Well-oiled: Amazing Manderville Harp Bow",0,100,640
+263169.5,"Replica Amazing Manderville Knives",False,0,,,"Well-oiled: Amazing Manderville Knives",0,100,640
+263169.6,"Amazing Manderville Revolver Replica",False,0,,,"Well-oiled: Amazing Manderville Revolver",0,100,640
+263169.7,"Replica Amazing Manderville Chakrams",False,0,,,"Well-oiled: Amazing Manderville Chakrams",0,100,640
+263169.8,"",False,0,,,"Reforged: Majestic Manderville Harp Bow",0,100,650
+263169.9,"",False,0,,,"Reforged: Majestic Manderville Knives",0,100,650
+263169.10,"",False,0,,,"Reforged: Majestic Manderville Pistol",0,100,650
+263169.11,"",False,0,,,"Reforged: Majestic Manderville Chakrams",0,100,650
+263169.12,"",False,0,,,"Reforged: Majestic Manderville Harp Bow",0,100,650
+263169.13,"",False,0,,,"Reforged: Majestic Manderville Knives",0,100,650
+263169.14,"",False,0,,,"Reforged: Majestic Manderville Pistol",0,100,650
+263169.15,"",False,0,,,"Reforged: Majestic Manderville Chakrams",0,100,650
+263169.16,"",False,0,,,"",0,100,650
+263169.17,"",False,0,,,"",0,100,650
+263169.18,"",False,0,,,"",0,100,650
+263169.19,"",False,0,,,"",0,100,650
+263170.0,"Azim Steppe Phasmascape",False,0,,,"",0,2,550
+263170.1,"Ruby Sea Phasmascape",False,0,,,"",0,2,600
+263170.2,"Aurora Phasmascape",False,0,,,"",0,2,600
+263170.3,"Royal Menagerie Phasmascape",False,0,,,"",0,2,610
+263170.4,"Sea of Clouds Phasmascape",False,0,,,"",0,2,610
+263170.5,"Kugane Phasmascape",False,0,,,"",0,2,620
+263170.6,"Costa del Sol Phasmascape",False,0,,,"",0,2,620
+263170.7,"Crystal Tower Phasmascape",False,0,,,"",0,2,630
+263170.8,"Urth's Fount Phasmascape",False,0,,,"",0,2,630
+263170.9,"Azure Sky Phasmascape",False,0,,,"",0,3,640
+263170.10,"Starry Sky Phasmascape",False,0,,,"",0,3,640
+263171.0,"Manderville Cane Replica",False,0,,,"Hamm(er)ing It Up: Manderville Cane",0,100,630
+263171.1,"Manderville Rod Replica",False,0,,,"Hamm(er)ing It Up: Manderville Rod",0,100,630
+263171.2,"Manderville Index Replica",False,0,,,"Hamm(er)ing It Up: Manderville Index",0,100,630
+263171.3,"Manderville Codex Replica",False,0,,,"Hamm(er)ing It Up: Manderville Codex",0,100,630
+263171.4,"Manderville Torquetum Replica",False,0,,,"Hamm(er)ing It Up: Manderville Torquetum",0,100,630
+263171.5,"Manderville Rapier Replica",False,0,,,"Hamm(er)ing It Up: Manderville Rapier",0,100,630
+263171.6,"Replica Manderville Milpreves",False,0,,,"Hamm(er)ing It Up: Manderville Milpreves",0,100,630
+263171.7,"Amazing Manderville Cane Replica",False,0,,,"Well-oiled: Amazing Manderville Cane",0,100,640
+263171.8,"Amazing Manderville Rod Replica",False,0,,,"Well-oiled: Amazing Manderville Rod",0,100,640
+263171.9,"Amazing Manderville Index Replica",False,0,,,"Well-oiled: Amazing Manderville Index",0,100,640
+263171.10,"Amazing Manderville Codex Replica",False,0,,,"Well-oiled: Amazing Manderville Codex",0,100,640
+263171.11,"Amazing Manderville Torquetum Replica",False,0,,,"Well-oiled: Amazing Manderville Torquetum",0,100,640
+263171.12,"Amazing Manderville Rapier Replica",False,0,,,"Well-oiled: Amazing Manderville Rapier",0,100,640
+263171.13,"Replica Amazing Manderville Milpreves",False,0,,,"Well-oiled: Amazing Manderville Milpreves",0,100,640
+263171.14,"",False,0,,,"Reforged: Majestic Manderville Wand",0,100,650
+263171.15,"",False,0,,,"Reforged: Majestic Manderville Staff",0,100,650
+263171.16,"",False,0,,,"Reforged: Majestic Manderville Index",0,100,650
+263171.17,"",False,0,,,"Reforged: Majestic Manderville Codex",0,100,650
+263171.18,"",False,0,,,"Reforged: Majestic Manderville Orrery",0,100,650
+263171.19,"",False,0,,,"Reforged: Majestic Manderville Degen",0,100,650
+263171.20,"",False,0,,,"Reforged: Majestic Manderville Wings",0,100,650
+263171.21,"",False,0,,,"Reforged: Majestic Manderville Wand",0,100,650
+263171.22,"",False,0,,,"Reforged: Majestic Manderville Staff",0,100,650
+263171.23,"",False,0,,,"Reforged: Majestic Manderville Index",0,100,650
+263171.24,"",False,0,,,"Reforged: Majestic Manderville Codex",0,100,650
+263171.25,"",False,0,,,"Reforged: Majestic Manderville Orrery",0,100,650
+263171.26,"",False,0,,,"Reforged: Majestic Manderville Degen",0,100,650
+263171.27,"",False,0,,,"Reforged: Majestic Manderville Wings",0,100,650
+263171.28,"",False,0,,,"",0,100,650
+263171.29,"",False,0,,,"",0,100,650
+263171.30,"",False,0,,,"",0,100,650
+263171.31,"",False,0,,,"",0,100,650
+263171.32,"",False,0,,,"",0,100,650
+263171.33,"",False,0,,,"",0,100,650
+263171.34,"",False,0,,,"",0,100,650

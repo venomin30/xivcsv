@@ -100,6 +100,7 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131168,96,17,0,0,0,,"Topiary Sabotender",False,False,True,0,0,0,False,True
 131169,97,17,0,0,0,,"Standing Signboard",False,False,True,0,0,0,False,True
 131170,98,17,0,0,0,,"Laundry Pole",False,False,True,0,0,0,False,True
+131171,99,17,0,0,0,"CmnDefHousingObject_00141","Minute Mindflayer Sprinkler",False,False,True,0,0,0,False,True
 131172,100,17,0,0,0,,"Deluxe Moonfire Lantern",False,False,True,3,0,0,False,True
 131173,101,17,0,0,0,,"Deluxe Ornamental Bamboo",False,False,True,3,0,0,False,True
 131174,102,17,0,0,0,,"Deluxe Wooden Bucket",False,False,True,3,0,0,False,True
@@ -179,6 +180,7 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131250,167,17,0,0,0,,"Corner Hedge Partition",False,False,True,0,0,0,False,True
 131251,168,17,0,0,0,,"Bamboo Copse",False,False,True,0,0,0,False,True
 131252,169,17,0,0,0,,"Hingan Hot Spring",False,False,True,0,0,0,False,True
+131253,170,17,0,0,0,,"Senor Sabotender Chronometer",False,False,True,5,0,0,False,True
 131254,171,17,0,0,0,,"Odder Otter Bench",False,False,True,0,0,0,False,True
 131255,112,17,0,0,0,,"Authentic Eastern Cherry Petal Pile",False,False,True,3,0,0,False,True
 131256,166,17,0,0,0,,"Authentic Rose Wagon",False,False,True,3,0,0,False,True
@@ -309,3 +311,8 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131390,298,17,0,0,0,,"Planted Toro Lantern",False,False,True,0,0,0,False,True
 131391,299,17,0,0,0,,"Illuminated Topiary Chocobo",False,False,True,5,0,0,False,True
 131392,263,17,0,0,0,,"Authentic Summer Bonfire",False,False,True,3,0,0,False,True
+131396,303,17,0,0,0,,"Mobile Garden Stairs",False,False,True,0,0,0,False,True
+131397,304,17,0,0,0,,"Flower-wreathed Gazebo",False,False,True,0,0,0,False,True
+131399,306,17,0,0,0,,"Elpis Garden Fountain",False,False,True,5,0,0,False,True
+131400,307,17,0,0,47,,"Wildflower Bed",False,False,True,0,0,0,False,True
+131406,269,17,0,0,0,,"Authentic Illuminated Tree",False,False,True,3,0,0,False,True

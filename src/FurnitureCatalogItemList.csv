@@ -1045,7 +1045,7 @@ int32,FurnitureCatalogCategory,Item,uint16
 1041,"Plants","Cactuar Colony Planter",640
 1042,"Walls/Pillars/Partitions","Verdant Pillar",640
 1043,"Walls/Pillars/Partitions","Rattan Partition",640
-1044,"Stuffed Toys/Figures","Oyoroi Display",640
+1044,"Miscellaneous","Oyoroi Display",640
 1045,"Lighting","Far Eastern Brazier",640
 1046,"Miscellaneous","Imitation Closed Door",640
 1047,"Miscellaneous","Wall-mounted Pot Rack",640
@@ -1056,3 +1056,45 @@ int32,FurnitureCatalogCategory,Item,uint16
 1052,"Stuffed Toys/Figures","Eventide Sword Stand",640
 1053,"Miscellaneous","Seiryu Sculpture",640
 1054,"Miscellaneous","Suzaku Sculpture",640
+1055,"Miscellaneous","Storm Trophy (Left)",650
+1056,"Miscellaneous","Storm Trophy (Center)",650
+1057,"Miscellaneous","Storm Trophy (Right)",650
+1058,"Miscellaneous","Serpent Trophy (Left)",650
+1059,"Miscellaneous","Serpent Trophy (Center)",650
+1060,"Miscellaneous","Serpent Trophy (Right)",650
+1061,"Miscellaneous","Flame Trophy (Left)",650
+1062,"Miscellaneous","Flame Trophy (Center)",650
+1063,"Miscellaneous","Flame Trophy (Right)",650
+1064,"Tables","Classic Secretaire",650
+1065,"Stuffed Toys/Figures","Blighted Earth Sword Stand",650
+1066,"Miscellaneous","Hanging Lure Display",650
+1067,"Stuffed Toys/Figures","Abyssal Wings Display",650
+1068,"Miscellaneous","Crystarium Wall Canopy",650
+1069,"Tables","",0
+1070,"Miscellaneous","Ronkan Fireplace",650
+1071,"Miscellaneous","Magazine Display Rack",650
+1072,"Walls/Pillars/Partitions","Celestial Screen",650
+1073,"Rugs","Imitation Trapdoor",650
+1074,"Tableware/Foods","Manderville's Adventurer Flakes",650
+1075,"Lighting","Cluster Lamp",650
+1076,"Miscellaneous","Lapis Manalis Banner",650
+1077,"Chairs/Sofas","Throne of the Foremost",650
+1078,"Miscellaneous","Wood Slice Loft",650
+1079,"Lighting","Faerie Pendant Wall Light",650
+1080,"Walls/Pillars/Partitions","Portaled Partition",650
+1081,"Tables","",0
+1082,"Miscellaneous","Sealing Wax & Letter Set",650
+1083,"Tableware/Foods","Bubbly Mogfloat",650
+1084,"Rugs","Field of Hope Rug",650
+1085,"Windows","Colossal Chronometer Window",650
+1086,"Flags/Frames/Posters","The Builder",650
+1087,"Flags/Frames/Posters","The Destroyer",650
+1088,"Flags/Frames/Posters","The Warden",650
+1089,"Flags/Frames/Posters","The Traders",650
+1090,"Flags/Frames/Posters","The Matron",650
+1091,"Flags/Frames/Posters","The Keeper",650
+1092,"Tables","",0
+1093,"Tables","",0
+1094,"Tables","",0
+1095,"Rugs","Alzadaal's Treasure Rug",650
+1096,"Tables","",0

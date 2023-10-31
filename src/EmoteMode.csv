@@ -72,3 +72,5 @@ int32,Emote,Emote,bit&01,bit&02,bit&04,bit&08,byte,bit&10
 68,"Cheer Wave: Violet","",True,False,False,False,3,False
 69,"Cheer Jump: Green","",True,False,False,False,3,False
 70,"","",True,False,False,False,3,False
+71,"Slump","",True,False,False,False,3,False
+72,"Love Heart","",True,False,False,False,3,True

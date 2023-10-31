@@ -30,76 +30,76 @@ int32,CompleteJournal,CompleteJournal,int32
 26,"A Mission in Mor Dhona"," Must Be Dreaming(way)",1
 27," Must Be Dreaming(way)"," The Café at the End of the Universe",2
 28," The Café at the End of the Universe"," Hippos Born to Run",2
-29," Hippos Born to Run","Peace for Thanalan",2
-30,"Peace for Thanalan","Seeking Solace",2
-31,"Seeking Solace","Highway Robbery",2
-32,"Highway Robbery","They Came from the Deep",2
-33,"They Came from the Deep","A Bad Bladder",2
-34,"A Bad Bladder"," Three Beaks to the Wind",2
-35," Three Beaks to the Wind"," The Naming of Vath",2
-36," The Naming of Vath"," Tricks and Stones",2
-37," Tricks and Stones","",2
-38,""," Brooding Broodmother",2
-39," Brooding Broodmother","Something Fishy This Way Comes",2
-40,"Something Fishy This Way Comes"," Manic Pixie Dream Realm",2
-41," Manic Pixie Dream Realm"," The Stewards of Note",2
-42," The Stewards of Note"," It's Dwarfin' Time",2
-43," It's Dwarfin' Time","Call of the Wild (Twin Adder)",2
-44,"Call of the Wild (Twin Adder)","The Paths We Walk",2
-45,"The Paths We Walk","The Rise and Fall of Gentlemen",2
-46,"The Rise and Fall of Gentlemen","Up in Arms",2
-47,"Up in Arms","Toll Booty",2
-48,"Toll Booty"," Remembering the Past",2
-49," Remembering the Past","",2
-50,"","Coming to Gridania",3
-51,"Coming to Gridania","Coming to Ul'dah",3
-52,"Coming to Ul'dah","Leves of the Observatorium",3
-53,"Leves of the Observatorium","A Legend for a Legend",3
-54,"A Legend for a Legend","Remembering Ishgard",3
-55,"Remembering Ishgard","The Way of the Dodo",3
-56,"The Way of the Dodo","Some Bad News",3
-57,"Some Bad News","Basic Training",3
-58,"Basic Training","Magiteknical Failure",3
-59,"Magiteknical Failure","A New Fishing Ex-spear-ience",3
-60,"A New Fishing Ex-spear-ience","A Lone Wolf No More",3
-61,"A Lone Wolf No More"," A Cry for Help",3
-62," A Cry for Help"," Before the Tide Comes",3
-63," Before the Tide Comes"," Worm Food",3
-64," Worm Food"," What's in a Name",3
-65," What's in a Name"," Barking Up the Right Tree",3
-66," Barking Up the Right Tree"," Ondo Dream of Oranges",3
-67," Ondo Dream of Oranges"," A Waiting Love",3
-68," A Waiting Love"," Fruit Savior",3
-69," Fruit Savior"," Your Inventory Is Not Full",3
-70," Your Inventory Is Not Full"," True Carrot Crimes",3
-71," True Carrot Crimes"," The Ore the Merrier",3
-72," The Ore the Merrier"," The Sound of Fear",3
-73," The Sound of Fear","Way of the Gladiator",3
-74,"Way of the Gladiator","Way of the Conjurer",2
-75,"Way of the Conjurer","Way of the Carpenter",2
-76,"Way of the Carpenter","Way of the Miner",2
-77,"Way of the Miner","Iola, Forgemaster",2
-78,"Iola, Forgemaster","Professor Rurusha's New Friend",2
-79,"Professor Rurusha's New Friend","Paladin's Pledge",2
-80,"Paladin's Pledge","Seer Folly",2
-81,"Seer Folly","The Man with Too Many Scars",2
-82,"The Man with Too Many Scars","A Pup No Longer (Maelstrom)",2
-83,"A Pup No Longer (Maelstrom)","A Horse for Heavensturn",2
-84,"A Horse for Heavensturn","The Ties That Bind",2
-85,"The Ties That Bind","リーヴテスト06",2
-86,"リーヴテスト06","Rubble Bubble",3
-87,"Rubble Bubble","リーヴテスト01",3
-88,"リーヴテスト01","Adventurers' Relish",3
-89,"Adventurers' Relish","In with the New",3
-90,"In with the New","Proly Hatchet",3
-91,"Proly Hatchet","Ain't Got No Ingots",3
-92,"Ain't Got No Ingots","Copper and Robbers",3
-93,"Copper and Robbers","Red in the Head",3
-94,"Red in the Head","The Unmentionables",3
-95,"The Unmentionables","Mercury Rising",3
-96,"Mercury Rising","Pork Is a Salty Food",3
-97,"Pork Is a Salty Food","Don't Touch Our Stuff",3
-98,"","",3
+29," Hippos Born to Run","",2
+30,"","Peace for Thanalan",2
+31,"Peace for Thanalan","Seeking Solace",2
+32,"Seeking Solace","Highway Robbery",2
+33,"Highway Robbery","They Came from the Deep",2
+34,"They Came from the Deep","A Bad Bladder",2
+35,"A Bad Bladder"," Three Beaks to the Wind",2
+36," Three Beaks to the Wind"," The Naming of Vath",2
+37," The Naming of Vath"," Tricks and Stones",2
+38," Tricks and Stones","",2
+39,""," Brooding Broodmother",2
+40," Brooding Broodmother","Something Fishy This Way Comes",2
+41,"Something Fishy This Way Comes"," Manic Pixie Dream Realm",2
+42," Manic Pixie Dream Realm"," The Stewards of Note",2
+43," The Stewards of Note"," It's Dwarfin' Time",2
+44," It's Dwarfin' Time","Call of the Wild (Twin Adder)",2
+45,"Call of the Wild (Twin Adder)","The Paths We Walk",2
+46,"The Paths We Walk","The Rise and Fall of Gentlemen",2
+47,"The Rise and Fall of Gentlemen","Up in Arms",2
+48,"Up in Arms","Toll Booty",2
+49,"Toll Booty"," Remembering the Past",2
+50," Remembering the Past","",2
+51,"","Coming to Gridania",3
+52,"Coming to Gridania","Coming to Ul'dah",3
+53,"Coming to Ul'dah","Leves of the Observatorium",3
+54,"Leves of the Observatorium","A Legend for a Legend",3
+55,"A Legend for a Legend","Remembering Ishgard",3
+56,"Remembering Ishgard","The Way of the Dodo",3
+57,"The Way of the Dodo","Some Bad News",3
+58,"Some Bad News","Basic Training",3
+59,"Basic Training","Magiteknical Failure",3
+60,"Magiteknical Failure","A New Fishing Ex-spear-ience",3
+61,"A New Fishing Ex-spear-ience","A Lone Wolf No More",3
+62,"A Lone Wolf No More"," A Cry for Help",3
+63," A Cry for Help"," Before the Tide Comes",3
+64," Before the Tide Comes"," Worm Food",3
+65," Worm Food"," What's in a Name",3
+66," What's in a Name"," Barking Up the Right Tree",3
+67," Barking Up the Right Tree"," Ondo Dream of Oranges",3
+68," Ondo Dream of Oranges","Wings of Hope",3
+69,"Wings of Hope"," Fruit Savior",3
+70," Fruit Savior"," Your Inventory Is Not Full",3
+71," Your Inventory Is Not Full"," True Carrot Crimes",3
+72," True Carrot Crimes"," The Ore the Merrier",3
+73," The Ore the Merrier"," The Sound of Fear",3
+74," The Sound of Fear","Way of the Gladiator",3
+75,"Way of the Gladiator","Way of the Conjurer",2
+76,"Way of the Conjurer","Way of the Carpenter",2
+77,"Way of the Carpenter","Way of the Miner",2
+78,"Way of the Miner","Iola, Forgemaster",2
+79,"Iola, Forgemaster","Professor Rurusha's New Friend",2
+80,"Professor Rurusha's New Friend","Paladin's Pledge",2
+81,"Paladin's Pledge","Seer Folly",2
+82,"Seer Folly","The Man with Too Many Scars",2
+83,"The Man with Too Many Scars","A Pup No Longer (Maelstrom)",2
+84,"A Pup No Longer (Maelstrom)","A Horse for Heavensturn",2
+85,"A Horse for Heavensturn","The Ties That Bind",2
+86,"The Ties That Bind","リーヴテスト06",2
+87,"リーヴテスト06","Rubble Bubble",3
+88,"Rubble Bubble","リーヴテスト01",3
+89,"リーヴテスト01","Adventurers' Relish",3
+90,"Adventurers' Relish","In with the New",3
+91,"In with the New","Proly Hatchet",3
+92,"Proly Hatchet","Ain't Got No Ingots",3
+93,"Ain't Got No Ingots","Copper and Robbers",3
+94,"Copper and Robbers","Red in the Head",3
+95,"Red in the Head","The Unmentionables",3
+96,"The Unmentionables","Mercury Rising",3
+97,"Mercury Rising","Pork Is a Salty Food",3
+98,"Pork Is a Salty Food","Don't Touch Our Stuff",3
 99,"","",3
 100,"","",3
 101,"","",3
@@ -111,10 +111,11 @@ int32,CompleteJournal,CompleteJournal,int32
 107,"","",3
 108,"","",3
 109,"","",3
-110,"","",2
-111,"Don't Touch Our Stuff","Sastasha",2
-112,"Sastasha","the Labyrinth of the Ancients",2
-113,"the Labyrinth of the Ancients","the Bowl of Embers",2
-114,"the Bowl of Embers","the Palace of the Dead (Floors 1-10)",2
-115,"the Palace of the Dead (Floors 1-10)",,2
-116,"","",2
+110,"","",3
+111,"","",2
+112,"Don't Touch Our Stuff","Sastasha",2
+113,"Sastasha","the Labyrinth of the Ancients",2
+114,"the Labyrinth of the Ancients","the Bowl of Embers",2
+115,"the Bowl of Embers","the Palace of the Dead (Floors 1-10)",2
+116,"the Palace of the Dead (Floors 1-10)",,2
+117,"","",2

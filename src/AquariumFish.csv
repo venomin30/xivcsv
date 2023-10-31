@@ -195,3 +195,13 @@ int32,AquariumWater,byte,Item,uint16
 192,"Saltwater",2,"Gilled Topknot",434
 193,"Saltwater",3,"Kitefin Shark",359
 194,"Saltwater",4,"Sothis",86
+195,"Freshwater",1,"Green Swordtail",427
+196,"Freshwater",1,"Catastrophizer",479
+197,"Saltwater",1,"Meyhane Reveler",463
+198,"Freshwater",2,"Raiamas",397
+199,"Freshwater",2,"Bluegill",408
+200,"Saltwater",2,"Othardian Lumpsucker",450
+201,"Saltwater",2,"Heavensent Shark",481
+202,"Saltwater",2,"Sirensong Mullet",477
+203,"Freshwater",3,"Spectral Kotsu Zetsu",395
+204,"Saltwater",4,"Taniwha",109

@@ -1,5 +1,5 @@
 ﻿key,0,1
-#,Item,
+#,Item,Sort
 int32,Item,byte
 0,"",0
 1,"Islekeep's Stone Hatchet",1
@@ -18,3 +18,6 @@ int32,Item,byte
 14,"Islekeep's Steel Hammer",8
 15,"Mammet-sized Spelunking Tools",26
 16,"Bestestest Mammet-sized Builder's Tools",27
+17,"Islekeep's Mythril Pickaxe",9
+18,"Islekeep's Chisel",10
+19,"Splendiferous Mammet-sized Spelunking Tools",28

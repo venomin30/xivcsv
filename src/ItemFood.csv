@@ -612,3 +612,5 @@ int32,byte,BaseParam,bool,sbyte,int16,sbyte,int16,BaseParam,bool,sbyte,int16,sby
 608,3,"Spell Speed",True,4,10,4,10,"Vitality",True,5,12,5,12,"Reduced Durability Loss",False,3,0,3,0
 609,3,"Determination",True,4,10,4,10,"Vitality",True,5,12,5,12,"Reduced Durability Loss",False,3,0,3,0
 610,3,"Critical Hit",True,4,10,4,10,"Vitality",True,5,12,5,12,"Reduced Durability Loss",False,3,0,3,0
+611,3,"Direct Hit Rate",True,4,10,4,10,"Vitality",True,5,12,5,12,"Reduced Durability Loss",False,3,0,3,0
+612,3,"Skill Speed",True,4,10,4,10,"Vitality",True,5,12,5,12,"Reduced Durability Loss",False,3,0,3,0

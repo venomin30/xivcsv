@@ -1,278 +1,278 @@
-﻿key,0,1,2,3,4,5
-#,ClassJobCategory,,ENpcResident,Item,AmountRequired,ItemHQ
-int32,ClassJobCategory,byte,ENpcResident,Item,byte,bit&01
-0.0,"",0,,"",0,False
-1.0,"",0,,"",0,False
-1.1,"",0,,"",0,False
-1.2,"",0,,"",0,False
-1.3,"",0,,"",0,False
-2.0,"",0,,"",0,False
-2.1,"",0,,"",0,False
-2.2,"",0,,"",0,False
-2.3,"",0,,"",0,False
-3.0,"",0,,"",0,False
-3.1,"",0,,"",0,False
-3.2,"",0,,"",0,False
-3.3,"",0,,"",0,False
-4.0,"",0,,"",0,False
-4.1,"",0,,"",0,False
-4.2,"",0,,"",0,False
-4.3,"",0,,"",0,False
-5.0,"Disciple of the Hand",0,"earnest Namazu","Finery Components",2,False
-5.1,"MIN",0,"earnest Namazu","Steppe Mica",3,False
-5.2,"BTN",0,"earnest Namazu","Steppe Safflowers",3,False
-5.3,"FSH",0,"earnest Namazu","Khaal Crab",1,False
-6.0,"Disciple of the Hand",0,"Seigetsu the Enlightened","Ritual Implement Components",1,False
-6.1,"MIN",0,"Seigetsu the Enlightened","Steppe Rock Salt",3,False
-6.2,"BTN",0,"Seigetsu the Enlightened","Verdant Branch",3,False
-6.3,"FSH",0,"Seigetsu the Enlightened","Fish Offering",1,False
-7.0,"Disciple of the Hand",0,"Seigetsu the Enlightened","Brazier Components",2,False
-7.1,"MIN",0,"Seigetsu the Enlightened","Steppe Coal",3,False
-7.2,"BTN",0,"Seigetsu the Enlightened","Dry Branch",3,False
-7.3,"FSH",0,"Seigetsu the Enlightened","Fatty Eel",1,False
-8.0,"Disciple of the Hand",0,"Seigetsu the Enlightened","Uchiwa Components",3,False
-8.1,"MIN",0,"Seigetsu the Enlightened","Pure White Silex",3,False
-8.2,"BTN",0,"Seigetsu the Enlightened","Steppe Rattan Lumber",3,False
-8.3,"FSH",0,"Seigetsu the Enlightened","Crimson Copperfish",1,False
-9.0,"Disciple of the Hand",0,"Namazu fisher","Catfish Lure Components",2,False
-9.1,"MIN",0,"Namazu fisher","Steppe Geode",3,False
-9.2,"BTN",0,"Namazu fisher","Yol Feather",3,False
-9.3,"FSH",0,"Namazu fisher","Gigas Catfish",1,False
-10.0,"Disciple of the Hand",0,"Gyorin","Azim Steppe Souvenir Components",1,False
-10.1,"MIN",0,"Gyorin","Raw Azimite",3,False
-10.2,"BTN",0,"Gyorin","Steppe Candyfruit",3,False
-10.3,"FSH",0,"Gyorin","Rainbow Killifish",1,False
-11.0,"Disciple of the Hand",0,"Seigetsu the Enlightened","Hingan Ritual Paraphernalia",2,False
-11.1,"MIN",0,"Seigetsu the Enlightened","Steppe Clay",3,False
-11.2,"BTN",0,"Seigetsu the Enlightened","Edible Bud",3,False
-11.3,"FSH",0,"Seigetsu the Enlightened","Steppe Sweetfish",1,False
-12.0,"Disciple of the Hand",0,"Oroniri dzoherd","Dzo Shear Components",1,True
-12.1,"MIN",0,"Oroniri dzoherd","Steppe Whetstone",2,False
-12.2,"BTN",0,"Oroniri dzoherd","Grazing Grass",2,False
-12.3,"FSH",0,"Oroniri dzoherd","Greasy Strangler",1,False
-13.0,"Disciple of the Hand",0,"Namazu cook","Buuz Cooking Paraphernalia",2,False
-13.1,"MIN",0,"Namazu cook","Steppe Soapstone",3,False
-13.2,"BTN",0,"Namazu cook","Steppe Onion",3,False
-13.3,"FSH",0,"Namazu cook","Grass Shrimp",1,False
-14.0,"Disciple of the Hand",0,"Namazu tea connoisseur","Mol Tea Ceremony Paraphernalia",3,False
-14.1,"MIN",0,"Namazu tea connoisseur","Steppe Spring Water",3,False
-14.2,"BTN",0,"Namazu tea connoisseur","Fava Beans",3,False
-14.3,"FSH",0,"Namazu tea connoisseur","Flagon Clam",1,False
-15.0,"Disciple of the Hand",0,"Seigetsu the Enlightened","Stable Supplies",2,False
-15.1,"MIN",0,"Seigetsu the Enlightened","Steppe Iron Ore",1,False
-15.2,"BTN",0,"Seigetsu the Enlightened","Steppe Hay",1,False
-15.3,"FSH",0,"Seigetsu the Enlightened","Moon Oyster",1,False
-16.0,"Disciple of the Hand",0,"Seigetsu the Enlightened","Drum Parts",1,False
-16.1,"MIN",0,"Seigetsu the Enlightened","Flat Stone",2,False
-16.2,"BTN",0,"Seigetsu the Enlightened","Steppe Tea Leaves",2,False
-16.3,"FSH",0,"Seigetsu the Enlightened","Leatherscale",1,False
-17.0,"Disciple of the Hand",0,"Namazu papermaker","Confetti-making Tools",3,False
-17.1,"MIN",0,"Namazu papermaker","Steppe Cinnabar",2,False
-17.2,"BTN",0,"Namazu papermaker","Steppe Wildgrass",2,False
-17.3,"FSH",0,"Namazu papermaker","Dusk Scallop",1,False
-18.0,"Disciple of the Hand",0,"Seigetsu the Enlightened","Substitute Offering",1,True
-18.1,"MIN",0,"Seigetsu the Enlightened","Steppe Jade",3,False
-18.2,"BTN",0,"Seigetsu the Enlightened","Steppe Radish",3,False
-18.3,"FSH",0,"Seigetsu the Enlightened","Spikefish",1,False
-19.0,"Disciple of the Hand",0,"Namazu culinarian","Steeping Accessory",2,False
-19.1,"MIN",0,"Namazu culinarian","Crystal-clear Rock Salt",2,False
-19.2,"BTN",0,"Namazu culinarian","Fragrant Steppe Herb",2,False
-19.3,"FSH",0,"Namazu culinarian","Nhaama's Claw",1,False
-20.0,"Disciple of the Hand",0,"Seigetsu the Enlightened","Pristine Fruit Figurine",1,True
-20.1,"MIN",0,"Seigetsu the Enlightened","Ultramarine Ore",1,False
-20.2,"BTN",0,"Seigetsu the Enlightened","Fibrous Melon",1,False
-20.3,"FSH",0,"Seigetsu the Enlightened","Spearhead Snail",1,False
-21.0,"Disciple of the Hand",0,"nervous Namazu","Land Diving Gear",2,False
-21.1,"MIN",0,"nervous Namazu","Steppe Slab",1,False
-21.2,"BTN",0,"nervous Namazu","Sturdy Vine",1,False
-21.3,"FSH",0,"nervous Namazu","Granite Hardscale",1,False
-22.0,"Disciple of the Hand",0,"Namazu culinarian","Culinary Knife Component",1,True
-22.1,"MIN",0,"Namazu culinarian","Steppe Mudstone Whetstone",1,False
-22.2,"BTN",0,"Namazu culinarian","Ripe Steppe Fruit",1,False
-22.3,"FSH",0,"Namazu culinarian","Plump Trout",1,False
-23.0,"Disciple of the Hand",0,"Oroniri wrestling instructor","Generous Gift",2,False
-23.1,"MIN",0,"Oroniri wrestling instructor","Steppe Obsidian",1,False
-23.2,"BTN",0,"Oroniri wrestling instructor","Steppe Flatweed",1,False
-23.3,"FSH",0,"Oroniri wrestling instructor","Appleseed",1,False
-24.0,"Disciple of the Hand",0,"Gyoka","Korrigan Doll",1,True
-24.1,"MIN",0,"Gyoka","Vibrant Steppe Glowstone",1,False
-24.2,"BTN",0,"Gyoka","Fragrant Steppe Wildgrass",1,False
-24.3,"FSH",0,"Gyoka","Crawling Cog",1,False
-25.0,"Disciple of the Hand",0,"Gyorei","Happi Components",3,False
-25.1,"MIN",0,"Gyorei","Red Malachite",3,False
-25.2,"BTN",0,"Gyorei","Azim Strawberry",3,False
-25.3,"FSH",0,"Gyorei","Sunshell",1,False
-26.0,"Disciple of the Hand",0,"Gyorei","Altar Components",2,False
-26.1,"MIN",0,"Gyorei","Skystone",3,False
-26.2,"BTN",0,"Gyorei","Scarlet Flax",3,False
-26.3,"FSH",0,"Gyorei","Steppe Barramundi",1,False
-27.0,"Disciple of the Hand",0,"Gyorei","Mikoshi Frippery",2,False
-27.1,"MIN",0,"Gyorei","Dawn Dust",2,False
-27.2,"BTN",0,"Gyorei","Duskglow Cocoon",2,False
-27.3,"FSH",0,"Gyorei","Water Fan",1,False
-28.0,"Disciple of the Hand",0,"Gyoshin","Ceremonial Bow Components",1,True
-28.1,"MIN",0,"Gyoshin","Mondite",1,False
-28.2,"BTN",0,"Gyoshin","Straight Shoot",1,False
-28.3,"FSH",0,"Gyoshin","Arrowhead Snail",1,False
-29.0,"Disciple of the Hand",0,"Gyorei","Effigy Components",1,True
-29.1,"MIN",0,"Gyorei","Lava Rock",1,False
-29.2,"BTN",0,"Gyorei","Steppe Sedge",1,False
-29.3,"FSH",0,"Gyorei","Invisible Catfish",1,False
-30.0,"Disciple of the Hand",0,"affable Namazu","Trinket Components",1,False
-30.1,"MIN",0,"affable Namazu","Steppe Copper Ore",3,False
-30.2,"BTN",0,"affable Namazu","Steppe Vine",3,False
-30.3,"FSH",0,"affable Namazu","Zagas A'khaal",1,False
-31.0,"Disciple of the Hand",0,"Namazu apothecary","Elixir Mixing Paraphernalia",3,False
-31.1,"MIN",0,"Namazu apothecary","Dubious Dirt",1,False
-31.2,"BTN",0,"Namazu apothecary","Odd Herb",1,False
-31.3,"FSH",0,"Namazu apothecary","Fishy Fish",1,False
-32.0,"MIN",0,"Chaqurl Qhotl","Shimmering Quartz",1,False
-32.1,"BTN",0,"Chaqurl Qhotl","Ancient Amber",1,False
-32.2,"FSH",0,"Chaqurl Qhotl","Glowfish",1,False
-33.0,"MIN",0,"Valan","Serpent's-eye",1,False
-33.1,"BTN",0,"Valan","Spectral Cocoon",1,False
-33.2,"FSH",0,"Valan","Shimmershell",1,False
-34.0,"MIN",0,"Qitarl Natl","Blessed Spring Water",1,False
-34.1,"BTN",0,"Qitarl Natl","Spiritweed Root",1,False
-34.2,"FSH",0,"Qitarl Natl","Dalan's Claw",1,False
-35.0,"MIN",0,"Qitarl Natl","Kindling Crystal",3,False
-35.1,"BTN",0,"Qitarl Natl","Serpent Pepper",3,False
-35.2,"FSH",0,"Qitarl Natl","Magma Eel",1,False
-36.0,"MIN",0,"Chaqurl Qhotl","Slough Serpentinite",3,False
-36.1,"BTN",0,"Chaqurl Qhotl","Boggy Bark",3,False
-36.2,"FSH",0,"Chaqurl Qhotl","Mossy Tortoise",1,False
-37.0,"MIN",0,"Qhoterl Pasol","Splendid Iron Ore",3,False
-37.1,"BTN",0,"Qhoterl Pasol","Splendid Flax",3,False
-37.2,"FSH",0,"Qhoterl Pasol","Splendid Clawbow",1,False
-38.0,"MIN",0,"Qhoterl Pasol","Splendid Flint Stone",3,False
-38.1,"BTN",0,"Qhoterl Pasol","Splendid Seeds",3,False
-38.2,"FSH",0,"Qhoterl Pasol","Splendid Trout",1,False
-39.0,"MIN",0,"Qhoterl Pasol","Splendid Slate",3,False
-39.1,"BTN",0,"Qhoterl Pasol","Splendid Water Ivy",3,False
-39.2,"FSH",0,"Qhoterl Pasol","Splendid Eryops",1,False
-40.0,"MIN",0,"Qhoterl Pasol","Splendid Ant Egg",3,False
-40.1,"BTN",0,"Qhoterl Pasol","Splendid Silkworm",3,False
-40.2,"FSH",0,"Qhoterl Pasol","Splendid Robber Crab",1,False
-41.0,"MIN",0,"Qhoterl Pasol","Splendid Scorpion",3,False
-41.1,"BTN",0,"Qhoterl Pasol","Splendid Wild Berries",3,False
-41.2,"FSH",0,"Qhoterl Pasol","Splendid Piranha",1,False
-42.0,"MIN",0,"Qhoterl Pasol","Splendid Amber",3,False
-42.1,"BTN",0,"Qhoterl Pasol","Splendid Lavender",3,False
-42.2,"FSH",0,"Qhoterl Pasol","Splendid Pirarucu",1,False
-43.0,"MIN",0,"Qhoterl Pasol","Splendid Chalcanthite",3,False
-43.1,"BTN",0,"Qhoterl Pasol","Splendid Tarantula",3,False
-43.2,"FSH",0,"Qhoterl Pasol","Splendid Poison Catfish",1,False
-44.0,"MIN",0,"Qhoterl Pasol","Splendid Mineral Oil",3,False
-44.1,"BTN",0,"Qhoterl Pasol","Splendid Greenwattle",3,False
-44.2,"FSH",0,"Qhoterl Pasol","Splendid Pondfrond",1,False
-45.0,"MIN",0,"Qhoterl Pasol","Splendid Purple Pigment",3,False
-45.1,"BTN",0,"Qhoterl Pasol","Splendid Turmeric",3,False
-45.2,"FSH",0,"Qhoterl Pasol","Splendid Spiralshell",1,False
-46.0,"MIN",0,"Qhoterl Pasol","Splendid Natron",3,False
-46.1,"BTN",0,"Qhoterl Pasol","Splendid Marimo",3,False
-46.2,"FSH",0,"Qhoterl Pasol","Splendid Sponge",1,False
-47.0,"MIN",0,"Qhoterl Pasol","Splendid Clay",3,False
-47.1,"BTN",0,"Qhoterl Pasol","Splendid Trillium",3,False
-47.2,"FSH",0,"Qhoterl Pasol","Splendid Cockle",1,False
-48.0,"MIN",0,"Qhoterl Pasol","Splendid Graphite",3,False
-48.1,"BTN",0,"Qhoterl Pasol","Splendid Tarichuk Feather",3,False
-48.2,"FSH",0,"Qhoterl Pasol","Splendid Silver Kitten",1,False
-49.0,"MIN",0,"Qhoterl Pasol","Splendid Rock Salt",3,False
-49.1,"BTN",0,"Qhoterl Pasol","Splendid Tree Bark",3,False
-49.2,"FSH",0,"Qhoterl Pasol","Splendid Night's Bass",1,False
-50.0,"MIN",0,"Qhoterl Pasol","Splendid Saltpeter",3,False
-50.1,"BTN",0,"Qhoterl Pasol","Splendid Mugwort",3,False
-50.2,"FSH",0,"Qhoterl Pasol","Splendid Magmatongue",1,False
-51.0,"MIN",0,"Qhoterl Pasol","Splendid Holey Stone",3,False
-51.1,"BTN",0,"Qhoterl Pasol","Splendid Stalk",3,False
-51.2,"FSH",0,"Qhoterl Pasol","Splendid Treescale",1,False
-52.0,"MIN",0,"Qhoterl Pasol","Splendid Gravel",3,False
-52.1,"BTN",0,"Qhoterl Pasol","Splendid Broombush",3,False
-52.2,"FSH",0,"Qhoterl Pasol","Splendid Pipira",1,False
-53.0,"MIN",0,"Qhoterl Pasol","Splendid Stone",3,False
-53.1,"BTN",0,"Qhoterl Pasol","Splendid Nut",3,False
-53.2,"FSH",0,"Qhoterl Pasol","Splendid Shellfish",1,False
-54.0,"MIN",0,"Qhoterl Pasol","Splendid Worm",3,False
-54.1,"BTN",0,"Qhoterl Pasol","Splendid Beehive Chip",3,False
-54.2,"FSH",0,"Qhoterl Pasol","Splendid Egg-bearing Trout",1,False
-55.0,"MIN",0,"Qhoterl Pasol","Splendid Dense Iron Ore",3,False
-55.1,"BTN",0,"Qhoterl Pasol","Splendid Roots",3,False
-55.2,"FSH",0,"Qhoterl Pasol","Splendid Diamondtongue",1,False
-56.0,"MIN",0,"Qhoterl Pasol","Splendid Bone Fragment",3,False
-56.1,"BTN",0,"Qhoterl Pasol","Splendid Earthworm",3,False
-56.2,"FSH",0,"Qhoterl Pasol","Splendid Larva",1,False
-57.0,"MIN",0,"Qhoterl Pasol","Splendid Black Rock",3,False
-57.1,"BTN",0,"Qhoterl Pasol","Splendid Hemp",3,False
-57.2,"FSH",0,"Qhoterl Pasol","Splendid Mammoth Shellfish",1,False
-58.0,"MIN",0,"N-7000","Wild Liverwort",3,False
-58.1,"BTN",0,"N-7000","Prime Alien Onion",3,False
-58.2,"FSH",0,"N-7000","Soggy Alien Kelp",1,False
-59.0,"MIN",0,"N-7000","Star Sea Salt",3,False
-59.1,"BTN",0,"N-7000","Dragonseye Beans",3,False
-59.2,"FSH",0,"N-7000","Stellar Herring",1,False
-60.0,"MIN",0,"N-7000","Stellar Magnesium",3,False
-60.1,"BTN",0,"N-7000","Stellar Cumin",3,False
-60.2,"FSH",0,"N-7000","Meteoric Bonito",1,False
-61.0,"MIN",0,"N-7000","Pure Green Quartz",3,False
-61.1,"BTN",0,"N-7000","Sohm Al Bloom",3,False
-61.2,"FSH",0,"N-7000","Copperscale",1,False
-62.0,"MIN",0,"Jammingway","Methane Egg",3,False
-62.1,"BTN",0,"Jammingway","Methane Blossom",3,False
-62.2,"FSH",0,"Jammingway","Methane Puffer",1,False
-63.0,"MIN",0,"Karellian quartermaster","Trona Ore",3,False
-63.1,"BTN",0,"Karellian quartermaster","Celestial Grain",3,False
-63.2,"FSH",0,"Karellian quartermaster","Chemically Rich Fish",1,False
-64.0,"MIN",0,"Stigma-4","Mineral Sample",3,False
-64.1,"BTN",0,"Stigma-4","Plant Life Sample",3,False
-64.2,"FSH",0,"Stigma-4","Wildlife Sample",1,False
-65.0,"MIN",0,"Stigma-4","Nutrient-rich Ore",3,False
-65.1,"BTN",0,"Stigma-4","Withered Grass",3,False
-65.2,"FSH",0,"Stigma-4","Nondescript Fish",1,False
-66.0,"MIN",0,"food processing unit","Clear Rock Salt",3,False
-66.1,"BTN",0,"food processing unit","Sweet Nectar",3,False
-66.2,"FSH",0,"food processing unit","Fresh Seaweed",1,False
-67.0,"MIN",0,"analysis unit","Limestone Coral",3,False
-67.1,"BTN",0,"analysis unit","Elysian Cucumber",3,False
-67.2,"FSH",0,"analysis unit","Elysian Nudibranch",1,False
-68.0,"MIN",0,"Stigma-4","Weighted Agalmatolite",3,False
-68.1,"BTN",0,"Stigma-4","Fragrant Greens",3,False
-68.2,"FSH",0,"Stigma-4","Sticky Fingers",1,False
-69.0,"MIN",0,"all-purpose service unit","Bryophyte",3,False
-69.1,"BTN",0,"all-purpose service unit","Elysian Seaweed",3,False
-69.2,"FSH",0,"all-purpose service unit","Elysian Stickleback",1,False
-70.0,"MIN",0,"food processing unit","Elysian Rock Salt",3,False
-70.1,"BTN",0,"food processing unit","Elysian Kelp",3,False
-70.2,"FSH",0,"food processing unit","Saltwater Fish",1,False
-71.0,"MIN",0,"alimentary survey unit","Diatom Cluster",3,False
-71.1,"BTN",0,"alimentary survey unit","Rock Moss",3,False
-71.2,"FSH",0,"alimentary survey unit","Seaweed Snapper",1,False
-72.0,"MIN",0,"intrigued Ea","Karellian Black Salt",3,False
-72.1,"BTN",0,"intrigued Ea","Karellian Prismatic Wheat",3,False
-72.2,"FSH",0,"intrigued Ea","Karellian Fishy Fish",1,False
-73.0,"MIN",0,"aberrant savor-seeking unit","Salt-like Rock",3,False
-73.1,"BTN",0,"aberrant savor-seeking unit","Puantplant",3,False
-73.2,"FSH",0,"aberrant savor-seeking unit","Paraichthyoid",1,False
-74.0,"MIN",0,"expectant Ea","Supremest Space Oyster",3,False
-74.1,"BTN",0,"expectant Ea","Supremest Kelp",3,False
-74.2,"FSH",0,"expectant Ea","Supremest Crustacean",1,False
-75.0,"MIN",0,"food processing unit","Mashable Worm",3,False
-75.1,"BTN",0,"food processing unit","Softmoss",3,False
-75.2,"FSH",0,"food processing unit","Babycray",1,False
-76.0,"MIN",0,"nurturing nanny","Pillowy Cosmoclay",3,False
-76.1,"BTN",0,"nurturing nanny","Supple Cosmowood",3,False
-76.2,"FSH",0,"nurturing nanny","Silky Cosmocoral",1,False
-77.0,"MIN",0,"advanced environmental stimulation unit","Bioluminescent Rock Moss",3,False
-77.1,"BTN",0,"advanced environmental stimulation unit","Lucent Flower",3,False
-77.2,"FSH",0,"advanced environmental stimulation unit","Chromatic Fish",1,False
-78.0,"MIN",0,"advanced culinary research unit","Delectable Worm",3,False
-78.1,"BTN",0,"advanced culinary research unit","True Dragon Fruit",3,False
-78.2,"FSH",0,"advanced culinary research unit","Dragon's Delight",1,False
-79.0,"MIN",0,"wistful dragon","Monumental Whetstone",3,False
-79.1,"BTN",0,"wistful dragon","Cotton-like Plant",3,False
-79.2,"FSH",0,"wistful dragon","Astral Algae",1,False
-80.0,"MIN",0,"soil purification unit","Metalsand",3,False
-80.1,"BTN",0,"soil purification unit","Elysian Herb",3,False
-80.2,"FSH",0,"soil purification unit","Weird Fish",1,False
-81.0,"MIN",0,"advanced dental polishing unit","Porous Stone",3,False
-81.1,"BTN",0,"advanced dental polishing unit","Fibrous Kelp",3,False
-81.2,"FSH",0,"advanced dental polishing unit","Cosmic Sponge",1,False
+﻿key,0,1,2,3,4,5,6,7
+#,ClassJobCategory,,ENpcResident,Item,AmountRequired,ItemHQ,,
+int32,ClassJobCategory,byte,ENpcResident,Item,byte,bit&01,uint32,uint16
+0.0,"",0,,"",0,False,0,0
+1.0,"",0,,"",0,False,0,0
+1.1,"",0,,"",0,False,0,0
+1.2,"",0,,"",0,False,0,0
+1.3,"",0,,"",0,False,0,0
+2.0,"",0,,"",0,False,0,0
+2.1,"",0,,"",0,False,0,0
+2.2,"",0,,"",0,False,0,0
+2.3,"",0,,"",0,False,0,0
+3.0,"",0,,"",0,False,0,0
+3.1,"",0,,"",0,False,0,0
+3.2,"",0,,"",0,False,0,0
+3.3,"",0,,"",0,False,0,0
+4.0,"",0,,"",0,False,0,0
+4.1,"",0,,"",0,False,0,0
+4.2,"",0,,"",0,False,0,0
+4.3,"",0,,"",0,False,0,0
+5.0,"Disciple of the Hand",0,"earnest Namazu","Finery Components",2,False,0,0
+5.1,"MIN",0,"earnest Namazu","Steppe Mica",3,False,0,0
+5.2,"BTN",0,"earnest Namazu","Steppe Safflowers",3,False,0,0
+5.3,"FSH",0,"earnest Namazu","Khaal Crab",1,False,0,0
+6.0,"Disciple of the Hand",0,"Seigetsu the Enlightened","Ritual Implement Components",1,False,0,0
+6.1,"MIN",0,"Seigetsu the Enlightened","Steppe Rock Salt",3,False,0,0
+6.2,"BTN",0,"Seigetsu the Enlightened","Verdant Branch",3,False,0,0
+6.3,"FSH",0,"Seigetsu the Enlightened","Fish Offering",1,False,0,0
+7.0,"Disciple of the Hand",0,"Seigetsu the Enlightened","Brazier Components",2,False,0,0
+7.1,"MIN",0,"Seigetsu the Enlightened","Steppe Coal",3,False,0,0
+7.2,"BTN",0,"Seigetsu the Enlightened","Dry Branch",3,False,0,0
+7.3,"FSH",0,"Seigetsu the Enlightened","Fatty Eel",1,False,0,0
+8.0,"Disciple of the Hand",0,"Seigetsu the Enlightened","Uchiwa Components",3,False,0,0
+8.1,"MIN",0,"Seigetsu the Enlightened","Pure White Silex",3,False,0,0
+8.2,"BTN",0,"Seigetsu the Enlightened","Steppe Rattan Lumber",3,False,0,0
+8.3,"FSH",0,"Seigetsu the Enlightened","Crimson Copperfish",1,False,0,0
+9.0,"Disciple of the Hand",0,"Namazu fisher","Catfish Lure Components",2,False,0,0
+9.1,"MIN",0,"Namazu fisher","Steppe Geode",3,False,0,0
+9.2,"BTN",0,"Namazu fisher","Yol Feather",3,False,0,0
+9.3,"FSH",0,"Namazu fisher","Gigas Catfish",1,False,0,0
+10.0,"Disciple of the Hand",0,"Gyorin","Azim Steppe Souvenir Components",1,False,0,0
+10.1,"MIN",0,"Gyorin","Raw Azimite",3,False,0,0
+10.2,"BTN",0,"Gyorin","Steppe Candyfruit",3,False,0,0
+10.3,"FSH",0,"Gyorin","Rainbow Killifish",1,False,0,0
+11.0,"Disciple of the Hand",0,"Seigetsu the Enlightened","Hingan Ritual Paraphernalia",2,False,0,0
+11.1,"MIN",0,"Seigetsu the Enlightened","Steppe Clay",3,False,0,0
+11.2,"BTN",0,"Seigetsu the Enlightened","Edible Bud",3,False,0,0
+11.3,"FSH",0,"Seigetsu the Enlightened","Steppe Sweetfish",1,False,0,0
+12.0,"Disciple of the Hand",0,"Oroniri dzoherd","Dzo Shear Components",1,True,0,0
+12.1,"MIN",0,"Oroniri dzoherd","Steppe Whetstone",2,False,0,0
+12.2,"BTN",0,"Oroniri dzoherd","Grazing Grass",2,False,0,0
+12.3,"FSH",0,"Oroniri dzoherd","Greasy Strangler",1,False,0,0
+13.0,"Disciple of the Hand",0,"Namazu cook","Buuz Cooking Paraphernalia",2,False,0,0
+13.1,"MIN",0,"Namazu cook","Steppe Soapstone",3,False,0,0
+13.2,"BTN",0,"Namazu cook","Steppe Onion",3,False,0,0
+13.3,"FSH",0,"Namazu cook","Grass Shrimp",1,False,0,0
+14.0,"Disciple of the Hand",0,"Namazu tea connoisseur","Mol Tea Ceremony Paraphernalia",3,False,0,0
+14.1,"MIN",0,"Namazu tea connoisseur","Steppe Spring Water",3,False,0,0
+14.2,"BTN",0,"Namazu tea connoisseur","Fava Beans",3,False,0,0
+14.3,"FSH",0,"Namazu tea connoisseur","Flagon Clam",1,False,0,0
+15.0,"Disciple of the Hand",0,"Seigetsu the Enlightened","Stable Supplies",2,False,0,0
+15.1,"MIN",0,"Seigetsu the Enlightened","Steppe Iron Ore",1,False,0,0
+15.2,"BTN",0,"Seigetsu the Enlightened","Steppe Hay",1,False,0,0
+15.3,"FSH",0,"Seigetsu the Enlightened","Moon Oyster",1,False,0,0
+16.0,"Disciple of the Hand",0,"Seigetsu the Enlightened","Drum Parts",1,False,0,0
+16.1,"MIN",0,"Seigetsu the Enlightened","Flat Stone",2,False,0,0
+16.2,"BTN",0,"Seigetsu the Enlightened","Steppe Tea Leaves",2,False,0,0
+16.3,"FSH",0,"Seigetsu the Enlightened","Leatherscale",1,False,0,0
+17.0,"Disciple of the Hand",0,"Namazu papermaker","Confetti-making Tools",3,False,0,0
+17.1,"MIN",0,"Namazu papermaker","Steppe Cinnabar",2,False,0,0
+17.2,"BTN",0,"Namazu papermaker","Steppe Wildgrass",2,False,0,0
+17.3,"FSH",0,"Namazu papermaker","Dusk Scallop",1,False,0,0
+18.0,"Disciple of the Hand",0,"Seigetsu the Enlightened","Substitute Offering",1,True,0,0
+18.1,"MIN",0,"Seigetsu the Enlightened","Steppe Jade",3,False,0,0
+18.2,"BTN",0,"Seigetsu the Enlightened","Steppe Radish",3,False,0,0
+18.3,"FSH",0,"Seigetsu the Enlightened","Spikefish",1,False,0,0
+19.0,"Disciple of the Hand",0,"Namazu culinarian","Steeping Accessory",2,False,0,0
+19.1,"MIN",0,"Namazu culinarian","Crystal-clear Rock Salt",2,False,0,0
+19.2,"BTN",0,"Namazu culinarian","Fragrant Steppe Herb",2,False,0,0
+19.3,"FSH",0,"Namazu culinarian","Nhaama's Claw",1,False,0,0
+20.0,"Disciple of the Hand",0,"Seigetsu the Enlightened","Pristine Fruit Figurine",1,True,0,0
+20.1,"MIN",0,"Seigetsu the Enlightened","Ultramarine Ore",1,False,0,0
+20.2,"BTN",0,"Seigetsu the Enlightened","Fibrous Melon",1,False,0,0
+20.3,"FSH",0,"Seigetsu the Enlightened","Spearhead Snail",1,False,0,0
+21.0,"Disciple of the Hand",0,"nervous Namazu","Land Diving Gear",2,False,0,0
+21.1,"MIN",0,"nervous Namazu","Steppe Slab",1,False,0,0
+21.2,"BTN",0,"nervous Namazu","Sturdy Vine",1,False,0,0
+21.3,"FSH",0,"nervous Namazu","Granite Hardscale",1,False,0,0
+22.0,"Disciple of the Hand",0,"Namazu culinarian","Culinary Knife Component",1,True,0,0
+22.1,"MIN",0,"Namazu culinarian","Steppe Mudstone Whetstone",1,False,0,0
+22.2,"BTN",0,"Namazu culinarian","Ripe Steppe Fruit",1,False,0,0
+22.3,"FSH",0,"Namazu culinarian","Plump Trout",1,False,0,0
+23.0,"Disciple of the Hand",0,"Oroniri wrestling instructor","Generous Gift",2,False,0,0
+23.1,"MIN",0,"Oroniri wrestling instructor","Steppe Obsidian",1,False,0,0
+23.2,"BTN",0,"Oroniri wrestling instructor","Steppe Flatweed",1,False,0,0
+23.3,"FSH",0,"Oroniri wrestling instructor","Appleseed",1,False,0,0
+24.0,"Disciple of the Hand",0,"Gyoka","Korrigan Doll",1,True,0,0
+24.1,"MIN",0,"Gyoka","Vibrant Steppe Glowstone",1,False,0,0
+24.2,"BTN",0,"Gyoka","Fragrant Steppe Wildgrass",1,False,0,0
+24.3,"FSH",0,"Gyoka","Crawling Cog",1,False,0,0
+25.0,"Disciple of the Hand",0,"Gyorei","Happi Components",3,False,0,0
+25.1,"MIN",0,"Gyorei","Red Malachite",3,False,0,0
+25.2,"BTN",0,"Gyorei","Azim Strawberry",3,False,0,0
+25.3,"FSH",0,"Gyorei","Sunshell",1,False,0,0
+26.0,"Disciple of the Hand",0,"Gyorei","Altar Components",2,False,0,0
+26.1,"MIN",0,"Gyorei","Skystone",3,False,0,0
+26.2,"BTN",0,"Gyorei","Scarlet Flax",3,False,0,0
+26.3,"FSH",0,"Gyorei","Steppe Barramundi",1,False,0,0
+27.0,"Disciple of the Hand",0,"Gyorei","Mikoshi Frippery",2,False,0,0
+27.1,"MIN",0,"Gyorei","Dawn Dust",2,False,0,0
+27.2,"BTN",0,"Gyorei","Duskglow Cocoon",2,False,0,0
+27.3,"FSH",0,"Gyorei","Water Fan",1,False,0,0
+28.0,"Disciple of the Hand",0,"Gyoshin","Ceremonial Bow Components",1,True,0,0
+28.1,"MIN",0,"Gyoshin","Mondite",1,False,0,0
+28.2,"BTN",0,"Gyoshin","Straight Shoot",1,False,0,0
+28.3,"FSH",0,"Gyoshin","Arrowhead Snail",1,False,0,0
+29.0,"Disciple of the Hand",0,"Gyorei","Effigy Components",1,True,0,0
+29.1,"MIN",0,"Gyorei","Lava Rock",1,False,0,0
+29.2,"BTN",0,"Gyorei","Steppe Sedge",1,False,0,0
+29.3,"FSH",0,"Gyorei","Invisible Catfish",1,False,0,0
+30.0,"Disciple of the Hand",0,"affable Namazu","Trinket Components",1,False,0,0
+30.1,"MIN",0,"affable Namazu","Steppe Copper Ore",3,False,0,0
+30.2,"BTN",0,"affable Namazu","Steppe Vine",3,False,0,0
+30.3,"FSH",0,"affable Namazu","Zagas A'khaal",1,False,0,0
+31.0,"Disciple of the Hand",0,"Namazu apothecary","Elixir Mixing Paraphernalia",3,False,0,0
+31.1,"MIN",0,"Namazu apothecary","Dubious Dirt",1,False,0,0
+31.2,"BTN",0,"Namazu apothecary","Odd Herb",1,False,0,0
+31.3,"FSH",0,"Namazu apothecary","Fishy Fish",1,False,0,0
+32.0,"MIN",0,"Chaqurl Qhotl","Shimmering Quartz",1,False,0,0
+32.1,"BTN",0,"Chaqurl Qhotl","Ancient Amber",1,False,0,0
+32.2,"FSH",0,"Chaqurl Qhotl","Glowfish",1,False,0,0
+33.0,"MIN",0,"Valan","Serpent's-eye",1,False,0,0
+33.1,"BTN",0,"Valan","Spectral Cocoon",1,False,0,0
+33.2,"FSH",0,"Valan","Shimmershell",1,False,0,0
+34.0,"MIN",0,"Qitarl Natl","Blessed Spring Water",1,False,0,0
+34.1,"BTN",0,"Qitarl Natl","Spiritweed Root",1,False,0,0
+34.2,"FSH",0,"Qitarl Natl","Dalan's Claw",1,False,0,0
+35.0,"MIN",0,"Qitarl Natl","Kindling Crystal",3,False,0,0
+35.1,"BTN",0,"Qitarl Natl","Serpent Pepper",3,False,0,0
+35.2,"FSH",0,"Qitarl Natl","Magma Eel",1,False,0,0
+36.0,"MIN",0,"Chaqurl Qhotl","Slough Serpentinite",3,False,0,0
+36.1,"BTN",0,"Chaqurl Qhotl","Boggy Bark",3,False,0,0
+36.2,"FSH",0,"Chaqurl Qhotl","Mossy Tortoise",1,False,0,0
+37.0,"MIN",0,"Qhoterl Pasol","Splendid Iron Ore",3,False,0,0
+37.1,"BTN",0,"Qhoterl Pasol","Splendid Flax",3,False,0,0
+37.2,"FSH",0,"Qhoterl Pasol","Splendid Clawbow",1,False,0,0
+38.0,"MIN",0,"Qhoterl Pasol","Splendid Flint Stone",3,False,0,0
+38.1,"BTN",0,"Qhoterl Pasol","Splendid Seeds",3,False,0,0
+38.2,"FSH",0,"Qhoterl Pasol","Splendid Trout",1,False,0,0
+39.0,"MIN",0,"Qhoterl Pasol","Splendid Slate",3,False,0,0
+39.1,"BTN",0,"Qhoterl Pasol","Splendid Water Ivy",3,False,0,0
+39.2,"FSH",0,"Qhoterl Pasol","Splendid Eryops",1,False,0,0
+40.0,"MIN",0,"Qhoterl Pasol","Splendid Ant Egg",3,False,0,0
+40.1,"BTN",0,"Qhoterl Pasol","Splendid Silkworm",3,False,0,0
+40.2,"FSH",0,"Qhoterl Pasol","Splendid Robber Crab",1,False,0,0
+41.0,"MIN",0,"Qhoterl Pasol","Splendid Scorpion",3,False,0,0
+41.1,"BTN",0,"Qhoterl Pasol","Splendid Wild Berries",3,False,0,0
+41.2,"FSH",0,"Qhoterl Pasol","Splendid Piranha",1,False,0,0
+42.0,"MIN",0,"Qhoterl Pasol","Splendid Amber",3,False,0,0
+42.1,"BTN",0,"Qhoterl Pasol","Splendid Lavender",3,False,0,0
+42.2,"FSH",0,"Qhoterl Pasol","Splendid Pirarucu",1,False,0,0
+43.0,"MIN",0,"Qhoterl Pasol","Splendid Chalcanthite",3,False,0,0
+43.1,"BTN",0,"Qhoterl Pasol","Splendid Tarantula",3,False,0,0
+43.2,"FSH",0,"Qhoterl Pasol","Splendid Poison Catfish",1,False,0,0
+44.0,"MIN",0,"Qhoterl Pasol","Splendid Mineral Oil",3,False,0,0
+44.1,"BTN",0,"Qhoterl Pasol","Splendid Greenwattle",3,False,0,0
+44.2,"FSH",0,"Qhoterl Pasol","Splendid Pondfrond",1,False,0,0
+45.0,"MIN",0,"Qhoterl Pasol","Splendid Purple Pigment",3,False,0,0
+45.1,"BTN",0,"Qhoterl Pasol","Splendid Turmeric",3,False,0,0
+45.2,"FSH",0,"Qhoterl Pasol","Splendid Spiralshell",1,False,0,0
+46.0,"MIN",0,"Qhoterl Pasol","Splendid Natron",3,False,0,0
+46.1,"BTN",0,"Qhoterl Pasol","Splendid Marimo",3,False,0,0
+46.2,"FSH",0,"Qhoterl Pasol","Splendid Sponge",1,False,0,0
+47.0,"MIN",0,"Qhoterl Pasol","Splendid Clay",3,False,0,0
+47.1,"BTN",0,"Qhoterl Pasol","Splendid Trillium",3,False,0,0
+47.2,"FSH",0,"Qhoterl Pasol","Splendid Cockle",1,False,0,0
+48.0,"MIN",0,"Qhoterl Pasol","Splendid Graphite",3,False,0,0
+48.1,"BTN",0,"Qhoterl Pasol","Splendid Tarichuk Feather",3,False,0,0
+48.2,"FSH",0,"Qhoterl Pasol","Splendid Silver Kitten",1,False,0,0
+49.0,"MIN",0,"Qhoterl Pasol","Splendid Rock Salt",3,False,0,0
+49.1,"BTN",0,"Qhoterl Pasol","Splendid Tree Bark",3,False,0,0
+49.2,"FSH",0,"Qhoterl Pasol","Splendid Night's Bass",1,False,0,0
+50.0,"MIN",0,"Qhoterl Pasol","Splendid Saltpeter",3,False,0,0
+50.1,"BTN",0,"Qhoterl Pasol","Splendid Mugwort",3,False,0,0
+50.2,"FSH",0,"Qhoterl Pasol","Splendid Magmatongue",1,False,0,0
+51.0,"MIN",0,"Qhoterl Pasol","Splendid Holey Stone",3,False,0,0
+51.1,"BTN",0,"Qhoterl Pasol","Splendid Stalk",3,False,0,0
+51.2,"FSH",0,"Qhoterl Pasol","Splendid Treescale",1,False,0,0
+52.0,"MIN",0,"Qhoterl Pasol","Splendid Gravel",3,False,0,0
+52.1,"BTN",0,"Qhoterl Pasol","Splendid Broombush",3,False,0,0
+52.2,"FSH",0,"Qhoterl Pasol","Splendid Pipira",1,False,0,0
+53.0,"MIN",0,"Qhoterl Pasol","Splendid Stone",3,False,0,0
+53.1,"BTN",0,"Qhoterl Pasol","Splendid Nut",3,False,0,0
+53.2,"FSH",0,"Qhoterl Pasol","Splendid Shellfish",1,False,0,0
+54.0,"MIN",0,"Qhoterl Pasol","Splendid Worm",3,False,0,0
+54.1,"BTN",0,"Qhoterl Pasol","Splendid Beehive Chip",3,False,0,0
+54.2,"FSH",0,"Qhoterl Pasol","Splendid Egg-bearing Trout",1,False,0,0
+55.0,"MIN",0,"Qhoterl Pasol","Splendid Dense Iron Ore",3,False,0,0
+55.1,"BTN",0,"Qhoterl Pasol","Splendid Roots",3,False,0,0
+55.2,"FSH",0,"Qhoterl Pasol","Splendid Diamondtongue",1,False,0,0
+56.0,"MIN",0,"Qhoterl Pasol","Splendid Bone Fragment",3,False,0,0
+56.1,"BTN",0,"Qhoterl Pasol","Splendid Earthworm",3,False,0,0
+56.2,"FSH",0,"Qhoterl Pasol","Splendid Larva",1,False,0,0
+57.0,"MIN",0,"Qhoterl Pasol","Splendid Black Rock",3,False,0,0
+57.1,"BTN",0,"Qhoterl Pasol","Splendid Hemp",3,False,0,0
+57.2,"FSH",0,"Qhoterl Pasol","Splendid Mammoth Shellfish",1,False,0,0
+58.0,"MIN",0,"N-7000","Wild Liverwort",3,False,0,0
+58.1,"BTN",0,"N-7000","Prime Alien Onion",3,False,0,0
+58.2,"FSH",0,"N-7000","Soggy Alien Kelp",1,False,0,0
+59.0,"MIN",0,"N-7000","Star Sea Salt",3,False,0,0
+59.1,"BTN",0,"N-7000","Dragonseye Beans",3,False,0,0
+59.2,"FSH",0,"N-7000","Stellar Herring",1,False,0,0
+60.0,"MIN",0,"N-7000","Stellar Magnesium",3,False,0,0
+60.1,"BTN",0,"N-7000","Stellar Cumin",3,False,0,0
+60.2,"FSH",0,"N-7000","Meteoric Bonito",1,False,0,0
+61.0,"MIN",0,"N-7000","Pure Green Quartz",3,False,0,0
+61.1,"BTN",0,"N-7000","Sohm Al Bloom",3,False,0,0
+61.2,"FSH",0,"N-7000","Copperscale",1,False,0,0
+62.0,"MIN",0,"Jammingway","Methane Egg",3,False,0,0
+62.1,"BTN",0,"Jammingway","Methane Blossom",3,False,0,0
+62.2,"FSH",0,"Jammingway","Methane Puffer",1,False,0,0
+63.0,"MIN",0,"Karellian quartermaster","Trona Ore",3,False,0,0
+63.1,"BTN",0,"Karellian quartermaster","Celestial Grain",3,False,0,0
+63.2,"FSH",0,"Karellian quartermaster","Chemically Rich Fish",1,False,0,0
+64.0,"MIN",0,"Stigma-4","Mineral Sample",3,False,0,0
+64.1,"BTN",0,"Stigma-4","Plant Life Sample",3,False,0,0
+64.2,"FSH",0,"Stigma-4","Wildlife Sample",1,False,0,0
+65.0,"MIN",0,"Stigma-4","Nutrient-rich Ore",3,False,0,0
+65.1,"BTN",0,"Stigma-4","Withered Grass",3,False,0,0
+65.2,"FSH",0,"Stigma-4","Nondescript Fish",1,False,0,0
+66.0,"MIN",0,"food processing unit","Clear Rock Salt",3,False,0,0
+66.1,"BTN",0,"food processing unit","Sweet Nectar",3,False,0,0
+66.2,"FSH",0,"food processing unit","Fresh Seaweed",1,False,0,0
+67.0,"MIN",0,"analysis unit","Limestone Coral",3,False,0,0
+67.1,"BTN",0,"analysis unit","Elysian Cucumber",3,False,0,0
+67.2,"FSH",0,"analysis unit","Elysian Nudibranch",1,False,0,0
+68.0,"MIN",0,"Stigma-4","Weighted Agalmatolite",3,False,0,0
+68.1,"BTN",0,"Stigma-4","Fragrant Greens",3,False,0,0
+68.2,"FSH",0,"Stigma-4","Sticky Fingers",1,False,0,0
+69.0,"MIN",0,"all-purpose service unit","Bryophyte",3,False,0,0
+69.1,"BTN",0,"all-purpose service unit","Elysian Seaweed",3,False,0,0
+69.2,"FSH",0,"all-purpose service unit","Elysian Stickleback",1,False,0,0
+70.0,"MIN",0,"food processing unit","Elysian Rock Salt",3,False,0,0
+70.1,"BTN",0,"food processing unit","Elysian Kelp",3,False,0,0
+70.2,"FSH",0,"food processing unit","Saltwater Fish",1,False,0,0
+71.0,"MIN",0,"alimentary survey unit","Diatom Cluster",3,False,0,0
+71.1,"BTN",0,"alimentary survey unit","Rock Moss",3,False,0,0
+71.2,"FSH",0,"alimentary survey unit","Seaweed Snapper",1,False,0,0
+72.0,"MIN",0,"intrigued Ea","Karellian Black Salt",3,False,0,0
+72.1,"BTN",0,"intrigued Ea","Karellian Prismatic Wheat",3,False,0,0
+72.2,"FSH",0,"intrigued Ea","Karellian Fishy Fish",1,False,0,0
+73.0,"MIN",0,"aberrant savor-seeking unit","Salt-like Rock",3,False,0,0
+73.1,"BTN",0,"aberrant savor-seeking unit","Puantplant",3,False,0,0
+73.2,"FSH",0,"aberrant savor-seeking unit","Paraichthyoid",1,False,0,0
+74.0,"MIN",0,"expectant Ea","Supremest Space Oyster",3,False,0,0
+74.1,"BTN",0,"expectant Ea","Supremest Kelp",3,False,0,0
+74.2,"FSH",0,"expectant Ea","Supremest Crustacean",1,False,0,0
+75.0,"MIN",0,"food processing unit","Mashable Worm",3,False,0,0
+75.1,"BTN",0,"food processing unit","Softmoss",3,False,0,0
+75.2,"FSH",0,"food processing unit","Babycray",1,False,0,0
+76.0,"MIN",0,"nurturing nanny","Pillowy Cosmoclay",3,False,0,0
+76.1,"BTN",0,"nurturing nanny","Supple Cosmowood",3,False,0,0
+76.2,"FSH",0,"nurturing nanny","Silky Cosmocoral",1,False,0,0
+77.0,"MIN",0,"advanced environmental stimulation unit","Bioluminescent Rock Moss",3,False,0,0
+77.1,"BTN",0,"advanced environmental stimulation unit","Lucent Flower",3,False,0,0
+77.2,"FSH",0,"advanced environmental stimulation unit","Chromatic Fish",1,False,0,0
+78.0,"MIN",0,"advanced culinary research unit","Delectable Worm",3,False,0,0
+78.1,"BTN",0,"advanced culinary research unit","True Dragon Fruit",3,False,0,0
+78.2,"FSH",0,"advanced culinary research unit","Dragon's Delight",1,False,0,0
+79.0,"MIN",0,"wistful dragon","Monumental Whetstone",3,False,0,0
+79.1,"BTN",0,"wistful dragon","Cotton-like Plant",3,False,0,0
+79.2,"FSH",0,"wistful dragon","Astral Algae",1,False,0,0
+80.0,"MIN",0,"soil purification unit","Metalsand",3,False,0,0
+80.1,"BTN",0,"soil purification unit","Elysian Herb",3,False,0,0
+80.2,"FSH",0,"soil purification unit","Weird Fish",1,False,0,0
+81.0,"MIN",0,"advanced dental polishing unit","Porous Stone",3,False,0,0
+81.1,"BTN",0,"advanced dental polishing unit","Fibrous Kelp",3,False,0,0
+81.2,"FSH",0,"advanced dental polishing unit","Cosmic Sponge",1,False,0,0

@@ -736,8 +736,24 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint32,bit&02,uint32,byte,
 732,"Sublime Chloroschist","GatheringItemLevelConvertTable#620",True,,0,False,0,5,68
 733,"Prime Haritaki","GatheringItemLevelConvertTable#620",True,,0,False,734,5,67
 734,"Sublime Haritaki","GatheringItemLevelConvertTable#620",True,,0,False,0,5,69
-735,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-736,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+735,"Prime Fossilized Dragon's Scale","GatheringItemLevelConvertTable#640",True,,0,False,736,5,79
+736,"Sublime Fossilized Dragon's Scale","GatheringItemLevelConvertTable#640",True,,0,False,0,5,81
+737,"Prime Kukuru Beans","GatheringItemLevelConvertTable#640",True,,0,False,738,5,80
+738,"Sublime Kukuru Beans","GatheringItemLevelConvertTable#640",True,,0,False,0,5,82
+739,"Cushion Care Package Materials","GatheringItemLevelConvertTable#495",True,,0,False,0,3,46
+740,"Feline Fascinators","GatheringItemLevelConvertTable#500",True,,0,False,0,3,47
+741,"Mesmerizing Miniature Materials","GatheringItemLevelConvertTable#510",True,,0,False,0,3,48
+742,"Energizing Eye-lixir Materials","GatheringItemLevelConvertTable#527",True,,0,False,0,3,49
+743,"Researcher's Relaxation Kit Materials","GatheringItemLevelConvertTable#540",True,,0,False,0,3,50
+744,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+745,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+746,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+747,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+748,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+749,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+750,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+751,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+752,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
 10000,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
 10001,"treant acorn","GatheringItemLevelConvertTable#4",False,,0,False,0,0,65535
 10002,"throbbing maple log","GatheringItemLevelConvertTable#1",False,,0,False,0,0,65535
@@ -1579,10 +1595,10 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint32,bit&02,uint32,byte,
 10838,"Connoisseur's Levin Mint","GatheringItemLevelConvertTable#590",True,,0,False,0,1,161
 10839,"Adaptive Lightning Crystal","GatheringItemLevelConvertTable#590",True,,0,True,0,0,65535
 10840,"Timeworn Ophiotauroskin Map","GatheringItemLevelConvertTable#560",False,,0,False,0,0,65535
-10841,"Connoisseur's Soiled Femur","GatheringItemLevelConvertTable#620",True,,0,False,0,1,168
-10842,"Custom Ice Crystal","GatheringItemLevelConvertTable#620",True,,0,True,0,0,65535
-10843,"Connoisseur's Miracle Apple","GatheringItemLevelConvertTable#620",True,,0,False,0,1,168
-10844,"Custom Wind Crystal","GatheringItemLevelConvertTable#620",True,,0,True,0,0,65535
+10841,"Connoisseur's Soiled Femur","GatheringItemLevelConvertTable#615",True,,0,False,0,1,168
+10842,"Custom Ice Crystal","GatheringItemLevelConvertTable#615",True,,0,True,0,0,65535
+10843,"Connoisseur's Miracle Apple","GatheringItemLevelConvertTable#615",True,,0,False,0,1,168
+10844,"Custom Wind Crystal","GatheringItemLevelConvertTable#615",True,,0,True,0,0,65535
 10845,"Connoisseur's Aurum Regis Ore","GatheringItemLevelConvertTable#620",True,,0,False,0,1,169
 10846,"Brilliant Lightning Cluster","GatheringItemLevelConvertTable#620",True,,0,True,0,0,65535
 10847,"Connoisseur's Cloves","GatheringItemLevelConvertTable#620",True,,0,False,0,1,169

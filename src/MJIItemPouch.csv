@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3
-#,Item,Category,Crop,
+#,Item,Category,Crop,Sort
 int32,Item,MJIItemCategory,MJICropSeed,byte
 0,"Island Palm Leaf","Material","",1
 1,"Island Apple","Material","",11
@@ -93,3 +93,20 @@ int32,Item,MJIItemCategory,MJICropSeed,byte
 89,"Island Beet","Produce","",163
 90,"Island Eggplant","Produce","",164
 91,"Island Zucchini","Produce","",165
+92,"Island Durium Sand","Material","",40
+93,"Island Yellow Copper Ore","Material","",41
+94,"Island Gold Ore","Material","",42
+95,"Island Hawk's Eye Sand","Material","",43
+96,"Island Crystal Formation","Material","",44
+97,"Island Watermelon Seeds","Gardening Starter","Island Watermelon",136
+98,"Island Sweet Popoto Set","Gardening Starter","Island Sweet Popoto",137
+99,"Island Broccoli Seeds","Gardening Starter","Island Broccoli",138
+100,"Island Buffalo Bean Seeds","Gardening Starter","Island Buffalo Beans",139
+101,"Island Watermelon","Produce","",166
+102,"Island Sweet Popoto","Produce","",167
+103,"Island Broccoli","Produce","",168
+104,"Island Buffalo Beans","Produce","",169
+105,"Flawless Net","Restraint","",215
+106,"Flawless Restraints","Restraint","",216
+107,"Flawless Soporifics","Restraint","",217
+108,"Felicitous Token","●手形","",255

@@ -42,3 +42,5 @@ int32,str,str,str,ClassJobCategory,sbyte,sbyte,byte,byte,sbyte,uint16,uint16,uin
 38,"dancer","DNC","踊","Disciple of War",27,16,27,18,-1,105,100,90,100,115,85,80,100,100,100,100,100,100,100,17,22,0,"dancer","Dancer","",0,3,"Nowheresville",,2,"Big Shot","Desperado","Crimson Lotus",34,"Soul of the Dancer","Shall We Dance",,,60,4,4,False,False
 39,"reaper","RPR","リ","Disciple of War",28,17,28,19,-1,115,100,115,105,100,80,40,100,100,100,100,100,100,100,18,23,0,"reaper","Reaper","",0,2,"Nowheresville",,1,"Braver","Bladedance","the End",28,"Soul of the Reaper","The Killer Instinct",,,70,3,3,False,False
 40,"sage","SGE","賢","Disciple of Magic",29,18,29,20,-1,105,100,60,100,100,115,115,100,100,100,100,100,100,100,19,24,0,"sage","Sage","",0,4,"Nowheresville",,5,"Healing Wind","Breath of the Earth","Techne Makre",15,"Soul of the Sage","Sage's Path",,,70,2,6,False,False
+41,"","","","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"adventurer","","",0,0,"Nowheresville",,0,"","","",0,"",,,,0,0,0,False,False
+42,"","","","",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"adventurer","","",0,0,"Nowheresville",,0,"","","",0,"",,,,0,0,0,False,False

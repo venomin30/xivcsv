@@ -1808,6 +1808,16 @@ Each arena comes equipped with medicine kits. Accessing these kits will restore 
 Medicine kits cannot be claimed by those whose HP is at 100%, and each can only be claimed by one player. Once a kit has been claimed, a replacement will be generated after a set period of time has passed.","ui/icon/086000/086169.tex","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■Sprint Zones■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 Certain stages feature unique paths suited to running. Entering these “sprint zones” will grant the effect of Swift Sprint, greatly increasing player movement speed.","ui/icon/086000/086170.tex","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■Jump Glyphs■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 Stepping on a jump glyph will rapidly transport you to a specific location on the field.","ui/icon/086000/086171.tex","",,"",,"",,"",,"",,"",,"",,0
+63.5,0,,0,"Configuration Settings",,"Crystalline Conflict settings can be adjusted via the Character Configuration menu. Open UI Settings, navigate to the HUD tab, and select or deselect options under the Crystalline Conflict (PvP) heading to best suit your style of play.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■Progress Gauge■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Enabling “Display affiliated team on left side of Progress Gauge.” will configure the Progress Gauge to always display your current team─Astra or Umbra─on the left. Changes to this setting made during a match will be reflected upon commencement of the next match.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■Map■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Enabling “Display affiliated team on left side of map.” will configure the map to always display your current team's base on the left. Changes to this setting made during a match will be reflected upon commencement of the next match.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■Countdown■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Select “Display final countdown.” to show a countdown timer for the final ten seconds of the match.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
 64.0,0,,0,"The Palaistra",,"Inspired by the iconic architecture of the Northern Empty, this glamour-woven arena features no specialized gimmicks─so there can be no doubt that to the superior team goes the glory.","ui/icon/086000/086172.tex","",,"",,"",,"",,"",,"",,"",,"",,"",,0
 64.1,0,,0,"The Volcanic Heart",,"This staging ground lies at the foot of a volcano no less volatile for its artificial nature. If you can't take the heat, abandon all hope of victory.","ui/icon/086000/086173.tex","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■Eruptions■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 The Volcanic Heart periodically erupts, scattering self-destructing bombs across the field. Those who fail to avoid their explosive radii will take damage.","ui/icon/086000/086174.tex","Bomb cores will remain at the site of bombs' destruction, granting those who acquire them the following:
@@ -1829,6 +1839,7 @@ While the clockwork yojimbo will obliterate its surroundings with strong physica
 　・Decreased damage dealt and movement speed
 　・Increased damage taken","ui/icon/086000/086193.tex","During the midst of the parade, infamous soy sauce mogul Kageyama will make his grand appearance upon a stage outside the arena, and shower combatants with glimmering coin. Players who get their hands on a pile of gold will enjoy the following effect:
 　・A boost to the limit gauge","ui/icon/086000/086194.tex","",,"",,"",,"",,"",,0
+64.4,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
 65.0,0,,0,"Developing Your Island",,"Island Sanctuary allows you to create your own personal paradise amidst the natural beauty of the Cieldalaes.","ui/icon/086000/086179.tex","Island endeavors are primarily solo experiences, and can be enjoyed at your own pace.
 
 Once you have taken steps to ready your island for visitors, you may invite friends, party members, and members of your free company to spend time in your sanctuary.
@@ -1905,6 +1916,9 @@ Landmarks are constructed in the same way as other facilities.
 
 ■Moving a Landmark
 Landmarks may be moved to a different location in the same way as other facilities. However, they are restricted to specific plots of land.
+
+■Rotating a Landmark
+Landmarks may be rotated in 90 degree increments.
 
 ■Landmark Reconstruction
 A constructed landmark may be replaced with a different landmark by accessing its logboard and selecting “Reconstruct landmark.”",,"Landmark reconstruction does not take any time to complete and will be reflected immediately.",,"",,"",,"",,"",,"",,"",,"",,"",,1042
@@ -2557,3 +2571,20 @@ To create a portrait, open Character from the main menu, and select Portraits. Y
 One portrait can be saved to each gear set. The portrait linked to your currently equipped gear set will be displayed as your instant portrait.
 
 For more information on how to edit your portraits, press the <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>? button<UIGlow>01</UIGlow><UIForeground>01</UIForeground> found at the bottom of the Portraits interface to access the corresponding guide.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+107.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+107.1,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+108.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+108.1,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+109.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+109.1,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+109.2,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+109.3,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+109.4,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+110.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+110.1,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+110.2,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+110.3,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+110.4,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+111.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+111.1,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+111.2,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0

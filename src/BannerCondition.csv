@@ -15,7 +15,7 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 11,5,"Victory",,,,,,2,"A Spectacle for the Ages",,,1,"Choices","Obtained from Heavensward main scenario quest progression.",False
 12,5,"Haurchefant",,,,,,2,"The Burdens We Bear",,,1,"The Triumphs We Share","Obtained from Heavensward sidequest progression.",False
 13,0,,,,,,,0,,,,0,,"",False
-14,0,,,,,,,0,,,,0,,"",False
+14,5,"Throw",,,,,,2,"Toss Fit Workout",,,0,,"",False
 15,5,"Spectacles",,,,,,2,"Letters from No One",,,1,"The Whipping Boy","Obtained from Heavensward sidequest progression.",False
 16,5,"Shush",,,,,,2,"Death Unto Dawn",,,1,"On Official Business","Obtained from Shadowbringers main scenario quest progression.",False
 17,5,"Step Dance",,,,,,2,"Good for What Ales You",,,1,"Good for What Ales You","Obtained from A Realm Reborn sidequest progression.",False
@@ -29,45 +29,45 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 25,5,"Hum",,,,,,2,"The Fire-bird Down Below",,,1,"Tortoise in Time","Obtained from Stormblood sidequest progression.",False
 26,5,"Manderville Mambo",,,,,,2,"Don't Do the Dewprism",,,1,"The Past Is Never Past","Obtained from Stormblood sidequest progression.",False
 27,5,"Box",,,,,,2,"Arenvald's Adventure",,,1,"Stormblood","Obtained from Stormblood main scenario quest progression.",False
-28,0,,,,,,,0,,,,0,,"",False
+28,5,"Embrace",,,,,,2,"The Ties That Bind",,,1,"The Scions of the Seventh Dawn","",True
 29,5,"Thavnairian Dance",,,,,,16,,,,1,"It Could Happen to You","Obtained from A Realm Reborn sidequest progression.",False
 30,5,"Gold Dance",,,,,,16,,,,1,"It Could Happen to You","Obtained from A Realm Reborn sidequest progression.",False
 31,5,"Bee's Knees",,,,,,16,,,,1,"It Could Happen to You","Obtained from A Realm Reborn sidequest progression.",False
 32,5,"Headache",,,,,,19,,,,1,"Blue Scream of Death","Obtained from blue mage quest progression.",False
-33,0,,,,,,,0,,,,0,,"",False
-34,0,,,,,,,0,,,,0,,"",False
-35,0,,,,,,,0,,,,0,,"",False
+33,5,"Tremble",,,,,,22,,,,1,"Stormblood","Obtained from Stormblood main scenario quest progression.",False
+34,5,"Winded",,,,,,22,,,,1,"Stormblood","Obtained from Stormblood main scenario quest progression.",False
+35,5,"Insist",,,,,,18,,,,1,"Towards the Firmament","Obtained from Heavensward sidequest progression.",False
 36,5,"Break Fast",,,,,,18,,,,1,"Towards the Firmament","Obtained from Heavensward sidequest progression.",False
 37,5,"Eat Rice Ball",,,,,,18,,,,1,"Towards the Firmament","Obtained from Heavensward sidequest progression.",False
 38,5,"Read",,,,,,18,,,,1,"Towards the Firmament","Obtained from Heavensward sidequest progression.",False
-39,0,,,,,,,0,,,,0,,"",False
+39,5,"High Five",,,,,,18,,,,1,"Towards the Firmament","Obtained from Heavensward sidequest progression.",False
 40,5,"Lean",,,,,,18,,,,1,"Towards the Firmament","Obtained from Heavensward sidequest progression.",False
 41,5,"Sweep Up",,,,,,18,,,,1,"Towards the Firmament","Obtained from Heavensward sidequest progression.",False
 42,5,"Aback",,,,,,16,,,,1,"It Could Happen to You","Obtained from A Realm Reborn sidequest progression.",False
 43,5,"Sweat",,,,,,20,,,,1,"Knocking on Heaven's Door","Obtained from Stormblood sidequest progression.",False
-44,0,,,,,,,0,,,,0,,"",False
+44,5,"Guard",,,,,,23,,,,1,"Where Eagles Nest","Obtained from Shadowbringers sidequest progression.",False
 45,5,"Malevolence",,,,,,23,,,,1,"Where Eagles Nest","Obtained from Shadowbringers sidequest progression.",False
-46,0,,,,,,,0,,,,0,,"",False
+46,5,"Eastern Greeting",,,,,,12,"Ballroom Etiquette - Exotic Greetings",,,0,,"",False
 47,0,,,,,,,0,,,,0,,"",False
 48,5,"Huzzah",,,,,,6,"Ballroom Etiquette - The Last Huzzah",,,0,,"",False
 49,5,"Eureka",,,,,,6,"Ballroom Etiquette - Intellectual Diversions",,,0,,"",False
-50,0,,,,,,,0,,,,0,,"",False
+50,5,"Senor Sabotender",,,,,,6,"Ballroom Etiquette - Positively Prickly",,,0,,"",False
 51,0,,,,,,,0,,,,0,,"",False
 52,0,,,,,,,0,,,,0,,"",False
 53,0,,,,,,,0,,,,0,,"",False
 54,0,,,,,,,0,,,,0,,"",False
 55,0,,,,,,,0,,,,0,,"",False
-56,0,,,,,,,0,,,,0,,"",False
-57,0,,,,,,,0,,,,0,,"",False
-58,0,,,,,,,0,,,,0,,"",False
+56,5,"Backflip",,,,,,12,"Ballroom Etiquette - Improper Celebration",,,0,,"",False
+57,5,"Eastern Stretch",,,,,,12,"Ballroom Etiquette - Exotic Exercises",,,0,,"",False
+58,5,"Pretty Please",,,,,,12,"Ballroom Etiquette - Better Dead than Underbred",,,0,,"",False
 59,0,,,,,,,0,,,,0,,"",False
-60,0,,,,,,,0,,,,0,,"",False
+60,5,"Crimson Lotus",,,,,,12,"Ballroom Etiquette - Secrets of the Fist",,,0,,"",False
 61,0,,,,,,,0,,,,0,,"",False
-62,0,,,,,,,0,,,,0,,"",False
+62,5,"Eat Egg",,,,,,6,"Ballroom Etiquette - An Egg a Day",,,0,,"",False
 63,0,,,,,,,0,,,,0,,"",False
 64,5,"Consider",,,,,,6,"Ballroom Etiquette - Reproachful Rumination",,,0,,"",False
 65,0,,,,,,,0,,,,0,,"",False
-66,0,,,,,,,0,,,,0,,"",False
+66,5,"Bomb Dance",,,,,,6,"Ballroom Etiquette - The Bomb Dance",,,0,,"",False
 67,5,"Red Ranger Pose A",,,,,,6,"Ballroom Etiquette - The Red Ranger",,,0,,"",False
 68,5,"Red Ranger Pose B",,,,,,6,"Ballroom Etiquette - The Red Ranger",,,0,,"",False
 69,5,"Black Ranger Pose A",,,,,,6,"Ballroom Etiquette - The Black Ranger",,,0,,"",False
@@ -79,14 +79,14 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 75,0,,,,,,,0,,,,0,,"",False
 76,0,,,,,,,0,,,,0,,"",False
 77,0,,,,,,,0,,,,0,,"",False
-78,0,,,,,,,0,,,,0,,"",False
-79,0,,,,,,,0,,,,0,,"",False
-80,0,,,,,,,0,,,,0,,"",False
-81,0,,,,,,,0,,,,0,,"",False
+78,5,"Box Step",,,,,,12,"Ballroom Etiquette - The Box Step",,,0,,"",False
+79,5,"Side Step",,,,,,12,"Ballroom Etiquette - The Side Step",,,0,,"",False
+80,5,"Get Fantasy",,,,,,12,"Ballroom Etiquette - Get Fantasy",,,0,,"",False
+81,5,"Popoto Step",,,,,,12,"Ballroom Etiquette - The Popoto Step",,,0,,"",False
 82,0,,,,,,,0,,,,0,,"",False
 83,0,,,,,,,0,,,,0,,"",False
 84,0,,,,,,,0,,,,0,,"",False
-85,0,,,,,,,0,,,,0,,"",False
+85,5,"Flame Dance",,,,,,6,"Ballroom Etiquette - The Flame Dance",,,0,,"",False
 86,0,,,,,,,0,,,,0,,"",False
 87,0,,,,,,,0,,,,0,,"",False
 88,0,,,,,,,0,,,,0,,"",False
@@ -96,14 +96,14 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 92,0,,,,,,,0,,,,0,,"",False
 93,0,,,,,,,0,,,,0,,"",False
 94,0,,,,,,,0,,,,0,,"",False
-95,0,,,,,,,0,,,,0,,"",False
+95,5,"Fist Pump",,,,,,7,"Ballroom Etiquette - Overzealous Affirmations",,,0,,"",False
 96,5,"Shiver",,,,,,7,"Ballroom Etiquette - Insufficient Petticoats",,,0,,"",False
-97,0,,,,,,,0,,,,0,,"",False
+97,5,"Scheme",,,,,,7,"Ballroom Etiquette - Ideal Gossip",,,0,,"",False
 98,0,,,,,,,0,,,,0,,"",False
 99,0,,,,,,,0,,,,0,,"",False
 100,0,,,,,,,0,,,,0,,"",False
 101,0,,,,,,,0,,,,0,,"",False
-102,0,,,,,,,0,,,,0,,"",False
+102,5,"Confirm",,,,,,7,"Ballroom Etiquette - Scholarly Certitude",,,0,,"",False
 103,5,"Eat Apple",,,,,,7,"Ballroom Etiquette - Apples with Aplomb",,,1,"Towards the Firmament","Obtained from Heavensward sidequest progression.",False
 104,5,"Wring Hands",,,,,,7,"Ballroom Etiquette - Good Will Seeking",,,0,,"",False
 105,0,,,,,,,0,,,,0,,"",False
@@ -113,11 +113,11 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 109,0,,,,,,,0,,,,0,,"",False
 110,0,,,,,,,0,,,,0,,"",False
 111,0,,,,,,,0,,,,0,,"",False
-112,0,,,,,,,0,,,,0,,"",False
-113,0,,,,,,,0,,,,0,,"",False
-114,0,,,,,,,0,,,,0,,"",False
-115,0,,,,,,,0,,,,0,,"",False
-116,0,,,,,,,0,,,,0,,"",False
+112,5,"Fist Bump",,,,,,8,"Ballroom Etiquette - Improper Greetings",,,0,,"",True
+113,5,"Squats",,,,,,11,"Dear Leader I",,,1,"Rising to the Challenge","Obtained from A Realm Reborn sidequest progression.",False
+114,5,"Push-ups",,,,,,11,"Dear Leader I",,,1,"Rising to the Challenge","Obtained from A Realm Reborn sidequest progression.",False
+115,5,"Sit-ups",,,,,,11,"Dear Leader I",,,1,"Rising to the Challenge","Obtained from A Realm Reborn sidequest progression.",False
+116,5,"Breath Control",,,,,,11,"Dear Leader I",,,1,"Rising to the Challenge","Obtained from A Realm Reborn sidequest progression.",False
 117,5,"Attention",,,,,,5,"Battlefield Etiquette - Attention",,,1,"A Hero in the Making","Obtained from Seventh Umbral Era main scenario quest progression.",False
 118,5,"At Ease",,,,,,5,"Battlefield Etiquette - At Ease",,,1,"A Hero in the Making","Obtained from Seventh Umbral Era main scenario quest progression.",False
 119,5,"Elucidate",,,,,,21,"ENpcBase#1005244","Level#4270098","Ballroom Etiquette - Stimulating Soliloquies",0,,"",False
@@ -342,8 +342,8 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 338,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
 339,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
 340,9,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
-341,9,,,,,,,14,,,,0,,"",False
-342,9,,,,,,,14,,,,0,,"",False
+341,9,,,,,,,14,,,,0,,"",True
+342,9,,,,,,,14,,,,0,,"",True
 343,9,,,,,,,24,,,,3,,"Obtained from Endwalker sidequest progression.",False
 344,9,,,,,,,17,,,,1," Life, the Universe, and Coffee Beans","Obtained from Endwalker tribal quest progression.",False
 345,5,"Spirit",,,,,,14,,,,0,,"",True
@@ -472,7 +472,7 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 468,9,,,,,,,25,,,,1,"Seeking Sanctuary","Obtained from Endwalker sidequest progression.",False
 469,9,,,,,,,25,,,,1,"Seeking Sanctuary","Obtained from Endwalker sidequest progression.",False
 470,5,"Ear Wiggle",,,,,,2," Dreams Come True",,,1," A Million Malms Away","Obtained from Endwalker tribal quest progression.",False
-471,5,"Hand to Heart",,,,,,14,,,,0,,"",False
+471,5,"Hand to Heart",,,,,,14,,,,0,,"",True
 472,6,"sponge silkie",,,,,,34,,,,3,,"Obtained from Endwalker sidequest progression.",False
 473,6,"Chewy",,,,,,7,"Chewy",,,0,,"",False
 474,6,"weatherproof gaelicat",,,,,,7,"Weatherproof Gaelicat",,,0,,"",False
@@ -494,7 +494,7 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 490,6,"wind-up Alpha",,,,,,2,"To Kweh under Distant Skies",,,1,"In the End, There Is Omega","Obtained from Stormblood sidequest progression.",False
 491,6,"wind-up Krile",,,,,,6,"Wind-up Krile",,,0,,"",False
 492,6,"wind-up Moenbryda",,,,,,2,"An Ending to Mark a New Beginning",,,1,"One Life for One World","Obtained from Heavensward main scenario quest progression.",False
-493,6,"wind-up gentleman",,,,,,2,"Her Last Vow",,,1,"Truths Untold","Obtained from Seventh Umbral Era main scenario quest progression.",False
+493,6,"wind-up gentleman",,,,,,2,"Her Last Vow",,,1,"Truths Untold","Obtained from A Realm Reborn sidequest progression.",False
 494,6,"wind-up Nanamo",,,,,,28,,,,0,,"",False
 495,6,"wind-up Haurchefant",,,,,,2,"As Goes Light, So Goes Darkness",,,1,"Against the Dying of the Light","Obtained from Heavensward main scenario quest progression.",False
 496,6,"wind-up Aymeric",,,,,,2,"Litany of Peace",,,1,"Heroes of the Hour","Obtained from Heavensward main scenario quest progression.",False
@@ -521,8 +521,8 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 517,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
 518,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
 519,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
-520,9,,,,,,,14,,,,0,,"",False
-521,9,,,,,,,14,,,,0,,"",False
+520,9,,,,,,,14,,,,0,,"",True
+521,9,,,,,,,14,,,,0,,"",True
 522,9,,,,,,,19,,,,1,"Blue Scream of Death","Obtained from blue mage quest progression.",False
 523,9,,,,,,,35,,,,0,,"",True
 524,9,,,,,,,17,,,,1," True-blue","Obtained from Stormblood tribal quest progression.",False
@@ -533,22 +533,92 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 529,9,,,,,,,36,,,,1,"All the Fish in the Sea","Obtained from A Realm Reborn sidequest progression.",False
 530,9,,,,,,,36,,,,1,"Way of the Fisher","Obtained from fisher quest progression.",False
 531,9,,,,,,,36,,,,1,"Every Little Thing She Does Is Mahjong","Obtained from A Realm Reborn sidequest progression.",False
-532,0,,,,,,,0,,,,0,,"",False
-533,0,,,,,,,0,,,,0,,"",False
-534,0,,,,,,,0,,,,0,,"",False
-535,0,,,,,,,0,,,,0,,"",False
-536,0,,,,,,,0,,,,0,,"",False
-537,0,,,,,,,0,,,,0,,"",False
-538,0,,,,,,,0,,,,0,,"",False
-539,0,,,,,,,0,,,,0,,"",False
-540,0,,,,,,,0,,,,0,,"",False
-541,0,,,,,,,0,,,,0,,"",False
-542,0,,,,,,,0,,,,0,,"",False
-543,0,,,,,,,0,,,,0,,"",False
-544,0,,,,,,,0,,,,0,,"",False
-545,0,,,,,,,0,,,,0,,"",False
-546,0,,,,,,,0,,,,0,,"",False
-547,0,,,,,,,0,,,,0,,"",False
-548,0,,,,,,,0,,,,0,,"",False
-549,0,,,,,,,0,,,,0,,"",False
-550,0,,,,,,,0,,,,0,,"",False
+532,5,"Reference",,,,,,24,,,,3,,"Obtained from Endwalker sidequest progression.",False
+533,5,"Slump",,,,,,14,,,,0,,"",False
+534,6,"private pachypodium",,,,,,7,"Private Pachypodium",,,0,,"",False
+535,6,"Shiromaru",,,,,,34,,,,4,,"Obtained from Endwalker sidequest progression.",False
+536,6,"Kuromaru",,,,,,34,,,,4,,"Obtained from Endwalker sidequest progression.",False
+537,6,"private moai",,,,,,7,"Private Moai",,,0,,"",False
+538,6,"wind-up Azeyma",,,,,,32,,,,4,,"Obtained by completing the relevant alliance raid from Endwalker.",False
+539,6,"wind-up Halone",,,,,,32,,,,4,,"Obtained by completing the relevant alliance raid from Endwalker.",False
+540,6,"wind-up Oschon",,,,,,32,,,,4,,"Obtained by completing the relevant alliance raid from Endwalker.",False
+541,6,"gravel golem",,,,,,7,"Gravel Golem",,,0,,"",False
+542,6,"mummy's little mummy",,,,,,31,,,,4,"the Sunken Temple of Qarn (Hard)","Obtained by clearing the relevant dungeon from A Realm Reborn.",False
+543,6,"Fenrir pup",,,,,,7,"Fenrir Pup",,,0,,"",False
+544,6,"little leannan",,,,,,31,,,,4,"the <Emphasis>Whorleater</Emphasis> (Extreme)","Obtained by clearing the relevant dungeon from Shadowbringers.",False
+545,6,"dwarf rabbit",,,,,,7,"Dwarf Rabbit",,,0,,"",False
+546,6,"meerkat",,,,,,7,"Meerkat",,,0,,"",False
+547,6,"assassin fry",,,,,,7,"Assassin Fry",,,0,,"",False
+548,6,"owlet",,,,,,31,,,,4,"the Fractal Continuum","Obtained by clearing the relevant dungeon from Heavensward.",False
+549,6,"hunting hawk",,,,,,18,,,,1,"Towards the Firmament","Obtained from Heavensward sidequest progression.",False
+550,6,"blue-footed booby",,,,,,7,"Blue-footed Booby",,,0,,"",False
+551,6,"dress-up Y'shtola",,,,,,12,"Dress-up Y'shtola",,,0,,"",False
+552,6,"dress-up Thancred",,,,,,4,"Khloe Aliapoh","Level#6526530","Dress-up Thancred",1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
+553,6,"wind-up Louisoix",,,,,,11,"Out of a Bind I",,,3,,"Obtained from A Realm Reborn: Chronicles of a New Era quest progression.",False
+554,6,"dress-up Alisaie",,,,,,4,"Khloe Aliapoh","Level#6526530","Dress-up Alisaie",1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
+555,6,"wind-up Godbert",,,,,,6,"Wind-up Godbert",,,0,,"",True
+556,6,"wind-up Iceheart",,,,,,12,"Wind-up Iceheart",,,0,,"",False
+557,6,"wind-up Yugiri",,,,,,12,"Wind-up Yugiri",,,0,,"",False
+558,6,"wind-up Edda",,,,,,7,"Wind-up Edda",,,1,"The Nightmare's End","Obtained from Heavensward sidequest progression.",False
+559,6,"wind-up Zhloe",,,,,,4,"Khloe Aliapoh","Level#6526530","Wind-up Zhloe",1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
+560,6,"wind-up G'raha Tia",,,,,,2,"Shadowbringers",,,1,"A Greater Purpose","Obtained from Shadowbringers main scenario quest progression.",False
+561,6,"Midgardsormr",,,,,,2,"The Rising Chorus",,,1,"Best Laid Schemes","Obtained from Seventh Umbral Era main scenario quest progression.",False
+562,6,"wind-up Hraesvelgr",,,,,,12,"Wind-up Hraesvelgr",,,0,,"",False
+563,6,"wind-up Nidhogg",,,,,,12,"Wind-up Nidhogg",,,0,,"",False
+564,0,,,,,,,0,,,,0,,"",False
+565,0,,,,,,,0,,,,0,,"",False
+566,0,,,,,,,0,,,,0,,"",False
+567,9,,,,,,,17,,,,1,"The Nest of Honor","Obtained from Heavensward tribal quest progression.",False
+568,9,,,,,,,17,,,,1,"A Symbiotic Friendship","Obtained from Heavensward tribal quest progression.",False
+569,9,,,,,,,17,,,,1,"The Zenith of Craftsmanship","Obtained from Heavensward tribal quest progression.",False
+570,9,,,,,,,4,"Khloe Aliapoh","Level#6526530","Wondrous Whimsy Framer's Kit",1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
+571,9,,,,,,,26,,,,1,"Fantastic Mr. Faux","Obtained from Shadowbringers sidequest progression.",False
+572,9,,,,,,,2,"Embraced by Gods",,,1,"The Heart of the Myth","Obtained from Endwalker: Chronicles of a New Era quest progression.",False
+573,9,,,,,,,2,"",,,1,"","Obtained from Endwalker sidequest progression.",False
+574,0,,,,,,,0,,,,0,,"",False
+575,0,,,,,,,0,,,,0,,"",False
+576,0,,,,,,,0,,,,0,,"",False
+577,0,,,,,,,0,,,,0,,"",False
+578,9,,,,,,,14,,,,0,,"",False
+579,9,,,,,,,14,,,,0,,"",False
+580,9,,,,,,,11,"Top Tier: Season Eight",,,0,,"",True
+581,11,,,,,,,11,"Crystal in the Rough: Season Eight",,,0,,"",True
+582,11,,,,,,,11,"Ranked and Filed: Season Eight",,,0,,"",True
+583,9,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+584,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+585,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+586,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+587,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+588,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+589,9,,,,,,,11,"Top Tier: Season Nine",,,0,,"",True
+590,11,,,,,,,11,"Crystal in the Rough: Season Nine",,,0,,"",True
+591,11,,,,,,,11,"Ranked and Filed: Season Nine",,,0,,"",True
+592,9,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+593,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+594,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+595,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+596,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+597,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+598,9,,,,,,,11,"Top Tier: Season Ten",,,0,,"",True
+599,11,,,,,,,11,"Crystal in the Rough: Season Ten",,,0,,"",True
+600,11,,,,,,,11,"Ranked and Filed: Season Ten",,,0,,"",True
+601,9,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+602,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+603,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+604,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+605,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+606,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
+607,0,,,,,,,0,,,,0,,"",False
+608,0,,,,,,,0,,,,0,,"",False
+609,0,,,,,,,0,,,,0,,"",False
+610,0,,,,,,,0,,,,0,,"",False
+611,0,,,,,,,0,,,,0,,"",False
+612,0,,,,,,,0,,,,0,,"",False
+613,0,,,,,,,0,,,,0,,"",False
+614,0,,,,,,,0,,,,0,,"",False
+615,0,,,,,,,0,,,,0,,"",False
+616,0,,,,,,,0,,,,0,,"",False
+617,0,,,,,,,0,,,,0,,"",False
+618,0,,,,,,,0,,,,0,,"",False
+619,0,,,,,,,0,,,,0,,"",False
+620,0,,,,,,,0,,,,0,,"",False
