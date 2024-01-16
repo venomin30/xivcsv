@@ -2590,15 +2590,47 @@ To create a portrait, open Character from the main menu, and select Portraits. Y
 One portrait can be saved to each gear set. The portrait linked to your currently equipped gear set will be displayed as your instant portrait.
 
 For more information on how to edit your portraits, press the <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>? button<UIGlow>01</UIGlow><UIForeground>01</UIForeground> found at the bottom of the Portraits interface to access the corresponding guide.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-107.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-107.1,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-108.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-108.1,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-109.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-109.1,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-109.2,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-109.3,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-109.4,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+107.0,0,,0,"Event Overview",,"The <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Moogle Treasure Trove<UIGlow>01</UIGlow><UIForeground>01</UIForeground> is a special event held at irregular intervals. Complete objectives during the event to obtain <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>irregular tomestones<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, which can be traded to <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>itinerant moogles<UIGlow>01</UIGlow><UIForeground>01</UIForeground> for a variety of rare items.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+107.1,0,,0,"Event Schedule",,"The Moogle Treasure Trove is held for a set duration, which can be viewed from the <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Mogpendium<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. From this menu, select <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Access Special Site<UIGlow>01</UIGlow><UIForeground>01</UIForeground> to view a detailed schedule.
+
+An icon will appear above itinerant moogles while the event is underway.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+108.0,0,,0,"Obtaining Tomestones",,"Irregular tomestones can be obtained by completing objectives during the Moogle Treasure Trove event, and can be exchanged for various rewards.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※The types of irregular tomestones available will change each time the event is held.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+108.1,0,,0,"Itinerant Moogles",,"Speak with itinerant moogles to exchange irregular tomestones for a variety of items.
+
+Itinerant moogles can be found near the aetheryte plaza in the following locations:
+
+Limsa Lominsa Lower Decks
+New Gridania
+Ul'dah - Steps of Nald",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+109.0,0,,0,"Categories",,"The objectives for the Moogle Treasure Trove can be confirmed from the Mogpendium.
+Objectives are divided into the following four categories:
+
+1. <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Standard objectives<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, which can be completed repeatedly.
+2. <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Weekly objectives<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, which can be completed once a week.
+3. <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Minimog challenges<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, which can be completed once a week.
+4. <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Ultimog challenges<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, which can only be completed once per event period.
+
+Non-repeatable objectives provide greater quantities of tomestones, so prioritize them to get the items you want.
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※Irregular tomestones will not be awarded when using adventurer squadrons or the Duty Support system.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※Irregular tomestone rewards are only available to unrestricted parties if the “Level Sync” option is applied.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+109.1,0,,0,"Standard Objectives",,"Standard objectives can be completed an unlimited number of times during the event period, and irregular tomestones are collected automatically when the objective is complete.
+
+Not every objective will give the same quantity of tomestones, so check the Mogpendium before choosing which to undertake.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+109.2,0,,0,"Weekly Objectives",,"A weekly objective is assigned to each player every week, and provides an opportunity to obtain a large number of tomestones.
+Tomestone rewards for weekly objectives can be collected from the Mogpendium.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※Tomestone rewards must be collected before they expire.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Objectives will change weekly, so make sure to complete them before time runs out.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+109.3,0,,0,"Minimog Challenges",,"Minimog challenges can be completed once per week, and their rewards can be collected from the Mogpendium.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※Players can complete either of the two available challenges per week.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※Tomestone rewards must be collected before they expire.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Challenges will change weekly, so make sure to complete them before time runs out.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+109.4,0,,0,"Ultimog Challenges",,"Ultimog challenges can only be completed once per event period, and their rewards can be collected from the Mogpendium.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※Tomestone rewards must be collected before they expire.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
 110.0,0,,0,"Overview",,"Blunderville is a battle royale mode where up to 24 players vie against each other in a set of obstacle courses. Complete each of the three stages before your rivals and fight for your right to the victor's crown.
 
 The longer you remain in the running, the more rewards you'll earn, so keep your eyes on the prize as you race to be the last one standing!",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0

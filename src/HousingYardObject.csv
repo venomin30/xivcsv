@@ -315,7 +315,10 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131397,304,17,0,0,0,,"Flower-wreathed Gazebo",False,False,True,0,0,0,False,True
 131399,306,17,0,0,0,,"Elpis Garden Fountain",False,False,True,5,0,0,False,True
 131400,307,17,0,0,47,,"Wildflower Bed",False,False,True,0,0,0,False,True
+131402,309,17,0,0,0,"CmnDefHousingObject_00141","Imitation Magitek Repair Station (Wall Unit)",False,False,True,0,0,0,False,True
+131403,310,17,0,0,0,,"Labyrinthos Grape Lamppost",False,False,True,0,0,0,False,True
 131406,269,17,0,0,0,,"Authentic Illuminated Tree",False,False,True,3,0,0,False,True
+131407,313,17,0,0,0,"CmnDefHousingObject_00141","Imitation Magitek Repair Station (Floor Unit)",False,False,True,0,0,0,False,True
 131408,314,17,0,0,0,,"South Seas Coelacanth Display",False,False,True,0,0,0,False,True
 131409,315,17,0,0,0,,"Sagely Sparrow Statue",False,False,True,0,0,0,False,True
 131410,316,17,0,0,0,,"Aloalo Island Palm",False,False,True,0,0,0,False,True

@@ -1070,7 +1070,7 @@ int32,FurnitureCatalogCategory,Item,uint16
 1066,"Miscellaneous","Hanging Lure Display",650
 1067,"Stuffed Toys/Figures","Abyssal Wings Display",650
 1068,"Miscellaneous","Crystarium Wall Canopy",650
-1069,"Tables","",0
+1069,"Miscellaneous","Nursery Canopy",650
 1070,"Miscellaneous","Ronkan Fireplace",650
 1071,"Miscellaneous","Magazine Display Rack",650
 1072,"Walls/Pillars/Partitions","Celestial Screen",650
@@ -1082,7 +1082,7 @@ int32,FurnitureCatalogCategory,Item,uint16
 1078,"Miscellaneous","Wood Slice Loft",650
 1079,"Lighting","Faerie Pendant Wall Light",650
 1080,"Walls/Pillars/Partitions","Portaled Partition",650
-1081,"Tables","",0
+1081,"Plants","Korpokkur Moss Ball",650
 1082,"Miscellaneous","Sealing Wax & Letter Set",650
 1083,"Tableware/Foods","Bubbly Mogfloat",650
 1084,"Rugs","Field of Hope Rug",650
@@ -1097,4 +1097,4 @@ int32,FurnitureCatalogCategory,Item,uint16
 1093,"Stuffed Toys/Figures","Forgotten Figure",650
 1094,"Miscellaneous","Aloalo Faerie Cushion",650
 1095,"Rugs","Alzadaal's Treasure Rug",650
-1096,"Tables","",0
+1096,"Miscellaneous","Hyper Hustle Trophy",650

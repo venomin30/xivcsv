@@ -250,9 +250,9 @@ int32,YardCatalogCategory,Item,uint16
 246,"Miscellaneous","Flower-wreathed Gazebo",650
 247,"Ponds/Fountains","Elpis Garden Fountain",650
 248,"Plants","Wildflower Bed",650
-249,"Plants","",0
-250,"Plants","",0
-251,"Plants","",0
+249,"Miscellaneous","Imitation Magitek Repair Station (Wall Unit)",650
+250,"Miscellaneous","Imitation Magitek Repair Station (Floor Unit)",650
+251,"Lighting","Labyrinthos Grape Lamppost",650
 252,"Miscellaneous","Minute Mindflayer Sprinkler",650
 253,"Miscellaneous","South Seas Coelacanth Display",650
 254,"Miscellaneous","Sagely Sparrow Statue",650

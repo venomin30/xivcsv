@@ -3224,3 +3224,4 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003472,"apocryphal horn",0,"apocryphal horns",0,1,1,0,0,False,"Apocryphal Horn","ui/icon/026000/026038.tex","Key Item",1,1,"Wings of Hope",0,"normal/item_start",0
 2003474,"turtle statue",0,"turtle statues",0,0,1,0,0,False,"Turtle Statue","ui/icon/025000/025919.tex","",1,1,,0,"normal/item_start",0
 2003475,"whale statue",0,"whale statues",0,0,1,0,0,False,"Whale Statue","ui/icon/025000/025919.tex","",1,1,,0,"normal/item_start",0
+2003476,"bundle of tropical attire",0,"bundles of tropical attire",0,0,1,0,0,False,"Tropical Attire","ui/icon/026000/026113.tex","",3,1,"Where Worries Melt Away",0,"normal/item_start",0

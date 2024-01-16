@@ -391,25 +391,25 @@ int32,ClassJobCategory,Item,Item,Item,Item,byte,byte,byte,byte,Item,Item,Item,It
 30.8,"MIN","Brilliant Pickaxe","","","",1,0,0,0,"Chora-Zoi's Crystalline Pickaxe","Brilliant Miner's Component","Brilliant Lightning Cluster","",1,210,210,0,False,False,False,False,True,False,False,True
 30.9,"BTN","Brilliant Hatchet","","","",1,0,0,0,"Chora-Zoi's Crystalline Hatchet","Brilliant Botanist's Component","Brilliant Earth Cluster","",1,210,210,0,False,False,False,False,True,False,False,True
 30.10,"FSH","Brilliant Fishing Rod","","","",1,0,0,0,"Chora-Zoi's Crystalline Fishing Rod","Brilliant Fishing Rod Component","Brilliant Fishing Reel Component","",1,80,80,0,False,False,False,False,True,False,False,True
-31.0,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-31.1,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-31.2,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-31.3,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-31.4,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-31.5,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-31.6,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-31.7,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-31.8,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-31.9,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-31.10,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-31.11,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-31.12,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-31.13,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-31.14,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-31.15,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-31.16,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-31.17,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
-31.18,"","","","","",0,0,0,0,"","","","",0,0,0,0,False,False,False,False,False,False,False,False
+31.0,"PLD","Mandervillous Falchion","Mandervillous Kite Shield","","",1,1,0,0,"Majestic Manderville Sword","Majestic Manderville Shield","","",1,1,0,0,False,False,False,False,True,True,True,True
+31.1,"MNK","Mandervillous Fists","","","",1,0,0,0,"Majestic Manderville Fists","","","",1,0,0,0,False,False,False,False,True,True,True,True
+31.2,"WAR","Mandervillous Battleaxe","","","",1,0,0,0,"Majestic Manderville Bardiche","","","",1,0,0,0,False,False,False,False,True,True,True,True
+31.3,"DRG","Mandervillous Trident","","","",1,0,0,0,"Majestic Manderville Spear","","","",1,0,0,0,False,False,False,False,True,True,True,True
+31.4,"BRD","Mandervillous Compound Bow","","","",1,0,0,0,"Majestic Manderville Harp Bow","","","",1,0,0,0,False,False,False,False,True,True,True,True
+31.5,"WHM","Mandervillous Cane","","","",1,0,0,0,"Majestic Manderville Wand","","","",1,0,0,0,False,False,False,False,True,True,True,True
+31.6,"BLM","Mandervillous Rod","","","",1,0,0,0,"Majestic Manderville Staff","","","",1,0,0,0,False,False,False,False,True,True,True,True
+31.7,"SMN","Mandervillous Index","","","",1,0,0,0,"Majestic Manderville Index","","","",1,0,0,0,False,False,False,False,True,True,True,True
+31.8,"SCH","Mandervillous Codex","","","",1,0,0,0,"Majestic Manderville Codex","","","",1,0,0,0,False,False,False,False,True,True,True,True
+31.9,"NIN","Mandervillous Knives","","","",1,0,0,0,"Majestic Manderville Knives","","","",1,0,0,0,False,False,False,False,True,True,True,True
+31.10,"DRK","Mandervillous Greatsword","","","",1,0,0,0,"Majestic Manderville Greatsword","","","",1,0,0,0,False,False,False,False,True,True,True,True
+31.11,"MCH","Mandervillous Revolver","","","",1,0,0,0,"Majestic Manderville Pistol","","","",1,0,0,0,False,False,False,False,True,True,True,True
+31.12,"AST","Mandervillous Torquetum","","","",1,0,0,0,"Majestic Manderville Orrery","","","",1,0,0,0,False,False,False,False,True,True,True,True
+31.13,"SAM","Mandervillous Samurai Blade","","","",1,0,0,0,"Majestic Manderville Samurai Blade","","","",1,0,0,0,False,False,False,False,True,True,True,True
+31.14,"RDM","Mandervillous Rapier","","","",1,0,0,0,"Majestic Manderville Degen","","","",1,0,0,0,False,False,False,False,True,True,True,True
+31.15,"GNB","Mandervillous Gunblade","","","",1,0,0,0,"Majestic Manderville Bayonet","","","",1,0,0,0,False,False,False,False,True,True,True,True
+31.16,"DNC","Mandervillous Chakrams","","","",1,0,0,0,"Majestic Manderville Chakrams","","","",1,0,0,0,False,False,False,False,True,True,True,True
+31.17,"RPR","Mandervillous Zaghnal","","","",1,0,0,0,"Majestic Manderville War Scythe","","","",1,0,0,0,False,False,False,False,True,True,True,True
+31.18,"SGE","Mandervillous Wings","","","",1,0,0,0,"Majestic Manderville Wings","","","",1,0,0,0,False,False,False,False,True,True,True,True
 32.0,"CRP","Vrandtic Visionary's Saw","","","",1,0,0,0,"Brilliant Saw","Inspirational Carpenter's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
 32.1,"BSM","Vrandtic Visionary's Cross-pein Hammer","","","",1,0,0,0,"Brilliant Cross-pein Hammer","Inspirational Blacksmith's Component","","",1,60,0,0,False,False,False,False,True,False,True,True
 32.2,"ARM","Vrandtic Visionary's Raising Hammer","","","",1,0,0,0,"Brilliant Raising Hammer","Inspirational Armorer's Component","","",1,60,0,0,False,False,False,False,True,False,True,True

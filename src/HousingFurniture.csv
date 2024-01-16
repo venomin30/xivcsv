@@ -608,6 +608,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197229,597,14,0,0,0,0,,"Mandragora Table Chronometer",False,False,0,0,0,True,False
 197230,598,15,0,0,0,0,,"Starlight Goobbue Wreath",False,False,5,0,0,True,False
 197231,599,15,0,0,0,0,,"Goobbue Wall Chronometer",False,False,0,0,0,True,False
+197232,600,14,0,0,0,0,,"Goobbue Table Chronometer",False,False,5,0,0,True,False
 197233,601,15,0,0,0,0,,"Moogle Wall Chronometer",False,False,0,0,0,True,False
 197234,602,12,0,0,0,0,,"Cactuar Stool",False,False,5,0,0,True,False
 197235,603,14,0,0,0,0,,"Ghost Candlestand",False,False,5,0,0,True,False
@@ -1374,6 +1375,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198038,1300,12,0,0,0,0,,"Seiryu Sculpture",False,False,0,0,0,True,False
 198039,1301,12,0,0,0,0,,"Suzaku Sculpture",False,False,0,0,0,True,False
 198040,1302,15,0,0,0,0,,"Crystarium Wall Canopy",False,False,0,0,0,True,False
+198041,1303,12,0,0,0,0,,"Nursery Canopy",False,False,0,0,0,True,False
 198042,1304,12,0,0,0,0,,"Ronkan Fireplace",False,False,0,0,0,True,False
 198044,1306,12,0,0,0,0,,"Magazine Display Rack",False,False,0,0,0,True,False
 198045,1307,12,0,0,0,0,,"Celestial Screen",False,False,0,0,0,True,False
@@ -1386,6 +1388,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198055,1317,15,0,0,0,0,,"Wood Slice Loft",False,False,0,0,0,True,False
 198056,1318,15,0,0,0,0,,"Faerie Pendant Wall Light",False,False,0,0,0,True,False
 198057,1319,12,0,0,0,0,,"Portaled Partition",False,False,0,0,0,True,False
+198058,1320,14,0,0,0,0,,"Korpokkur Moss Ball",False,False,0,0,0,True,False
 198059,1321,14,0,0,0,0,,"Sealing Wax & Letter Set",False,False,0,0,0,True,False
 198060,1322,14,7,84,0,0,"CmnDefHousingDish_00213","Bubbly Mogfloat",True,False,9,4,11,True,False
 198063,1325,16,0,0,0,0,,"Field of Hope Rug",False,False,0,0,0,True,False
@@ -1397,6 +1400,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198070,1331,15,0,0,0,0,,"The Traders",False,False,5,0,0,True,False
 198071,1332,15,0,0,0,0,,"The Matron",False,False,5,0,0,True,False
 198072,1330,15,0,0,0,0,,"The Keeper",False,False,5,0,0,True,False
+198088,1351,14,0,0,0,0,,"Hyper Hustle Trophy",False,False,5,0,0,True,False
 198089,1196,14,0,0,0,0,,"Authentic Caged Wisp",False,False,3,0,0,True,False
 198090,1170,15,0,0,0,0,,"Authentic Heavensturn Crane Banner",False,False,3,0,0,True,False
 198091,1204,13,0,0,0,0,,"Authentic Valentione's Heart Desk",False,False,3,0,0,True,False

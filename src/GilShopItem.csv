@@ -15110,6 +15110,7 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263134.37,"Gleaner's Work Gloves",False,0,"The Pride of Labyrinthos",,"",0,100,650
 263134.38,"Gleaner's Breeches",False,0,"The Pride of Labyrinthos",,"",0,100,650
 263134.39,"Gleaner's Longboots",False,0,"The Pride of Labyrinthos",,"",0,100,650
+263134.40,"Hyper Hustle Trophy",False,0,"A Dream Worth Chasing",,"",0,110,650
 263135.0,"Makai Mauler's Facemask",False,0,,,"Echoes of the Makai Blade",0,100,0
 263135.1,"Makai Mauler's Oilskin",False,0,,,"Echoes of the Makai Blade",0,100,0
 263135.2,"Makai Mauler's Fingerless Gloves",False,0,,,"Echoes of the Makai Blade",0,100,0
@@ -15294,33 +15295,33 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263151.15,"Amazing Manderville Gunblade Replica",False,0,,,"Well-oiled: Amazing Manderville Gunblade",0,100,640
 263151.16,"Amazing Manderville Scythe Replica",False,0,,,"Well-oiled: Amazing Manderville Scythe",0,100,640
 263151.17,"Amazing Manderville Kite Shield Replica",False,0,,,"Well-oiled: Amazing Manderville Sword & Shield ",0,100,640
-263151.18,"",False,0,,,"Reforged: Majestic Manderville Sword & Shield",0,100,650
-263151.19,"",False,0,,,"Reforged: Majestic Manderville Fists",0,100,650
-263151.20,"",False,0,,,"Reforged: Majestic Manderville Bardiche",0,100,650
-263151.21,"",False,0,,,"Reforged: Majestic Manderville Spear",0,100,650
-263151.22,"",False,0,,,"Reforged: Majestic Manderville Greatsword",0,100,650
-263151.23,"",False,0,,,"Reforged: Majestic Manderville Samurai Blade",0,100,650
-263151.24,"",False,0,,,"Reforged: Majestic Manderville Bayonet",0,100,650
-263151.25,"",False,0,,,"Reforged: Majestic Manderville War Scythe",0,100,650
-263151.26,"",False,0,,,"Reforged: Majestic Manderville Sword & Shield",0,100,650
-263151.27,"",False,0,,,"Reforged: Majestic Manderville Sword & Shield",0,100,650
-263151.28,"",False,0,,,"Reforged: Majestic Manderville Fists",0,100,650
-263151.29,"",False,0,,,"Reforged: Majestic Manderville Bardiche",0,100,650
-263151.30,"",False,0,,,"Reforged: Majestic Manderville Spear",0,100,650
-263151.31,"",False,0,,,"Reforged: Majestic Manderville Greatsword",0,100,650
-263151.32,"",False,0,,,"Reforged: Majestic Manderville Samurai Blade",0,100,650
-263151.33,"",False,0,,,"Reforged: Majestic Manderville Bayonet",0,100,650
-263151.34,"",False,0,,,"Reforged: Majestic Manderville War Scythe",0,100,650
-263151.35,"",False,0,,,"Reforged: Majestic Manderville Sword & Shield",0,100,650
-263151.36,"",False,0,,,"",0,100,650
-263151.37,"",False,0,,,"",0,100,650
-263151.38,"",False,0,,,"",0,100,650
-263151.39,"",False,0,,,"",0,100,650
-263151.40,"",False,0,,,"",0,100,650
-263151.41,"",False,0,,,"",0,100,650
-263151.42,"",False,0,,,"",0,100,650
-263151.43,"",False,0,,,"",0,100,650
-263151.44,"",False,0,,,"",0,100,650
+263151.18,"Majestic Manderville Sword Replica",False,0,,,"Reforged: Majestic Manderville Sword & Shield",0,100,650
+263151.19,"Replica Majestic Manderville Fists",False,0,,,"Reforged: Majestic Manderville Fists",0,100,650
+263151.20,"Majestic Manderville Bardiche Replica",False,0,,,"Reforged: Majestic Manderville Bardiche",0,100,650
+263151.21,"Majestic Manderville Spear Replica",False,0,,,"Reforged: Majestic Manderville Spear",0,100,650
+263151.22,"Majestic Manderville Greatsword Replica",False,0,,,"Reforged: Majestic Manderville Greatsword",0,100,650
+263151.23,"Majestic Manderville Samurai Blade Replica",False,0,,,"Reforged: Majestic Manderville Samurai Blade",0,100,650
+263151.24,"Majestic Manderville Bayonet Replica",False,0,,,"Reforged: Majestic Manderville Bayonet",0,100,650
+263151.25,"Majestic Manderville War Scythe Replica",False,0,,,"Reforged: Majestic Manderville War Scythe",0,100,650
+263151.26,"Majestic Manderville Shield Replica",False,0,,,"Reforged: Majestic Manderville Sword & Shield",0,100,650
+263151.27,"Majestic Manderville Sword Matte Replica",False,0,,,"Reforged: Majestic Manderville Sword & Shield",0,100,650
+263151.28,"Matte Replica Majestic Manderville Fists",False,0,,,"Reforged: Majestic Manderville Fists",0,100,650
+263151.29,"Majestic Manderville Bardiche Matte Replica",False,0,,,"Reforged: Majestic Manderville Bardiche",0,100,650
+263151.30,"Majestic Manderville Spear Matte Replica",False,0,,,"Reforged: Majestic Manderville Spear",0,100,650
+263151.31,"Majestic Manderville Greatsword Matte Replica",False,0,,,"Reforged: Majestic Manderville Greatsword",0,100,650
+263151.32,"Majestic Manderville Samurai Blade Matte Replica",False,0,,,"Reforged: Majestic Manderville Samurai Blade",0,100,650
+263151.33,"Majestic Manderville Bayonet Matte Replica",False,0,,,"Reforged: Majestic Manderville Bayonet",0,100,650
+263151.34,"Majestic Manderville War Scythe Matte Replica",False,0,,,"Reforged: Majestic Manderville War Scythe",0,100,650
+263151.35,"Majestic Manderville Shield Matte Replica",False,0,,,"Reforged: Majestic Manderville Sword & Shield",0,100,650
+263151.36,"Mandervillous Falchion Replica",False,0,,,"Perfect: Mandervillous Falchion & Kite Shield",0,100,650
+263151.37,"Replica Mandervillous Fists",False,0,,,"Perfect: Mandervillous Fists",0,100,650
+263151.38,"Mandervillous Battleaxe Replica",False,0,,,"Perfect: Mandervillous Battleaxe",0,100,650
+263151.39,"Mandervillous Trident Replica",False,0,,,"Perfect: Mandervillous Trident",0,100,650
+263151.40,"Mandervillous Greatsword Replica",False,0,,,"Perfect: Mandervillous Greatsword",0,100,650
+263151.41,"Mandervillous Samurai Blade Replica",False,0,,,"Perfect: Mandervillous Samurai Blade",0,100,650
+263151.42,"Mandervillous Gunblade Replica",False,0,,,"Perfect: Mandervillous Gunblade",0,100,650
+263151.43,"Mandervillous Zaghnal Replica",False,0,,,"Perfect: Mandervillous Zaghnal",0,100,650
+263151.44,"Mandervillous Kite Shield Replica",False,0,,,"Perfect: Mandervillous Falchion & Kite Shield",0,100,650
 263152.0,"Peach Confetti",False,0,,,"",0,100,0
 263152.1,"Cherry Confetti",False,0,,,"",0,100,0
 263152.2,"Lovely Little Ladies' Day Advertisement",False,0,,,"",0,90,9999
@@ -15508,18 +15509,18 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263169.5,"Replica Amazing Manderville Knives",False,0,,,"Well-oiled: Amazing Manderville Knives",0,100,640
 263169.6,"Amazing Manderville Revolver Replica",False,0,,,"Well-oiled: Amazing Manderville Revolver",0,100,640
 263169.7,"Replica Amazing Manderville Chakrams",False,0,,,"Well-oiled: Amazing Manderville Chakrams",0,100,640
-263169.8,"",False,0,,,"Reforged: Majestic Manderville Harp Bow",0,100,650
-263169.9,"",False,0,,,"Reforged: Majestic Manderville Knives",0,100,650
-263169.10,"",False,0,,,"Reforged: Majestic Manderville Pistol",0,100,650
-263169.11,"",False,0,,,"Reforged: Majestic Manderville Chakrams",0,100,650
-263169.12,"",False,0,,,"Reforged: Majestic Manderville Harp Bow",0,100,650
-263169.13,"",False,0,,,"Reforged: Majestic Manderville Knives",0,100,650
-263169.14,"",False,0,,,"Reforged: Majestic Manderville Pistol",0,100,650
-263169.15,"",False,0,,,"Reforged: Majestic Manderville Chakrams",0,100,650
-263169.16,"",False,0,,,"",0,100,650
-263169.17,"",False,0,,,"",0,100,650
-263169.18,"",False,0,,,"",0,100,650
-263169.19,"",False,0,,,"",0,100,650
+263169.8,"Majestic Manderville Harp Bow Replica",False,0,,,"Reforged: Majestic Manderville Harp Bow",0,100,650
+263169.9,"Replica Majestic Manderville Knives",False,0,,,"Reforged: Majestic Manderville Knives",0,100,650
+263169.10,"Majestic Manderville Pistol Replica",False,0,,,"Reforged: Majestic Manderville Pistol",0,100,650
+263169.11,"Replica Majestic Manderville Chakrams",False,0,,,"Reforged: Majestic Manderville Chakrams",0,100,650
+263169.12,"Majestic Manderville Harp Bow Matte Replica",False,0,,,"Reforged: Majestic Manderville Harp Bow",0,100,650
+263169.13,"Matte Replica Majestic Manderville Knives",False,0,,,"Reforged: Majestic Manderville Knives",0,100,650
+263169.14,"Majestic Manderville Pistol Matte Replica",False,0,,,"Reforged: Majestic Manderville Pistol",0,100,650
+263169.15,"Matte Replica Majestic Manderville Chakrams",False,0,,,"Reforged: Majestic Manderville Chakrams",0,100,650
+263169.16,"Mandervillous Compound Bow Replica",False,0,,,"Perfect: Mandervillous Compound Bow",0,100,650
+263169.17,"Replica Mandervillous Knives",False,0,,,"Perfect: Mandervillous Knives",0,100,650
+263169.18,"Mandervillous Revolver Replica",False,0,,,"Perfect: Mandervillous Revolver",0,100,650
+263169.19,"Replica Mandervillous Chakrams",False,0,,,"Perfect: Mandervillous Chakrams",0,100,650
 263170.0,"Azim Steppe Phasmascape",False,0,,,"",0,2,550
 263170.1,"Ruby Sea Phasmascape",False,0,,,"",0,2,600
 263170.2,"Aurora Phasmascape",False,0,,,"",0,2,600
@@ -15545,24 +15546,24 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 263171.11,"Amazing Manderville Torquetum Replica",False,0,,,"Well-oiled: Amazing Manderville Torquetum",0,100,640
 263171.12,"Amazing Manderville Rapier Replica",False,0,,,"Well-oiled: Amazing Manderville Rapier",0,100,640
 263171.13,"Replica Amazing Manderville Milpreves",False,0,,,"Well-oiled: Amazing Manderville Milpreves",0,100,640
-263171.14,"",False,0,,,"Reforged: Majestic Manderville Wand",0,100,650
-263171.15,"",False,0,,,"Reforged: Majestic Manderville Staff",0,100,650
-263171.16,"",False,0,,,"Reforged: Majestic Manderville Index",0,100,650
-263171.17,"",False,0,,,"Reforged: Majestic Manderville Codex",0,100,650
-263171.18,"",False,0,,,"Reforged: Majestic Manderville Orrery",0,100,650
-263171.19,"",False,0,,,"Reforged: Majestic Manderville Degen",0,100,650
-263171.20,"",False,0,,,"Reforged: Majestic Manderville Wings",0,100,650
-263171.21,"",False,0,,,"Reforged: Majestic Manderville Wand",0,100,650
-263171.22,"",False,0,,,"Reforged: Majestic Manderville Staff",0,100,650
-263171.23,"",False,0,,,"Reforged: Majestic Manderville Index",0,100,650
-263171.24,"",False,0,,,"Reforged: Majestic Manderville Codex",0,100,650
-263171.25,"",False,0,,,"Reforged: Majestic Manderville Orrery",0,100,650
-263171.26,"",False,0,,,"Reforged: Majestic Manderville Degen",0,100,650
-263171.27,"",False,0,,,"Reforged: Majestic Manderville Wings",0,100,650
-263171.28,"",False,0,,,"",0,100,650
-263171.29,"",False,0,,,"",0,100,650
-263171.30,"",False,0,,,"",0,100,650
-263171.31,"",False,0,,,"",0,100,650
-263171.32,"",False,0,,,"",0,100,650
-263171.33,"",False,0,,,"",0,100,650
-263171.34,"",False,0,,,"",0,100,650
+263171.14,"Majestic Manderville Wand Replica",False,0,,,"Reforged: Majestic Manderville Wand",0,100,650
+263171.15,"Majestic Manderville Staff Replica",False,0,,,"Reforged: Majestic Manderville Staff",0,100,650
+263171.16,"Majestic Manderville Index Replica",False,0,,,"Reforged: Majestic Manderville Index",0,100,650
+263171.17,"Majestic Manderville Codex Replica",False,0,,,"Reforged: Majestic Manderville Codex",0,100,650
+263171.18,"Majestic Manderville Orrery Replica",False,0,,,"Reforged: Majestic Manderville Orrery",0,100,650
+263171.19,"Majestic Manderville Degen Replica",False,0,,,"Reforged: Majestic Manderville Degen",0,100,650
+263171.20,"Replica Majestic Manderville Wings",False,0,,,"Reforged: Majestic Manderville Wings",0,100,650
+263171.21,"Majestic Manderville Wand Matte Replica",False,0,,,"Reforged: Majestic Manderville Wand",0,100,650
+263171.22,"Majestic Manderville Staff Matte Replica",False,0,,,"Reforged: Majestic Manderville Staff",0,100,650
+263171.23,"Majestic Manderville Index Matte Replica",False,0,,,"Reforged: Majestic Manderville Index",0,100,650
+263171.24,"Majestic Manderville Codex Matte Replica",False,0,,,"Reforged: Majestic Manderville Codex",0,100,650
+263171.25,"Majestic Manderville Orrery Matte Replica",False,0,,,"Reforged: Majestic Manderville Orrery",0,100,650
+263171.26,"Majestic Manderville Degen Matte Replica",False,0,,,"Reforged: Majestic Manderville Degen",0,100,650
+263171.27,"Matte Replica Majestic Manderville Wings",False,0,,,"Reforged: Majestic Manderville Wings",0,100,650
+263171.28,"Mandervillous Cane Replica",False,0,,,"Perfect: Mandervillous Cane",0,100,650
+263171.29,"Mandervillous Rod Replica",False,0,,,"Perfect: Mandervillous Rod",0,100,650
+263171.30,"Mandervillous Index Replica",False,0,,,"Perfect: Mandervillous Index",0,100,650
+263171.31,"Mandervillous Codex Replica",False,0,,,"Perfect: Mandervillous Codex",0,100,650
+263171.32,"Mandervillous Torquetum Replica",False,0,,,"Perfect: Mandervillous Torquetum",0,100,650
+263171.33,"Mandervillous Rapier Replica",False,0,,,"Perfect: Mandervillous Rapier",0,100,650
+263171.34,"Replica Mandervillous Wings",False,0,,,"Perfect: Mandervillous Wings",0,100,650

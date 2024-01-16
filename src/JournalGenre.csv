@@ -66,7 +66,7 @@ int32,Image,JournalCategory,bit&01,str
 62,"ui/icon/061000/061411.tex","Tribal Alliance Quests",True,"A Realm Reborn Tribal Quests"
 63,"ui/icon/061000/061411.tex","Tribal Alliance Quests",True,"Heavensward Tribal Quests"
 64,"ui/icon/061000/061411.tex","Tribal Alliance Quests",True,"Stormblood Tribal Quests"
-65,,"Sephiroth Missions",False,""
+65,"ui/icon/061000/061411.tex","Tribal Alliance Quests",True,"Endwalker Tribal Quests"
 66,"ui/icon/061000/061411.tex","Chronicles of Light",True,"Tales of the Dragonsong War"
 67,"ui/icon/061000/061411.tex","Chronicles of Light",True,"Tales from the Shadows"
 68,"ui/icon/061000/061411.tex","Chronicles of Light",True,"Tales of Newfound Adventure"
