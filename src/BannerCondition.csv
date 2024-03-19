@@ -567,7 +567,7 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 563,6,"wind-up Nidhogg",,,,,,12,"Wind-up Nidhogg",,,0,,"",False
 564,6,"pink Bean",,,,,,4,"MGF trader","Level#10215752","Pink Bean",1,"Just Crowning Around","Obtained from A Realm Reborn sidequest progression.",True
 565,6,"Pegwin",,,,,,4,"MGF trader","Level#10215752","Pegwin",1,"Just Crowning Around","Obtained from A Realm Reborn sidequest progression.",True
-566,0,,,,,,,0,,,,0,,"",False
+566,6,"Torgal pup",,,,,,2,"The Path Infernal",,,1,"Pain to Recall","Obtained from A Realm Reborn sidequest progression.",True
 567,9,,,,,,,17,,,,1,"The Nest of Honor","Obtained from Heavensward tribal quest progression.",False
 568,9,,,,,,,17,,,,1,"A Symbiotic Friendship","Obtained from Heavensward tribal quest progression.",False
 569,9,,,,,,,17,,,,1,"The Zenith of Craftsmanship","Obtained from Heavensward tribal quest progression.",False
@@ -608,7 +608,7 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 604,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
 605,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
 606,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",True
-607,0,,,,,,,0,,,,0,,"",False
+607,9,,,,,,,37,,,,0,,"",True
 608,0,,,,,,,0,,,,0,,"",False
 609,0,,,,,,,0,,,,0,,"",False
 610,0,,,,,,,0,,,,0,,"",False

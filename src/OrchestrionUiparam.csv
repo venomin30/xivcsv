@@ -637,11 +637,11 @@ int32,OrchestrionCategory,uint16
 633,"Online Store & Bonuses",65535
 634,"Online Store & Bonuses",65535
 635,"Online Store & Bonuses",65535
-636,"",0
-637,"",0
-638,"",0
-639,"",0
-640,"",0
+636,"Seasonal",65535
+637,"Seasonal",65535
+638,"Seasonal",65535
+639,"Seasonal",65535
+640,"Seasonal",65535
 641,"Online Store & Bonuses",65535
 642,"Online Store & Bonuses",65535
 643,"Dungeons II",32
@@ -653,9 +653,9 @@ int32,OrchestrionCategory,uint16
 649,"Dungeons II",34
 650,"Quests",65
 651,"Quests",66
-652,"",0
-653,"",0
-654,"",0
-655,"",0
-656,"",0
+652,"Seasonal",65535
+653,"Seasonal",65535
+654,"Seasonal",65535
+655,"Seasonal",65535
+656,"Seasonal",65535
 657,"Seasonal",65535

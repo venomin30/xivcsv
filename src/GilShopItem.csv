@@ -7580,6 +7580,7 @@ int32,Item,bit&01,int32,Quest,Quest,Achievement,byte,uint16,uint16
 262634.7,"Lucian Prince's Fingerless Glove",False,0,"The Man in Black",,"",0,120,0
 262634.8,"Lucian Prince's Bottoms",False,0,"In the Dark of Night",,"",0,120,0
 262634.9,"Lucian Prince's Boots",False,0,"Messenger of the Winds",,"",0,120,0
+262634.10,"Thug's Mug",False,0,"Breaking Brick Mountains",,"",0,90,0
 262635.0,"The Mushroomery Orchestrion Roll",False,0,,,"",0,100,0
 262636.0,"Rising Pillar",False,0,,,"",0,100,0
 262636.1,"Rising Banner",False,0,,,"",0,100,0

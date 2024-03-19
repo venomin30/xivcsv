@@ -220,7 +220,7 @@ int32,Image,int32,GroupPoseStampCategory,uint16,byte,uint32,int32,bit&01,bit&02,
 216,,0,"None",0,0,0,0,False,False,False,""
 217,"ui/icon/076000/076653.tex",1,"Minions",152,6,499,0,True,True,True,"Pink Bean"
 218,"ui/icon/076000/076654.tex",1,"Minions",153,6,500,0,True,True,True,"Pegwin"
-219,,0,"None",0,0,0,0,False,False,False,""
+219,"ui/icon/076000/076652.tex",1,"Minions",149,6,498,0,True,True,True,"Torgal Pup"
 220,"ui/icon/076000/076651.tex",1,"Minions",138,6,233,0,True,True,True,"Wind-up Nidhogg"
 221,"ui/icon/076000/076701.tex",1,"Minions",140,10,0,0,True,True,True,"Mammet #001"
 222,"ui/icon/076000/076702.tex",1,"Minions",1,10,0,0,True,True,True,"Wayward Hatchling"

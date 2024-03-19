@@ -3724,9 +3724,9 @@ Will grant the effect of <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGl
 3706,"Windburn","Sustaining wind damage over time.","ui/icon/015000/015526.tex",89,0,"All Classes",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,100,0,False,False,10,0,False,0,False,6,False,0,0,0,False
 3707,"Magic Damage Up","Magic damage dealt is increased.","ui/icon/015000/015054.tex",37,0,"All Classes",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,1,0,False,False,10,0,False,0,False,0,False,0,0,0,False
 3708,"Spectator","Watching the show from a safe distance.","ui/icon/016000/016761.tex",0,0,"All Classes",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,240,0,False,False,0,0,True,0,False,0,True,3,0,0,False
-3709,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3710,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3711,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3709,"Drop and Roll","Prepared to dodge certain attacks.","ui/icon/016000/016762.tex",0,0,"All Classes",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,200,0,True,False,0,0,True,0,False,0,False,0,0,0,False
+3710,"Precision","A precision dodge has created an opening, enabling use of the duty action Precision Strike.","ui/icon/016000/016763.tex",0,0,"All Classes",1,"","",False,False,False,False,False,False,False,False,False,200,2,False,False,0,0,True,0,False,0,False,0,0,0,False
+3711,"","",,89,0,"All Classes",1,"dk05th_stup0t","kaihi_stlp_c2v",False,False,False,False,False,False,False,False,False,200,0,True,False,0,0,False,0,False,0,False,0,0,0,False
 3712,"Breath of Magic","Sustaining damage over time.","ui/icon/013000/013553.tex",0,0,"All Classes",2,"dk05th_stdn0t","",False,False,False,False,False,False,True,False,False,10,0,False,False,100,0,False,0,False,5,False,0,0,0,False
 3713,"Sticky","A viscous substance is hampering movement.","ui/icon/014000/014111.tex",0,0,"All Classes",2,"dk05th_stdn0t","k5d2_stlp_neba_c0c2",True,False,True,False,False,False,False,True,False,200,0,False,False,0,4,False,0,False,0,False,0,0,0,False
 3714,"Prey","Marked as prey.","ui/icon/015000/015026.tex",0,0,"All Classes",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False
@@ -3770,7 +3770,7 @@ Will grant the effect of <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGl
 3752,"Oasal Balm","Regenerating HP over time.","ui/icon/014000/014989.tex",137,0,"All Classes",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,198,0,False,False,100,0,True,0,False,0,False,0,0,0,False
 3753,"Oasal Balm","Regenerating HP over time.","ui/icon/014000/014989.tex",137,0,"All Classes",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,198,0,False,False,100,0,True,0,False,0,False,0,0,0,False
 3754,"Heat Wave","Sustaining damage over time.","ui/icon/014000/014990.tex",0,0,"All Classes",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,True,True,197,0,False,False,100,0,False,0,False,6,False,0,0,0,False
-3755,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3755,"Fetters","Unable to execute actions.","ui/icon/015000/015545.tex",0,0,"All Classes",2,"dk05th_stdn0t","sxt_kusk_c0v",True,False,False,False,False,False,False,True,True,200,0,False,False,0,4,False,0,False,0,False,0,0,0,False
 3756,"Damage Up","Damage dealt is greatly increased.","ui/icon/015000/015519.tex",0,0,"All Classes",1,"dk05th_stup0t","o5d1_stlp_atk0_c0c2",False,False,False,False,False,False,False,True,True,200,0,False,False,10,0,False,0,False,0,False,0,0,0,False
 3757,"Vulnerability Down","Damage taken is greatly reduced.","ui/icon/015000/015021.tex",0,0,"All Classes",1,"dk05th_stup0t","o5d1_stlp_def0_c0c2",False,False,False,False,False,False,False,True,True,200,0,False,False,-90,0,False,0,False,0,False,0,0,0,False
 3758,"Raging Rroneek","Enmity is increased.","ui/icon/012000/012551.tex",0,0,"All Classes",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,0,0,False,False,200,0,False,0,False,0,False,0,0,0,False
@@ -3784,9 +3784,9 @@ Will grant the effect of <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGl
 3766,"Binding Dark","Devoured by Darkness, resulting in enchainment to another player when this effect expires.","ui/icon/014000/014122.tex",0,0,"All Classes",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3767,"Bonds of Darkness","Bound by stygian chains, causing damage over time.","ui/icon/014000/014123.tex",0,0,"All Classes",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3768,"Area of Influence Up","Area of effect for actions is expanded.","ui/icon/017000/017981.tex",0,16,"All Classes",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,50,0,False,False,0,0,False,0,False,0,False,0,33,0,False
-3769,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3770,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3771,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3769,"","",,0,0,"All Classes",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,0,0,True,False,0,0,False,0,False,0,False,0,0,0,False
+3770,"Towering Flame","Rising flames are increasing damage dealt. Unable to execute Rising Flames.","ui/icon/016000/016765.tex",0,0,"All Classes",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,200,0,False,False,5,0,True,0,False,0,False,0,0,0,False
+3771,"Infernal Shroud","Bolstered by the power of flame.","ui/icon/016000/016764.tex",0,0,"All Classes",1,"dk05th_stup0t","m0847_kyouka_c0v",False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3772,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3773,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3774,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
@@ -3796,13 +3796,13 @@ Will grant the effect of <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGl
 3778,"Dropsy","Sustaining water damage over time.","ui/icon/015000/015529.tex",147,0,"All Classes",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,100,0,False,False,10,0,False,0,False,6,False,0,0,0,False
 3779,"Electrocution","Sustaining lightning damage over time.","ui/icon/015000/015528.tex",0,0,"All Classes",2,"dk05th_stdn0t","",False,False,False,False,False,False,True,False,False,10,0,False,True,10,0,False,0,False,5,False,0,0,0,False
 3780,"","",,0,0,"All Classes",2,"","",False,False,True,False,False,False,False,True,True,100,0,True,False,0,0,False,0,False,0,False,0,0,0,False
-3781,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3781,"","",,0,0,"All Classes",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,0,0,True,False,0,0,False,0,False,0,False,0,0,0,False
 3782,"Bind","Unable to move.","ui/icon/015000/015003.tex",0,0,"All Classes",2,"","dk10ht_bind0h",True,False,False,False,False,False,False,True,True,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3783,"Rroneek Pulse","Damage taken is reduced.","ui/icon/013000/013911.tex",0,0,"All Classes",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,0,0,False,False,-10,0,False,0,False,0,False,0,0,0,False
 3784,"Br'aax Pulse","Damage taken is reduced while inflicting a portion of sustained damage back to its source.","ui/icon/010000/010256.tex",0,0,"All Classes",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,1,0,False,False,-30,0,False,0,False,0,False,0,0,0,False
 3785,"Luwatena Pulse","Maximum HP and HP recovery via healing actions are increased.","ui/icon/010000/010254.tex",0,0,"All Classes",1,"dk05th_stup0t","",False,False,False,False,False,False,False,False,False,5,0,False,False,10,0,False,0,False,0,False,0,0,0,False
 3786,"Full-grown","Fully matured.","ui/icon/015000/015971.tex",89,0,"All Classes",1,"dk05th_stup0t","",False,False,False,False,True,False,False,True,True,200,0,False,False,300,26,False,0,False,0,False,0,0,0,False
-3787,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3787,"","",,89,0,"All Classes",1,"dk05th_stup0t","kaihi_stlp_c1v",False,False,False,False,False,False,False,False,False,200,0,True,False,0,0,True,0,False,0,False,0,0,0,False
 3788,"Foamy Fetters","Aetherial seafoam is coalescing around the body, resulting in Bind when this effect expires.","ui/icon/016000/016749.tex",0,0,"All Classes",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False
 3789,"Bind","Unable to move.","ui/icon/015000/015003.tex",3,0,"All Classes",2,"dk04ht_wat0h","dk10ht_bind0h",False,True,False,False,False,False,False,True,True,100,0,False,False,0,0,True,0,False,0,False,0,0,0,False
 3790,"Times Five","The angle of effect for the next rotational attack executed will be quintupled.","ui/icon/016000/016747.tex",0,0,"All Classes",2,"dk05th_stdn0t","",False,False,False,False,False,False,False,True,False,199,0,False,False,0,0,False,0,False,0,False,0,0,0,False

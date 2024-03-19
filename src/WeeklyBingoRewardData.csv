@@ -146,10 +146,10 @@ int32,byte,Row,bit&01,uint16,WeeklyBingoRewardData,byte,Row,bool,uint16,WeeklyBi
 142,1,"MGP Platinum Card",False,20,"WeeklyBingoRewardData#0",1,"Khloe's Silver Certificate of Commendation",False,3,"WeeklyBingoRewardData#1","Khloe's Gold Certificate of Commendation",False,1
 143,1,"MGP Platinum Card",False,2,"WeeklyBingoRewardData#0",1,"Khloe's Silver Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Causality",False,500
 144,1,"MGP Platinum Card",False,2,"WeeklyBingoRewardData#0",1,"Khloe's Silver Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Causality",False,500
-145,1,"MGP Platinum Card",False,2,"WeeklyBingoRewardData#0",1,"Khloe's Silver Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Causality",False,500
-146,1,"MGP Platinum Card",False,2,"WeeklyBingoRewardData#0",1,"Khloe's Silver Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Poetics",False,1000
-147,1,"MGP Platinum Card",False,2,"WeeklyBingoRewardData#0",1,"Khloe's Silver Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Poetics",False,1000
-148,1,"MGP Platinum Card",False,2,"WeeklyBingoRewardData#0",1,"Khloe's Silver Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Poetics",False,1000
+145,1,"MGP Platinum Card",False,2,"WeeklyBingoRewardData#0",1,"Khloe's Silver Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Causality",False,1000
+146,1,"MGP Platinum Card",False,2,"WeeklyBingoRewardData#0",1,"Khloe's Silver Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Causality",False,1000
+147,1,"MGP Platinum Card",False,2,"WeeklyBingoRewardData#0",1,"Khloe's Silver Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Causality",False,1000
+148,1,"MGP Platinum Card",False,2,"WeeklyBingoRewardData#0",1,"Khloe's Silver Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Causality",False,1000
 149,1,"MGP Platinum Card",False,2,"WeeklyBingoRewardData#0",1,"Khloe's Silver Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Poetics",False,1000
 150,1,"MGP Platinum Card",False,2,"WeeklyBingoRewardData#0",1,"Khloe's Silver Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Poetics",False,1000
 151,1,"MGP Platinum Card",False,2,"WeeklyBingoRewardData#0",1,"Khloe's Silver Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Poetics",False,1000
@@ -159,11 +159,11 @@ int32,byte,Row,bit&01,uint16,WeeklyBingoRewardData,byte,Row,bool,uint16,WeeklyBi
 155,1,"MGP Platinum Card",False,2,"WeeklyBingoRewardData#0",1,"Khloe's Silver Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Poetics",False,1000
 156,1,"MGP Platinum Card",False,2,"WeeklyBingoRewardData#0",1,"Khloe's Silver Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Poetics",False,1000
 157,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Comedy",False,50
-158,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Comedy",False,50
-159,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Comedy",False,50
-160,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Poetics",False,700
-161,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Poetics",False,700
-162,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Poetics",False,700
+158,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Comedy",False,300
+159,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Comedy",False,300
+160,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Comedy",False,300
+161,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Comedy",False,300
+162,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Comedy",False,300
 163,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Poetics",False,700
 164,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Poetics",False,700
 165,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Poetics",False,700
