@@ -37,3 +37,4 @@ int32,str,byte,GuildleveAssignmentTalk,Quest,Quest,bit&01,bit&02,bit&04,bit&08,b
 393249,"Levemete",4,"GuildleveAssignmentTalk#34","Leves of Kugane","Leves of Kugane",False,False,False,False,True,0
 393250,"Crystarium Leves",5,"GuildleveAssignmentTalk#35","Leves of the Crystarium","Leves of the Crystarium",False,False,False,False,True,0
 393251,"Gleaner Leves",7,"GuildleveAssignmentTalk#36","Leves of Old Sharlayan","Leves of Old Sharlayan",False,False,False,False,True,0
+393252,"Tuliyollal Leves",8,"GuildleveAssignmentTalk#37","Leves of Tuliyollal","Leves of Tuliyollal",False,False,False,False,True,0

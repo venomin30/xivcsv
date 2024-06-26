@@ -684,3 +684,17 @@ int32,Quest,uint16,ExVersion,Quest,bit&01,bit&02
 40.4,"Pledge of Hope",78,"Endwalker",,False,False
 40.5,"Life Ephemeral, Path Eternal",80,"Endwalker",,False,False
 40.6,,0,"A Realm Reborn",,False,False
+41.0,"Enter the Viper",80,"Dawntrail",,False,False
+41.1,"Fangs of the Viper",80,"Dawntrail",,False,False
+41.2,"Viper in the Vidraal's Shadow",83,"Dawntrail",,False,False
+41.3,"Vipers on the Hunt",85,"Dawntrail",,False,False
+41.4,"Into the Viper Pit",88,"Dawntrail",,False,False
+41.5,"Vengeance of the Viper",90,"Dawntrail",,False,False
+41.6,,0,"A Realm Reborn",,False,False
+42.0,"The Joy of Pictomancy",80,"Dawntrail",,False,False
+42.1,"Mind over Manor",80,"Dawntrail",,False,False
+42.2,"Perspectives in Pursuit",83,"Dawntrail",,False,False
+42.3,"The Crate Beyond",85,"Dawntrail",,False,False
+42.4,"Beruru's Clues",88,"Dawntrail",,False,False
+42.5,"Somewhere Only She Knows",90,"Dawntrail",,False,False
+42.6,,0,"A Realm Reborn",,False,False

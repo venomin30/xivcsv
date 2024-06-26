@@ -205,3 +205,13 @@ int32,AquariumWater,byte,Item,uint16
 202,"Saltwater",2,"Sirensong Mullet",477
 203,"Freshwater",3,"Spectral Kotsu Zetsu",395
 204,"Saltwater",4,"Taniwha",109
+205,"Freshwater",1,"Rummy-nosed Tetra",465
+206,"Freshwater",1,"Furcacauda",528
+207,"Saltwater",1,"Spectral Wrasse",520
+208,"Saltwater",1,"Bubble Angler",307
+209,"Freshwater",2,"Peacock Bass",392
+210,"Freshwater",2,"Greengill Salmon",396
+211,"Freshwater",2,"Xenocypris",393
+212,"Saltwater",2,"Lansquenet",366
+213,"Freshwater",3,"Colossoma",329
+214,"Saltwater",4,"Gharlichthys",113

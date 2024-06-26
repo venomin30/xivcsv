@@ -745,15 +745,79 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint32,bit&02,uint32,byte,
 741,"Mesmerizing Miniature Materials","GatheringItemLevelConvertTable#510",True,,0,False,0,3,48
 742,"Energizing Eye-lixir Materials","GatheringItemLevelConvertTable#527",True,,0,False,0,3,49
 743,"Researcher's Relaxation Kit Materials","GatheringItemLevelConvertTable#540",True,,0,False,0,3,50
-744,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-745,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-746,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-747,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-748,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-749,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-750,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-751,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-752,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+744,"Mountain Chromite Ore","GatheringItemLevelConvertTable#645",True,,0,False,0,0,65535
+745,"Lar Ore","GatheringItemLevelConvertTable#650",True,,0,False,0,0,65535
+746,"Mountain Rock Salt","GatheringItemLevelConvertTable#650",True,,0,False,0,0,65535
+747,"Raw Ihuykanite","GatheringItemLevelConvertTable#655",True,,0,False,0,0,65535
+748,"Ruthenium Ore","GatheringItemLevelConvertTable#660",True,,0,False,0,0,65535
+749,"Cobalt Tungsten Ore","GatheringItemLevelConvertTable#665",True,,0,False,0,0,65535
+750,"Raw Pink Beryl","GatheringItemLevelConvertTable#670",True,,0,False,0,0,65535
+751,"Yak T'el Spring Water","GatheringItemLevelConvertTable#670",True,,0,False,0,0,65535
+752,"Titanium Gold Ore","GatheringItemLevelConvertTable#675",True,,0,False,0,0,65535
+753,"Magnesia Powder","GatheringItemLevelConvertTable#675",True,,0,False,0,0,65535
+754,"Raw Black Star","GatheringItemLevelConvertTable#680",True,,0,False,0,0,65535
+755,"White Gold Ore","GatheringItemLevelConvertTable#685",True,,0,False,0,0,65535
+756,"Ra'Kaznar Ore","GatheringItemLevelConvertTable#690",True,,0,False,0,0,65535
+757,"Snow Cotton","GatheringItemLevelConvertTable#645",True,,0,False,0,0,65535
+758,"Eucalyptus","GatheringItemLevelConvertTable#645",True,,0,False,0,0,65535
+759,"Ut'ohmu Tomato","GatheringItemLevelConvertTable#645",True,,0,False,0,0,65535
+760,"Ceiba Log","GatheringItemLevelConvertTable#655",True,,0,False,0,0,65535
+761,"Wild Ja Tiika Bananas","GatheringItemLevelConvertTable#650",True,,0,False,0,0,65535
+762,"Turali Aloe","GatheringItemLevelConvertTable#650",True,,0,False,0,0,65535
+763,"Ginseng Log","GatheringItemLevelConvertTable#650",True,,0,False,0,0,65535
+764,"Royal Maple Sap","GatheringItemLevelConvertTable#650",True,,0,False,0,0,65535
+765,"Mountain Flax","GatheringItemLevelConvertTable#660",True,,0,False,0,0,65535
+766,"Kozama'uka Chamomile","GatheringItemLevelConvertTable#660",True,,0,False,0,0,65535
+767,"Shaaloani Oilseeds","GatheringItemLevelConvertTable#660",True,,0,False,0,0,65535
+768,"Turali Corn","GatheringItemLevelConvertTable#660",True,,0,False,0,0,65535
+769,"Sweet Kukuru Bean","GatheringItemLevelConvertTable#660",True,,0,False,0,0,65535
+770,"Dark Mahogany Log","GatheringItemLevelConvertTable#665",True,,0,False,0,0,65535
+771,"Turali Pineapple","GatheringItemLevelConvertTable#665",True,,0,False,0,0,65535
+772,"Sarcenet","GatheringItemLevelConvertTable#670",True,,0,False,0,0,65535
+773,"White Pepper","GatheringItemLevelConvertTable#670",True,,0,False,0,0,65535
+774,"Acacia Log","GatheringItemLevelConvertTable#675",True,,0,False,0,0,65535
+775,"Claro Walnut Log","GatheringItemLevelConvertTable#675",True,,0,False,0,0,65535
+776,"Acacia Bark","GatheringItemLevelConvertTable#675",True,,0,False,0,0,65535
+777,"Mesquite Beans","GatheringItemLevelConvertTable#675",True,,0,False,0,0,65535
+778,"Levinsilk","GatheringItemLevelConvertTable#680",True,,0,False,0,0,65535
+779,"Yyasulani Garlic","GatheringItemLevelConvertTable#680",True,,0,False,0,0,65535
+780,"Bell Pepper","GatheringItemLevelConvertTable#680",True,,0,False,0,0,65535
+781,"Pearl Grass","GatheringItemLevelConvertTable#685",True,,0,False,0,0,65535
+782,"Wind Parsley","GatheringItemLevelConvertTable#680",True,,0,False,0,0,65535
+783,"Windsbalm Bay Leaf","GatheringItemLevelConvertTable#685",True,,0,False,0,0,65535
+784,"Broccoli","GatheringItemLevelConvertTable#690",True,,0,False,0,0,65535
+785,"Turali Alumen","GatheringItemLevelConvertTable#700",True,,0,False,0,0,65535
+786,"Fine Silver Ore","GatheringItemLevelConvertTable#700",True,,0,False,0,0,65535
+787,"Harmonite Ore","GatheringItemLevelConvertTable#700",True,,0,False,0,0,65535
+788,"Ipe Log","GatheringItemLevelConvertTable#700",True,,0,False,0,0,65535
+789,"Nopaliflower","GatheringItemLevelConvertTable#700",True,,0,False,0,0,65535
+790,"Blackseed Cotton Boll","GatheringItemLevelConvertTable#700",True,,0,False,0,0,65535
+791,"Electrocoal","GatheringItemLevelConvertTable#670",True,,0,False,0,5,92
+792,"Brightwind Ore","GatheringItemLevelConvertTable#690",True,,0,False,0,5,93
+793,"Goldbranch","GatheringItemLevelConvertTable#670",True,,0,False,0,5,94
+794,"Volcanic Grass","GatheringItemLevelConvertTable#690",True,,0,False,0,5,95
+795,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,65535
+796,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,65535
+797,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,65535
+798,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,65535
+799,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+800,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+801,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+802,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+803,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+804,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+805,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+806,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+807,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+808,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+809,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+810,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+811,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+812,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+813,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+814,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+815,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+816,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
 10000,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
 10001,"treant acorn","GatheringItemLevelConvertTable#4",False,,0,False,0,0,65535
 10002,"throbbing maple log","GatheringItemLevelConvertTable#1",False,,0,False,0,0,65535
@@ -941,22 +1005,22 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint32,bit&02,uint32,byte,
 10184,"transparent crystal","GatheringItemLevelConvertTable#145",False,,0,False,0,0,65535
 10185,"cracked Sharlayan flagstone","GatheringItemLevelConvertTable#145",False,,0,False,0,0,65535
 10186,"Sharlayan flagstone","GatheringItemLevelConvertTable#150",False,,0,False,0,0,65535
-10187,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10188,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10189,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10190,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10191,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10192,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10193,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10194,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10195,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10196,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10197,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10198,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10199,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10200,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10201,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10202,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10187,"Rarefied Raw Ihuykanite","GatheringItemLevelConvertTable#645",True,,0,False,0,1,124
+10188,"Rarefied Artificial Volcanic Rock","GatheringItemLevelConvertTable#690",True,,0,False,0,1,124
+10189,"Rarefied Raw Dark Amber","GatheringItemLevelConvertTable#655",True,,0,False,0,1,123
+10190,"Rarefied Titanium Gold Ore","GatheringItemLevelConvertTable#670",True,,0,False,0,1,123
+10191,"Rarefied White Gold Ore","GatheringItemLevelConvertTable#680",True,,0,False,0,1,123
+10192,"Rarefied Magnesite Ore","GatheringItemLevelConvertTable#690",True,,0,False,0,1,123
+10193,"Rarefied Ra'Kaznar Ore","GatheringItemLevelConvertTable#700",True,,0,False,0,1,123
+10194,"Rarefied Ash Soil","GatheringItemLevelConvertTable#700",True,,0,False,0,1,123
+10195,"Rarefied Kozama'uka Chamomile","GatheringItemLevelConvertTable#645",True,,0,False,0,1,124
+10196,"Rarefied Wild Agave","GatheringItemLevelConvertTable#690",True,,0,False,0,1,124
+10197,"Rarefied Mountain Flax","GatheringItemLevelConvertTable#655",True,,0,False,0,1,123
+10198,"Rarefied Sweet Kukuru Bean","GatheringItemLevelConvertTable#670",True,,0,False,0,1,123
+10199,"Rarefied Acacia Bark","GatheringItemLevelConvertTable#680",True,,0,False,0,1,123
+10200,"Rarefied Dark Mahogany Log","GatheringItemLevelConvertTable#690",True,,0,False,0,1,123
+10201,"Rarefied Acacia Log","GatheringItemLevelConvertTable#700",True,,0,False,0,1,123
+10202,"Rarefied Windsbalm Bay Leaf","GatheringItemLevelConvertTable#700",True,,0,False,0,1,123
 10203,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
 10204,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
 10205,"Swordleaf","GatheringItemLevelConvertTable#180",False,,0,False,0,0,65535
@@ -1024,8 +1088,8 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint32,bit&02,uint32,byte,
 10267,"Walker's Popoto","GatheringItemLevelConvertTable#225",False,,0,False,0,0,65535
 10268,"Nanoriso","GatheringItemLevelConvertTable#260",False,,0,False,0,0,65535
 10269,"Rhalgr's Streak","GatheringItemLevelConvertTable#290",False,,0,False,0,0,65535
-10270,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10271,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10270,"Timeworn Loboskin Map","GatheringItemLevelConvertTable#690",False,,0,False,0,0,65535
+10271,"Timeworn Br'aaxskin Map","GatheringItemLevelConvertTable#690",False,,0,False,0,0,65535
 10272,"Red Malachite","GatheringItemLevelConvertTable#142",False,,0,False,0,0,65535
 10273,"Skystone","GatheringItemLevelConvertTable#145",False,,0,False,0,0,65535
 10274,"Dawn Dust","GatheringItemLevelConvertTable#148",False,,0,False,0,0,65535
@@ -1611,47 +1675,147 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint32,bit&02,uint32,byte,
 10854,"Nightforged Ice Cluster","GatheringItemLevelConvertTable#630",True,,0,True,0,0,65535
 10855,"Connoisseur's Glimshroom","GatheringItemLevelConvertTable#630",True,,0,False,0,1,177
 10856,"Nightforged Water Cluster","GatheringItemLevelConvertTable#630",True,,0,True,0,0,65535
-10857,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10858,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10859,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10860,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10861,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10862,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10863,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10864,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10865,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10866,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10867,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10868,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10869,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10870,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10871,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10872,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10873,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10874,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10875,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10876,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10877,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10878,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10879,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10880,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10881,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10882,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10883,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10884,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10885,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10886,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10887,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10888,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10889,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10890,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10891,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10892,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10893,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10894,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10895,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10896,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10897,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10898,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10899,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
-10900,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10857,"golden reed","GatheringItemLevelConvertTable#560",False,,0,False,0,0,65535
+10858,"thick golden reed","GatheringItemLevelConvertTable#655",False,,0,False,0,0,65535
+10859,"brushflower","GatheringItemLevelConvertTable#560",False,,0,False,0,0,65535
+10860,"deepstar blossom","GatheringItemLevelConvertTable#560",False,,0,False,0,0,65535
+10861,"palelight bloom","GatheringItemLevelConvertTable#655",False,,0,False,0,0,65535
+10862,"scarlet Ligaka leaf","GatheringItemLevelConvertTable#650",False,,0,False,0,0,65535
+10863,"scarlet Ligaka sprout","GatheringItemLevelConvertTable#665",False,,0,False,0,0,65535
+10864,"gigantic water lily","GatheringItemLevelConvertTable#650",False,,0,False,0,0,65535
+10865,"infested plant","GatheringItemLevelConvertTable#650",False,,0,False,0,0,65535
+10866,"Urqolupin bloom","GatheringItemLevelConvertTable#660",False,,0,False,0,0,65535
+10867,"Urqolupin bean","GatheringItemLevelConvertTable#675",False,,0,False,0,0,65535
+10868,"ear of Urqorn","GatheringItemLevelConvertTable#660",False,,0,False,0,0,65535
+10869,"hardy seed","GatheringItemLevelConvertTable#660",False,,0,False,0,0,65535
+10870,"huge hardy seed","GatheringItemLevelConvertTable#675",False,,0,False,0,0,65535
+10871,"handful of scalebuds","GatheringItemLevelConvertTable#670",False,,0,False,0,0,65535
+10872,"bucket of sap of living light","GatheringItemLevelConvertTable#670",False,,0,False,0,0,65535
+10873,"sample of burned wood","GatheringItemLevelConvertTable#670",False,,0,False,0,0,65535
+10874,"sample of carbonized wood","GatheringItemLevelConvertTable#685",False,,0,False,0,0,65535
+10875,"clump of soapweed","GatheringItemLevelConvertTable#680",False,,0,False,0,0,65535
+10876,"clump of enthusiastic soapweed","GatheringItemLevelConvertTable#690",False,,0,False,0,0,65535
+10877,"nopal","GatheringItemLevelConvertTable#680",False,,0,False,0,0,65535
+10878,"earth horn","GatheringItemLevelConvertTable#680",False,,0,False,0,0,65535
+10879,"thick earth horn","GatheringItemLevelConvertTable#690",False,,0,False,0,0,65535
+10880,"chunk of upland volcanic tuff","GatheringItemLevelConvertTable#560",False,,0,False,0,0,65535
+10881,"chunk of quality volcanic tuff","GatheringItemLevelConvertTable#655",False,,0,False,0,0,65535
+10882,"chunk of Chabayuqeq stone","GatheringItemLevelConvertTable#560",False,,0,False,0,0,65535
+10883,"chunk of igneous rock","GatheringItemLevelConvertTable#560",False,,0,False,0,0,65535
+10884,"chunk of quality igneous rock","GatheringItemLevelConvertTable#655",False,,0,False,0,0,65535
+10885,"chunk of abandoned rock","GatheringItemLevelConvertTable#650",False,,0,False,0,0,65535
+10886,"chunk of abandoned boulder","GatheringItemLevelConvertTable#665",False,,0,False,0,0,65535
+10887,"upland piscatory fossil","GatheringItemLevelConvertTable#650",False,,0,False,0,0,65535
+10888,"chunk of Naryor obsidian","GatheringItemLevelConvertTable#650",False,,0,False,0,0,65535
+10889,"chunk of firebright raw abokixa","GatheringItemLevelConvertTable#660",False,,0,False,0,0,65535
+10890,"chunk of goodbright raw abokixa","GatheringItemLevelConvertTable#675",False,,0,False,0,0,65535
+10891,"chunk of levee stone","GatheringItemLevelConvertTable#660",False,,0,False,0,0,65535
+10892,"smooth roundstone","GatheringItemLevelConvertTable#660",False,,0,False,0,0,65535
+10893,"shiny roundstone","GatheringItemLevelConvertTable#675",False,,0,False,0,0,65535
+10894,"sample of Yak T'el rock","GatheringItemLevelConvertTable#670",False,,0,False,0,0,65535
+10895,"cenote crystal","GatheringItemLevelConvertTable#670",False,,0,False,0,0,65535
+10896,"remnant of violence","GatheringItemLevelConvertTable#670",False,,0,False,0,0,65535
+10897,"remnant of magic","GatheringItemLevelConvertTable#685",False,,0,False,0,0,65535
+10898,"sample of Shaaloani rock","GatheringItemLevelConvertTable#680",False,,0,False,0,0,65535
+10899,"plains piscatory fossil","GatheringItemLevelConvertTable#690",False,,0,False,0,0,65535
+10900,"chunk of burnslate","GatheringItemLevelConvertTable#680",False,,0,False,0,0,65535
+10901,"chunk of shinestone","GatheringItemLevelConvertTable#680",False,,0,False,0,0,65535
+10902,"chunk of clear shinestone","GatheringItemLevelConvertTable#690",False,,0,False,0,0,65535
+10903,"Precious Material","GatheringItemLevelConvertTable#665",False,,0,False,0,0,65535
+10904,"Azure Fragment","GatheringItemLevelConvertTable#690",False,,0,False,0,0,65535
+10905,"Shunye's Apothecary Staple","GatheringItemLevelConvertTable#560",False,,0,False,0,6,13
+10906,"Shunye's Apothecary Spiritual Supplement","GatheringItemLevelConvertTable#655",False,,0,False,0,6,14
+10907,"Household Cleansing Supplies","GatheringItemLevelConvertTable#665",False,,0,False,0,6,15
+10908,"Deep Earth Fragment","GatheringItemLevelConvertTable#680",False,,0,False,0,6,16
+10909,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10910,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10911,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10912,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10913,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10914,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10915,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10916,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10917,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10918,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10919,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10920,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10921,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10922,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10923,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10924,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10925,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10926,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10927,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10928,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10929,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10930,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10931,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10932,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10933,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10934,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10935,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10936,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10937,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10938,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10939,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10940,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10941,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10942,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10943,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10944,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10945,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10946,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10947,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10948,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10949,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10950,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10951,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10952,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10953,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10954,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10955,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10956,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10957,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10958,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10959,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10960,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10961,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10962,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10963,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10964,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10965,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10966,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10967,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10968,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10969,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10970,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10971,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10972,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10973,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10974,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10975,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10976,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10977,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10978,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10979,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10980,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10981,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10982,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10983,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10984,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10985,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10986,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10987,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10988,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10989,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10990,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10991,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10992,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10993,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10994,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10995,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10996,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10997,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10998,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+10999,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0
+11000,"","GatheringItemLevelConvertTable#0",False,,0,False,0,0,0

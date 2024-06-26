@@ -13,25 +13,25 @@ int32,str,Image,byte,byte,ClassJob,bit&01
 9,"Pugilist's Arms","ui/icon/060000/060101.tex",1,6,"pugilist",False
 10,"Gladiator's Arms","ui/icon/060000/060102.tex",1,0,"gladiator",False
 11,"Marauder's Arms","ui/icon/060000/060103.tex",1,1,"marauder",False
-12,"Archer's Arms","ui/icon/060000/060105.tex",1,9,"archer",False
+12,"Archer's Arms","ui/icon/060000/060105.tex",1,10,"archer",False
 13,"Lancer's Arms","ui/icon/060000/060104.tex",1,4,"lancer",False
-14,"Thaumaturge's Arms","ui/icon/060000/060108.tex",1,12,"thaumaturge",False
-15,"Conjurer's Arms","ui/icon/060000/060107.tex",1,15,"conjurer",False
-16,"Arcanist's Arms","ui/icon/060000/060109.tex",1,13,"arcanist",False
+14,"Thaumaturge's Arms","ui/icon/060000/060108.tex",1,13,"thaumaturge",False
+15,"Conjurer's Arms","ui/icon/060000/060107.tex",1,17,"conjurer",False
+16,"Arcanist's Arms","ui/icon/060000/060109.tex",1,14,"arcanist",False
 17,"Shields","ui/icon/060000/060110.tex",2,0,"adventurer",False
 18,"Dancer's Arms","ui/icon/060000/060111.tex",0,0,"adventurer",False
-19,"Carpenter's Tools","ui/icon/060000/060112.tex",1,19,"carpenter",False
-20,"Blacksmith's Tools","ui/icon/060000/060113.tex",1,20,"blacksmith",False
-21,"Armorer's Tools","ui/icon/060000/060114.tex",1,21,"armorer",False
-22,"Goldsmith's Tools","ui/icon/060000/060115.tex",1,22,"goldsmith",False
-23,"Leatherworker's Tools","ui/icon/060000/060116.tex",1,23,"leatherworker",False
-24,"Weaver's Tools","ui/icon/060000/060117.tex",1,24,"weaver",False
-25,"Alchemist's Tools","ui/icon/060000/060118.tex",1,25,"alchemist",False
-26,"Culinarian's Tools","ui/icon/060000/060119.tex",1,26,"culinarian",False
-27,"Miner's Tools","ui/icon/060000/060120.tex",1,27,"miner",False
-28,"Botanist's Tools","ui/icon/060000/060121.tex",1,28,"botanist",False
-29,"Fisher's Tools","ui/icon/060000/060122.tex",1,29,"fisher",False
-30,"Fishing Tackle","ui/icon/060000/060123.tex",1,30,"fisher",False
+19,"Carpenter's Tools","ui/icon/060000/060112.tex",1,21,"carpenter",False
+20,"Blacksmith's Tools","ui/icon/060000/060113.tex",1,22,"blacksmith",False
+21,"Armorer's Tools","ui/icon/060000/060114.tex",1,23,"armorer",False
+22,"Goldsmith's Tools","ui/icon/060000/060115.tex",1,24,"goldsmith",False
+23,"Leatherworker's Tools","ui/icon/060000/060116.tex",1,25,"leatherworker",False
+24,"Weaver's Tools","ui/icon/060000/060117.tex",1,26,"weaver",False
+25,"Alchemist's Tools","ui/icon/060000/060118.tex",1,27,"alchemist",False
+26,"Culinarian's Tools","ui/icon/060000/060119.tex",1,28,"culinarian",False
+27,"Miner's Tools","ui/icon/060000/060120.tex",1,29,"miner",False
+28,"Botanist's Tools","ui/icon/060000/060121.tex",1,30,"botanist",False
+29,"Fisher's Tools","ui/icon/060000/060122.tex",1,31,"fisher",False
+30,"Fishing Tackle","ui/icon/060000/060123.tex",1,32,"fisher",False
 31,"Head","ui/icon/060000/060124.tex",2,1,"adventurer",False
 32,"Undershirts","ui/icon/060000/060125.tex",0,0,"adventurer",False
 33,"Body","ui/icon/060000/060126.tex",2,2,"adventurer",False
@@ -78,22 +78,22 @@ int32,str,Image,byte,byte,ClassJob,bit&01
 74,"Seasonal Miscellany","ui/icon/060000/060154.tex",3,17,"adventurer",False
 75,"Minions","ui/icon/060000/060155.tex",3,19,"adventurer",True
 76,"Dark Knight's Arms","ui/icon/060000/060170.tex",1,2,"dark knight",False
-77,"Machinist's Arms","ui/icon/060000/060172.tex",1,10,"machinist",False
-78,"Astrologian's Arms","ui/icon/060000/060171.tex",1,17,"astrologian",False
+77,"Machinist's Arms","ui/icon/060000/060172.tex",1,11,"machinist",False
+78,"Astrologian's Arms","ui/icon/060000/060171.tex",1,19,"astrologian",False
 79,"Airship/Submersible Components","ui/icon/060000/060169.tex",3,20,"adventurer",False
 80,"Orchestrion Components","ui/icon/060000/060173.tex",3,21,"adventurer",True
 81,"Gardening Items","ui/icon/060000/060174.tex",4,9,"adventurer",False
 82,"Paintings","ui/icon/060000/060175.tex",4,10,"adventurer",False
 83,"Samurai's Arms","ui/icon/060000/060177.tex",1,7,"samurai",False
-84,"Red Mage's Arms","ui/icon/060000/060176.tex",1,14,"red mage",False
-85,"Scholar's Arms","ui/icon/060000/060178.tex",1,16,"scholar",False
+84,"Red Mage's Arms","ui/icon/060000/060176.tex",1,15,"red mage",False
+85,"Scholar's Arms","ui/icon/060000/060178.tex",1,18,"scholar",False
 86,"Gunbreaker's Arms","ui/icon/060000/060181.tex",1,3,"gunbreaker",False
-87,"Dancer's Arms","ui/icon/060000/060182.tex",1,11,"dancer",False
+87,"Dancer's Arms","ui/icon/060000/060182.tex",1,12,"dancer",False
 88,"Reaper's Arms","ui/icon/060000/060183.tex",1,5,"reaper",False
-89,"Sage's Arms","ui/icon/060000/060184.tex",1,18,"sage",False
+89,"Sage's Arms","ui/icon/060000/060184.tex",1,20,"sage",False
 90,"Registrable Miscellany","ui/icon/060000/060185.tex",3,18,"adventurer",True
-91,"",,0,0,"adventurer",False
-92,"",,0,0,"adventurer",False
+91,"Viper's Arms","ui/icon/060000/060187.tex",1,9,"viper",False
+92,"Pictomancer's Arms","ui/icon/060000/060188.tex",1,16,"pictomancer",False
 93,"",,0,0,"adventurer",False
 94,"",,0,0,"adventurer",False
 95,"",,0,0,"adventurer",False

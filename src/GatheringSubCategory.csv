@@ -37,6 +37,18 @@ int32,GatheringType,ClassJob,Quest,uint16,Item,str,byte
 2033,"Quarrying","miner",,2012,"Tome of Geological Folklore - The World Unsundered","Ancient Mining Folklore",0
 2034,"Logging","botanist",,2012,"Tome of Botanical Folklore - The World Unsundered","Ancient Botany Folklore",0
 2035,"Logging","botanist",,2012,"Tome of Botanical Folklore - The World Unsundered","Ancient Botany Folklore",0
+2036,"Quarrying","miner",,2015,"Tome of Geological Folklore - Yok Tural","Yok Turali Mining Folklore",0
+2037,"Quarrying","miner",,2015,"Tome of Geological Folklore - Yok Tural","Yok Turali Mining Folklore",0
+2038,"Logging","botanist",,2015,"Tome of Botanical Folklore - Yok Tural","Yok Turali Botany Folklore",0
+2039,"Logging","botanist",,2015,"Tome of Botanical Folklore - Yok Tural","Yok Turali Botany Folklore",0
+2040,"Quarrying","miner",,2016,"Tome of Geological Folklore - Xak Tural","Xak Turali Mining Folklore",0
+2041,"Quarrying","miner",,2016,"Tome of Geological Folklore - Xak Tural","Xak Turali Mining Folklore",0
+2042,"Logging","botanist",,2016,"Tome of Botanical Folklore - Xak Tural","Xak Turali Botany Folklore",0
+2043,"Logging","botanist",,2016,"Tome of Botanical Folklore - Xak Tural","Xak Turali Botany Folklore",0
+2044,"Quarrying","miner",,2017,"Tome of Geological Folklore - Alexandria","Alexandrian Mining Folklore",0
+2045,"Quarrying","miner",,2017,"Tome of Geological Folklore - Alexandria","Alexandrian Mining Folklore",0
+2046,"Logging","botanist",,2017,"Tome of Botanical Folklore - Alexandria","Alexandrian Botany Folklore",0
+2047,"Logging","botanist",,2017,"Tome of Botanical Folklore - Alexandria","Alexandrian Botany Folklore",0
 2200,"Quarrying","miner",,2006,"","Geological Resources",2
 2201,"Quarrying","miner",,2006,"","Geological Resources",2
 2202,"Logging","botanist",,2006,"","Botanical Resources",2
@@ -121,14 +133,14 @@ int32,GatheringType,ClassJob,Quest,uint16,Item,str,byte
 2281,"Quarrying","miner","Dance Like Mowen Is Watching",2014,"","",0
 2282,"Logging","botanist","Dance Like Mowen Is Watching",2014,"","Botanical Resources III",0
 2283,"Logging","botanist","Dance Like Mowen Is Watching",2014,"","",0
-2284,"Mining","adventurer",,0,"","",0
-2285,"Mining","adventurer",,0,"","",0
-2286,"Mining","adventurer",,0,"","",0
-2287,"Mining","adventurer",,0,"","",0
-2288,"Mining","adventurer",,0,"","",0
-2289,"Mining","adventurer",,0,"","",0
-2290,"Mining","adventurer",,0,"","",0
-2291,"Mining","adventurer",,0,"","",0
+2284,"Quarrying","miner","Inscrutable Tastes",2018,"","Lv. 91",0
+2285,"Quarrying","miner","Inscrutable Tastes",2018,"","Lv. 91",0
+2286,"Logging","botanist","Inscrutable Tastes",2018,"","Lv. 91",0
+2287,"Logging","botanist","Inscrutable Tastes",2018,"","Lv. 91",0
+2288,"Quarrying","miner","Inscrutable Tastes",2018,"","Lv. 96",0
+2289,"Quarrying","miner","Inscrutable Tastes",2018,"","Lv. 96",0
+2290,"Logging","botanist","Inscrutable Tastes",2018,"","Lv. 96",0
+2291,"Logging","botanist","Inscrutable Tastes",2018,"","Lv. 96",0
 2292,"Mining","adventurer",,0,"","",0
 2293,"Mining","adventurer",,0,"","",0
 2294,"Mining","adventurer",,0,"","",0
@@ -203,3 +215,9 @@ int32,GatheringType,ClassJob,Quest,uint16,Item,str,byte
 2512,"Harvesting","fisher",,2011,"Tome of Ichthyological Folklore - The Sea of Stars","Celestial Fishing Folklore",0
 2513,"Harvesting","fisher",,2012,"Tome of Ichthyological Folklore - The World Unsundered","Ancient Fishing Folklore",0
 2514,"Harvesting","fisher",,2012,"Tome of Ichthyological Folklore - The World Unsundered","Ancient Fishing Folklore",0
+2515,"Harvesting","fisher",,2015,"Tome of Ichthyological Folklore - Yok Tural","Yok Turali Fishing Folklore",0
+2516,"Harvesting","fisher",,2015,"Tome of Ichthyological Folklore - Yok Tural","Yok Turali Fishing Folklore",0
+2517,"Harvesting","fisher",,2016,"Tome of Ichthyological Folklore - Xak Tural","Xak Turali Fishing Folklore",0
+2518,"Harvesting","fisher",,2016,"Tome of Ichthyological Folklore - Xak Tural","Xak Turali Fishing Folklore",0
+2519,"Harvesting","fisher",,2017,"Tome of Ichthyological Folklore - Alexandria","Alexandrian Fishing Folklore",0
+2520,"Harvesting","fisher",,2017,"Tome of Ichthyological Folklore - Alexandria","Alexandrian Fishing Folklore",0

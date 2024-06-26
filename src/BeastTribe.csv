@@ -16,6 +16,6 @@ int32,bit&01,byte,BeastRankBonus,Image,Image,byte,ExVersion,uint32,Item,byte,str
 12,False,0,"BeastRankBonus#5","ui/icon/061000/061912.tex","ui/icon/065000/065072.tex",8,"Shadowbringers",0,"Fae Fancy",1,"pixies",0,"",0,0,0,0,0,"Pixie Relations"
 13,False,80,"BeastRankBonus#6","ui/icon/061000/061913.tex","ui/icon/065000/065076.tex",8,"Shadowbringers",0,"Qitari Compliment",2,"Qitari",0,"",0,0,0,0,0,"Qitari Relations"
 14,False,80,"BeastRankBonus#7","ui/icon/061000/061914.tex","ui/icon/065000/065079.tex",8,"Shadowbringers",0,"Hammered Frogment",3,"dwarves",0,"",0,0,0,0,0,"Dwarf Relations"
-15,False,0,"BeastRankBonus#8","ui/icon/061000/061915.tex","ui/icon/065000/065092.tex",8,"Endwalker",70324,"Arkasodara Pana",3,"Arkasodara",0,"",0,0,0,0,0,"Arkasodara Relations"
+15,False,0,"BeastRankBonus#8","ui/icon/061000/061915.tex","ui/icon/065000/065092.tex",8,"Endwalker",70324,"Arkasodara Pana",1,"Arkasodara",0,"",0,0,0,0,0,"Arkasodara Relations"
 16,False,90,"BeastRankBonus#9","ui/icon/061000/061916.tex","ui/icon/065000/065093.tex",8,"Endwalker",70324,"Omicron Omnitoken",2,"Omicrons",0,"",0,0,0,0,0,"Omicron Relations"
-17,False,90,"BeastRankBonus#10","ui/icon/061000/061917.tex","ui/icon/065000/065101.tex",8,"Endwalker",70324,"Loporrit Carat",1,"Loporrits",0,"",0,0,0,0,0,"Loporrit Relations"
+17,False,90,"BeastRankBonus#10","ui/icon/061000/061917.tex","ui/icon/065000/065101.tex",8,"Endwalker",70324,"Loporrit Carat",3,"Loporrits",0,"",0,0,0,0,0,"Loporrit Relations"

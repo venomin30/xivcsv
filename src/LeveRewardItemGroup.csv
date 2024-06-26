@@ -1062,3 +1062,136 @@ int32,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool
 1058,"Fire Crystal",46,False,"Water Crystal",46,False,"Egg of Elpis",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1059,"Fire Crystal",40,False,"Water Crystal",40,False,"Alien Onion",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1060,"Fire Crystal",48,False,"Water Crystal",48,False,"Alien Onion",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1061,"Wind Crystal",41,False,"Ice Crystal",41,False,"Fire Crystal",41,False,"Earth Crystal",41,False,"Water Crystal",41,False,"Lightning Crystal",41,False,"",0,False,"",0,False,"",0,False
+1062,"Wind Crystal",49,False,"Ice Crystal",49,False,"Fire Crystal",49,False,"Earth Crystal",49,False,"Water Crystal",49,False,"Lightning Crystal",49,False,"",0,False,"",0,False,"",0,False
+1063,"Wind Crystal",42,False,"Ice Crystal",42,False,"Fire Crystal",42,False,"Earth Crystal",42,False,"Water Crystal",42,False,"Lightning Crystal",42,False,"",0,False,"",0,False,"",0,False
+1064,"Wind Crystal",50,False,"Ice Crystal",50,False,"Fire Crystal",50,False,"Earth Crystal",50,False,"Water Crystal",50,False,"Lightning Crystal",50,False,"",0,False,"",0,False,"",0,False
+1065,"Wind Crystal",43,False,"Ice Crystal",43,False,"Fire Crystal",43,False,"Earth Crystal",43,False,"Water Crystal",43,False,"Lightning Crystal",43,False,"",0,False,"",0,False,"",0,False
+1066,"Wind Crystal",51,False,"Ice Crystal",51,False,"Fire Crystal",51,False,"Earth Crystal",51,False,"Water Crystal",51,False,"Lightning Crystal",51,False,"",0,False,"",0,False,"",0,False
+1067,"Wind Crystal",44,False,"Ice Crystal",44,False,"Fire Crystal",44,False,"Earth Crystal",44,False,"Water Crystal",44,False,"Lightning Crystal",44,False,"",0,False,"",0,False,"",0,False
+1068,"Wind Crystal",52,False,"Ice Crystal",52,False,"Fire Crystal",52,False,"Earth Crystal",52,False,"Water Crystal",52,False,"Lightning Crystal",52,False,"",0,False,"",0,False,"",0,False
+1069,"Wind Crystal",45,False,"Ice Crystal",45,False,"Fire Crystal",45,False,"Earth Crystal",45,False,"Water Crystal",45,False,"Lightning Crystal",45,False,"",0,False,"",0,False,"",0,False
+1070,"Wind Crystal",54,False,"Ice Crystal",54,False,"Fire Crystal",54,False,"Earth Crystal",54,False,"Water Crystal",54,False,"Lightning Crystal",54,False,"",0,False,"",0,False,"",0,False
+1071,"Golden Stonefly Nymph",3,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1072,"Crimson Lugworm",3,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1073,"Silkmoth Pupa",3,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1074,"Honeybee",3,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1075,"Crimson Lugworm",3,False,"Honeybee",3,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1076,"Wind Crystal",36,False,"Ice Crystal",36,False,"Ginseng Log",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1077,"Wind Crystal",43,False,"Ice Crystal",43,False,"Ginseng Log",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1078,"Wind Crystal",37,False,"Ice Crystal",37,False,"Ceiba Log",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1079,"Wind Crystal",44,False,"Ice Crystal",44,False,"Ceiba Log",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1080,"Wind Crystal",38,False,"Ice Crystal",38,False,"Dark Mahogany Log",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1081,"Wind Crystal",45,False,"Ice Crystal",45,False,"Dark Mahogany Log",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1082,"Wind Crystal",86,False,"Ice Crystal",86,False,"Ginseng Lumber",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1083,"Wind Crystal",104,False,"Ice Crystal",104,False,"Ginseng Lumber",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1084,"Wind Crystal",87,False,"Ice Crystal",87,False,"Ceiba Lumber",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1085,"Wind Crystal",106,False,"Ice Crystal",106,False,"Ceiba Lumber",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1086,"Wind Crystal",88,False,"Ice Crystal",88,False,"Dark Mahogany Lumber",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1087,"Wind Crystal",108,False,"Ice Crystal",108,False,"Dark Mahogany Lumber",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1088,"Wind Crystal",89,False,"Ice Crystal",89,False,"Acacia Lumber",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1089,"Wind Crystal",110,False,"Ice Crystal",110,False,"Acacia Lumber",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1090,"Wind Crystal",90,False,"Ice Crystal",90,False,"Claro Walnut Lumber",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1091,"Wind Crystal",112,False,"Ice Crystal",112,False,"Claro Walnut Lumber",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1092,"Fire Crystal",37,False,"Earth Crystal",37,False,"Ruthenium Ore",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1093,"Fire Crystal",44,False,"Earth Crystal",44,False,"Ruthenium Ore",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1094,"Fire Crystal",86,False,"Earth Crystal",86,False,"Mountain Chromite Ingot",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1095,"Fire Crystal",104,False,"Earth Crystal",104,False,"Mountain Chromite Ingot",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1096,"Fire Crystal",87,False,"Earth Crystal",87,False,"Ruthenium Ingot",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1097,"Fire Crystal",106,False,"Earth Crystal",106,False,"Ruthenium Ingot",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1098,"Fire Crystal",88,False,"Earth Crystal",88,False,"Cobalt Tungsten Ingot",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1099,"Fire Crystal",108,False,"Earth Crystal",108,False,"Cobalt Tungsten Ingot",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1100,"Fire Crystal",89,False,"Earth Crystal",89,False,"Titanium Gold Nugget",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1101,"Fire Crystal",110,False,"Earth Crystal",110,False,"Titanium Gold Nugget",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1102,"Fire Crystal",90,False,"Earth Crystal",90,False,"Ra'Kaznar Ingot",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1103,"Fire Crystal",112,False,"Earth Crystal",112,False,"Ra'Kaznar Ingot",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1104,"Ice Crystal",36,False,"Earth Crystal",36,False,"Mountain Chromite Ore",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1105,"Ice Crystal",43,False,"Earth Crystal",43,False,"Mountain Chromite Ore",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1106,"Ice Crystal",38,False,"Earth Crystal",38,False,"Cobalt Tungsten Ore",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1107,"Ice Crystal",45,False,"Earth Crystal",45,False,"Cobalt Tungsten Ore",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1108,"Ice Crystal",86,False,"Earth Crystal",86,False,"Mountain Chromite Ingot",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1109,"Ice Crystal",104,False,"Earth Crystal",104,False,"Mountain Chromite Ingot",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1110,"Ice Crystal",87,False,"Earth Crystal",87,False,"Ruthenium Ingot",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1111,"Ice Crystal",106,False,"Earth Crystal",106,False,"Ruthenium Ingot",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1112,"Ice Crystal",88,False,"Earth Crystal",88,False,"Cobalt Tungsten Ingot",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1113,"Ice Crystal",108,False,"Earth Crystal",108,False,"Cobalt Tungsten Ingot",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1114,"Ice Crystal",89,False,"Earth Crystal",89,False,"Titanium Gold Nugget",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1115,"Ice Crystal",110,False,"Earth Crystal",110,False,"Titanium Gold Nugget",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1116,"Ice Crystal",90,False,"Earth Crystal",90,False,"Ra'Kaznar Ingot",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1117,"Ice Crystal",112,False,"Earth Crystal",112,False,"Ra'Kaznar Ingot",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1118,"Wind Crystal",36,False,"Fire Crystal",36,False,"Lar Ore",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1119,"Wind Crystal",43,False,"Fire Crystal",43,False,"Lar Ore",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1120,"Wind Crystal",37,False,"Fire Crystal",37,False,"Raw Ihuykanite",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1121,"Wind Crystal",44,False,"Fire Crystal",44,False,"Raw Ihuykanite",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1122,"Wind Crystal",38,False,"Fire Crystal",38,False,"Raw Pink Beryl",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1123,"Wind Crystal",45,False,"Fire Crystal",45,False,"Raw Pink Beryl",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1124,"Wind Crystal",86,False,"Fire Crystal",86,False,"Lar Ingot",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1125,"Wind Crystal",104,False,"Fire Crystal",104,False,"Lar Ingot",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1126,"Wind Crystal",87,False,"Fire Crystal",87,False,"Ihuykanite",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1127,"Wind Crystal",106,False,"Fire Crystal",106,False,"Ihuykanite",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1128,"Wind Crystal",88,False,"Fire Crystal",88,False,"Pink Beryl",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1129,"Wind Crystal",108,False,"Fire Crystal",108,False,"Pink Beryl",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1130,"Wind Crystal",89,False,"Fire Crystal",89,False,"White Gold Ingot",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1131,"Wind Crystal",110,False,"Fire Crystal",110,False,"White Gold Ingot",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1132,"Wind Crystal",90,False,"Fire Crystal",90,False,"Black Star",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1133,"Wind Crystal",112,False,"Fire Crystal",112,False,"Black Star",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1134,"Earth Crystal",36,False,"Wind Crystal",36,False,"Silver Lobo Hide",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1135,"Earth Crystal",43,False,"Wind Crystal",43,False,"Silver Lobo Hide",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1136,"Earth Crystal",38,False,"Wind Crystal",38,False,"Br'aax Hide",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1137,"Earth Crystal",45,False,"Wind Crystal",45,False,"Br'aax Hide",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1138,"Earth Crystal",86,False,"Wind Crystal",86,False,"Silver Lobo Leather",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1139,"Earth Crystal",104,False,"Wind Crystal",104,False,"Silver Lobo Leather",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1140,"Earth Crystal",87,False,"Wind Crystal",87,False,"Hammerhead Crocodile Leather",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1141,"Earth Crystal",106,False,"Wind Crystal",106,False,"Hammerhead Crocodile Leather",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1142,"Earth Crystal",88,False,"Wind Crystal",88,False,"Br'aax Leather",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1143,"Earth Crystal",108,False,"Wind Crystal",108,False,"Br'aax Leather",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1144,"Earth Crystal",89,False,"Wind Crystal",89,False,"Gomphotherium Leather",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1145,"Earth Crystal",110,False,"Wind Crystal",110,False,"Gomphotherium Leather",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1146,"Earth Crystal",90,False,"Wind Crystal",90,False,"Gargantua Leather",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1147,"Earth Crystal",112,False,"Wind Crystal",112,False,"Gargantua Leather",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1148,"Lightning Crystal",36,False,"Wind Crystal",36,False,"Snow Cotton",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1149,"Lightning Crystal",43,False,"Wind Crystal",43,False,"Snow Cotton",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1150,"Lightning Crystal",37,False,"Wind Crystal",37,False,"Mountain Flax",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1151,"Lightning Crystal",44,False,"Wind Crystal",44,False,"Mountain Flax",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1152,"Lightning Crystal",38,False,"Wind Crystal",38,False,"Sarcenet",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1153,"Lightning Crystal",45,False,"Wind Crystal",45,False,"Sarcenet",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1154,"Lightning Crystal",86,False,"Wind Crystal",86,False,"Snow Cotton Cloth",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1155,"Lightning Crystal",104,False,"Wind Crystal",104,False,"Snow Cotton Cloth",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1156,"Lightning Crystal",87,False,"Wind Crystal",87,False,"Mountain Linen",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1157,"Lightning Crystal",106,False,"Wind Crystal",106,False,"Mountain Linen",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1158,"Lightning Crystal",88,False,"Wind Crystal",88,False,"Sarcenet Cloth",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1159,"Lightning Crystal",108,False,"Wind Crystal",108,False,"Sarcenet Cloth",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1160,"Lightning Crystal",89,False,"Wind Crystal",89,False,"Rroneek Serge",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1161,"Lightning Crystal",110,False,"Wind Crystal",110,False,"Rroneek Serge",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1162,"Lightning Crystal",90,False,"Wind Crystal",90,False,"Thunderyards Silk",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1163,"Lightning Crystal",112,False,"Wind Crystal",112,False,"Thunderyards Silk",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1164,"Water Crystal",36,False,"Lightning Crystal",36,False,"Royal Maple Sap",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1165,"Water Crystal",43,False,"Lightning Crystal",43,False,"Poison Frog Secretions",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1166,"Water Crystal",37,False,"Lightning Crystal",37,False,"Wind Parsley",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1167,"Water Crystal",44,False,"Lightning Crystal",44,False,"Lesser Apollyon Shell",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1168,"Water Crystal",38,False,"Lightning Crystal",38,False,"Yak T'el Spring Water",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1169,"Water Crystal",45,False,"Lightning Crystal",45,False,"Ty'aitya Wingblade",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1170,"Water Crystal",86,False,"Lightning Crystal",86,False,"Poison Frog Secretions",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1171,"Water Crystal",104,False,"Lightning Crystal",104,False,"Royal Maple Sap",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1172,"Water Crystal",87,False,"Lightning Crystal",87,False,"Kozama'uka Chamomile",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1173,"Water Crystal",106,False,"Lightning Crystal",106,False,"Eucalyptus",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1174,"Water Crystal",88,False,"Lightning Crystal",88,False,"Ty'aitya Wingblade",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1175,"Water Crystal",108,False,"Lightning Crystal",108,False,"Windsbalm Bay Leaf",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1176,"Water Crystal",89,False,"Lightning Crystal",89,False,"Pearl Grass",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1177,"Water Crystal",110,False,"Lightning Crystal",110,False,"Tumbleclaw Weeds",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1178,"Water Crystal",90,False,"Lightning Crystal",90,False,"Axe Beak Wing",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1179,"Water Crystal",112,False,"Lightning Crystal",112,False,"Axe Beak Wing",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1180,"Fire Crystal",36,False,"Water Crystal",36,False,"Megamaguey Pineapple",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1181,"Fire Crystal",43,False,"Water Crystal",43,False,"Ut'ohmu Tomato",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1182,"Fire Crystal",37,False,"Water Crystal",37,False,"Wild Ja Tiika Bananas",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1183,"Fire Crystal",44,False,"Water Crystal",44,False,"Mountain Rock Salt",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1184,"Fire Crystal",36,False,"Water Crystal",36,False,"Alpaca Fillet",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1185,"Fire Crystal",43,False,"Water Crystal",43,False,"Ut'ohmu Tomato",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1186,"Fire Crystal",37,False,"Water Crystal",37,False,"Swampmonk Thigh",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1187,"Fire Crystal",44,False,"Water Crystal",44,False,"Turali Aloe",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1188,"Fire Crystal",38,False,"Water Crystal",38,False,"Turali Pineapple",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1189,"Fire Crystal",45,False,"Water Crystal",45,False,"Branchbearer Fruit",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1190,"Fire Crystal",39,False,"Water Crystal",39,False,"Mesquite Beans",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1191,"Fire Crystal",46,False,"Water Crystal",46,False,"Nopalitender Tuna",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1192,"Fire Crystal",40,False,"Water Crystal",40,False,"Bell Pepper",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1193,"Fire Crystal",48,False,"Water Crystal",48,False,"Yyasulani Garlic",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False

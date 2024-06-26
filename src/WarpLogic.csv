@@ -17,3 +17,4 @@ int32,uint32,str,bit&01,str,str,str,str,str,str,str,str,str,str,Row,Row,Row,Row,
 13,0,"WarpInnOldSharlayan",True,"","","","","","","","","","","","","","","","","","","","","","",""
 14,0,"WarpSEElpis",False,"","","","","","","","","","","","","","","","","","","","","","Yes","No"
 15,0,"WarpSEUltimaThule",False,"","","","","","","","","","","","","","","","","","","","","","Yes","No"
+16,0,"WarpInnTuliyollal",False,"QST_SEQ_1","QST_SEQ_FINISH","QST_KINGMD108","QST_KINGME111","QST_KINGMF114","QST_SEQ_2","QST_KINGMB104","","","","Basic Controls","Viewing Recorded Duties","And the Land Would Tremble","The Protector and the Destroyer","Dawntrail","Initiating Quests","A Father First","","","","","",""

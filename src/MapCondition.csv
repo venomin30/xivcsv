@@ -5,12 +5,12 @@ int32,uint16,Quest,byte
 1,67,,255
 2,68,,255
 3,71,,255
-4,0,"To Storm-tossed Seas",254
+4,0,"To Storm-tossed Seas",3
 5,0,"Where Eagles Nest",1
 6,0,"A New Playing Field",1
-7,0,"A Trip to the Moon",2
-8,0,"Unto the Heavens",254
-9,0,"Hope Upon a Flower",254
+7,0,"A Trip to the Moon",1
+8,0,"Unto the Heavens",2
+9,0,"Hope Upon a Flower",4
 10,0,"The Syrcus Trench",3
 11,0,"The Next Ship to Sail",254
 12,78,,255
@@ -26,3 +26,15 @@ int32,uint16,Quest,byte
 22,89,,255
 23,90,,255
 24,91,,255
+25,0,"A New World to Explore",5
+26,0,"Solution Nine",1
+27,0,"Through the Gate of Gold",3
+28,0,"All Aboard",3
+29,94,,255
+30,92,,255
+31,96,,255
+32,97,,255
+33,93,,255
+34,95,,255
+35,98,,255
+36,99,,255

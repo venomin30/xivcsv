@@ -152,21 +152,21 @@ int32,uint32,Row,byte,WeeklyBingoText,Image,byte
 148,4,,0,"Anabaseios: Ninth or Tenth Circles","ui/icon/113000/113132.tex",3
 149,4,,0,"Anabaseios: Eleventh or Twelfth Circles","ui/icon/113000/113134.tex",3
 150,0,"InstanceContent#30134",0,"Dammies","ui/icon/113000/113136.tex",0
-151,0,,0,"Dammies",,0
-152,0,,0,"Dammies",,0
-153,0,,0,"Dammies",,0
-154,0,,0,"Dammies",,0
-155,0,,0,"Dammies",,0
-156,0,,0,"Dammies",,0
-157,0,,0,"Dammies",,0
-158,0,,0,"Dammies",,0
-159,0,,0,"Dammies",,0
-160,0,,0,"Dammies",,0
-161,0,,0,"Dammies",,0
-162,0,,0,"Dammies",,0
-163,0,,0,"Dammies",,0
-164,0,,0,"Dammies",,0
-165,0,,0,"Dammies",,0
+151,4,,0,"Eden's Gate","ui/icon/113000/113093.tex",3
+152,4,,0,"Eden's Verse","ui/icon/113000/113098.tex",3
+153,4,,0,"Eden's Promise","ui/icon/113000/113105.tex",3
+154,4,,0,"Alliance Raids (A Realm Reborn)","ui/icon/113000/113005.tex",3
+155,4,,0,"Alliance Raids (Heavensward)","ui/icon/113000/113008.tex",3
+156,4,,0,"Alliance Raids (Stormblood)","ui/icon/113000/113068.tex",3
+157,4,,0,"Alliance Raids (Shadowbringers)","ui/icon/113000/113097.tex",3
+158,4,,0,"Alliance Raids (Endwalker)","ui/icon/113000/113123.tex",3
+159,0,"InstanceContent#20083",0,"Dammies","ui/icon/113000/113139.tex",0
+160,0,"InstanceContent#20085",0,"Dammies","ui/icon/113000/113140.tex",0
+161,0,"InstanceContent#20087",0,"Dammies","ui/icon/113000/113141.tex",0
+162,0,"InstanceContent#20090",0,"Dammies","ui/icon/113000/113142.tex",0
+163,0,"InstanceContent#20092",0,"Dammies","ui/icon/113000/113143.tex",0
+164,2,,0,"Dungeons (Lv. 91-99)","ui/icon/113000/113137.tex",3
+165,1,,0,"Dungeons (Lv. 100)","ui/icon/113000/113138.tex",3
 166,0,,0,"Dammies",,0
 167,0,,0,"Dammies",,0
 168,0,,0,"Dammies",,0

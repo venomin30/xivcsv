@@ -28,3 +28,5 @@ int32,byte,Image,Item,EventItem,EventItem,byte,byte,uint16,bit&01
 24,1,"ui/icon/060000/060354.tex","Timeworn Ophiotauroskin Map","ophiotauroskin treasure map","ancient thief's map",8,0,200,False
 25,1,"ui/icon/060000/060354.tex","Potentially Special Timeworn Map","potentially special treasure map","potentially special thief's map",8,0,200,False
 26,1,"ui/icon/060000/060354.tex","Conceivably Special Timeworn Map","conceivably special treasure map","conceivably special thief's map",8,0,200,False
+27,1,"ui/icon/060000/060354.tex","Timeworn Loboskin Map","loboskin treasure map",,1,0,200,False
+28,1,"ui/icon/060000/060354.tex","Timeworn Br'aaxskin Map","br'aaxskin treasure map","enigmatic thief's map",8,0,200,False

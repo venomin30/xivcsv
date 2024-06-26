@@ -133,14 +133,14 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 129,"Pets",True,"ui/icon/151000/en/151431.tex","ui/icon/151000/en/151432.tex","ui/icon/151000/en/151433.tex","ui/icon/151000/en/151435.tex","","ui/icon/151000/en/151431.tex","ui/icon/151000/en/151436.tex","ui/icon/151000/en/151433.tex","ui/icon/151000/en/151435.tex","","Battle",7
 130,"Crystalline Conflict",True,"ui/icon/151000/en/151211.tex","","","","","","","","","","Duty",31
 131,"Quest Battles",True,"ui/icon/151000/en/151481.tex","ui/icon/151000/en/151482.tex","ui/icon/151000/en/151483.tex","","","","","","","","Battle",15
-132,"Achievements",True,"ui/icon/151000/en/151491.tex","ui/icon/151000/en/151492.tex","","","","","","","","","Adventuring Basics",14
+132,"Achievements",True,"ui/icon/151000/en/151491.tex","ui/icon/151000/en/151492.tex","ui/icon/151000/en/151493.tex","","","ui/icon/151000/en/151491.tex","ui/icon/151000/en/151492.tex","ui/icon/151000/en/151494.tex","","","Adventuring Basics",14
 133,"Recommended Duties",True,"ui/icon/151000/en/151341.tex","ui/icon/151000/en/151342.tex","","","","","","","","","Quests",16
 134,"",False,"","","","","","","","","","","None",0
 135,"Fishing",True,"ui/icon/151000/en/151311.tex","ui/icon/151000/en/151312.tex","","","","","","","","","Fishing",2
 136,"Armoury Bonus",True,"ui/icon/151000/en/151441.tex","ui/icon/151000/en/151442.tex","","","","","","","","","Battle",14
 137,"Allagan Tomestones",True,"ui/icon/151000/en/151451.tex","ui/icon/151000/en/151452.tex","","","","","","","","","Items",6
-138,"Using Items on Areas",True,"ui/icon/151000/en/151471.tex","","","","","ui/icon/151000/en/151472.tex","","","","","Quests",7
-139,"Using Key Items on Targets",True,"ui/icon/151000/en/151501.tex","ui/icon/151000/en/151502.tex","","","","ui/icon/151000/en/151504.tex","ui/icon/151000/en/151502.tex","","","","Quests",8
+138,"Using Items on Areas",True,"ui/icon/151000/en/151471.tex","","","","","ui/icon/151000/en/151472.tex","","","","","Quests",8
+139,"Using Key Items on Targets",True,"ui/icon/151000/en/151501.tex","ui/icon/151000/en/151502.tex","","","","ui/icon/151000/en/151504.tex","ui/icon/151000/en/151502.tex","","","","Quests",9
 140,"",False,"","","","","","","","","","","None",0
 141,"PvP Rewards",True,"ui/icon/151000/en/151531.tex","ui/icon/151000/en/151532.tex","ui/icon/151000/en/151533.tex","","","ui/icon/151000/en/151531.tex","ui/icon/151000/en/151532.tex","ui/icon/151000/en/151534.tex","","","Duty",32
 142,"",False,"","","","","","","","","","","None",0
@@ -153,7 +153,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 149,"Timeworn Maps",True,"ui/icon/151000/en/151611.tex","ui/icon/151000/en/151612.tex","ui/icon/151000/en/151613.tex","","","","","","","","Items",31
 150,"Deciphering Timeworn Maps",True,"ui/icon/151000/en/151621.tex","ui/icon/151000/en/151622.tex","","","","","","","","","Items",32
 151,"Finding Treasure",True,"ui/icon/151000/en/151631.tex","ui/icon/151000/en/151632.tex","ui/icon/151000/en/151633.tex","","","","","","","","Items",33
-152,"The Tribes and Their Tribulations",True,"ui/icon/151000/en/151641.tex","ui/icon/151000/en/151642.tex","ui/icon/151000/en/151643.tex","","","","","","","","Quests",21
+152,"Allied Society Quests",True,"ui/icon/151000/en/151641.tex","ui/icon/151000/en/151642.tex","ui/icon/151000/en/151643.tex","","","","","","","","Quests",21
 153,"Reputation",True,"ui/icon/151000/en/151651.tex","ui/icon/151000/en/151652.tex","ui/icon/151000/en/151653.tex","","","","","","","","Quests",22
 154,"Transporting",True,"ui/icon/151000/en/151661.tex","ui/icon/151000/en/151661.tex","","","","","","","","","Quests",23
 155,"Transparency",True,"ui/icon/151000/en/151671.tex","ui/icon/151000/en/151672.tex","","","","","","","","","Quests",24
@@ -286,6 +286,6 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 282,"Quality Requirements",True,"ui/icon/152000/en/152921.tex","","","","","","","","","","Crafting",12
 283,"Prime and Sublime Collectables",True,"ui/icon/152000/en/152931.tex","ui/icon/152000/en/152932.tex","ui/icon/152000/en/152933.tex","","","","","","","","Gathering",54
 284,"Gatherer Role Actions",True,"ui/icon/152000/en/152941.tex","ui/icon/152000/en/152942.tex","ui/icon/152000/en/152943.tex","","","","","","","","Gathering",1
-285,"",False,"","","","","","","","","","","None",0
-286,"",False,"","","","","","","","","","","None",0
+285,"Facewear",True,"ui/icon/152000/en/152951.tex","ui/icon/152000/en/152952.tex","","","","","","","","","Adventuring Basics",29
+286,"Scenario Guide",True,"ui/icon/152000/en/152961.tex","ui/icon/152000/en/152962.tex","","","","","","","","","Quests",7
 287,"",False,"","","","","","","","","","","None",0

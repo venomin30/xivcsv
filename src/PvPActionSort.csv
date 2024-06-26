@@ -411,16 +411,6 @@ int32,byte,Row,bit&01,bit&02,int32
 22.16,1,"Purify",True,True,0
 22.17,1,"Guard",True,True,0
 22.18,1,"Sprint",True,True,0
-22.19,0,,True,True,0
-22.20,0,,True,True,0
-22.21,0,,True,True,0
-22.22,0,,True,True,0
-22.23,0,,True,True,0
-22.24,0,,True,True,0
-22.25,0,,True,True,0
-22.26,0,,True,True,0
-22.27,0,,True,True,0
-22.28,0,,True,True,0
 23.0,2,"Infernal Slice Combo",True,True,0
 23.1,1,"Slice",False,False,0
 23.2,1,"Waxing Slice",False,False,0
@@ -444,16 +434,6 @@ int32,byte,Row,bit&01,bit&02,int32
 23.20,1,"Purify",True,True,0
 23.21,1,"Guard",True,True,0
 23.22,1,"Sprint",True,True,0
-23.23,0,,True,True,0
-23.24,0,,True,True,0
-23.25,0,,True,True,0
-23.26,0,,True,True,0
-23.27,0,,True,True,0
-23.28,0,,True,True,0
-23.29,0,,True,True,0
-23.30,0,,True,True,0
-23.31,0,,True,True,0
-23.32,0,,True,True,0
 24.0,1,"Dosis III",True,True,0
 24.1,1,"Phlegma III",True,True,0
 24.2,1,"Pneuma",True,True,0
@@ -470,5 +450,70 @@ int32,byte,Row,bit&01,bit&02,int32
 24.13,1,"Guard",True,True,0
 24.14,1,"Sprint",True,True,0
 24.15,0,,False,False,0
-24.16,0,,True,True,0
-24.17,0,,True,True,0
+25.0,2,"Dual Fang Combo",True,True,0
+25.1,1,"Steel Fangs",False,False,0
+25.2,1,"Hunter's Sting",False,False,0
+25.3,1,"Barbarous Bite",False,False,0
+25.4,1,"Piercing Fangs",False,False,0
+25.5,1,"Swiftskin's Sting",False,False,0
+25.6,1,"Ravenous Bite",False,False,0
+25.7,1,"Hunter's Snap",True,True,0
+25.8,1,"Uncoiled Fury",True,True,0
+25.9,1,"Serpent's Tail",True,True,0
+25.10,1,"Slither",True,True,0
+25.11,1,"Snake Scales",True,True,0
+25.12,1,"Rattling Coil",True,True,0
+25.13,1,"World-swallower",True,True,0
+25.14,1,"Swiftskin's Coil",False,False,0
+25.15,1,"First Generation",False,False,0
+25.16,1,"Second Generation",False,False,0
+25.17,1,"Third Generation",False,False,0
+25.18,1,"Fourth Generation",False,False,0
+25.19,1,"Ouroboros",False,False,0
+25.20,1,"Death Rattle",False,False,0
+25.21,1,"Twinfang Bite",False,False,0
+25.22,1,"Twinblood Bite",False,False,0
+25.23,1,"Uncoiled Twinfang",False,False,0
+25.24,1,"First Legacy",False,False,0
+25.25,1,"Second Legacy",False,False,0
+25.26,1,"Third Legacy",False,False,0
+25.27,1,"Fourth Legacy",False,False,0
+25.28,1,"Backlash",False,False,0
+25.29,1,"Standard-issue Elixir",True,True,0
+25.30,1,"Recuperate",True,True,0
+25.31,1,"Purify",True,True,0
+25.32,1,"Guard",True,True,0
+25.33,1,"Sprint",True,True,0
+25.34,0,,True,True,0
+26.0,1,"Fire in Red",True,True,0
+26.1,1,"Holy in White",True,True,0
+26.2,1,"Creature Motif",True,True,0
+26.3,1,"Living Muse",True,True,0
+26.4,1,"Mog of the Ages",True,True,0
+26.5,1,"Smudge",True,True,0
+26.6,1,"Tempera Coat",True,True,0
+26.7,1,"Subtractive Palette",True,True,0
+26.8,1,"Advent of Chocobastion",True,True,0
+26.9,1,"Aero in Green",False,False,0
+26.10,1,"Water in Blue",False,False,0
+26.11,1,"Blizzard in Cyan",False,False,0
+26.12,1,"Stone in Yellow",False,False,0
+26.13,1,"Thunder in Magenta",False,False,0
+26.14,1,"Comet in Black",False,False,0
+26.15,1,"Pom Motif",False,False,0
+26.16,1,"Wing Motif",False,False,0
+26.17,1,"Claw Motif",False,False,0
+26.18,1,"Maw Motif",False,False,0
+26.19,1,"Pom Muse",False,False,0
+26.20,1,"Winged Muse",False,False,0
+26.21,1,"Clawed Muse",False,False,0
+26.22,1,"Fanged Muse",False,False,0
+26.23,1,"Retribution of the Madeen",False,False,0
+26.24,1,"Tempera Grassa",False,False,0
+26.25,1,"Star Prism",False,False,0
+26.26,1,"Standard-issue Elixir",True,True,0
+26.27,1,"Recuperate",True,True,0
+26.28,1,"Purify",True,True,0
+26.29,1,"Guard",True,True,0
+26.30,1,"Sprint",True,True,0
+26.31,0,,True,True,0

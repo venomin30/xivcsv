@@ -1152,4 +1152,93 @@ int32,Leve,CraftLeveTalk,byte,Item,uint16,Item,uint16,Item,uint16,Item,uint16
 918652,"Simple as Salt","CraftLeveTalk#36",0,"Saltsquid",9,"",0,"",0,"",0
 918653,"Plumbing the Past","CraftLeveTalk#36",0,"Colossoma",3,"",0,"",0,"",0
 918654,"What's in the Air","CraftLeveTalk#36",0,"Rummy-nosed Tetra",9,"",0,"",0,"",0
-918655,"","CraftLeveTalk#0",0,"",0,"",0,"",0,"",0
+918655,"Hull Lotta Damage","CraftLeveTalk#37",0,"Ginseng Lumber",3,"",0,"",0,"",0
+918656,"Yimepi's Country Charms","CraftLeveTalk#37",0,"Ginseng Earrings",1,"",0,"",0,"",0
+918657,"Wood You Be Quiet","CraftLeveTalk#37",0,"Ceiba Lumber",3,"",0,"",0,"",0
+918658,"The Wing's Wings","CraftLeveTalk#37",0,"Ceiba Wings",1,"",0,"",0,"",0
+918659,"Turali Quality","CraftLeveTalk#37",0,"Dark Mahogany Lumber",3,"",0,"",0,"",0
+918660,"Lament of the Lazylump","CraftLeveTalk#37",0,"Dark Mahogany Fishing Rod",1,"",0,"",0,"",0
+918661,"Bow Out","CraftLeveTalk#37",0,"Acacia Longbow",1,"",0,"",0,"",0
+918662,"Weaving a Path","CraftLeveTalk#37",0,"Acacia Spinning Wheel",1,"",0,"",0,"",0
+918663,"Spear Pressure","CraftLeveTalk#37",0,"Claro Walnut Spear",1,"",0,"",0,"",0
+918664,"No Greater Treasure","CraftLeveTalk#37",0,"Claro Walnut Necklace of Gathering",1,"",0,"",0,"",0
+918665,"Always Be Prepaired","CraftLeveTalk#37",0,"Mountain Chromite Twinfangs",1,"",0,"",0,"",0
+918666,"Paring Is Caring","CraftLeveTalk#37",0,"Mountain Chromite Hatchet",1,"",0,"",0,"",0
+918667,"Ruthenium Supremium","CraftLeveTalk#37",0,"Ruthenium Ingot",3,"",0,"",0,"",0
+918668,"Axes to the Maxes","CraftLeveTalk#37",0,"Ruthenium War Axe",1,"",0,"",0,"",0
+918669,"Maintaining the Maintainers","CraftLeveTalk#37",0,"Cobalt Tungsten File",1,"",0,"",0,"",0
+918670,"Dagger Swagger","CraftLeveTalk#37",0,"Cobalt Tungsten Khukuri",1,"",0,"",0,"",0
+918671,"Bladewinner","CraftLeveTalk#37",0,"Titanium Gold Greatsword",1,"",0,"",0,"",0
+918672,"Maul Me","CraftLeveTalk#37",0,"Titanium Gold Maul",1,"",0,"",0,"",0
+918673,"Ceremonial Teeth","CraftLeveTalk#37",0,"Ra'Kaznar Twinfangs",1,"",0,"",0,"",0
+918674,"Awl Dreams Come True","CraftLeveTalk#37",0,"Ra'Kaznar Awl",1,"",0,"",0,"",0
+918675,"Don't Bore Me, Ore Me","CraftLeveTalk#37",0,"Mountain Chromite Ingot",3,"",0,"",0,"",0
+918676,"Shielding My Students","CraftLeveTalk#37",0,"Mountain Chromite Tower Shield",1,"",0,"",0,"",0
+918677,"Brace for More Vambraces","CraftLeveTalk#37",0,"Ruthenium Vambraces of Maiming",1,"",0,"",0,"",0
+918678,"Forgiveness for My Shins","CraftLeveTalk#37",0,"Ruthenium Sabatons of Fending",1,"",0,"",0,"",0
+918679,"Metal with Mettle","CraftLeveTalk#37",0,"Cobalt Tungsten Ingot",3,"",0,"",0,"",0
+918680,"Odd Instruments","CraftLeveTalk#37",0,"Cobalt Tungsten Alembic",1,"",0,"",0,"",0
+918681,"Don't Ask about the Rivets","CraftLeveTalk#37",0,"Titanium Gold Helm of Casting",1,"",0,"",0,"",0
+918682,"Backing up My Words","CraftLeveTalk#37",0,"Titanium Gold Thornplate of Fending",1,"",0,"",0,"",0
+918683,"A Hand for a Deckhand","CraftLeveTalk#37",0,"Ra'Kaznar Gloves of Scouting",1,"",0,"",0,"",0
+918684,"Essays on Equipment","CraftLeveTalk#37",0,"Ra'Kaznar Greaves of Maiming",1,"",0,"",0,"",0
+918685,"On Board for Lar","CraftLeveTalk#37",0,"Lar Ingot",3,"",0,"",0,"",0
+918686,"Pendulums of Our Own","CraftLeveTalk#37",0,"Lar Pendulums",1,"",0,"",0,"",0
+918687,"Guaranteed Gem","CraftLeveTalk#37",0,"Ihuykanite",3,"",0,"",0,"",0
+918688,"Fan of the Foreign","CraftLeveTalk#37",0,"Ruthenium Folding Fans",1,"",0,"",0,"",0
+918689,"Shiny and Good","CraftLeveTalk#37",0,"Pink Beryl",3,"",0,"",0,"",0
+918690,"Sew Excited","CraftLeveTalk#37",0,"Cobalt Tungsten Needle",1,"",0,"",0,"",0
+918691,"Orders Anonymous","CraftLeveTalk#37",0,"White Gold Halfmask of Maiming",1,"",0,"",0,"",0
+918692,"Ringing Gratitude","CraftLeveTalk#37",0,"White Gold Ring of Healing",1,"",0,"",0,"",0
+918693,"The Right Rod","CraftLeveTalk#37",0,"Ra'Kaznar Rod",1,"",0,"",0,"",0
+918694,"Mask Maker","CraftLeveTalk#37",0,"Black Star Mask of Casting",1,"",0,"",0,"",0
+918695,"Tenets of Tanning","CraftLeveTalk#37",0,"Silver Lobo Leather",3,"",0,"",0,"",0
+918696,"The Perfect Accessory","CraftLeveTalk#37",0,"Loboskin Amulet of Fending",1,"",0,"",0,"",0
+918697,"Freezing Fingers","CraftLeveTalk#37",0,"Crocodileskin Fingerless Gloves of Striking",1,"",0,"",0,"",0
+918698,"Dreams of Ja","CraftLeveTalk#37",0,"Crocodileskin Leg Wraps of Scouting",1,"",0,"",0,"",0
+918699,"Respect for Br'aax","CraftLeveTalk#37",0,"Br'aax Leather",3,"",0,"",0,"",0
+918700,"Lending Artisans a Hand","CraftLeveTalk#37",0,"Br'aaxskin Halfgloves of Crafting",1,"",0,"",0,"",0
+918701,"Freezing Toes","CraftLeveTalk#37",0,"Gomphotherium Boots of Striking",1,"",0,"",0,"",0
+918702,"Giving Gatherers Their Gear","CraftLeveTalk#37",0,"Gomphotherium Doublet of Gathering",1,"",0,"",0,"",0
+918703,"Worqor Zormor or Bust","CraftLeveTalk#37",0,"Gargantuaskin Shoes of Healing",1,"",0,"",0,"",0
+918704,"Just Generally Freezing","CraftLeveTalk#37",0,"Gargantuaskin Trousers of Striking",1,"",0,"",0,"",0
+918705,"Comfy Cabins","CraftLeveTalk#37",0,"Snow Cotton Cloth",3,"",0,"",0,"",0
+918706,"Begin with the Basics","CraftLeveTalk#37",0,"Snow Cotton Jacket",1,"",0,"",0,"",0
+918707,"Cloth for Canvas","CraftLeveTalk#37",0,"Mountain Linen",3,"",0,"",0,"",0
+918708,"In Line with Linen","CraftLeveTalk#37",0,"Mountain Linen Cloak of Casting",1,"",0,"",0,"",0
+918709,"Weaving the Envelope","CraftLeveTalk#37",0,"Sarcenet Cloth",3,"",0,"",0,"",0
+918710,"Traditional Trousers","CraftLeveTalk#37",0,"Sarcenet Slops of Aiming",1,"",0,"",0,"",0
+918711,"Halfgloves, Full Effort","CraftLeveTalk#37",0,"Rroneek Serge Halfgloves of Healing",1,"",0,"",0,"",0
+918712,"Cruel Climates","CraftLeveTalk#37",0,"Rroneek Serge Trousers of Gathering",1,"",0,"",0,"",0
+918713,"Glamorous Gloves","CraftLeveTalk#37",0,"Thunderyards Silk Gloves of Casting",1,"",0,"",0,"",0
+918714,"Silk for Sunperch","CraftLeveTalk#37",0,"Thunderyards Silk Coat of Casting",1,"",0,"",0,"",0
+918715,"Fast-forwarding Flora","CraftLeveTalk#37",0,"Growth Formula Lambda",3,"",0,"",0,"",0
+918716,"Big Brush, Big Dreams","CraftLeveTalk#37",0,"Ginseng Angle Brush",1,"",0,"",0,"",0
+918717,"Binding Spells","CraftLeveTalk#37",0,"Crocodileskin Index",1,"",0,"",0,"",0
+918718,"For Tired Minds","CraftLeveTalk#37",0,"Grade 1 Gemsap of Intelligence",9,"",0,"",0,"",0
+918719,"I Like Big Brush and I Cannot Lie","CraftLeveTalk#37",0,"Dark Mahogany Round Brush",1,"",0,"",0,"",0
+918720,"Cutting Edge of Culinary Quality","CraftLeveTalk#37",0,"Magnesia Whetstone",3,"",0,"",0,"",0
+918721,"All-night Crafting","CraftLeveTalk#37",0,"Cunning Craftsman's Tisane",3,"",0,"",0,"",0
+918722,"Something Salty and Ceremonial","CraftLeveTalk#37",0,"Gomphotherium Codex",1,"",0,"",0,"",0
+918723,"Tome for Tradition","CraftLeveTalk#37",0,"Book of Ra'Kaznar",1,"",0,"",0,"",0
+918724,"Remedy for Reason","CraftLeveTalk#37",0,"Grade 1 Gemdraught of Mind",3,"",0,"",0,"",0
+918725,"More Mezcal","CraftLeveTalk#37",0,"Cooking Mezcal",9,"",0,"",0,"",0
+918726,"Friends Are Food","CraftLeveTalk#37",0,"Boiled Alpaca Steak",3,"",0,"",0,"",0
+918727,"Don't Knock It Till You've Tried It","CraftLeveTalk#37",0,"Mezcal-marinated Swampmonk",3,"",0,"",0,"",0
+918728,"Not-so-secret Ingredient","CraftLeveTalk#37",0,"Royal Maple Syrup",9,"",0,"",0,"",0
+918729,"Simple Is Hardest","CraftLeveTalk#37",0,"Spaghetti al Olio e Peperoncino",3,"",0,"",0,"",0
+918730,"Creative Chocolate","CraftLeveTalk#37",0,"Gateau Au Chocolat",3,"",0,"",0,"",0
+918731,"Bring Me Your Tacos","CraftLeveTalk#37",0,"Tacos Al Pastor",3,"",0,"",0,"",0
+918732,"Najoothie","CraftLeveTalk#37",0,"Wild Banana Blend",3,"",0,"",0,"",0
+918733,"Sweet, Sweet Bean Juice","CraftLeveTalk#37",0,"Mesquite Juice",3,"",0,"",0,"",0
+918734,"Ocean Explosion","CraftLeveTalk#37",0,"Acqua Pazza",3,"",0,"",0,"",0
+918735,"Axing for Fish","CraftLeveTalk#38",0,"Marbled Hatchetfish",3,"",0,"",0,"",0
+918736,"Full Moon Frogs","CraftLeveTalk#38",0,"Yok Huy Toad",9,"",0,"",0,"",0
+918737,"Travel by Turtle","CraftLeveTalk#38",0,"Pleated Matamata",3,"",0,"",0,"",0
+918738,"Order for Odd Fish","CraftLeveTalk#38",0,"Potglaze Stingray",9,"",0,"",0,"",0
+918739,"Perilous Peaks Poga","CraftLeveTalk#38",0,"Pelubane",3,"",0,"",0,"",0
+918740,"Catch My Metaphor","CraftLeveTalk#38",0,"Karvarichthys",9,"",0,"",0,"",0
+918741,"Starry-finned","CraftLeveTalk#38",0,"Welkin Catfish",3,"",0,"",0,"",0
+918742,"Eeling Cleanse","CraftLeveTalk#38",0,"Lightning Eel",9,"",0,"",0,"",0
+918743,"Fish Tacos","CraftLeveTalk#38",0,"Moon Croppie",3,"",0,"",0,"",0
+918744,"Hungry Hungry Whalaqee","CraftLeveTalk#38",0,"Warmouth",9,"",0,"",0,"",0

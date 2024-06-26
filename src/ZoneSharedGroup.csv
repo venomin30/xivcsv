@@ -255,3 +255,31 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 50.13,9342606,1," The Café at the End of the Universe",0,False,1," Life, the Universe, and Coffee Beans",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 50.14,8961773,1,"Where No Loporrit Has Gone Before",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 50.15,9385708,2," The Café at the End of the Universe",1,False,2," The Café at the End of the Universe",2,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+51.0,10628680,2,"To Kozama'uka",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+51.1,10628605,2,"For All Turali",3,False,2,"For All Turali",4,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+51.2,10632805,2,"Dawntrail",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+51.3,10757216,2,"And the Land Would Tremble",255,False,2,"All Aboard",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+51.4,10638074,2,"And the Land Would Tremble",255,False,2,"The Protector and the Destroyer",1,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+51.5,10653871,2,"And the Land Would Tremble",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+52.0,10570830,2,"The High Luminary",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+53.0,9867101,2,"The Lifting of Wings",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+53.1,10562741,2,"Knowing the Hanuhanu",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+53.2,10562742,2,"Knowing the Hanuhanu",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+53.3,10613522,2,"Knowing the Hanuhanu",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+53.4,10429375,2,"A Brother's Duty",255,False,2,"Sibling Rescue",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+54.0,10614014,2,"Into the Traverse",1,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+55.0,10399297,2,"The Protector and the Destroyer",3,False,2,"Dawntrail",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+55.1,10558455,1,"Dawntrail",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+56.0,10511646,2,"And the Land Would Tremble",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+56.1,9872339,2,"And the Land Would Tremble",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+56.2,10746983,2,"In Yyasulani's Shadow",2,False,2,"The Protector and the Destroyer",1,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+56.3,10510357,2,"A Hot Commodity",255,False,2,"All Aboard",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+56.4,10515675,2,"All Aboard",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+57.0,10617550,2,"Solution Nine",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+58.0,10591852,2,"In Serenity and Sorrow",9,False,2,"In Serenity and Sorrow",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+58.1,10591856,2,"A Knight of Alexandria",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+58.2,10613110,2,"Leafing through the Past",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+58.3,10613109,2,"A Journey Never-ending",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+58.4,10596151,2,"Dawntrail",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+58.5,10109854,2,"A Knight of Alexandria",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+58.6,0,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False

@@ -19,3 +19,7 @@ int32,byte,Quest,EventItem,MobHuntOrder,byte
 15,1,"That Specimen Came from the Moon","stack of associate guildship mark bills","MobHuntOrder#228",10
 16,1,"A Hunt for the Ages","stack of senior guildship mark bills","MobHuntOrder#238",18
 17,2,"Perfect Specimens","elite guildship mark bill","MobHuntOrder#256",12
+18,1,"A New Dawn, a New Hunt","stack of beginner Dawn Hunt bills","MobHuntOrder#268",10
+19,1,"Why We Hunt","stack of intermediate Dawn Hunt bills","MobHuntOrder#278",10
+20,1,"Hunting the Hunter","stack of advanced Dawn Hunt bills","MobHuntOrder#288",17
+21,2,"The Hunt Goes On","stack of elite Dawn Hunt bills","MobHuntOrder#305",12

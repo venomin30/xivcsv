@@ -1045,6 +1045,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197695,1002,12,0,0,0,0,,"Rose Trellis",False,False,0,0,0,True,False
 197696,1003,12,0,0,0,0,,"Dragon Icon",False,False,0,0,0,True,False
 197697,1004,14,0,0,0,0,,"Royal Lion",False,False,0,0,0,True,False
+197698,1394,14,0,0,0,0,,"Bouncing Bomb Balloon",False,False,5,0,0,True,False
 197699,1006,15,0,0,0,0,,"Swag Valance",False,False,0,0,0,True,False
 197700,1007,13,0,0,0,0,,"Rustic Chocobo Counter",False,False,0,0,0,True,False
 197701,1008,12,0,0,0,0,,"Wood Slat Partition",False,False,0,0,0,True,False
@@ -1113,6 +1114,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197765,1056,14,7,68,0,0,"CmnDefHousingDish_00213","Hand-poured Coffee",True,False,9,4,11,True,False
 197766,1057,13,0,0,0,0,,"Back Bar",False,False,0,0,0,True,False
 197767,1058,14,7,69,0,0,"CmnDefHousingDish_00213","Pixie Apple Basket",True,False,9,4,11,True,False
+197768,1395,15,0,0,0,0,,"Legacies Reproduction",False,False,3,0,0,True,False
 197769,1060,13,0,0,0,0,,"Philosopher's Stone Table",False,False,0,0,0,True,False
 197770,1061,12,0,0,0,0,,"Crystarium Wardrobe",False,False,0,0,0,True,False
 197771,1062,13,0,0,0,0,,"Low Bookshelf",False,False,0,0,0,True,False
@@ -1232,11 +1234,12 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197888,1021,12,0,0,0,0,,"Authentic White Tiger",False,False,3,0,0,True,False
 197889,1174,13,0,0,0,0,,"Mummer's Shelf",False,False,5,0,0,True,False
 197890,1175,14,7,75,0,0,"CmnDefHousingDish_00213","Cheese Fondue Set",True,False,9,4,11,True,False
+197891,1238,14,0,0,0,0,,"Bluecap Mushroom Lamp",False,False,0,0,0,True,False
 197893,1178,12,0,0,0,0,,"Enigma Partition",False,False,0,0,0,True,False
 197894,1179,15,0,0,0,0,,"Wall-mounted Wings",False,False,0,0,0,True,False
 197895,1180,14,7,76,0,0,"CmnDefHousingDish_00213","Dragonstar aux Marrons",True,False,8,4,11,True,False
 197896,1181,14,7,77,0,0,"CmnDefHousingDish_00213","Coconut Water",True,False,9,4,11,True,False
-197897,1182,14,7,78,0,0,"CmnDefHousingDish_00213","Oriental New Year's Meal",True,False,8,4,11,True,False
+197897,1182,14,7,78,0,0,"CmnDefHousingDish_00213","",True,False,8,4,11,True,False
 197898,1183,12,0,0,0,0,,"Sil'dihn Chair",False,False,0,0,0,True,False
 197899,1184,15,0,0,0,0,,"Tatami Loft",False,False,0,0,0,True,False
 197900,1185,12,0,0,0,0,,"Kugane Phasmascape",False,False,0,0,0,True,False
@@ -1342,6 +1345,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198001,1263,14,7,81,0,0,"CmnDefHousingDish_00213","Steamed Shumai",True,False,9,4,11,True,False
 198002,1264,14,7,82,0,0,"CmnDefHousingDish_00213","Fried Gyoza",True,False,9,4,11,True,False
 198003,1265,15,0,0,0,0,,"Floating Kitchen Cabinet",False,False,0,0,0,True,False
+198004,1266,14,7,85,0,0,"CmnDefHousingDish_00213","",True,False,7,4,11,True,False
 198005,1267,15,0,0,0,0,,"Azure Sky Phasmascape",False,False,0,0,0,True,False
 198006,1268,15,0,0,0,0,,"Starry Sky Phasmascape",False,False,0,0,0,True,False
 198007,1269,12,0,0,0,0,,"Freestanding Rattan Hammock",False,False,0,0,0,True,False
@@ -1367,6 +1371,8 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198027,1289,15,0,0,0,0,,"Wall-mounted Vampire Bats",False,False,5,0,0,True,False
 198028,1290,15,0,0,0,0,,"",False,False,5,0,0,True,False
 198029,1291,12,0,0,0,0,,"Valentione's Heart Chair",False,False,5,0,0,True,False
+198030,1292,14,0,0,102,0,,"Skyruin Trophy",False,False,0,0,0,True,False
+198031,1293,14,0,0,103,0,,"Resilient Sword Stand",False,False,0,0,0,True,False
 198033,1295,15,0,0,0,0,,"Authentic Copy of Newfound Adventure",False,False,3,0,0,True,False
 198034,1296,15,0,0,0,0,,"Authentic Copy of Buried Memory",False,False,3,0,0,True,False
 198035,1297,15,0,0,0,0,,"Authentic Copy of Gods Revel, Lands Tremble",False,False,3,0,0,True,False
@@ -1376,7 +1382,8 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198039,1301,12,0,0,0,0,,"Suzaku Sculpture",False,False,0,0,0,True,False
 198040,1302,15,0,0,0,0,,"Crystarium Wall Canopy",False,False,0,0,0,True,False
 198041,1303,12,0,0,0,0,,"Nursery Canopy",False,False,0,0,0,True,False
-198042,1304,12,0,0,0,0,,"Ronkan Fireplace",False,False,0,0,0,True,False
+198042,1304,13,0,0,0,0,,"Ronkan Fireplace",False,False,0,0,0,True,False
+198043,1305,12,0,0,0,0,,"Tomestool",False,False,0,0,0,True,False
 198044,1306,12,0,0,0,0,,"Magazine Display Rack",False,False,0,0,0,True,False
 198045,1307,12,0,0,0,0,,"Celestial Screen",False,False,0,0,0,True,False
 198046,1308,16,0,0,0,0,,"Imitation Trapdoor",False,False,0,0,0,True,False
@@ -1391,6 +1398,8 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198058,1320,14,0,0,0,0,,"Korpokkur Moss Ball",False,False,0,0,0,True,False
 198059,1321,14,0,0,0,0,,"Sealing Wax & Letter Set",False,False,0,0,0,True,False
 198060,1322,14,7,84,0,0,"CmnDefHousingDish_00213","Bubbly Mogfloat",True,False,9,4,11,True,False
+198061,1323,12,0,0,0,0,,"Royal Leather Sofa",False,False,0,0,0,True,False
+198062,1324,12,0,0,0,0,,"Wall Cabinet",False,False,0,0,0,True,False
 198063,1325,16,0,0,0,0,,"Field of Hope Rug",False,False,0,0,0,True,False
 198065,1327,15,0,0,0,0,,"Colossal Chronometer Window",False,False,0,0,0,True,False
 198066,1328,14,0,0,100,0,,"Abyssal Wings Display",False,False,0,0,0,True,False
@@ -1400,6 +1409,21 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198070,1331,15,0,0,0,0,,"The Traders",False,False,5,0,0,True,False
 198071,1332,15,0,0,0,0,,"The Matron",False,False,5,0,0,True,False
 198072,1330,15,0,0,0,0,,"The Keeper",False,False,5,0,0,True,False
+198073,1335,15,0,0,0,0,,"Authentic Copy of A Realm Awoken",False,False,3,0,0,True,False
+198074,1336,15,0,0,0,0,,"Authentic Copy of Through the Maelstrom",False,False,3,0,0,True,False
+198075,1337,15,0,0,0,0,,"Authentic Copy of Defenders of Eorzea",False,False,3,0,0,True,False
+198076,1338,15,0,0,0,0,,"Authentic Copy of Dreams of Ice",False,False,3,0,0,True,False
+198077,1339,15,0,0,0,0,,"Authentic Copy of Before the Fall",False,False,3,0,0,True,False
+198078,1340,15,0,0,0,0,,"Authentic Copy of As Goes Light, So Goes Darkness",False,False,3,0,0,True,False
+198079,1341,15,0,0,0,0,,"Authentic Copy of The Gears of Change",False,False,3,0,0,True,False
+198080,1342,15,0,0,0,0,,"Authentic Copy of Revenge of the Horde",False,False,3,0,0,True,False
+198081,1343,15,0,0,0,0,,"Authentic Copy of Soul Surrender",False,False,3,0,0,True,False
+198082,1344,15,0,0,0,0,,"Authentic Copy of The Far Edge of Fate",False,False,3,0,0,True,False
+198083,1345,15,0,0,0,0,,"Authentic Copy of Vows of Virtue, Deeds of Cruelty",False,False,3,0,0,True,False
+198084,1346,15,0,0,0,0,,"Authentic Copy of Echoes of a Fallen Star",False,False,3,0,0,True,False
+198085,1347,15,0,0,0,0,,"Authentic Copy of Reflections in Crystal",False,False,3,0,0,True,False
+198086,1348,15,0,0,0,0,,"Authentic Copy of Futures Rewritten",False,False,3,0,0,True,False
+198087,1349,15,0,0,0,0,,"Authentic Copy of Death Unto Dawn",False,False,3,0,0,True,False
 198088,1351,14,0,0,0,0,,"Hyper Hustle Trophy",False,False,5,0,0,True,False
 198089,1196,14,0,0,0,0,,"Authentic Caged Wisp",False,False,3,0,0,True,False
 198090,1170,15,0,0,0,0,,"Authentic Heavensturn Crane Banner",False,False,3,0,0,True,False
@@ -1416,3 +1440,32 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198101,1358,12,0,0,0,0,,"Blunderville Padded Wall",False,False,5,0,0,True,False
 198102,1359,12,0,0,0,0,,"Blunderville Rainbow",False,False,5,0,0,True,False
 198103,1360,12,0,0,0,0,"CmnDefHousingObject_00141","Blunderville Hammer",False,False,5,0,0,True,False
+198104,1361,15,0,0,0,0,,"The Spinner",False,False,5,0,0,True,False
+198105,1362,15,0,0,0,0,,"The Fury",False,False,5,0,0,True,False
+198106,1363,15,0,0,0,0,,"The Lover",False,False,5,0,0,True,False
+198107,1364,15,0,0,0,0,,"The Scholar",False,False,5,0,0,True,False
+198108,1365,15,0,0,0,0,,"The Navigator",False,False,5,0,0,True,False
+198109,1366,15,0,0,0,0,,"The Wanderer",False,False,5,0,0,True,False
+198110,1367,14,0,0,0,0,,"Stuffed Axolotl Eft",False,False,0,0,0,True,False
+198111,1368,14,0,0,0,0,,"Stuffed Flag",False,False,0,0,0,True,False
+198112,1369,14,0,0,0,0,,"Fluffy-wuffy Stuffed Drippy",False,False,0,0,0,True,False
+198113,1370,14,0,0,0,0,,"Stuffed Punutiy",False,False,0,0,0,True,False
+198115,1372,15,0,0,0,0,,"Sunset Phasmascape",False,False,0,0,0,True,False
+198121,1378,13,0,0,0,0,,"Twintop Table",False,False,0,0,0,True,False
+198122,1379,14,7,86,0,0,"CmnDefHousingDish_00213","Mug of Cocoa",True,False,9,4,11,True,False
+198123,1380,12,0,0,0,0,,"Kitchen Cabinet",False,False,0,0,0,True,False
+198124,1381,12,0,0,0,0,,"Slovenly Chair",False,False,0,0,0,True,False
+198125,1202,12,0,0,0,0,,"Stone Partition",False,False,0,0,0,True,False
+198126,1294,14,7,87,0,0,"CmnDefHousingDish_00213","Xibruq Pibil",True,False,8,4,11,True,False
+198127,1382,14,0,0,0,0,,"Tuliyollan Table Lamp",False,False,0,0,0,True,False
+198128,1383,12,0,0,0,0,,"Pelupelu Partition",False,False,0,0,0,True,False
+198129,1384,12,0,0,0,0,,"Ihuykatumu Bed",False,False,0,0,0,True,False
+198130,1385,12,0,0,0,0,,"Vending Machine Nine",False,False,0,0,0,True,False
+198131,1386,14,0,0,0,0,,"Assortment of Strewn Bottles",False,False,0,0,0,True,False
+198132,1387,12,0,0,0,0,,"Heritage Found Crates",False,False,0,0,0,True,False
+198133,1388,15,0,0,0,0,,"Horizontal Neon Wall Light",False,False,0,0,0,True,False
+198134,1389,15,0,0,0,0,,"Vertical Neon Wall Light",False,False,0,0,0,True,False
+198136,1391,14,0,0,0,0,,"Rising Table Lamp",False,False,5,0,0,True,False
+198137,1392,14,0,0,0,0,,"Flying Pumpkin",False,False,5,0,0,True,False
+198139,1288,15,0,0,0,0,,"Authentic Rising Advertisement",False,False,3,0,0,True,False
+198140,1289,15,0,0,0,0,,"Authentic Wall-mounted Vampire Bats",False,False,3,0,0,True,False

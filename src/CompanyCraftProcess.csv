@@ -635,3 +635,25 @@ int32,CompanyCraftSupplyItem,uint16,uint16,CompanyCraftSupplyItem,uint16,uint16,
 1663,"Red Pine Lumber",3,3,"Pewter Ingot",3,3,"Tempered Glass",2,3,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
 1664,"Red Pine Lumber",3,3,"Bamboo Stick",3,3,"Roof Tile",3,3,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
 1665,"Red Pine Lumber",3,3,"Mortar",3,3,"Roof Tile",3,3,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
+1666,"Ginseng Lumber",3,3,"Ceiba Log",3,3,"Growth Formula Lambda",3,3,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
+1667,"Mountain Linen",3,3,"Ruthenium Ore",3,3,"Firebricks",2,3,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
+1668,"Ceiba Lumber",3,3,"Mountain Chromite Ingot",3,3,"Dark Mahogany Log",3,3,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
+1669,"Ginseng Lumber",3,9,"Ceiba Log",3,9,"Growth Formula Lambda",3,9,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
+1670,"Mountain Linen",3,9,"Ruthenium Ore",3,9,"Firebricks",2,3,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
+1671,"Ceiba Lumber",3,9,"Mountain Chromite Ingot",3,9,"Dark Mahogany Log",3,9,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
+1672,"Ginseng Lumber",3,15,"Ceiba Log",3,15,"Growth Formula Lambda",3,15,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
+1673,"Mountain Linen",3,15,"Ruthenium Ore",3,15,"Firebricks",2,3,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
+1674,"Ceiba Lumber",3,15,"Mountain Chromite Ingot",3,15,"Dark Mahogany Log",3,15,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
+1675,"Ginseng Lumber",3,3,"Mountain Chromite Ore",3,3,"Hammerhead Crocodile Leather",3,3,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
+1676,"Ceiba Lumber",3,3,"Dark Mahogany Log",3,3,"Growth Formula Lambda",3,3,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
+1677,"Dark Mahogany Lumber",3,3,"Ruthenium Ingot",3,3,"Lar Ingot",3,3,"Tempered Glass",2,3,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
+1678,"Ginseng Lumber",3,9,"Mountain Chromite Ore",3,9,"Hammerhead Crocodile Leather",3,9,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
+1679,"Ceiba Lumber",3,9,"Dark Mahogany Log",3,9,"Growth Formula Lambda",3,9,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
+1680,"Dark Mahogany Lumber",3,9,"Ruthenium Ingot",3,9,"Lar Ingot",3,9,"Tempered Glass",2,3,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
+1681,"Ginseng Lumber",3,15,"Mountain Chromite Ore",3,15,"Hammerhead Crocodile Leather",3,15,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
+1682,"Ceiba Lumber",3,15,"Dark Mahogany Log",3,15,"Growth Formula Lambda",3,15,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
+1683,"Dark Mahogany Lumber",3,15,"Ruthenium Ingot",3,15,"Lar Ingot",3,15,"Tempered Glass",2,3,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
+1684,"Ginseng Lumber",3,3,"Cobalt Tungsten Ingot",3,3,"Dark Mahogany Log",3,3,"Tempered Glass",2,3,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
+1685,"Ceiba Lumber",3,3,"Lar Ingot",3,3,"Tempered Glass",2,3,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
+1686,"Ginseng Lumber",3,3,"Mountain Chromite Ingot",3,3,"Growth Formula Lambda",3,3,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
+1687,"Ceiba Lumber",3,3,"Cobalt Tungsten Ingot",3,3,"Lar Ingot",3,3,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0,"",0,0
