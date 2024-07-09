@@ -1,18 +1,32 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9
-#,,,,,,,,,,
-int32,byte,uint32,uint32,uint32,uint32,uint32,bit&01,uint32,uint32,uint32
-0,0,0,0,0,0,0,False,0,0,0
-1,2,15938,15916,15922,0,0,False,0,0,0
-2,4,15938,15916,15922,0,0,False,0,0,0
-3,5,15938,15916,15922,0,0,False,0,0,0
-4,6,15938,15916,15923,15934,0,False,0,0,0
-5,21,15905,15939,15931,0,0,False,0,0,0
-6,31,15905,15939,15925,0,112383,False,69379,0,0
-7,32,15905,15939,15928,0,111044,False,65973,0,0
-8,9,15905,15939,15946,0,111042,False,66747,0,0
-9,33,15905,15939,15929,0,111041,False,0,99,0
-10,34,15905,15939,15930,0,111043,False,66643,0,0
-11,35,15905,15939,15924,15935,111046,True,65970,0,0
-12,8,15905,15939,15927,0,111045,False,0,0,0
-13,0,0,0,0,0,0,False,0,0,0
-14,9,15944,15945,15943,0,111047,False,0,0,179
+#,ContentType,Text[0],Text[1],Text[2],Text[3],Image,,UnlockQuest,,
+int32,ContentType,Addon,Addon,Addon,Addon,Image,bit&01,Quest,uint32,uint32
+0,"","","","","",,False,,0,0
+1,"Dungeons","<If(GreaterThan(IntegerParameter(3),0))><Clickable(<Sheet(InstanceContent,IntegerParameter(5),3)/>)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(3),0))><Clickable(<Sheet(InstanceContent,IntegerParameter(5),3)/>)/><Else/>???</If>
+Lv. <Value>IntegerParameter(7)</Value> <If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","Complete <Sheet(InstanceContent,IntegerParameter(5),3)/>.","",,False,,0,0
+2,"Trials","<If(GreaterThan(IntegerParameter(3),0))><Clickable(<Sheet(InstanceContent,IntegerParameter(5),3)/>)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(3),0))><Clickable(<Sheet(InstanceContent,IntegerParameter(5),3)/>)/><Else/>???</If>
+Lv. <Value>IntegerParameter(7)</Value> <If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","Complete <Sheet(InstanceContent,IntegerParameter(5),3)/>.","",,False,,0,0
+3,"Raids","<If(GreaterThan(IntegerParameter(3),0))><Clickable(<Sheet(InstanceContent,IntegerParameter(5),3)/>)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(3),0))><Clickable(<Sheet(InstanceContent,IntegerParameter(5),3)/>)/><Else/>???</If>
+Lv. <Value>IntegerParameter(7)</Value> <If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","Complete <Sheet(InstanceContent,IntegerParameter(5),3)/>.","",,False,,0,0
+4,"PvP","<If(GreaterThan(IntegerParameter(3),0))><Clickable(<Sheet(InstanceContent,IntegerParameter(5),3)/>)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(3),0))><Clickable(<Sheet(InstanceContent,IntegerParameter(5),3)/>)/><Else/>???</If>
+Lv. <Value>IntegerParameter(7)</Value> <If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","Participate in <Sheet(InstanceContent,IntegerParameter(5),3)/>.","Victory or defeat will determine the quantity of rewards.",,False,,0,0
+5,"Deep Dungeons","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
+Lv. <Value>IntegerParameter(7)</Value>","Complete floor <Value>IntegerParameter(12)</Value> of <SheetEn(PlaceName,2,<Sheet(TerritoryType,<Sheet(ContentFinderCondition,<Sheet(InstanceContent,IntegerParameter(5),8)/>,1)/>,5)/>,2,1)/>.","",,False,,0,0
+6,"Ocean Fishing","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
+Lv. <Value>IntegerParameter(7)</Value>","Score at least <If(GreaterThan(IntegerParameter(7),0))><Value>IntegerParameter(7)</Value><Else/><Value>IntegerParameter(8)</Value></If> points during a single <Sheet(ContentType,IntegerParameter(2),0)/> voyage.","","ui/icon/112000/112383.tex",False,"All the Fish in the Sea",0,0
+7,"Triple Triad","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
+Lv. <Value>IntegerParameter(7)</Value>","Win a game of <Sheet(ContentType,IntegerParameter(2),0)/> against <SheetEn(ENpcResident,2,IntegerParameter(5),1,1)/> in <SheetEn(PlaceName,2,<Sheet(TerritoryType,<Sheet(Level,IntegerParameter(10),9)/>,5)/>,2,1)/>.","","ui/icon/111000/111044.tex",False,"Triple Triad Trial",0,0
+8,"Treasure Hunt","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
+Lv. <Value>IntegerParameter(7)</Value>","Decipher a timeworn map and collect the treasure.","","ui/icon/111000/111042.tex",False,"Treasures and Tribulations",0,0
+9,"The Hunt","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
+Lv. <Value>IntegerParameter(7)</Value>","Complete an <Sheet(EventItem,<Sheet(MobHuntOrderType,IntegerParameter(5),2)/>,0)/>.","","ui/icon/111000/111041.tex",False,,99,0
+10,"Fishing","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
+Lv. <Value>IntegerParameter(7)</Value>","Catch <SheetEn(Item,1,<Sheet(FishParameter,IntegerParameter(5),4)/>,1,1)/>.","","ui/icon/111000/111043.tex",False,"Way of the Fisher",0,0
+11,"GATE","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
+Lv. <Value>IntegerParameter(7)</Value>","Obtain MGP in any <Sheet(ContentType,IntegerParameter(2),0)/>.","Rewards differ depending on the GATE. Rewards can be viewed from “See Rewards.”","ui/icon/111000/111046.tex",True,"It Could Happen to You",0,0
+12,"FATEs","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
+Lv. <Value>IntegerParameter(7)</Value>","<If(Equal(IntegerParameter(4),2))>Complete <Value>IntegerParameter(8)</Value> <Sheet(ContentType,IntegerParameter(2),0)/> in <SheetEn(PlaceName,2,<Sheet(TerritoryType,IntegerParameter(5),5)/>,2,1)/> or <SheetEn(PlaceName,2,<Sheet(TerritoryType,IntegerParameter(6),5)/>,2,1)/>.<Else/>Complete <Value>IntegerParameter(8)</Value> <Sheet(ContentType,IntegerParameter(2),0)/> in <SheetEn(PlaceName,2,<Sheet(TerritoryType,IntegerParameter(5),5)/>,2,1)/>.</If>","","ui/icon/111000/111045.tex",False,,0,0
+13,"","","","","",,False,,0,0
+14,"Treasure Hunt","Treasure Dungeons","Treasure Dungeon
+Lv. <Value>IntegerParameter(7)</Value>","Enter a treasure dungeon via a teleportation portal <Value>IntegerParameter(8)</Value> times.
+※Treasure hunts abandoned midway through will not count toward the total.","","ui/icon/111000/111047.tex",False,,0,179

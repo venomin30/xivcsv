@@ -1,684 +1,684 @@
 ﻿key,0,1,2,3,4,5,6,7,8
-#,Name,Icon,ClassJob,Level,Quest,Value,ClassJobCategory,,
-int32,str,Image,ClassJob,byte,Quest,uint32,ClassJobCategory,byte,byte
-0,"",,"adventurer",0,,0,"",0,0
-1,"Enhanced Vitality",,"adventurer",0,,0,"",0,0
-2,"Enhanced Vitality II",,"adventurer",0,,0,"",0,0
-3,"Enhanced Vitality III",,"adventurer",0,,0,"",0,0
-4,"Enhanced Vitality",,"adventurer",0,,0,"",0,0
-5,"Enhanced Vitality II",,"adventurer",0,,0,"",0,0
-6,"Enhanced Vitality III",,"adventurer",0,,0,"",0,0
-7,"Enhanced Strength",,"adventurer",0,,0,"",0,0
-8,"Enhanced Strength II",,"adventurer",0,,0,"",0,0
-9,"Enhanced Strength III",,"adventurer",0,,0,"",0,0
-10,"Enhanced Greased Lightning",,"adventurer",0,,0,"",0,0
-11,"Enhanced Greased Lightning II",,"adventurer",0,,0,"",0,0
-12,"Enhanced Strength",,"adventurer",0,,0,"",0,0
-13,"Enhanced Strength II",,"adventurer",0,,0,"",0,0
-14,"Enhanced Strength III",,"adventurer",0,,0,"",0,0
-15,"Enhanced Dexterity",,"adventurer",0,,0,"",0,0
-16,"Enhanced Dexterity II",,"adventurer",0,,0,"",0,0
-17,"Heavier Shot","ui/icon/005000/005321.tex","archer",50,,0,"",50,0
-18,"Increased Action Damage","ui/icon/005000/005302.tex","archer",50,,0,"BSM",50,0
-19,"Enhanced Dexterity III",,"adventurer",0,,0,"",0,0
-20,"Increased Action Damage II","ui/icon/005000/005303.tex","archer",50,,0,"PLD",50,0
-21,"Enhanced Mind",,"adventurer",0,,0,"",0,0
-22,"Enhanced Mind II",,"adventurer",0,,0,"",0,0
-23,"Maim and Mend","ui/icon/005000/005185.tex","conjurer",53,,0,"BSM",53,0
-24,"Enhanced Mind III",,"adventurer",0,,0,"",0,0
-25,"Freecure","ui/icon/005000/005330.tex","conjurer",53,,0,"",53,0
-26,"Maim and Mend II","ui/icon/005000/005186.tex","conjurer",53,,0,"Disciple of War",53,0
-27,"Enhanced Intelligence",,"adventurer",0,,0,"",0,0
-28,"Enhanced Intelligence II",,"adventurer",0,,0,"",0,0
-29,"Maim and Mend","ui/icon/005000/005185.tex","thaumaturge",55,,0,"BSM",55,0
-30,"Enhanced Intelligence III",,"adventurer",0,,0,"",0,0
-31,"Maim and Mend II","ui/icon/005000/005186.tex","thaumaturge",55,,0,"Disciple of War",55,0
-32,"Firestarter","ui/icon/005000/005352.tex","thaumaturge",55,,0,"",55,0
-33,"Thundercloud","ui/icon/005000/005355.tex","adventurer",0,,0,"",0,0
-34,"Auto Triangulate","ui/icon/005000/005451.tex","botanist",18,,0,"",18,0
-35,"Enhanced Stealth",,"adventurer",0,,0,"Disciple of War",0,0
-36,"Enhanced Stealth II",,"adventurer",0,,0,"GLA PGL MRD LNC ARC ROG CNJ THM ACN MNK WAR DRG BRD NIN",0,0
-37,"Enhanced Stealth III",,"adventurer",0,,0,"ARC BRD",0,0
-38,"Auto Prospect","ui/icon/005000/005426.tex","miner",17,,0,"",17,0
-39,"Enhanced Stealth",,"adventurer",0,,0,"Disciple of War",0,0
-40,"Enhanced Stealth II",,"adventurer",0,,0,"GLA PGL MRD LNC ARC ROG CNJ THM ACN MNK WAR DRG BRD NIN",0,0
-41,"Enhanced Stealth III",,"adventurer",0,,0,"ARC BRD",0,0
-42,"Tree Whisperer","ui/icon/005000/005455.tex","botanist",18,,0,"",18,0
-43,"Tree Whisperer II","ui/icon/005000/005456.tex","botanist",18,,0,"",18,0
-44,"Tree Whisperer III","ui/icon/005000/005457.tex","botanist",18,,0,"",18,0
-45,"Tree Whisperer IV","ui/icon/005000/005458.tex","botanist",18,,0,"",18,0
-46,"Enhanced Twelve's Bounty","ui/icon/005000/005459.tex","botanist",18,,0,"",18,0
-47,"Enhanced Twelve's Bounty II","ui/icon/005000/005460.tex","botanist",18,,0,"",18,0
-48,"Stone Whisperer","ui/icon/005000/005430.tex","miner",17,,0,"",17,0
-49,"Stone Whisperer II","ui/icon/005000/005431.tex","miner",17,,0,"",17,0
-50,"Stone Whisperer III","ui/icon/005000/005432.tex","miner",17,,0,"",17,0
-51,"Stone Whisperer IV","ui/icon/005000/005433.tex","miner",17,,0,"",17,0
-52,"Enhanced Twelve's Bounty","ui/icon/005000/005434.tex","miner",17,,0,"",17,0
-53,"Enhanced Twelve's Bounty II","ui/icon/005000/005435.tex","miner",17,,0,"",17,0
-54,"Dunefishing","ui/icon/005000/005483.tex","fisher",19,,0,"",19,0
-55,"Skyfishing","ui/icon/005000/005484.tex","fisher",19,,0,"",19,0
-56,"Enhanced Stealth",,"adventurer",0,,0,"Disciple of War",0,0
-57,"Enhanced Stealth II",,"adventurer",0,,0,"GLA PGL MRD LNC ARC ROG CNJ THM ACN MNK WAR DRG BRD NIN",0,0
-58,"Enhanced Stealth III",,"adventurer",0,,0,"ARC BRD",0,0
-59,"Gulleye","ui/icon/005000/005479.tex","fisher",19,,0,"ALC",19,0
-60,"Gulleye II",,"adventurer",0,,0,"Disciples of the Land or Hand",0,0
-61,"Gulleye III",,"adventurer",0,,0,"ARC BRD",0,0
-62,"Double Mooching","ui/icon/005000/005482.tex","fisher",19,,0,"",19,0
-63,"Aetherdam",,"adventurer",0,,0,"",0,0
-64,"Enhanced Intelligence",,"adventurer",0,,0,"",0,0
-65,"Enhanced Intelligence II",,"adventurer",0,,0,"",0,0
-66,"Maim and Mend","ui/icon/005000/005185.tex","arcanist",68,,0,"BSM",68,0
-67,"Aetherdam II",,"adventurer",0,,0,"",0,0
-68,"Enhanced Intelligence III",,"adventurer",0,,0,"",0,0
-69,"Maim and Mend II","ui/icon/005000/005186.tex","arcanist",68,,0,"Disciple of War",68,0
-70,"Aetherdam III",,"adventurer",0,,0,"",0,0
-71,"Enhanced Strength","ui/icon/009000/009004.tex","adventurer",0,,0,"LNC",0,0
-72,"Increased HP","ui/icon/009000/009001.tex","adventurer",0,,0,"BSM",0,0
-73,"Enhanced Accuracy","ui/icon/009000/009010.tex","adventurer",0,,0,"LNC",0,0
-74,"Enhanced Critical Hit","ui/icon/009000/009012.tex","adventurer",0,,0,"ALC",0,0
-75,"Enhanced Strength","ui/icon/009000/009004.tex","adventurer",0,,0,"LNC",0,0
-76,"Increased HP","ui/icon/009000/009001.tex","adventurer",0,,0,"BSM",0,0
-77,"Enhanced Strength","ui/icon/009000/009004.tex","adventurer",0,,0,"LNC",0,0
-78,"Increased HP","ui/icon/009000/009001.tex","adventurer",0,,0,"LNC",0,0
-79,"Enhanced Accuracy","ui/icon/009000/009010.tex","adventurer",0,,0,"LNC",0,0
-80,"Enhanced Critical Hit","ui/icon/009000/009012.tex","adventurer",0,,0,"ALC",0,0
-81,"Enhanced Strength","ui/icon/009000/009004.tex","adventurer",0,,0,"BSM",0,0
-82,"Increase Attack Speed","ui/icon/009000/009013.tex","adventurer",0,,0,,0,0
-83,"Enhanced Mind","ui/icon/009000/009008.tex","adventurer",0,,0,"BSM",0,0
-84,"Increased HP","ui/icon/009000/009001.tex","adventurer",0,,0,"LNC",0,0
-85,"Enhanced Accuracy","ui/icon/009000/009010.tex","adventurer",0,,0,"LNC",0,0
-86,"Enhanced Critical Hit","ui/icon/009000/009012.tex","adventurer",0,,0,"ALC",0,0
-87,"Enhanced Mind","ui/icon/009000/009008.tex","adventurer",0,,0,"ALC",0,0
-88,"Increased HP","ui/icon/009000/009001.tex","adventurer",0,,0,"LNC",0,0
-89,"Enhanced Dexterity",,"adventurer",0,,0,"",0,0
-90,"All Fours","ui/icon/005000/005401.tex","rogue",93,,0,"BSM",93,0
-91,"Enhanced Dexterity II",,"adventurer",0,,0,"",0,0
-92,"Enhanced Dexterity III",,"adventurer",0,,0,"",0,0
-93,"Fleet of Foot","ui/icon/005000/005403.tex","rogue",93,,0,"BSM",93,0
-94,"Nymeia's Ward","ui/icon/005000/005436.tex","miner",17,,0,"",17,0
-95,"Stone Whisperer V","ui/icon/005000/005437.tex","miner",17,,67617,"",17,0
-96,"Enhanced Stealth IV",,"adventurer",0,,0,"GLA PGL MRD LNC ARC ROG CNJ THM ACN WHM BLM SMN SCH AST",0,0
-97,"Enhanced Stealth V",,"adventurer",0,,0,"GLA THM PLD BLM",0,0
-98,"Enhanced Stealth VI",,"adventurer",0,,0,"GLA MRD LNC PLD WAR DRG DRK GNB RPR",0,0
-99,"Nymeia's Ward","ui/icon/005000/005461.tex","botanist",18,,0,"",18,0
-100,"Tree Whisperer V","ui/icon/005000/005462.tex","botanist",18,,67585,"",18,0
-101,"Enhanced Stealth IV",,"adventurer",0,,0,"GLA PGL MRD LNC ARC ROG CNJ THM ACN WHM BLM SMN SCH AST",0,0
-102,"Enhanced Stealth V",,"adventurer",0,,0,"GLA THM PLD BLM",0,0
-103,"Enhanced Stealth VI",,"adventurer",0,,0,"GLA MRD LNC PLD WAR DRG DRK GNB RPR",0,0
-104,"Gulleye IV",,"adventurer",0,,0,"THM BLM",0,0
-105,"Gulleye V",,"adventurer",0,,0,"GLA MRD LNC PLD WAR DRG DRK GNB RPR",0,0
-106,"Cloudfishing","ui/icon/005000/005488.tex","fisher",19,,67622,"",19,0
-107,"Enhanced Stealth IV",,"adventurer",0,,0,"GLA PGL MRD LNC ARC ROG CNJ THM ACN WHM BLM SMN SCH AST",0,0
-108,"Enhanced Stealth V",,"adventurer",0,,0,"GLA THM PLD BLM",0,0
-109,"Enhanced Stealth VI",,"adventurer",0,,0,"GLA MRD LNC PLD WAR DRG DRK GNB RPR",0,0
-110,"Hellfishing","ui/icon/005000/005489.tex","fisher",19,,67623,"",19,0
-111,"Aetherfishing","ui/icon/005000/005490.tex","fisher",19,,67624,"",19,0
-112,"Enhanced Vitality",,"adventurer",0,,0,"",0,0
-113,"Enhanced Vitality II",,"adventurer",0,,0,"",0,0
-114,"Enhanced Vitality III",,"adventurer",0,,0,"",0,0
-115,"Enhanced Dexterity",,"adventurer",0,,0,"",0,0
-116,"Enhanced Dexterity II",,"adventurer",0,,0,"",0,0
-117,"Increased Action Damage","ui/icon/006000/006002.tex","machinist",96,,0,"BSM",96,0
-118,"Enhanced Dexterity III",,"adventurer",0,,0,"",0,0
-119,"Increased Action Damage II","ui/icon/006000/006003.tex","machinist",96,,0,"PLD",96,0
-120,"Enhanced Mind",,"adventurer",0,,0,"",0,0
-121,"Enhanced Mind II",,"adventurer",0,,0,"",0,0
-122,"Maim and Mend","ui/icon/006000/006102.tex","astrologian",99,,0,"BSM",99,0
-123,"Enhanced Mind III",,"adventurer",0,,0,"",0,0
-124,"Enhanced Benefic","ui/icon/006000/006105.tex","astrologian",99,,0,"ALC",99,0
-125,"Maim and Mend II","ui/icon/006000/006103.tex","astrologian",99,,0,"Disciple of War",99,0
-126,"Enhanced Stealth VII",,"adventurer",0,,0,"CNJ WHM SCH AST SGE",0,0
-127,"Enhanced Stealth VIII",,"adventurer",0,,0,"GLA PGL MRD LNC ROG MNK DRG NIN",0,0
-128,"Enhanced Stealth IX",,"adventurer",0,,0,"Any Disciple of the Hand (excluding culinarians)",0,0
-129,"Enhanced Stealth VII",,"adventurer",0,,0,"CNJ WHM SCH AST SGE",0,0
-130,"Enhanced Stealth VIII",,"adventurer",0,,0,"GLA PGL MRD LNC ROG MNK DRG NIN",0,0
-131,"Enhanced Stealth IX",,"adventurer",0,,0,"Any Disciple of the Hand (excluding culinarians)",0,0
-132,"Enhanced Stealth VII",,"adventurer",0,,0,"CNJ WHM SCH AST SGE",0,0
-133,"Enhanced Stealth VIII",,"adventurer",0,,0,"GLA PGL MRD LNC ROG MNK DRG NIN",0,0
-134,"Enhanced Stealth IX",,"adventurer",0,,0,"Any Disciple of the Hand (excluding culinarians)",0,0
-135,"Saltfishing","ui/icon/005000/005499.tex","fisher",19,,0,"",19,0
-136,"Gulleye VI",,"adventurer",0,,0,"PGL MNK SAM",0,0
-137,"Gulleye VII",,"adventurer",0,,0,"Any Disciple of the Hand (excluding culinarians)",0,0
-138,"Quality Assurance","ui/icon/006000/006976.tex","carpenter",9,,67978,"GLA",9,0
-139,"Quality Assurance","ui/icon/006000/006976.tex","blacksmith",10,,68152,"GLA",10,0
-140,"Quality Assurance","ui/icon/006000/006976.tex","armorer",11,,68131,"GLA",11,0
-141,"Quality Assurance","ui/icon/006000/006976.tex","goldsmith",12,,68136,"GLA",12,0
-142,"Quality Assurance","ui/icon/006000/006976.tex","leatherworker",13,,68146,"GLA",13,0
-143,"Quality Assurance","ui/icon/006000/006976.tex","weaver",14,,67968,"GLA",14,0
-144,"Quality Assurance","ui/icon/006000/006976.tex","alchemist",15,,67973,"GLA",15,0
-145,"Quality Assurance","ui/icon/006000/006976.tex","culinarian",16,,68141,"GLA",16,0
-146,"Stroke of Genius",,"adventurer",0,,0,"",0,0
-147,"Stroke of Genius",,"adventurer",0,,0,"",0,0
-148,"Stroke of Genius",,"adventurer",0,,0,"",0,0
-149,"Stroke of Genius",,"adventurer",0,,0,"",0,0
-150,"Stroke of Genius",,"adventurer",0,,0,"",0,0
-151,"Stroke of Genius",,"adventurer",0,,0,"",0,0
-152,"Stroke of Genius",,"adventurer",0,,0,"",0,0
-153,"Stroke of Genius",,"adventurer",0,,0,"",0,0
-154,"Auto Fathom","ui/icon/005000/005497.tex","fisher",19,,68458,"",19,0
-155,"Fish Whisperer",,"adventurer",0,,0,"",0,0
-156,"Enhanced Cover","ui/icon/005000/005209.tex","adventurer",0,,0,,0,0
-157,"Enhanced Infuriate","ui/icon/005000/005259.tex","warrior",22,,0,"",22,0
-158,"Blackblood","ui/icon/006000/006059.tex","dark knight",98,,0,"",98,0
-159,"Enhanced Blackblood","ui/icon/006000/006060.tex","dark knight",98,,0,"",98,0
-160,"Deep Meditation","ui/icon/005000/005234.tex","monk",21,,0,"",21,0
-161,"Enhanced Tackle","ui/icon/005000/005235.tex","adventurer",0,,0,"GLA",0,0
-162,"Lance Mastery","ui/icon/005000/005284.tex","adventurer",0,,0,"",0,0
-163,"Life of the Dragon","ui/icon/005000/005289.tex","dragoon",23,,68450,"",23,0
-164,"Dripping Blades",,"adventurer",0,,0,"",0,0
-165,"Shukiho","ui/icon/005000/005411.tex","ninja",92,,0,"ARC",92,0
-166,"Enhanced Shukuchi","ui/icon/005000/005412.tex","ninja",92,,0,"",92,0
-167,"Enhanced Mug",,"adventurer",0,,0,"",0,0
-168,"Bite Mastery","ui/icon/005000/005309.tex","bard",24,,0,"",24,0
-169,"Enhanced Empyreal Arrow","ui/icon/005000/005310.tex","bard",24,,0,"",24,0
-170,"Shot Mastery",,"adventurer",0,,0,"",0,0
-171,"Thunder Mastery","ui/icon/005000/005357.tex","black mage",26,,66612,"",26,0
-172,"Thunder Mastery II","ui/icon/005000/005358.tex","black mage",26,,0,"",26,0
-173,"Enhanced Umbral Heart","ui/icon/005000/005359.tex","adventurer",0,,0,,0,0
-174,"Enhanced Enochian","ui/icon/005000/005360.tex","black mage",26,,68128,"LNC",26,0
-175,"Corruption Mastery","ui/icon/005000/005376.tex","adventurer",0,,0,"",0,0
-176,"Enhanced Ruin II","ui/icon/005000/005377.tex","adventurer",0,,0,"",0,0
-177,"Corruption Mastery II","ui/icon/005000/005378.tex","adventurer",0,,0,"",0,0
-178,"Enhanced Dreadwyrm Trance","ui/icon/005000/005380.tex","summoner",28,,68165,"",28,0
-179,"Stone Mastery","ui/icon/005000/005333.tex","conjurer",53,,0,"",53,0
-180,"Aero Mastery","ui/icon/005000/005334.tex","conjurer",53,,0,"",53,0
-181,"Stone Mastery II","ui/icon/005000/005336.tex","white mage",25,,67257,"",25,0
-182,"Stone Mastery III","ui/icon/005000/005337.tex","white mage",25,,0,"",25,0
-183,"Secret of the Lily II","ui/icon/005000/005338.tex","adventurer",0,,0,"PLD",0,0
-184,"Broil Mastery II","ui/icon/005000/005392.tex","scholar",29,,0,"",29,0
-185,"Quickened Aetherflow",,"adventurer",0,,0,"ARC ROG BRD NIN MCH",0,0
-186,"Combust Mastery","ui/icon/006000/006109.tex","astrologian",99,,0,"",99,0
-187,"Malefic Mastery","ui/icon/006000/006110.tex","astrologian",99,,67558,"",99,0
-188,"Malefic Mastery II","ui/icon/006000/006111.tex","astrologian",99,,0,"",99,0
-189,"Hyper Lightspeed","ui/icon/006000/006101.tex","astrologian",99,,0,,99,0
-190,"Endless Toil of the Mountaineer",,"adventurer",0,,0,"GLA MRD LNC PLD WAR DRG DRK GNB RPR",0,0
-191,"Endless Toil of the Pioneer",,"adventurer",0,,0,"GLA MRD LNC PLD WAR DRG DRK GNB RPR",0,0
-192,"Enhanced GP Regeneration","ui/icon/005000/005444.tex","miner",17,,68094,"All Classes",17,0
-193,"Enhanced GP Regeneration","ui/icon/005000/005469.tex","botanist",18,,68160,"All Classes",18,0
-194,"Enhanced GP Regeneration","ui/icon/005000/005498.tex","fisher",19,,68435,"All Classes",19,0
-195,"Enhanced Jolt","ui/icon/006000/006201.tex","red mage",112,,0,"",112,0
-196,"Secret of the Lily","ui/icon/005000/005335.tex","white mage",25,,67256,"",25,0
-197,"Enhanced Intelligence",,"adventurer",0,,0,"",0,0
-198,"Enhanced Intelligence II",,"adventurer",0,,0,"",0,0
-199,"Enhanced Intelligence III",,"adventurer",0,,0,"",0,0
-200,"Maim and Mend","ui/icon/005000/005185.tex","red mage",112,,0,"BSM",112,0
-201,"Maim and Mend II","ui/icon/005000/005186.tex","red mage",112,,0,"Disciple of War",112,0
-202,"Enhanced Strength",,"adventurer",0,,0,"",0,0
-203,"Enhanced Strength II",,"adventurer",0,,0,"",0,0
-204,"Enhanced Strength III",,"adventurer",0,,0,"",0,0
-205,"Dripping Blades II",,"adventurer",0,,0,"",0,0
-206,"Enhanced Jolt II",,"adventurer",0,,0,"",0,0
-207,"Divine Magic Mastery","ui/icon/005000/005210.tex","paladin",20,,0,,20,0
-208,"Kenki Mastery II","ui/icon/006000/006151.tex","samurai",111,,0,"LNC",111,0
-209,"Oath Mastery","ui/icon/005000/005211.tex","paladin",20,,66592,"",20,0
-210,"Enhanced Mind",,"adventurer",0,,0,"",0,0
-211,"Enhanced Mind II",,"adventurer",0,,0,"",0,0
-212,"Enhanced Mind III",,"adventurer",0,,0,"",0,0
-213,"Enhanced Enkindle","ui/icon/005000/005379.tex","adventurer",0,,0,,0,0
-214,"Broil Mastery","ui/icon/005000/005394.tex","scholar",29,,67209,"",29,0
-215,"Kenki Mastery","ui/icon/006000/006152.tex","samurai",111,,0,"",111,0
-216,"Dualcast","ui/icon/006000/006203.tex","red mage",112,,0,"",112,0
-217,"Ruin Mastery","ui/icon/005000/005395.tex","arcanist",69,,65997,"",69,0
-218,"Berserk Mastery","ui/icon/005000/005260.tex","warrior",22,,68440,"",22,0
-219,"Learning","ui/icon/006000/006251.tex","blue mage",129,,0,"",129,0
-220,"Maim and Mend","ui/icon/005000/005185.tex","blue mage",129,,0,"BSM",129,0
-221,"Maim and Mend II","ui/icon/005000/005186.tex","blue mage",129,,0,"PLD",129,0
-222,"Maim and Mend III","ui/icon/005000/005187.tex","blue mage",129,,0,"Disciple of War",129,0
-223,"Maim and Mend IV","ui/icon/005000/005188.tex","blue mage",129,,0,"GLA PGL MRD LNC ARC ROG CNJ THM ACN MNK WAR DRG BRD NIN",129,0
-224,"Maim and Mend V","ui/icon/005000/005189.tex","blue mage",129,,0,"ARC BRD",129,0
-225,"Enhanced Stealth X",,"adventurer",0,,0,"",0,0
-226,"Enhanced Stealth XI",,"adventurer",0,,0,"",0,0
-227,"Enhanced Stealth XII",,"adventurer",0,,0,"",0,0
-228,"Enhanced Stealth X",,"adventurer",0,,0,"",0,0
-229,"Enhanced Stealth XI",,"adventurer",0,,0,"",0,0
-230,"Enhanced Stealth XII",,"adventurer",0,,0,"",0,0
-231,"Enhanced Stealth X",,"adventurer",0,,0,"",0,0
-232,"Enhanced Stealth XI",,"adventurer",0,,0,"",0,0
-233,"Enhanced Stealth XII",,"adventurer",0,,0,"",0,0
-234,"Gulleye VIII",,"adventurer",0,,0,"",0,0
-235,"Gulleye IX",,"adventurer",0,,0,"",0,0
-236,"Enhanced GP Regeneration II","ui/icon/005000/005449.tex","miner",17,,0,"GLA",17,0
-237,"Enhanced GP Regeneration II","ui/icon/005000/005474.tex","botanist",18,,0,"GLA",18,0
-238,"Enhanced GP Regeneration II","ui/icon/005000/005496.tex","fisher",19,,0,"GLA",19,0
-239,"Enhanced GP Regeneration III","ui/icon/005000/005441.tex","miner",17,,0,"PGL",17,0
-240,"Enhanced GP Regeneration III","ui/icon/005000/005466.tex","botanist",18,,0,"PGL",18,0
-241,"Enhanced GP Regeneration III","ui/icon/005000/005486.tex","fisher",19,,0,"PGL",19,0
-242,"Enhanced Solid Reason","ui/icon/005000/005442.tex","miner",17,,0,"ARC BRD",17,0
-243,"Enhanced Ageless Words","ui/icon/005000/005467.tex","botanist",18,,0,"ARC BRD",18,0
-244,"Angler's Art","ui/icon/005000/005485.tex","fisher",19,,0,"",19,0
-245,"Deep Meditation II","ui/icon/005000/005238.tex","monk",21,,0,"ARC ROG BRD NIN MCH",21,0
-246,"Chivalry","ui/icon/005000/005212.tex","paladin",20,,0,"",20,0
-247,"Lance Mastery","ui/icon/005000/005284.tex","dragoon",23,,0,"",23,0
-248,"",,"adventurer",0,,0,"",0,0
-249,"The Beast Within","ui/icon/005000/005261.tex","warrior",22,,66586,"",22,0
-250,"Enhanced Kassatsu","ui/icon/005000/005414.tex","ninja",92,,0,"",92,0
-251,"Increased Action Damage","ui/icon/006000/006351.tex","dancer",150,,0,"BSM",150,0
-252,"Fourfold Fantasy","ui/icon/006000/006352.tex","dancer",150,,0,"",150,0
-253,"Increased Action Damage II","ui/icon/006000/006353.tex","dancer",150,,0,"PLD",150,0
-254,"Enhanced En Avant","ui/icon/006000/006354.tex","dancer",150,,0,"GLA",150,0
-255,"Esprit","ui/icon/006000/006355.tex","dancer",150,,0,"",150,0
-256,"Enhanced En Avant II","ui/icon/006000/006356.tex","dancer",150,,0,"PGL",150,0
-257,"Cartridge Charge","ui/icon/006000/006301.tex","gunbreaker",149,,0,"",149,0
-258,"Enhanced Brutal Shell","ui/icon/006000/006302.tex","gunbreaker",149,,0,"",149,0
-259,"Danger Zone Mastery","ui/icon/006000/006303.tex","gunbreaker",149,,0,"",149,0
-260,"Rage of Halone Mastery","ui/icon/005000/005213.tex","paladin",20,,67573,"",20,0
-261,"Enhanced Prominence","ui/icon/005000/005214.tex","paladin",20,,0,"",20,0
-262,"Enhanced Sheltron","ui/icon/005000/005215.tex","paladin",20,,0,"",20,0
-263,"Enhanced Requiescat","ui/icon/005000/005216.tex","paladin",20,,0,"",20,0
-264,"Sword Oath","ui/icon/005000/005217.tex","paladin",20,,0,"",20,0
-265,"Inner Beast Mastery","ui/icon/005000/005262.tex","warrior",22,,66124,"",22,0
-266,"Steel Cyclone Mastery","ui/icon/005000/005263.tex","warrior",22,,66137,"",22,0
-267,"Nascent Chaos","ui/icon/005000/005264.tex","warrior",22,,0,"",22,0
-268,"Mastering the Beast","ui/icon/005000/005265.tex","warrior",22,,0,"",22,0
-269,"Enhanced Thrill of Battle","ui/icon/005000/005258.tex","warrior",22,,0,"",22,0
-270,"",,"adventurer",0,,0,"",0,0
-271,"Darkside Mastery","ui/icon/006000/006062.tex","dark knight",98,,0,"",98,0
-272,"Enhanced Plunge","ui/icon/006000/006063.tex","adventurer",0,,0,"GLA",0,0
-273,"Riddle of Wind",,"adventurer",0,,0,"",0,0
-274,"Enhanced Fists of Fire","ui/icon/005000/005237.tex","adventurer",0,,0,"",0,0
-275,"Jump Mastery","ui/icon/005000/005286.tex","dragoon",23,,0,"",23,0
-276,"Life of the Dragon Mastery","ui/icon/005000/005287.tex","adventurer",0,,0,"",0,0
-277,"Enhanced Iaijutsu","ui/icon/006000/006153.tex","samurai",111,,0,"",111,0
-278,"Enhanced Fugetsu and Fuka","ui/icon/006000/006154.tex","samurai",111,,0,"",111,0
-279,"Enhanced Shukuchi II","ui/icon/005000/005415.tex","ninja",92,,0,"GLA",92,0
-280,"Shukiho II","ui/icon/005000/005416.tex","ninja",92,,0,"",92,0
-281,"",,"adventurer",0,,0,"",0,0
-282,"Straight Shot Mastery","ui/icon/005000/005311.tex","bard",24,,68430,"",24,0
-283,"Enhanced Quick Nock","ui/icon/005000/005304.tex","archer",50,,0,"",50,0
-284,"Bite Mastery II","ui/icon/005000/005312.tex","bard",24,,0,"",24,0
-285,"Heavy Shot Mastery","ui/icon/005000/005306.tex","bard",24,,0,"",24,0
-286,"Enhanced Army's Paeon","ui/icon/005000/005314.tex","bard",24,,0,"",24,0
-287,"Soul Voice","ui/icon/005000/005315.tex","bard",24,,0,"",24,0
-288,"Split Shot Mastery","ui/icon/006000/006010.tex","machinist",96,,67243,"",96,0
-289,"Slug Shot Mastery","ui/icon/006000/006011.tex","machinist",96,,67248,"",96,0
-290,"Clean Shot Mastery","ui/icon/006000/006012.tex","machinist",96,,0,"",96,0
-291,"Hot Shot Mastery","ui/icon/006000/006016.tex","machinist",96,,0,"",96,0
-292,"Charged Action Mastery","ui/icon/006000/006013.tex","machinist",96,,0,"PGL",96,0
-293,"Enhanced Wildfire","ui/icon/006000/006014.tex","machinist",96,,0,"",96,0
-294,"Promotion","ui/icon/006000/006015.tex","machinist",96,,0,"",96,0
-295,"Umbral Heart","ui/icon/005000/005656.tex","black mage",26,,0,"",26,0
-296,"Aspect Mastery","ui/icon/005000/005362.tex","thaumaturge",55,,0,"",55,0
-297,"Enhanced Polyglot","ui/icon/005000/005363.tex","black mage",26,,0,"",26,0
-298,"Enhanced Dreadwyrm Trance II","ui/icon/005000/005676.tex","adventurer",0,,0,"",0,0
-299,"Enhanced Egi Assault","ui/icon/005000/005677.tex","adventurer",0,,0,"",0,0
-300,"Enhanced Tri-disaster","ui/icon/005000/005678.tex","adventurer",0,,0,"",0,0
-301,"Enhanced Bane","ui/icon/005000/005679.tex","adventurer",0,,0,"",0,0
-302,"Enhanced Firebird Trance","ui/icon/005000/005680.tex","adventurer",0,,0,"",0,0
-303,"Scatter Mastery","ui/icon/006000/006207.tex","red mage",112,,0,"",112,0
-304,"Enhanced Displacement","ui/icon/006000/006204.tex","red mage",112,,0,"",112,0
-305,"Enhanced Manafication","ui/icon/006000/006205.tex","red mage",112,,0,,112,0
-306,"Red Magic Mastery","ui/icon/006000/006206.tex","red mage",112,,0,,112,0
-307,"Aero Mastery II","ui/icon/005000/005339.tex","white mage",25,,0,"",25,0
-308,"Stone Mastery IV","ui/icon/005000/005340.tex","white mage",25,,0,"",25,0
-309,"Transcendent Afflatus","ui/icon/005000/005341.tex","white mage",25,,0,"",25,0
-310,"Enhanced Asylum","ui/icon/005000/005342.tex","white mage",25,,0,"",25,0
-311,"Corruption Mastery II","ui/icon/005000/005701.tex","scholar",29,,0,"",29,0
-312,"Broil Mastery III","ui/icon/005000/005702.tex","scholar",29,,0,"",29,0
-313,"Enhanced Sacred Soil","ui/icon/005000/005703.tex","scholar",29,,0,"",29,0
-314,"Combust Mastery II","ui/icon/006000/006112.tex","astrologian",99,,0,"",99,0
-315,"Malefic Mastery III","ui/icon/006000/006113.tex","astrologian",99,,0,"",99,0
-316,"Enhanced Essential Dignity","ui/icon/006000/006114.tex","astrologian",99,,0,"GLA",99,0
-317,"Tank Mastery","ui/icon/005000/005190.tex","gladiator",38,,0,,38,0
-318,"Tank Mastery","ui/icon/005000/005190.tex","marauder",44,,0,,44,0
-319,"Tank Mastery","ui/icon/005000/005190.tex","dark knight",98,,0,,98,0
-320,"Tank Mastery","ui/icon/005000/005190.tex","gunbreaker",149,,0,,149,0
-321,"Enhanced Sharpcast","ui/icon/005000/005364.tex","adventurer",0,,0,,0,0
-322,"Enhanced Enochian II","ui/icon/005000/005365.tex","black mage",26,,0,"BSM",26,0
-323,"",,"adventurer",0,,0,"",0,0
-324,"Corruption Mastery","ui/icon/005000/005376.tex","scholar",29,,0,"",29,0
-325,"One with the Mountain","ui/icon/005000/005427.tex","miner",17,,0,"",17,0
-326,"One with the Forest","ui/icon/005000/005452.tex","botanist",18,,0,"",18,0
-327,"One with the Ocean","ui/icon/005000/005476.tex","fisher",19,,68458,"",19,0
-328,"Auto Sneak","ui/icon/005000/005428.tex","miner",17,,0,"",17,0
-329,"Auto Sneak","ui/icon/005000/005453.tex","botanist",18,,0,"",18,0
-330,"Auto Sneak","ui/icon/005000/005477.tex","fisher",19,,0,"",19,0
-331,"Enhanced Twelve's Bounty III","ui/icon/005000/005440.tex","miner",17,,0,"",17,0
-332,"Enhanced Twelve's Bounty III","ui/icon/005000/005465.tex","botanist",18,,0,"",18,0
-333,"Bountiful Yield Mastery","ui/icon/005000/005429.tex","miner",17,,68093,"",17,0
-334,"Unearth Mastery",,"adventurer",0,,0,"",0,0
-335,"Impulsive Appraisal Mastery",,"adventurer",0,,0,"",0,0
-336,"Bountiful Harvest Mastery","ui/icon/005000/005454.tex","botanist",18,,68159,"",18,0
-337,"Leaf Turn Mastery",,"adventurer",0,,0,"",0,0
-338,"Impulsive Appraisal Mastery",,"adventurer",0,,0,"",0,0
-339,"Basic Synthesis Mastery","ui/icon/006000/006979.tex","carpenter",9,,0,"",9,0
-340,"Basic Synthesis Mastery","ui/icon/006000/006980.tex","blacksmith",10,,0,"",10,0
-341,"Basic Synthesis Mastery","ui/icon/006000/006981.tex","armorer",11,,0,"",11,0
-342,"Basic Synthesis Mastery","ui/icon/006000/006982.tex","goldsmith",12,,0,"",12,0
-343,"Basic Synthesis Mastery","ui/icon/006000/006983.tex","leatherworker",13,,0,"",13,0
-344,"Basic Synthesis Mastery","ui/icon/006000/006984.tex","weaver",14,,0,"",14,0
-345,"Basic Synthesis Mastery","ui/icon/006000/006985.tex","alchemist",15,,0,"",15,0
-346,"Basic Synthesis Mastery","ui/icon/006000/006986.tex","culinarian",16,,0,"",16,0
-347,"Rapid Synthesis Mastery","ui/icon/006000/006978.tex","carpenter",9,,0,"",9,0
-348,"Rapid Synthesis Mastery","ui/icon/006000/006978.tex","blacksmith",10,,0,"",10,0
-349,"Rapid Synthesis Mastery","ui/icon/006000/006978.tex","armorer",11,,0,"",11,0
-350,"Rapid Synthesis Mastery","ui/icon/006000/006978.tex","goldsmith",12,,0,"",12,0
-351,"Rapid Synthesis Mastery","ui/icon/006000/006978.tex","leatherworker",13,,0,"",13,0
-352,"Rapid Synthesis Mastery","ui/icon/006000/006978.tex","weaver",14,,0,"",14,0
-353,"Rapid Synthesis Mastery","ui/icon/006000/006978.tex","alchemist",15,,0,"",15,0
-354,"Rapid Synthesis Mastery","ui/icon/006000/006978.tex","culinarian",16,,0,"",16,0
-355,"Enhanced Outburst","ui/icon/005000/005681.tex","adventurer",0,,0,"",0,0
-356,"Practice Makes Perfect","ui/icon/006000/006987.tex","carpenter",9,,0,"",9,1
-357,"Practice Makes Perfect","ui/icon/006000/006987.tex","blacksmith",10,,0,"",10,1
-358,"Practice Makes Perfect","ui/icon/006000/006987.tex","armorer",11,,0,"",11,1
-359,"Practice Makes Perfect","ui/icon/006000/006987.tex","goldsmith",12,,0,"",12,1
-360,"Practice Makes Perfect","ui/icon/006000/006987.tex","leatherworker",13,,0,"",13,1
-361,"Practice Makes Perfect","ui/icon/006000/006987.tex","weaver",14,,0,"",14,1
-362,"Practice Makes Perfect","ui/icon/006000/006987.tex","alchemist",15,,0,"",15,1
-363,"Practice Makes Perfect","ui/icon/006000/006987.tex","culinarian",16,,0,"",16,1
-364,"Greased Lightning","ui/icon/005000/005239.tex","pugilist",41,,0,"",41,0
-365,"Enhanced Greased Lightning","ui/icon/005000/005230.tex","pugilist",41,,0,"",41,0
-366,"Enhanced Greased Lightning II","ui/icon/005000/005231.tex","monk",21,,0,"",21,0
-367,"Enhanced Greased Lightning III","ui/icon/005000/005240.tex","monk",21,,0,"",21,0
-368,"Maim and Mend","ui/icon/005000/005185.tex","sage",181,,0,"BSM",181,0
-369,"Maim and Mend II","ui/icon/005000/005186.tex","sage",181,,0,"Disciple of War",181,0
-370,"Addersgall","ui/icon/006000/006451.tex","sage",181,,0,"",181,0
-371,"Somanoutic Oath","ui/icon/006000/006452.tex","sage",181,,0,"",181,0
-372,"Somanoutic Oath II","ui/icon/006000/006453.tex","sage",181,,0,"",181,0
-373,"Addersting","ui/icon/006000/006454.tex","sage",181,,0,"",181,0
-374,"Offensive Magic Mastery","ui/icon/006000/006455.tex","sage",181,,0,"",181,0
-375,"Enhanced Kerachole","ui/icon/006000/006456.tex","sage",181,,0,"",181,0
-376,"Offensive Magic Mastery II","ui/icon/006000/006457.tex","sage",181,,0,"",181,0
-377,"Enhanced Healing Magic","ui/icon/006000/006826.tex","sage",181,,0,"",181,0
-378,"Enhanced Zoe","ui/icon/006000/006458.tex","sage",181,,0,,181,0
-379,"Soul Gauge","ui/icon/006000/006401.tex","reaper",180,,0,"",180,0
-380,"Melee Mastery","ui/icon/006000/006801.tex","reaper",180,,0,"",180,0
-381,"Enhanced Avatar","ui/icon/006000/006403.tex","reaper",180,,0,"",180,0
-382,"Hellsgate","ui/icon/006000/006404.tex","reaper",180,,0,"",180,0
-383,"Tempered Soul","ui/icon/006000/006405.tex","reaper",180,,0,"GLA",180,0
-384,"Shroud Gauge","ui/icon/006000/006406.tex","reaper",180,,69614,"",180,0
-385,"Enhanced Arcane Crest","ui/icon/006000/006407.tex","reaper",180,,0,"",180,0
-386,"Void Soul","ui/icon/006000/006408.tex","reaper",180,,0,"",180,0
-387,"Enhanced Arcane Circle","ui/icon/006000/006409.tex","reaper",180,,0,"",180,0
-388,"Inner Quiet","ui/icon/006000/006988.tex","carpenter",9,,0,"",9,0
-389,"Inner Quiet","ui/icon/006000/006988.tex","blacksmith",10,,0,"",10,0
-390,"Inner Quiet","ui/icon/006000/006988.tex","armorer",11,,0,"",11,0
-391,"Inner Quiet","ui/icon/006000/006988.tex","goldsmith",12,,0,"",12,0
-392,"Inner Quiet","ui/icon/006000/006988.tex","leatherworker",13,,0,"",13,0
-393,"Inner Quiet","ui/icon/006000/006988.tex","weaver",14,,0,"",14,0
-394,"Inner Quiet","ui/icon/006000/006988.tex","alchemist",15,,0,"",15,0
-395,"Inner Quiet","ui/icon/006000/006988.tex","culinarian",16,,0,"",16,0
-396,"Careful Synthesis Mastery","ui/icon/006000/006989.tex","carpenter",9,,0,"",9,0
-397,"Careful Synthesis Mastery","ui/icon/006000/006989.tex","blacksmith",10,,0,"",10,0
-398,"Careful Synthesis Mastery","ui/icon/006000/006989.tex","armorer",11,,0,"",11,0
-399,"Careful Synthesis Mastery","ui/icon/006000/006989.tex","goldsmith",12,,0,"",12,0
-400,"Careful Synthesis Mastery","ui/icon/006000/006989.tex","leatherworker",13,,0,"",13,0
-401,"Careful Synthesis Mastery","ui/icon/006000/006989.tex","weaver",14,,0,"",14,0
-402,"Careful Synthesis Mastery","ui/icon/006000/006989.tex","alchemist",15,,0,"",15,0
-403,"Careful Synthesis Mastery","ui/icon/006000/006989.tex","culinarian",16,,0,"",16,0
-404,"Groundwork Mastery","ui/icon/006000/006990.tex","carpenter",9,,0,"",9,0
-405,"Groundwork Mastery","ui/icon/006000/006991.tex","blacksmith",10,,0,"",10,0
-406,"Groundwork Mastery","ui/icon/006000/006992.tex","armorer",11,,0,"",11,0
-407,"Groundwork Mastery","ui/icon/006000/006993.tex","goldsmith",12,,0,"",12,0
-408,"Groundwork Mastery","ui/icon/006000/006994.tex","leatherworker",13,,0,"",13,0
-409,"Groundwork Mastery","ui/icon/006000/006995.tex","weaver",14,,0,"",14,0
-410,"Groundwork Mastery","ui/icon/006000/006996.tex","alchemist",15,,0,"",15,0
-411,"Groundwork Mastery","ui/icon/006000/006997.tex","culinarian",16,,0,"",16,0
-412,"Sheltron Mastery","ui/icon/005000/005218.tex","paladin",20,,0,"",20,0
-413,"Enhanced Intervention","ui/icon/005000/005219.tex","paladin",20,,0,"",20,0
-414,"Divine Magic Mastery II","ui/icon/005000/005220.tex","paladin",20,,0,"",20,0
-415,"Spirits Within Mastery","ui/icon/005000/005221.tex","paladin",20,,0,"",20,0
-416,"Enhanced Divine Veil","ui/icon/005000/005222.tex","paladin",20,,0,"",20,0
-417,"Enhanced Shake It Off","ui/icon/005000/005266.tex","warrior",22,,0,"",22,0
-418,"Raw Intuition Mastery","ui/icon/005000/005267.tex","warrior",22,,0,"",22,0
-419,"Enhanced Nascent Flash","ui/icon/005000/005268.tex","warrior",22,,0,"",22,0
-420,"Enhanced Equilibrium","ui/icon/005000/005269.tex","warrior",22,,0,"",22,0
-421,"Enhanced Onslaught","ui/icon/005000/005270.tex","warrior",22,,0,"PGL",22,0
-422,"Enhanced Unmend","ui/icon/006000/006064.tex","dark knight",98,,0,"",98,0
-423,"Enhanced Living Shadow II","ui/icon/006000/006066.tex","dark knight",98,,0,"",98,0
-424,"Heart of Stone Mastery","ui/icon/006000/006304.tex","gunbreaker",149,,0,"",149,0
-425,"Enhanced Aurora","ui/icon/006000/006305.tex","gunbreaker",149,,0,"GLA",149,0
-426,"Enhanced Continuation","ui/icon/006000/006306.tex","gunbreaker",149,,0,"",149,0
-427,"Cartridge Charge II","ui/icon/006000/006307.tex","gunbreaker",149,,0,"",149,0
-428,"Steel Peak Mastery","ui/icon/005000/005241.tex","monk",21,,67564,"",21,0
-429,"Howling Fist Mastery","ui/icon/005000/005242.tex","monk",21,,0,"",21,0
-430,"Arm of the Destroyer Mastery","ui/icon/005000/005243.tex","monk",21,,0,"",21,0
-431,"Enhanced Thunderclap","ui/icon/005000/005244.tex","monk",21,,0,"PGL",21,0
-432,"Enhanced Brotherhood","ui/icon/005000/005245.tex","monk",21,,0,"",21,0
-433,"Enhanced Perfect Balance","ui/icon/005000/005246.tex","monk",21,,67567,"",21,0
-434,"Enhanced Jump","ui/icon/005000/005294.tex","dragoon",23,,67228,"",23,0
-435,"Enhanced Coerthan Torment","ui/icon/005000/005290.tex","dragoon",23,,0,"",23,0
-436,"Enhanced Spineshatter Dive","ui/icon/005000/005291.tex","adventurer",0,,0,"GLA",0,0
-437,"Lance Mastery II","ui/icon/005000/005288.tex","dragoon",23,,0,"",23,0
-438,"Enhanced Life Surge","ui/icon/005000/005277.tex","dragoon",23,,0,"GLA",23,0
-439,"Shukiho III","ui/icon/005000/005417.tex","ninja",92,,0,"",92,0
-440,"Enhanced Meisui","ui/icon/005000/005418.tex","ninja",92,,0,"",92,0
-441,"Enhanced Raiton","ui/icon/005000/005419.tex","ninja",92,,0,"",92,0
-442,"Enhanced Tsubame-gaeshi","ui/icon/006000/006155.tex","adventurer",0,,0,"",0,0
-443,"Enhanced Meikyo Shisui","ui/icon/006000/006156.tex","samurai",111,,0,"GLA",111,0
-444,"Quick Nock Mastery","ui/icon/005000/005316.tex","bard",24,,0,"",24,0
-445,"Enhanced Bloodletter","ui/icon/005000/005317.tex","bard",24,,0,"PGL",24,0
-446,"Enhanced Apex Arrow","ui/icon/005000/005318.tex","bard",24,,0,"",24,0
-447,"Enhanced Troubadour","ui/icon/005000/005319.tex","bard",24,,0,,24,0
-448,"Minstrel's Coda","ui/icon/005000/005320.tex","bard",24,,0,"",24,0
-449,"Spread Shot Mastery","ui/icon/006000/006017.tex","machinist",96,,0,"",96,0
-450,"Enhanced Reassemble","ui/icon/006000/006018.tex","machinist",96,,0,"GLA",96,0
-451,"Queen's Gambit","ui/icon/006000/006019.tex","machinist",96,,0,"",96,0
-452,"Enhanced Tactician","ui/icon/006000/006020.tex","machinist",96,,0,,96,0
-453,"Enhanced Technical Finish","ui/icon/006000/006357.tex","dancer",150,,0,"",150,0
-454,"Enhanced Esprit","ui/icon/006000/006358.tex","dancer",150,,0,"",150,0
-455,"Enhanced Flourish","ui/icon/006000/006359.tex","dancer",150,,0,"",150,0
-456,"Enhanced Shield Samba","ui/icon/006000/006360.tex","dancer",150,,0,,150,0
-457,"Enhanced Devilment","ui/icon/006000/006361.tex","dancer",150,,0,"",150,0
-458,"Aspect Mastery II","ui/icon/005000/005366.tex","thaumaturge",55,,0,"",55,0
-459,"Aspect Mastery III","ui/icon/005000/005367.tex","thaumaturge",55,,0,"",55,0
-460,"Enochian","ui/icon/005000/005368.tex","black mage",26,,67217,"",26,0
-461,"Enhanced Foul","ui/icon/005000/005369.tex","black mage",26,,0,"",26,0
-462,"Aspect Mastery IV","ui/icon/005000/005370.tex","black mage",26,,0,"",26,0
-463,"Enhanced Manafont","ui/icon/005000/005371.tex","black mage",26,,0,,26,0
-464,"Enhanced Sharpcast II","ui/icon/005000/005372.tex","adventurer",0,,0,"GLA",0,0
-465,"Aspect Mastery V","ui/icon/005000/005373.tex","black mage",26,,0,"",26,0
-466,"Enhanced Aethercharge","ui/icon/005000/005396.tex","arcanist",69,,66639,"",69,0
-467,"Enhanced Aethercharge II","ui/icon/005000/005397.tex","arcanist",69,,0,"",69,0
-468,"Ruby Summoning Mastery","ui/icon/005000/005682.tex","summoner",28,,66627,"",28,0
-469,"Topaz Summoning Mastery","ui/icon/005000/005683.tex","summoner",28,,66628,"",28,0
-470,"Emerald Summoning Mastery","ui/icon/005000/005684.tex","summoner",28,,66631,"",28,0
-471,"Enkindle","ui/icon/005000/005685.tex","summoner",28,,66632,"",28,0
-472,"",,"adventurer",0,,0,"",0,0
-473,"Ruin Mastery II","ui/icon/005000/005687.tex","summoner",28,,67638,"",28,0
-474,"Aethercharge Mastery","ui/icon/005000/005690.tex","summoner",28,,67640,"",28,0
-475,"Enhanced Energy Siphon","ui/icon/005000/005691.tex","summoner",28,,0,"",28,0
-476,"Ruin Mastery III","ui/icon/005000/005688.tex","summoner",28,,0,"",28,0
-477,"Outburst Mastery","ui/icon/005000/005692.tex","summoner",28,,0,"",28,0
-478,"Outburst Mastery II","ui/icon/005000/005693.tex","summoner",28,,0,"",28,0
-479,"Ruin Mastery IV","ui/icon/005000/005689.tex","summoner",28,,0,"",28,0
-480,"Enhanced Radiant Aegis","ui/icon/005000/005694.tex","summoner",28,,0,"GLA",28,0
-481,"Enkindle II","ui/icon/005000/005695.tex","summoner",28,,0,"",28,0
-482,"Mana Stack","ui/icon/006000/006208.tex","red mage",112,,0,"",112,0
-483,"Red Magic Mastery II","ui/icon/006000/006209.tex","red mage",112,,0,"",112,0
-484,"Red Magic Mastery III","ui/icon/006000/006210.tex","red mage",112,,0,"",112,0
-485,"Enhanced Acceleration","ui/icon/006000/006211.tex","red mage",112,,0,"GLA",112,0
-486,"Enhanced Manafication II","ui/icon/006000/006212.tex","red mage",112,,0,"",112,0
-487,"Glare Mastery","ui/icon/005000/005343.tex","white mage",25,,0,"",25,0
-488,"Holy Mastery","ui/icon/005000/005344.tex","white mage",25,,0,"",25,0
-489,"Enhanced Healing Magic","ui/icon/006000/006826.tex","white mage",25,,0,"",25,0
-490,"Enhanced Divine Benison","ui/icon/005000/005345.tex","white mage",25,,0,"GLA",25,0
-491,"Broil Mastery IV","ui/icon/005000/005704.tex","scholar",29,,0,"",29,0
-492,"Art of War Mastery","ui/icon/005000/005705.tex","scholar",29,,0,"",29,0
-493,"Enhanced Healing Magic","ui/icon/006000/006826.tex","scholar",29,,0,"",29,0
-494,"Enhanced Deployment Tactics","ui/icon/005000/005706.tex","scholar",29,,0,,29,0
-495,"Enhanced Draw","ui/icon/006000/006115.tex","adventurer",0,,0,"",0,0
-496,"Enhanced Draw II","ui/icon/006000/006116.tex","adventurer",0,,0,"",0,0
-497,"Malefic Mastery IV","ui/icon/006000/006117.tex","astrologian",99,,0,"",99,0
-498,"Gravity Mastery","ui/icon/006000/006118.tex","astrologian",99,,0,"",99,0
-499,"Enhanced Healing Magic","ui/icon/006000/006826.tex","astrologian",99,,0,"",99,0
-500,"Enhanced Celestial Intersection","ui/icon/006000/006119.tex","astrologian",99,,0,"GLA",99,0
-501,"Starfishing","ui/icon/005000/005487.tex","fisher",19,,0,"",19,0
-502,"Enhanced Summon Bahamut","ui/icon/005000/005696.tex","summoner",28,,0,"",28,0
-503,"Elemental Mastery","ui/icon/005000/005697.tex","summoner",28,,0,"",28,0
-504,"Melee Mastery","ui/icon/006000/006801.tex","paladin",20,,0,"",20,0
-505,"Melee Mastery","ui/icon/006000/006801.tex","warrior",22,,0,"",22,0
-506,"Melee Mastery","ui/icon/006000/006801.tex","dark knight",98,,0,"",98,0
-507,"Melee Mastery","ui/icon/006000/006801.tex","gunbreaker",149,,0,"",149,0
-508,"Lance Mastery III","ui/icon/005000/005292.tex","dragoon",23,,0,"",23,0
-509,"Enhanced Enochian III","ui/icon/005000/005374.tex","black mage",26,,0,"BTN",26,0
-510,"Physis Mastery","ui/icon/006000/006459.tex","sage",181,,0,"",181,0
-511,"Enhanced Living Shadow","ui/icon/006000/006065.tex","dark knight",98,,0,"",98,0
-512,"Flint Strike Mastery","ui/icon/005000/005248.tex","monk",21,,0,"",21,0
-513,"Tornado Kick Mastery","ui/icon/005000/005247.tex","monk",21,,0,"",21,0
-514,"Enhanced Ikishoten","ui/icon/006000/006157.tex","samurai",111,,0,"",111,0
-515,"Adept Assassination","ui/icon/005000/005420.tex","ninja",92,,67222,"",92,0
-516,"Melee Mastery","ui/icon/006000/006801.tex","ninja",92,,0,"",92,0
-517,"Marksman's Mastery","ui/icon/006000/006801.tex","machinist",96,,0,"",96,0
-518,"Melee Mastery","ui/icon/006000/006801.tex","monk",21,,0,"",21,0
-519,"Fuga Mastery","ui/icon/006000/006158.tex","samurai",111,,0,"",111,0
-520,"Way of the Samurai","ui/icon/006000/006801.tex","samurai",111,,0,"",111,0
-521,"Way of the Samurai II","ui/icon/006000/006802.tex","samurai",111,,0,"",111,0
-522,"Melee Mastery II","ui/icon/006000/006802.tex","ninja",92,,0,"",92,0
-523,"Melee Mastery II","ui/icon/006000/006802.tex","reaper",180,,0,"",180,0
-524,"Viper's Fangs","ui/icon/006000/006501.tex","viper",196,,0,"",196,0
-525,"Viper's Maw","ui/icon/006000/006502.tex","viper",196,,0,"",196,0
-526,"Viper's Bite","ui/icon/006000/006503.tex","viper",196,,0,"",196,0
-527,"Viper's Thresh","ui/icon/006000/006504.tex","viper",196,,0,"",196,0
-528,"Viper's Rattle","ui/icon/006000/006505.tex","viper",196,,0,"",196,0
-529,"Enhanced Slither","ui/icon/006000/006506.tex","viper",196,,0,"PGL",196,0
-530,"Enhanced Viper's Rattle","ui/icon/006000/006507.tex","viper",196,,0,"",196,0
-531,"Serpent's Lineage","ui/icon/006000/006508.tex","viper",196,,0,"",196,0
-532,"Uncoiled Fangs","ui/icon/006000/006510.tex","viper",196,,0,"",196,0
-533,"Enhanced Serpent's Lineage","ui/icon/006000/006511.tex","viper",196,,0,"",196,0
-534,"Serpent's Legacy","ui/icon/006000/006509.tex","viper",196,,0,"",196,0
-535,"",,"adventurer",0,,0,"",0,0
-536,"",,"adventurer",0,,0,"",0,0
-537,"Palette Gauge","ui/icon/006000/006551.tex","pictomancer",197,,0,"",197,0
-538,"Enhanced Artistry","ui/icon/006000/006552.tex","pictomancer",197,,0,"",197,0
-539,"Enhanced Smudge","ui/icon/006000/006553.tex","pictomancer",197,,0,"",197,0
-540,"Enhanced Pictomancy II","ui/icon/006000/006554.tex","pictomancer",197,,0,"GLA",197,0
-541,"Enhanced Tempera","ui/icon/006000/006555.tex","pictomancer",197,,0,"",197,0
-542,"Enhanced Palette","ui/icon/006000/006556.tex","pictomancer",197,,0,"",197,0
-543,"Enhanced Pictomancy III","ui/icon/006000/006560.tex","pictomancer",197,,0,"",197,0
-544,"Enhanced Pictomancy V","ui/icon/006000/006561.tex","pictomancer",197,,0,"",197,0
-545,"Enhanced Pictomancy IV","ui/icon/006000/006559.tex","pictomancer",197,,0,"PGL",197,0
-546,"Enhanced Pictomancy","ui/icon/006000/006558.tex","pictomancer",197,,0,"",197,0
-547,"",,"adventurer",0,,0,"",0,0
-548,"Delicate Synthesis Mastery","ui/icon/006000/006951.tex","carpenter",9,,0,"",9,0
-549,"Delicate Synthesis Mastery","ui/icon/006000/006952.tex","blacksmith",10,,0,"",10,0
-550,"Delicate Synthesis Mastery","ui/icon/006000/006953.tex","armorer",11,,0,"",11,0
-551,"Delicate Synthesis Mastery","ui/icon/006000/006954.tex","goldsmith",12,,0,"",12,0
-552,"Delicate Synthesis Mastery","ui/icon/006000/006955.tex","leatherworker",13,,0,"",13,0
-553,"Delicate Synthesis Mastery","ui/icon/006000/006956.tex","weaver",14,,0,"",14,0
-554,"Delicate Synthesis Mastery","ui/icon/006000/006957.tex","alchemist",15,,0,"",15,0
-555,"Delicate Synthesis Mastery","ui/icon/006000/006958.tex","culinarian",16,,0,"",16,0
-556,"Expedience","ui/icon/006000/006975.tex","carpenter",9,,0,"",9,0
-557,"Expedience","ui/icon/006000/006975.tex","blacksmith",10,,0,"",10,0
-558,"Expedience","ui/icon/006000/006975.tex","armorer",11,,0,"",11,0
-559,"Expedience","ui/icon/006000/006975.tex","goldsmith",12,,0,"",12,0
-560,"Expedience","ui/icon/006000/006975.tex","leatherworker",13,,0,"",13,0
-561,"Expedience","ui/icon/006000/006975.tex","weaver",14,,0,"",14,0
-562,"Expedience","ui/icon/006000/006975.tex","alchemist",15,,0,"",15,0
-563,"Expedience","ui/icon/006000/006975.tex","culinarian",16,,0,"",16,0
-564,"Sentinel Mastery","ui/icon/005000/005202.tex","paladin",20,,0,"",20,0
-565,"Requiescat Mastery","ui/icon/005000/005223.tex","paladin",20,,0,"",20,0
-566,"Enhanced Blade of Valor","ui/icon/005000/005224.tex","paladin",20,,0,"",20,0
-567,"Vengeance Mastery","ui/icon/005000/005271.tex","warrior",22,,0,"",22,0
-568,"Enhanced Inner Release","ui/icon/005000/005272.tex","warrior",22,,0,"",22,0
-569,"Enhanced Primal Rend","ui/icon/005000/005273.tex","warrior",22,,0,"",22,0
-570,"Blood Weapon Mastery","ui/icon/006000/006053.tex","dark knight",98,,0,"",98,0
-571,"Shadow Wall Mastery","ui/icon/006000/006068.tex","dark knight",98,,0,"",98,0
-572,"Enhanced Delirium","ui/icon/006000/006069.tex","dark knight",98,,0,"",98,0
-573,"Enhanced Living Shadow III","ui/icon/006000/006070.tex","dark knight",98,,0,"",98,0
-574,"Nebula Mastery","ui/icon/006000/006308.tex","gunbreaker",149,,0,"",149,0
-575,"Enhanced Continuation II","ui/icon/006000/006309.tex","gunbreaker",149,,0,"",149,0
-576,"Enhanced Bloodfest","ui/icon/006000/006310.tex","gunbreaker",149,,0,"",149,0
-577,"Beast Chakra Mastery","ui/icon/005000/005249.tex","monk",21,,0,"",21,0
-578,"Enhanced Riddle of Wind","ui/icon/005000/005526.tex","monk",21,,0,"",21,0
-579,"Enhanced Riddle of Fire","ui/icon/005000/005527.tex","monk",21,,0,"",21,0
-580,"Enhanced Winged Glide","ui/icon/005000/005295.tex","dragoon",23,,0,"GLA",23,0
-581,"Enhanced Dragonfire Dive","ui/icon/005000/005296.tex","dragoon",23,,0,"",23,0
-582,"Lance Mastery IV","ui/icon/005000/005293.tex","dragoon",23,,0,"",23,0
-583,"Enhanced Stardiver","ui/icon/005000/005298.tex","dragoon",23,,0,"",23,0
-584,"Increase Attack Speed","ui/icon/005000/005421.tex","ninja",92,,0,"",92,0
-585,"Mug Mastery","ui/icon/005000/005422.tex","ninja",92,,0,"",92,0
-586,"Trick Attack Mastery","ui/icon/005000/005423.tex","ninja",92,,0,"",92,0
-587,"Enhanced Dokumori","ui/icon/005000/005424.tex","ninja",92,,0,"",92,0
-588,"Enhanced Ten Chi Jin","ui/icon/005000/005726.tex","ninja",92,,0,"",92,0
-589,"Third Eye Mastery","ui/icon/006000/006159.tex","samurai",111,,0,"",111,0
-590,"Hakaze Mastery","ui/icon/006000/006160.tex","samurai",111,,0,"",111,0
-591,"Enhanced Hissatsu","ui/icon/006000/006161.tex","samurai",111,,0,,111,0
-592,"Enhanced Ikishoten II","ui/icon/006000/006162.tex","samurai",111,,0,"",111,0
-593,"Enhanced Meikyo Shisui II","ui/icon/006000/006163.tex","samurai",111,,0,"",111,0
-594,"Enhanced Enshroud","ui/icon/006000/006411.tex","reaper",180,,0,"",180,0
-595,"",,"adventurer",0,,0,"",0,0
-596,"Enhanced Gluttony","ui/icon/006000/006413.tex","reaper",180,,0,"",180,0
-597,"Enhanced Plentiful Harvest","ui/icon/006000/006414.tex","reaper",180,,0,"",180,0
-598,"Wide Volley Mastery","ui/icon/005000/005322.tex","bard",24,,0,"",24,0
-599,"Bloodletter Mastery","ui/icon/005000/005323.tex","bard",24,,0,"",24,0
-600,"Enhanced Barrage","ui/icon/005000/005301.tex","bard",24,,0,"",24,0
-601,"Enhanced Troubadour II","ui/icon/005000/005324.tex","bard",24,,0,"",24,0
-602,"Enhanced Radiant Finale","ui/icon/005000/005601.tex","bard",24,,0,"",24,0
-603,"Heat Blast Mastery","ui/icon/006000/006021.tex","machinist",96,,0,"",96,0
-604,"Double-barrel Mastery","ui/icon/006000/006022.tex","machinist",96,,0,"",96,0
-605,"Enhanced Multiweapon","ui/icon/006000/006023.tex","machinist",96,,0,"GLA",96,0
-606,"Enhanced Multiweapon II","ui/icon/006000/006024.tex","machinist",96,,0,"",96,0
-607,"Enhanced Tactician II","ui/icon/006000/006025.tex","machinist",96,,0,"",96,0
-608,"Enhanced Barrel Stabilizer","ui/icon/006000/006026.tex","machinist",96,,0,"",96,0
-609,"Enhanced Standard Finish","ui/icon/006000/006362.tex","dancer",150,,0,"",150,0
-610,"Enhanced Flourish II","ui/icon/006000/006363.tex","dancer",150,,0,"",150,0
-611,"Enhanced Shield Samba II","ui/icon/006000/006364.tex","dancer",150,,0,"",150,0
-612,"Enhanced Technical Finish II","ui/icon/006000/006365.tex","dancer",150,,0,"",150,0
-613,"Thunder Mastery III","ui/icon/005000/005651.tex","black mage",26,,0,"",26,0
-614,"Enhanced Ley Lines","ui/icon/005000/005652.tex","black mage",26,,0,"",26,0
-615,"Enhanced Polyglot II","ui/icon/005000/005653.tex","black mage",26,,0,"",26,0
-616,"Enhanced Astral Fire","ui/icon/005000/005654.tex","black mage",26,,0,"",26,0
-617,"Enhanced Fester","ui/icon/005000/005398.tex","summoner",28,,0,"",28,0
-618,"Enhanced Searing Light","ui/icon/005000/005399.tex","summoner",28,,0,"",28,0
-619,"Enhanced Summon Bahamut II","ui/icon/005000/005698.tex","summoner",28,,0,"",28,0
-620,"Enhanced Embolden","ui/icon/006000/006213.tex","red mage",112,,0,"",112,0
-621,"Enhanced Acceleration II","ui/icon/006000/006214.tex","red mage",112,,0,"",112,0
-622,"Enhanced Manafication III","ui/icon/006000/006215.tex","red mage",112,,0,"",112,0
-623,"Enhanced Presence of Mind","ui/icon/005000/005346.tex","white mage",25,,0,"",25,0
-624,"Medica Mastery","ui/icon/005000/005347.tex","white mage",25,,0,"",25,0
-625,"Enhanced Tetragrammaton","ui/icon/005000/005349.tex","white mage",25,,0,"GLA",25,0
-626,"Enhanced Temperance","ui/icon/005000/005348.tex","white mage",25,,0,"",25,0
-627,"Enhanced Chain Stratagem","ui/icon/005000/005707.tex","scholar",29,,0,"",29,0
-628,"Succor Mastery","ui/icon/005000/005708.tex","scholar",29,,0,"",29,0
-629,"Enhanced Recitation","ui/icon/005000/005710.tex","scholar",29,,0,,29,0
-630,"",,"adventurer",0,,0,"",0,0
-631,"Minor Arcana Mastery","ui/icon/006000/006120.tex","astrologian",99,,0,"",99,0
-632,"Enhanced Divination","ui/icon/006000/006121.tex","astrologian",99,,0,"",99,0
-633,"Aspected Helios Mastery","ui/icon/006000/006122.tex","astrologian",99,,0,"",99,0
-634,"Enhanced Essential Dignity II","ui/icon/006000/006124.tex","astrologian",99,,0,"PGL",99,0
-635,"Enhanced Neutral Sect","ui/icon/006000/006123.tex","astrologian",99,,0,"",99,0
-636,"Enhanced Soteria","ui/icon/006000/006461.tex","sage",181,,0,,181,0
-637,"Eukrasian Prognosis Mastery","ui/icon/006000/006460.tex","sage",181,,0,"",181,0
-638,"Enhanced Physis II","ui/icon/006000/006462.tex","sage",181,,0,"",181,0
-639,"Enhanced Rampart","ui/icon/006000/006804.tex","adventurer",113,,0,"",113,0
-640,"Enhanced Reprisal","ui/icon/006000/006805.tex","adventurer",113,,0,"",113,0
-641,"Enhanced Feint","ui/icon/006000/006851.tex","adventurer",114,,0,"",114,0
-642,"Enhanced Second Wind","ui/icon/006000/006852.tex","adventurer",118,,0,"",118,0
-643,"Enhanced Addle","ui/icon/006000/006827.tex","adventurer",198,,0,"",198,0
-644,"Enhanced Swiftcast","ui/icon/006000/006828.tex","adventurer",199,,0,,199,0
-645,"Collector's High Standard","ui/icon/005000/005447.tex","miner",17,,67631,"",17,0
-646,"Collector's High Standard","ui/icon/005000/005472.tex","botanist",18,,67631,"",18,0
-647,"Revisit","ui/icon/005000/005446.tex","miner",17,,0,"",17,0
-648,"Revisit","ui/icon/005000/005471.tex","botanist",18,,0,"",18,0
-649,"Fisher's Instinct","ui/icon/005000/005480.tex","fisher",19,,0,"",19,0
-650,"Melee Mastery II","ui/icon/006000/006802.tex","paladin",20,,0,"",20,0
-651,"White Magic Mastery","ui/icon/006000/006831.tex","white mage",25,,0,"",25,0
-652,"Enchanted Blade Mastery","ui/icon/006000/006831.tex","red mage",112,,0,"",112,0
-653,"Melee Mastery","ui/icon/006000/006806.tex","dragoon",23,,0,"",23,0
-654,"Melee Mastery II","ui/icon/006000/006802.tex","warrior",22,,0,"",22,0
-655,"Way of the Samurai III","ui/icon/006000/006803.tex","samurai",111,,0,"",111,0
-656,"Tactician's Mastery","ui/icon/006000/006831.tex","scholar",29,,0,"",29,0
-657,"Melee Mastery III","ui/icon/006000/006803.tex","reaper",180,,0,"",180,0
-658,"Marksman's Mastery II","ui/icon/006000/006802.tex","machinist",96,,0,"",96,0
-659,"Enhanced Enochian IV","ui/icon/005000/005655.tex","black mage",26,,0,"WHM",26,0
-660,"Melee Mastery II","ui/icon/006000/006802.tex","monk",21,,0,"",21,0
-661,"Melee Mastery III","ui/icon/006000/006803.tex","ninja",92,,0,"",92,0
-662,"Dynamic Dancer","ui/icon/006000/006806.tex","dancer",150,,0,"",150,0
-663,"Melee Mastery II","ui/icon/006000/006802.tex","dark knight",98,,0,"",98,0
-664,"Arcane Mastery","ui/icon/006000/006831.tex","summoner",28,,0,"",28,0
-665,"Enhanced Fight or Flight","ui/icon/005000/005205.tex","paladin",20,,67570,"",20,0
-666,"Enhanced No Mercy","ui/icon/006000/006311.tex","gunbreaker",149,,0,"",149,0
-667,"Melee Mastery II","ui/icon/006000/006802.tex","gunbreaker",149,,0,"",149,0
-668,"Ranged Mastery","ui/icon/006000/006806.tex","bard",24,,0,"",24,0
-669,"Magick Mastery","ui/icon/006000/006831.tex","sage",181,,0,"",181,0
-670,"Maim and Mend","ui/icon/005000/005185.tex","pictomancer",197,,0,"BSM",197,0
-671,"Maim and Mend II","ui/icon/005000/005186.tex","pictomancer",197,,0,"Disciple of War",197,0
-672,"Pictomancy Mastery","ui/icon/006000/006829.tex","pictomancer",197,,0,"",197,0
-673,"Magick Mastery","ui/icon/006000/006831.tex","astrologian",99,,0,"",99,0
-674,"Melee Mastery","ui/icon/006000/006801.tex","viper",196,,0,"",196,0
-675,"Melee Mastery II","ui/icon/006000/006802.tex","viper",196,,0,"",196,0
-676,"Pictomancy Mastery II","ui/icon/006000/006830.tex","pictomancer",197,,0,"",197,0
-677,"Pictomancy Mastery III","ui/icon/006000/006832.tex","pictomancer",197,,0,"",197,0
-678,"Pictomancy Mastery IV","ui/icon/006000/006833.tex","pictomancer",197,,0,"",197,0
-679,"",,"adventurer",0,,0,"",0,0
-680,"",,"adventurer",0,,0,"",0,0
+#,Name,Icon,ClassJob,,Level,Quest,Value,ClassJobCategory,
+int32,str,Image,ClassJob,byte,byte,Quest,int16,ClassJobCategory,byte
+0,"",,"adventurer",0,0,,0,"",0
+1,"Enhanced Vitality",,"adventurer",0,0,,0,"",0
+2,"Enhanced Vitality II",,"adventurer",0,0,,0,"",0
+3,"Enhanced Vitality III",,"adventurer",0,0,,0,"",0
+4,"Enhanced Vitality",,"adventurer",0,0,,0,"",0
+5,"Enhanced Vitality II",,"adventurer",0,0,,0,"",0
+6,"Enhanced Vitality III",,"adventurer",0,0,,0,"",0
+7,"Enhanced Strength",,"adventurer",0,0,,0,"",0
+8,"Enhanced Strength II",,"adventurer",0,0,,0,"",0
+9,"Enhanced Strength III",,"adventurer",0,0,,0,"",0
+10,"Enhanced Greased Lightning",,"adventurer",0,0,,0,"",0
+11,"Enhanced Greased Lightning II",,"adventurer",0,0,,0,"",0
+12,"Enhanced Strength",,"adventurer",0,0,,0,"",0
+13,"Enhanced Strength II",,"adventurer",0,0,,0,"",0
+14,"Enhanced Strength III",,"adventurer",0,0,,0,"",0
+15,"Enhanced Dexterity",,"adventurer",0,0,,0,"",0
+16,"Enhanced Dexterity II",,"adventurer",0,0,,0,"",0
+17,"Heavier Shot","ui/icon/005000/005321.tex","archer",50,2,,0,"ARC BRD",0
+18,"Increased Action Damage","ui/icon/005000/005302.tex","archer",50,20,,10,"ARC BRD",0
+19,"Enhanced Dexterity III",,"adventurer",0,0,,0,"",0
+20,"Increased Action Damage II","ui/icon/005000/005303.tex","archer",50,40,,20,"ARC BRD",0
+21,"Enhanced Mind",,"adventurer",0,0,,0,"",0
+22,"Enhanced Mind II",,"adventurer",0,0,,0,"",0
+23,"Maim and Mend","ui/icon/005000/005185.tex","conjurer",53,20,,10,"CNJ WHM",0
+24,"Enhanced Mind III",,"adventurer",0,0,,0,"",0
+25,"Freecure","ui/icon/005000/005330.tex","conjurer",53,32,,0,"CNJ WHM",0
+26,"Maim and Mend II","ui/icon/005000/005186.tex","conjurer",53,40,,30,"CNJ WHM",0
+27,"Enhanced Intelligence",,"adventurer",0,0,,0,"",0
+28,"Enhanced Intelligence II",,"adventurer",0,0,,0,"",0
+29,"Maim and Mend","ui/icon/005000/005185.tex","thaumaturge",55,20,,10,"THM BLM",0
+30,"Enhanced Intelligence III",,"adventurer",0,0,,0,"",0
+31,"Maim and Mend II","ui/icon/005000/005186.tex","thaumaturge",55,40,,30,"THM BLM",0
+32,"Firestarter","ui/icon/005000/005352.tex","thaumaturge",55,42,,0,"THM BLM",0
+33,"Thundercloud","ui/icon/005000/005355.tex","adventurer",0,0,,0,"",0
+34,"Auto Triangulate","ui/icon/005000/005451.tex","botanist",18,2,,0,"BTN",0
+35,"Enhanced Stealth",,"adventurer",0,0,,30,"",0
+36,"Enhanced Stealth II",,"adventurer",0,0,,40,"",0
+37,"Enhanced Stealth III",,"adventurer",0,0,,50,"",0
+38,"Auto Prospect","ui/icon/005000/005426.tex","miner",17,2,,0,"MIN",0
+39,"Enhanced Stealth",,"adventurer",0,0,,30,"",0
+40,"Enhanced Stealth II",,"adventurer",0,0,,40,"",0
+41,"Enhanced Stealth III",,"adventurer",0,0,,50,"",0
+42,"Tree Whisperer","ui/icon/005000/005455.tex","botanist",18,11,,0,"BTN",0
+43,"Tree Whisperer II","ui/icon/005000/005456.tex","botanist",18,16,,0,"BTN",0
+44,"Tree Whisperer III","ui/icon/005000/005457.tex","botanist",18,21,,0,"BTN",0
+45,"Tree Whisperer IV","ui/icon/005000/005458.tex","botanist",18,26,,0,"BTN",0
+46,"Enhanced Twelve's Bounty","ui/icon/005000/005459.tex","botanist",18,41,,0,"BTN",0
+47,"Enhanced Twelve's Bounty II","ui/icon/005000/005460.tex","botanist",18,50,,0,"BTN",0
+48,"Stone Whisperer","ui/icon/005000/005430.tex","miner",17,11,,0,"MIN",0
+49,"Stone Whisperer II","ui/icon/005000/005431.tex","miner",17,16,,0,"MIN",0
+50,"Stone Whisperer III","ui/icon/005000/005432.tex","miner",17,21,,0,"MIN",0
+51,"Stone Whisperer IV","ui/icon/005000/005433.tex","miner",17,26,,0,"MIN",0
+52,"Enhanced Twelve's Bounty","ui/icon/005000/005434.tex","miner",17,41,,0,"MIN",0
+53,"Enhanced Twelve's Bounty II","ui/icon/005000/005435.tex","miner",17,50,,0,"MIN",0
+54,"Dunefishing","ui/icon/005000/005483.tex","fisher",19,35,,0,"FSH",0
+55,"Skyfishing","ui/icon/005000/005484.tex","fisher",19,45,,0,"FSH",0
+56,"Enhanced Stealth",,"adventurer",0,0,,30,"",0
+57,"Enhanced Stealth II",,"adventurer",0,0,,40,"",0
+58,"Enhanced Stealth III",,"adventurer",0,0,,50,"",0
+59,"Gulleye","ui/icon/005000/005479.tex","fisher",19,15,,15,"FSH",0
+60,"Gulleye II",,"adventurer",0,0,,35,"",0
+61,"Gulleye III",,"adventurer",0,0,,50,"",0
+62,"Double Mooching","ui/icon/005000/005482.tex","fisher",19,40,,0,"FSH",0
+63,"Aetherdam",,"adventurer",0,0,,0,"",0
+64,"Enhanced Intelligence",,"adventurer",0,0,,0,"",0
+65,"Enhanced Intelligence II",,"adventurer",0,0,,0,"",0
+66,"Maim and Mend","ui/icon/005000/005185.tex","arcanist",68,20,,10,"ACN SMN SCH",0
+67,"Aetherdam II",,"adventurer",0,0,,0,"",0
+68,"Enhanced Intelligence III",,"adventurer",0,0,,0,"",0
+69,"Maim and Mend II","ui/icon/005000/005186.tex","arcanist",68,40,,30,"ACN SMN SCH",0
+70,"Aetherdam III",,"adventurer",0,0,,0,"",0
+71,"Enhanced Strength","ui/icon/009000/009004.tex","adventurer",0,2,,5,"",0
+72,"Increased HP","ui/icon/009000/009001.tex","adventurer",0,3,,10,"",0
+73,"Enhanced Accuracy","ui/icon/009000/009010.tex","adventurer",0,5,,5,"",0
+74,"Enhanced Critical Hit","ui/icon/009000/009012.tex","adventurer",0,6,,15,"",0
+75,"Enhanced Strength","ui/icon/009000/009004.tex","adventurer",0,8,,5,"",0
+76,"Increased HP","ui/icon/009000/009001.tex","adventurer",0,9,,10,"",0
+77,"Enhanced Strength","ui/icon/009000/009004.tex","adventurer",0,2,,5,"",0
+78,"Increased HP","ui/icon/009000/009001.tex","adventurer",0,3,,5,"",0
+79,"Enhanced Accuracy","ui/icon/009000/009010.tex","adventurer",0,5,,5,"",0
+80,"Enhanced Critical Hit","ui/icon/009000/009012.tex","adventurer",0,6,,15,"",0
+81,"Enhanced Strength","ui/icon/009000/009004.tex","adventurer",0,8,,10,"",0
+82,"Increase Attack Speed","ui/icon/009000/009013.tex","adventurer",0,9,,-10,"",0
+83,"Enhanced Mind","ui/icon/009000/009008.tex","adventurer",0,2,,10,"",0
+84,"Increased HP","ui/icon/009000/009001.tex","adventurer",0,3,,5,"",0
+85,"Enhanced Accuracy","ui/icon/009000/009010.tex","adventurer",0,5,,5,"",0
+86,"Enhanced Critical Hit","ui/icon/009000/009012.tex","adventurer",0,6,,15,"",0
+87,"Enhanced Mind","ui/icon/009000/009008.tex","adventurer",0,8,,15,"",0
+88,"Increased HP","ui/icon/009000/009001.tex","adventurer",0,9,,5,"",0
+89,"Enhanced Dexterity",,"adventurer",0,0,,0,"",0
+90,"All Fours","ui/icon/005000/005401.tex","rogue",93,14,,10,"ROG NIN",0
+91,"Enhanced Dexterity II",,"adventurer",0,0,,0,"",0
+92,"Enhanced Dexterity III",,"adventurer",0,0,,0,"",0
+93,"Fleet of Foot","ui/icon/005000/005403.tex","rogue",93,20,,10,"ROG NIN",0
+94,"Nymeia's Ward","ui/icon/005000/005436.tex","miner",17,42,,0,"MIN",0
+95,"Stone Whisperer V","ui/icon/005000/005437.tex","miner",17,53,"Sellspade",0,"MIN",0
+96,"Enhanced Stealth IV",,"adventurer",0,0,,54,"",0
+97,"Enhanced Stealth V",,"adventurer",0,0,,57,"",0
+98,"Enhanced Stealth VI",,"adventurer",0,0,,60,"",0
+99,"Nymeia's Ward","ui/icon/005000/005461.tex","botanist",18,42,,0,"BTN",0
+100,"Tree Whisperer V","ui/icon/005000/005462.tex","botanist",18,53,"Onions of Life Bestowing",0,"BTN",0
+101,"Enhanced Stealth IV",,"adventurer",0,0,,54,"",0
+102,"Enhanced Stealth V",,"adventurer",0,0,,57,"",0
+103,"Enhanced Stealth VI",,"adventurer",0,0,,60,"",0
+104,"Gulleye IV",,"adventurer",0,0,,55,"",0
+105,"Gulleye V",,"adventurer",0,0,,60,"",0
+106,"Cloudfishing","ui/icon/005000/005488.tex","fisher",19,53,"The Icepick Challenge",0,"FSH",0
+107,"Enhanced Stealth IV",,"adventurer",0,0,,54,"",0
+108,"Enhanced Stealth V",,"adventurer",0,0,,57,"",0
+109,"Enhanced Stealth VI",,"adventurer",0,0,,60,"",0
+110,"Hellfishing","ui/icon/005000/005489.tex","fisher",19,55,"Invasion of the Supper Snatchers",0,"FSH",0
+111,"Aetherfishing","ui/icon/005000/005490.tex","fisher",19,58,"One Man's Fish Is Another Man's Poison",0,"FSH",0
+112,"Enhanced Vitality",,"adventurer",0,0,,0,"",0
+113,"Enhanced Vitality II",,"adventurer",0,0,,0,"",0
+114,"Enhanced Vitality III",,"adventurer",0,0,,0,"",0
+115,"Enhanced Dexterity",,"adventurer",0,0,,0,"",0
+116,"Enhanced Dexterity II",,"adventurer",0,0,,0,"",0
+117,"Increased Action Damage","ui/icon/006000/006002.tex","machinist",96,20,,10,"MCH",0
+118,"Enhanced Dexterity III",,"adventurer",0,0,,0,"",0
+119,"Increased Action Damage II","ui/icon/006000/006003.tex","machinist",96,40,,20,"MCH",0
+120,"Enhanced Mind",,"adventurer",0,0,,0,"",0
+121,"Enhanced Mind II",,"adventurer",0,0,,0,"",0
+122,"Maim and Mend","ui/icon/006000/006102.tex","astrologian",99,20,,10,"AST",0
+123,"Enhanced Mind III",,"adventurer",0,0,,0,"",0
+124,"Enhanced Benefic","ui/icon/006000/006105.tex","astrologian",99,36,,15,"AST",0
+125,"Maim and Mend II","ui/icon/006000/006103.tex","astrologian",99,40,,30,"AST",0
+126,"Enhanced Stealth VII",,"adventurer",0,0,,64,"",0
+127,"Enhanced Stealth VIII",,"adventurer",0,0,,67,"",0
+128,"Enhanced Stealth IX",,"adventurer",0,0,,70,"",0
+129,"Enhanced Stealth VII",,"adventurer",0,0,,64,"",0
+130,"Enhanced Stealth VIII",,"adventurer",0,0,,67,"",0
+131,"Enhanced Stealth IX",,"adventurer",0,0,,70,"",0
+132,"Enhanced Stealth VII",,"adventurer",0,0,,64,"",0
+133,"Enhanced Stealth VIII",,"adventurer",0,0,,67,"",0
+134,"Enhanced Stealth IX",,"adventurer",0,0,,70,"",0
+135,"Saltfishing","ui/icon/005000/005499.tex","fisher",19,68,,0,"FSH",0
+136,"Gulleye VI",,"adventurer",0,0,,65,"",0
+137,"Gulleye VII",,"adventurer",0,0,,70,"",0
+138,"Quality Assurance","ui/icon/006000/006976.tex","carpenter",9,63,"The Game of Confidence",2,"CRP",0
+139,"Quality Assurance","ui/icon/006000/006976.tex","blacksmith",10,63,"The Client Is King",2,"BSM",0
+140,"Quality Assurance","ui/icon/006000/006976.tex","armorer",11,63,"Eastern Apprentice",2,"ARM",0
+141,"Quality Assurance","ui/icon/006000/006976.tex","goldsmith",12,63,"Gemworks in Progress",2,"GSM",0
+142,"Quality Assurance","ui/icon/006000/006976.tex","leatherworker",13,63,"Mounting Expectations",2,"LTW",0
+143,"Quality Assurance","ui/icon/006000/006976.tex","weaver",14,63,"The Butterfly Effect",2,"WVR",0
+144,"Quality Assurance","ui/icon/006000/006976.tex","alchemist",15,63,"The Forbidden Blade",2,"ALC",0
+145,"Quality Assurance","ui/icon/006000/006976.tex","culinarian",16,63,"Rice to the Occasion",2,"CUL",0
+146,"Stroke of Genius",,"adventurer",0,0,,0,"",0
+147,"Stroke of Genius",,"adventurer",0,0,,0,"",0
+148,"Stroke of Genius",,"adventurer",0,0,,0,"",0
+149,"Stroke of Genius",,"adventurer",0,0,,0,"",0
+150,"Stroke of Genius",,"adventurer",0,0,,0,"",0
+151,"Stroke of Genius",,"adventurer",0,0,,0,"",0
+152,"Stroke of Genius",,"adventurer",0,0,,0,"",0
+153,"Stroke of Genius",,"adventurer",0,0,,0,"",0
+154,"Auto Fathom","ui/icon/005000/005497.tex","fisher",19,61,"A New Fishing Ex-spear-ience",0,"FSH",0
+155,"Fish Whisperer",,"adventurer",0,0,,0,"",0
+156,"Enhanced Cover","ui/icon/005000/005209.tex","adventurer",0,0,,-20,"",0
+157,"Enhanced Infuriate","ui/icon/005000/005259.tex","warrior",22,66,,0,"WAR",0
+158,"Blackblood","ui/icon/006000/006059.tex","dark knight",98,62,,0,"DRK",0
+159,"Enhanced Blackblood","ui/icon/006000/006060.tex","dark knight",98,66,,0,"DRK",0
+160,"Deep Meditation","ui/icon/005000/005234.tex","monk",21,38,,80,"MNK",0
+161,"Enhanced Tackle","ui/icon/005000/005235.tex","adventurer",0,0,,2,"",0
+162,"Lance Mastery","ui/icon/005000/005284.tex","adventurer",0,0,,0,"",0
+163,"Life of the Dragon","ui/icon/005000/005289.tex","dragoon",23,70,"Dragon Sound",0,"DRG",0
+164,"Dripping Blades",,"adventurer",0,0,,0,"",0
+165,"Shukiho","ui/icon/005000/005411.tex","ninja",92,62,,6,"NIN",0
+166,"Enhanced Shukuchi","ui/icon/005000/005412.tex","ninja",92,64,,0,"NIN",0
+167,"Enhanced Mug",,"adventurer",0,0,,0,"",0
+168,"Bite Mastery","ui/icon/005000/005309.tex","bard",24,64,,0,"BRD",0
+169,"Enhanced Empyreal Arrow","ui/icon/005000/005310.tex","bard",24,68,,0,"BRD",0
+170,"Shot Mastery",,"adventurer",0,0,,0,"",0
+171,"Thunder Mastery","ui/icon/005000/005357.tex","black mage",26,45,"The Voidgate Breathes Gloomy",0,"BLM",0
+172,"Thunder Mastery II","ui/icon/005000/005358.tex","black mage",26,64,,0,"BLM",0
+173,"Enhanced Umbral Heart","ui/icon/005000/005359.tex","adventurer",0,0,,-34,"",0
+174,"Enhanced Enochian","ui/icon/005000/005360.tex","black mage",26,70,"One Golem to Rule Them All",5,"BLM",0
+175,"Corruption Mastery","ui/icon/005000/005376.tex","adventurer",0,0,,0,"",0
+176,"Enhanced Ruin II","ui/icon/005000/005377.tex","adventurer",0,0,,0,"",0
+177,"Corruption Mastery II","ui/icon/005000/005378.tex","adventurer",0,0,,0,"",0
+178,"Enhanced Dreadwyrm Trance","ui/icon/005000/005380.tex","summoner",28,70,"An Art for the Living",0,"SMN",0
+179,"Stone Mastery","ui/icon/005000/005333.tex","conjurer",53,18,,0,"CNJ WHM",0
+180,"Aero Mastery","ui/icon/005000/005334.tex","conjurer",53,46,,0,"CNJ WHM",0
+181,"Stone Mastery II","ui/icon/005000/005336.tex","white mage",25,54,"The Girl with the Dragon Tissue",0,"WHM",0
+182,"Stone Mastery III","ui/icon/005000/005337.tex","white mage",25,64,,0,"WHM",0
+183,"Secret of the Lily II","ui/icon/005000/005338.tex","adventurer",0,0,,20,"",0
+184,"Broil Mastery II","ui/icon/005000/005392.tex","scholar",29,64,,0,"SCH",0
+185,"Quickened Aetherflow",,"adventurer",0,0,,100,"",0
+186,"Combust Mastery","ui/icon/006000/006109.tex","astrologian",99,46,,0,"AST",0
+187,"Malefic Mastery","ui/icon/006000/006110.tex","astrologian",99,54,"Conviction",0,"AST",0
+188,"Malefic Mastery II","ui/icon/006000/006111.tex","astrologian",99,64,,0,"AST",0
+189,"Hyper Lightspeed","ui/icon/006000/006101.tex","astrologian",99,68,,-300,"AST",0
+190,"Endless Toil of the Mountaineer",,"adventurer",0,0,,60,"",0
+191,"Endless Toil of the Pioneer",,"adventurer",0,0,,60,"",0
+192,"Enhanced GP Regeneration","ui/icon/005000/005444.tex","miner",17,70,"A Miner Success",1,"MIN",0
+193,"Enhanced GP Regeneration","ui/icon/005000/005469.tex","botanist",18,70,"Edgyth's Winning Streak",1,"BTN",0
+194,"Enhanced GP Regeneration","ui/icon/005000/005498.tex","fisher",19,70,"Farewell, and Thanks for the Fish",1,"FSH",0
+195,"Enhanced Jolt","ui/icon/006000/006201.tex","red mage",112,62,,0,"RDM",0
+196,"Secret of the Lily","ui/icon/005000/005335.tex","white mage",25,52,"A Journey of Purification",0,"WHM",0
+197,"Enhanced Intelligence",,"adventurer",0,0,,0,"",0
+198,"Enhanced Intelligence II",,"adventurer",0,0,,0,"",0
+199,"Enhanced Intelligence III",,"adventurer",0,0,,0,"",0
+200,"Maim and Mend","ui/icon/005000/005185.tex","red mage",112,20,,10,"RDM",0
+201,"Maim and Mend II","ui/icon/005000/005186.tex","red mage",112,40,,30,"RDM",0
+202,"Enhanced Strength",,"adventurer",0,0,,0,"",0
+203,"Enhanced Strength II",,"adventurer",0,0,,0,"",0
+204,"Enhanced Strength III",,"adventurer",0,0,,0,"",0
+205,"Dripping Blades II",,"adventurer",0,0,,0,"",0
+206,"Enhanced Jolt II",,"adventurer",0,0,,0,"",0
+207,"Divine Magic Mastery","ui/icon/005000/005210.tex","paladin",20,64,,-50,"PLD",0
+208,"Kenki Mastery II","ui/icon/006000/006151.tex","samurai",111,62,,5,"SAM",0
+209,"Oath Mastery","ui/icon/005000/005211.tex","paladin",20,35,"Honor Lost",0,"PLD",0
+210,"Enhanced Mind",,"adventurer",0,0,,0,"",0
+211,"Enhanced Mind II",,"adventurer",0,0,,0,"",0
+212,"Enhanced Mind III",,"adventurer",0,0,,0,"",0
+213,"Enhanced Enkindle","ui/icon/005000/005379.tex","adventurer",0,0,,-600,"",0
+214,"Broil Mastery","ui/icon/005000/005394.tex","scholar",29,54,"False Friends",0,"SCH",0
+215,"Kenki Mastery","ui/icon/006000/006152.tex","samurai",111,52,,0,"SAM",0
+216,"Dualcast","ui/icon/006000/006203.tex","red mage",112,1,,0,"RDM",0
+217,"Ruin Mastery","ui/icon/005000/005395.tex","arcanist",69,30,"Sinking Doesmaga",0,"ACN SMN",0
+218,"Berserk Mastery","ui/icon/005000/005260.tex","warrior",22,70,"The Heart of the Problem",0,"WAR",0
+219,"Learning","ui/icon/006000/006251.tex","blue mage",129,1,,0,"BLU",0
+220,"Maim and Mend","ui/icon/005000/005185.tex","blue mage",129,10,,10,"BLU",0
+221,"Maim and Mend II","ui/icon/005000/005186.tex","blue mage",129,20,,20,"BLU",0
+222,"Maim and Mend III","ui/icon/005000/005187.tex","blue mage",129,30,,30,"BLU",0
+223,"Maim and Mend IV","ui/icon/005000/005188.tex","blue mage",129,40,,40,"BLU",0
+224,"Maim and Mend V","ui/icon/005000/005189.tex","blue mage",129,50,,50,"BLU",0
+225,"Enhanced Stealth X",,"adventurer",0,0,,74,"",0
+226,"Enhanced Stealth XI",,"adventurer",0,0,,77,"",0
+227,"Enhanced Stealth XII",,"adventurer",0,0,,80,"",0
+228,"Enhanced Stealth X",,"adventurer",0,0,,74,"",0
+229,"Enhanced Stealth XI",,"adventurer",0,0,,77,"",0
+230,"Enhanced Stealth XII",,"adventurer",0,0,,80,"",0
+231,"Enhanced Stealth X",,"adventurer",0,0,,74,"",0
+232,"Enhanced Stealth XI",,"adventurer",0,0,,77,"",0
+233,"Enhanced Stealth XII",,"adventurer",0,0,,80,"",0
+234,"Gulleye VIII",,"adventurer",0,0,,75,"",0
+235,"Gulleye IX",,"adventurer",0,0,,80,"",0
+236,"Enhanced GP Regeneration II","ui/icon/005000/005449.tex","miner",17,80,,2,"MIN",0
+237,"Enhanced GP Regeneration II","ui/icon/005000/005474.tex","botanist",18,80,,2,"BTN",0
+238,"Enhanced GP Regeneration II","ui/icon/005000/005496.tex","fisher",19,80,,2,"FSH",0
+239,"Enhanced GP Regeneration III","ui/icon/005000/005441.tex","miner",17,83,,3,"MIN",0
+240,"Enhanced GP Regeneration III","ui/icon/005000/005466.tex","botanist",18,83,,3,"BTN",0
+241,"Enhanced GP Regeneration III","ui/icon/005000/005486.tex","fisher",19,83,,3,"FSH",0
+242,"Enhanced Solid Reason","ui/icon/005000/005442.tex","miner",17,90,,50,"MIN",0
+243,"Enhanced Ageless Words","ui/icon/005000/005467.tex","botanist",18,90,,50,"BTN",0
+244,"Angler's Art","ui/icon/005000/005485.tex","fisher",19,15,,0,"FSH",0
+245,"Deep Meditation II","ui/icon/005000/005238.tex","monk",21,74,,100,"MNK",0
+246,"Chivalry","ui/icon/005000/005212.tex","paladin",20,58,,0,"PLD",0
+247,"Lance Mastery","ui/icon/005000/005284.tex","dragoon",23,76,,0,"DRG",0
+248,"",,"adventurer",0,0,,0,"",0
+249,"The Beast Within","ui/icon/005000/005261.tex","warrior",22,35,"Embracing the Beast",0,"WAR",0
+250,"Enhanced Kassatsu","ui/icon/005000/005414.tex","ninja",92,76,,0,"NIN",0
+251,"Increased Action Damage","ui/icon/006000/006351.tex","dancer",150,50,,10,"DNC",0
+252,"Fourfold Fantasy","ui/icon/006000/006352.tex","dancer",150,30,,0,"DNC",0
+253,"Increased Action Damage II","ui/icon/006000/006353.tex","dancer",150,60,,20,"DNC",0
+254,"Enhanced En Avant","ui/icon/006000/006354.tex","dancer",150,68,,2,"DNC",0
+255,"Esprit","ui/icon/006000/006355.tex","dancer",150,76,,0,"DNC",0
+256,"Enhanced En Avant II","ui/icon/006000/006356.tex","dancer",150,78,,3,"DNC",0
+257,"Cartridge Charge","ui/icon/006000/006301.tex","gunbreaker",149,30,,0,"GNB",0
+258,"Enhanced Brutal Shell","ui/icon/006000/006302.tex","gunbreaker",149,52,,0,"GNB",0
+259,"Danger Zone Mastery","ui/icon/006000/006303.tex","gunbreaker",149,80,,0,"GNB",0
+260,"Rage of Halone Mastery","ui/icon/005000/005213.tex","paladin",20,60,"This Little Sword of Mine",0,"PLD",0
+261,"Enhanced Prominence","ui/icon/005000/005214.tex","paladin",20,72,,0,"PLD",0
+262,"Enhanced Sheltron","ui/icon/005000/005215.tex","paladin",20,74,,0,"PLD",0
+263,"Enhanced Requiescat","ui/icon/005000/005216.tex","paladin",20,80,,0,"PLD",0
+264,"Sword Oath","ui/icon/005000/005217.tex","paladin",20,76,,0,"PLD",0
+265,"Inner Beast Mastery","ui/icon/005000/005262.tex","warrior",22,54,"The Bear Necessity",0,"WAR",0
+266,"Steel Cyclone Mastery","ui/icon/005000/005263.tex","warrior",22,60,"And My Axe",0,"WAR",0
+267,"Nascent Chaos","ui/icon/005000/005264.tex","warrior",22,72,,0,"WAR",0
+268,"Mastering the Beast","ui/icon/005000/005265.tex","warrior",22,74,,0,"WAR",0
+269,"Enhanced Thrill of Battle","ui/icon/005000/005258.tex","warrior",22,78,,0,"WAR",0
+270,"",,"adventurer",0,0,,0,"",0
+271,"Darkside Mastery","ui/icon/006000/006062.tex","dark knight",98,74,,0,"DRK",0
+272,"Enhanced Plunge","ui/icon/006000/006063.tex","adventurer",0,0,,2,"",0
+273,"Riddle of Wind",,"adventurer",0,0,,0,"",0
+274,"Enhanced Fists of Fire","ui/icon/005000/005237.tex","adventurer",0,0,,0,"",0
+275,"Jump Mastery","ui/icon/005000/005286.tex","dragoon",23,74,,0,"DRG",0
+276,"Life of the Dragon Mastery","ui/icon/005000/005287.tex","adventurer",0,0,,0,"",0
+277,"Enhanced Iaijutsu","ui/icon/006000/006153.tex","samurai",111,74,,0,"SAM",0
+278,"Enhanced Fugetsu and Fuka","ui/icon/006000/006154.tex","samurai",111,78,,0,"SAM",0
+279,"Enhanced Shukuchi II","ui/icon/005000/005415.tex","ninja",92,74,,2,"NIN",0
+280,"Shukiho II","ui/icon/005000/005416.tex","ninja",92,78,,0,"NIN",0
+281,"",,"adventurer",0,0,,0,"",0
+282,"Straight Shot Mastery","ui/icon/005000/005311.tex","bard",24,70,"Sweet Dreams Are Made of Peace",0,"BRD",0
+283,"Enhanced Quick Nock","ui/icon/005000/005304.tex","archer",50,25,,0,"ARC BRD",0
+284,"Bite Mastery II","ui/icon/005000/005312.tex","bard",24,76,,0,"BRD",0
+285,"Heavy Shot Mastery","ui/icon/005000/005306.tex","bard",24,76,,0,"BRD",0
+286,"Enhanced Army's Paeon","ui/icon/005000/005314.tex","bard",24,78,,0,"BRD",0
+287,"Soul Voice","ui/icon/005000/005315.tex","bard",24,80,,0,"BRD",0
+288,"Split Shot Mastery","ui/icon/006000/006010.tex","machinist",96,54,"A Joye-ful Reunion",0,"MCH",0
+289,"Slug Shot Mastery","ui/icon/006000/006011.tex","machinist",96,60,"Rise of the Machinists",0,"MCH",0
+290,"Clean Shot Mastery","ui/icon/006000/006012.tex","machinist",96,64,,0,"MCH",0
+291,"Hot Shot Mastery","ui/icon/006000/006016.tex","machinist",96,76,,0,"MCH",0
+292,"Charged Action Mastery","ui/icon/006000/006013.tex","machinist",96,74,,3,"MCH",0
+293,"Enhanced Wildfire","ui/icon/006000/006014.tex","machinist",96,78,,0,"MCH",0
+294,"Promotion","ui/icon/006000/006015.tex","machinist",96,80,,0,"MCH",0
+295,"Umbral Heart","ui/icon/005000/005656.tex","black mage",26,58,,0,"BLM",0
+296,"Aspect Mastery","ui/icon/005000/005362.tex","thaumaturge",55,1,,0,"THM BLM",0
+297,"Enhanced Polyglot","ui/icon/005000/005363.tex","black mage",26,80,,0,"BLM",0
+298,"Enhanced Dreadwyrm Trance II","ui/icon/005000/005676.tex","adventurer",0,0,,0,"",0
+299,"Enhanced Egi Assault","ui/icon/005000/005677.tex","adventurer",0,0,,0,"",0
+300,"Enhanced Tri-disaster","ui/icon/005000/005678.tex","adventurer",0,0,,0,"",0
+301,"Enhanced Bane","ui/icon/005000/005679.tex","adventurer",0,0,,0,"",0
+302,"Enhanced Firebird Trance","ui/icon/005000/005680.tex","adventurer",0,0,,0,"",0
+303,"Scatter Mastery","ui/icon/006000/006207.tex","red mage",112,66,,0,"RDM",0
+304,"Enhanced Displacement","ui/icon/006000/006204.tex","red mage",112,72,,0,"RDM",0
+305,"Enhanced Manafication","ui/icon/006000/006205.tex","red mage",112,78,,-100,"RDM",0
+306,"Red Magic Mastery","ui/icon/006000/006206.tex","red mage",112,74,,-100,"RDM",0
+307,"Aero Mastery II","ui/icon/005000/005339.tex","white mage",25,72,,0,"WHM",0
+308,"Stone Mastery IV","ui/icon/005000/005340.tex","white mage",25,72,,0,"WHM",0
+309,"Transcendent Afflatus","ui/icon/005000/005341.tex","white mage",25,74,,0,"WHM",0
+310,"Enhanced Asylum","ui/icon/005000/005342.tex","white mage",25,78,,0,"WHM",0
+311,"Corruption Mastery II","ui/icon/005000/005701.tex","scholar",29,72,,0,"SCH",0
+312,"Broil Mastery III","ui/icon/005000/005702.tex","scholar",29,72,,0,"SCH",0
+313,"Enhanced Sacred Soil","ui/icon/005000/005703.tex","scholar",29,78,,0,"SCH",0
+314,"Combust Mastery II","ui/icon/006000/006112.tex","astrologian",99,72,,0,"AST",0
+315,"Malefic Mastery III","ui/icon/006000/006113.tex","astrologian",99,72,,0,"AST",0
+316,"Enhanced Essential Dignity","ui/icon/006000/006114.tex","astrologian",99,78,,2,"AST",0
+317,"Tank Mastery","ui/icon/005000/005190.tex","gladiator",38,1,,-20,"GLA PLD",0
+318,"Tank Mastery","ui/icon/005000/005190.tex","marauder",44,1,,-20,"MRD WAR",0
+319,"Tank Mastery","ui/icon/005000/005190.tex","dark knight",98,1,,-20,"DRK",0
+320,"Tank Mastery","ui/icon/005000/005190.tex","gunbreaker",149,1,,-20,"GNB",0
+321,"Enhanced Sharpcast","ui/icon/005000/005364.tex","adventurer",0,0,,-300,"",0
+322,"Enhanced Enochian II","ui/icon/005000/005365.tex","black mage",26,78,,10,"BLM",0
+323,"",,"adventurer",0,0,,0,"",0
+324,"Corruption Mastery","ui/icon/005000/005376.tex","scholar",29,26,,0,"SCH",0
+325,"One with the Mountain","ui/icon/005000/005427.tex","miner",17,60,,0,"MIN",0
+326,"One with the Forest","ui/icon/005000/005452.tex","botanist",18,60,,0,"BTN",0
+327,"One with the Ocean","ui/icon/005000/005476.tex","fisher",19,70,"A New Fishing Ex-spear-ience",0,"FSH",0
+328,"Auto Sneak","ui/icon/005000/005428.tex","miner",17,27,,0,"MIN",0
+329,"Auto Sneak","ui/icon/005000/005453.tex","botanist",18,27,,0,"BTN",0
+330,"Auto Sneak","ui/icon/005000/005477.tex","fisher",19,27,,0,"FSH",0
+331,"Enhanced Twelve's Bounty III","ui/icon/005000/005440.tex","miner",17,71,,0,"MIN",0
+332,"Enhanced Twelve's Bounty III","ui/icon/005000/005465.tex","botanist",18,71,,0,"BTN",0
+333,"Bountiful Yield Mastery","ui/icon/005000/005429.tex","miner",17,68,"Where the Money Takes You",0,"MIN",0
+334,"Unearth Mastery",,"adventurer",0,0,,0,"",0
+335,"Impulsive Appraisal Mastery",,"adventurer",0,0,,0,"",0
+336,"Bountiful Harvest Mastery","ui/icon/005000/005454.tex","botanist",18,68,"The White Death",0,"BTN",0
+337,"Leaf Turn Mastery",,"adventurer",0,0,,0,"",0
+338,"Impulsive Appraisal Mastery",,"adventurer",0,0,,0,"",0
+339,"Basic Synthesis Mastery","ui/icon/006000/006979.tex","carpenter",9,31,,0,"CRP",0
+340,"Basic Synthesis Mastery","ui/icon/006000/006980.tex","blacksmith",10,31,,0,"BSM",0
+341,"Basic Synthesis Mastery","ui/icon/006000/006981.tex","armorer",11,31,,0,"ARM",0
+342,"Basic Synthesis Mastery","ui/icon/006000/006982.tex","goldsmith",12,31,,0,"GSM",0
+343,"Basic Synthesis Mastery","ui/icon/006000/006983.tex","leatherworker",13,31,,0,"LTW",0
+344,"Basic Synthesis Mastery","ui/icon/006000/006984.tex","weaver",14,31,,0,"WVR",0
+345,"Basic Synthesis Mastery","ui/icon/006000/006985.tex","alchemist",15,31,,0,"ALC",0
+346,"Basic Synthesis Mastery","ui/icon/006000/006986.tex","culinarian",16,31,,0,"CUL",0
+347,"Rapid Synthesis Mastery","ui/icon/006000/006978.tex","carpenter",9,63,,0,"CRP",0
+348,"Rapid Synthesis Mastery","ui/icon/006000/006978.tex","blacksmith",10,63,,0,"BSM",0
+349,"Rapid Synthesis Mastery","ui/icon/006000/006978.tex","armorer",11,63,,0,"ARM",0
+350,"Rapid Synthesis Mastery","ui/icon/006000/006978.tex","goldsmith",12,63,,0,"GSM",0
+351,"Rapid Synthesis Mastery","ui/icon/006000/006978.tex","leatherworker",13,63,,0,"LTW",0
+352,"Rapid Synthesis Mastery","ui/icon/006000/006978.tex","weaver",14,63,,0,"WVR",0
+353,"Rapid Synthesis Mastery","ui/icon/006000/006978.tex","alchemist",15,63,,0,"ALC",0
+354,"Rapid Synthesis Mastery","ui/icon/006000/006978.tex","culinarian",16,63,,0,"CUL",0
+355,"Enhanced Outburst","ui/icon/005000/005681.tex","adventurer",0,0,,0,"",0
+356,"Practice Makes Perfect","ui/icon/006000/006987.tex","carpenter",9,15,,0,"CRP",1
+357,"Practice Makes Perfect","ui/icon/006000/006987.tex","blacksmith",10,15,,0,"BSM",1
+358,"Practice Makes Perfect","ui/icon/006000/006987.tex","armorer",11,15,,0,"ARM",1
+359,"Practice Makes Perfect","ui/icon/006000/006987.tex","goldsmith",12,15,,0,"GSM",1
+360,"Practice Makes Perfect","ui/icon/006000/006987.tex","leatherworker",13,15,,0,"LTW",1
+361,"Practice Makes Perfect","ui/icon/006000/006987.tex","weaver",14,15,,0,"WVR",1
+362,"Practice Makes Perfect","ui/icon/006000/006987.tex","alchemist",15,15,,0,"ALC",1
+363,"Practice Makes Perfect","ui/icon/006000/006987.tex","culinarian",16,15,,0,"CUL",1
+364,"Greased Lightning","ui/icon/005000/005239.tex","pugilist",41,1,,0,"PGL MNK",0
+365,"Enhanced Greased Lightning","ui/icon/005000/005230.tex","pugilist",41,20,,0,"PGL MNK",0
+366,"Enhanced Greased Lightning II","ui/icon/005000/005231.tex","monk",21,40,,0,"MNK",0
+367,"Enhanced Greased Lightning III","ui/icon/005000/005240.tex","monk",21,76,,0,"MNK",0
+368,"Maim and Mend","ui/icon/005000/005185.tex","sage",181,20,,10,"SGE",0
+369,"Maim and Mend II","ui/icon/005000/005186.tex","sage",181,40,,30,"SGE",0
+370,"Addersgall","ui/icon/006000/006451.tex","sage",181,45,,0,"SGE",0
+371,"Somanoutic Oath","ui/icon/006000/006452.tex","sage",181,54,,0,"SGE",0
+372,"Somanoutic Oath II","ui/icon/006000/006453.tex","sage",181,64,,0,"SGE",0
+373,"Addersting","ui/icon/006000/006454.tex","sage",181,66,,0,"SGE",0
+374,"Offensive Magic Mastery","ui/icon/006000/006455.tex","sage",181,72,,0,"SGE",0
+375,"Enhanced Kerachole","ui/icon/006000/006456.tex","sage",181,78,,0,"SGE",0
+376,"Offensive Magic Mastery II","ui/icon/006000/006457.tex","sage",181,82,,0,"SGE",0
+377,"Enhanced Healing Magic","ui/icon/006000/006826.tex","sage",181,85,,0,"SGE",0
+378,"Enhanced Zoe","ui/icon/006000/006458.tex","sage",181,88,,-300,"SGE",0
+379,"Soul Gauge","ui/icon/006000/006401.tex","reaper",180,50,,0,"RPR",0
+380,"Melee Mastery","ui/icon/006000/006801.tex","reaper",180,60,,0,"RPR",0
+381,"Enhanced Avatar","ui/icon/006000/006403.tex","reaper",180,70,,0,"RPR",0
+382,"Hellsgate","ui/icon/006000/006404.tex","reaper",180,74,,0,"RPR",0
+383,"Tempered Soul","ui/icon/006000/006405.tex","reaper",180,78,,2,"RPR",0
+384,"Shroud Gauge","ui/icon/006000/006406.tex","reaper",180,80,"The Killing Art",0,"RPR",0
+385,"Enhanced Arcane Crest","ui/icon/006000/006407.tex","reaper",180,84,,0,"RPR",0
+386,"Void Soul","ui/icon/006000/006408.tex","reaper",180,86,,0,"RPR",0
+387,"Enhanced Arcane Circle","ui/icon/006000/006409.tex","reaper",180,88,,0,"RPR",0
+388,"Inner Quiet","ui/icon/006000/006988.tex","carpenter",9,11,,0,"CRP",0
+389,"Inner Quiet","ui/icon/006000/006988.tex","blacksmith",10,11,,0,"BSM",0
+390,"Inner Quiet","ui/icon/006000/006988.tex","armorer",11,11,,0,"ARM",0
+391,"Inner Quiet","ui/icon/006000/006988.tex","goldsmith",12,11,,0,"GSM",0
+392,"Inner Quiet","ui/icon/006000/006988.tex","leatherworker",13,11,,0,"LTW",0
+393,"Inner Quiet","ui/icon/006000/006988.tex","weaver",14,11,,0,"WVR",0
+394,"Inner Quiet","ui/icon/006000/006988.tex","alchemist",15,11,,0,"ALC",0
+395,"Inner Quiet","ui/icon/006000/006988.tex","culinarian",16,11,,0,"CUL",0
+396,"Careful Synthesis Mastery","ui/icon/006000/006989.tex","carpenter",9,82,,0,"CRP",0
+397,"Careful Synthesis Mastery","ui/icon/006000/006989.tex","blacksmith",10,82,,0,"BSM",0
+398,"Careful Synthesis Mastery","ui/icon/006000/006989.tex","armorer",11,82,,0,"ARM",0
+399,"Careful Synthesis Mastery","ui/icon/006000/006989.tex","goldsmith",12,82,,0,"GSM",0
+400,"Careful Synthesis Mastery","ui/icon/006000/006989.tex","leatherworker",13,82,,0,"LTW",0
+401,"Careful Synthesis Mastery","ui/icon/006000/006989.tex","weaver",14,82,,0,"WVR",0
+402,"Careful Synthesis Mastery","ui/icon/006000/006989.tex","alchemist",15,82,,0,"ALC",0
+403,"Careful Synthesis Mastery","ui/icon/006000/006989.tex","culinarian",16,82,,0,"CUL",0
+404,"Groundwork Mastery","ui/icon/006000/006990.tex","carpenter",9,86,,0,"CRP",0
+405,"Groundwork Mastery","ui/icon/006000/006991.tex","blacksmith",10,86,,0,"BSM",0
+406,"Groundwork Mastery","ui/icon/006000/006992.tex","armorer",11,86,,0,"ARM",0
+407,"Groundwork Mastery","ui/icon/006000/006993.tex","goldsmith",12,86,,0,"GSM",0
+408,"Groundwork Mastery","ui/icon/006000/006994.tex","leatherworker",13,86,,0,"LTW",0
+409,"Groundwork Mastery","ui/icon/006000/006995.tex","weaver",14,86,,0,"WVR",0
+410,"Groundwork Mastery","ui/icon/006000/006996.tex","alchemist",15,86,,0,"ALC",0
+411,"Groundwork Mastery","ui/icon/006000/006997.tex","culinarian",16,86,,0,"CUL",0
+412,"Sheltron Mastery","ui/icon/005000/005218.tex","paladin",20,82,,0,"PLD",0
+413,"Enhanced Intervention","ui/icon/005000/005219.tex","paladin",20,82,,0,"PLD",0
+414,"Divine Magic Mastery II","ui/icon/005000/005220.tex","paladin",20,84,,0,"PLD",0
+415,"Spirits Within Mastery","ui/icon/005000/005221.tex","paladin",20,86,,0,"PLD",0
+416,"Enhanced Divine Veil","ui/icon/005000/005222.tex","paladin",20,88,,0,"PLD",0
+417,"Enhanced Shake It Off","ui/icon/005000/005266.tex","warrior",22,76,,0,"WAR",0
+418,"Raw Intuition Mastery","ui/icon/005000/005267.tex","warrior",22,82,,0,"WAR",0
+419,"Enhanced Nascent Flash","ui/icon/005000/005268.tex","warrior",22,82,,0,"WAR",0
+420,"Enhanced Equilibrium","ui/icon/005000/005269.tex","warrior",22,84,,0,"WAR",0
+421,"Enhanced Onslaught","ui/icon/005000/005270.tex","warrior",22,88,,3,"WAR",0
+422,"Enhanced Unmend","ui/icon/006000/006064.tex","dark knight",98,84,,0,"DRK",0
+423,"Enhanced Living Shadow II","ui/icon/006000/006066.tex","dark knight",98,90,,0,"DRK",0
+424,"Heart of Stone Mastery","ui/icon/006000/006304.tex","gunbreaker",149,82,,0,"GNB",0
+425,"Enhanced Aurora","ui/icon/006000/006305.tex","gunbreaker",149,84,,2,"GNB",0
+426,"Enhanced Continuation","ui/icon/006000/006306.tex","gunbreaker",149,86,,0,"GNB",0
+427,"Cartridge Charge II","ui/icon/006000/006307.tex","gunbreaker",149,88,,0,"GNB",0
+428,"Steel Peak Mastery","ui/icon/005000/005241.tex","monk",21,54,"Against the Shadow",0,"MNK",0
+429,"Howling Fist Mastery","ui/icon/005000/005242.tex","monk",21,74,,0,"MNK",0
+430,"Arm of the Destroyer Mastery","ui/icon/005000/005243.tex","monk",21,82,,0,"MNK",0
+431,"Enhanced Thunderclap","ui/icon/005000/005244.tex","monk",21,84,,3,"MNK",0
+432,"Enhanced Brotherhood","ui/icon/005000/005245.tex","monk",21,88,,0,"MNK",0
+433,"Enhanced Perfect Balance","ui/icon/005000/005246.tex","monk",21,60,"Appetite for Destruction",0,"MNK",0
+434,"Enhanced Jump","ui/icon/005000/005294.tex","dragoon",23,54,"Sworn Upon a Lance",0,"DRG",0
+435,"Enhanced Coerthan Torment","ui/icon/005000/005290.tex","dragoon",23,82,,0,"DRG",0
+436,"Enhanced Spineshatter Dive","ui/icon/005000/005291.tex","adventurer",0,0,,2,"",0
+437,"Lance Mastery II","ui/icon/005000/005288.tex","dragoon",23,86,,0,"DRG",0
+438,"Enhanced Life Surge","ui/icon/005000/005277.tex","dragoon",23,88,,2,"DRG",0
+439,"Shukiho III","ui/icon/005000/005417.tex","ninja",92,84,,0,"NIN",0
+440,"Enhanced Meisui","ui/icon/005000/005418.tex","ninja",92,88,,0,"NIN",0
+441,"Enhanced Raiton","ui/icon/005000/005419.tex","ninja",92,90,,0,"NIN",0
+442,"Enhanced Tsubame-gaeshi","ui/icon/006000/006155.tex","adventurer",0,0,,0,"",0
+443,"Enhanced Meikyo Shisui","ui/icon/006000/006156.tex","samurai",111,76,,2,"SAM",0
+444,"Quick Nock Mastery","ui/icon/005000/005316.tex","bard",24,82,,0,"BRD",0
+445,"Enhanced Bloodletter","ui/icon/005000/005317.tex","bard",24,84,,3,"BRD",0
+446,"Enhanced Apex Arrow","ui/icon/005000/005318.tex","bard",24,86,,0,"BRD",0
+447,"Enhanced Troubadour","ui/icon/005000/005319.tex","bard",24,88,,-300,"BRD",0
+448,"Minstrel's Coda","ui/icon/005000/005320.tex","bard",24,90,,0,"BRD",0
+449,"Spread Shot Mastery","ui/icon/006000/006017.tex","machinist",96,82,,0,"MCH",0
+450,"Enhanced Reassemble","ui/icon/006000/006018.tex","machinist",96,84,,2,"MCH",0
+451,"Queen's Gambit","ui/icon/006000/006019.tex","machinist",96,86,,0,"MCH",0
+452,"Enhanced Tactician","ui/icon/006000/006020.tex","machinist",96,88,,-300,"MCH",0
+453,"Enhanced Technical Finish","ui/icon/006000/006357.tex","dancer",150,82,,0,"DNC",0
+454,"Enhanced Esprit","ui/icon/006000/006358.tex","dancer",150,84,,0,"DNC",0
+455,"Enhanced Flourish","ui/icon/006000/006359.tex","dancer",150,86,,0,"DNC",0
+456,"Enhanced Shield Samba","ui/icon/006000/006360.tex","dancer",150,88,,-300,"DNC",0
+457,"Enhanced Devilment","ui/icon/006000/006361.tex","dancer",150,90,,0,"DNC",0
+458,"Aspect Mastery II","ui/icon/005000/005366.tex","thaumaturge",55,20,,0,"THM BLM",0
+459,"Aspect Mastery III","ui/icon/005000/005367.tex","thaumaturge",55,35,,0,"THM BLM",0
+460,"Enochian","ui/icon/005000/005368.tex","black mage",26,56,"Black Squawk Down",0,"BLM",0
+461,"Enhanced Foul","ui/icon/005000/005369.tex","black mage",26,80,,0,"BLM",0
+462,"Aspect Mastery IV","ui/icon/005000/005370.tex","black mage",26,82,,0,"BLM",0
+463,"Enhanced Manafont","ui/icon/005000/005371.tex","black mage",26,84,,-200,"BLM",0
+464,"Enhanced Sharpcast II","ui/icon/005000/005372.tex","adventurer",0,0,,2,"",0
+465,"Aspect Mastery V","ui/icon/005000/005373.tex","black mage",26,90,,0,"BLM",0
+466,"Enhanced Aethercharge","ui/icon/005000/005396.tex","arcanist",69,15,"Topaz Teachings",0,"ACN SMN",0
+467,"Enhanced Aethercharge II","ui/icon/005000/005397.tex","arcanist",69,22,,0,"ACN SMN",0
+468,"Ruby Summoning Mastery","ui/icon/005000/005682.tex","summoner",28,30,"Austerities of Flame",0,"SMN",0
+469,"Topaz Summoning Mastery","ui/icon/005000/005683.tex","summoner",28,35,"Austerities of Earth",0,"SMN",0
+470,"Emerald Summoning Mastery","ui/icon/005000/005684.tex","summoner",28,45,"Austerities of Wind",0,"SMN",0
+471,"Enkindle","ui/icon/005000/005685.tex","summoner",28,50,"Primal Burdens",0,"SMN",0
+472,"",,"adventurer",0,0,,0,"",0
+473,"Ruin Mastery II","ui/icon/005000/005687.tex","summoner",28,54,"A Miner Negotiation",0,"SMN",0
+474,"Aethercharge Mastery","ui/icon/005000/005690.tex","summoner",28,58,"I Could Have Tranced All Night",0,"SMN",0
+475,"Enhanced Energy Siphon","ui/icon/005000/005691.tex","summoner",28,62,,0,"SMN",0
+476,"Ruin Mastery III","ui/icon/005000/005688.tex","summoner",28,72,,0,"SMN",0
+477,"Outburst Mastery","ui/icon/005000/005692.tex","summoner",28,74,,0,"SMN",0
+478,"Outburst Mastery II","ui/icon/005000/005693.tex","summoner",28,82,,0,"SMN",0
+479,"Ruin Mastery IV","ui/icon/005000/005689.tex","summoner",28,84,,0,"SMN",0
+480,"Enhanced Radiant Aegis","ui/icon/005000/005694.tex","summoner",28,88,,2,"SMN",0
+481,"Enkindle II","ui/icon/005000/005695.tex","summoner",28,90,,0,"SMN",0
+482,"Mana Stack","ui/icon/006000/006208.tex","red mage",112,68,,0,"RDM",0
+483,"Red Magic Mastery II","ui/icon/006000/006209.tex","red mage",112,82,,0,"RDM",0
+484,"Red Magic Mastery III","ui/icon/006000/006210.tex","red mage",112,84,,0,"RDM",0
+485,"Enhanced Acceleration","ui/icon/006000/006211.tex","red mage",112,88,,2,"RDM",0
+486,"Enhanced Manafication II","ui/icon/006000/006212.tex","red mage",112,90,,0,"RDM",0
+487,"Glare Mastery","ui/icon/005000/005343.tex","white mage",25,82,,0,"WHM",0
+488,"Holy Mastery","ui/icon/005000/005344.tex","white mage",25,82,,0,"WHM",0
+489,"Enhanced Healing Magic","ui/icon/006000/006826.tex","white mage",25,85,,0,"WHM",0
+490,"Enhanced Divine Benison","ui/icon/005000/005345.tex","white mage",25,88,,2,"WHM",0
+491,"Broil Mastery IV","ui/icon/005000/005704.tex","scholar",29,82,,0,"SCH",0
+492,"Art of War Mastery","ui/icon/005000/005705.tex","scholar",29,82,,0,"SCH",0
+493,"Enhanced Healing Magic","ui/icon/006000/006826.tex","scholar",29,85,,0,"SCH",0
+494,"Enhanced Deployment Tactics","ui/icon/005000/005706.tex","scholar",29,88,,-300,"SCH",0
+495,"Enhanced Draw","ui/icon/006000/006115.tex","adventurer",0,0,,0,"",0
+496,"Enhanced Draw II","ui/icon/006000/006116.tex","adventurer",0,0,,0,"",0
+497,"Malefic Mastery IV","ui/icon/006000/006117.tex","astrologian",99,82,,0,"AST",0
+498,"Gravity Mastery","ui/icon/006000/006118.tex","astrologian",99,82,,0,"AST",0
+499,"Enhanced Healing Magic","ui/icon/006000/006826.tex","astrologian",99,85,,0,"AST",0
+500,"Enhanced Celestial Intersection","ui/icon/006000/006119.tex","astrologian",99,88,,2,"AST",0
+501,"Starfishing","ui/icon/005000/005487.tex","fisher",19,89,,0,"FSH",0
+502,"Enhanced Summon Bahamut","ui/icon/005000/005696.tex","summoner",28,80,,0,"SMN",0
+503,"Elemental Mastery","ui/icon/005000/005697.tex","summoner",28,86,,0,"SMN",0
+504,"Melee Mastery","ui/icon/006000/006801.tex","paladin",20,84,,0,"PLD",0
+505,"Melee Mastery","ui/icon/006000/006801.tex","warrior",22,84,,0,"WAR",0
+506,"Melee Mastery","ui/icon/006000/006801.tex","dark knight",98,84,,0,"DRK",0
+507,"Melee Mastery","ui/icon/006000/006801.tex","gunbreaker",149,84,,0,"GNB",0
+508,"Lance Mastery III","ui/icon/005000/005292.tex","dragoon",23,90,,0,"DRG",0
+509,"Enhanced Enochian III","ui/icon/005000/005374.tex","black mage",26,86,,18,"BLM",0
+510,"Physis Mastery","ui/icon/006000/006459.tex","sage",181,60,,0,"SGE",0
+511,"Enhanced Living Shadow","ui/icon/006000/006065.tex","dark knight",98,88,,0,"DRK",0
+512,"Flint Strike Mastery","ui/icon/005000/005248.tex","monk",21,86,,0,"MNK",0
+513,"Tornado Kick Mastery","ui/icon/005000/005247.tex","monk",21,90,,0,"MNK",0
+514,"Enhanced Ikishoten","ui/icon/006000/006157.tex","samurai",111,90,,0,"SAM",0
+515,"Adept Assassination","ui/icon/005000/005420.tex","ninja",92,56,"Medieval Espionage",0,"NIN",0
+516,"Melee Mastery","ui/icon/006000/006801.tex","ninja",92,74,,0,"NIN",0
+517,"Marksman's Mastery","ui/icon/006000/006801.tex","machinist",96,84,,0,"MCH",0
+518,"Melee Mastery","ui/icon/006000/006801.tex","monk",21,84,,0,"MNK",0
+519,"Fuga Mastery","ui/icon/006000/006158.tex","samurai",111,86,,0,"SAM",0
+520,"Way of the Samurai","ui/icon/006000/006801.tex","samurai",111,66,,0,"SAM",0
+521,"Way of the Samurai II","ui/icon/006000/006802.tex","samurai",111,84,,0,"SAM",0
+522,"Melee Mastery II","ui/icon/006000/006802.tex","ninja",92,84,,0,"NIN",0
+523,"Melee Mastery II","ui/icon/006000/006802.tex","reaper",180,84,,0,"RPR",0
+524,"Viper's Fangs","ui/icon/006000/006501.tex","viper",196,55,,0,"VPR",0
+525,"Viper's Maw","ui/icon/006000/006502.tex","viper",196,60,,0,"VPR",0
+526,"Viper's Bite","ui/icon/006000/006503.tex","viper",196,75,,0,"VPR",0
+527,"Viper's Thresh","ui/icon/006000/006504.tex","viper",196,80,,0,"VPR",0
+528,"Viper's Rattle","ui/icon/006000/006505.tex","viper",196,82,,0,"VPR",0
+529,"Enhanced Slither","ui/icon/006000/006506.tex","viper",196,84,,3,"VPR",0
+530,"Enhanced Viper's Rattle","ui/icon/006000/006507.tex","viper",196,88,,0,"VPR",0
+531,"Serpent's Lineage","ui/icon/006000/006508.tex","viper",196,90,,0,"VPR",0
+532,"Uncoiled Fangs","ui/icon/006000/006510.tex","viper",196,92,,0,"VPR",0
+533,"Enhanced Serpent's Lineage","ui/icon/006000/006511.tex","viper",196,96,,0,"VPR",0
+534,"Serpent's Legacy","ui/icon/006000/006509.tex","viper",196,100,,0,"VPR",0
+535,"",,"adventurer",0,0,,0,"",0
+536,"",,"adventurer",0,0,,0,"",0
+537,"Palette Gauge","ui/icon/006000/006551.tex","pictomancer",197,60,,0,"PCT",0
+538,"Enhanced Artistry","ui/icon/006000/006552.tex","pictomancer",197,80,,0,"PCT",0
+539,"Enhanced Smudge","ui/icon/006000/006553.tex","pictomancer",197,84,,0,"PCT",0
+540,"Enhanced Pictomancy II","ui/icon/006000/006554.tex","pictomancer",197,86,,2,"PCT",0
+541,"Enhanced Tempera","ui/icon/006000/006555.tex","pictomancer",197,88,,0,"PCT",0
+542,"Enhanced Palette","ui/icon/006000/006556.tex","pictomancer",197,90,,0,"PCT",0
+543,"Enhanced Pictomancy III","ui/icon/006000/006560.tex","pictomancer",197,92,,0,"PCT",0
+544,"Enhanced Pictomancy V","ui/icon/006000/006561.tex","pictomancer",197,100,,0,"PCT",0
+545,"Enhanced Pictomancy IV","ui/icon/006000/006559.tex","pictomancer",197,96,,3,"PCT",0
+546,"Enhanced Pictomancy","ui/icon/006000/006558.tex","pictomancer",197,82,,0,"PCT",0
+547,"",,"adventurer",0,0,,0,"",0
+548,"Delicate Synthesis Mastery","ui/icon/006000/006951.tex","carpenter",9,94,,0,"CRP",0
+549,"Delicate Synthesis Mastery","ui/icon/006000/006952.tex","blacksmith",10,94,,0,"BSM",0
+550,"Delicate Synthesis Mastery","ui/icon/006000/006953.tex","armorer",11,94,,0,"ARM",0
+551,"Delicate Synthesis Mastery","ui/icon/006000/006954.tex","goldsmith",12,94,,0,"GSM",0
+552,"Delicate Synthesis Mastery","ui/icon/006000/006955.tex","leatherworker",13,94,,0,"LTW",0
+553,"Delicate Synthesis Mastery","ui/icon/006000/006956.tex","weaver",14,94,,0,"WVR",0
+554,"Delicate Synthesis Mastery","ui/icon/006000/006957.tex","alchemist",15,94,,0,"ALC",0
+555,"Delicate Synthesis Mastery","ui/icon/006000/006958.tex","culinarian",16,94,,0,"CUL",0
+556,"Expedience","ui/icon/006000/006975.tex","carpenter",9,96,,0,"CRP",0
+557,"Expedience","ui/icon/006000/006975.tex","blacksmith",10,96,,0,"BSM",0
+558,"Expedience","ui/icon/006000/006975.tex","armorer",11,96,,0,"ARM",0
+559,"Expedience","ui/icon/006000/006975.tex","goldsmith",12,96,,0,"GSM",0
+560,"Expedience","ui/icon/006000/006975.tex","leatherworker",13,96,,0,"LTW",0
+561,"Expedience","ui/icon/006000/006975.tex","weaver",14,96,,0,"WVR",0
+562,"Expedience","ui/icon/006000/006975.tex","alchemist",15,96,,0,"ALC",0
+563,"Expedience","ui/icon/006000/006975.tex","culinarian",16,96,,0,"CUL",0
+564,"Sentinel Mastery","ui/icon/005000/005202.tex","paladin",20,92,,0,"PLD",0
+565,"Requiescat Mastery","ui/icon/005000/005223.tex","paladin",20,96,,0,"PLD",0
+566,"Enhanced Blade of Valor","ui/icon/005000/005224.tex","paladin",20,100,,0,"PLD",0
+567,"Vengeance Mastery","ui/icon/005000/005271.tex","warrior",22,92,,0,"WAR",0
+568,"Enhanced Inner Release","ui/icon/005000/005272.tex","warrior",22,96,,0,"WAR",0
+569,"Enhanced Primal Rend","ui/icon/005000/005273.tex","warrior",22,100,,0,"WAR",0
+570,"Blood Weapon Mastery","ui/icon/006000/006053.tex","dark knight",98,68,,0,"DRK",0
+571,"Shadow Wall Mastery","ui/icon/006000/006068.tex","dark knight",98,92,,0,"DRK",0
+572,"Enhanced Delirium","ui/icon/006000/006069.tex","dark knight",98,96,,0,"DRK",0
+573,"Enhanced Living Shadow III","ui/icon/006000/006070.tex","dark knight",98,100,,0,"DRK",0
+574,"Nebula Mastery","ui/icon/006000/006308.tex","gunbreaker",149,92,,0,"GNB",0
+575,"Enhanced Continuation II","ui/icon/006000/006309.tex","gunbreaker",149,96,,0,"GNB",0
+576,"Enhanced Bloodfest","ui/icon/006000/006310.tex","gunbreaker",149,100,,0,"GNB",0
+577,"Beast Chakra Mastery","ui/icon/005000/005249.tex","monk",21,92,,0,"MNK",0
+578,"Enhanced Riddle of Wind","ui/icon/005000/005526.tex","monk",21,96,,0,"MNK",0
+579,"Enhanced Riddle of Fire","ui/icon/005000/005527.tex","monk",21,100,,0,"MNK",0
+580,"Enhanced Winged Glide","ui/icon/005000/005295.tex","dragoon",23,84,,2,"DRG",0
+581,"Enhanced Dragonfire Dive","ui/icon/005000/005296.tex","dragoon",23,92,,0,"DRG",0
+582,"Lance Mastery IV","ui/icon/005000/005293.tex","dragoon",23,96,,0,"DRG",0
+583,"Enhanced Stardiver","ui/icon/005000/005298.tex","dragoon",23,100,,0,"DRG",0
+584,"Increase Attack Speed","ui/icon/005000/005421.tex","ninja",92,45,,0,"NIN",0
+585,"Mug Mastery","ui/icon/005000/005422.tex","ninja",92,66,,0,"NIN",0
+586,"Trick Attack Mastery","ui/icon/005000/005423.tex","ninja",92,92,,0,"NIN",0
+587,"Enhanced Dokumori","ui/icon/005000/005424.tex","ninja",92,96,,0,"NIN",0
+588,"Enhanced Ten Chi Jin","ui/icon/005000/005726.tex","ninja",92,100,,0,"NIN",0
+589,"Third Eye Mastery","ui/icon/006000/006159.tex","samurai",111,82,,0,"SAM",0
+590,"Hakaze Mastery","ui/icon/006000/006160.tex","samurai",111,92,,0,"SAM",0
+591,"Enhanced Hissatsu","ui/icon/006000/006161.tex","samurai",111,94,,-600,"SAM",0
+592,"Enhanced Ikishoten II","ui/icon/006000/006162.tex","samurai",111,96,,0,"SAM",0
+593,"Enhanced Meikyo Shisui II","ui/icon/006000/006163.tex","samurai",111,100,,0,"SAM",0
+594,"Enhanced Enshroud","ui/icon/006000/006411.tex","reaper",180,92,,0,"RPR",0
+595,"",,"adventurer",0,0,,0,"",0
+596,"Enhanced Gluttony","ui/icon/006000/006413.tex","reaper",180,96,,0,"RPR",0
+597,"Enhanced Plentiful Harvest","ui/icon/006000/006414.tex","reaper",180,100,,0,"RPR",0
+598,"Wide Volley Mastery","ui/icon/005000/005322.tex","bard",24,72,,0,"BRD",0
+599,"Bloodletter Mastery","ui/icon/005000/005323.tex","bard",24,92,,0,"BRD",0
+600,"Enhanced Barrage","ui/icon/005000/005301.tex","bard",24,96,,0,"BRD",0
+601,"Enhanced Troubadour II","ui/icon/005000/005324.tex","bard",24,98,,0,"BRD",0
+602,"Enhanced Radiant Finale","ui/icon/005000/005601.tex","bard",24,100,,0,"BRD",0
+603,"Heat Blast Mastery","ui/icon/006000/006021.tex","machinist",96,68,,0,"MCH",0
+604,"Double-barrel Mastery","ui/icon/006000/006022.tex","machinist",96,92,,0,"MCH",0
+605,"Enhanced Multiweapon","ui/icon/006000/006023.tex","machinist",96,94,,2,"MCH",0
+606,"Enhanced Multiweapon II","ui/icon/006000/006024.tex","machinist",96,96,,0,"MCH",0
+607,"Enhanced Tactician II","ui/icon/006000/006025.tex","machinist",96,98,,0,"MCH",0
+608,"Enhanced Barrel Stabilizer","ui/icon/006000/006026.tex","machinist",96,100,,0,"MCH",0
+609,"Enhanced Standard Finish","ui/icon/006000/006362.tex","dancer",150,92,,0,"DNC",0
+610,"Enhanced Flourish II","ui/icon/006000/006363.tex","dancer",150,96,,0,"DNC",0
+611,"Enhanced Shield Samba II","ui/icon/006000/006364.tex","dancer",150,98,,0,"DNC",0
+612,"Enhanced Technical Finish II","ui/icon/006000/006365.tex","dancer",150,100,,0,"DNC",0
+613,"Thunder Mastery III","ui/icon/005000/005651.tex","black mage",26,92,,0,"BLM",0
+614,"Enhanced Ley Lines","ui/icon/005000/005652.tex","black mage",26,96,,0,"BLM",0
+615,"Enhanced Polyglot II","ui/icon/005000/005653.tex","black mage",26,98,,0,"BLM",0
+616,"Enhanced Astral Fire","ui/icon/005000/005654.tex","black mage",26,100,,0,"BLM",0
+617,"Enhanced Fester","ui/icon/005000/005398.tex","summoner",28,92,,0,"SMN",0
+618,"Enhanced Searing Light","ui/icon/005000/005399.tex","summoner",28,96,,0,"SMN",0
+619,"Enhanced Summon Bahamut II","ui/icon/005000/005698.tex","summoner",28,100,,0,"SMN",0
+620,"Enhanced Embolden","ui/icon/006000/006213.tex","red mage",112,92,,0,"RDM",0
+621,"Enhanced Acceleration II","ui/icon/006000/006214.tex","red mage",112,96,,0,"RDM",0
+622,"Enhanced Manafication III","ui/icon/006000/006215.tex","red mage",112,100,,0,"RDM",0
+623,"Enhanced Presence of Mind","ui/icon/005000/005346.tex","white mage",25,92,,0,"WHM",0
+624,"Medica Mastery","ui/icon/005000/005347.tex","white mage",25,96,,0,"WHM",0
+625,"Enhanced Tetragrammaton","ui/icon/005000/005349.tex","white mage",25,98,,2,"WHM",0
+626,"Enhanced Temperance","ui/icon/005000/005348.tex","white mage",25,100,,0,"WHM",0
+627,"Enhanced Chain Stratagem","ui/icon/005000/005707.tex","scholar",29,92,,0,"SCH",0
+628,"Succor Mastery","ui/icon/005000/005708.tex","scholar",29,96,,0,"SCH",0
+629,"Enhanced Recitation","ui/icon/005000/005710.tex","scholar",29,98,,-300,"SCH",0
+630,"",,"adventurer",0,0,,0,"",0
+631,"Minor Arcana Mastery","ui/icon/006000/006120.tex","astrologian",99,70,,0,"AST",0
+632,"Enhanced Divination","ui/icon/006000/006121.tex","astrologian",99,92,,0,"AST",0
+633,"Aspected Helios Mastery","ui/icon/006000/006122.tex","astrologian",99,96,,0,"AST",0
+634,"Enhanced Essential Dignity II","ui/icon/006000/006124.tex","astrologian",99,98,,3,"AST",0
+635,"Enhanced Neutral Sect","ui/icon/006000/006123.tex","astrologian",99,100,,0,"AST",0
+636,"Enhanced Soteria","ui/icon/006000/006461.tex","sage",181,94,,-300,"SGE",0
+637,"Eukrasian Prognosis Mastery","ui/icon/006000/006460.tex","sage",181,96,,0,"SGE",0
+638,"Enhanced Physis II","ui/icon/006000/006462.tex","sage",181,98,,0,"SGE",0
+639,"Enhanced Rampart","ui/icon/006000/006804.tex","adventurer",113,94,,0,"GLA MRD PLD WAR DRK GNB",0
+640,"Enhanced Reprisal","ui/icon/006000/006805.tex","adventurer",113,98,,0,"GLA MRD PLD WAR DRK GNB",0
+641,"Enhanced Feint","ui/icon/006000/006851.tex","adventurer",114,98,,0,"PGL LNC ROG MNK DRG NIN SAM RPR VPR",0
+642,"Enhanced Second Wind","ui/icon/006000/006852.tex","adventurer",118,94,,0,"PGL LNC ARC ROG MNK DRG BRD NIN MCH SAM DNC RPR VPR",0
+643,"Enhanced Addle","ui/icon/006000/006827.tex","adventurer",198,98,,0,"THM BLM ACN SMN RDM PCT",0
+644,"Enhanced Swiftcast","ui/icon/006000/006828.tex","adventurer",199,94,,-200,"CNJ THM WHM BLM ACN SMN SCH AST RDM SGE PCT",0
+645,"Collector's High Standard","ui/icon/005000/005447.tex","miner",17,100,"Inscrutable Tastes",0,"MIN",0
+646,"Collector's High Standard","ui/icon/005000/005472.tex","botanist",18,100,"Inscrutable Tastes",0,"BTN",0
+647,"Revisit","ui/icon/005000/005446.tex","miner",17,91,,0,"MIN",0
+648,"Revisit","ui/icon/005000/005471.tex","botanist",18,91,,0,"BTN",0
+649,"Fisher's Instinct","ui/icon/005000/005480.tex","fisher",19,50,,0,"FSH",0
+650,"Melee Mastery II","ui/icon/006000/006802.tex","paladin",20,94,,0,"PLD",0
+651,"White Magic Mastery","ui/icon/006000/006831.tex","white mage",25,94,,0,"WHM",0
+652,"Enchanted Blade Mastery","ui/icon/006000/006831.tex","red mage",112,94,,0,"RDM",0
+653,"Melee Mastery","ui/icon/006000/006806.tex","dragoon",23,94,,0,"DRG",0
+654,"Melee Mastery II","ui/icon/006000/006802.tex","warrior",22,94,,0,"WAR",0
+655,"Way of the Samurai III","ui/icon/006000/006803.tex","samurai",111,94,,0,"SAM",0
+656,"Tactician's Mastery","ui/icon/006000/006831.tex","scholar",29,94,,0,"SCH",0
+657,"Melee Mastery III","ui/icon/006000/006803.tex","reaper",180,94,,0,"RPR",0
+658,"Marksman's Mastery II","ui/icon/006000/006802.tex","machinist",96,94,,0,"MCH",0
+659,"Enhanced Enochian IV","ui/icon/005000/005655.tex","black mage",26,96,,25,"BLM",0
+660,"Melee Mastery II","ui/icon/006000/006802.tex","monk",21,94,,0,"MNK",0
+661,"Melee Mastery III","ui/icon/006000/006803.tex","ninja",92,94,,0,"NIN",0
+662,"Dynamic Dancer","ui/icon/006000/006806.tex","dancer",150,94,,0,"DNC",0
+663,"Melee Mastery II","ui/icon/006000/006802.tex","dark knight",98,94,,0,"DRK",0
+664,"Arcane Mastery","ui/icon/006000/006831.tex","summoner",28,94,,0,"SMN",0
+665,"Enhanced Fight or Flight","ui/icon/005000/005205.tex","paladin",20,54,"Big Sollerets to Fill",0,"PLD",0
+666,"Enhanced No Mercy","ui/icon/006000/006311.tex","gunbreaker",149,54,,0,"GNB",0
+667,"Melee Mastery II","ui/icon/006000/006802.tex","gunbreaker",149,94,,0,"GNB",0
+668,"Ranged Mastery","ui/icon/006000/006806.tex","bard",24,94,,0,"BRD",0
+669,"Magick Mastery","ui/icon/006000/006831.tex","sage",181,94,,0,"SGE",0
+670,"Maim and Mend","ui/icon/005000/005185.tex","pictomancer",197,20,,10,"PCT",0
+671,"Maim and Mend II","ui/icon/005000/005186.tex","pictomancer",197,40,,30,"PCT",0
+672,"Pictomancy Mastery","ui/icon/006000/006829.tex","pictomancer",197,54,,0,"PCT",0
+673,"Magick Mastery","ui/icon/006000/006831.tex","astrologian",99,94,,0,"AST",0
+674,"Melee Mastery","ui/icon/006000/006801.tex","viper",196,74,,0,"VPR",0
+675,"Melee Mastery II","ui/icon/006000/006802.tex","viper",196,84,,0,"VPR",0
+676,"Pictomancy Mastery II","ui/icon/006000/006830.tex","pictomancer",197,74,,0,"PCT",0
+677,"Pictomancy Mastery III","ui/icon/006000/006832.tex","pictomancer",197,84,,0,"PCT",0
+678,"Pictomancy Mastery IV","ui/icon/006000/006833.tex","pictomancer",197,94,,0,"PCT",0
+679,"",,"adventurer",0,0,,0,"",0
+680,"",,"adventurer",0,0,,0,"",0

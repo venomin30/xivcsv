@@ -1,30 +1,30 @@
 ﻿key,0,1,2,3,4,5,6,7
-#,JobHudManual[0],JobHudManual[1],JobHudManual[2],,,,,
-int32,JobHudManual,JobHudManual,JobHudManual,byte,byte,byte,byte,byte
-0,"","","",0,0,0,0,0
-1,"Key Item","","",0,0,0,0,0
-2,"Key Item","Key Item","",0,0,0,0,0
-3,"Key Item","","",0,0,0,0,0
-4,"Key Item","","",0,0,0,0,0
-5,"Key Item","Key Item","",0,0,0,0,0
-6,"Interaction","","",0,0,0,0,0
-7,"Key Item","Interaction","Key Item",0,0,0,0,0
-8,"Interaction","","",0,0,0,0,0
-9,"Interaction","Interaction","Key Item",0,0,0,0,0
-10,"Interaction","Interaction","Key Item",33,32,0,0,0
-11,"Interaction","Interaction","",0,0,0,0,0
-12,"Interaction","Interaction","Interaction",43,42,41,40,0
-13,"Sprint","Interaction","Interaction",50,49,0,0,0
-14,"Key Item","Key Item","Key Item",0,0,0,0,0
-15,"Interaction","Key Item","",0,0,0,0,0
-16,"Key Item","Key Item","",0,0,0,0,0
-17,"Key Item","Key Item","Interaction",6,5,0,0,0
-18,"Key Item","Key Item","",0,0,0,0,0
-19,"Key Item","Interaction","Key Item",0,0,0,0,0
-20,"Interaction","Key Item","",0,0,0,0,0
-21,"Interaction","Interaction","Key Item",0,0,0,0,0
-22,"Interaction","Key Item","Interaction",54,0,0,0,0
-23,"Interaction","Interaction","Interaction",0,0,0,0,0
-24,"Interaction","Interaction","Key Item",0,0,0,0,0
-25,"Interaction","Interaction","Interaction",68,67,0,0,0
-26,"Sprint","Interaction","Interaction",75,74,73,72,0
+#,JobHudManual[0],JobHudManual[1],JobHudManual[2],JobHudManual[3],JobHudManual[4],JobHudManual[5],JobHudManual[6],JobHudManual[7]
+int32,JobHudManual,JobHudManual,JobHudManual,JobHudManual,JobHudManual,JobHudManual,JobHudManual,JobHudManual
+0,"","","","","","","",""
+1,"Iron Will","","","","","","",""
+2,"Twin Snakes","Steeled Meditation","","","","","",""
+3,"Defiance","","","","","","",""
+4,"Fire","","","","","","",""
+5,"Energy Drain","Aethercharge","","","","","",""
+6,"Limit Break","","","","","","",""
+7,"Brotherhood","","Steeled Meditation","","","","",""
+8,"Steady Hand","","","","","","",""
+9,"Slumber Breath","Ruin","Geirskogul","","","","",""
+10,"Stagnant Spray","Reclaim","the Wanderer's Minuet","Army's Paeon","Mage's Ballad","","",""
+11,"Haste","反撃効果","","","","","",""
+12,"Hot Hands","Absent-mindedness","炎獄の楔：死亡","Mooch","Foul","Sharp Vision III","イフリート：着地",""
+13,"Raise","100 Needles","Bio II","Barbaric Surge","Aethercharge","","",""
+14,"Summon Seraph","Aetherpact","Aetherflow","","","","",""
+15,"Summon","Armor Crush","","","","","",""
+16,"Rook Autoturret","Hypercharge","","","","","",""
+17,"Living Shadow","The Blackest Night","Manafont","Flood of Darkness","Grit","","",""
+18,"Minor Arcana","Astral Draw","","","","","",""
+19,"Shoha","Ageless Words","Iaijutsu","","","","",""
+20,"Plaincracker","Jolt","","","","","",""
+21,"Enblizzard","Inner Quiet","Royal Guard","","","","",""
+22,"Inner Quiet","Technical Step","Inner Quiet","Standard Step","","","",""
+23,"Agitation","Agitation","Ultrasonics","","","","",""
+24,"Somersault Slash","Bombardier","Eukrasia","","","","",""
+25,"Sand Pillar","Earthbreak","Poison Breath","Sand Breath","Aetherflow","","",""
+26,"Limit Break","Seaspray","Overheat","Meteor","Magitek Ray","Last Bastion","",""
