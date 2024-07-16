@@ -30,7 +30,7 @@ int32,Image,JournalCategory,bit&01,str
 26,"ui/icon/061000/061411.tex","Chronicles of a New Era - The Sorrow of Werlyt",True,"Garlemald's Machinations"
 27,"ui/icon/061000/061411.tex","Chronicles of a New Era - Pandæmonium",True,"Pandæmonium"
 28,"ui/icon/061000/061411.tex","Chronicles of a New Era - Myths of the Realm",True,"Myths of the Realm"
-29,,"Sephiroth Missions",False,""
+29,"ui/icon/061000/061411.tex","Chronicles of a New Era - The Arcadion",True,"The Arcadion"
 30,"ui/icon/061000/061411.tex","Loporrit Quests",True,"Main Quests"
 31,"ui/icon/061000/061411.tex","Loporrit Quests",True,"Daily Quests"
 32,"ui/icon/061000/061411.tex","Omicron Quests",True,"Main Quests"

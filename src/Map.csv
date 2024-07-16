@@ -924,11 +924,11 @@ int32,MapCondition,byte,byte,sbyte,byte,uint16,str,uint16,int16,int16,PlaceName,
 920,"A New World to Explore",20,1,0,3,606,"region/15",100,0,0,"Yok Tural","Yok Tural","",-1,0,,True,False,False,0
 921,"A New World to Explore",21,1,0,3,607,"region/16",100,0,0,"Xak Tural","Xak Tural","",-1,0,,True,False,False,0
 922,"Through the Gate of Gold",22,1,0,3,608,"region/17",100,0,0,"Unlost World","Unlost World","",-1,0,,True,False,False,0
-923,"",0,0,0,0,0,"",0,0,0,"","","",0,0,,False,False,False,0
-924,"",0,0,0,0,0,"",0,0,0,"","","",0,0,,False,False,False,0
+923,"",0,0,0,1,0,"x6r2/00",400,-100,-100,"Xak Tural","Lovely Lovering","",-1,0,"x6r2",True,False,False,0
+924,"",0,0,0,1,0,"x6r4/00",400,-100,-100,"Xak Tural","The Thundering","",-1,0,"x6r4",True,False,False,0
 925,"",0,0,0,1,0,"y6fa/00",400,-100,-100,"Yok Tural","Worqor Lar Dor","",-1,0,"y6fa",True,False,False,0
-926,"",0,0,0,0,0,"",0,0,0,"","","",0,0,,False,False,False,0
-927,"",0,0,0,0,0,"",0,0,0,"","","",0,0,,False,False,False,0
+926,"",0,0,0,1,0,"x6r3/00",400,-100,-100,"Xak Tural","Blasting Ring","",-1,0,"x6r3",True,False,False,0
+927,"",0,0,0,1,0,"x6r1/00",400,-100,-100,"Xak Tural","Scratching Ring","",-1,0,"x6r1",True,False,False,0
 928,"",0,0,0,1,0,"x6fb/00",400,-100,-100,"Unlost World","Interphos","",-1,0,"x6fb",True,False,False,0
 929,"",0,0,0,1,0,"x6fa/00",400,-100,-100,"Xak Tural","Summit of Everkeep","",-1,0,"x6fa",True,False,False,0
 930,"",22,4,2,1,33,"x6d5/02",200,-100,350,"Unlost World","Strayborough","Dreamborough North",151,7936,"x6d5",True,False,False,0
@@ -938,8 +938,8 @@ int32,MapCondition,byte,byte,sbyte,byte,uint16,str,uint16,int16,int16,PlaceName,
 934,"",0,0,0,1,0,"x6e2/00",400,1,6,"Xak Tural","The Backroom","",-1,0,"x6e2",True,False,False,0
 935,"",0,0,0,1,628,"default/00",400,0,-640,"Xak Tural","Vanguard","",-1,0,"x6d1_event",True,False,False,0
 936,"",0,0,0,1,629,"y6e2/00",400,0,31,"Yok Tural","Skydeep Cenote Inner Chamber","",-1,0,"y6e2",True,False,False,0
-937,"",0,0,0,0,0,"",0,0,0,"","","",0,0,,False,False,False,0
-938,"",0,0,0,0,0,"",0,0,0,"","","",0,0,,False,False,False,0
+937,"",0,0,0,1,0,"x6e4/00",400,0,0,"Xak Tural","Tritails Training","",-1,0,"x6e4",True,False,False,0
+938,"",0,0,0,1,0,"x6e5/00",400,0,0,"Xak Tural","Greenroom","",-1,0,"x6e5",True,False,False,0
 939,"",0,0,0,1,635,"y6ti/00",800,210,-285,"Yok Tural","The For'ard Cabins","",-1,0,"y6ti",True,False,False,0
 940,"",0,0,0,1,0,"f1dc/00",200,32,0,"The Black Shroud","Manor Basement","",-1,0,"ec059",True,False,False,0
 941,"",0,0,0,1,614,"n4d9/10",200,0,286,"???","Dreamlike Palace","",-1,0,"ec060",True,False,False,0

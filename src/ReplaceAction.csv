@@ -147,7 +147,7 @@ int32,Action,sbyte,Row,Action,sbyte,Row,Action,sbyte,Row,Action,sbyte,bit&01
 14.1,"Tsubame-gaeshi",1,,"",0,,"",0,,"",-1,False
 14.2,"Ogi Namikiri",8,,"Kaeshi: Namikiri",0,,"",0,,"",-1,False
 14.3,"Fuga",3,"Fuga Mastery","Fuko",0,,"",0,,"",-1,False
-14.4,"Third Eye",3,"Third Eye Mastery","Tengetsu",0,,"",0,,"",-1,False
+14.4,"Third Eye",3,"Third Eye Mastery","Tengentsu",0,,"",0,,"",-1,False
 14.5,"Hakaze",3,"Hakaze Mastery","Gyofu",0,,"",0,,"",-1,False
 14.6,"Ikishoten",2,"Zanshin Ready","Zanshin",0,,"",0,,"",-1,False
 15.0,"Jolt",1,,"",0,,"",0,,"",-1,False
@@ -216,8 +216,8 @@ int32,Action,sbyte,Row,Action,sbyte,Row,Action,sbyte,Row,Action,sbyte,bit&01
 20.7,"Swiftskin's Den",1,,"Fourth Generation",0,,"",0,,"",-1,False
 20.8,"Reawaken",1,,"Ouroboros",0,,"",0,,"",-1,False
 20.9,"Serpent's Tail",1,,"",0,,"",0,,"",-1,False
-20.10,"Twinfang",2,"","Twinfang Bite",2,"","Twinfang Thresh",2,"","Uncoiled Twinfang",-1,False
-20.11,"Twinblood",2,"","Twinblood Bite",2,"","Twinblood Thresh",2,"","Uncoiled Twinblood",-1,False
+20.10,"Twinfang",1,,"",0,,"",0,,"",-1,False
+20.11,"Twinblood",1,,"",0,,"",0,,"",-1,False
 21.0,"Fire in Red",1,,"Aero in Green",1,,"Water in Blue",0,,"",-1,False
 21.1,"Blizzard in Cyan",1,,"Stone in Yellow",1,,"Thunder in Magenta",0,,"",-1,False
 21.2,"Fire II in Red",1,,"Aero II in Green",1,,"Water II in Blue",0,,"",-1,False
