@@ -15559,11 +15559,11 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263170.6,"Costa del Sol Phasmascape",False,0,0,,,"",0,16,620
 263170.7,"Crystal Tower Phasmascape",False,0,0,,,"",0,17,630
 263170.8,"Urth's Fount Phasmascape",False,0,0,,,"",0,18,630
-263170.9,"",False,0,0,,,"",0,80,700
-263170.10,"",False,0,0,,,"",0,81,700
-263170.11,"",False,0,0,,,"",0,82,700
-263170.12,"",False,0,0,,,"",0,83,700
-263170.13,"",False,0,0,,,"",0,84,700
+263170.9,"Mist Phasmascape",False,0,0,,,"",0,80,700
+263170.10,"Lavender Beds Phasmascape",False,0,0,,,"",0,81,700
+263170.11,"Goblet Phasmascape",False,0,0,,,"",0,82,700
+263170.12,"Empyreum Phasmascape",False,0,0,,,"",0,83,700
+263170.13,"Shirogane Phasmascape",False,0,0,,,"",0,84,700
 263170.14,"Azure Sky Phasmascape",False,0,0,,,"",0,100,640
 263170.15,"Sunset Phasmascape",False,0,0,,,"",0,101,700
 263170.16,"Starry Sky Phasmascape",False,0,0,,,"",0,102,640
@@ -16008,7 +16008,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263192.18,"Mountain Chromite Culinary Knife",False,0,0,,,"",0,100,700
 263192.19,"Mountain Chromite Maul",False,0,0,,,"",0,100,700
 263192.20,"Mountain Chromite Garden Scythe",False,0,0,,,"",0,100,700
-263192.21,"Spearfishing Gig",False,0,0,"A New Fishing Ex-spear-ience",,"",0,100,700
+263192.21,"Spearfishing Gig",False,0,0,"A New Fishing Ex-spear-ience",,"",0,100,0
 263193.0,"Cobalt Tungsten Saw",False,0,0,,,"",0,100,700
 263193.1,"Cobalt Tungsten Cross-pein Hammer",False,0,0,,,"",0,100,700
 263193.2,"Cobalt Tungsten Raising Hammer",False,0,0,,,"",0,100,700
@@ -16030,7 +16030,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263193.18,"Cobalt Tungsten Culinary Knife",False,0,0,,,"",0,100,700
 263193.19,"Cobalt Tungsten Maul",False,0,0,,,"",0,100,700
 263193.20,"Cobalt Tungsten Garden Scythe",False,0,0,,,"",0,100,700
-263193.21,"Spearfishing Gig",False,0,0,"A New Fishing Ex-spear-ience",,"",0,100,700
+263193.21,"Spearfishing Gig",False,0,0,"A New Fishing Ex-spear-ience",,"",0,100,0
 263194.0,"Titanium Gold Saw",False,0,0,,,"",0,100,700
 263194.1,"Titanium Gold Cross-pein Hammer",False,0,0,,,"",0,100,700
 263194.2,"Titanium Gold Raising Hammer",False,0,0,,,"",0,100,700
@@ -16052,7 +16052,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263194.18,"Titanium Gold Culinary Knife",False,0,0,,,"",0,100,700
 263194.19,"Titanium Gold Maul",False,0,0,,,"",0,100,700
 263194.20,"Titanium Gold Garden Scythe",False,0,0,,,"",0,100,700
-263194.21,"Spearfishing Gig",False,0,0,"A New Fishing Ex-spear-ience",,"",0,100,700
+263194.21,"Spearfishing Gig",False,0,0,"A New Fishing Ex-spear-ience",,"",0,100,0
 263195.0,"Mountain Chromite Saw",False,0,0,,,"",0,100,700
 263195.1,"Mountain Chromite Cross-pein Hammer",False,0,0,,,"",0,100,700
 263195.2,"Mountain Chromite Raising Hammer",False,0,0,,,"",0,100,700
@@ -16116,7 +16116,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263197.12,"Acacia Fishing Rod",False,0,0,,,"",0,100,700
 263197.13,"Titanium Gold Maul",False,0,0,,,"",0,100,700
 263197.14,"Titanium Gold Garden Scythe",False,0,0,,,"",0,100,700
-263197.15,"Spearfishing Gig",False,0,0,"A New Fishing Ex-spear-ience",,"",0,100,700
+263197.15,"Spearfishing Gig",False,0,0,"A New Fishing Ex-spear-ience",,"",0,100,0
 263198.0,"Snow Cotton Beret",False,0,0,,,"",0,100,700
 263198.1,"Snow Cotton Jacket",False,0,0,,,"",0,100,700
 263198.2,"Loboskin Fingerless Gloves",False,0,0,,,"",0,100,700
@@ -16177,19 +16177,19 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263202.12,"Gomphotherium Halfgloves of Gathering",False,0,0,,,"",0,100,700
 263202.13,"Rroneek Serge Trousers of Gathering",False,0,0,,,"",0,100,700
 263202.14,"Gomphotherium Boots of Gathering",False,0,0,,,"",0,100,700
-263203.0,"X-Potion",False,0,0,,,"",0,100,700
-263203.1,"X-Ether",False,0,0,,,"",0,100,700
-263203.2,"X-Potion of Strength",False,0,0,,,"",0,100,700
-263203.3,"X-Potion of Dexterity",False,0,0,,,"",0,100,700
-263203.4,"X-Potion of Vitality",False,0,0,,,"",0,100,700
-263203.5,"X-Potion of Intelligence",False,0,0,,,"",0,100,700
-263203.6,"X-Potion of Mind",False,0,0,,,"",0,100,700
-263203.7,"Eye Drops",False,0,0,,,"",0,100,700
-263203.8,"Antidote",False,0,0,,,"",0,100,700
-263203.9,"Echo Drops",False,0,0,,,"",0,100,700
-263203.10,"Spine Drops",False,0,0,,,"",0,100,700
-263203.11,"Gysahl Greens",False,0,0,,,"",0,100,700
-263203.12,"Grade 8 Dark Matter",False,0,0,,,"",0,100,700
+263203.0,"X-Potion",False,0,0,,,"",0,100,0
+263203.1,"X-Ether",False,0,0,,,"",0,100,0
+263203.2,"X-Potion of Strength",False,0,0,,,"",0,100,0
+263203.3,"X-Potion of Dexterity",False,0,0,,,"",0,100,0
+263203.4,"X-Potion of Vitality",False,0,0,,,"",0,100,0
+263203.5,"X-Potion of Intelligence",False,0,0,,,"",0,100,0
+263203.6,"X-Potion of Mind",False,0,0,,,"",0,100,0
+263203.7,"Eye Drops",False,0,0,,,"",0,100,0
+263203.8,"Antidote",False,0,0,,,"",0,100,0
+263203.9,"Echo Drops",False,0,0,,,"",0,100,0
+263203.10,"Spine Drops",False,0,0,,,"",0,100,0
+263203.11,"Gysahl Greens",False,0,0,,,"",0,100,0
+263203.12,"Grade 8 Dark Matter",False,0,0,,,"",0,100,0
 263203.13,"Golden Stonefly Nymph",False,0,0,,,"",0,100,700
 263203.14,"Crimson Lugworm",False,0,0,,,"",0,100,700
 263203.15,"Honeybee",False,0,0,,,"",0,100,700
@@ -16199,52 +16199,52 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263204.2,"Silkmoth Pupa",False,0,0,,,"",0,100,700
 263204.3,"Honeybee",False,0,0,,,"",0,100,700
 263204.4,"Cactuar Jig",False,0,0,,,"",0,100,700
-263205.0,"X-Potion",False,0,0,,,"",0,100,700
-263205.1,"X-Ether",False,0,0,,,"",0,100,700
-263205.2,"X-Potion of Strength",False,0,0,,,"",0,100,700
-263205.3,"X-Potion of Dexterity",False,0,0,,,"",0,100,700
-263205.4,"X-Potion of Vitality",False,0,0,,,"",0,100,700
-263205.5,"X-Potion of Intelligence",False,0,0,,,"",0,100,700
-263205.6,"X-Potion of Mind",False,0,0,,,"",0,100,700
-263205.7,"Eye Drops",False,0,0,,,"",0,100,700
-263205.8,"Antidote",False,0,0,,,"",0,100,700
-263205.9,"Echo Drops",False,0,0,,,"",0,100,700
-263205.10,"Spine Drops",False,0,0,,,"",0,100,700
-263205.11,"Gysahl Greens",False,0,0,,,"",0,100,700
-263205.12,"Grade 8 Dark Matter",False,0,0,,,"",0,100,700
+263205.0,"X-Potion",False,0,0,,,"",0,100,0
+263205.1,"X-Ether",False,0,0,,,"",0,100,0
+263205.2,"X-Potion of Strength",False,0,0,,,"",0,100,0
+263205.3,"X-Potion of Dexterity",False,0,0,,,"",0,100,0
+263205.4,"X-Potion of Vitality",False,0,0,,,"",0,100,0
+263205.5,"X-Potion of Intelligence",False,0,0,,,"",0,100,0
+263205.6,"X-Potion of Mind",False,0,0,,,"",0,100,0
+263205.7,"Eye Drops",False,0,0,,,"",0,100,0
+263205.8,"Antidote",False,0,0,,,"",0,100,0
+263205.9,"Echo Drops",False,0,0,,,"",0,100,0
+263205.10,"Spine Drops",False,0,0,,,"",0,100,0
+263205.11,"Gysahl Greens",False,0,0,,,"",0,100,0
+263205.12,"Grade 8 Dark Matter",False,0,0,,,"",0,100,0
 263205.13,"Golden Stonefly Nymph",False,0,0,,,"",0,100,700
 263205.14,"Honeybee",False,0,0,,,"",0,100,700
-263206.0,"Gysahl Greens",False,0,0,,,"",0,100,700
-263206.1,"Grade 8 Dark Matter",False,0,0,,,"",0,100,700
+263206.0,"Gysahl Greens",False,0,0,,,"",0,100,0
+263206.1,"Grade 8 Dark Matter",False,0,0,,,"",0,100,0
 263206.2,"Golden Stonefly Nymph",False,0,0,,,"",0,100,700
 263206.3,"Crimson Lugworm",False,0,0,,,"",0,100,700
 263206.4,"Silkmoth Pupa",False,0,0,,,"",0,100,700
 263206.5,"Honeybee",False,0,0,,,"",0,100,700
-263207.0,"Gysahl Greens",False,0,0,,,"",0,100,700
-263207.1,"Grade 8 Dark Matter",False,0,0,,,"",0,100,700
+263207.0,"Gysahl Greens",False,0,0,,,"",0,100,0
+263207.1,"Grade 8 Dark Matter",False,0,0,,,"",0,100,0
 263207.2,"Golden Stonefly Nymph",False,0,0,,,"",0,100,700
 263207.3,"Honeybee",False,0,0,,,"",0,100,700
-263208.0,"Gysahl Greens",False,0,0,,,"",0,100,700
-263208.1,"Grade 8 Dark Matter",False,0,0,,,"",0,100,700
+263208.0,"Gysahl Greens",False,0,0,,,"",0,100,0
+263208.1,"Grade 8 Dark Matter",False,0,0,,,"",0,100,0
 263208.2,"Golden Stonefly Nymph",False,0,0,,,"",0,100,700
 263208.3,"Crimson Lugworm",False,0,0,,,"",0,100,700
 263208.4,"Honeybee",False,0,0,,,"",0,100,700
-263209.0,"Gysahl Greens",False,0,0,,,"",0,100,700
-263209.1,"Grade 8 Dark Matter",False,0,0,,,"",0,100,700
+263209.0,"Gysahl Greens",False,0,0,,,"",0,100,0
+263209.1,"Grade 8 Dark Matter",False,0,0,,,"",0,100,0
 263209.2,"Golden Stonefly Nymph",False,0,0,,,"",0,100,700
 263209.3,"Crimson Lugworm",False,0,0,,,"",0,100,700
 263209.4,"Honeybee",False,0,0,,,"",0,100,700
 263209.5,"Xibruq Pibil",False,0,0,"The Feat of Repast",,"",0,200,700
-263210.0,"Gysahl Greens",False,0,0,,,"",0,100,700
-263210.1,"Grade 8 Dark Matter",False,0,0,,,"",0,100,700
+263210.0,"Gysahl Greens",False,0,0,,,"",0,100,0
+263210.1,"Grade 8 Dark Matter",False,0,0,,,"",0,100,0
 263210.2,"Golden Stonefly Nymph",False,0,0,,,"",0,100,700
 263210.3,"Honeybee",False,0,0,,,"",0,100,700
 263210.4,"Cactuar Jig",False,0,0,,,"",0,100,700
-263211.0,"Gysahl Greens",False,0,0,,,"",0,100,700
-263211.1,"Grade 8 Dark Matter",False,0,0,,,"",0,100,700
+263211.0,"Gysahl Greens",False,0,0,,,"",0,100,0
+263211.1,"Grade 8 Dark Matter",False,0,0,,,"",0,100,0
 263211.2,"Golden Stonefly Nymph",False,0,0,,,"",0,100,700
 263211.3,"Honeybee",False,0,0,,,"",0,100,700
-263212.0,"Grade 8 Dark Matter",False,0,0,,,"",0,100,700
+263212.0,"Grade 8 Dark Matter",False,0,0,,,"",0,100,0
 263212.1,"Golden Stonefly Nymph",False,0,0,,,"",0,100,700
 263212.2,"Crimson Lugworm",False,0,0,,,"",0,100,700
 263212.3,"Honeybee",False,0,0,,,"",0,100,700
@@ -16260,34 +16260,34 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263213.9,"Weathered Painter's Halfgloves",False,0,0,"The Joy of Pictomancy",,"",0,100,700
 263213.10,"Weathered Painter's Slops",False,0,0,"The Joy of Pictomancy",,"",0,100,700
 263213.11,"Weathered Painter's Pattens",False,0,0,"The Joy of Pictomancy",,"",0,100,700
-263214.0,"Storm Tracer",False,0,0,,,"",0,100,700
-263214.1,"Flame Tracer",False,0,0,,,"",0,100,700
-263214.2,"Serpent Tracer",False,0,0,,,"",0,100,700
-263214.3,"Lominsan Sparkler",False,0,0,,,"",0,100,700
-263214.4,"Gridanian Sparkler",False,0,0,,,"",0,100,700
-263214.5,"Ul'dahn Sparkler",False,0,0,,,"",0,100,700
-263214.6,"Bombard Bloom",False,0,0,,,"",0,100,700
-263214.7,"Pinwheel",False,0,0,,,"",0,100,700
-263214.8,"Bouncing Bomb Balloon",False,0,0,,,"",0,100,700
-263215.0,"Nymeia Potpourri",False,0,0,,,"",0,100,700
-263215.1,"Magicked Prism (Flowers)",False,0,0,,,"",0,100,700
-263215.2,"Meteor Shower",False,0,0,,,"",0,100,700
-263215.3,"Heavenscracker",False,0,0,,,"",0,100,700
-263215.4,"Realm Reborn Red",False,0,0,,,"",0,100,700
-263215.5,"Magicked Prism (Meteor Survivor)",False,0,0,,,"",0,100,700
-263215.6,"Rising Table Lamp",False,0,0,,,"",0,100,700
-263216.0,"Zoni",False,0,0,,,"",0,100,700
-263216.1,"Magicked Prism (Advent Cakes)",False,0,0,,,"",0,100,700
-263216.2,"",False,0,0,,,"",0,100,700
-263217.0,"Zoni",False,0,0,,,"",0,100,700
-263217.1,"",False,0,0,,,"",0,100,700
-263217.2,"",False,0,0,,,"",0,100,700
-263217.3,"",False,0,0,,,"",0,100,700
-263217.4,"Magicked Prism (Advent Cakes)",False,0,0,,,"",0,100,700
-263217.5,"",False,0,0,,,"",0,100,700
-263218.0,"Zoni",False,0,0,,,"",0,100,700
-263218.1,"Magicked Prism (Advent Cakes)",False,0,0,,,"",0,100,700
-263218.2,"",False,0,0,,,"",0,100,700
-263219.0,"Magicked Prism (Pumpkin)",False,0,0,,,"",0,100,700
-263219.1,"Flying Pumpkin",False,0,0,,,"",0,100,700
+263214.0,"Storm Tracer",False,0,0,,,"",0,100,0
+263214.1,"Flame Tracer",False,0,0,,,"",0,100,0
+263214.2,"Serpent Tracer",False,0,0,,,"",0,100,0
+263214.3,"Lominsan Sparkler",False,0,0,,,"",0,100,0
+263214.4,"Gridanian Sparkler",False,0,0,,,"",0,100,0
+263214.5,"Ul'dahn Sparkler",False,0,0,,,"",0,100,0
+263214.6,"Bombard Bloom",False,0,0,,,"",0,100,0
+263214.7,"Pinwheel",False,0,0,,,"",0,100,0
+263214.8,"Bouncing Bomb Balloon",False,0,0,,,"",0,100,9999
+263215.0,"Nymeia Potpourri",False,0,0,,,"",0,100,0
+263215.1,"Magicked Prism (Flowers)",False,0,0,,,"",0,100,0
+263215.2,"Meteor Shower",False,0,0,,,"",0,100,0
+263215.3,"Heavenscracker",False,0,0,,,"",0,100,0
+263215.4,"Realm Reborn Red",False,0,0,,,"",0,100,0
+263215.5,"Magicked Prism (Meteor Survivor)",False,0,0,,,"",0,100,0
+263215.6,"Rising Table Lamp",False,0,0,,,"",0,100,9999
+263216.0,"Zoni",False,0,0,,,"",0,100,0
+263216.1,"Magicked Prism (Advent Cakes)",False,0,0,,,"",0,100,0
+263216.2,"",False,0,0,,,"",0,100,9999
+263217.0,"Zoni",False,0,0,,,"",0,100,0
+263217.1,"",False,0,0,,,"",0,100,0
+263217.2,"",False,0,0,,,"",0,100,0
+263217.3,"",False,0,0,,,"",0,100,0
+263217.4,"Magicked Prism (Advent Cakes)",False,0,0,,,"",0,100,0
+263217.5,"",False,0,0,,,"",0,100,9999
+263218.0,"Zoni",False,0,0,,,"",0,100,0
+263218.1,"Magicked Prism (Advent Cakes)",False,0,0,,,"",0,100,0
+263218.2,"",False,0,0,,,"",0,100,9999
+263219.0,"Magicked Prism (Pumpkin)",False,0,0,,,"",0,100,0
+263219.1,"Flying Pumpkin",False,0,0,,,"",0,100,9999
 263220.0,"Air-wheeler A9 Identification Key",False,0,0,,,"",0,10,700

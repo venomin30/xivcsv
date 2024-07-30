@@ -45,13 +45,13 @@ int32,byte,Row,bit&01,uint16,WeeklyBingoRewardData,byte,Row,bool,uint16,WeeklyBi
 41,1,"MGP Platinum Card",False,2,"WeeklyBingoRewardData#0",1,"Khloe's Silver Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Poetics",False,1000
 42,1,"MGP Platinum Card",False,2,"WeeklyBingoRewardData#0",1,"Khloe's Silver Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Poetics",False,1000
 43,1,"MGP Platinum Card",False,2,"WeeklyBingoRewardData#0",1,"Khloe's Silver Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Poetics",False,1000
-44,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,50
-45,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,300
-46,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,300
-47,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,300
-48,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,300
-49,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,300
-50,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,300
+44,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,50
+45,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,300
+46,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,300
+47,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,300
+48,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,300
+49,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,300
+50,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,300
 51,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Poetics",False,700
 52,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Poetics",False,700
 53,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Poetics",False,700
@@ -149,29 +149,29 @@ int32,byte,Row,bit&01,uint16,WeeklyBingoRewardData,byte,Row,bool,uint16,WeeklyBi
 145,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Poetics",False,700
 146,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Aesthetics",False,200
 147,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Aesthetics",False,200
-148,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Aesthetics",False,200
-149,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,50
-150,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,50
-151,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,50
-152,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,50
-153,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,50
-154,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,50
-155,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,50
-156,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,50
-157,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,50
-158,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,50
-159,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,50
-160,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,50
-161,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,50
-162,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,50
-163,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,50
-164,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,50
-165,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,50
-166,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,50
-167,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,50
-168,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,50
-169,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,50
-170,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Ice Shard",False,50
+148,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,50
+149,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,50
+150,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,50
+151,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,50
+152,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,50
+153,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,50
+154,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,50
+155,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,50
+156,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,50
+157,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,50
+158,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,50
+159,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,50
+160,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,50
+161,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,50
+162,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,50
+163,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,50
+164,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,50
+165,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,50
+166,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,50
+167,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,50
+168,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,50
+169,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,50
+170,1,"MGP Gold Card",False,1,"WeeklyBingoRewardData#0",1,"Khloe's Bronze Certificate of Commendation",False,1,"WeeklyBingoRewardData#2","Allagan Tomestone of Heliometry",False,50
 171,0,,False,0,"WeeklyBingoRewardData#0",0,,False,0,"WeeklyBingoRewardData#0","",False,0
 172,0,,False,0,"WeeklyBingoRewardData#0",0,,False,0,"WeeklyBingoRewardData#0","",False,0
 173,0,,False,0,"WeeklyBingoRewardData#0",0,,False,0,"WeeklyBingoRewardData#0","",False,0

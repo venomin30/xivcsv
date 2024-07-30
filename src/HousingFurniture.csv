@@ -1391,6 +1391,9 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198048,1310,14,0,0,0,0,,"Cluster Lamp",False,False,0,0,0,True,False
 198049,1311,15,0,0,0,0,,"Lapis Manalis Banner",False,False,0,0,0,True,False
 198050,1312,16,0,0,0,0,,"Alzadaal's Treasure Rug",False,False,0,0,0,True,False
+198051,1313,12,0,0,0,0,,"Hyperboreia Bench",False,False,0,0,0,True,False
+198052,1314,13,0,0,0,0,,"Aitiascope Desk",False,False,0,0,0,True,False
+198053,1315,14,0,0,0,0,,"Aitiascope Lamp",False,False,0,0,0,True,False
 198054,1316,12,0,0,0,0,,"Throne of the Foremost",False,False,0,0,0,True,False
 198055,1317,15,0,0,0,0,,"Wood Slice Loft",False,False,0,0,0,True,False
 198056,1318,15,0,0,0,0,,"Faerie Pendant Wall Light",False,False,0,0,0,True,False
@@ -1401,6 +1404,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198061,1323,12,0,0,0,0,,"Royal Leather Sofa",False,False,0,0,0,True,False
 198062,1324,12,0,0,0,0,,"Wall Cabinet",False,False,0,0,0,True,False
 198063,1325,16,0,0,0,0,,"Field of Hope Rug",False,False,0,0,0,True,False
+198064,1326,14,0,0,0,0,,"Sake Barrel",False,False,0,0,0,True,False
 198065,1327,15,0,0,0,0,,"Colossal Chronometer Window",False,False,0,0,0,True,False
 198066,1328,14,0,0,100,0,,"Abyssal Wings Display",False,False,0,0,0,True,False
 198067,1333,15,0,0,0,0,,"The Builder",False,False,5,0,0,True,False
@@ -1450,7 +1454,13 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198111,1368,14,0,0,0,0,,"Stuffed Flag",False,False,0,0,0,True,False
 198112,1369,14,0,0,0,0,,"Fluffy-wuffy Stuffed Drippy",False,False,0,0,0,True,False
 198113,1370,14,0,0,0,0,,"Stuffed Punutiy",False,False,0,0,0,True,False
+198114,1371,15,0,0,0,0,,"Decorative Hingan Door",False,False,0,0,0,True,False
 198115,1372,15,0,0,0,0,,"Sunset Phasmascape",False,False,0,0,0,True,False
+198116,1373,12,0,0,0,0,,"Goblet Phasmascape",False,False,0,0,0,True,False
+198117,1374,12,0,0,0,0,,"Lavender Beds Phasmascape",False,False,0,0,0,True,False
+198118,1375,12,0,0,0,0,,"Mist Phasmascape",False,False,0,0,0,True,False
+198119,1376,12,0,0,0,0,,"Shirogane Phasmascape",False,False,0,0,0,True,False
+198120,1377,12,0,0,0,0,,"Empyreum Phasmascape",False,False,0,0,0,True,False
 198121,1378,13,0,0,0,0,,"Twintop Table",False,False,0,0,0,True,False
 198122,1379,14,7,86,0,0,"CmnDefHousingDish_00213","Mug of Cocoa",True,False,9,4,11,True,False
 198123,1380,12,0,0,0,0,,"Kitchen Cabinet",False,False,0,0,0,True,False
@@ -1465,6 +1475,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198132,1387,12,0,0,0,0,,"Heritage Found Crates",False,False,0,0,0,True,False
 198133,1388,15,0,0,0,0,,"Horizontal Neon Wall Light",False,False,0,0,0,True,False
 198134,1389,15,0,0,0,0,,"Vertical Neon Wall Light",False,False,0,0,0,True,False
+198135,1390,12,0,0,0,0,,"Pile of Gold",False,False,0,0,0,True,False
 198136,1391,14,0,0,0,0,,"Rising Table Lamp",False,False,5,0,0,True,False
 198137,1392,14,0,0,0,0,,"Flying Pumpkin",False,False,5,0,0,True,False
 198139,1288,15,0,0,0,0,,"Authentic Rising Advertisement",False,False,3,0,0,True,False

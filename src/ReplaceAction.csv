@@ -66,7 +66,7 @@ int32,Action,sbyte,Row,Action,sbyte,Row,Action,sbyte,Row,Action,sbyte,bit&01
 6.5,"Medica II",3,"Medica Mastery","Medica III",0,,"",0,,"",-1,False
 6.6,"Temperance",2,"Divine Grace","Divine Caress",0,,"",0,,"",-1,False
 7.0,"Fire",8,,"Paradox",0,,"",0,,"",-1,False
-7.1,"",0,,"",0,,"",0,,"",-1,False
+7.1,"Blizzard",8,,"Paradox",0,,"",0,,"",-1,False
 7.2,"Fire II",3,"Aspect Mastery IV","High Fire II",0,,"",0,,"",-1,False
 7.3,"Blizzard II",3,"Aspect Mastery IV","High Blizzard II",0,,"",0,,"",-1,False
 7.4,"Thunder",3,"Thunder Mastery","Thunder III",3,"Thunder Mastery III","High Thunder",0,,"",-1,False
@@ -207,9 +207,9 @@ int32,Action,sbyte,Row,Action,sbyte,Row,Action,sbyte,Row,Action,sbyte,bit&01
 19.7,"",0,,"",0,,"",0,,"",-1,False
 19.8,"",0,,"",0,,"",0,,"",-1,False
 20.0,"Steel Fangs",1,,"",0,,"",0,,"",-1,False
-20.1,"Dread Fangs",1,,"",0,,"",0,,"",-1,False
+20.1,"Reaving Fangs",1,,"",0,,"",0,,"",-1,False
 20.2,"Steel Maw",1,,"Hunter's Bite",0,,"Jagged Maw",0,,"First Generation",-1,False
-20.3,"Dread Maw",1,,"Swiftskin's Bite",0,,"Bloodied Maw",0,,"Second Generation",-1,False
+20.3,"Reaving Maw",1,,"Swiftskin's Bite",0,,"Bloodied Maw",0,,"Second Generation",-1,False
 20.4,"Hunter's Coil",1,,"Third Generation",0,,"",0,,"",-1,False
 20.5,"Swiftskin's Coil",1,,"Fourth Generation",0,,"",0,,"",-1,False
 20.6,"Hunter's Den",1,,"Third Generation",0,,"",0,,"",-1,False

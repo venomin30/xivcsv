@@ -1108,13 +1108,13 @@ int32,FurnitureCatalogCategory,Item,uint16
 1104,"Stuffed Toys/Figures","Stuffed Flag",700
 1105,"Stuffed Toys/Figures","Fluffy-wuffy Stuffed Drippy",700
 1106,"Stuffed Toys/Figures","Stuffed Punutiy",700
-1107,"Tables","",0
+1107,"Windows","Decorative Hingan Door",700
 1108,"Miscellaneous","Sunset Phasmascape",700
-1109,"Tables","",0
-1110,"Tables","",0
-1111,"Tables","",0
-1112,"Tables","",0
-1113,"Tables","",0
+1109,"Miscellaneous","Goblet Phasmascape",700
+1110,"Miscellaneous","Lavender Beds Phasmascape",700
+1111,"Miscellaneous","Mist Phasmascape",700
+1112,"Miscellaneous","Shirogane Phasmascape",700
+1113,"Miscellaneous","Empyreum Phasmascape",700
 1114,"Tables","Twintop Table",700
 1115,"Tableware/Foods","Mug of Cocoa",700
 1116,"Shelves/Chests","Kitchen Cabinet",700
@@ -1122,12 +1122,12 @@ int32,FurnitureCatalogCategory,Item,uint16
 1118,"Tableware/Foods","Starlight Dodo",410
 1119,"Tableware/Foods","Starlight Cake",410
 1120,"Chairs/Sofas","Tomestool",700
-1121,"Tables","",0
-1122,"Tables","",0
-1123,"Tables","",0
+1121,"Chairs/Sofas","Hyperboreia Bench",700
+1122,"Tables","Aitiascope Desk",700
+1123,"Lighting","Aitiascope Lamp",700
 1124,"Chairs/Sofas","Royal Leather Sofa",700
 1125,"Shelves/Chests","Wall Cabinet",700
-1126,"Tables","",0
+1126,"Miscellaneous","Sake Barrel",700
 1127,"Lighting","Bluecap Mushroom Lamp",700
 1128,"Stuffed Toys/Figures","Skyruin Trophy",700
 1129,"Walls/Pillars/Partitions","Stone Partition",700
@@ -1140,4 +1140,4 @@ int32,FurnitureCatalogCategory,Item,uint16
 1136,"Miscellaneous","Heritage Found Crates",700
 1137,"Lighting","Horizontal Neon Wall Light",700
 1138,"Lighting","Vertical Neon Wall Light",700
-1139,"Tables","",0
+1139,"Miscellaneous","Pile of Gold",700

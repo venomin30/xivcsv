@@ -510,7 +510,7 @@ int32,str,Image,ClassJob,byte,byte,Quest,int16,ClassJobCategory,byte
 506,"Melee Mastery","ui/icon/006000/006801.tex","dark knight",98,84,,0,"DRK",0
 507,"Melee Mastery","ui/icon/006000/006801.tex","gunbreaker",149,84,,0,"GNB",0
 508,"Lance Mastery III","ui/icon/005000/005292.tex","dragoon",23,90,,0,"DRG",0
-509,"Enhanced Enochian III","ui/icon/005000/005374.tex","black mage",26,86,,18,"BLM",0
+509,"Enhanced Enochian III","ui/icon/005000/005374.tex","black mage",26,86,,20,"BLM",0
 510,"Physis Mastery","ui/icon/006000/006459.tex","sage",181,60,,0,"SGE",0
 511,"Enhanced Living Shadow","ui/icon/006000/006065.tex","dark knight",98,88,,0,"DRK",0
 512,"Flint Strike Mastery","ui/icon/005000/005248.tex","monk",21,86,,0,"MNK",0
@@ -660,7 +660,7 @@ int32,str,Image,ClassJob,byte,byte,Quest,int16,ClassJobCategory,byte
 656,"Tactician's Mastery","ui/icon/006000/006831.tex","scholar",29,94,,0,"SCH",0
 657,"Melee Mastery III","ui/icon/006000/006803.tex","reaper",180,94,,0,"RPR",0
 658,"Marksman's Mastery II","ui/icon/006000/006802.tex","machinist",96,94,,0,"MCH",0
-659,"Enhanced Enochian IV","ui/icon/005000/005655.tex","black mage",26,96,,25,"BLM",0
+659,"Enhanced Enochian IV","ui/icon/005000/005655.tex","black mage",26,96,,28,"BLM",0
 660,"Melee Mastery II","ui/icon/006000/006802.tex","monk",21,94,,0,"MNK",0
 661,"Melee Mastery III","ui/icon/006000/006803.tex","ninja",92,94,,0,"NIN",0
 662,"Dynamic Dancer","ui/icon/006000/006806.tex","dancer",150,94,,0,"DNC",0

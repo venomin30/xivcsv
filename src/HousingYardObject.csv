@@ -295,6 +295,7 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131373,281,17,0,0,0,,"Dorpokkur Kiln",False,False,True,0,0,0,False,True
 131374,282,17,0,0,0,,"Stone Garden Wall",False,False,True,0,0,0,False,True
 131375,283,17,0,0,0,,"Colorful Flower Patch",False,False,True,0,0,0,False,True
+131376,284,17,0,0,0,,"Il Mheg Arbor",False,False,True,0,0,0,False,True
 131377,285,17,0,0,0,,"Island Garden Fence",False,False,True,0,0,0,False,True
 131378,286,17,0,0,0,,"Island Parasol Table",False,False,True,0,0,0,False,True
 131379,287,17,0,0,0,,"Island Wooden Chair",False,False,True,0,0,0,False,True
@@ -313,6 +314,7 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131392,263,17,0,0,0,,"Authentic Summer Bonfire",False,False,True,3,0,0,False,True
 131396,303,17,0,0,0,,"Mobile Garden Stairs",False,False,True,0,0,0,False,True
 131397,304,17,0,0,0,,"Flower-wreathed Gazebo",False,False,True,0,0,0,False,True
+131398,305,17,0,0,0,,"Alzadaal's Garden Lamp",False,False,True,0,0,0,False,True
 131399,306,17,0,0,0,,"Elpis Garden Fountain",False,False,True,5,0,0,False,True
 131400,307,17,0,0,47,,"Wildflower Bed",False,False,True,0,0,0,False,True
 131402,309,17,0,0,0,"CmnDefHousingObject_00141","Imitation Magitek Repair Station (Wall Unit)",False,False,True,0,0,0,False,True
