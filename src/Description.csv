@@ -25,3 +25,6 @@ int32,byte,Quest,str,str,str,bit&01,DescriptionSection
 3604501,2,,"Deep Dungeons","Deep Dungeons","",True,"Heaven–on–High"
 3604502,2,,"Deep Dungeons","Deep Dungeons","",True,"Eureka Orthos"
 3604503,0,,"Small Talk","Blunderville","",True,"Blunderville"
+3604504,0,,"Hall of the Novice","Combat Guide","",True,"Basics of Combat"
+3604505,0,,"","","",False,""
+3604506,0,,"","","",False,""

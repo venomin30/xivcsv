@@ -1,895 +1,934 @@
-﻿key,0,1,2
-#,Item,Order,Category
-int32,Item,uint16,CabinetCategory
-0,"Gallant Coronet",1001,"Artifact Armor"
-1,"Gallant Surcoat",1002,"Artifact Armor"
-2,"Gallant Cuisses",1004,"Artifact Armor"
-3,"Gallant Gauntlets",1003,"Artifact Armor"
-4,"Gallant Sollerets",1005,"Artifact Armor"
-5,"Temple Circlet",1006,"Artifact Armor"
-6,"Temple Cyclas",1007,"Artifact Armor"
-7,"Temple Gaskins",1009,"Artifact Armor"
-8,"Temple Gloves",1008,"Artifact Armor"
-9,"Temple Boots",1010,"Artifact Armor"
-10,"Fighter's Burgeonet",1011,"Artifact Armor"
-11,"Fighter's Cuirass",1012,"Artifact Armor"
-12,"Fighter's Breeches",1014,"Artifact Armor"
-13,"Fighter's Gauntlets",1013,"Artifact Armor"
-14,"Fighter's Jackboots",1015,"Artifact Armor"
-15,"Drachen Armet",1016,"Artifact Armor"
-16,"Drachen Mail",1017,"Artifact Armor"
-17,"Drachen Breeches",1019,"Artifact Armor"
-18,"Drachen Gauntlets",1018,"Artifact Armor"
-19,"Drachen Greaves",1020,"Artifact Armor"
-20,"Choral Chapeau",1021,"Artifact Armor"
-21,"Choral Shirt",1022,"Artifact Armor"
-22,"Choral Tights",1024,"Artifact Armor"
-23,"Choral Ringbands",1023,"Artifact Armor"
-24,"Choral Sandals",1025,"Artifact Armor"
-25,"Healer's Circlet",1031,"Artifact Armor"
-26,"Healer's Robe",1032,"Artifact Armor"
-27,"Healer's Culottes",1034,"Artifact Armor"
-28,"Healer's Gloves",1033,"Artifact Armor"
-29,"Healer's Boots",1035,"Artifact Armor"
-30,"Wizard's Petasos",1036,"Artifact Armor"
-31,"Wizard's Coat",1037,"Artifact Armor"
-32,"Wizard's Tonban",1039,"Artifact Armor"
-33,"Wizard's Gloves",1038,"Artifact Armor"
-34,"Wizard's Crakows",1040,"Artifact Armor"
-35,"Dragon Kabuto",2001,"Seasonal Gear 4"
-36,"Crimson Dragon Kabuto",2002,"Seasonal Gear 4"
-37,"Golden Dragon Kabuto",2003,"Seasonal Gear 4"
-38,"Black Dragon Kabuto",2004,"Seasonal Gear 4"
-39,"Paramour's Pendant",2078,"Seasonal Gear 4"
-40,"Platinum Paramour's Pendant",2079,"Seasonal Gear 4"
-41,"Band of Eternal Passion",2080,"Seasonal Gear 4"
-42,"Peach Blossoms",2037,"Seasonal Gear 1"
-43,"Pristine Egg Cap",3000,"Seasonal Gear 1"
-44,"Vibrant Egg Cap",3001,"Seasonal Gear 1"
-45,"Brilliant Egg Cap",3002,"Seasonal Gear 1"
-46,"Midnight Egg Cap",3003,"Seasonal Gear 1"
-47,"Chocobo Egg Cap",3004,"Seasonal Gear 1"
-48,"Pristine Egg Ring",3005,"Seasonal Gear 1"
-49,"Vibrant Egg Ring",3006,"Seasonal Gear 1"
-50,"Brilliant Egg Ring",3007,"Seasonal Gear 1"
-51,"Midnight Egg Ring",3008,"Seasonal Gear 1"
-52,"Chocobo Egg Ring",3009,"Seasonal Gear 1"
-53,"Red Summer Top",2063,"Seasonal Gear 2"
-54,"Green Summer Top",2064,"Seasonal Gear 2"
-55,"Blue Summer Top",2065,"Seasonal Gear 2"
-56,"Solar Summer Top",2066,"Seasonal Gear 2"
-57,"Lunar Summer Top",2067,"Seasonal Gear 2"
-58,"Red Summer Halter",2072,"Seasonal Gear 2"
-59,"Green Summer Halter",2073,"Seasonal Gear 2"
-60,"Blue Summer Halter",2074,"Seasonal Gear 2"
-61,"Solar Summer Halter",2075,"Seasonal Gear 2"
-62,"Lunar Summer Halter",2076,"Seasonal Gear 2"
-63,"Red Summer Trunks",2081,"Seasonal Gear 2"
-64,"Green Summer Trunks",2082,"Seasonal Gear 2"
-65,"Blue Summer Trunks",2083,"Seasonal Gear 2"
-66,"Solar Summer Trunks",2084,"Seasonal Gear 2"
-67,"Lunar Summer Trunks",2085,"Seasonal Gear 2"
-68,"Red Summer Tanga",2089,"Seasonal Gear 2"
-69,"Green Summer Tanga",2090,"Seasonal Gear 2"
-70,"Blue Summer Tanga",2091,"Seasonal Gear 2"
-71,"Solar Summer Tanga",2092,"Seasonal Gear 2"
-72,"Lunar Summer Tanga",2093,"Seasonal Gear 2"
-73,"Pumpkin Head",2123,"Seasonal Gear 3"
-74,"Unripened Pumpkin Head",2124,"Seasonal Gear 3"
-75,"White Pumpkin Head",2125,"Seasonal Gear 3"
-76,"Ripened Pumpkin Head",2126,"Seasonal Gear 3"
-77,"Reindeer Antlers",2139,"Seasonal Gear 4"
-78,"Reindeer Suit",2140,"Seasonal Gear 4"
-79,"Moonlet",2138,"Seasonal Gear 4"
-80,"Patriot's Choker",4019,"Exclusive Extras"
-81,"Lord's Yukata (Blue)",2097,"Seasonal Gear 2"
-82,"Lord's Yukata (Green)",2098,"Seasonal Gear 2"
-83,"Lord's Yukata (Grey)",2099,"Seasonal Gear 2"
-84,"Lady's Yukata (Red)",2100,"Seasonal Gear 2"
-85,"Lady's Yukata (Blue)",2101,"Seasonal Gear 2"
-86,"Lady's Yukata (Black)",2102,"Seasonal Gear 2"
-87,"Lord's Drawers (Black)",2103,"Seasonal Gear 2"
-88,"Lord's Drawers (White)",2104,"Seasonal Gear 2"
-89,"Lord's Drawers (Gold)",2105,"Seasonal Gear 2"
-90,"Lady's Knickers (Black)",2106,"Seasonal Gear 2"
-91,"Lady's Knickers (White)",2107,"Seasonal Gear 2"
-92,"Lady's Knickers (Gold)",2108,"Seasonal Gear 2"
-93,"Lord's Clogs",2115,"Seasonal Gear 2"
-94,"Lady's Clogs",2116,"Seasonal Gear 2"
-95,"Woolen Sugarloaf Hat (Red)",4020,"Exclusive Extras"
-96,"Star-spangled Subligar",4021,"Exclusive Extras"
-97,"Peregrine Helm",4022,"Exclusive Extras"
-98,"Scarf of Wondrous Wit",4023,"Exclusive Extras"
-99,"White Ravens",4024,"Exclusive Extras"
-100,"Butcher's Crown",3001,"Achievements"
-101,"Chronicler's Crown",3002,"Achievements"
-102,"Paragon's Crown",3003,"Achievements"
-103,"Gambler's Crown",3005,"Achievements"
-104,"Saw of the Luminary",3009,"Achievements"
-105,"Hammer of the Luminary",3010,"Achievements"
-106,"Mallet of the Luminary",3011,"Achievements"
-107,"Gavel of the Luminary",3012,"Achievements"
-108,"Knife of the Luminary",3013,"Achievements"
-109,"Needle of the Luminary",3014,"Achievements"
-110,"Alembic of the Luminary",3015,"Achievements"
-111,"Pan of the Luminary",3016,"Achievements"
-112,"Pick of the Luminary",3017,"Achievements"
-113,"Axe of the Luminary",3018,"Achievements"
-114,"Rod of the Luminary",3019,"Achievements"
-115,"Maelstrom Escutcheon",3041,"Achievements"
-116,"Immortal Flames Escutcheon",3043,"Achievements"
-117,"Twin Adder Escutcheon",3042,"Achievements"
-118,"Crimson Standard Earrings",3044,"Achievements"
-119,"Tipping Scales Earrings",3046,"Achievements"
-120,"Lily and Serpent Earrings",3045,"Achievements"
-121,"Crimson Standard Ring",3047,"Achievements"
-122,"Tipping Scales Ring",3049,"Achievements"
-123,"Lily and Serpent Ring",3048,"Achievements"
-124,"Chocobo Mask",3054,"Achievements"
-125,"Dalamud Horn",3053,"Achievements"
-126,"Evoker's Horn",1041,"Artifact Armor"
-127,"Evoker's Doublet",1042,"Artifact Armor"
-128,"Evoker's Waistclout",1044,"Artifact Armor"
-129,"Evoker's Ringbands",1043,"Artifact Armor"
-130,"Evoker's Thighboots",1045,"Artifact Armor"
-131,"Scholar's Mortarboard",1046,"Artifact Armor"
-132,"Scholar's Gown",1047,"Artifact Armor"
-133,"Scholar's Culottes",1049,"Artifact Armor"
-134,"Scholar's Gloves",1048,"Artifact Armor"
-135,"Scholar's Boots",1050,"Artifact Armor"
-136,"Moogle Cap",4005,"Exclusive Extras"
-137,"Helm of Light",11027,"Exclusive Extras"
-138,"Moogle Earrings",4006,"Exclusive Extras"
-139,"Cactuar Earring",4007,"Exclusive Extras"
-140,"Bomb Earrings",4008,"Exclusive Extras"
-141,"Black Summer Top",4015,"Exclusive Extras"
-142,"Black Summer Trunks",4016,"Exclusive Extras"
-143,"Black Summer Halter",4017,"Exclusive Extras"
-144,"Black Summer Tanga",4018,"Exclusive Extras"
-145,"Ninja Hatsuburi",1026,"Artifact Armor"
-146,"Ninja Chainmail",1027,"Artifact Armor"
-147,"Ninja Hakama",1029,"Artifact Armor"
-148,"Ninja Tekko",1028,"Artifact Armor"
-149,"Ninja Kyahan",1030,"Artifact Armor"
-150,"Garlond Goggles",4001,"Exclusive Extras"
-151,"Onion Helm",4002,"Exclusive Extras"
-152,"Asuran Armguards",4003,"Exclusive Extras"
-153,"Hermes' Shoes",4004,"Exclusive Extras"
-154,"Silver Snake Kabuto",2005,"Seasonal Gear 4"
-155,"Uma Kabuto",2006,"Seasonal Gear 4"
-156,"Crimson Uma Kabuto",2007,"Seasonal Gear 4"
-157,"Golden Uma Kabuto",2008,"Seasonal Gear 4"
-158,"Black Uma Kabuto",2009,"Seasonal Gear 4"
-159,"Summer Evening Top",2068,"Seasonal Gear 2"
-160,"Striped Summer Top",2069,"Seasonal Gear 2"
-161,"Summer Morning Halter",2077,"Seasonal Gear 2"
-162,"Striped Summer Halter",2078,"Seasonal Gear 2"
-163,"Summer Evening Trunks",2086,"Seasonal Gear 2"
-164,"Striped Summer Trunks",2087,"Seasonal Gear 2"
-165,"Summer Morning Tanga",2094,"Seasonal Gear 2"
-166,"Striped Summer Tanga",2095,"Seasonal Gear 2"
-167,"The Howling Spirit",2127,"Seasonal Gear 3"
-168,"The Wailing Spirit",2128,"Seasonal Gear 3"
-169,"Paragon's Gown",3004,"Achievements"
-170,"Warlord's Crown",3006,"Achievements"
-171,"Partisan's Crown",3007,"Achievements"
-172,"Master Gladiator's Ring",3021,"Achievements"
-173,"Master Pugilist's Ring",3022,"Achievements"
-174,"Master Marauder's Ring",3023,"Achievements"
-175,"Master Lancer's Ring",3024,"Achievements"
-176,"Master Archer's Ring",3025,"Achievements"
-177,"Master Conjurer's Ring",3027,"Achievements"
-178,"Master Thaumaturge's Ring",3028,"Achievements"
-179,"Master Arcanist's Ring",3029,"Achievements"
-180,"Master Carpenter's Ring",3030,"Achievements"
-181,"Master Blacksmith's Ring",3031,"Achievements"
-182,"Master Armorer's Ring",3032,"Achievements"
-183,"Master Goldsmith's Ring",3033,"Achievements"
-184,"Master Leatherworker's Ring",3034,"Achievements"
-185,"Master Weaver's Ring",3035,"Achievements"
-186,"Master Alchemist's Ring",3036,"Achievements"
-187,"Master Culinarian's Ring",3037,"Achievements"
-188,"Master Miner's Ring",3038,"Achievements"
-189,"Master Botanist's Ring",3039,"Achievements"
-190,"Master Fisher's Ring",3040,"Achievements"
-191,"Crimson Standard Bracelet",3050,"Achievements"
-192,"Lily and Serpent Bracelet",3051,"Achievements"
-193,"Tipping Scales Bracelet",3052,"Achievements"
-194,"Chocobo Suit",3055,"Achievements"
-195,"Ullikummi",1051,"Artifact Armor"
-196,"Vulcan",1052,"Artifact Armor"
-197,"Kurdalegon",1053,"Artifact Armor"
-198,"Urcaguary",1054,"Artifact Armor"
-199,"Pinga",1055,"Artifact Armor"
-200,"Clotho",1056,"Artifact Armor"
-201,"Paracelsus",1057,"Artifact Armor"
-202,"Chantico",1058,"Artifact Armor"
-203,"Mammon",1059,"Artifact Armor"
-204,"Rauni",1060,"Artifact Armor"
-205,"Halcyon Rod",1061,"Artifact Armor"
-206,"Blazefire Saber",23053,"Seasonal Gear 5"
-207,"Vega Knuckles",23054,"Seasonal Gear 5"
-208,"l'Cie Bardiche",23055,"Seasonal Gear 5"
-209,"Bladed Lance",23056,"Seasonal Gear 5"
-210,"Starseeker",23057,"Seasonal Gear 5"
-211,"Binding Rod",23058,"Seasonal Gear 5"
-212,"Mog's Staff",23059,"Seasonal Gear 5"
-213,"Grimoire Wing",23060,"Seasonal Gear 5"
-214,"Bohemian's Coat",23061,"Seasonal Gear 5"
-215,"Bohemian's Gloves",23062,"Seasonal Gear 5"
-216,"Bohemian's Trousers",23063,"Seasonal Gear 5"
-217,"Bohemian's Boots",23064,"Seasonal Gear 5"
-218,"Guardian Corps Coat",23065,"Seasonal Gear 5"
-219,"Guardian Corps Gauntlets",23066,"Seasonal Gear 5"
-220,"Guardian Corps Skirt",23067,"Seasonal Gear 5"
-221,"Guardian Corps Boots",23068,"Seasonal Gear 5"
-222,"Thug's Mug",4014,"Seasonal Gear 5"
-223,"Snowman Head",2144,"Seasonal Gear 4"
-224,"Snowman Suit",2145,"Seasonal Gear 4"
-225,"Snowman Mitts",2146,"Seasonal Gear 4"
-226,"Valentione Hat",2069,"Seasonal Gear 4"
-227,"Valentione Apron",2070,"Seasonal Gear 4"
-228,"Valentione Apron Dress",2071,"Seasonal Gear 4"
-229,"Valentione Mitts",2072,"Seasonal Gear 4"
-230,"Valentione Trousers",2073,"Seasonal Gear 4"
-231,"Valentione Skirt",2074,"Seasonal Gear 4"
-232,"Valentione Pattens",2075,"Seasonal Gear 4"
-233,"Lord's Yukata (Blackflame)",2109,"Seasonal Gear 2"
-234,"Lord's Yukata (Whiteflame)",2110,"Seasonal Gear 2"
-235,"Lord's Yukata (Blueflame)",2111,"Seasonal Gear 2"
-236,"Lady's Yukata (Redfly)",2112,"Seasonal Gear 2"
-237,"Lady's Yukata (Bluefly)",2113,"Seasonal Gear 2"
-238,"Lady's Yukata (Pinkfly)",2114,"Seasonal Gear 2"
-239,"Eerie Hat",2129,"Seasonal Gear 3"
-240,"Eerie Robe",2130,"Seasonal Gear 3"
-241,"Eerie Tights",2131,"Seasonal Gear 3"
-242,"Eerie Crakows",2132,"Seasonal Gear 3"
-243,"Pumpkin Earrings",2133,"Seasonal Gear 3"
-244,"The Best Gown Ever",3008,"Achievements"
-245,"Ironworks Fishing Rod",3020,"Achievements"
-246,"Master Rogue's Ring",3026,"Achievements"
-247,"Hitsuji Kabuto",2010,"Seasonal Gear 4"
-248,"Black Hitsuji Kabuto",2011,"Seasonal Gear 4"
-249,"Crimson Hitsuji Kabuto",2012,"Seasonal Gear 4"
-250,"White Hitsuji Kabuto",2013,"Seasonal Gear 4"
-251,"Starlight Sugarloaf Hat",2147,"Seasonal Gear 4"
-252,"Starlight Tunic",2148,"Seasonal Gear 4"
-253,"Starlight Tights",2149,"Seasonal Gear 4"
-254,"Starlight Boots",2150,"Seasonal Gear 4"
-255,"False Mustache",2151,"Seasonal Gear 4"
-256,"",0,"Exclusive Extras"
-257,"",0,"Exclusive Extras"
-258,"",0,"Exclusive Extras"
-259,"",0,"Exclusive Extras"
-260,"Southern Seas Vest",2117,"Seasonal Gear 2"
-261,"Southern Seas Swimsuit",2118,"Seasonal Gear 2"
-262,"Southern Seas Trunks",2119,"Seasonal Gear 2"
-263,"Southern Seas Tanga",2120,"Seasonal Gear 2"
-264,"Striped Southern Seas Vest",2121,"Seasonal Gear 2"
-265,"Striped Southern Seas Swimsuit",2122,"Seasonal Gear 2"
-266,"",0,"Exclusive Extras"
-267,"Baron Helm",14033,"Exclusive Extras"
-268,"Baron Circlet",14034,"Exclusive Extras"
-269,"Baron Earrings",14035,"Exclusive Extras"
-270,"Wild Rose Bandana",12028,"Exclusive Extras"
-271,"Wild Rose Cuirass",12029,"Exclusive Extras"
-272,"Wild Rose Armguards",12030,"Exclusive Extras"
-273,"Wild Rose Breeches",12031,"Exclusive Extras"
-274,"Wild Rose Boots",12032,"Exclusive Extras"
-275,"Field Commander's Helm",3057,"Achievements"
-276,"Field Commander's Coat",3058,"Achievements"
-277,"Field Commander's Gloves",3059,"Achievements"
-278,"Field Commander's Slops",3060,"Achievements"
-279,"Field Commander's Boots",3061,"Achievements"
-280,"Slime Earrings",4012,"Seasonal Gear 5"
-281,"Goblin Cap",4025,"Exclusive Extras"
-282,"Dodo Earring",4009,"Exclusive Extras"
-283,"King Slime Crown",4013,"Seasonal Gear 5"
-284,"Fat Chocobo Head",4026,"Exclusive Extras"
-285,"Strife Vest",17036,"Exclusive Extras"
-286,"Strife Gloves",17037,"Exclusive Extras"
-287,"Strife Bags",17038,"Exclusive Extras"
-288,"Strife Boots",17039,"Exclusive Extras"
-289,"Peach Blossom Choker",2038,"Seasonal Gear 1"
-290,"Egg Earrings",3010,"Seasonal Gear 1"
-291,"Midnight Egg Earrings",3011,"Seasonal Gear 1"
-292,"Brilliant Egg Earrings",3012,"Seasonal Gear 1"
-293,"Vibrant Egg Earrings",3013,"Seasonal Gear 1"
-294,"Racing Chocobo Mask",3056,"Achievements"
-295,"Witch's Hat",2134,"Seasonal Gear 3"
-296,"Witch's Coatee",2135,"Seasonal Gear 3"
-297,"Witch's Gloves",2136,"Seasonal Gear 3"
-298,"Witch's Thighboots",2137,"Seasonal Gear 3"
-299,"Amatsu Hachigane",21048,"Seasonal Gear 5"
-300,"Amatsu Togi",21049,"Seasonal Gear 5"
-301,"Amatsu Tekko",21050,"Seasonal Gear 5"
-302,"Amatsu Haidate",21051,"Seasonal Gear 5"
-303,"Amatsu Sune-ate",21052,"Seasonal Gear 5"
-304,"Reindeer Antler Headband",2141,"Seasonal Gear 4"
-305,"Reindeer Gloves",2142,"Seasonal Gear 4"
-306,"Reindeer Hooves",2143,"Seasonal Gear 4"
-307,"Saint's Beard",2153,"Seasonal Gear 4"
-308,"Saint's Cap",2152,"Seasonal Gear 4"
-309,"See No Helm",2014,"Seasonal Gear 4"
-310,"Speak No Helm",2015,"Seasonal Gear 4"
-311,"Hear No Helm",2016,"Seasonal Gear 4"
-312,"Black-feathered Flat Hat",2076,"Seasonal Gear 4"
-313,"Red-feathered Flat Hat",2077,"Seasonal Gear 4"
-314,"Platinum Paramour's Earrings",2081,"Seasonal Gear 4"
-315,"Paramour's Earrings",2082,"Seasonal Gear 4"
-316,"Lord's Suikan",2033,"Seasonal Gear 1"
-317,"Lady's Suikan",2034,"Seasonal Gear 1"
-318,"Little Lord's Clogs",2035,"Seasonal Gear 1"
-319,"Little Lady's Clogs",2036,"Seasonal Gear 1"
-320,"Goobbue Earring",4010,"Exclusive Extras"
-321,"Tantalus Vest",19044,"Exclusive Extras"
-322,"Tantalus Cuffs",19045,"Exclusive Extras"
-323,"Tantalus Breeches",19046,"Exclusive Extras"
-324,"Tantalus Boots",19047,"Exclusive Extras"
-325,"Expeditioner's Flyers",3062,"Achievements"
-326,"Whisker of the Brave Cat",4070,"Seasonal Gear 5"
-327,"Ears of the Moon Rabbit",4072,"Seasonal Gear 5"
-328,"Paw of the Crimson Cat",4073,"Seasonal Gear 5"
-329,"Spear of the Spark Serpent",4074,"Seasonal Gear 5"
-330,"Bow of the White Wisp",4075,"Seasonal Gear 5"
-331,"Twintails of the Flame Fox",4076,"Seasonal Gear 5"
-332,"Fang of the Fearless Cat",4077,"Seasonal Gear 5"
-333,"Musket of the Metal Cat",4078,"Seasonal Gear 5"
-334,"Cane of the Shrine Guardian",4079,"Seasonal Gear 5"
-335,"Staff of the Snow Maiden",4080,"Seasonal Gear 5"
-336,"Book of the Eerie Mutt",4081,"Seasonal Gear 5"
-337,"Codex of the Shrine Guardian",4082,"Seasonal Gear 5"
-338,"Globe of the Lucky Snake",4083,"Seasonal Gear 5"
-339,"Buckler of the Legendary Cat",4071,"Seasonal Gear 5"
-340,"Yo-kai Watch",4069,"Seasonal Gear 5"
-341,"Legacy Warrior Coronet",2123,"Seasonal Gear 2"
-342,"Legacy Warrior Mail",2124,"Seasonal Gear 2"
-343,"Legacy Warrior Armguards",2125,"Seasonal Gear 2"
-344,"Legacy Warrior Breeches",2126,"Seasonal Gear 2"
-345,"Legacy Warrior Sabatons",2127,"Seasonal Gear 2"
-346,"Hatchling Earring",4011,"Exclusive Extras"
-347,"Dragon Monocle",3063,"Achievements"
-348,"Starlight Robe",2154,"Seasonal Gear 4"
-349,"Vampire's Vest",2138,"Seasonal Gear 3"
-350,"Red Tori Kabuto",2017,"Seasonal Gear 4"
-351,"Black Tori Kabuto",2018,"Seasonal Gear 4"
-352,"Leonhart Jacket",18040,"Exclusive Extras"
-353,"Leonhart Gloves",18041,"Exclusive Extras"
-354,"Leonhart Bottoms",18042,"Exclusive Extras"
-355,"Leonhart Boots",18043,"Exclusive Extras"
-356,"Songbird Hat",2040,"Seasonal Gear 1"
-357,"Songbird Jacket",2042,"Seasonal Gear 1"
-358,"Songbird Gloves",2044,"Seasonal Gear 1"
-359,"Songbird Skirt",2046,"Seasonal Gear 1"
-360,"Songbird Boots",2048,"Seasonal Gear 1"
-361,"Royal Seneschal's Chapeau",2039,"Seasonal Gear 1"
-362,"Royal Seneschal's Coat",2041,"Seasonal Gear 1"
-363,"Royal Seneschal's Fingerless Gloves",2043,"Seasonal Gear 1"
-364,"Royal Seneschal's Breeches",2045,"Seasonal Gear 1"
-365,"Royal Seneschal's Boots",2047,"Seasonal Gear 1"
-366,"Chicken Knife",4048,"Exclusive Extras"
-367,"Ala Mhigan Earrings",4049,"Exclusive Extras"
-368,"Faire Joi",2128,"Seasonal Gear 2"
-369,"Faire Kohakama",2129,"Seasonal Gear 2"
-370,"Faire Zori",2130,"Seasonal Gear 2"
-371,"Werewolf Head",2139,"Seasonal Gear 3"
-372,"Werewolf Body",2140,"Seasonal Gear 3"
-373,"Werewolf Arms",2141,"Seasonal Gear 3"
-374,"Werewolf Bottoms",2142,"Seasonal Gear 3"
-375,"Werewolf Feet",2143,"Seasonal Gear 3"
-376,"Werewolf Legs",2144,"Seasonal Gear 3"
-377,"White Inu Kabuto",2019,"Seasonal Gear 4"
-378,"Black Inu Kabuto",2020,"Seasonal Gear 4"
-379,"Inoshishi Kabuto",2021,"Seasonal Gear 4"
-380,"Crimson Inoshishi Kabuto",2022,"Seasonal Gear 4"
-381,"Inferno Mask",4050,"Exclusive Extras"
-382,"Crag Mask",4051,"Exclusive Extras"
-383,"Housemaid's Brim",4057,"Exclusive Extras"
-384,"Housemaid's Apron Dress",4058,"Exclusive Extras"
-385,"Housemaid's Wristdresses",4059,"Exclusive Extras"
-386,"Housemaid's Bloomers",4060,"Exclusive Extras"
-387,"Housemaid's Pumps",4061,"Exclusive Extras"
-388,"Butler's Monocle",4052,"Exclusive Extras"
-389,"Butler's Jacket",4053,"Exclusive Extras"
-390,"Butler's Gloves",4054,"Exclusive Extras"
-391,"Butler's Slacks",4055,"Exclusive Extras"
-392,"Butler's Gaiters",4056,"Exclusive Extras"
-393,"Eastern Journey Battle Staff",4062,"Exclusive Extras"
-394,"Eastern Journey Circlet",4063,"Exclusive Extras"
-395,"Eastern Journey Jacket",4064,"Exclusive Extras"
-396,"Eastern Journey Armlets",4065,"Exclusive Extras"
-397,"Eastern Journey Bottoms",4066,"Exclusive Extras"
-398,"Eastern Journey Shoes",4067,"Exclusive Extras"
-399,"Cait Sith Ears",4068,"Exclusive Extras"
-400,"Moogle Head",4069,"Exclusive Extras"
-401,"Moogle Body",4070,"Exclusive Extras"
-402,"Moogle Arms",4071,"Exclusive Extras"
-403,"Moogle Buns",4072,"Exclusive Extras"
-404,"Moogle Legs",4073,"Exclusive Extras"
-405,"Abes Jacket",20001,"Exclusive Extras"
-406,"Abes Gloves",20002,"Exclusive Extras"
-407,"Abes Halfslops",20003,"Exclusive Extras"
-408,"Abes Boots",20004,"Exclusive Extras"
-409,"High Summoner's Dress",20005,"Exclusive Extras"
-410,"High Summoner's Armlets",20006,"Exclusive Extras"
-411,"High Summoner's Boots",20007,"Exclusive Extras"
-412,"Endless Summer Glasses",2131,"Seasonal Gear 2"
-413,"Endless Summer Top",2132,"Seasonal Gear 2"
-414,"Endless Summer Bottom",2133,"Seasonal Gear 2"
-415,"Endless Summer Sandals",2134,"Seasonal Gear 2"
-416,"Choir Hat",2155,"Seasonal Gear 4"
-417,"Choir Robe",2156,"Seasonal Gear 4"
-418,"Choir Shoes",2157,"Seasonal Gear 4"
-419,"Crimson Nezumi Kabuto",2023,"Seasonal Gear 4"
-420,"Cobalt Nezumi Kabuto",2024,"Seasonal Gear 4"
-421,"Matoya's Hat",21001,"Exclusive Extras"
-422,"Aetheryte Earring",4074,"Exclusive Extras"
-423,"Lucian Prince's Jacket",23069,"Seasonal Gear 5"
-424,"Lucian Prince's Fingerless Glove",23070,"Seasonal Gear 5"
-425,"Lucian Prince's Bottoms",23071,"Seasonal Gear 5"
-426,"Lucian Prince's Boots",23072,"Seasonal Gear 5"
-427,"Flower Crown",2049,"Seasonal Gear 1"
-428,"Spriggan Jacket",3014,"Seasonal Gear 1"
-429,"Spriggan Bottoms",3015,"Seasonal Gear 1"
-430,"Spriggan Boots",3016,"Seasonal Gear 1"
-431,"Gigas Greatsword",2083,"Seasonal Gear 4"
-432,"Tonberry Knife",2084,"Seasonal Gear 4"
-433,"Moonfire Hachimaki",2135,"Seasonal Gear 2"
-434,"White Painted Moogle Mask",2136,"Seasonal Gear 2"
-435,"Black Painted Moogle Mask",2137,"Seasonal Gear 2"
-436,"Painted Namazu Mask",2138,"Seasonal Gear 2"
-437,"White Moonfire Happi",2139,"Seasonal Gear 2"
-438,"Red Moonfire Happi",2140,"Seasonal Gear 2"
-439,"Black Moonfire Happi",2141,"Seasonal Gear 2"
-440,"Moonfire Tabi",2142,"Seasonal Gear 2"
-441,"Revolver",18044,"Exclusive Extras"
-442,"Ribbon",4075,"Exclusive Extras"
-443,"Crimson Ushi Kabuto",2025,"Seasonal Gear 4"
-444,"Black Ushi Kabuto",2026,"Seasonal Gear 4"
-445,"Valentione Rose Hat",2085,"Seasonal Gear 4"
-446,"Valentione Rose Waistcoat",2086,"Seasonal Gear 4"
-447,"Valentione Rose Gloves",2087,"Seasonal Gear 4"
-448,"Valentione Rose Slacks",2088,"Seasonal Gear 4"
-449,"Valentione Rose Shoes",2089,"Seasonal Gear 4"
-450,"Valentione Forget-me-not Hat",2090,"Seasonal Gear 4"
-451,"Valentione Forget-me-not Waistcoat",2091,"Seasonal Gear 4"
-452,"Valentione Forget-me-not Gloves",2092,"Seasonal Gear 4"
-453,"Valentione Forget-me-not Slacks",2093,"Seasonal Gear 4"
-454,"Valentione Forget-me-not Shoes",2094,"Seasonal Gear 4"
-455,"Valentione Acacia Hat",2095,"Seasonal Gear 4"
-456,"Valentione Acacia Waistcoat",2096,"Seasonal Gear 4"
-457,"Valentione Acacia Gloves",2097,"Seasonal Gear 4"
-458,"Valentione Acacia Slacks",2098,"Seasonal Gear 4"
-459,"Valentione Acacia Shoes",2099,"Seasonal Gear 4"
-460,"Valentione Rose Ribboned Hat",2100,"Seasonal Gear 4"
-461,"Valentione Rose Dress",2101,"Seasonal Gear 4"
-462,"Valentione Rose Ribboned Gloves",2102,"Seasonal Gear 4"
-463,"Valentione Rose Tights",2103,"Seasonal Gear 4"
-464,"Valentione Rose Heels",2104,"Seasonal Gear 4"
-465,"Valentione Forget-me-not Ribboned Hat",2105,"Seasonal Gear 4"
-466,"Valentione Forget-me-not Dress",2106,"Seasonal Gear 4"
-467,"Valentione Forget-me-not Ribboned Gloves",2107,"Seasonal Gear 4"
-468,"Valentione Forget-me-not Tights",2108,"Seasonal Gear 4"
-469,"Valentione Forget-me-not Heels",2109,"Seasonal Gear 4"
-470,"Valentione Acacia Ribboned Hat",2110,"Seasonal Gear 4"
-471,"Valentione Acacia Dress",2111,"Seasonal Gear 4"
-472,"Valentione Acacia Ribboned Gloves",2112,"Seasonal Gear 4"
-473,"Valentione Acacia Tights",2113,"Seasonal Gear 4"
-474,"Valentione Acacia Heels",2114,"Seasonal Gear 4"
-475,"Seneschal's Monocle",2050,"Seasonal Gear 1"
-476,"Princess's Peach Corsage",2051,"Seasonal Gear 1"
-477,"Rabbit Head",3017,"Seasonal Gear 1"
-478,"Rabbit Suit",3018,"Seasonal Gear 1"
-479,"Dapper Rabbit Suit",3019,"Seasonal Gear 1"
-480,"Kupo Crown",3064,"Achievements"
-481,"Summer's Flame Hat",2143,"Seasonal Gear 2"
-482,"Summer's Flame Top",2144,"Seasonal Gear 2"
-483,"Summer's Flame Wrist Torque",2145,"Seasonal Gear 2"
-484,"Summer's Flame Pareo",2146,"Seasonal Gear 2"
-485,"Summer's Flame Sandals",2147,"Seasonal Gear 2"
-486,"Bozjan Earring",3065,"Achievements"
-487,"Katana of the King's Counsel",4084,"Seasonal Gear 5"
-488,"Rapier of the Serpent Lord",4085,"Seasonal Gear 5"
-489,"Gunblade of the Yo-kai King",4086,"Seasonal Gear 5"
-490,"Glaives of the Dark Princess",4087,"Seasonal Gear 5"
-491,"Lovely Moogle Cap",2115,"Seasonal Gear 4"
-492,"Golden Tora Kabuto",2027,"Seasonal Gear 4"
-493,"Silver Tora Kabuto",2028,"Seasonal Gear 4"
-494,"Menphina's Earring",4076,"Exclusive Extras"
-495,"Fat Cat Earrings",4077,"Exclusive Extras"
-496,"Great Serpent of Ringa",4078,"Exclusive Extras"
-497,"Chicken Head",3020,"Seasonal Gear 1"
-498,"Chicken Suit",3021,"Seasonal Gear 1"
-499,"Heavensturn Domaru",2029,"Seasonal Gear 4"
-500,"Heavensturn Kote",2030,"Seasonal Gear 4"
-501,"Heavensturn Haidate",2031,"Seasonal Gear 4"
-502,"Heavensturn Sune-ate",2032,"Seasonal Gear 4"
-503,"Little Lady's Crown",3052,"Seasonal Gear 1"
-504,"Clown's Hat",2145,"Seasonal Gear 3"
-505,"Clown's Top",2146,"Seasonal Gear 3"
-506,"Clown's Shortgloves",2147,"Seasonal Gear 3"
-507,"Clown's Bottoms",2148,"Seasonal Gear 3"
-508,"Clown's Boots",2149,"Seasonal Gear 3"
-509,"Death Scythe",21000,"Exclusive Extras"
-510,"Migratory Plume",3066,"Achievements"
-511,"Summer Sunset Bandana",2148,"Seasonal Gear 2"
-512,"Summer Sunset Beach Cover-up",2149,"Seasonal Gear 2"
-513,"Summer Sunset Wrist Torques",2150,"Seasonal Gear 2"
-514,"Summer Sunset Bottoms",2151,"Seasonal Gear 2"
-515,"Summer Sunset Sandals",2152,"Seasonal Gear 2"
-516,"Valentione Emissary's Hat",2116,"Seasonal Gear 4"
-517,"Valentione Emissary's Jacket",2117,"Seasonal Gear 4"
-518,"Valentione Emissary's Bottoms",2118,"Seasonal Gear 4"
-519,"Valentione Emissary's Boots",2119,"Seasonal Gear 4"
-520,"Valentione Emissary's Dress Hat",2120,"Seasonal Gear 4"
-521,"Valentione Emissary's Ruffled Dress",2121,"Seasonal Gear 4"
-522,"Valentione Emissary's Culottes",2122,"Seasonal Gear 4"
-523,"Valentione Emissary's Dress Boots",2123,"Seasonal Gear 4"
-524,"Tonberry Head",3022,"Seasonal Gear 1"
-525,"Tonberry Body",3023,"Seasonal Gear 1"
-526,"Tonberry Hands",3024,"Seasonal Gear 1"
-527,"Tonberry Culottes",3025,"Seasonal Gear 1"
-528,"Tonberry Boots",3026,"Seasonal Gear 1"
-529,"Wake Doctor's Mask",2150,"Seasonal Gear 3"
-530,"Wake Doctor's White Coat",2151,"Seasonal Gear 3"
-531,"Wake Doctor's Rubber Gloves",2152,"Seasonal Gear 3"
-532,"Wake Doctor's Bottoms",2153,"Seasonal Gear 3"
-533,"Wake Doctor's Shoes",2154,"Seasonal Gear 3"
-534,"Phoenix Riser Helmet",2153,"Seasonal Gear 2"
-535,"Phoenix Riser Suit",2154,"Seasonal Gear 2"
-536,"Unorthodox Saint's Cap",2158,"Seasonal Gear 4"
-537,"Unorthodox Saint's Halfrobe",2159,"Seasonal Gear 4"
-538,"Unorthodox Saint's Gloves",2160,"Seasonal Gear 4"
-539,"Unorthodox Saint's Bottoms",2161,"Seasonal Gear 4"
-540,"Unorthodox Saint's Longboots",2162,"Seasonal Gear 4"
-541,"Scion Chronocler's Cowl",1500,"Costumes"
-542,"Scion Chronocler's Ringbands",1501,"Costumes"
-543,"Scion Chronocler's Tights",1502,"Costumes"
-544,"Scion Chronocler's Caligae",1503,"Costumes"
-545,"Far Eastern Matriarch's Sun Hat",1003,"Fashions"
-546,"Far Eastern Matriarch's Dress",1004,"Fashions"
-547,"Far Eastern Matriarch's Boots",1005,"Fashions"
-548,"Far Eastern Patriarch's Hat",1000,"Fashions"
-549,"Far Eastern Patriarch's Tunic",1001,"Fashions"
-550,"Far Eastern Patriarch's Longboots",1002,"Fashions"
-551,"Yellow-pommed Moogle Cap",1000,"Mascots"
-552,"Ruby Carbuncle Slippers",3003,"Mascots"
-553,"Topaz Carbuncle Slippers",3002,"Mascots"
-554,"Emerald Carbuncle Slippers",3001,"Mascots"
-555,"Replica Manderville Earrings",10001,"Fashions"
-556,"Metian Vest",23076,"Seasonal Gear 5"
-557,"Metian Gauntlets",23077,"Seasonal Gear 5"
-558,"Metian Chausses",23078,"Seasonal Gear 5"
-559,"Metian Sollerets",23079,"Seasonal Gear 5"
-560,"Gentlebean Knit Cap",4090,"Seasonal Gear 5"
-561,"Gentlebean Parka",4091,"Seasonal Gear 5"
-562,"Gentlebean Bottoms",4092,"Seasonal Gear 5"
-563,"Gentlebean Shoes",4093,"Seasonal Gear 5"
-564,"Matte Winner's Crown",4088,"Seasonal Gear 5"
-565,"Imp Head",2500,"Seasonal Gear 2"
-566,"Imp Suit",2501,"Seasonal Gear 2"
-567,"Scion Conjurer's Dalmatica",1400,"Costumes"
-568,"Scion Conjurer's Chausses",1401,"Costumes"
-569,"Scion Conjurer's Pattens",1402,"Costumes"
-570,"Scion Thief's Tunic",1300,"Costumes"
-571,"Scion Thief's Halfgloves",1301,"Costumes"
-572,"Scion Thief's Gaskins",1302,"Costumes"
-573,"Scion Thief's Armored Caligae",1303,"Costumes"
-574,"Scion Thaumaturge's Monocle",1600,"Costumes"
-575,"Scion Thaumaturge's Robe",1601,"Costumes"
-576,"Scion Thaumaturge's Gauntlets",1602,"Costumes"
-577,"Scion Thaumaturge's Gaskins",1603,"Costumes"
-578,"Scion Thaumaturge's Moccasins",1604,"Costumes"
-579,"Scion Striker's Visor",1700,"Costumes"
-580,"Scion Striker's Attire",1701,"Costumes"
-581,"Antecedent's Attire",1200,"Costumes"
-582,"Ironworks Engineer's Goggles",3200,"Costumes"
-583,"Ironworks Engineer's Doublet",3201,"Costumes"
-584,"Ironworks Engineer's Gloves",3202,"Costumes"
-585,"Ironworks Engineer's Slops",3203,"Costumes"
-586,"Ironworks Engineer's Boots",3204,"Costumes"
-587,"Head Engineer's Goggles",3300,"Costumes"
-588,"Head Engineer's Attire",3301,"Costumes"
-589,"Scion Healer's Robe",1403,"Costumes"
-590,"Scion Healer's Halftights",1404,"Costumes"
-591,"Scion Healer's Highboots",1405,"Costumes"
-592,"Scion Rogue's Jacket",1304,"Costumes"
-593,"Scion Rogue's Armguards",1305,"Costumes"
-594,"Scion Rogue's Gaskins",1306,"Costumes"
-595,"Scion Rogue's Boots",1307,"Costumes"
-596,"Scion Liberator's Jacket",1702,"Costumes"
-597,"Scion Liberator's Fingerless Gloves",1703,"Costumes"
-598,"Scion Liberator's Pantalettes",1704,"Costumes"
-599,"Scion Liberator's Sabatons",1705,"Costumes"
-600,"Scion Liberator's Earrings",1706,"Costumes"
-601,"Doman Liege's Dogi",6000,"Costumes"
-602,"Doman Liege's Kote",6001,"Costumes"
-603,"Doman Liege's Kyakui",6002,"Costumes"
-604,"Doman Liege's Kyahan",6003,"Costumes"
-605,"Leal Samurai's Kasa",6100,"Costumes"
-606,"Leal Samurai's Dogi",6101,"Costumes"
-607,"Leal Samurai's Tekko",6102,"Costumes"
-608,"Leal Samurai's Tsutsu-hakama",6103,"Costumes"
-609,"Leal Samurai's Geta",6104,"Costumes"
-610,"Ward Knight's Armor",5050,"Costumes"
-611,"Ward Knight's Gauntlets",5051,"Costumes"
-612,"Ward Knight's Trousers",5052,"Costumes"
-613,"Ward Knight's Sabatons",5053,"Costumes"
-614,"Ward Mage's Robe",5054,"Costumes"
-615,"Ward Mage's Dress Gloves",5055,"Costumes"
-616,"Ward Mage's Trousers",5056,"Costumes"
-617,"Ward Mage's Sabatons",5057,"Costumes"
-618,"Lord Commander's Coat",5100,"Costumes"
-619,"Lord Commander's Gloves",5101,"Costumes"
-620,"Blackbosom Hat",3106,"Costumes"
-621,"Blackbosom Dress",3107,"Costumes"
-622,"Blackbosom Dress Gloves",3108,"Costumes"
-623,"Blackbosom Boots",3109,"Costumes"
-624,"Cracked Manderville Monocle",3000,"Costumes"
-625,"Torn Manderville Coatee",3001,"Costumes"
-626,"Singed Manderville Gloves",3002,"Costumes"
-627,"Stained Manderville Bottoms",3003,"Costumes"
-628,"Scuffed Manderville Gaiters",3004,"Costumes"
-629,"Gown of Light",1201,"Costumes"
-630,"Skirt of Light",1202,"Costumes"
-631,"Scion Hearer's Hood",1800,"Costumes"
-632,"Scion Hearer's Coat",1801,"Costumes"
-633,"Scion Hearer's Shoes",1802,"Costumes"
-634,"Majestic Dress",6200,"Costumes"
-635,"Majestic Wristdresses",6201,"Costumes"
-636,"Majestic Boots",6202,"Costumes"
-637,"Scion Sorceress's Headdress",1407,"Costumes"
-638,"Scion Sorceress's Robe",1408,"Costumes"
-639,"Scion Sorceress's Shadowtalons",1409,"Costumes"
-640,"Scion Sorceress's High Boots",1410,"Costumes"
-641,"Sharlayan Prodigy's Suit",1000,"Costumes"
-642,"Brand-new Alphinaud's Attire",1001,"Costumes"
-643,"Oracle Top",7000,"Costumes"
-644,"Oracle Pantalettes",7001,"Costumes"
-645,"Oracle Leggings",7002,"Costumes"
-646,"Omega-M Attire",7200,"Costumes"
-647,"Omega-M Ear Cuffs",7201,"Costumes"
-648,"Omega-F Attire",7202,"Costumes"
-649,"Omega-F Earrings",7203,"Costumes"
-650,"Lyse's Leadership Attire",1707,"Costumes"
-651,"Gaia's Attire",7150,"Costumes"
-652,"Ecliptic Hyposkhesphyra",7106,"Costumes"
-653,"Umbral Hyposkhesphyra",7107,"Costumes"
-654,"Stygian Hyposkhesphyra",7105,"Costumes"
-655,"Stark Hyposkhesphyra",7104,"Costumes"
-656,"Shadow Hyposkhesphyra",7103,"Costumes"
-657,"Black Hyposkhesphyra",7102,"Costumes"
-658,"Obscure Hyposkhesphyra",7101,"Costumes"
-659,"Brand-new Alisaie's Attire",1100,"Costumes"
-660,"Iceheart Robe",5200,"Costumes"
-661,"Iceheart Armlets",5201,"Costumes"
-662,"Iceheart Bottoms",5202,"Costumes"
-663,"Iceheart Thighboots",5203,"Costumes"
-664,"Radiance",5008,"Costumes"
-665,"Ultimum",5009,"Costumes"
-666,"Ward Knight's Shield",5010,"Costumes"
-667,"Greycloud",5011,"Costumes"
-668,"Bloody Anne",5012,"Costumes"
-669,"Stampede",5013,"Costumes"
-670,"Shattered Heart",5014,"Costumes"
-671,"Winter",5015,"Costumes"
-672,"Hordebane",5016,"Costumes"
-673,"The Destroyer's Stead",5017,"Costumes"
-674,"Widowbreaker",5018,"Costumes"
-675,"Imagination",5019,"Costumes"
-676,"Worm of the Dell",5020,"Costumes"
-677,"Blackbosom Grim Reaper",3100,"Costumes"
-678,"Blackbosom Soul Reaper",3101,"Costumes"
-679,"Blackbosom Fate Reaper",3102,"Costumes"
-680,"Blackbosom Void Reaper",3103,"Costumes"
-681,"Blackbosom Blood Reaper",3104,"Costumes"
-682,"Nightseeker",1406,"Costumes"
-683,"Blackbosom Heart Reaper",3105,"Costumes"
-684,"Loyal Housemaid's Brim",1011,"Fashions"
-685,"Loyal Housemaid's Apron Dress",1012,"Fashions"
-686,"Loyal Housemaid's Wristdresses",1013,"Fashions"
-687,"Loyal Housemaid's Bloomers",1014,"Fashions"
-688,"Loyal Housemaid's Pumps",1015,"Fashions"
-689,"Loyal Butler's Monocle",1006,"Fashions"
-690,"Loyal Butler's Jacket",1007,"Fashions"
-691,"Loyal Butler's Gloves",1008,"Fashions"
-692,"Loyal Butler's Slacks",1009,"Fashions"
-693,"Loyal Butler's Gaiters",1010,"Fashions"
-694,"Exclusive Eastern Journey Circlet",1017,"Fashions"
-695,"Exclusive Eastern Journey Jacket",1017,"Fashions"
-696,"Exclusive Eastern Journey Armlets",1018,"Fashions"
-697,"Exclusive Eastern Journey Bottoms",1019,"Fashions"
-698,"Exclusive Eastern Journey Shoes",1020,"Fashions"
-699,"Eastern Lady's Togi",1024,"Fashions"
-700,"Eastern Lady's Loincloth",1025,"Fashions"
-701,"Eastern Lady's Crakows",1026,"Fashions"
-702,"Eastern Lord's Togi",1021,"Fashions"
-703,"Eastern Lord's Trousers",1022,"Fashions"
-704,"Eastern Lord's Crakows",1023,"Fashions"
-705,"Fuga Haori",1027,"Fashions"
-706,"Fuga Hakama",1028,"Fashions"
-707,"Far Eastern Noble's Mortarboard",1029,"Fashions"
-708,"Far Eastern Noble's Robe",1030,"Fashions"
-709,"Far Eastern Noble's Armlets",1031,"Fashions"
-710,"Far Eastern Noble's Petticoat",1032,"Fashions"
-711,"Far Eastern Noble's Sandals",1033,"Fashions"
-712,"Far Eastern Gentleman's Hat",1034,"Fashions"
-713,"Far Eastern Gentleman's Robe",1035,"Fashions"
-714,"Far Eastern Gentleman's Haidate",1036,"Fashions"
-715,"Far Eastern Gentleman's Boots",1037,"Fashions"
-716,"Far Eastern Beauty's Hairpin",1038,"Fashions"
-717,"Far Eastern Beauty's Robe",1039,"Fashions"
-718,"Far Eastern Beauty's Koshita",1040,"Fashions"
-719,"Far Eastern Beauty's Boots",1041,"Fashions"
-720,"Star of the Nezha Lord",1042,"Fashions"
-721,"Nezha Lord's Togi",1043,"Fashions"
-722,"Nezha Lord's Gloves",1044,"Fashions"
-723,"Nezha Lord's Slops",1045,"Fashions"
-724,"Nezha Lord's Boots",1046,"Fashions"
-725,"Star of the Nezha Lady",1047,"Fashions"
-726,"Nezha Lady's Togi",1048,"Fashions"
-727,"Nezha Lady's Gloves",1049,"Fashions"
-728,"Nezha Lady's Slops",1050,"Fashions"
-729,"Nezha Lady's Kneeboots",1051,"Fashions"
-730,"Angelic Circlet",1052,"Fashions"
-731,"Angelic Wings",1053,"Fashions"
-732,"Angelic Chaplets",1054,"Fashions"
-733,"Angelic Slops",1055,"Fashions"
-734,"Angelic Thighboots",1056,"Fashions"
-735,"Demonic Horns",1057,"Fashions"
-736,"Demonic Wings",1058,"Fashions"
-737,"Demonic Gloves",1059,"Fashions"
-738,"Demonic Slops",1060,"Fashions"
-739,"Demonic Thighboots",1061,"Fashions"
-740,"Faerie Tale Prince's Circlet",1062,"Fashions"
-741,"Faerie Tale Prince's Vest",1063,"Fashions"
-742,"Faerie Tale Prince's Gloves",1064,"Fashions"
-743,"Faerie Tale Prince's Slops",1065,"Fashions"
-744,"Faerie Tale Prince's Boots",1066,"Fashions"
-745,"Faerie Tale Princess's Tiara",1067,"Fashions"
-746,"Faerie Tale Princess's Dress",1068,"Fashions"
-747,"Faerie Tale Princess's Gloves",1069,"Fashions"
-748,"Faerie Tale Princess's Long Skirt",1070,"Fashions"
-749,"Faerie Tale Princess's Heels",1071,"Fashions"
-750,"Far Eastern Schoolgirl's Hair Ribbon",1075,"Fashions"
-751,"Far Eastern Schoolgirl's Hakama",1076,"Fashions"
-752,"Far Eastern Schoolgirl's Boots",1077,"Fashions"
-753,"Far Eastern Schoolboy's Hat",1072,"Fashions"
-754,"Far Eastern Schoolboy's Hakama",1073,"Fashions"
-755,"Far Eastern Schoolboy's Zori",1074,"Fashions"
-756,"Mun'gaek Hat",1078,"Fashions"
-757,"Mun'gaek Uibok",1079,"Fashions"
-758,"Mun'gaek Cuffs",1080,"Fashions"
-759,"Mun'gaek Trousers",1081,"Fashions"
-760,"Mun'gaek Boots",1082,"Fashions"
-761,"Eastern Socialite's Hat",1083,"Fashions"
-762,"Eastern Socialite's Cheongsam",1084,"Fashions"
-763,"Eastern Socialite's Gloves",1085,"Fashions"
-764,"Eastern Socialite's Skirt",1086,"Fashions"
-765,"Eastern Socialite's Boots",1087,"Fashions"
-766,"Far Eastern Officer's Hat",1088,"Fashions"
-767,"Far Eastern Officer's Robe",1089,"Fashions"
-768,"Far Eastern Officer's Armband",1090,"Fashions"
-769,"Far Eastern Officer's Bottoms",1091,"Fashions"
-770,"Far Eastern Officer's Boots",1092,"Fashions"
-771,"Far Eastern Maiden's Hat",1093,"Fashions"
-772,"Far Eastern Maiden's Tunic",1094,"Fashions"
-773,"Far Eastern Maiden's Armband",1095,"Fashions"
-774,"Far Eastern Maiden's Bottoms",1096,"Fashions"
-775,"Far Eastern Maiden's Boots",1097,"Fashions"
-776,"Mheg Deaca Circlet",1098,"Fashions"
-777,"Mheg Deaca Robe",1099,"Fashions"
-778,"Mheg Deaca Bottoms",1100,"Fashions"
-779,"Mheg Deaca Boots",1101,"Fashions"
-780,"Peacock Hat",1102,"Fashions"
-781,"Peacock Robe",1103,"Fashions"
-782,"Peacock Gloves",1104,"Fashions"
-783,"Peacock Skirt",1105,"Fashions"
-784,"Peacock Shoes",1106,"Fashions"
-785,"Dirndl's Hat",1107,"Fashions"
-786,"Dirndl's Bodice",1108,"Fashions"
-787,"Dirndl's Wrist Torque",1109,"Fashions"
-788,"Dirndl's Long Skirt",1110,"Fashions"
-789,"Dirndl's Pumps",1111,"Fashions"
-790,"Bergsteiger's Hat",1112,"Fashions"
-791,"Bergsteiger's Jacket",1113,"Fashions"
-792,"Bergsteiger's Halfgloves",1114,"Fashions"
-793,"Bergsteiger's Halfslops",1115,"Fashions"
-794,"Bergsteiger's Boots",1116,"Fashions"
-795,"Collegiate Blazer (Tie)",1117,"Fashions"
-796,"Collegiate Slacks",1118,"Fashions"
-797,"Collegiate Shoes (Short Socks)",1119,"Fashions"
-798,"Collegiate Blazer (Bow)",1120,"Fashions"
-799,"Collegiate Skirt",1121,"Fashions"
-800,"Collegiate Shoes (Tall Socks)",1122,"Fashions"
-801,"Eastern Lord Errant's Hat",1123,"Fashions"
-802,"Eastern Lord Errant's Jacket",1124,"Fashions"
-803,"Eastern Lord Errant's Wristbands",1125,"Fashions"
-804,"Eastern Lord Errant's Trousers",1126,"Fashions"
-805,"Eastern Lord Errant's Shoes",1127,"Fashions"
-806,"Eastern Lady Errant's Hat",1128,"Fashions"
-807,"Eastern Lady Errant's Coat",1129,"Fashions"
-808,"Eastern Lady Errant's Gloves",1130,"Fashions"
-809,"Eastern Lady Errant's Skirt",1131,"Fashions"
-810,"Eastern Lady Errant's Boots",1132,"Fashions"
-811,"Resshi Hachigane",1133,"Fashions"
-812,"Resshi Haori",1134,"Fashions"
-813,"Resshi Tsutsu-hakama",1135,"Fashions"
-814,"Resshi Zori",1136,"Fashions"
-815,"Street Cap",1137,"Fashions"
-816,"Street Top",1138,"Fashions"
-817,"Street Handwear",1139,"Fashions"
-818,"Street Cargo Trousers",1140,"Fashions"
-819,"Street High-top Shoes",1141,"Fashions"
-820,"Street Jacket",1142,"Fashions"
-821,"Far Northern Headpiece",1143,"Fashions"
-822,"Far Northern Tunic",1144,"Fashions"
-823,"Far Northern Felted Gloves",1145,"Fashions"
-824,"Far Northern Bottoms",1146,"Fashions"
-825,"Far Northern Boots",1147,"Fashions"
-826,"Educand's Cap",1148,"Fashions"
-827,"Educand's Jacket",1149,"Fashions"
-828,"Educand's Slacks",1150,"Fashions"
-829,"Educand's Shoes",1151,"Fashions"
-830,"Educand's Sailor Top",1152,"Fashions"
-831,"Educand's Sailor Skirt",1153,"Fashions"
-832,"Educand's Loafers",1154,"Fashions"
-833,"Seigneur's Beret",1155,"Fashions"
-834,"Seigneur's Jerkin",1156,"Fashions"
-835,"Seigneur's Gloves",1157,"Fashions"
-836,"Seigneur's Breeches",1158,"Fashions"
-837,"Seigneur's Longboots",1159,"Fashions"
-838,"Magitek Ear Guards",1160,"Fashions"
-839,"Magitek Jacket",1161,"Fashions"
-840,"Magitek Fingerstalls",1162,"Fashions"
-841,"Magitek Bottoms",1163,"Fashions"
-842,"Magitek Shoes",1164,"Fashions"
-843,"Emerald Carbuncle Ears",3004,"Mascots"
-844,"Emerald Carbuncle Jacket",3005,"Mascots"
-845,"Emerald Carbuncle Boots",3006,"Mascots"
-846,"Topaz Carbuncle Ears",3007,"Mascots"
-847,"Topaz Carbuncle Jacket",3008,"Mascots"
-848,"Topaz Carbuncle Boots",3009,"Mascots"
-849,"Ruby Carbuncle Ears",3010,"Mascots"
-850,"Ruby Carbuncle Jacket",3011,"Mascots"
-851,"Ruby Carbuncle Boots",3012,"Mascots"
-852,"Fat Cat Hood",5000,"Mascots"
-853,"Fat Cat Loungewear",5001,"Mascots"
-854,"Fat Cat Halfslops",5002,"Mascots"
-855,"Fat Cat Slippers",5003,"Mascots"
-856,"Fat Cat Shorts",5004,"Mascots"
-857,"Woodland Warden's Top",1165,"Fashions"
-858,"Woodland Warden's Fingerstalls",1166,"Fashions"
-859,"Woodland Warden's Breeches",1167,"Fashions"
-860,"Woodland Warden's Longboots",1168,"Fashions"
-861,"Woodland Warden's Skirt",1169,"Fashions"
-862,"Crystarium Prodigy's Top",1002,"Costumes"
-863,"Crystarium Prodigy's Fingerless Gloves",1003,"Costumes"
-864,"Crystarium Prodigy's Hose",1004,"Costumes"
-865,"Crystarium Prodigy's Thighboots",1005,"Costumes"
-866,"",1170,"Fashions"
-867,"",1171,"Fashions"
-868,"",1172,"Fashions"
-869,"",1173,"Fashions"
-870,"Sweet Dream Cap",2163,"Seasonal Gear 4"
-871,"Sweet Dream Tunic",2164,"Seasonal Gear 4"
-872,"Sweet Dream Boots",2165,"Seasonal Gear 4"
-873,"Tetsuji Usagi Kabuto",2033,"Seasonal Gear 4"
-874,"Black Tetsuji Usagi Kabuto",2034,"Seasonal Gear 4"
-875,"Silver Tetsuji Usagi Kabuto",2035,"Seasonal Gear 4"
-876,"Exclusive Eastern Journey Battle Staff",1016,"Fashions"
-877,"Replica White Ravens",10000,"Fashions"
-878,"Glossy Winner's Crown",4089,"Seasonal Gear 5"
-879,"Azeyma's Earrings",4079,"Exclusive Extras"
-880,"",20001,"Fashions"
-881,"",20002,"Fashions"
-882,"",20003,"Fashions"
-883,"",20004,"Fashions"
-884,"",20005,"Fashions"
-885,"",20006,"Fashions"
-886,"Chocobo Brush",16001,"Exclusive Extras"
-887,"Night of Devilry Horns",2155,"Seasonal Gear 3"
-888,"Night of Devilry Shirt",2156,"Seasonal Gear 3"
-889,"Night of Devilry Fingerless Gloves",2157,"Seasonal Gear 3"
-890,"Night of Devilry Trousers",2158,"Seasonal Gear 3"
-891,"Night of Devilry Boots",2159,"Seasonal Gear 3"
+﻿key,0,1,2,3
+#,Item,Order,Category,
+int32,Item,uint16,CabinetCategory,byte
+0,"Gallant Coronet",1,"Artifact Armor",1
+1,"Gallant Surcoat",2,"Artifact Armor",1
+2,"Gallant Cuisses",4,"Artifact Armor",1
+3,"Gallant Gauntlets",3,"Artifact Armor",1
+4,"Gallant Sollerets",5,"Artifact Armor",1
+5,"Temple Circlet",1,"Artifact Armor",2
+6,"Temple Cyclas",2,"Artifact Armor",2
+7,"Temple Gaskins",4,"Artifact Armor",2
+8,"Temple Gloves",3,"Artifact Armor",2
+9,"Temple Boots",5,"Artifact Armor",2
+10,"Fighter's Burgeonet",1,"Artifact Armor",3
+11,"Fighter's Cuirass",2,"Artifact Armor",3
+12,"Fighter's Breeches",4,"Artifact Armor",3
+13,"Fighter's Gauntlets",3,"Artifact Armor",3
+14,"Fighter's Jackboots",5,"Artifact Armor",3
+15,"Drachen Armet",1,"Artifact Armor",4
+16,"Drachen Mail",2,"Artifact Armor",4
+17,"Drachen Breeches",4,"Artifact Armor",4
+18,"Drachen Gauntlets",3,"Artifact Armor",4
+19,"Drachen Greaves",5,"Artifact Armor",4
+20,"Choral Chapeau",1,"Artifact Armor",5
+21,"Choral Shirt",2,"Artifact Armor",5
+22,"Choral Tights",4,"Artifact Armor",5
+23,"Choral Ringbands",3,"Artifact Armor",5
+24,"Choral Sandals",5,"Artifact Armor",5
+25,"Healer's Circlet",1,"Artifact Armor",7
+26,"Healer's Robe",2,"Artifact Armor",7
+27,"Healer's Culottes",4,"Artifact Armor",7
+28,"Healer's Gloves",3,"Artifact Armor",7
+29,"Healer's Boots",5,"Artifact Armor",7
+30,"Wizard's Petasos",1,"Artifact Armor",8
+31,"Wizard's Coat",2,"Artifact Armor",8
+32,"Wizard's Tonban",4,"Artifact Armor",8
+33,"Wizard's Gloves",3,"Artifact Armor",8
+34,"Wizard's Crakows",5,"Artifact Armor",8
+35,"Dragon Kabuto",4,"Seasonal Gear 4",44
+36,"Crimson Dragon Kabuto",5,"Seasonal Gear 4",44
+37,"Golden Dragon Kabuto",6,"Seasonal Gear 4",44
+38,"Black Dragon Kabuto",7,"Seasonal Gear 4",44
+39,"Paramour's Pendant",1,"Seasonal Gear 4",55
+40,"Platinum Paramour's Pendant",2,"Seasonal Gear 4",55
+41,"Band of Eternal Passion",3,"Seasonal Gear 4",55
+42,"Peach Blossoms",1,"Seasonal Gear 1",12
+43,"Pristine Egg Cap",1,"Seasonal Gear 1",19
+44,"Vibrant Egg Cap",2,"Seasonal Gear 1",19
+45,"Brilliant Egg Cap",3,"Seasonal Gear 1",19
+46,"Midnight Egg Cap",4,"Seasonal Gear 1",19
+47,"Chocobo Egg Cap",5,"Seasonal Gear 1",19
+48,"Pristine Egg Ring",6,"Seasonal Gear 1",19
+49,"Vibrant Egg Ring",7,"Seasonal Gear 1",19
+50,"Brilliant Egg Ring",8,"Seasonal Gear 1",19
+51,"Midnight Egg Ring",9,"Seasonal Gear 1",19
+52,"Chocobo Egg Ring",10,"Seasonal Gear 1",19
+53,"Red Summer Top",1,"Seasonal Gear 2",26
+54,"Green Summer Top",2,"Seasonal Gear 2",26
+55,"Blue Summer Top",3,"Seasonal Gear 2",26
+56,"Solar Summer Top",4,"Seasonal Gear 2",26
+57,"Lunar Summer Top",5,"Seasonal Gear 2",26
+58,"Red Summer Halter",8,"Seasonal Gear 2",26
+59,"Green Summer Halter",9,"Seasonal Gear 2",26
+60,"Blue Summer Halter",10,"Seasonal Gear 2",26
+61,"Solar Summer Halter",11,"Seasonal Gear 2",26
+62,"Lunar Summer Halter",12,"Seasonal Gear 2",26
+63,"Red Summer Trunks",15,"Seasonal Gear 2",26
+64,"Green Summer Trunks",16,"Seasonal Gear 2",26
+65,"Blue Summer Trunks",17,"Seasonal Gear 2",26
+66,"Solar Summer Trunks",18,"Seasonal Gear 2",26
+67,"Lunar Summer Trunks",19,"Seasonal Gear 2",26
+68,"Red Summer Tanga",22,"Seasonal Gear 2",26
+69,"Green Summer Tanga",23,"Seasonal Gear 2",26
+70,"Blue Summer Tanga",24,"Seasonal Gear 2",26
+71,"Solar Summer Tanga",25,"Seasonal Gear 2",26
+72,"Lunar Summer Tanga",26,"Seasonal Gear 2",26
+73,"Pumpkin Head",1,"Seasonal Gear 3",36
+74,"Unripened Pumpkin Head",2,"Seasonal Gear 3",36
+75,"White Pumpkin Head",3,"Seasonal Gear 3",36
+76,"Ripened Pumpkin Head",4,"Seasonal Gear 3",36
+77,"Reindeer Antlers",1,"Seasonal Gear 4",62
+78,"Reindeer Suit",2,"Seasonal Gear 4",62
+79,"Moonlet",3,"Seasonal Gear 4",62
+80,"Patriot's Choker",14,"Exclusive Extras",83
+81,"Lord's Yukata (Blue)",29,"Seasonal Gear 2",26
+82,"Lord's Yukata (Green)",30,"Seasonal Gear 2",26
+83,"Lord's Yukata (Grey)",31,"Seasonal Gear 2",26
+84,"Lady's Yukata (Red)",32,"Seasonal Gear 2",26
+85,"Lady's Yukata (Blue)",33,"Seasonal Gear 2",26
+86,"Lady's Yukata (Black)",34,"Seasonal Gear 2",26
+87,"Lord's Drawers (Black)",35,"Seasonal Gear 2",26
+88,"Lord's Drawers (White)",36,"Seasonal Gear 2",26
+89,"Lord's Drawers (Gold)",37,"Seasonal Gear 2",26
+90,"Lady's Knickers (Black)",38,"Seasonal Gear 2",26
+91,"Lady's Knickers (White)",39,"Seasonal Gear 2",26
+92,"Lady's Knickers (Gold)",40,"Seasonal Gear 2",26
+93,"Lord's Clogs",41,"Seasonal Gear 2",26
+94,"Lady's Clogs",42,"Seasonal Gear 2",26
+95,"Woolen Sugarloaf Hat (Red)",4,"Exclusive Extras",83
+96,"Star-spangled Subligar",5,"Exclusive Extras",83
+97,"Peregrine Helm",3,"Exclusive Extras",83
+98,"Scarf of Wondrous Wit",13,"Exclusive Extras",83
+99,"White Ravens",12,"Exclusive Extras",83
+100,"Butcher's Crown",1,"Achievements",76
+101,"Chronicler's Crown",1,"Achievements",81
+102,"Paragon's Crown",1,"Achievements",78
+103,"Gambler's Crown",1,"Achievements",79
+104,"Saw of the Luminary",1,"Achievements",80
+105,"Hammer of the Luminary",2,"Achievements",80
+106,"Mallet of the Luminary",3,"Achievements",80
+107,"Gavel of the Luminary",4,"Achievements",80
+108,"Knife of the Luminary",5,"Achievements",80
+109,"Needle of the Luminary",6,"Achievements",80
+110,"Alembic of the Luminary",7,"Achievements",80
+111,"Pan of the Luminary",8,"Achievements",80
+112,"Pick of the Luminary",9,"Achievements",80
+113,"Axe of the Luminary",10,"Achievements",80
+114,"Rod of the Luminary",11,"Achievements",80
+115,"Maelstrom Escutcheon",1,"Achievements",82
+116,"Immortal Flames Escutcheon",3,"Achievements",82
+117,"Twin Adder Escutcheon",2,"Achievements",82
+118,"Crimson Standard Earrings",4,"Achievements",82
+119,"Tipping Scales Earrings",6,"Achievements",82
+120,"Lily and Serpent Earrings",5,"Achievements",82
+121,"Crimson Standard Ring",7,"Achievements",82
+122,"Tipping Scales Ring",9,"Achievements",82
+123,"Lily and Serpent Ring",8,"Achievements",82
+124,"Chocobo Mask",1,"Achievements",75
+125,"Dalamud Horn",2,"Achievements",75
+126,"Evoker's Horn",1,"Artifact Armor",9
+127,"Evoker's Doublet",2,"Artifact Armor",9
+128,"Evoker's Waistclout",4,"Artifact Armor",9
+129,"Evoker's Ringbands",3,"Artifact Armor",9
+130,"Evoker's Thighboots",5,"Artifact Armor",9
+131,"Scholar's Mortarboard",1,"Artifact Armor",10
+132,"Scholar's Gown",2,"Artifact Armor",10
+133,"Scholar's Culottes",4,"Artifact Armor",10
+134,"Scholar's Gloves",3,"Artifact Armor",10
+135,"Scholar's Boots",5,"Artifact Armor",10
+136,"Moogle Cap",1,"Exclusive Extras",84
+137,"Helm of Light",2,"Exclusive Extras",84
+138,"Moogle Earrings",2,"Exclusive Extras",90
+139,"Cactuar Earring",7,"Exclusive Extras",83
+140,"Bomb Earrings",8,"Exclusive Extras",83
+141,"Black Summer Top",1,"Exclusive Extras",92
+142,"Black Summer Trunks",3,"Exclusive Extras",92
+143,"Black Summer Halter",2,"Exclusive Extras",92
+144,"Black Summer Tanga",4,"Exclusive Extras",92
+145,"Ninja Hatsuburi",1,"Artifact Armor",6
+146,"Ninja Chainmail",2,"Artifact Armor",6
+147,"Ninja Hakama",4,"Artifact Armor",6
+148,"Ninja Tekko",3,"Artifact Armor",6
+149,"Ninja Kyahan",5,"Artifact Armor",6
+150,"Garlond Goggles",1,"Exclusive Extras",83
+151,"Onion Helm",2,"Exclusive Extras",83
+152,"Asuran Armguards",1,"Exclusive Extras",90
+153,"Hermes' Shoes",6,"Exclusive Extras",83
+154,"Silver Snake Kabuto",8,"Seasonal Gear 4",44
+155,"Uma Kabuto",1,"Seasonal Gear 4",45
+156,"Crimson Uma Kabuto",2,"Seasonal Gear 4",45
+157,"Golden Uma Kabuto",3,"Seasonal Gear 4",45
+158,"Black Uma Kabuto",4,"Seasonal Gear 4",45
+159,"Summer Evening Top",6,"Seasonal Gear 2",26
+160,"Striped Summer Top",7,"Seasonal Gear 2",26
+161,"Summer Morning Halter",13,"Seasonal Gear 2",26
+162,"Striped Summer Halter",14,"Seasonal Gear 2",26
+163,"Summer Evening Trunks",20,"Seasonal Gear 2",26
+164,"Striped Summer Trunks",21,"Seasonal Gear 2",26
+165,"Summer Morning Tanga",27,"Seasonal Gear 2",26
+166,"Striped Summer Tanga",28,"Seasonal Gear 2",26
+167,"The Howling Spirit",5,"Seasonal Gear 3",36
+168,"The Wailing Spirit",6,"Seasonal Gear 3",36
+169,"Paragon's Gown",11,"Achievements",76
+170,"Warlord's Crown",2,"Achievements",78
+171,"Partisan's Crown",7,"Achievements",78
+172,"Master Gladiator's Ring",2,"Achievements",76
+173,"Master Pugilist's Ring",3,"Achievements",76
+174,"Master Marauder's Ring",4,"Achievements",76
+175,"Master Lancer's Ring",5,"Achievements",76
+176,"Master Archer's Ring",6,"Achievements",76
+177,"Master Conjurer's Ring",8,"Achievements",76
+178,"Master Thaumaturge's Ring",9,"Achievements",76
+179,"Master Arcanist's Ring",10,"Achievements",76
+180,"Master Carpenter's Ring",12,"Achievements",80
+181,"Master Blacksmith's Ring",13,"Achievements",80
+182,"Master Armorer's Ring",14,"Achievements",80
+183,"Master Goldsmith's Ring",15,"Achievements",80
+184,"Master Leatherworker's Ring",16,"Achievements",80
+185,"Master Weaver's Ring",17,"Achievements",80
+186,"Master Alchemist's Ring",18,"Achievements",80
+187,"Master Culinarian's Ring",19,"Achievements",80
+188,"Master Miner's Ring",20,"Achievements",80
+189,"Master Botanist's Ring",21,"Achievements",80
+190,"Master Fisher's Ring",22,"Achievements",80
+191,"Crimson Standard Bracelet",10,"Achievements",82
+192,"Lily and Serpent Bracelet",11,"Achievements",82
+193,"Tipping Scales Bracelet",12,"Achievements",82
+194,"Chocobo Suit",12,"Achievements",76
+195,"Ullikummi",1,"Artifact Armor",11
+196,"Vulcan",2,"Artifact Armor",11
+197,"Kurdalegon",3,"Artifact Armor",11
+198,"Urcaguary",4,"Artifact Armor",11
+199,"Pinga",5,"Artifact Armor",11
+200,"Clotho",6,"Artifact Armor",11
+201,"Paracelsus",7,"Artifact Armor",11
+202,"Chantico",8,"Artifact Armor",11
+203,"Mammon",9,"Artifact Armor",11
+204,"Rauni",10,"Artifact Armor",11
+205,"Halcyon Rod",11,"Artifact Armor",11
+206,"Blazefire Saber",1,"Seasonal Gear 5",69
+207,"Vega Knuckles",2,"Seasonal Gear 5",69
+208,"l'Cie Bardiche",3,"Seasonal Gear 5",69
+209,"Bladed Lance",4,"Seasonal Gear 5",69
+210,"Starseeker",5,"Seasonal Gear 5",69
+211,"Binding Rod",6,"Seasonal Gear 5",69
+212,"Mog's Staff",7,"Seasonal Gear 5",69
+213,"Grimoire Wing",8,"Seasonal Gear 5",69
+214,"Bohemian's Coat",9,"Seasonal Gear 5",69
+215,"Bohemian's Gloves",10,"Seasonal Gear 5",69
+216,"Bohemian's Trousers",11,"Seasonal Gear 5",69
+217,"Bohemian's Boots",12,"Seasonal Gear 5",69
+218,"Guardian Corps Coat",13,"Seasonal Gear 5",69
+219,"Guardian Corps Gauntlets",14,"Seasonal Gear 5",69
+220,"Guardian Corps Skirt",15,"Seasonal Gear 5",69
+221,"Guardian Corps Boots",16,"Seasonal Gear 5",69
+222,"Thug's Mug",1,"Seasonal Gear 5",72
+223,"Snowman Head",4,"Seasonal Gear 4",62
+224,"Snowman Suit",5,"Seasonal Gear 4",62
+225,"Snowman Mitts",6,"Seasonal Gear 4",62
+226,"Valentione Hat",1,"Seasonal Gear 4",56
+227,"Valentione Apron",2,"Seasonal Gear 4",56
+228,"Valentione Apron Dress",3,"Seasonal Gear 4",56
+229,"Valentione Mitts",4,"Seasonal Gear 4",56
+230,"Valentione Trousers",5,"Seasonal Gear 4",56
+231,"Valentione Skirt",6,"Seasonal Gear 4",56
+232,"Valentione Pattens",7,"Seasonal Gear 4",56
+233,"Lord's Yukata (Blackflame)",1,"Seasonal Gear 2",27
+234,"Lord's Yukata (Whiteflame)",2,"Seasonal Gear 2",27
+235,"Lord's Yukata (Blueflame)",3,"Seasonal Gear 2",27
+236,"Lady's Yukata (Redfly)",4,"Seasonal Gear 2",27
+237,"Lady's Yukata (Bluefly)",5,"Seasonal Gear 2",27
+238,"Lady's Yukata (Pinkfly)",6,"Seasonal Gear 2",27
+239,"Eerie Hat",1,"Seasonal Gear 3",37
+240,"Eerie Robe",2,"Seasonal Gear 3",37
+241,"Eerie Tights",3,"Seasonal Gear 3",37
+242,"Eerie Crakows",4,"Seasonal Gear 3",37
+243,"Pumpkin Earrings",5,"Seasonal Gear 3",37
+244,"The Best Gown Ever",8,"Achievements",78
+245,"Ironworks Fishing Rod",23,"Achievements",80
+246,"Master Rogue's Ring",7,"Achievements",76
+247,"Hitsuji Kabuto",1,"Seasonal Gear 4",46
+248,"Black Hitsuji Kabuto",2,"Seasonal Gear 4",46
+249,"Crimson Hitsuji Kabuto",3,"Seasonal Gear 4",46
+250,"White Hitsuji Kabuto",4,"Seasonal Gear 4",46
+251,"Starlight Sugarloaf Hat",1,"Seasonal Gear 4",63
+252,"Starlight Tunic",2,"Seasonal Gear 4",63
+253,"Starlight Tights",3,"Seasonal Gear 4",63
+254,"Starlight Boots",4,"Seasonal Gear 4",63
+255,"False Mustache",5,"Seasonal Gear 4",63
+256,"",0,"Exclusive Extras",0
+257,"",0,"Exclusive Extras",0
+258,"",0,"Exclusive Extras",0
+259,"",0,"Exclusive Extras",0
+260,"Southern Seas Vest",1,"Seasonal Gear 2",28
+261,"Southern Seas Swimsuit",3,"Seasonal Gear 2",28
+262,"Southern Seas Trunks",5,"Seasonal Gear 2",28
+263,"Southern Seas Tanga",6,"Seasonal Gear 2",28
+264,"Striped Southern Seas Vest",2,"Seasonal Gear 2",28
+265,"Striped Southern Seas Swimsuit",4,"Seasonal Gear 2",28
+266,"",0,"Exclusive Extras",0
+267,"Baron Helm",1,"Exclusive Extras",85
+268,"Baron Circlet",2,"Exclusive Extras",85
+269,"Baron Earrings",3,"Exclusive Extras",85
+270,"Wild Rose Bandana",9,"Exclusive Extras",91
+271,"Wild Rose Cuirass",10,"Exclusive Extras",91
+272,"Wild Rose Armguards",11,"Exclusive Extras",91
+273,"Wild Rose Breeches",12,"Exclusive Extras",91
+274,"Wild Rose Boots",13,"Exclusive Extras",91
+275,"Field Commander's Helm",1,"Achievements",77
+276,"Field Commander's Coat",2,"Achievements",77
+277,"Field Commander's Gloves",3,"Achievements",77
+278,"Field Commander's Slops",4,"Achievements",77
+279,"Field Commander's Boots",5,"Achievements",77
+280,"Slime Earrings",2,"Seasonal Gear 5",72
+281,"Goblin Cap",5,"Exclusive Extras",92
+282,"Dodo Earring",9,"Exclusive Extras",83
+283,"King Slime Crown",3,"Seasonal Gear 5",72
+284,"Fat Chocobo Head",6,"Exclusive Extras",92
+285,"Strife Vest",1,"Exclusive Extras",91
+286,"Strife Gloves",2,"Exclusive Extras",91
+287,"Strife Bags",3,"Exclusive Extras",91
+288,"Strife Boots",4,"Exclusive Extras",91
+289,"Peach Blossom Choker",2,"Seasonal Gear 1",13
+290,"Egg Earrings",1,"Seasonal Gear 1",20
+291,"Midnight Egg Earrings",2,"Seasonal Gear 1",20
+292,"Brilliant Egg Earrings",3,"Seasonal Gear 1",20
+293,"Vibrant Egg Earrings",4,"Seasonal Gear 1",20
+294,"Racing Chocobo Mask",9,"Achievements",78
+295,"Witch's Hat",1,"Seasonal Gear 3",38
+296,"Witch's Coatee",2,"Seasonal Gear 3",38
+297,"Witch's Gloves",3,"Seasonal Gear 3",38
+298,"Witch's Thighboots",4,"Seasonal Gear 3",38
+299,"Amatsu Hachigane",1,"Seasonal Gear 5",68
+300,"Amatsu Togi",2,"Seasonal Gear 5",68
+301,"Amatsu Tekko",3,"Seasonal Gear 5",68
+302,"Amatsu Haidate",4,"Seasonal Gear 5",68
+303,"Amatsu Sune-ate",5,"Seasonal Gear 5",68
+304,"Reindeer Antler Headband",1,"Seasonal Gear 4",64
+305,"Reindeer Gloves",2,"Seasonal Gear 4",64
+306,"Reindeer Hooves",3,"Seasonal Gear 4",64
+307,"Saint's Beard",4,"Seasonal Gear 4",64
+308,"Saint's Cap",5,"Seasonal Gear 4",64
+309,"See No Helm",1,"Seasonal Gear 4",47
+310,"Speak No Helm",2,"Seasonal Gear 4",47
+311,"Hear No Helm",3,"Seasonal Gear 4",47
+312,"Black-feathered Flat Hat",1,"Seasonal Gear 4",57
+313,"Red-feathered Flat Hat",2,"Seasonal Gear 4",57
+314,"Platinum Paramour's Earrings",3,"Seasonal Gear 4",57
+315,"Paramour's Earrings",4,"Seasonal Gear 4",57
+316,"Lord's Suikan",1,"Seasonal Gear 1",14
+317,"Lady's Suikan",3,"Seasonal Gear 1",14
+318,"Little Lord's Clogs",2,"Seasonal Gear 1",14
+319,"Little Lady's Clogs",4,"Seasonal Gear 1",14
+320,"Goobbue Earring",10,"Exclusive Extras",83
+321,"Tantalus Vest",5,"Exclusive Extras",91
+322,"Tantalus Cuffs",6,"Exclusive Extras",91
+323,"Tantalus Breeches",7,"Exclusive Extras",91
+324,"Tantalus Boots",8,"Exclusive Extras",91
+325,"Expeditioner's Flyers",5,"Achievements",78
+326,"Whisker of the Brave Cat",1,"Seasonal Gear 5",73
+327,"Ears of the Moon Rabbit",3,"Seasonal Gear 5",73
+328,"Paw of the Crimson Cat",4,"Seasonal Gear 5",73
+329,"Spear of the Spark Serpent",5,"Seasonal Gear 5",73
+330,"Bow of the White Wisp",6,"Seasonal Gear 5",73
+331,"Twintails of the Flame Fox",7,"Seasonal Gear 5",73
+332,"Fang of the Fearless Cat",8,"Seasonal Gear 5",73
+333,"Musket of the Metal Cat",9,"Seasonal Gear 5",73
+334,"Cane of the Shrine Guardian",10,"Seasonal Gear 5",73
+335,"Staff of the Snow Maiden",11,"Seasonal Gear 5",73
+336,"Book of the Eerie Mutt",12,"Seasonal Gear 5",73
+337,"Codex of the Shrine Guardian",13,"Seasonal Gear 5",73
+338,"Globe of the Lucky Snake",14,"Seasonal Gear 5",73
+339,"Buckler of the Legendary Cat",3,"Seasonal Gear 5",73
+340,"Yo-kai Watch",19,"Seasonal Gear 5",73
+341,"Legacy Warrior Coronet",1,"Seasonal Gear 2",29
+342,"Legacy Warrior Mail",2,"Seasonal Gear 2",29
+343,"Legacy Warrior Armguards",3,"Seasonal Gear 2",29
+344,"Legacy Warrior Breeches",4,"Seasonal Gear 2",29
+345,"Legacy Warrior Sabatons",5,"Seasonal Gear 2",29
+346,"Hatchling Earring",11,"Exclusive Extras",83
+347,"Dragon Monocle",6,"Achievements",78
+348,"Starlight Robe",1,"Seasonal Gear 4",65
+349,"Vampire's Vest",1,"Seasonal Gear 3",39
+350,"Red Tori Kabuto",1,"Seasonal Gear 4",48
+351,"Black Tori Kabuto",2,"Seasonal Gear 4",48
+352,"Leonhart Jacket",14,"Exclusive Extras",91
+353,"Leonhart Gloves",15,"Exclusive Extras",91
+354,"Leonhart Bottoms",16,"Exclusive Extras",91
+355,"Leonhart Boots",17,"Exclusive Extras",91
+356,"Songbird Hat",6,"Seasonal Gear 1",15
+357,"Songbird Jacket",7,"Seasonal Gear 1",15
+358,"Songbird Gloves",8,"Seasonal Gear 1",15
+359,"Songbird Skirt",9,"Seasonal Gear 1",15
+360,"Songbird Boots",10,"Seasonal Gear 1",15
+361,"Royal Seneschal's Chapeau",1,"Seasonal Gear 1",15
+362,"Royal Seneschal's Coat",2,"Seasonal Gear 1",15
+363,"Royal Seneschal's Fingerless Gloves",3,"Seasonal Gear 1",15
+364,"Royal Seneschal's Breeches",4,"Seasonal Gear 1",15
+365,"Royal Seneschal's Boots",5,"Seasonal Gear 1",15
+366,"Chicken Knife",1,"Exclusive Extras",86
+367,"Ala Mhigan Earrings",2,"Exclusive Extras",86
+368,"Faire Joi",1,"Seasonal Gear 2",30
+369,"Faire Kohakama",2,"Seasonal Gear 2",30
+370,"Faire Zori",3,"Seasonal Gear 2",30
+371,"Werewolf Head",1,"Seasonal Gear 3",40
+372,"Werewolf Body",2,"Seasonal Gear 3",40
+373,"Werewolf Arms",3,"Seasonal Gear 3",40
+374,"Werewolf Bottoms",4,"Seasonal Gear 3",40
+375,"Werewolf Feet",5,"Seasonal Gear 3",40
+376,"Werewolf Legs",6,"Seasonal Gear 3",40
+377,"White Inu Kabuto",1,"Seasonal Gear 4",49
+378,"Black Inu Kabuto",2,"Seasonal Gear 4",49
+379,"Inoshishi Kabuto",1,"Seasonal Gear 4",50
+380,"Crimson Inoshishi Kabuto",2,"Seasonal Gear 4",50
+381,"Inferno Mask",1,"Exclusive Extras",94
+382,"Crag Mask",2,"Exclusive Extras",94
+383,"Housemaid's Brim",8,"Exclusive Extras",94
+384,"Housemaid's Apron Dress",9,"Exclusive Extras",94
+385,"Housemaid's Wristdresses",10,"Exclusive Extras",94
+386,"Housemaid's Bloomers",11,"Exclusive Extras",94
+387,"Housemaid's Pumps",12,"Exclusive Extras",94
+388,"Butler's Monocle",3,"Exclusive Extras",94
+389,"Butler's Jacket",4,"Exclusive Extras",94
+390,"Butler's Gloves",5,"Exclusive Extras",94
+391,"Butler's Slacks",6,"Exclusive Extras",94
+392,"Butler's Gaiters",7,"Exclusive Extras",94
+393,"Eastern Journey Battle Staff",13,"Exclusive Extras",94
+394,"Eastern Journey Circlet",14,"Exclusive Extras",94
+395,"Eastern Journey Jacket",15,"Exclusive Extras",94
+396,"Eastern Journey Armlets",16,"Exclusive Extras",94
+397,"Eastern Journey Bottoms",17,"Exclusive Extras",94
+398,"Eastern Journey Shoes",18,"Exclusive Extras",94
+399,"Cait Sith Ears",3,"Exclusive Extras",90
+400,"Moogle Head",1,"Exclusive Extras",93
+401,"Moogle Body",2,"Exclusive Extras",93
+402,"Moogle Arms",3,"Exclusive Extras",93
+403,"Moogle Buns",4,"Exclusive Extras",93
+404,"Moogle Legs",5,"Exclusive Extras",93
+405,"Abes Jacket",6,"Exclusive Extras",93
+406,"Abes Gloves",7,"Exclusive Extras",93
+407,"Abes Halfslops",8,"Exclusive Extras",93
+408,"Abes Boots",9,"Exclusive Extras",93
+409,"High Summoner's Dress",10,"Exclusive Extras",93
+410,"High Summoner's Armlets",11,"Exclusive Extras",93
+411,"High Summoner's Boots",12,"Exclusive Extras",93
+412,"Endless Summer Glasses",1,"Seasonal Gear 2",31
+413,"Endless Summer Top",2,"Seasonal Gear 2",31
+414,"Endless Summer Bottom",3,"Seasonal Gear 2",31
+415,"Endless Summer Sandals",4,"Seasonal Gear 2",31
+416,"Choir Hat",1,"Seasonal Gear 4",66
+417,"Choir Robe",2,"Seasonal Gear 4",66
+418,"Choir Shoes",3,"Seasonal Gear 4",66
+419,"Crimson Nezumi Kabuto",1,"Seasonal Gear 4",51
+420,"Cobalt Nezumi Kabuto",2,"Seasonal Gear 4",51
+421,"Matoya's Hat",4,"Exclusive Extras",90
+422,"Aetheryte Earring",2,"Exclusive Extras",87
+423,"Lucian Prince's Jacket",1,"Seasonal Gear 5",70
+424,"Lucian Prince's Fingerless Glove",2,"Seasonal Gear 5",70
+425,"Lucian Prince's Bottoms",3,"Seasonal Gear 5",70
+426,"Lucian Prince's Boots",4,"Seasonal Gear 5",70
+427,"Flower Crown",1,"Seasonal Gear 1",16
+428,"Spriggan Jacket",1,"Seasonal Gear 1",21
+429,"Spriggan Bottoms",2,"Seasonal Gear 1",21
+430,"Spriggan Boots",3,"Seasonal Gear 1",21
+431,"Gigas Greatsword",1,"Seasonal Gear 4",58
+432,"Tonberry Knife",2,"Seasonal Gear 4",58
+433,"Moonfire Hachimaki",1,"Seasonal Gear 2",32
+434,"White Painted Moogle Mask",2,"Seasonal Gear 2",32
+435,"Black Painted Moogle Mask",3,"Seasonal Gear 2",32
+436,"Painted Namazu Mask",4,"Seasonal Gear 2",32
+437,"White Moonfire Happi",5,"Seasonal Gear 2",32
+438,"Red Moonfire Happi",6,"Seasonal Gear 2",32
+439,"Black Moonfire Happi",7,"Seasonal Gear 2",32
+440,"Moonfire Tabi",8,"Seasonal Gear 2",32
+441,"Revolver",1,"Exclusive Extras",87
+442,"Ribbon",7,"Exclusive Extras",92
+443,"Crimson Ushi Kabuto",1,"Seasonal Gear 4",52
+444,"Black Ushi Kabuto",2,"Seasonal Gear 4",52
+445,"Valentione Rose Hat",1,"Seasonal Gear 4",59
+446,"Valentione Rose Waistcoat",2,"Seasonal Gear 4",59
+447,"Valentione Rose Gloves",3,"Seasonal Gear 4",59
+448,"Valentione Rose Slacks",4,"Seasonal Gear 4",59
+449,"Valentione Rose Shoes",5,"Seasonal Gear 4",59
+450,"Valentione Forget-me-not Hat",6,"Seasonal Gear 4",59
+451,"Valentione Forget-me-not Waistcoat",7,"Seasonal Gear 4",59
+452,"Valentione Forget-me-not Gloves",8,"Seasonal Gear 4",59
+453,"Valentione Forget-me-not Slacks",9,"Seasonal Gear 4",59
+454,"Valentione Forget-me-not Shoes",10,"Seasonal Gear 4",59
+455,"Valentione Acacia Hat",11,"Seasonal Gear 4",59
+456,"Valentione Acacia Waistcoat",12,"Seasonal Gear 4",59
+457,"Valentione Acacia Gloves",13,"Seasonal Gear 4",59
+458,"Valentione Acacia Slacks",14,"Seasonal Gear 4",59
+459,"Valentione Acacia Shoes",15,"Seasonal Gear 4",59
+460,"Valentione Rose Ribboned Hat",16,"Seasonal Gear 4",59
+461,"Valentione Rose Dress",17,"Seasonal Gear 4",59
+462,"Valentione Rose Ribboned Gloves",18,"Seasonal Gear 4",59
+463,"Valentione Rose Tights",19,"Seasonal Gear 4",59
+464,"Valentione Rose Heels",20,"Seasonal Gear 4",59
+465,"Valentione Forget-me-not Ribboned Hat",21,"Seasonal Gear 4",59
+466,"Valentione Forget-me-not Dress",22,"Seasonal Gear 4",59
+467,"Valentione Forget-me-not Ribboned Gloves",23,"Seasonal Gear 4",59
+468,"Valentione Forget-me-not Tights",24,"Seasonal Gear 4",59
+469,"Valentione Forget-me-not Heels",25,"Seasonal Gear 4",59
+470,"Valentione Acacia Ribboned Hat",26,"Seasonal Gear 4",59
+471,"Valentione Acacia Dress",27,"Seasonal Gear 4",59
+472,"Valentione Acacia Ribboned Gloves",28,"Seasonal Gear 4",59
+473,"Valentione Acacia Tights",29,"Seasonal Gear 4",59
+474,"Valentione Acacia Heels",30,"Seasonal Gear 4",59
+475,"Seneschal's Monocle",1,"Seasonal Gear 1",17
+476,"Princess's Peach Corsage",2,"Seasonal Gear 1",17
+477,"Rabbit Head",1,"Seasonal Gear 1",22
+478,"Rabbit Suit",2,"Seasonal Gear 1",22
+479,"Dapper Rabbit Suit",3,"Seasonal Gear 1",22
+480,"Kupo Crown",24,"Achievements",80
+481,"Summer's Flame Hat",1,"Seasonal Gear 2",33
+482,"Summer's Flame Top",2,"Seasonal Gear 2",33
+483,"Summer's Flame Wrist Torque",3,"Seasonal Gear 2",33
+484,"Summer's Flame Pareo",4,"Seasonal Gear 2",33
+485,"Summer's Flame Sandals",5,"Seasonal Gear 2",33
+486,"Bozjan Earring",13,"Achievements",76
+487,"Katana of the King's Counsel",15,"Seasonal Gear 5",73
+488,"Rapier of the Serpent Lord",16,"Seasonal Gear 5",73
+489,"Gunblade of the Yo-kai King",17,"Seasonal Gear 5",73
+490,"Glaives of the Dark Princess",18,"Seasonal Gear 5",73
+491,"Lovely Moogle Cap",1,"Seasonal Gear 4",60
+492,"Golden Tora Kabuto",1,"Seasonal Gear 4",53
+493,"Silver Tora Kabuto",2,"Seasonal Gear 4",53
+494,"Menphina's Earring",2,"Exclusive Extras",88
+495,"Fat Cat Earrings",13,"Exclusive Extras",93
+496,"Great Serpent of Ringa",14,"Exclusive Extras",93
+497,"Chicken Head",1,"Seasonal Gear 1",23
+498,"Chicken Suit",2,"Seasonal Gear 1",23
+499,"Heavensturn Domaru",1,"Seasonal Gear 4",54
+500,"Heavensturn Kote",2,"Seasonal Gear 4",54
+501,"Heavensturn Haidate",3,"Seasonal Gear 4",54
+502,"Heavensturn Sune-ate",4,"Seasonal Gear 4",54
+503,"Little Lady's Crown",1,"Seasonal Gear 1",18
+504,"Clown's Hat",1,"Seasonal Gear 3",41
+505,"Clown's Top",2,"Seasonal Gear 3",41
+506,"Clown's Shortgloves",3,"Seasonal Gear 3",41
+507,"Clown's Bottoms",4,"Seasonal Gear 3",41
+508,"Clown's Boots",5,"Seasonal Gear 3",41
+509,"Death Scythe",1,"Exclusive Extras",88
+510,"Migratory Plume",4,"Achievements",78
+511,"Summer Sunset Bandana",1,"Seasonal Gear 2",34
+512,"Summer Sunset Beach Cover-up",2,"Seasonal Gear 2",34
+513,"Summer Sunset Wrist Torques",3,"Seasonal Gear 2",34
+514,"Summer Sunset Bottoms",4,"Seasonal Gear 2",34
+515,"Summer Sunset Sandals",5,"Seasonal Gear 2",34
+516,"Valentione Emissary's Hat",1,"Seasonal Gear 4",61
+517,"Valentione Emissary's Jacket",2,"Seasonal Gear 4",61
+518,"Valentione Emissary's Bottoms",3,"Seasonal Gear 4",61
+519,"Valentione Emissary's Boots",4,"Seasonal Gear 4",61
+520,"Valentione Emissary's Dress Hat",5,"Seasonal Gear 4",61
+521,"Valentione Emissary's Ruffled Dress",6,"Seasonal Gear 4",61
+522,"Valentione Emissary's Culottes",7,"Seasonal Gear 4",61
+523,"Valentione Emissary's Dress Boots",8,"Seasonal Gear 4",61
+524,"Tonberry Head",1,"Seasonal Gear 1",24
+525,"Tonberry Body",2,"Seasonal Gear 1",24
+526,"Tonberry Hands",3,"Seasonal Gear 1",24
+527,"Tonberry Culottes",4,"Seasonal Gear 1",24
+528,"Tonberry Boots",5,"Seasonal Gear 1",24
+529,"Wake Doctor's Mask",1,"Seasonal Gear 3",42
+530,"Wake Doctor's White Coat",2,"Seasonal Gear 3",42
+531,"Wake Doctor's Rubber Gloves",3,"Seasonal Gear 3",42
+532,"Wake Doctor's Bottoms",4,"Seasonal Gear 3",42
+533,"Wake Doctor's Shoes",5,"Seasonal Gear 3",42
+534,"Phoenix Riser Helmet",1,"Seasonal Gear 2",35
+535,"Phoenix Riser Suit",2,"Seasonal Gear 2",35
+536,"Unorthodox Saint's Cap",1,"Seasonal Gear 4",67
+537,"Unorthodox Saint's Halfrobe",2,"Seasonal Gear 4",67
+538,"Unorthodox Saint's Gloves",3,"Seasonal Gear 4",67
+539,"Unorthodox Saint's Bottoms",4,"Seasonal Gear 4",67
+540,"Unorthodox Saint's Longboots",5,"Seasonal Gear 4",67
+541,"Scion Chronocler's Cowl",1,"Costumes",99
+542,"Scion Chronocler's Ringbands",2,"Costumes",99
+543,"Scion Chronocler's Tights",3,"Costumes",99
+544,"Scion Chronocler's Caligae",4,"Costumes",99
+545,"Far Eastern Matriarch's Sun Hat",4,"Fashions",161
+546,"Far Eastern Matriarch's Dress",5,"Fashions",161
+547,"Far Eastern Matriarch's Boots",6,"Fashions",161
+548,"Far Eastern Patriarch's Hat",1,"Fashions",161
+549,"Far Eastern Patriarch's Tunic",2,"Fashions",161
+550,"Far Eastern Patriarch's Longboots",3,"Fashions",161
+551,"Yellow-pommed Moogle Cap",1,"Mascots",142
+552,"Ruby Carbuncle Slippers",3,"Mascots",143
+553,"Topaz Carbuncle Slippers",2,"Mascots",143
+554,"Emerald Carbuncle Slippers",1,"Mascots",143
+555,"Replica Manderville Earrings",2,"Fashions",116
+556,"Metian Vest",1,"Seasonal Gear 5",71
+557,"Metian Gauntlets",2,"Seasonal Gear 5",71
+558,"Metian Chausses",3,"Seasonal Gear 5",71
+559,"Metian Sollerets",4,"Seasonal Gear 5",71
+560,"Gentlebean Knit Cap",3,"Seasonal Gear 5",74
+561,"Gentlebean Parka",4,"Seasonal Gear 5",74
+562,"Gentlebean Bottoms",5,"Seasonal Gear 5",74
+563,"Gentlebean Shoes",6,"Seasonal Gear 5",74
+564,"Matte Winner's Crown",1,"Seasonal Gear 5",74
+565,"Imp Head",1,"Seasonal Gear 1",25
+566,"Imp Suit",2,"Seasonal Gear 1",25
+567,"Scion Conjurer's Dalmatica",1,"Costumes",98
+568,"Scion Conjurer's Chausses",2,"Costumes",98
+569,"Scion Conjurer's Pattens",3,"Costumes",98
+570,"Scion Thief's Tunic",1,"Costumes",97
+571,"Scion Thief's Halfgloves",2,"Costumes",97
+572,"Scion Thief's Gaskins",3,"Costumes",97
+573,"Scion Thief's Armored Caligae",4,"Costumes",97
+574,"Scion Thaumaturge's Monocle",1,"Costumes",100
+575,"Scion Thaumaturge's Robe",2,"Costumes",100
+576,"Scion Thaumaturge's Gauntlets",3,"Costumes",100
+577,"Scion Thaumaturge's Gaskins",4,"Costumes",100
+578,"Scion Thaumaturge's Moccasins",5,"Costumes",100
+579,"Scion Striker's Visor",1,"Costumes",101
+580,"Scion Striker's Attire",2,"Costumes",101
+581,"Antecedent's Attire",1,"Costumes",96
+582,"Ironworks Engineer's Goggles",1,"Costumes",105
+583,"Ironworks Engineer's Doublet",2,"Costumes",105
+584,"Ironworks Engineer's Gloves",3,"Costumes",105
+585,"Ironworks Engineer's Slops",4,"Costumes",105
+586,"Ironworks Engineer's Boots",5,"Costumes",105
+587,"Head Engineer's Goggles",1,"Costumes",106
+588,"Head Engineer's Attire",2,"Costumes",106
+589,"Scion Healer's Robe",4,"Costumes",98
+590,"Scion Healer's Halftights",5,"Costumes",98
+591,"Scion Healer's Highboots",6,"Costumes",98
+592,"Scion Rogue's Jacket",5,"Costumes",97
+593,"Scion Rogue's Armguards",6,"Costumes",97
+594,"Scion Rogue's Gaskins",7,"Costumes",97
+595,"Scion Rogue's Boots",8,"Costumes",97
+596,"Scion Liberator's Jacket",3,"Costumes",101
+597,"Scion Liberator's Fingerless Gloves",4,"Costumes",101
+598,"Scion Liberator's Pantalettes",5,"Costumes",101
+599,"Scion Liberator's Sabatons",6,"Costumes",101
+600,"Scion Liberator's Earrings",7,"Costumes",101
+601,"Doman Liege's Dogi",1,"Costumes",110
+602,"Doman Liege's Kote",2,"Costumes",110
+603,"Doman Liege's Kyakui",3,"Costumes",110
+604,"Doman Liege's Kyahan",4,"Costumes",110
+605,"Leal Samurai's Kasa",1,"Costumes",111
+606,"Leal Samurai's Dogi",2,"Costumes",111
+607,"Leal Samurai's Tekko",3,"Costumes",111
+608,"Leal Samurai's Tsutsu-hakama",4,"Costumes",111
+609,"Leal Samurai's Geta",5,"Costumes",111
+610,"Ward Knight's Armor",14,"Costumes",107
+611,"Ward Knight's Gauntlets",15,"Costumes",107
+612,"Ward Knight's Trousers",16,"Costumes",107
+613,"Ward Knight's Sabatons",17,"Costumes",107
+614,"Ward Mage's Robe",18,"Costumes",107
+615,"Ward Mage's Dress Gloves",19,"Costumes",107
+616,"Ward Mage's Trousers",20,"Costumes",107
+617,"Ward Mage's Sabatons",21,"Costumes",107
+618,"Lord Commander's Coat",1,"Costumes",108
+619,"Lord Commander's Gloves",2,"Costumes",108
+620,"Blackbosom Hat",7,"Costumes",104
+621,"Blackbosom Dress",8,"Costumes",104
+622,"Blackbosom Dress Gloves",9,"Costumes",104
+623,"Blackbosom Boots",10,"Costumes",104
+624,"Cracked Manderville Monocle",1,"Costumes",103
+625,"Torn Manderville Coatee",2,"Costumes",103
+626,"Singed Manderville Gloves",3,"Costumes",103
+627,"Stained Manderville Bottoms",4,"Costumes",103
+628,"Scuffed Manderville Gaiters",5,"Costumes",103
+629,"Gown of Light",2,"Costumes",96
+630,"Skirt of Light",3,"Costumes",96
+631,"Scion Hearer's Hood",1,"Costumes",102
+632,"Scion Hearer's Coat",2,"Costumes",102
+633,"Scion Hearer's Shoes",3,"Costumes",102
+634,"Majestic Dress",1,"Costumes",112
+635,"Majestic Wristdresses",2,"Costumes",112
+636,"Majestic Boots",3,"Costumes",112
+637,"Scion Sorceress's Headdress",8,"Costumes",98
+638,"Scion Sorceress's Robe",9,"Costumes",98
+639,"Scion Sorceress's Shadowtalons",10,"Costumes",98
+640,"Scion Sorceress's High Boots",11,"Costumes",98
+641,"Sharlayan Prodigy's Suit",1,"Costumes",95
+642,"Brand-new Alphinaud's Attire",2,"Costumes",95
+643,"Oracle Top",1,"Costumes",113
+644,"Oracle Pantalettes",2,"Costumes",113
+645,"Oracle Leggings",3,"Costumes",113
+646,"Omega-M Attire",1,"Costumes",115
+647,"Omega-M Ear Cuffs",2,"Costumes",115
+648,"Omega-F Attire",3,"Costumes",115
+649,"Omega-F Earrings",4,"Costumes",115
+650,"Lyse's Leadership Attire",8,"Costumes",101
+651,"Gaia's Attire",8,"Costumes",114
+652,"Ecliptic Hyposkhesphyra",6,"Costumes",114
+653,"Umbral Hyposkhesphyra",7,"Costumes",114
+654,"Stygian Hyposkhesphyra",5,"Costumes",114
+655,"Stark Hyposkhesphyra",4,"Costumes",114
+656,"Shadow Hyposkhesphyra",3,"Costumes",114
+657,"Black Hyposkhesphyra",2,"Costumes",114
+658,"Obscure Hyposkhesphyra",1,"Costumes",114
+659,"Brand-new Alisaie's Attire",3,"Costumes",95
+660,"Iceheart Robe",1,"Costumes",109
+661,"Iceheart Armlets",2,"Costumes",109
+662,"Iceheart Bottoms",3,"Costumes",109
+663,"Iceheart Thighboots",4,"Costumes",109
+664,"Radiance",1,"Costumes",107
+665,"Ultimum",2,"Costumes",107
+666,"Ward Knight's Shield",3,"Costumes",107
+667,"Greycloud",4,"Costumes",107
+668,"Bloody Anne",5,"Costumes",107
+669,"Stampede",6,"Costumes",107
+670,"Shattered Heart",7,"Costumes",107
+671,"Winter",8,"Costumes",107
+672,"Hordebane",9,"Costumes",107
+673,"The Destroyer's Stead",10,"Costumes",107
+674,"Widowbreaker",11,"Costumes",107
+675,"Imagination",12,"Costumes",107
+676,"Worm of the Dell",13,"Costumes",107
+677,"Blackbosom Grim Reaper",1,"Costumes",104
+678,"Blackbosom Soul Reaper",2,"Costumes",104
+679,"Blackbosom Fate Reaper",3,"Costumes",104
+680,"Blackbosom Void Reaper",4,"Costumes",104
+681,"Blackbosom Blood Reaper",5,"Costumes",104
+682,"Nightseeker",7,"Costumes",98
+683,"Blackbosom Heart Reaper",6,"Costumes",104
+684,"Loyal Housemaid's Brim",6,"Fashions",149
+685,"Loyal Housemaid's Apron Dress",7,"Fashions",149
+686,"Loyal Housemaid's Wristdresses",8,"Fashions",149
+687,"Loyal Housemaid's Bloomers",9,"Fashions",149
+688,"Loyal Housemaid's Pumps",10,"Fashions",149
+689,"Loyal Butler's Monocle",1,"Fashions",149
+690,"Loyal Butler's Jacket",2,"Fashions",149
+691,"Loyal Butler's Gloves",3,"Fashions",149
+692,"Loyal Butler's Slacks",4,"Fashions",149
+693,"Loyal Butler's Gaiters",5,"Fashions",149
+694,"Exclusive Eastern Journey Circlet",2,"Fashions",147
+695,"Exclusive Eastern Journey Jacket",3,"Fashions",147
+696,"Exclusive Eastern Journey Armlets",4,"Fashions",147
+697,"Exclusive Eastern Journey Bottoms",5,"Fashions",147
+698,"Exclusive Eastern Journey Shoes",6,"Fashions",147
+699,"Eastern Lady's Togi",4,"Fashions",159
+700,"Eastern Lady's Loincloth",5,"Fashions",159
+701,"Eastern Lady's Crakows",6,"Fashions",159
+702,"Eastern Lord's Togi",1,"Fashions",159
+703,"Eastern Lord's Trousers",2,"Fashions",159
+704,"Eastern Lord's Crakows",3,"Fashions",159
+705,"Fuga Haori",1,"Fashions",145
+706,"Fuga Hakama",2,"Fashions",145
+707,"Far Eastern Noble's Mortarboard",1,"Fashions",160
+708,"Far Eastern Noble's Robe",2,"Fashions",160
+709,"Far Eastern Noble's Armlets",3,"Fashions",160
+710,"Far Eastern Noble's Petticoat",4,"Fashions",160
+711,"Far Eastern Noble's Sandals",5,"Fashions",160
+712,"Far Eastern Gentleman's Hat",1,"Fashions",162
+713,"Far Eastern Gentleman's Robe",2,"Fashions",162
+714,"Far Eastern Gentleman's Haidate",3,"Fashions",162
+715,"Far Eastern Gentleman's Boots",4,"Fashions",162
+716,"Far Eastern Beauty's Hairpin",5,"Fashions",162
+717,"Far Eastern Beauty's Robe",6,"Fashions",162
+718,"Far Eastern Beauty's Koshita",7,"Fashions",162
+719,"Far Eastern Beauty's Boots",8,"Fashions",162
+720,"Star of the Nezha Lord",1,"Fashions",148
+721,"Nezha Lord's Togi",2,"Fashions",148
+722,"Nezha Lord's Gloves",3,"Fashions",148
+723,"Nezha Lord's Slops",4,"Fashions",148
+724,"Nezha Lord's Boots",5,"Fashions",148
+725,"Star of the Nezha Lady",6,"Fashions",148
+726,"Nezha Lady's Togi",7,"Fashions",148
+727,"Nezha Lady's Gloves",8,"Fashions",148
+728,"Nezha Lady's Slops",9,"Fashions",148
+729,"Nezha Lady's Kneeboots",10,"Fashions",148
+730,"Angelic Circlet",1,"Fashions",146
+731,"Angelic Wings",2,"Fashions",146
+732,"Angelic Chaplets",3,"Fashions",146
+733,"Angelic Slops",4,"Fashions",146
+734,"Angelic Thighboots",5,"Fashions",146
+735,"Demonic Horns",6,"Fashions",146
+736,"Demonic Wings",7,"Fashions",146
+737,"Demonic Gloves",8,"Fashions",146
+738,"Demonic Slops",9,"Fashions",146
+739,"Demonic Thighboots",10,"Fashions",146
+740,"Faerie Tale Prince's Circlet",1,"Fashions",150
+741,"Faerie Tale Prince's Vest",2,"Fashions",150
+742,"Faerie Tale Prince's Gloves",3,"Fashions",150
+743,"Faerie Tale Prince's Slops",4,"Fashions",150
+744,"Faerie Tale Prince's Boots",5,"Fashions",150
+745,"Faerie Tale Princess's Tiara",6,"Fashions",150
+746,"Faerie Tale Princess's Dress",7,"Fashions",150
+747,"Faerie Tale Princess's Gloves",8,"Fashions",150
+748,"Faerie Tale Princess's Long Skirt",9,"Fashions",150
+749,"Faerie Tale Princess's Heels",10,"Fashions",150
+750,"Far Eastern Schoolgirl's Hair Ribbon",4,"Fashions",165
+751,"Far Eastern Schoolgirl's Hakama",5,"Fashions",165
+752,"Far Eastern Schoolgirl's Boots",6,"Fashions",165
+753,"Far Eastern Schoolboy's Hat",1,"Fashions",165
+754,"Far Eastern Schoolboy's Hakama",2,"Fashions",165
+755,"Far Eastern Schoolboy's Zori",3,"Fashions",165
+756,"Mun'gaek Hat",1,"Fashions",151
+757,"Mun'gaek Uibok",2,"Fashions",151
+758,"Mun'gaek Cuffs",3,"Fashions",151
+759,"Mun'gaek Trousers",4,"Fashions",151
+760,"Mun'gaek Boots",5,"Fashions",151
+761,"Eastern Socialite's Hat",6,"Fashions",151
+762,"Eastern Socialite's Cheongsam",7,"Fashions",151
+763,"Eastern Socialite's Gloves",8,"Fashions",151
+764,"Eastern Socialite's Skirt",9,"Fashions",151
+765,"Eastern Socialite's Boots",10,"Fashions",151
+766,"Far Eastern Officer's Hat",1,"Fashions",164
+767,"Far Eastern Officer's Robe",2,"Fashions",164
+768,"Far Eastern Officer's Armband",3,"Fashions",164
+769,"Far Eastern Officer's Bottoms",4,"Fashions",164
+770,"Far Eastern Officer's Boots",5,"Fashions",164
+771,"Far Eastern Maiden's Hat",6,"Fashions",164
+772,"Far Eastern Maiden's Tunic",7,"Fashions",164
+773,"Far Eastern Maiden's Armband",8,"Fashions",164
+774,"Far Eastern Maiden's Bottoms",9,"Fashions",164
+775,"Far Eastern Maiden's Boots",10,"Fashions",164
+776,"Mheg Deaca Circlet",1,"Fashions",153
+777,"Mheg Deaca Robe",2,"Fashions",153
+778,"Mheg Deaca Bottoms",3,"Fashions",153
+779,"Mheg Deaca Boots",4,"Fashions",153
+780,"Peacock Hat",1,"Fashions",152
+781,"Peacock Robe",2,"Fashions",152
+782,"Peacock Gloves",3,"Fashions",152
+783,"Peacock Skirt",4,"Fashions",152
+784,"Peacock Shoes",5,"Fashions",152
+785,"Dirndl's Hat",6,"Fashions",154
+786,"Dirndl's Bodice",7,"Fashions",154
+787,"Dirndl's Wrist Torque",8,"Fashions",154
+788,"Dirndl's Long Skirt",9,"Fashions",154
+789,"Dirndl's Pumps",10,"Fashions",154
+790,"Bergsteiger's Hat",1,"Fashions",154
+791,"Bergsteiger's Jacket",2,"Fashions",154
+792,"Bergsteiger's Halfgloves",3,"Fashions",154
+793,"Bergsteiger's Halfslops",4,"Fashions",154
+794,"Bergsteiger's Boots",5,"Fashions",154
+795,"Collegiate Blazer (Tie)",1,"Fashions",155
+796,"Collegiate Slacks",2,"Fashions",155
+797,"Collegiate Shoes (Short Socks)",3,"Fashions",155
+798,"Collegiate Blazer (Bow)",4,"Fashions",155
+799,"Collegiate Skirt",5,"Fashions",155
+800,"Collegiate Shoes (Tall Socks)",6,"Fashions",155
+801,"Eastern Lord Errant's Hat",1,"Fashions",166
+802,"Eastern Lord Errant's Jacket",2,"Fashions",166
+803,"Eastern Lord Errant's Wristbands",3,"Fashions",166
+804,"Eastern Lord Errant's Trousers",4,"Fashions",166
+805,"Eastern Lord Errant's Shoes",5,"Fashions",166
+806,"Eastern Lady Errant's Hat",6,"Fashions",166
+807,"Eastern Lady Errant's Coat",7,"Fashions",166
+808,"Eastern Lady Errant's Gloves",8,"Fashions",166
+809,"Eastern Lady Errant's Skirt",9,"Fashions",166
+810,"Eastern Lady Errant's Boots",10,"Fashions",166
+811,"Resshi Hachigane",1,"Fashions",156
+812,"Resshi Haori",2,"Fashions",156
+813,"Resshi Tsutsu-hakama",3,"Fashions",156
+814,"Resshi Zori",4,"Fashions",156
+815,"Street Cap",1,"Fashions",157
+816,"Street Top",2,"Fashions",157
+817,"Street Handwear",4,"Fashions",157
+818,"Street Cargo Trousers",5,"Fashions",157
+819,"Street High-top Shoes",6,"Fashions",157
+820,"Street Jacket",3,"Fashions",157
+821,"Far Northern Headpiece",11,"Fashions",154
+822,"Far Northern Tunic",12,"Fashions",154
+823,"Far Northern Felted Gloves",13,"Fashions",154
+824,"Far Northern Bottoms",14,"Fashions",154
+825,"Far Northern Boots",15,"Fashions",154
+826,"Educand's Cap",7,"Fashions",155
+827,"Educand's Jacket",8,"Fashions",155
+828,"Educand's Slacks",9,"Fashions",155
+829,"Educand's Shoes",10,"Fashions",155
+830,"Educand's Sailor Top",11,"Fashions",155
+831,"Educand's Sailor Skirt",12,"Fashions",155
+832,"Educand's Loafers",13,"Fashions",155
+833,"Seigneur's Beret",11,"Fashions",150
+834,"Seigneur's Jerkin",12,"Fashions",150
+835,"Seigneur's Gloves",13,"Fashions",150
+836,"Seigneur's Breeches",14,"Fashions",150
+837,"Seigneur's Longboots",15,"Fashions",150
+838,"Magitek Ear Guards",1,"Fashions",158
+839,"Magitek Jacket",2,"Fashions",158
+840,"Magitek Fingerstalls",3,"Fashions",158
+841,"Magitek Bottoms",4,"Fashions",158
+842,"Magitek Shoes",5,"Fashions",158
+843,"Emerald Carbuncle Ears",4,"Mascots",143
+844,"Emerald Carbuncle Jacket",5,"Mascots",143
+845,"Emerald Carbuncle Boots",6,"Mascots",143
+846,"Topaz Carbuncle Ears",7,"Mascots",143
+847,"Topaz Carbuncle Jacket",8,"Mascots",143
+848,"Topaz Carbuncle Boots",9,"Mascots",143
+849,"Ruby Carbuncle Ears",10,"Mascots",143
+850,"Ruby Carbuncle Jacket",11,"Mascots",143
+851,"Ruby Carbuncle Boots",12,"Mascots",143
+852,"Fat Cat Hood",1,"Mascots",144
+853,"Fat Cat Loungewear",2,"Mascots",144
+854,"Fat Cat Halfslops",3,"Mascots",144
+855,"Fat Cat Slippers",4,"Mascots",144
+856,"Fat Cat Shorts",5,"Mascots",144
+857,"Woodland Warden's Top",5,"Fashions",153
+858,"Woodland Warden's Fingerstalls",6,"Fashions",153
+859,"Woodland Warden's Breeches",7,"Fashions",153
+860,"Woodland Warden's Longboots",9,"Fashions",153
+861,"Woodland Warden's Skirt",8,"Fashions",153
+862,"Crystarium Prodigy's Top",4,"Costumes",95
+863,"Crystarium Prodigy's Fingerless Gloves",5,"Costumes",95
+864,"Crystarium Prodigy's Hose",6,"Costumes",95
+865,"Crystarium Prodigy's Thighboots",7,"Costumes",95
+866,"Far Eastern Performer's Mask",1,"Fashions",167
+867,"Far Eastern Performer's Dogi",2,"Fashions",167
+868,"Far Eastern Performer's Kyakui",3,"Fashions",167
+869,"Far Eastern Performer's Zori",4,"Fashions",167
+870,"Sweet Dream Cap",7,"Seasonal Gear 4",62
+871,"Sweet Dream Tunic",8,"Seasonal Gear 4",62
+872,"Sweet Dream Boots",9,"Seasonal Gear 4",62
+873,"Tetsuji Usagi Kabuto",1,"Seasonal Gear 4",44
+874,"Black Tetsuji Usagi Kabuto",2,"Seasonal Gear 4",44
+875,"Silver Tetsuji Usagi Kabuto",3,"Seasonal Gear 4",44
+876,"Exclusive Eastern Journey Battle Staff",1,"Fashions",147
+877,"Replica White Ravens",1,"Fashions",116
+878,"Glossy Winner's Crown",2,"Seasonal Gear 5",74
+879,"Azeyma's Earrings",2,"Exclusive Extras",89
+880,"",1,"Fashions",163
+881,"",2,"Fashions",163
+882,"",3,"Fashions",163
+883,"",4,"Fashions",163
+884,"",5,"Fashions",163
+885,"",6,"Fashions",163
+886,"Chocobo Brush",1,"Exclusive Extras",89
+887,"Night of Devilry Horns",1,"Seasonal Gear 3",43
+888,"Night of Devilry Shirt",2,"Seasonal Gear 3",43
+889,"Night of Devilry Fingerless Gloves",3,"Seasonal Gear 3",43
+890,"Night of Devilry Trousers",4,"Seasonal Gear 3",43
+891,"Night of Devilry Boots",5,"Seasonal Gear 3",43
+892,"Dynasty Crown",3,"Achievements",78
+893,"セネシャルプリンス・ヘッドセット",1,"Seasonal Gear 1",117
+894,"セネシャルプリンス・ジャケット",2,"Seasonal Gear 1",117
+895,"セネシャルプリンス・グローブ",3,"Seasonal Gear 1",117
+896,"セネシャルプリンス・トラウザー",4,"Seasonal Gear 1",117
+897,"セネシャルプリンス・ロングブーツ",5,"Seasonal Gear 1",117
+898,"Leisurewear Knit Cap",1,"Fashions",118
+899,"Leisurewear High-cut Shirt",2,"Fashions",118
+900,"",4,"Fashions",118
+901,"Leisurewear Sweatpants",5,"Fashions",118
+902,"Leisurewear Shoes",6,"Fashions",118
+903,"Leisurewear High-cut Knit Top",3,"Fashions",118
+904,"",1,"Fashions",119
+905,"",2,"Fashions",119
+906,"",4,"Fashions",119
+907,"",5,"Fashions",119
+908,"",7,"Fashions",119
+909,"",3,"Fashions",119
+910,"",6,"Fashions",119
+911,"",8,"Fashions",119
+912,"Ex-arch's Jacket",3,"Costumes",121
+913,"Ex-arch's Bracers",4,"Costumes",121
+914,"Ex-arch's Halfslops",5,"Costumes",121
+915,"Ex-arch's Boots",6,"Costumes",121
+916,"Zero's Order Chapeau",2,"Costumes",122
+917,"Zero's Order Cuirass",3,"Costumes",122
+918,"Zero's Order Flanchard",4,"Costumes",122
+919,"Zero's Order Earring",5,"Costumes",122
+920,"King of Leonis Mail",1,"Fashions",123
+921,"King of Leonis Armguards",2,"Fashions",123
+922,"King of Leonis Brais",3,"Fashions",123
+923,"King of Leonis Boots",4,"Fashions",123
+924,"Queen of Hourne Bliaud",5,"Fashions",123
+925,"",6,"Fashions",123
+926,"Queen of Hourne Tights",7,"Fashions",123
+927,"Queen of Hourne Boots",8,"Fashions",123
+928,"Ex-arch's Cane",1,"Costumes",121
+929,"Ex-arch's Rod",2,"Costumes",121
+930,"Zero's Order Death Scythe",1,"Costumes",122

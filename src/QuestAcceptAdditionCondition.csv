@@ -31,7 +31,7 @@ int32,Quest,Quest,uint32,bit&01
 70392,"Heavensward",,0,False
 70393,"Stormblood",,0,False
 70502,"Inscrutable Tastes",,0,False
-70503,"Wellspring of Tears","An Odd Fish Odyssey",0,True
+70503,"Wellspring of Tears","An Odd Fish Odyssey",70786,True
 70509,"Together as One",,0,False
 70515,"The Promise of Peace",,0,False
 70516,"Ever Greater, Ever Brighter",,0,False
@@ -46,3 +46,4 @@ int32,Quest,Quest,uint32,bit&01
 70546,"The Leap to Yak T'el",,0,False
 70547,"Through the Gate of Gold",,0,False
 70548,"Dawntrail",,0,False
+70724,"The Mightiest Shield","Heroes and Pretenders",70495,True

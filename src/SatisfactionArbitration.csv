@@ -33,3 +33,8 @@ int32,byte,SatisfactionNpc,Quest,byte
 11.0,5,"Ehll Tou","The Pride of Labyrinthos",0
 11.1,5,"Kurenai","The Pride of Labyrinthos",1
 11.2,5,"Kurenai","The Pride of Labyrinthos",3
+12.0,5,"Ehll Tou","",0
+12.1,5,"Kurenai","",3
+13.0,5,"Ehll Tou","",0
+13.1,5,"Kurenai","",1
+13.2,5,"Kurenai","",3

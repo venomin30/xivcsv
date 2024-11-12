@@ -37,7 +37,7 @@ Fashion accessories can be exchanged for facewear by speaking with Calamity salv
 3.6,"AddonTransient#1002","The heads of thunder and poison begin flailing about.","Proceed"
 3.7,"AddonTransient#1003","The dragon inhales...","Proceed"
 3.8,"AddonTransient#1004","Your fisher level is not high enough to use this bait. Proceed with the transaction?","Proceed"
-3.9,"AddonTransient#1008","Exchange <Format(IntegerParameter(2),FF022C)/> <SheetEn(Item,3,IntegerParameter(1),IntegerParameter(2),1)/> for the following item?",""
+3.9,"AddonTransient#1008","",""
 3.10,"AddonTransient#105","Unable to complete exchange. Insufficient <SheetEn(Item,3,IntegerParameter(1),2,1)/>.",""
 4.0,"AddonTransient#102","Unable to complete exchange. You cannot carry more than one of this untradable item.",""
 4.1,"AddonTransient#103","Unable to complete exchange. You can only possess one of that item.",""

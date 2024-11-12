@@ -672,3 +672,8 @@ int32,byte,BaseParam,bool,sbyte,int16,sbyte,int16,BaseParam,bool,sbyte,int16,sby
 668,3,"Determination",True,4,10,4,10,"Vitality",True,5,12,5,12,"Reduced Durability Loss",False,3,0,3,0
 669,3,"Direct Hit Rate",True,4,10,4,10,"Vitality",True,5,12,5,12,"Reduced Durability Loss",False,3,0,3,0
 670,4,"Critical Hit",False,1,0,1,0,"Vitality",False,1,0,1,0,"Determination",False,1,0,1,0
+671,3,"CP",True,21,76,26,96,"Craftsmanship",True,4,120,5,150,"",False,0,0,0,0
+672,3,"Perception",True,6,140,7,176,"Gathering",True,2,72,3,91,"",False,0,0,0,0
+673,3,"Spell Speed",True,4,10,4,10,"Vitality",True,5,12,5,12,"Reduced Durability Loss",False,3,0,3,0
+674,3,"Determination",True,4,10,4,10,"Vitality",True,5,12,5,12,"Reduced Durability Loss",False,3,0,3,0
+675,3,"Piety",True,4,10,4,10,"Vitality",True,5,12,5,12,"Reduced Durability Loss",False,3,0,3,0

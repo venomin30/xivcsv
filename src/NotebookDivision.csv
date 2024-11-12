@@ -59,27 +59,27 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 1014,"Crystarium Deliveries","Class",70,255,"Iola, Forgemaster",98,False,False,True,True,True,False,False,False,False
 1015,"Crystarium Deliveries","Class",70,255,"Cherished Memories",97,False,True,False,False,False,True,True,False,False
 1016,"Crystarium Deliveries","Class",70,255,"Friends of a Feather",96,False,False,False,False,False,False,False,True,True
-1017,"Ixal Quests","Society Quests",1,255,,9,False,True,True,True,True,True,True,True,True
+1017,"Ixal Quests","Society Quests",1,255,"A Bad Bladder",9,False,True,True,True,True,True,True,True,True
 1018,"Moogle Quests","Society Quests",50,255,,8,False,True,True,True,True,True,True,True,True
 1019,"Namazu Quests","Society Quests",60,255,,7,False,True,True,True,True,True,True,True,True
-1020,"Zhloe Aliapoh","Custom Deliveries",55,255,"Arms Wide Open",10,False,True,True,True,True,True,True,True,True
-1021,"M'naago","Custom Deliveries",55,255,"None Forgotten, None Forsaken",9,False,True,True,True,True,True,True,True,True
-1022,"Kurenai","Custom Deliveries",55,255,"The Seaweed Is Always Greener",8,False,True,True,True,True,True,True,True,True
-1023,"Adkiragh","Custom Deliveries",55,255,"Between a Rock and the Hard Place",7,False,True,True,True,True,True,True,True,True
-1024,"Kai-Shirr","Custom Deliveries",55,255,"Oh, Beehive Yourself",6,False,True,True,True,True,True,True,True,True
+1020,"Zhloe Aliapoh","Custom Deliveries",55,255,"Arms Wide Open",11,False,True,True,True,True,True,True,True,True
+1021,"M'naago","Custom Deliveries",55,255,"None Forgotten, None Forsaken",10,False,True,True,True,True,True,True,True,True
+1022,"Kurenai","Custom Deliveries",55,255,"The Seaweed Is Always Greener",9,False,True,True,True,True,True,True,True,True
+1023,"Adkiragh","Custom Deliveries",55,255,"Between a Rock and the Hard Place",8,False,True,True,True,True,True,True,True,True
+1024,"Kai-Shirr","Custom Deliveries",55,255,"Oh, Beehive Yourself",7,False,True,True,True,True,True,True,True,True
 1025,"Restoration","Sidequests",20,255,,98,False,True,True,True,True,True,True,True,True
 1026,"Other","Sidequests",20,255,,99,False,True,True,True,True,True,True,True,True
 1027,"Restoration (2)","Sidequests",255,255,,100,False,True,True,True,True,True,True,True,True
 1028,"Skysteel Tools","Sidequests",80,255,"Mislaid Plans",97,False,True,True,True,True,True,True,True,True
 1029,"Dwarf Quests","Society Quests",70,255,,6,False,True,True,True,True,True,True,True,True
-1030,"Ehll Tou","Custom Deliveries",55,255,"O Crafter, My Crafter",5,False,True,True,True,True,True,True,True,True
+1030,"Ehll Tou","Custom Deliveries",55,255,"O Crafter, My Crafter",6,False,True,True,True,True,True,True,True,True
 1031,"Restoration (3)","Sidequests",255,255,,100,False,True,True,True,True,True,True,True,True
 1032,"50-60","Collectables",50,255,,10,False,True,True,True,True,True,True,True,True
 1033,"61-70","Collectables",60,255,,9,False,True,True,True,True,True,True,True,True
 1034,"71-80","Collectables",70,255,,8,False,True,True,True,True,True,True,True,True
 1035,"Ornaments (1)","Others",50,255,,3,False,False,False,False,False,False,False,True,False
 1036,"Restoration (4)","Sidequests",255,255,,100,False,True,True,True,True,True,True,True,True
-1037,"Charlemend","Custom Deliveries",55,255,"You Can Count on It",4,False,True,True,True,True,True,True,True,True
+1037,"Charlemend","Custom Deliveries",55,255,"You Can Count on It",5,False,True,True,True,True,True,True,True,True
 1038,"Master Recipes (9)","Master Recipes",90,255,,90,True,True,True,True,True,True,True,True,True
 1039,"81-90","Collectables",80,255,,7,False,True,True,True,True,True,True,True,True
 1040,"Studium Deliveries","Class",80,255,"Professor Rurusha's New Friend",95,False,False,True,True,True,False,False,False,False
@@ -92,19 +92,21 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 1047,"Tabletop","Housing",12,255,,5,False,True,True,True,True,True,True,True,True
 1048,"Wall-mounted","Housing",12,255,,6,False,True,True,True,True,True,True,True,False
 1049,"Other","Housing",12,255,,7,False,False,False,False,False,False,False,True,False
-1050,"Ameliance","Custom Deliveries",80,255,"Of Mothers and Merchants",3,False,True,True,True,True,True,True,True,True
+1050,"Ameliance","Custom Deliveries",80,255,"Of Mothers and Merchants",4,False,True,True,True,True,True,True,True,True
 1051,"Master Recipes (10)","Master Recipes",90,255,,89,True,True,True,True,True,True,True,True,True
 1052,"Ornaments (2)","Others",73,255,,4,False,False,False,False,False,False,False,True,False
-1053,"Anden","Custom Deliveries",80,255,"That's So Anden",2,False,True,True,True,True,True,True,True,True
+1053,"Anden","Custom Deliveries",80,255,"That's So Anden",3,False,True,True,True,True,True,True,True,True
 1054,"Loporrit Quests","Society Quests",80,255,,5,False,True,True,True,True,True,True,True,True
 1055,"Splendorous Tools","Sidequests",90,255,"An Original Improvement",96,False,True,True,True,True,True,True,True,True
-1056,"Margrat","Custom Deliveries",80,255,"A Request of One's Own",1,False,True,True,True,True,True,True,True,True
+1056,"Margrat","Custom Deliveries",80,255,"A Request of One's Own",2,False,True,True,True,True,True,True,True,True
 1057,"91-100","Collectables",90,255,,6,False,True,True,True,True,True,True,True,True
 1058,"Wachumeqimeqi","Class",90,255,"Your Friendly Neighborhood Metalworker",92,False,False,True,True,True,False,False,False,False
 1059,"Wachumeqimeqi","Class",90,255,"Pameka, the Scrivener",91,False,True,False,False,False,True,True,False,False
 1060,"Wachumeqimeqi","Class",90,255,"Blame It on My Juice",90,False,False,False,False,False,False,False,True,True
 1061,"Master Recipes (11)","Master Recipes",100,255,,88,True,True,True,True,True,True,True,True,True
 1062,"","",0,0,,0,False,False,False,False,False,False,False,False,False
+1063,"","",0,0,,0,False,False,False,False,False,False,False,False,False
+1064,"","",0,0,,0,False,False,False,False,False,False,False,False,False
 2000,"Coerthas","Regional Folklore",255,50,,12,False,True,True,True,True,True,True,True,True
 2001,"Dravania","Regional Folklore",255,50,,11,False,True,True,True,True,True,True,True,True
 2002,"Abalathia","Regional Folklore",255,50,,10,False,True,True,True,True,True,True,True,True

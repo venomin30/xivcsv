@@ -3531,7 +3531,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003527,"handful of scalebuds",0,"handfuls of scalebuds",0,0,1,0,0,False,"Scalebuds","ui/icon/025000/025026.tex","Key Item",99,1,,0,"normal/item_start",0
 2003528,"bucket of sap of living light",0,"buckets of sap of living light",0,0,1,0,0,False,"Sap of Living Light","ui/icon/022000/022675.tex","Key Item",99,1,,0,"normal/item_start",0
 2003529,"sample of burned wood",0,"samples of burned wood",0,0,1,0,0,False,"Burned Wood","ui/icon/022000/022425.tex","Key Item",99,1,,0,"normal/item_start",0
-2003530,"sample of carbonized wood",0,"samples of burned wood",0,0,1,0,0,False,"Carbonized Wood","ui/icon/022000/022426.tex","Key Item",99,1,,0,"normal/item_start",0
+2003530,"sample of carbonized wood",0,"samples of carbonized wood",0,0,1,0,0,False,"Carbonized Wood","ui/icon/022000/022426.tex","Key Item",99,1,,0,"normal/item_start",0
 2003531,"clump of soapweed",0,"clumps of soapweed",0,0,1,0,0,False,"Soapweed","ui/icon/025000/025026.tex","Key Item",99,1,,0,"normal/item_start",0
 2003532,"clump of enthusiastic soapweed",0,"clumps of enthusiastic soapweed",0,0,1,0,0,False,"Enthusiastic Soapweed","ui/icon/025000/025009.tex","Key Item",99,1,,0,"normal/item_start",0
 2003533,"nopal",0,"nopales",0,0,1,0,0,False,"Nopal","ui/icon/025000/025214.tex","Key Item",99,1,,0,"normal/item_start",0
@@ -3709,5 +3709,28 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003705,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
 2003706,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
 2003707,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003708,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003709,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003708,"bundle of lush green reeds",0,"bundles of lush green reeds",0,0,1,0,0,False,"Lush Green Reeds","ui/icon/025000/025035.tex","",5,1," Earthenshire Awaits",0,"normal/item_start",0
+2003709,"verification key",0,"verification keys",0,0,1,0,0,False,"Verification Key","ui/icon/020000/020961.tex","",1,1,"Among the Abandoned",0,"normal/item_start",0
+2003710,"mending kit",0,"mending kits",0,0,1,0,0,False,"Mending Kit","ui/icon/021000/021003.tex","",1,1,"Guidance of the Hhetso",0,"normal/item_start",0
+2003711,"fur brush",0,"fur brushes",0,0,1,0,0,False,"Fur Brush","ui/icon/023000/023719.tex","",1,1,"Guidance of the Hhetso",0,"normal/item_start",0
+2003712,"notes on a Mamool Ja woman",0,"notes on a Mamool Ja woman",0,0,1,0,0,False,"Notes on a Mamool Ja Woman","ui/icon/026000/026572.tex","",1,1,"In Search of the Past",0,"normal/item_start",0
+2003713,"notes on Zoraal Ja's devoted",0,"notes on Zoraal Ja's devoted",0,0,1,0,0,False,"Notes on Zoraal Ja's Devoted","ui/icon/026000/026572.tex","",1,1,"In Search of the Past",0,"normal/item_start",0
+2003714,"notes on a battle with a tural vidraal",0,"notes on a battle with a tural vidraal",0,0,1,0,0,False,"Notes on a Battle with a Tural Vidraal","ui/icon/026000/026572.tex","",1,1,"In Search of the Past",0,"normal/item_start",0
+2003715,"Turali Travel Agency flyer",0,"Turali Travel Agency flyers",0,0,1,0,0,False,"Turali Travel Agency Flyer","ui/icon/026000/026151.tex","",3,1," A Notion of Promotion",0,"normal/item_start",0
+2003716,"sack of souvenirs",0,"sacks of souvenirs",0,0,1,0,0,False,"Souvenir Sack","ui/icon/025000/025979.tex","",1,1," A Sackful of Memories",0,"normal/item_start",0
+2003717,"vial of insect repellent",0,"vials of insect repellent",0,0,1,0,0,False,"Insect Repellent","ui/icon/020000/020602.tex","Key Item",3,1," Preventative Measures",3,"normal/item_start",0
+2003718,"misplaced bag",0,"misplaced bags",0,0,1,0,0,False,"Misplaced Bag","ui/icon/025000/025979.tex","",1,1," Bag Your Pardon",0,"normal/item_start",0
+2003719,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003720,"survey response",0,"survey responses",0,0,1,0,0,False,"Survey Response","ui/icon/026000/026572.tex","",3,1," Canvassing in Kozama'uka",0,"normal/item_start",0
+2003721,"nectar extraction device",0,"nectar extraction devices",0,0,1,0,0,False,"Nectar Extraction Device","ui/icon/026000/026108.tex","Key Item",2,1," The Nectar Collector",3,"normal/item_start",0
+2003722,"pot of fragrant nectar",0,"pots of fragrant nectar",0,0,1,0,0,False,"Fragrant Nectar","ui/icon/022000/022670.tex","",2,1," The Nectar Collector",0,"normal/item_start",0
+2003723,"piece of scrap lumber",0,"pieces of scrap lumber",0,0,1,0,0,False,"Scrap Lumber","ui/icon/022000/022465.tex","",3,1," Starting from Scrap",0,"normal/item_start",0
+2003724,"sack of bellyfiller feed",0,"sacks of bellyfiller feed",0,0,1,0,0,False,"Bellyfiller Feed","ui/icon/025000/025061.tex","",1,1," Big Bellies to Fill",0,"normal/item_start",0
+2003725,"cornflour treat",0,"cornflour treats",0,0,1,0,0,False,"Cornflour Treat","ui/icon/027000/027008.tex","",1,1," The Hand That Feeds",0,"normal/item_start",0
+2003726,"alpaca escape artist",0,"alpaca escape artists",0,1,1,0,0,False,"Alpaca Escape Artist","ui/icon/059000/059909.tex","",3,1," Born to Run Away",0,"normal/item_start",0
+2003727,"game bird whistle",0,"game bird whistles",0,0,1,0,0,False,"Game Bird Whistle","ui/icon/026000/026039.tex","Key Item",1,1," Bird Meat's Back on the Menu",3,"normal/item_start",8
+2003728,"fledgling of Ligaka thigh",0,"fledgling of Ligaka thighs",0,0,1,0,0,False,"Fledgling of Ligaka Thigh","ui/icon/025000/025155.tex","",1,1," Bird Meat's Back on the Menu",0,"normal/item_start",0
+2003729,"sprig of Ihuyka achiote",0,"sprigs of Ihuyka achiote",0,0,1,0,0,False,"Ihuyka Achiote","ui/icon/025000/025023.tex","",3,1," Seasoned Adventurer",0,"normal/item_start",0
+2003730,"hearty packed lunch",0,"hearty packed lunches",0,0,1,0,0,False,"Hearty Packed Lunch","ui/icon/021000/021005.tex","",1,1," In Time for Lunch",0,"normal/item_start",0
+2003731,"傘の素材",0,"",0,0,1,0,0,False,"","ui/icon/021000/021003.tex","",1,1,"エッグハントと宙を漂う飾りタマゴ",0,"normal/item_start",0
+2003732,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0

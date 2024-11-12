@@ -11,6 +11,11 @@ int32,Action,sbyte,Row,Action,sbyte,Row,Action,sbyte,Row,Action,sbyte,bit&01
 1.6,"Sentinel",3,"Sentinel Mastery","Guardian",0,,"",0,,"",-1,False
 1.7,"Requiescat",3,"Requiescat Mastery","Imperator",2,"Blade of Honor Ready","Blade of Honor",0,,"",-1,False
 1.8,"Fight or Flight",4,,"Goring Blade",0,,"",0,,"",-1,False
+1.9,"",0,,"",0,,"",0,,"",-1,False
+1.10,"",0,,"",0,,"",0,,"",-1,False
+1.11,"",0,,"",0,,"",0,,"",-1,False
+1.12,"",0,,"",0,,"",0,,"",-1,False
+1.13,"",0,,"",0,,"",0,,"",-1,False
 2.0,"Steeled Meditation",3,"Steel Peak Mastery","Forbidden Meditation",8,,"Steel Peak",8,,"the Forbidden Chakra",1,False
 2.1,"Steel Peak",3,"Steel Peak Mastery","the Forbidden Chakra",0,,"",0,,"",-1,False
 2.2,"Inspirited Meditation",3,"Howling Fist Mastery","Enlightened Meditation",8,,"Howling Fist",8,,"Enlightenment",1,False
@@ -47,6 +52,11 @@ int32,Action,sbyte,Row,Action,sbyte,Row,Action,sbyte,Row,Action,sbyte,bit&01
 4.10,"Fang and Claw",9,,"Drakesbane",0,,"",0,,"",-1,False
 4.11,"Wheeling Thrust",9,,"Drakesbane",0,,"",0,,"",-1,False
 4.12,"",0,,"",0,,"",0,,"",-1,False
+4.13,"",0,,"",0,,"",0,,"",-1,False
+4.14,"",0,,"",0,,"",0,,"",-1,False
+4.15,"",0,,"",0,,"",0,,"",-1,False
+4.16,"",0,,"",0,,"",0,,"",-1,False
+4.17,"",0,,"",0,,"",0,,"",-1,False
 5.0,"Straight Shot",3,"Straight Shot Mastery","Refulgent Arrow",0,,"",0,,"",-1,False
 5.1,"Heavy Shot",3,"Heavy Shot Mastery","Burst Shot",0,,"",0,,"",-1,False
 5.2,"Venomous Bite",3,"Bite Mastery","Caustic Bite",0,,"",0,,"",-1,False
@@ -65,6 +75,10 @@ int32,Action,sbyte,Row,Action,sbyte,Row,Action,sbyte,Row,Action,sbyte,bit&01
 6.4,"Presence of Mind",2,"Sacred Sight","Glare IV",0,,"",0,,"",1,False
 6.5,"Medica II",3,"Medica Mastery","Medica III",0,,"",0,,"",-1,False
 6.6,"Temperance",2,"Divine Grace","Divine Caress",0,,"",0,,"",-1,False
+6.7,"",0,,"",0,,"",0,,"",-1,False
+6.8,"",0,,"",0,,"",0,,"",-1,False
+6.9,"",0,,"",0,,"",0,,"",-1,False
+6.10,"",0,,"",0,,"",0,,"",-1,False
 7.0,"Fire",8,,"Paradox",0,,"",0,,"",-1,False
 7.1,"Blizzard",8,,"Paradox",0,,"",0,,"",-1,False
 7.2,"Fire II",3,"Aspect Mastery IV","High Fire II",0,,"",0,,"",-1,False
@@ -185,7 +199,7 @@ int32,Action,sbyte,Row,Action,sbyte,Row,Action,sbyte,Row,Action,sbyte,bit&01
 17.10,"Closed Position",2,"Closed Position","Ending",0,,"",0,,"",-1,False
 17.11,"Improvisation",2,"Improvisation","Improvised Finish",0,,"",0,,"",-1,False
 17.12,"Saber Dance",4,,"Dance of the Dawn",0,,"",0,,"",-1,False
-17.13,"",0,,"",0,,"",0,,"",-1,False
+17.13,"Devilment",2,"Flourishing Starfall","Starfall Dance",0,,"",0,,"",-1,False
 17.14,"",0,,"",0,,"",0,,"",-1,False
 18.0,"Soulsow",2,"Soulsow","Harvest Moon",0,,"",0,,"",-1,False
 18.1,"Blood Stalk",2,"Enhanced Gibbet","Unveiled Gibbet",2,"Enhanced Gallows","Unveiled Gallows",9,,"Lemure's Slice",-1,False
@@ -229,23 +243,120 @@ int32,Action,sbyte,Row,Action,sbyte,Row,Action,sbyte,Row,Action,sbyte,bit&01
 21.8,"Steel Muse",8,,"Striking Muse",0,,"",0,,"",-1,False
 21.9,"Scenic Muse",8,,"Starry Muse",0,,"",0,,"",-1,False
 21.10,"Mog of the Ages",4,,"Retribution of the Madeen",0,,"",0,,"",-1,False
-21.11,"Hammer Stamp",11,,"Hammer Brush",11,,"Polishing Hammer",0,,"",-1,False
+21.11,"Hammer Stamp",4,,"Hammer Brush",4,,"Polishing Hammer",0,,"",-1,False
 21.12,"Tempera Coat",7,"Tempera Coat","Tempera Grassa",0,,"",0,,"",-1,False
 22.0,"Cast",1,,"Rest",0,,"",0,,"",-1,False
-23.0,"Steel Fangs",1,,"",0,,"",0,,"",-1,False
-23.1,"Piercing Fangs",1,,"",0,,"",0,,"",-1,False
-23.2,"Hunter's Sting",1,,"",0,,"",0,,"",-1,False
-23.3,"Swiftskin's Sting",1,,"",0,,"",0,,"",-1,False
-23.4,"Barbarous Bite",1,,"",0,,"",0,,"",-1,False
-23.5,"Ravenous Bite",1,,"",0,,"",0,,"",-1,False
-23.6,"Hunter's Snap",8,,"Swiftskin's Coil",2,"Reawakened","Ouroboros",0,,"",-1,False
-23.7,"Serpent's Tail",1,,"",0,,"",0,,"",-1,False
-23.8,"Snake Scales",2,"Hardened Scales","Backlash",0,,"",0,,"",-1,False
-24.0,"Fire in Red",1,,"",0,,"",0,,"",-1,False
-24.1,"Holy in White",2,"Subtractive Palette","Comet in Black",0,,"",0,,"",-1,False
-24.2,"Creature Motif",1,,"",0,,"",0,,"",-1,False
-24.3,"Living Muse",1,,"",0,,"",0,,"",-1,False
-24.4,"Tempera Coat",2,"Tempera Coat","Tempera Grassa",0,,"",0,,"",-1,False
-24.5,"Subtractive Palette",2,"Subtractive Palette","Release Subtractive Palette",0,,"",0,,"",-1,False
-24.6,"Advent of Chocobastion",2,"Starstruck","Star Prism",0,,"",0,,"",-1,False
-24.7,"Mog of the Ages",2,"Madeen Portrait","Retribution of the Madeen",0,,"",0,,"",-1,False
+23.0,"Fast Blade",2,"Atonement Ready","Atonement",2,"Supplication Ready","Supplication",2,"Sepulchre Ready","Sepulchre",-1,False
+23.1,"Riot Blade",2,"Atonement Ready","Atonement",2,"Supplication Ready","Supplication",2,"Sepulchre Ready","Sepulchre",-1,False
+23.2,"Royal Authority",2,"Atonement Ready","Atonement",2,"Supplication Ready","Supplication",2,"Sepulchre Ready","Sepulchre",-1,False
+23.3,"Imperator",2,"Confiteor Ready","Confiteor",0,,"",0,,"",-1,False
+23.4,"Phalanx",2,"Blade of Faith Ready","Blade of Faith",10,,"Blade of Truth",10,,"Blade of Valor",-1,False
+24.0,"Riddle of Earth",2,"Earth Resonance","Earth's Reply",0,,"",0,,"",-1,False
+24.1,"Flint's Reply",2,"Fire's Rumination","Fire's Reply",0,,"",0,,"",-1,False
+25.0,"Heavy Swing",2,"Inner Release","Fell Cleave",0,,"",0,,"",-1,False
+25.1,"Maim",2,"Inner Release","Fell Cleave",0,,"",0,,"",-1,False
+25.2,"Storm's Path",2,"Inner Release","Fell Cleave",0,,"",0,,"",-1,False
+25.3,"Primal Rend",2,"Primal Ruination Ready","Primal Ruination",0,,"",0,,"",-1,False
+25.4,"Blota",2,"Inner Chaos Ready","Inner Chaos",0,,"",0,,"",-1,False
+25.5,"Bloodwhetting",2,"Chaotic Cyclone Ready","Chaotic Cyclone",0,,"",0,,"",-1,False
+25.6,"Primal Scream",2,"Wrathful","Primal Wrath",0,,"",0,,"",-1,False
+26.0,"Raiden Thrust",2,"Heavensent","Heavens' Thrust",2,"Starcross Ready","Starcross",0,,"",-1,False
+26.1,"Fang and Claw",2,"Heavensent","Heavens' Thrust",2,"Starcross Ready","Starcross",0,,"",-1,False
+26.2,"Wheeling Thrust",2,"Heavensent","Heavens' Thrust",2,"Starcross Ready","Starcross",0,,"",-1,False
+26.3,"Drakesbane",2,"Heavensent","Heavens' Thrust",2,"Starcross Ready","Starcross",0,,"",-1,False
+26.4,"Geirskogul",2,"Nastrond Ready","Nastrond",0,,"",0,,"",-1,False
+26.5,"Elusive Jump",2,"Firstminds' Focus","Wyrmwind Thrust",0,,"",0,,"",-1,False
+26.6,"Sky High",2,"Sky High","Sky Shatter",0,,"",0,,"",-1,False
+27.0,"Powerful Shot",2,"Repertoire","Pitch Perfect",0,,"",0,,"",-1,False
+27.1,"Apex Arrow",2,"Blast Arrow Ready","Blast Arrow",0,,"",0,,"",-1,False
+27.2,"Final Fantasia",2,"Encore of Light Ready","Encore of Light",0,,"",0,,"",-1,False
+27.3,"Harmonic Arrow",4,,"Harmonic Arrow",4,,"Harmonic Arrow",4,,"Harmonic Arrow",-1,False
+28.0,"Seraph Strike",2,"Sacred Sight","Glare IV",0,,"",0,,"",-1,False
+28.1,"Cure II",2,"Cure III Ready","Cure III",0,,"",0,,"",-1,False
+29.0,"Fire",1,,"",0,,"",0,,"",-1,False
+29.1,"Blizzard",1,,"",0,,"",0,,"",-1,False
+29.2,"Elemental Weave",4,,"Wreath of Fire",4,,"Wreath of Ice",0,,"",-1,False
+29.3,"Soul Resonance",4,,"Flare Star",4,,"Frost Star",0,,"",-1,False
+29.4,"",0,,"",0,,"",0,,"",-1,False
+30.0,"Ruin III",2,"Dreadwyrm Trance","Astral Impulse",2,"Firebird Trance","Fountain of Fire",2,"Further Ruin","Ruin IV",-1,False
+30.1,"Summon Bahamut",2,"Dreadwyrm Trance","Deathflare",0,,"",0,,"",-1,False
+30.2,"Summon Phoenix",2,"Firebird Trance","Brand of Purgatory",0,,"",0,,"",-1,False
+30.3,"Crimson Cyclone",2,"Crimson Strike Ready","Crimson Strike",0,,"",0,,"",-1,False
+31.0,"Broil IV",2,"Seraphism","Seraphic Halo",0,,"",0,,"",-1,False
+31.1,"Seraphism",2,"Seraphism","Accession",0,,"",0,,"",-1,False
+32.0,"Spinning Edge",1,,"",0,,"",0,,"",-1,False
+32.1,"Gust Slash",1,,"",0,,"",0,,"",-1,False
+32.2,"Aeolian Edge",1,,"",0,,"",0,,"",-1,False
+32.3,"Fuma Shuriken",2,"Three Mudra","Hyosho Ranryu",0,,"",0,,"",-1,False
+32.4,"Three Mudra",2,"Three Mudra","Meisui",0,,"",0,,"",-1,False
+32.5,"Dokumori",2,"Three Mudra","Goka Mekkyaku",0,,"",0,,"",-1,False
+32.6,"Bunshin",2,"Three Mudra","Huton",0,,"",0,,"",-1,False
+32.7,"Shukuchi",2,"Three Mudra","Doton",0,,"",0,,"",-1,False
+32.8,"Seiton Tenchu",2,"Unsealed Seiton Tenchu","Seiton Tenchu",0,,"",0,,"",-1,False
+33.0,"Blast Charge",2,"Overheated","Blazing Shot",0,,"",0,,"",-1,False
+33.1,"Drill",2,"Bioblaster Primed","Bioblaster",2,"Air Anchor Primed","Air Anchor",2,"Chain Saw Primed","Chain Saw",-1,False
+33.2,"Wildfire",2,"Wildfire","Detonator",0,,"",0,,"",-1,False
+34.0,"Hard Slash",4,,"Scarlet Delirium",4,,"Comeuppance",4,,"Torcleaver",-1,False
+34.1,"Syphon Strike",4,,"Scarlet Delirium",4,,"Comeuppance",4,,"Torcleaver",-1,False
+34.2,"Souleater",4,,"Scarlet Delirium",4,,"Comeuppance",4,,"Torcleaver",-1,False
+34.3,"Quietus",2,"インペイルメント実行可","Impalement",0,,"",0,,"",-1,False
+34.4,"Salted Earth",2,"Salted Earth","Salt and Darkness",0,,"",0,,"",-1,False
+34.5,"Shadowbringer",2,"Dark Arts","Shadowbringer",0,,"",0,,"",-1,False
+34.6,"Eventide",2,"Scorn","Disesteem",0,,"",0,,"",-1,False
+35.0,"Double Cast",4,,"Fall Malefic",4,,"Aspected Benefic",4,,"Gravity II",-1,False
+35.1,"Minor Arcana",2,"Lady of Crowns","Lady of Crowns",2,"Lord of Crowns","Lord of Crowns",0,,"",-1,False
+35.2,"Macrocosmos",2,"Macrocosmos","Microcosmos",0,,"",0,,"",-1,False
+35.3,"Epicycle",2,"Retrograde Ready","Retrograde",0,,"",0,,"",-1,False
+35.4,"Celestial River",2,"Divining","Oracle",0,,"",0,,"",-1,False
+36.0,"Yukikaze",2,"Kaiten","Hyosetsu",0,,"",0,,"",-1,False
+36.1,"Gekko",2,"Kaiten","Mangetsu",0,,"",0,,"",-1,False
+36.2,"Kasha",2,"Kaiten","Oka",0,,"",0,,"",-1,False
+36.3,"Ogi Namikiri",4,,"Kaeshi: Namikiri",0,,"",0,,"",-1,False
+36.4,"Meikyo Shisui",2,"Tendo Setsugekka Ready","Tendo Setsugekka",4,,"Tendo Kaeshi Setsugekka",0,,"",-1,False
+36.5,"Hissatsu: Chiten",2,"Zanshin Ready","Zanshin",0,,"",0,,"",-1,False
+36.6,"",0,,"",0,,"",0,,"",-1,False
+37.0,"Jolt III",2,"Dualcast","Grand Impact",0,,"",0,,"",-1,False
+37.1,"Enchanted Riposte",10,,"Enchanted Zwerchhau",10,,"Enchanted Redoublement",10,,"Scorch",-1,False
+37.2,"Embolden",2,"Prefulgence Ready","Prefulgence",0,,"",0,,"",-1,False
+37.3,"Forte",2,"Thorned Flourish","Vice of Thorns",0,,"",0,,"",-1,False
+37.4,"",0,,"",0,,"",0,,"",-1,False
+38.0,"Gnashing Fang",8,,"Savage Claw",8,,"Wicked Talon",0,,"",-1,False
+38.1,"Keen Edge",2,"Powder Barrel","Burst Strike",0,,"",0,,"",-1,False
+38.2,"Brutal Shell",2,"Powder Barrel","Burst Strike",0,,"",0,,"",-1,False
+38.3,"Solid Barrel",2,"Powder Barrel","Burst Strike",0,,"",0,,"",-1,False
+38.4,"Continuation",1,,"",0,,"",0,,"",-1,False
+38.5,"Relentless Rush",2,"Relentless Rush","Terminal Trigger",0,,"",0,,"",-1,False
+38.6,"",0,,"",0,,"",0,,"",-1,False
+39.0,"Cascade",4,,"Reverse Cascade",4,,"Saber Dance",4,,"Dance of the Dawn",-1,False
+39.1,"Fountain",4,,"Fountainfall",4,,"Saber Dance",4,,"Dance of the Dawn",-1,False
+39.2,"Honing Dance",2,"Honing Dance","Honing Ovation",0,,"",0,,"",-1,False
+39.3,"",0,,"",0,,"",0,,"",-1,False
+40.0,"Slice",2,"Executioner's Guillotine Ready","Executioner's Guillotine",4,,"Void Reaping",4,,"Cross Reaping",-1,False
+40.1,"Waxing Slice",2,"Executioner's Guillotine Ready","Executioner's Guillotine",4,,"Void Reaping",4,,"Cross Reaping",-1,False
+40.2,"Infernal Slice",2,"Executioner's Guillotine Ready","Executioner's Guillotine",4,,"Void Reaping",4,,"Cross Reaping",-1,False
+40.3,"Grim Swathe",2,"Enshrouded","Lemure's Slice",0,,"",0,,"",-1,False
+40.4,"Death Warrant",2,"Death Warrant","Fate Sealed",0,,"",0,,"",-1,False
+40.5,"Hell's Ingress",2,"Threshold","Regress",0,,"",0,,"",-1,False
+40.6,"Tenebrae Lemurum",2,"Enshrouded","Communio",2,"Perfectio Parata","Perfectio",0,,"",-1,False
+40.7,"",0,,"",0,,"",0,,"",-1,False
+41.0,"Dosis III",2,"Eukrasia","Eukrasian Dosis III",0,,"",0,,"",-1,False
+41.1,"Toxikon",2,"Addersting","Toxikon II",0,,"",0,,"",-1,False
+41.2,"Mesotes",2,"Mesotes","Mesotes",0,,"",0,,"",-1,False
+41.3,"Phlegma III",10,,"Psyche",0,,"",0,,"",-1,False
+42.0,"Steel Fangs",1,,"",0,,"",0,,"",-1,False
+42.1,"Piercing Fangs",1,,"",0,,"",0,,"",-1,False
+42.2,"Hunter's Sting",1,,"",0,,"",0,,"",-1,False
+42.3,"Swiftskin's Sting",1,,"",0,,"",0,,"",-1,False
+42.4,"Barbarous Bite",1,,"",0,,"",0,,"",-1,False
+42.5,"Ravenous Bite",1,,"",0,,"",0,,"",-1,False
+42.6,"Bloodcoil",8,,"Sanguine Feast",2,"Reawakened","Ouroboros",0,,"",-1,False
+42.7,"Serpent's Tail",1,,"",0,,"",0,,"",-1,False
+42.8,"Snake Scales",2,"Hardened Scales","Backlash",0,,"",0,,"",-1,False
+43.0,"Fire in Red",1,,"",0,,"",0,,"",-1,False
+43.1,"Holy in White",2,"Subtractive Palette","Comet in Black",0,,"",0,,"",-1,False
+43.2,"Creature Motif",1,,"",0,,"",0,,"",-1,False
+43.3,"Living Muse",1,,"",0,,"",0,,"",-1,False
+43.4,"Tempera Coat",2,"Tempera Coat","Tempera Grassa",0,,"",0,,"",-1,False
+43.5,"Subtractive Palette",2,"Subtractive Palette","Release Subtractive Palette",0,,"",0,,"",-1,False
+43.6,"Advent of Chocobastion",2,"Starstruck","Star Prism",0,,"",0,,"",-1,False
+43.7,"Mog of the Ages",2,"Madeen Portrait","Retribution of the Madeen",0,,"",0,,"",-1,False

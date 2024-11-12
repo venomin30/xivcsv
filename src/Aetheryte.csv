@@ -206,19 +206,19 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,PlaceName,PlaceName,TerritoryT
 202,"",0,"",0,0,1,0,0,"Ok'hanu","","y6f2",,,,,True,11,"Aetheryte",0,False,,"y6f2/00",0,0,164
 203,"",0,"",0,0,1,0,0,"Many Fires","","y6f2",,,,,True,11,"Aetheryte",0,False,,"y6f2/00",0,0,165
 204,"",0,"",0,0,1,0,0,"Earthenshire","","y6f2",,,,,True,11,"Aetheryte",0,False,,"y6f2/00",0,0,166
-205,"",0,"",0,0,1,0,0,"Iq Br'aax","","y6f3",,,,,True,11,"Aetheryte",0,False,,"y6f3/00",0,0,167
-206,"",0,"",0,0,1,0,0,"Mamook","","y6f3",,,,,True,11,"Aetheryte",0,False,,"y6f3/00",0,0,168
-207,"",0,"",0,0,1,0,0,"Hhusatahwi","","x6f1",,,,,True,11,"Aetheryte",0,False,,"x6f1/00",0,0,170
-208,"",0,"",0,0,1,0,0,"Sheshenewezi Springs","","x6f1",,,,,True,11,"Aetheryte",0,False,,"x6f1/00",0,0,171
-209,"",0,"",0,0,1,0,0,"Mehwahhetsoan","","x6f1",,,,,True,11,"Aetheryte",0,False,,"x6f1/00",0,0,172
-210,"",0,"",0,0,1,0,0,"Yyasulani Station","","x6f2",,,,,True,11,"Aetheryte",0,False,,"x6f2/00",0,0,173
-211,"",0,"",0,0,1,0,0,"The Outskirts","","x6f2",,,,,True,11,"Aetheryte",0,False,,"x6f2/00",0,0,174
-212,"",0,"",0,0,1,0,0,"Electrope Strike","","x6f2",,,,,True,11,"Aetheryte",0,False,,"x6f2/00",0,0,175
+205,"",0,"",0,0,1,0,0,"Iq Br'aax","","y6f3",,,,,True,11,"Aetheryte",0,False,,"y6f3/00",0,0,168
+206,"",0,"",0,0,1,0,0,"Mamook","","y6f3",,,,,True,11,"Aetheryte",0,False,,"y6f3/00",0,0,169
+207,"",0,"",0,0,1,0,0,"Hhusatahwi","","x6f1",,,,,True,11,"Aetheryte",0,False,,"x6f1/00",0,0,171
+208,"",0,"",0,0,1,0,0,"Sheshenewezi Springs","","x6f1",,,,,True,11,"Aetheryte",0,False,,"x6f1/00",0,0,172
+209,"",0,"",0,0,1,0,0,"Mehwahhetsoan","","x6f1",,,,,True,11,"Aetheryte",0,False,,"x6f1/00",0,0,173
+210,"",0,"",0,0,1,0,0,"Yyasulani Station","","x6f2",,,,,True,11,"Aetheryte",0,False,,"x6f2/00",0,0,174
+211,"",0,"",0,0,1,0,0,"The Outskirts","","x6f2",,,,,True,11,"Aetheryte",0,False,,"x6f2/00",0,0,175
+212,"",0,"",0,0,1,0,0,"Electrope Strike","","x6f2",,,,,True,11,"Aetheryte",0,False,,"x6f2/00",0,0,176
 213,"",0,"",0,0,1,0,0,"Leynode Mnemo","","x6f3",,,,,True,11,"Aetheryte",0,False,,"x6f3/00",0,0,234
 214,"",0,"",0,0,1,0,0,"Leynode Pyro","","x6f3",,,,,True,11,"Aetheryte",0,False,,"x6f3/00",0,0,235
 215,"",0,"",0,0,1,0,0,"Leynode Aero","","x6f3",,,,,True,11,"Aetheryte",0,False,,"x6f3/00",0,0,236
 216,"",0,"",0,0,1,0,0,"Tuliyollal","Tuliyollal Aetheryte Plaza","y6t1",,,,,True,11,"Aetheryte",14,False,,"y6t1/00",0,0,161
-217,"",0,"",0,0,1,0,0,"Solution Nine","Solution Nine Aetheryte Plaza","x6t1",,,,,True,11,"Aetheryte",15,False,,"x6t1/00",0,0,169
+217,"",0,"",0,0,1,0,0,"Solution Nine","Solution Nine Aetheryte Plaza","x6t1",,,,,True,11,"Aetheryte",15,False,,"x6t1/00",0,0,170
 218,"",0,"",0,0,1,0,0,"","Dirigible Landing","y6t1",,,,,False,0,"Aetheryte",14,False,,"",0,0,0
 219,"",0,"",0,0,1,0,0,"","The Resplendent Quarter","y6t1",,,,,False,0,"Aetheryte",14,False,,"",0,0,0
 220,"",0,"",0,0,1,0,0,"","The For'ard Cabins","y6t1",,,,,False,0,"Aetheryte",14,False,,"",0,0,0
@@ -239,3 +239,4 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,PlaceName,PlaceName,TerritoryT
 235,"",0,"",0,0,1,0,0,"","Nexus Arcade","x6t1",,,,,False,0,"Aetheryte",15,False,,"",0,0,0
 236,"",0,"",0,0,1,0,0,"","Residential Sector","x6t1",,,,,False,0,"Aetheryte",15,False,,"",0,0,0
 237,"",0,"",0,0,1,0,0,"","Scanning Port Nine (Heritage Found)","x6f2","Level#10653802",,,,False,0,"Aetheryte",15,True,,"",0,0,0
+238,"",0,"",0,0,1,0,0,"Dock Poga","","y6f2",,,,,True,11,"Aetheryte",0,False,,"y6f2/00",0,0,167

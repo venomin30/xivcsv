@@ -75,3 +75,8 @@ int32,Emote,Emote,bit&01,bit&02,bit&04,bit&08,byte,bit&10
 71,"Slump","",True,False,False,False,3,False
 72,"Love Heart","",True,False,False,False,3,True
 73,"Sundering","",True,False,False,False,3,True
+74,"Attend","",True,False,False,False,3,False
+75,"Water","",True,False,False,False,3,False
+76,"Shake Drink","",True,False,False,False,3,False
+77,"Bouquet","",True,False,False,False,3,False
+78,"","",True,False,False,False,3,False

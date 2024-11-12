@@ -124,3 +124,12 @@ That is what our people are to us. An irreplaceable existence that can ill be lo
 114,4,"All my souls, gone in a blink... This is a nightmare...","What will you say?","Are you hurt?","","","","",""
 115,4,"We'll get through this! We will!","What will you say?","Are you hurt?","","","","",""
 116,4,"We'll get through this! We will!","What will you say?","We've cleared the way.","","","","",""
+117,2,"Exit the training exercise?","Is something the matter, <If(PlayerParameter(4))>Mistress<Else/>Master</If> <Split(<Highlight>ObjectParameter(1)</Highlight>, ,2)/>? Shall we call off the training exercise?","","","","","",""
+118,1,"Now that you've learned the basics, it's time to put your knowledge to the test. Overcome this final challenge, and your training will be complete!","","","","","","",""
+119,4,"","Are you prepared for your final challenge?
+Should you feel less than confident, you may wish to revisit the basics.","<UIForeground>F20224</UIForeground>Commence the final challenge.<UIForeground>01</UIForeground>","Start over from the beginning.","Exit the training exercise.","Cancel.","",""
+120,2,"Commence the final challenge?","","","","","","",""
+121,2,"Start over from the beginning?","","","","","","",""
+122,2,"Exit the training exercise?
+※The final challenge must be cleared in order to complete this exercise.","","","","","","",""
+123,0,"","","","","","","",""

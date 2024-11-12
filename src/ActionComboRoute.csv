@@ -54,10 +54,10 @@ int32,str,sbyte,Action,Action,Action,Action,uint16,uint16,uint16,bit&01
 50,"Royal Authority Combo",0,"Fast Blade","Riot Blade","Royal Authority","",0,0,0,True
 51,"Storm's Path Combo",0,"Heavy Swing","Maim","Storm's Path","",0,0,0,True
 52,"Souleater Combo",0,"Hard Slash","Syphon Strike","Souleater","",0,0,0,True
-53,"Solid Barrel Combo",0,"Keen Edge","Brutal Shell","Solid Barrel","",0,0,0,True
+53,"Solid Barrel Combo",0,"Keen Edge","Brutal Shell","Solid Barrel","Burst Strike",0,0,0,True
 54,"Fountain Combo",0,"Cascade","Fountain","","",0,0,0,True
-55,"Phantom Rush Combo",0,"Bootshine","True Strike","Snap Punch","Dragon Kick",29476,29477,29478,True
-56,"Wheeling Thrust Combo",0,"Raiden Thrust","Fang and Claw","Wheeling Thrust","",0,0,0,True
+55,"Phantom Rush Combo",0,"Dragon Kick","Twin Snakes","Demolish","Leaping Opo",41445,41446,29478,True
+56,"Drakesbane Combo",0,"Raiden Thrust","Fang and Claw","Wheeling Thrust","Drakesbane",0,0,0,True
 57,"Aeolian Edge Combo",0,"Spinning Edge","Gust Slash","Aeolian Edge","",0,0,0,True
 58,"Kasha Combo",0,"Yukikaze","Gekko","Kasha","",0,0,0,True
 59,"Infernal Slice Combo",0,"Slice","Waxing Slice","Infernal Slice","",0,0,0,True

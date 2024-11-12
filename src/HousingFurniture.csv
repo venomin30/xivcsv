@@ -1045,7 +1045,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197695,1002,12,0,0,0,0,,"Rose Trellis",False,False,0,0,0,True,False
 197696,1003,12,0,0,0,0,,"Dragon Icon",False,False,0,0,0,True,False
 197697,1004,14,0,0,0,0,,"Royal Lion",False,False,0,0,0,True,False
-197698,1394,14,0,0,0,0,,"Bouncing Bomb Balloon",False,False,5,0,0,True,False
+197698,1394,14,0,0,0,0,,"Bouncing Bomb Balloons",False,False,5,0,0,True,False
 197699,1006,15,0,0,0,0,,"Swag Valance",False,False,0,0,0,True,False
 197700,1007,13,0,0,0,0,,"Rustic Chocobo Counter",False,False,0,0,0,True,False
 197701,1008,12,0,0,0,0,,"Wood Slat Partition",False,False,0,0,0,True,False
@@ -1239,7 +1239,6 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197894,1179,15,0,0,0,0,,"Wall-mounted Wings",False,False,0,0,0,True,False
 197895,1180,14,7,76,0,0,"CmnDefHousingDish_00213","Dragonstar aux Marrons",True,False,8,4,11,True,False
 197896,1181,14,7,77,0,0,"CmnDefHousingDish_00213","Coconut Water",True,False,9,4,11,True,False
-197897,1182,14,7,78,0,0,"CmnDefHousingDish_00213","",True,False,8,4,11,True,False
 197898,1183,12,0,0,0,0,,"Sil'dihn Chair",False,False,0,0,0,True,False
 197899,1184,15,0,0,0,0,,"Tatami Loft",False,False,0,0,0,True,False
 197900,1185,12,0,0,0,0,,"Kugane Phasmascape",False,False,0,0,0,True,False
@@ -1345,7 +1344,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198001,1263,14,7,81,0,0,"CmnDefHousingDish_00213","Steamed Shumai",True,False,9,4,11,True,False
 198002,1264,14,7,82,0,0,"CmnDefHousingDish_00213","Fried Gyoza",True,False,9,4,11,True,False
 198003,1265,15,0,0,0,0,,"Floating Kitchen Cabinet",False,False,0,0,0,True,False
-198004,1266,14,7,85,0,0,"CmnDefHousingDish_00213","",True,False,7,4,11,True,False
+198004,1266,14,7,85,0,0,"CmnDefHousingDish_00213","Wine Coupe Tower",True,False,7,4,11,True,False
 198005,1267,15,0,0,0,0,,"Azure Sky Phasmascape",False,False,0,0,0,True,False
 198006,1268,15,0,0,0,0,,"Starry Sky Phasmascape",False,False,0,0,0,True,False
 198007,1269,12,0,0,0,0,,"Freestanding Rattan Hammock",False,False,0,0,0,True,False
@@ -1369,7 +1368,6 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198025,1287,14,0,0,99,0,,"Eventide Sword Stand",False,False,0,0,0,True,False
 198026,1288,15,0,0,0,0,,"The Rising Advertisement",False,False,5,0,0,True,False
 198027,1289,15,0,0,0,0,,"Wall-mounted Vampire Bats",False,False,5,0,0,True,False
-198028,1290,15,0,0,0,0,,"",False,False,5,0,0,True,False
 198029,1291,12,0,0,0,0,,"Valentione's Heart Chair",False,False,5,0,0,True,False
 198030,1292,14,0,0,102,0,,"Skyruin Trophy",False,False,0,0,0,True,False
 198031,1293,14,0,0,103,0,,"Resilient Sword Stand",False,False,0,0,0,True,False
@@ -1480,3 +1478,42 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198137,1392,14,0,0,0,0,,"Flying Pumpkin",False,False,5,0,0,True,False
 198139,1288,15,0,0,0,0,,"Authentic Rising Advertisement",False,False,3,0,0,True,False
 198140,1289,15,0,0,0,0,,"Authentic Wall-mounted Vampire Bats",False,False,3,0,0,True,False
+198141,1396,12,0,0,0,0,,"Wood-fired Range",False,False,0,0,0,True,False
+198142,1397,15,0,0,0,0,"CmnDefHousingObject_00141","Holodisplay",False,False,0,0,0,True,False
+198143,1398,12,0,0,0,0,,"Storybook Bench",False,False,0,0,0,True,False
+198144,1399,12,0,0,0,0,,"Sweet Dreamer's Stall",False,False,0,0,0,True,False
+198145,1400,15,0,0,0,0,,"Frilly Curtains",False,False,0,0,0,True,False
+198146,1401,15,12,2,0,0,"HouFurPicture_00376","Botanist's Wall Frames",False,False,0,7,14,True,False
+198147,1409,15,0,0,0,0,,"Botanical Loft",False,False,0,0,0,True,False
+198148,1410,12,0,0,0,0,,"Patchwork Sofa",False,False,0,0,0,True,False
+198149,1411,14,0,0,0,0,,"Gleaner's Knapsack",False,False,0,0,0,True,False
+198150,1412,14,7,88,0,0,"CmnDefHousingDish_00213","Popoto Chips",True,False,9,4,11,True,False
+198151,1413,15,0,0,0,0,,"Investigation Map",False,False,0,0,0,True,False
+198152,1414,14,0,0,0,0,,"Apothecary Mortar",False,False,0,0,0,True,False
+198153,1415,16,0,0,0,0,,"Grassy Rug",False,False,0,0,0,True,False
+198154,1416,12,0,0,0,0,,"Royal Bed",False,False,0,0,0,True,False
+198155,1417,14,0,0,104,0,,"Eternal Cenotaph",False,False,0,0,0,True,False
+198163,1425,12,0,0,0,0,,"Climbing Wall Partition",False,False,0,0,0,True,False
+198164,1426,12,0,0,0,0,,"Billiard Table",False,False,5,0,0,True,False
+198165,1427,15,0,0,0,0,,"Imitation Closet",False,False,0,0,0,True,False
+198166,1428,13,0,0,0,0,,"Fighting Ring",False,False,0,0,0,True,False
+198167,1429,15,0,0,0,0,,"Dartboard Cabinet",False,False,5,0,0,True,False
+198168,1430,13,0,0,0,0,"CmnDefHousingObject_00141","Laboratory Counter",False,False,0,0,0,True,False
+198169,1431,14,7,89,0,0,"CmnDefHousingDish_00213","Kugane-yaki",True,False,9,4,11,True,False
+198170,1432,13,0,0,0,0,,"Classroom Desk",False,False,0,0,0,True,False
+198171,1433,12,0,0,0,0,,"Classroom Chair",False,False,0,0,0,True,False
+198172,1434,15,0,0,0,0,,"Classroom Blackboard",False,False,0,0,0,True,False
+198173,1435,13,0,0,0,0,,"Contemporary Iron Shelf",False,False,0,0,0,True,False
+198174,1436,15,0,0,0,0,,"Festive Starlight Celebration Advertisement",False,False,5,0,0,True,False
+198175,1437,15,0,0,0,0,,"Heartfelt Valentione's Day Advertisement",False,False,5,0,0,True,False
+198176,1438,15,0,0,0,0,,"Authentic Copy of Crossroads",False,False,3,0,0,True,False
+198177,1439,14,7,90,0,0,"CmnDefHousingDish_00213","Starlight Kinderpunsch",True,False,8,4,11,True,False
+198178,1440,14,0,0,0,0,,"Starlight Mug Tower",False,False,5,0,0,True,False
+198179,1441,15,0,0,0,0,,"Weathered Porthole",False,False,0,0,0,True,False
+198180,1442,12,0,0,0,0,,"Rail-and-stile Partition",False,False,0,0,0,True,False
+198181,1443,12,0,0,0,0,,"Tea Caddy Cabinet",False,False,0,0,0,True,False
+198182,1444,15,0,0,0,0,,"Indoor Awning",False,False,0,0,0,True,False
+198193,1291,12,0,0,0,0,,"Authentic Valentione's Heart Chair",False,False,3,0,0,True,False
+198194,1407,12,0,0,0,0,,"Cushioned Bench",False,False,0,0,0,True,False
+198195,1408,12,0,0,0,0,,"Tropical Canopy Bed",False,False,0,0,0,True,False
+198196,1455,14,0,0,0,0,,"Wachumeqimeqi Balloon",False,False,5,0,0,True,False

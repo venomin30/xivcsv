@@ -1041,7 +1041,7 @@ int32,bit&01,ClassJobCategory,byte,uint16,RetainerTaskParameter,uint16,uint16,in
 1037,False,"Disciples of War or Magic",96,0,"RetainerTaskParameter#669",1,60,2032200,649,0,0,0,0,"Rroneek Chuck"
 1038,False,"Disciples of War or Magic",97,0,"RetainerTaskParameter#672",1,60,2095700,652,0,0,0,0,"Nopalitender Tuna"
 1039,False,"Disciples of War or Magic",95,0,"RetainerTaskParameter#666",1,60,1826300,646,0,0,0,0,"Tumbleclaw Weeds"
-1040,False,"Disciples of War or Magic",98,0,"RetainerTaskParameter#675",1,60,2297900,655,0,0,0,0,"Axe Beak Wing"
+1040,False,"Disciples of War or Magic",98,0,"RetainerTaskParameter#675",1,60,2297900,655,0,0,0,0,"Alexandrian Axe Beak Wing"
 1041,False,"Disciples of War or Magic",99,0,"RetainerTaskParameter#678",1,60,2378900,658,0,0,0,0,"Gomphotherium Skin"
 1042,False,"Disciples of War or Magic",100,0,"RetainerTaskParameter#690",1,60,2902300,670,0,0,0,0,"Gargantua Hide"
 1043,False,"MIN",90,620,"RetainerTaskParameter#620",1,60,1327800,0,72,0,2723,0,"Maghemite"

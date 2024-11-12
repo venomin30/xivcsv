@@ -215,3 +215,13 @@ int32,AquariumWater,byte,Item,uint16
 212,"Saltwater",2,"Lansquenet",366
 213,"Freshwater",3,"Colossoma",329
 214,"Saltwater",4,"Gharlichthys",113
+215,"Freshwater",1,"Petticoat Tetra",531
+216,"Freshwater",1,"Variatus",558
+217,"Freshwater",1,"Glittergill",559
+218,"Saltwater",1,"Shallows Sot",534
+219,"Freshwater",2,"Ka Puyhu",523
+220,"Freshwater",2,"Trailtrout",544
+221,"Saltwater",2,"Floating Fife",506
+222,"Saltwater",2,"Forgotten One",555
+223,"Freshwater",3,"Giant Snakehead",429
+224,"Saltwater",4,"Hydro Louvar",115

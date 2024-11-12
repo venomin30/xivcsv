@@ -144,3 +144,6 @@ int32,str,bit&01,byte,uint16,Row,Row,Row,Row,Row,Row,Row,Row,Row,Row
 3276940,"Radiant's Gear Augmentation (IL 600)",False,0,0,"Radiant's Gear Augmentation (DoW) I","Radiant's Gear Augmentation (DoW) II","Radiant's Gear Augmentation (DoM)",,,,,,,
 3276941,"Lunar Envoy's Gear Augmentation (IL 630)",False,0,0,"Lunar Envoy's Gear Augmentation (DoW) I","Lunar Envoy's Gear Augmentation (DoW) II","Lunar Envoy's Gear Augmentation (DoM)",,,,,,,
 3276942,"Credendum Gear Augmentation (IL 660)",False,0,0,"Credendum Gear Augmentation (DoW) I","Credendum Gear Augmentation (DoW) II","Credendum Gear Augmentation (DoM)",,,,,,,
+3276943,"Purchase Augmented Archeo Kingdom Equipment (IL 710 → 720)",False,0,0,"Augmented Archeo Kingdom Equipment (Weapons)","Augmented Archeo Kingdom Equipment (Gear)","Augmented Archeo Kingdom Equipment (Accessories)","Everkeep Certificates of Grade 1 Import (HQ Weapons)","Everkeep Certificates of Grade 1 Import (NQ Weapons)","Everkeep Certificates of Grade 1 Import (HQ Gear)","Everkeep Certificates of Grade 1 Import (NQ Gear)","Everkeep Certificates of Grade 1 Import (HQ Accessories)","Everkeep Certificates of Grade 1 Import (NQ Accessories)",
+3276944,"",False,0,0,,,,,,,,,,
+3276945,"",False,0,0,,,,,,,,,,

@@ -437,3 +437,5 @@ int32,BGMSystemDefine,Quest,byte,Row
 50077.2,"0","The Skyruin",5,"BGMSituation#1370"
 50077.3,"80","The High Luminary",0,"music/ex2/BGM_EX2_Event_36.scd"
 50077.4,"0","The High Luminary",2,"music/ex2/BGM_EX2_Event_36.scd"
+50078.0,"0.5",,0,"BGMSituation#1363"
+50078.1,"80"," An Intrepid New Enterprise",0,"BGMSituation#1382"

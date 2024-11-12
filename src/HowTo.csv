@@ -164,7 +164,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 160,"Player Commendation",True,"ui/icon/151000/en/151721.tex","ui/icon/151000/en/151722.tex","ui/icon/151000/en/151723.tex","","","","","","","","Duty",26
 161,"Applying to a Free Company",True,"ui/icon/151000/en/151731.tex","ui/icon/151000/en/151732.tex","","","","ui/icon/151000/en/151731.tex","ui/icon/151000/en/151733.tex","","","","Free Companies",7
 162,"Challenge Log",True,"ui/icon/151000/en/151741.tex","ui/icon/151000/en/151742.tex","","","","ui/icon/151000/en/151743.tex","ui/icon/151000/en/151742.tex","","","","Duty",6
-163,"Master Recipes",True,"ui/icon/151000/en/151751.tex","","","","","","","","","","Crafting",10
+163,"Master Recipes",True,"ui/icon/151000/en/151751.tex","ui/icon/151000/en/151752.tex","","","","","","","","","Crafting",10
 164,"Glamours",True,"ui/icon/151000/en/151761.tex","ui/icon/151000/en/151762.tex","ui/icon/151000/en/151763.tex","","","","","","","","Gear",25
 165,"Gardening",True,"ui/icon/151000/en/151771.tex","ui/icon/151000/en/151772.tex","","","","","","","","","Adventuring Basics",18
 166,"Tending Your Garden",True,"ui/icon/151000/en/151781.tex","ui/icon/151000/en/151782.tex","","","","","","","","","Adventuring Basics",20
@@ -288,4 +288,4 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 284,"Gatherer Role Actions",True,"ui/icon/152000/en/152941.tex","ui/icon/152000/en/152942.tex","ui/icon/152000/en/152943.tex","","","","","","","","Gathering",1
 285,"Facewear",True,"ui/icon/152000/en/152951.tex","ui/icon/152000/en/152952.tex","","","","","","","","","Adventuring Basics",29
 286,"Scenario Guide",True,"ui/icon/152000/en/152961.tex","ui/icon/152000/en/152962.tex","","","","","","","","","Quests",7
-287,"",False,"","","","","","","","","","","None",0
+287,"Special Recipes",True,"ui/icon/152000/en/152971.tex","ui/icon/152000/en/152972.tex","","","","","","","","","Crafting",22

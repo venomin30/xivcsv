@@ -28,13 +28,14 @@ int32,str,Image,Image,byte,byte
 24,"Wondrous Tails","ui/icon/061000/061825.tex",,0,0
 25,"Custom Deliveries","ui/icon/061000/061827.tex",,0,0
 26,"Eureka","ui/icon/061000/061833.tex","ui/icon/060000/060851.tex",0,0
-27,"","ui/icon/061000/061836.tex","ui/icon/060000/060853.tex",0,0
+27,"The Masked Carnivale","ui/icon/061000/061836.tex","ui/icon/060000/060853.tex",0,0
 28,"Ultimate Raids","ui/icon/061000/061832.tex","ui/icon/060000/060855.tex",1,6
-29,"","ui/icon/061000/061838.tex","ui/icon/061000/061838.tex",0,0
+29,"Save the Queen","ui/icon/061000/061838.tex","ui/icon/061000/061838.tex",0,0
 30,"V&C Dungeon Finder","ui/icon/061000/061846.tex","ui/icon/061000/061846.tex",1,0
 31,"Ocean Fishing","ui/icon/061000/061756.tex",,0,0
 32,"Triple Triad","ui/icon/061000/061820.tex",,0,0
 33,"The Hunt","ui/icon/061000/061819.tex",,0,0
 34,"Fishing","ui/icon/061000/061756.tex",,0,0
 35,"GATE","ui/icon/061000/061820.tex",,0,0
-36,"",,,0,0
+36,"Island Sanctuary","ui/icon/061000/061847.tex",,0,0
+37,"Chaotic Alliance Raid","ui/icon/061000/061850.tex","ui/icon/060000/060807.tex",1,7

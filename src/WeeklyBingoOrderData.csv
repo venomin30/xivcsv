@@ -167,23 +167,23 @@ int32,uint32,Row,byte,WeeklyBingoText,Image,byte
 163,0,"InstanceContent#20092",0,"Dammies","ui/icon/113000/113143.tex",0
 164,2,,0,"Dungeons (Lv. 91-99)","ui/icon/113000/113137.tex",3
 165,1,,0,"Dungeons (Lv. 100)","ui/icon/113000/113138.tex",3
-166,0,,0,"Dammies",,0
-167,0,,0,"Dammies",,0
-168,0,,0,"Dammies",,0
-169,0,,0,"Dammies",,0
-170,0,,0,"Dammies",,0
-171,0,,0,"Dammies",,0
-172,0,,0,"Dammies",,0
-173,0,,0,"Dammies",,0
-174,0,,0,"Dammies",,0
-175,0,,0,"Dammies",,0
-176,0,,0,"Dammies",,0
-177,0,,0,"Dammies",,0
-178,0,,0,"Dammies",,0
-179,0,,0,"Dammies",,0
-180,0,,0,"Dammies",,0
-181,0,,0,"Dammies",,0
-182,0,,0,"Dammies",,0
+166,5,,0,"Leveling Dungeons (Lv. 1-49)","ui/icon/113000/113001.tex",3
+167,5,,0,"Leveling Dungeons (Lv. 51-79)","ui/icon/113000/113086.tex",3
+168,5,,0,"Leveling Dungeons (Lv. 81-99)","ui/icon/113000/113137.tex",3
+169,6,,0,"High-level Dungeons (Lv. 50-60)","ui/icon/113000/113004.tex",3
+170,6,,0,"High-level Dungeons (Lv. 70-80)","ui/icon/113000/113087.tex",3
+171,6,,0,"High-level Dungeons (Lv. 90)","ui/icon/113000/113110.tex",3
+172,7,,0,"Trials (Lv. 50-60)","ui/icon/113000/113018.tex",3
+173,7,,0,"Trials (Lv. 70-100)","ui/icon/113000/113088.tex",3
+174,8,,0,"Alliance Raids (Lv. 50-60)","ui/icon/113000/113005.tex",3
+175,8,,0,"Alliance Raids (Lv. 70-90)","ui/icon/113000/113068.tex",3
+176,9,,0,"Normal Raids (Lv. 50-60)","ui/icon/113000/113010.tex",3
+177,9,,0,"Normal Raids (Lv. 70-100)","ui/icon/113000/113069.tex",3
+178,4,,0,"Asphodelos: First to Fourth Circles","ui/icon/113000/113118.tex",3
+179,4,,0,"Abyssos: Fifth to Eighth Circles","ui/icon/113000/113125.tex",3
+180,4,,0,"Anabaseios: Ninth to Twelfth Circles","ui/icon/113000/113132.tex",3
+181,4,,0,"AAC Light-heavyweight M1 or M2","ui/icon/113000/113144.tex",3
+182,4,,0,"AAC Light-heavyweight M3 or M4","ui/icon/113000/113145.tex",3
 183,0,,0,"Dammies",,0
 184,0,,0,"Dammies",,0
 185,0,,0,"Dammies",,0

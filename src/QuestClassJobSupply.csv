@@ -290,7 +290,7 @@ int32,ClassJobCategory,byte,ENpcResident,Item,byte,bit&01,uint32,uint32,uint32,u
 87.1,"BTN",255,"Shunye","Shunye's Apothecary Spiritual Supplement",6,False,10744088,10765742,10765746,0,1
 88.0,"MIN",255,"Shunye","Household Cleansing Supplies",6,False,10744091,10765790,10765791,0,1
 88.1,"BTN",255,"Shunye","Household Cleansing Supplies",6,False,10744101,10765788,10765789,0,2
-89.0,"MIN",255,"Shunye","Deep Earth Fragment",6,False,10744128,10766085,10766086,0,2
+89.0,"MIN",255,"Shunye","Deep Earth Fragment",6,False,10744128,10766085,10766086,0,1
 89.1,"BTN",255,"Shunye","Deep Earth Fragment",6,False,10744129,10765798,10765799,0,2
 90.0,"FSH",3,"Donuhanu","Cenote Shark",1,False,10559120,0,0,0,1
 91.0,"MIN",255,"Shunye","Precious Material",1,False,10744125,10765795,10765796,0,1

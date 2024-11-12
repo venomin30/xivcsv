@@ -138,6 +138,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262157.33,"Chrysanthemum Seeds",False,0,0,,,"",0,100,640
 262157.34,"Lupin Seeds",False,0,0,,,"",0,100,650
 262157.35,"Garden Sunflower Seeds",False,0,0,,,"",0,100,700
+262157.36,"Cattleya Seeds",False,0,0,,,"",0,100,710
 262158.0,"Gysahl Greens",False,0,0,,,"",0,100,0
 262158.1,"Cherry Bomb",False,0,0,,,"",0,100,0
 262158.2,"Mammet #001",False,0,0,,,"",0,100,0
@@ -4650,6 +4651,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262419.45,"Sacred Bonds Orchestrion Roll",False,0,0,,,"",0,100,630
 262419.46,"Railway Sleepers",False,0,0,,,"",0,100,640
 262419.47,"Smashed Flower Pot",False,0,0,,,"",0,100,640
+262419.48,"Square Stepping Stones",False,0,0,,,"",0,100,710
 262420.0,"Brass Bench",False,0,0,,,"",0,100,0
 262420.1,"Glade Placard",False,0,0,,,"",0,100,0
 262420.2,"Glade Thatch Wall",False,0,0,,,"",0,100,0
@@ -4698,6 +4700,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262420.45,"Sacred Bonds Orchestrion Roll",False,0,0,,,"",0,100,630
 262420.46,"Railway Sleepers",False,0,0,,,"",0,100,640
 262420.47,"Smashed Flower Pot",False,0,0,,,"",0,100,640
+262420.48,"Square Stepping Stones",False,0,0,,,"",0,100,710
 262421.0,"Brass Bench",False,0,0,,,"",0,100,0
 262421.1,"Oasis Placard",False,0,0,,,"",0,100,0
 262421.2,"Oasis Wooden Wall",False,0,0,,,"",0,100,0
@@ -4746,6 +4749,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262421.45,"Sacred Bonds Orchestrion Roll",False,0,0,,,"",0,100,630
 262421.46,"Railway Sleepers",False,0,0,,,"",0,100,640
 262421.47,"Smashed Flower Pot",False,0,0,,,"",0,100,640
+262421.48,"Square Stepping Stones",False,0,0,,,"",0,100,710
 262422.0,"Ash Log",False,0,0,,,"",0,100,0
 262422.1,"Ash Lumber",False,0,0,,,"",0,100,0
 262422.2,"Elm Lumber",False,0,0,,,"",0,100,0
@@ -4800,6 +4804,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262422.51,"Chrysanthemum Seeds",False,0,0,,,"",0,100,640
 262422.52,"Lupin Seeds",False,0,0,,,"",0,100,650
 262422.53,"Garden Sunflower Seeds",False,0,0,,,"",0,100,700
+262422.54,"Cattleya Seeds",False,0,0,,,"",0,100,710
 262423.0,"Usagi Kabuto",False,0,0,,,"",0,100,0
 262423.1,"Silver Usagi Kabuto",False,0,0,,,"",0,100,0
 262423.2,"Black Usagi Kabuto",False,0,0,,,"",0,100,0
@@ -7417,6 +7422,11 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262628.29,"Wake Doctor's Rubber Gloves",False,0,0,"A Mad Masquerade",,"",0,160,0
 262628.30,"Wake Doctor's Bottoms",False,0,0,"A Mad Masquerade",,"",0,160,0
 262628.31,"Wake Doctor's Shoes",False,0,0,"A Mad Masquerade",,"",0,160,0
+262628.32,"Night of Devilry Horns",False,0,0,"All Fiends Sated on All Saints' Wake",,"",0,170,0
+262628.33,"Night of Devilry Shirt",False,0,0,"All Fiends Sated on All Saints' Wake",,"",0,170,0
+262628.34,"Night of Devilry Fingerless Gloves",False,0,0,"All Fiends Sated on All Saints' Wake",,"",0,170,0
+262628.35,"Night of Devilry Trousers",False,0,0,"All Fiends Sated on All Saints' Wake",,"",0,170,0
+262628.36,"Night of Devilry Boots",False,0,0,"All Fiends Sated on All Saints' Wake",,"",0,170,0
 262629.0,"Snowman Head",False,0,0,,,"Cold as Ice",0,100,0
 262629.1,"Snowman Suit",False,0,0,,,"Cold as Ice",0,100,0
 262629.2,"Snowman Mitts",False,0,0,,,"Cold as Ice",0,100,0
@@ -7912,6 +7922,9 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262654.26,"Lily Hills Flooring",False,0,0,,,"",0,90,0
 262654.27,"Sultana's Breath Flooring",False,0,0,,,"",0,90,0
 262654.28,"White Marble Flooring",False,0,0,,,"",0,105,420
+262654.29,"Pure White Interior Wall",False,0,0,,,"",0,80,710
+262654.30,"Light Wood Flooring",False,0,0,,,"",0,105,710
+262654.31,"Flat Ceiling Lamp",False,0,0,,,"",0,140,710
 262655.0,"Riviera Chair",False,0,0,,,"",0,50,0
 262655.1,"Glade Chair",False,0,0,,,"",0,60,0
 262655.2,"Oasis Chair",False,0,0,,,"",0,70,0
@@ -7934,6 +7947,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262655.19,"Hannish Bed",False,0,0,,,"",0,176,630
 262655.20,"Hannish Chair",False,0,0,,,"",0,77,630
 262655.21,"Lalafell Lifter",False,0,0,,,"",0,77,630
+262655.22,"Classroom Chair",False,0,0,,,"",0,78,710
 262656.0,"Riviera Round Table",False,0,0,,,"",0,10,0
 262656.1,"Glade Round Table",False,0,0,,,"",0,20,0
 262656.2,"Oasis Round Table",False,0,0,,,"",0,30,0
@@ -7963,6 +7977,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262656.26,"Sharlayan Desk",False,0,0,,,"",0,125,620
 262656.27,"Hannish Round Table",False,0,0,,,"",0,35,630
 262656.28,"Simple Low Table",False,0,0,,,"",0,159,630
+262656.29,"Classroom Desk",False,0,0,,,"",0,153,710
 262657.0,"Riviera Bookshelf",False,0,0,,,"",0,10,0
 262657.1,"Glade Bookshelf",False,0,0,,,"",0,20,0
 262657.2,"Oasis Bookshelf",False,0,0,,,"",0,30,0
@@ -8000,56 +8015,37 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262657.34,"Hannish Table Lamp",False,0,0,,,"",0,185,630
 262657.35,"Hannish Pendant Wall Light",False,0,0,,,"",0,230,630
 262657.36,"Magazine Display Rack",False,0,0,,,"",0,35,650
-262658.0,"Ink & Quill",False,0,0,,,"",0,40,0
-262658.1,"Classified Documents",False,0,0,,,"",0,40,0
-262658.2,"Scattered Documents",False,0,0,,,"",0,40,0
-262658.3,"Ashtray",False,0,0,,,"",0,40,0
-262658.4,"Spirits Collection",False,0,0,,,"",0,40,0
-262658.5,"Riviera Table Chronometer",False,0,0,,,"",0,60,0
-262658.6,"Table Chronometer",False,0,0,,,"",0,60,0
-262658.7,"Terracotta Pot",False,0,0,,,"",0,80,0
-262658.8,"The Five Ages",False,0,0,,,"",0,100,0
-262658.9,"Encyclopedia Eorzea",False,0,0,,,"",0,100,0
-262658.10,"Stack of Tomes",False,0,0,,,"",0,100,0
-262658.11,"Pile of Tomes",False,0,0,,,"",0,100,0
-262658.12,"Level 1 Aetherial Wheel Stand",False,0,0,,,"",0,110,0
-262658.13,"Riviera Flower Vase",False,0,0,,,"",0,120,0
-262658.14,"Glade Flower Vase",False,0,0,,,"",0,120,0
-262658.15,"Oasis Flower Vase",False,0,0,,,"",0,120,0
-262658.16,"Riviera Vase",False,0,0,,,"",0,130,0
-262658.17,"Glade Vase",False,0,0,,,"",0,130,0
-262658.18,"Oasis Vase",False,0,0,,,"",0,130,0
-262658.19,"Riviera Flowerpot",False,0,0,,,"",0,140,0
-262658.20,"Glade Flowerpot",False,0,0,,,"",0,140,0
-262658.21,"Oasis Flowerpot",False,0,0,,,"",0,140,0
-262658.22,"Elixir Bottle",False,0,0,,,"",0,40,0
-262658.23,"Zabuton Cushion",False,0,0,,,"",0,160,0
-262658.24,"Hingan Brushes",False,0,0,,,"",0,45,0
-262658.25,"Hingan Scroll",False,0,0,,,"",0,45,0
-262658.26,"Porcelain Vase",False,0,0,,,"",0,85,0
-262658.27,"Vegetable Basket",False,0,0,,,"",0,100,420
-262658.28,"Hingan Pillar",False,0,0,,,"",0,180,420
-262658.29,"Stack of Documents",False,0,0,,,"",0,40,420
-262658.30,"Disordered Wardrobe",False,0,0,,,"",0,175,430
-262658.31,"Laundry Basket",False,0,0,,,"",0,100,430
-262658.32,"Mannequin",False,0,0,,,"",0,200,440
-262658.33,"Messy Dishes",False,0,0,,,"",0,40,500
-262658.34,"Grocery Bag",False,0,0,,,"",0,40,500
-262658.35,"Potted Orange Tree",False,0,0,,,"",0,150,500
-262658.36,"Empty Boxes",False,0,0,,,"",0,90,510
-262658.37,"Set of Liquor Bottles",False,0,0,,,"",0,40,510
-262658.38,"Cutting Board",False,0,0,,,"",0,40,520
-262658.39,"Open Book",False,0,0,,,"",0,100,520
-262658.40,"Sealed Letter",False,0,0,,,"",0,40,550
-262658.41,"Table Mat",False,0,0,,,"",0,40,600
-262658.42,"Log Pillar",False,0,0,,,"",0,10,610
-262658.43,"Astrologicum Star Map",False,0,0,,,"",0,40,610
-262658.44,"Simple Basket",False,0,0,,,"",0,100,620
-262658.45,"Darkest Hourglass",False,0,0,,,"",0,40,630
-262658.46,"Alpine Pillar",False,0,0,,,"",0,10,630
-262658.47,"Scattered Tomes",False,0,0,,,"",0,40,640
-262658.48,"Verdant Pillar",False,0,0,,,"",0,11,640
-262658.49,"Sealing Wax & Letter Set",False,0,0,,,"",0,40,650
+262657.37,"Contemporary Iron Shelf",False,0,0,,,"",0,35,710
+262658.0,"Ink & Quill",False,0,0,,,"",0,100,0
+262658.1,"Classified Documents",False,0,0,,,"",0,100,0
+262658.2,"Scattered Documents",False,0,0,,,"",0,100,0
+262658.3,"Ashtray",False,0,0,,,"",0,100,0
+262658.4,"Spirits Collection",False,0,0,,,"",0,100,0
+262658.5,"The Five Ages",False,0,0,,,"",0,100,0
+262658.6,"Encyclopedia Eorzea",False,0,0,,,"",0,100,0
+262658.7,"Stack of Tomes",False,0,0,,,"",0,100,0
+262658.8,"Pile of Tomes",False,0,0,,,"",0,100,0
+262658.9,"Elixir Bottle",False,0,0,,,"",0,100,0
+262658.10,"Zabuton Cushion",False,0,0,,,"",0,100,0
+262658.11,"Hingan Brushes",False,0,0,,,"",0,100,0
+262658.12,"Hingan Scroll",False,0,0,,,"",0,100,0
+262658.13,"Vegetable Basket",False,0,0,,,"",0,100,420
+262658.14,"Stack of Documents",False,0,0,,,"",0,100,420
+262658.15,"Disordered Wardrobe",False,0,0,,,"",0,100,430
+262658.16,"Laundry Basket",False,0,0,,,"",0,100,430
+262658.17,"Messy Dishes",False,0,0,,,"",0,100,500
+262658.18,"Grocery Bag",False,0,0,,,"",0,100,500
+262658.19,"Empty Boxes",False,0,0,,,"",0,100,510
+262658.20,"Set of Liquor Bottles",False,0,0,,,"",0,100,510
+262658.21,"Cutting Board",False,0,0,,,"",0,100,520
+262658.22,"Open Book",False,0,0,,,"",0,100,520
+262658.23,"Sealed Letter",False,0,0,,,"",0,100,550
+262658.24,"Table Mat",False,0,0,,,"",0,100,600
+262658.25,"Astrologicum Star Map",False,0,0,,,"",0,100,610
+262658.26,"Simple Basket",False,0,0,,,"",0,100,620
+262658.27,"Scattered Tomes",False,0,0,,,"",0,100,640
+262658.28,"Sealing Wax & Letter Set",False,0,0,,,"",0,100,650
+262658.29,"Apothecary Mortar",False,0,0,,,"",0,100,710
 262659.0,"Barracuda Piers Painting",False,0,0,,,"Out of Sight",0,50,0
 262659.1,"Astalicia Painting",False,0,0,,,"Out of Sight",0,55,0
 262659.2,"Seasong Grotto Painting",False,0,0,,,"Out of Sight",0,60,0
@@ -8416,6 +8412,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262690.40,"Sacred Bonds Orchestrion Roll",False,0,0,,,"",0,100,630
 262690.41,"Railway Sleepers",False,0,0,,,"",0,100,640
 262690.42,"Smashed Flower Pot",False,0,0,,,"",0,100,640
+262690.43,"Square Stepping Stones",False,0,0,,,"",0,100,710
 262691.0,"Clear Prism",False,0,0,,,"",0,100,0
 262691.1,"Glamour Dispeller",False,0,0,,,"",0,100,0
 262691.2,"Gysahl Greens",False,0,0,,,"",0,100,0
@@ -12402,6 +12399,8 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262952.41,"Alpine Partition Door",False,0,0,,,"",0,100,630
 262952.42,"Hannish Screen",False,0,0,,,"",0,100,630
 262952.43,"Hannish Bookshelf Partition",False,0,0,,,"",0,100,630
+262952.44,"Investigation Map",False,0,0,,,"",0,100,710
+262952.45,"Classroom Blackboard",False,0,0,,,"",0,100,710
 262953.0,"Deepgold Helm of Fending",False,0,0,,,"",0,100,500
 262953.1,"Deepgold Cuirass of Fending",False,0,0,,,"",0,100,500
 262953.2,"Deepgold Gauntlets of Fending",False,0,0,,,"",0,100,500
@@ -15018,6 +15017,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263123.26,"Chrysanthemum Seeds",False,0,0,,,"",0,100,640
 263123.27,"Lupin Seeds",False,0,0,,,"",0,100,650
 263123.28,"Garden Sunflower Seeds",False,0,0,,,"",0,100,700
+263123.29,"Cattleya Seeds",False,0,0,,,"",0,100,710
 263124.0,"Nymeia Potpourri",False,0,0,,,"",0,100,0
 263124.1,"Magicked Prism (Flowers)",False,0,0,,,"",0,100,0
 263124.2,"Meteor Shower",False,0,0,,,"",0,100,0
@@ -15134,6 +15134,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263134.38,"Gleaner's Breeches",False,0,0,"The Pride of Labyrinthos",,"",0,100,650
 263134.39,"Gleaner's Longboots",False,0,0,"The Pride of Labyrinthos",,"",0,100,650
 263134.40,"Hyper Hustle Trophy",False,0,0,"A Dream Worth Chasing",,"",0,110,650
+263134.41,"Wachumeqimeqi Balloon",False,0,0,"",,"",0,115,710
 263135.0,"Makai Mauler's Facemask",False,0,0,,,"Echoes of the Makai Blade",0,100,0
 263135.1,"Makai Mauler's Oilskin",False,0,0,,,"Echoes of the Makai Blade",0,100,0
 263135.2,"Makai Mauler's Fingerless Gloves",False,0,0,,,"Echoes of the Makai Blade",0,100,0
@@ -16268,7 +16269,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263214.5,"Ul'dahn Sparkler",False,0,0,,,"",0,100,0
 263214.6,"Bombard Bloom",False,0,0,,,"",0,100,0
 263214.7,"Pinwheel",False,0,0,,,"",0,100,0
-263214.8,"Bouncing Bomb Balloon",False,0,0,,,"",0,100,9999
+263214.8,"Bouncing Bomb Balloons",False,0,0,,,"",0,100,9999
 263215.0,"Nymeia Potpourri",False,0,0,,,"",0,100,0
 263215.1,"Magicked Prism (Flowers)",False,0,0,,,"",0,100,0
 263215.2,"Meteor Shower",False,0,0,,,"",0,100,0
@@ -16279,15 +16280,128 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263216.0,"Zoni",False,0,0,,,"",0,100,0
 263216.1,"Magicked Prism (Advent Cakes)",False,0,0,,,"",0,100,0
 263216.2,"",False,0,0,,,"",0,100,9999
+263216.3,"",False,0,0,,,"",0,100,9999
 263217.0,"Zoni",False,0,0,,,"",0,100,0
 263217.1,"",False,0,0,,,"",0,100,0
 263217.2,"",False,0,0,,,"",0,100,0
 263217.3,"",False,0,0,,,"",0,100,0
 263217.4,"Magicked Prism (Advent Cakes)",False,0,0,,,"",0,100,0
 263217.5,"",False,0,0,,,"",0,100,9999
+263217.6,"",False,0,0,,,"",0,100,9999
 263218.0,"Zoni",False,0,0,,,"",0,100,0
 263218.1,"Magicked Prism (Advent Cakes)",False,0,0,,,"",0,100,0
 263218.2,"",False,0,0,,,"",0,100,9999
+263218.3,"",False,0,0,,,"",0,100,9999
 263219.0,"Magicked Prism (Pumpkin)",False,0,0,,,"",0,100,0
 263219.1,"Flying Pumpkin",False,0,0,,,"",0,100,9999
 263220.0,"Air-wheeler A9 Identification Key",False,0,0,,,"",0,10,700
+263221.0,"Gysahl Greens",False,0,0,,,"",0,100,0
+263221.1,"Grade 8 Dark Matter",False,0,0,,,"",0,100,0
+263222.0,"Gysahl Greens",False,0,0,,,"",0,100,0
+263222.1,"Grade 8 Dark Matter",False,0,0,,,"",0,100,0
+263222.2,"Metal Spinner",False,0,0,,,"",0,100,0
+263222.3,"",False,0,0,,,"",0,100,710
+263222.4,"",False,0,0,,,"",0,100,710
+263222.5,"",False,0,0,,,"",0,100,710
+263222.6,"",False,0,0,,,"",0,100,710
+263222.7,"",False,0,0,,,"",0,100,710
+263223.0,"Bayside Bevy Painting",False,0,0,,,"Happy Trails",0,100,710
+263223.1,"Resplendent Quarter Painting",False,0,0,,,"Happy Trails",0,100,710
+263223.2,"High Tide Harbor Painting",False,0,0,,,"Happy Trails",0,100,710
+263223.3,"For'ard Cabins Painting",False,0,0,,,"Happy Trails",0,100,710
+263223.4,"Hunu'iliy Painting",False,0,0,,,"Happy Trails",0,100,710
+263223.5,"Wachunpelo Painting",False,0,0,,,"Happy Trails",0,100,710
+263223.6,"Miplu's Mate Garden Painting",False,0,0,,,"Happy Trails",0,100,710
+263223.7,"Shades of Grief Painting",False,0,0,,,"Happy Trails",0,100,710
+263223.8,"Naryor Gorna Painting",False,0,0,,,"Happy Trails",0,100,710
+263223.9,"Chirwagur Saltern Painting",False,0,0,,,"Happy Trails",0,100,710
+263223.10,"Worqor Lar Dor Painting",False,0,0,,,"Happy Trails",0,100,710
+263223.11,"House of Winds High Painting",False,0,0,,,"Happy Trails",0,100,710
+263223.12,"Cave Kikitola Painting",False,0,0,,,"Happy Trails",0,100,710
+263223.13,"Breath Between Painting",False,0,0,,,"Happy Trails",0,100,710
+263223.14,"Kozanuakiy Painting",False,0,0,,,"Happy Trails",0,100,710
+263223.15,"Earthenshire Painting",False,0,0,,,"Happy Trails",0,100,710
+263223.16,"Marsh Ligaka Painting",False,0,0,,,"Happy Trails",0,100,710
+263223.17,"Iq Br'aax Painting",False,0,0,,,"Happy Trails",0,100,710
+263223.18,"Iq Rrax Tsoly Painting",False,0,0,,,"Happy Trails",0,100,710
+263223.19,"Xobr'it Cinderfield Painting",False,0,0,,,"Happy Trails",0,100,710
+263223.20,"Choliselvaas Painting",False,0,0,,,"Happy Trails",0,100,710
+263223.21,"Ja Tiika Heartland Painting",False,0,0,,,"Happy Trails",0,100,710
+263223.22,"Tree of Living Light Painting",False,0,0,,,"Happy Trails",0,100,710
+263224.0,"Hhusatahwi Painting",False,0,0,,,"Happy Trails",0,100,710
+263224.1,"Mehwahhetsoan Painting",False,0,0,,,"Happy Trails",0,100,710
+263224.2,"Lake Toari Painting",False,0,0,,,"Happy Trails",0,100,710
+263224.3,"Pyaayehe'pya Painting",False,0,0,,,"Happy Trails",0,100,710
+263224.4,"Mount Loazensasaya Painting",False,0,0,,,"Happy Trails",0,100,710
+263224.5,"Resolution Painting",False,0,0,,,"Happy Trails",0,100,710
+263224.6,"Residential Sector Painting",False,0,0,,,"Happy Trails",0,100,710
+263224.7,"Mosaic Painting",False,0,0,,,"Happy Trails",0,100,710
+263224.8,"True Vue Painting",False,0,0,,,"Happy Trails",0,100,710
+263224.9,"Nexus Arcade Painting",False,0,0,,,"Happy Trails",0,100,710
+263224.10,"Thunderyards Painting",False,0,0,,,"Happy Trails",0,100,710
+263224.11,"Outskirts Painting",False,0,0,,,"Happy Trails",0,100,710
+263224.12,"Everkeep Painting",False,0,0,,,"Happy Trails",0,100,710
+263224.13,"Crackling Chasm Painting",False,0,0,,,"Happy Trails",0,100,710
+263224.14,"Nameslates Painting",False,0,0,,,"Happy Trails",0,100,710
+263224.15,"Archeo Alexandria Painting",False,0,0,,,"Happy Trails",0,100,710
+263225.0,"Meso Terminal Painting",False,0,0,,,"Happy Trails",0,100,710
+263225.1,"Canal Town Painting",False,0,0,,,"Happy Trails",0,100,710
+263225.2,"Yesterland Painting",False,0,0,,,"Happy Trails",0,100,710
+263225.3,"Windspath Gardens Painting",False,0,0,,,"Happy Trails",0,100,710
+263225.4,"Asyle Volcane Painting",False,0,0,,,"Happy Trails",0,100,710
+263225.5,"Steps of the Speaker Painting",False,0,0,,,"Happy Trails",0,100,710
+263226.0,"Magicked Prism (Sunshine)",False,0,0,,,"",0,100,0
+263226.1,"Magicked Prism (Stardust)",False,0,0,,,"",0,100,0
+263226.2,"Festive Starlight Celebration Advertisement",False,0,0,,,"",0,85,9999
+263226.3,"Starlight Kinderpunsch",False,0,0,"Spreading the Warmth and Cheer",,"",0,90,9999
+263226.4,"Starlight Mug Tower",False,0,0,"Spreading the Warmth and Cheer",,"",0,90,9999
+263226.5,"Winter's Warm Boughs Orchestrion Roll",False,0,0,"Spreading the Warmth and Cheer",,"",0,80,9999
+263227.0,"Prismatic Heart (Left)",False,0,0,,,"",0,100,0
+263227.1,"Prismatic Heart (Right)",False,0,0,,,"",0,100,0
+263227.2,"Heartfelt Valentione's Day Advertisement",False,0,0,,,"",0,90,9999
+263228.0,"Peach Confetti",False,0,0,,,"",0,100,0
+263228.1,"Cherry Confetti",False,0,0,,,"",0,100,0
+263229.0,"Magicked Prism (Hatching-tide)",False,0,0,,,"",0,100,0
+263230.0,"Zoni",False,0,0,,,"",0,100,0
+263230.1,"Magicked Prism (Advent Cakes)",False,0,0,,,"",0,100,0
+263230.2,"",False,0,0,,,"",0,90,9999
+263231.0,"Zoni",False,0,0,,,"",0,100,0
+263231.1,"Magicked Prism (Advent Cakes)",False,0,0,,,"",0,100,0
+263231.2,"",False,0,0,,,"",0,100,0
+263231.3,"",False,0,0,,,"",0,100,0
+263231.4,"",False,0,0,,,"",0,100,0
+263231.5,"",False,0,0,,,"",0,90,9999
+263232.0,"Zoni",False,0,0,,,"",0,100,0
+263232.1,"Magicked Prism (Advent Cakes)",False,0,0,,,"",0,100,0
+263232.2,"",False,0,0,,,"",0,90,9999
+263233.0,"Riviera Table Chronometer",False,0,0,,,"",0,20,0
+263233.1,"Table Chronometer",False,0,0,,,"",0,20,0
+263233.2,"Terracotta Pot",False,0,0,,,"",0,30,0
+263233.3,"Level 1 Aetherial Wheel Stand",False,0,0,,,"",0,40,0
+263233.4,"Riviera Flower Vase",False,0,0,,,"",0,40,0
+263233.5,"Glade Flower Vase",False,0,0,,,"",0,40,0
+263233.6,"Oasis Flower Vase",False,0,0,,,"",0,40,0
+263233.7,"Riviera Vase",False,0,0,,,"",0,50,0
+263233.8,"Glade Vase",False,0,0,,,"",0,50,0
+263233.9,"Oasis Vase",False,0,0,,,"",0,50,0
+263233.10,"Riviera Flowerpot",False,0,0,,,"",0,60,0
+263233.11,"Glade Flowerpot",False,0,0,,,"",0,60,0
+263233.12,"Oasis Flowerpot",False,0,0,,,"",0,60,0
+263233.13,"Porcelain Vase",False,0,0,,,"",0,30,0
+263233.14,"Hingan Pillar",False,0,0,,,"",0,10,420
+263233.15,"Mannequin",False,0,0,,,"",0,150,440
+263233.16,"Potted Orange Tree",False,0,0,,,"",0,70,500
+263233.17,"Log Pillar",False,0,0,,,"",0,10,610
+263233.18,"Darkest Hourglass",False,0,0,,,"",0,20,630
+263233.19,"Alpine Pillar",False,0,0,,,"",0,10,630
+263233.20,"Verdant Pillar",False,0,0,,,"",0,10,640
+263233.21,"",False,0,0,"Eye of the Dragon",,"",0,200,710
+263233.22,"",False,0,0,"Paladin's Pledge",,"",0,200,710
+263233.23,"",False,0,0,"Pride and Duty (Will Take You from the Mountain)",,"",0,200,710
+263233.24,"",False,0,0,"Brother from Another Mother",,"",0,200,710
+263233.25,"",False,0,0,"Peasants by Day, Ninjas by Night",,"",0,200,710
+263233.26,"",False,0,0,"A Song of Bards and Bowmen",,"",0,200,710
+263233.27,"",False,0,0,"Taking the Black",,"",0,200,710
+263233.28,"",False,0,0,"Austerities of Flame",,"",0,200,710
+263233.29,"",False,0,0,"Seer Folly",,"",0,200,710
+263233.30,"",False,0,0,"Forgotten but Not Gone",,"",0,200,710

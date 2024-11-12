@@ -1179,8 +1179,8 @@ int32,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool,Item,byte,bool
 1175,"Water Crystal",108,False,"Lightning Crystal",108,False,"Windsbalm Bay Leaf",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1176,"Water Crystal",89,False,"Lightning Crystal",89,False,"Pearl Grass",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1177,"Water Crystal",110,False,"Lightning Crystal",110,False,"Tumbleclaw Weeds",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
-1178,"Water Crystal",90,False,"Lightning Crystal",90,False,"Axe Beak Wing",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
-1179,"Water Crystal",112,False,"Lightning Crystal",112,False,"Axe Beak Wing",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1178,"Water Crystal",90,False,"Lightning Crystal",90,False,"Alexandrian Axe Beak Wing",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
+1179,"Water Crystal",112,False,"Lightning Crystal",112,False,"Alexandrian Axe Beak Wing",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1180,"Fire Crystal",36,False,"Water Crystal",36,False,"Megamaguey Pineapple",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1181,"Fire Crystal",43,False,"Water Crystal",43,False,"Ut'ohmu Tomato",2,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False
 1182,"Fire Crystal",37,False,"Water Crystal",37,False,"Wild Ja Tiika Bananas",1,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False,"",0,False

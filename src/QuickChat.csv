@@ -21,9 +21,10 @@ Displays current job and limit gauge progress.
 
 <Color(PlayerParameter(16))><27>01</27><28>02</28>[White mage]: Limit break ready!<28>01</28><27>02</27></Color>
 <Color(PlayerParameter(16))><27>01</27><28>02</28>[White mage]: Limit break at [99]%!<28>01</28><27>02</27></Color>",0
-6,"Limit Break","ui/icon/009000/009906.tex","<Clickable(<Sheet(ClassJob,IntegerParameter(2),0)/>)/>: Limit break <If(Equal(IntegerParameter(1),100))>ready!<Unknown60>0263</Unknown60><Else/>at <Value>IntegerParameter(1)</Value>%!<Unknown60>0264</Unknown60></If>","Fixed phrase available only during the Feast.
+6,"Limit Break","ui/icon/009000/009906.tex","<Clickable(<Sheet(ClassJob,IntegerParameter(2),0)/>)/>: Limit break <If(Equal(IntegerParameter(1),100))>ready!<Unknown60>0263</Unknown60><Else/>at <Value>IntegerParameter(1)</Value>%!<Unknown60>0264</Unknown60></If>","Variable phrase available only during Crystalline Conflict.
+Displays percentage of MP remaining.
 
-<Color(PlayerParameter(16))><27>01</27><28>02</28>Collecting offensive supplies!<28>01</28><27>02</27></Color>",6
+<Color(PlayerParameter(16))><27>01</27><28>02</28>MP at [69]%.<28>01</28><27>02</27></Color>",6
 7,"Offensive Supplies","ui/icon/009000/009907.tex","Collecting offensive supplies!<Unknown60>0265</Unknown60>","Fixed phrase available only during the Feast.
 
 <Color(PlayerParameter(16))><27>01</27><28>02</28>Collecting wolf's heart!<28>01</28><27>02</27></Color>",0
@@ -68,26 +69,16 @@ Displays percentage of TP remaining.
 Uses current target. 
 
 <Color(PlayerParameter(16))><27>01</27><28>02</28>Attacking [white mage]!<28>01</28><27>02</27></Color>",0
-21,"Charge","ui/icon/009000/009921.tex","Everyone, attack!<Unknown60>0269</Unknown60>","Fixed phrase available only during the Feast.
+21,"Charge","ui/icon/009000/009921.tex","Everyone, attack!<Unknown60>0269</Unknown60>",,21
+22,"Retreat","ui/icon/009000/009922.tex","Fall back and regroup!<Unknown60>0264</Unknown60>",,22
+23,"MP","ui/icon/009000/009923.tex","MP at <Value>IntegerParameter(1)</Value>%!<Unknown60>0264</Unknown60>","Fixed phrase available only during Crystalline Conflict.
 
-<Color(PlayerParameter(16))><27>01</27><28>02</28>Attacking ranged DPS!<28>01</28><27>02</27></Color>",21
-22,"Retreat","ui/icon/009000/009922.tex","Fall back and regroup!<Unknown60>0264</Unknown60>","Fixed phrase available only during the Feast.
-
-<Color(PlayerParameter(16))><27>01</27><28>02</28>Stopping healer!<28>01</28><27>02</27></Color>",22
-23,"MP","ui/icon/009000/009923.tex","MP at <Value>IntegerParameter(1)</Value>%!<Unknown60>0264</Unknown60>","Variable phrase available only during Crystalline Conflict.
-Displays current job and limit gauge progress.
-
-<Color(PlayerParameter(16))><27>01</27><28>02</28>[White mage]: Limit break ready!<28>01</28><27>02</27></Color>
-<Color(PlayerParameter(16))><27>01</27><28>02</28>[White mage]: Limit break at [99]%!<28>01</28><27>02</27></Color>",23
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Fall back and regroup!<28>01</28><27>02</27></Color>",23
 24,"TP","ui/icon/009000/009924.tex","TP at <Value>IntegerParameter(1)</Value>%!<Unknown60>0264</Unknown60>","Fixed phrase available only during the Feast.
 
 <Color(PlayerParameter(16))><27>01</27><28>02</28>Collecting adrenaline supplies!<28>01</28><27>02</27></Color>",0
-25,"Attacking Target","ui/icon/009000/009925.tex","Attacking <Unknown2F>FF1202280EFF09436C6173734A6F62E8020103</Unknown2F>! <Unknown60>0266</Unknown60>","Fixed phrase available only during the Feast.
-
-<Color(PlayerParameter(16))><27>01</27><28>02</28>Attacking tank!<28>01</28><27>02</27></Color>",25
-26,"Blocking Target","ui/icon/009000/009926.tex","Blocking <Unknown2F>FF1202280EFF09436C6173734A6F62E8020103</Unknown2F>! <Unknown60>0267</Unknown60>","Fixed phrase available only during the Feast.
-
-<Color(PlayerParameter(16))><27>01</27><28>02</28>Attacking healer!<28>01</28><27>02</27></Color>",26
+25,"Attacking Target","ui/icon/009000/009925.tex","Attacking <Unknown2F>FF1202280EFF09436C6173734A6F62E8020103</Unknown2F>! <Unknown60>0266</Unknown60>",,25
+26,"Blocking Target","ui/icon/009000/009926.tex","Blocking <Unknown2F>FF1202280EFF09436C6173734A6F62E8020103</Unknown2F>! <Unknown60>0267</Unknown60>",,26
 27,"Additional Action 2","ui/icon/009000/009928.tex","<Clickable(<Sheet(Action,IntegerParameter(1),0)/>)/> <If(Equal(IntegerParameter(2),0))>ready!<Unknown60>0263</Unknown60><Else/>ready in <Value>IntegerParameter(2)</Value>s!<Unknown60>0264</Unknown60></If>","Fixed phrase available only during the Feast.
 
 <Color(PlayerParameter(16))><27>01</27><28>02</28>Collecting offensive supplies!<28>01</28><27>02</27></Color>",0
@@ -101,24 +92,19 @@ Uses current target and adds a countdown time above their head.
 30,"Sorry","ui/icon/009000/009965.tex","Sorry!<Unknown60>0264</Unknown60>","Fixed phrase available only during Crystalline Conflict.
 
 <Color(PlayerParameter(16))><27>01</27><28>02</28>Nice job!<28>01</28><27>02</27></Color>",30
-31,"Going Ahead","ui/icon/009000/009966.tex","I'm going on ahead!<Unknown60>0269</Unknown60>","Fixed phrase available only during the Feast.
+31,"Going Ahead","ui/icon/009000/009966.tex","I'm going on ahead!<Unknown60>0269</Unknown60>",,31
+32,"Falling Back","ui/icon/009000/009967.tex","Falling back!<Unknown60>0264</Unknown60>",,32
+33,"Moving Crystal","ui/icon/009000/009968.tex","<Clickable(<Sheet(ClassJob,IntegerParameter(1),0)/>)/>: Moving the crystal now!<Unknown60>0266</Unknown60>",,33
+34,"Push Crystal","ui/icon/009000/009969.tex","Push the crystal!<Unknown60>0269</Unknown60>",,34
+35,"Covering Target","ui/icon/009000/009964.tex","Covering <Sheet(ClassJob,IntegerParameter(1),0)/>!<Unknown60>0263</Unknown60>",,35
+36,"Executing Limit Break","ui/icon/009000/009970.tex","<Clickable(<Sheet(ClassJob,IntegerParameter(1),0)/>)/>: Executing a limit break!<Unknown60>0263</Unknown60>","Variable phrase available only during the Feast.
+Displays percentage of TP remaining.
 
-<Color(PlayerParameter(16))><27>01</27><28>02</28>Collecting adrenaline supplies!<28>01</28><27>02</27></Color>",31
-32,"Falling Back","ui/icon/009000/009967.tex","Falling back!<Unknown60>0264</Unknown60>","Fixed phrase available only during the Feast.
+<Color(PlayerParameter(16))><27>01</27><28>02</28>TP at [41]%.<28>01</28><27>02</27></Color>",36
+37,"Group Up","ui/icon/009000/009971.tex","Everyone, group up!<Unknown60>0264</Unknown60>",,37
+38,"Purify","ui/icon/009000/009905.tex","<Clickable(<Sheet(Action,IntegerParameter(1),0)/>)/> <If(Equal(IntegerParameter(2),0))>ready!<Unknown60>0263</Unknown60><Else/>ready in <Value>IntegerParameter(2)</Value>s!<Unknown60>0264</Unknown60></If>","Fixed phrase available only during the Feast.
 
-<Color(PlayerParameter(16))><27>01</27><28>02</28>Collecting wolf's heart!<28>01</28><27>02</27></Color>",32
-33,"Moving Crystal","ui/icon/009000/009968.tex","<Clickable(<Sheet(ClassJob,IntegerParameter(1),0)/>)/>: Moving the crystal now!<Unknown60>0266</Unknown60>","Fixed phrase available only during the Feast.
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Get the medals!<28>01</28><27>02</27></Color>",38
+39,"Guard","ui/icon/009000/009972.tex","<Clickable(<Sheet(Action,IntegerParameter(1),0)/>)/> <If(Equal(IntegerParameter(2),0))>ready!<Unknown60>0263</Unknown60><Else/>ready in <Value>IntegerParameter(2)</Value>s!<Unknown60>0264</Unknown60></If>","Fixed phrase available only during Crystalline Conflict.
 
-<Color(PlayerParameter(16))><27>01</27><28>02</28>Stopping melee DPS!<28>01</28><27>02</27></Color>",33
-34,"Push Crystal","ui/icon/009000/009969.tex","Push the crystal!<Unknown60>0269</Unknown60>","Fixed phrase available only during the Feast.
-
-<Color(PlayerParameter(16))><27>01</27><28>02</28>Stopping ranged DPS!<28>01</28><27>02</27></Color>",34
-35,"Covering Target","ui/icon/009000/009964.tex","Covering <Sheet(ClassJob,IntegerParameter(1),0)/>!<Unknown60>0263</Unknown60>","Fixed phrase available only during the Feast.
-
-<Color(PlayerParameter(16))><27>01</27><28>02</28>Attacking melee DPS!<28>01</28><27>02</27></Color>",35
-36,"Executing Limit Break","ui/icon/009000/009970.tex","<Clickable(<Sheet(ClassJob,IntegerParameter(1),0)/>)/>: Executing a limit break!<Unknown60>0263</Unknown60>","Fixed phrase available only during the Feast.
-
-<Color(PlayerParameter(16))><27>01</27><28>02</28>Collecting defensive supplies!<28>01</28><27>02</27></Color>",36
-37,"Group Up","ui/icon/009000/009971.tex","Everyone, group up!<Unknown60>0264</Unknown60>","Fixed phrase available only during the Feast.
-
-<Color(PlayerParameter(16))><27>01</27><28>02</28>Stopping tank!<28>01</28><27>02</27></Color>",37
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Everyone, attack!<28>01</28><27>02</27></Color>",39

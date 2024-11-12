@@ -22,7 +22,7 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 18,5,"Harvest Dance",,,,,,2,"Saw That One Coming",,,1,"Saw That One Coming","Obtained from A Realm Reborn sidequest progression.",False
 19,5,"Ball Dance",,,,,,2,"Help Me, Lord of the Dance",,,1,"Help Me, Lord of the Dance","Obtained from A Realm Reborn sidequest progression.",False
 20,5,"Manderville Dance",,,,,,2,"The Hammer",,,1,"The Science of Deduction","Obtained from A Realm Reborn sidequest progression.",False
-21,0,,,,,,,0,,,,0,,"",False
+21,5,"Most Gentlemanly",,,,,,2,"Her Last Vow",,,1,"Truths Untold","Obtained from A Realm Reborn sidequest progression.",False
 22,5,"Sundrop Dance",,,,,,2," Sundrop the Beat",,,1," Fishing for Friendship","Obtained from Heavensward allied society quest progression.",False
 23,5,"Moonlift Dance",,,,,,2,"Eternity, Loyalty, Honesty",,,1,"Lift Me to the Moon","Obtained from Heavensward allied society quest progression.",False
 24,5,"Moogle Dance",,,,,,2," Piecing Together the Past",,,1," A Monumental Task","Obtained from Heavensward allied society quest progression.",False
@@ -48,14 +48,14 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 44,5,"Guard",,,,,,23,,,,1,"Where Eagles Nest","Obtained from Shadowbringers sidequest progression.",False
 45,5,"Malevolence",,,,,,23,,,,1,"Where Eagles Nest","Obtained from Shadowbringers sidequest progression.",False
 46,5,"Eastern Greeting",,,,,,12,"Ballroom Etiquette - Exotic Greetings",,,0,,"",False
-47,0,,,,,,,0,,,,0,,"",False
+47,5,"Dote",,,,,,6,"Ballroom Etiquette - Improper Amorism",,,0,,"",False
 48,5,"Huzzah",,,,,,6,"Ballroom Etiquette - The Last Huzzah",,,0,,"",False
 49,5,"Eureka",,,,,,6,"Ballroom Etiquette - Intellectual Diversions",,,0,,"",False
 50,5,"Senor Sabotender",,,,,,6,"Ballroom Etiquette - Positively Prickly",,,0,,"",False
 51,5,"Toast",,,,,,12,"Ballroom Etiquette - Celebratory Cups",,,0,,"",False
 52,5,"Snap",,,,,,12,"Ballroom Etiquette - Defter Digits",,,0,,"",False
 53,5,"Flower Shower",,,,,,12,"Ballroom Etiquette - Floral Rearrangement",,,0,,"",False
-54,0,,,,,,,0,,,,0,,"",False
+54,5,"Vexed",,,,,,6,"Ballroom Etiquette - Displaying Displeasure",,,0,,"",False
 55,5,"Tomestone",,,,,,9,,,,0,,"",False
 56,5,"Backflip",,,,,,12,"Ballroom Etiquette - Improper Celebration",,,0,,"",False
 57,5,"Eastern Stretch",,,,,,12,"Ballroom Etiquette - Exotic Exercises",,,0,,"",False
@@ -90,24 +90,24 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 86,0,,,,,,,0,,,,0,,"",False
 87,5,"Show Right",,,,,,6,"Ballroom Etiquette - Soliciting Applause",,,0,,"",False
 88,5,"Show Left",,,,,,6,"Ballroom Etiquette - Soliciting Applause",,,0,,"",False
-89,0,,,,,,,0,,,,0,,"",False
-90,0,,,,,,,0,,,,0,,"",False
-91,0,,,,,,,0,,,,0,,"",False
-92,0,,,,,,,0,,,,0,,"",False
+89,5,"Zantetsuken",,,,,,12,"Ballroom Etiquette - Zantetsuken",,,0,,"",True
+90,5,"Diamond Dust",,,,,,12,"Ballroom Etiquette - Diamond Dust",,,0,,"",True
+91,5,"Megaflare",,,,,,12,"Ballroom Etiquette - Calamitous Endings",,,0,,"",False
+92,5,"Ultima",,,,,,12,"Ballroom Etiquette - Ultima",,,0,,"",True
 93,0,,,,,,,0,,,,0,,"",False
 94,0,,,,,,,0,,,,0,,"",False
 95,5,"Fist Pump",,,,,,7,"Ballroom Etiquette - Overzealous Affirmations",,,0,,"",False
 96,5,"Shiver",,,,,,7,"Ballroom Etiquette - Insufficient Petticoats",,,0,,"",False
 97,5,"Scheme",,,,,,7,"Ballroom Etiquette - Ideal Gossip",,,0,,"",False
-98,0,,,,,,,0,,,,0,,"",False
+98,5,"Paint It Black",,,,,,43,,,,0,,"",False
 99,0,,,,,,,0,,,,0,,"",False
 100,0,,,,,,,0,,,,0,,"",False
 101,0,,,,,,,0,,,,0,,"",False
-102,5,"Confirm",,,,,,7,"Ballroom Etiquette - Scholarly Certitude",,,0,,"",False
+102,5,"Confirm",,,,,,43,,,,0,,"",False
 103,5,"Eat Apple",,,,,,7,"Ballroom Etiquette - Apples with Aplomb",,,1,"Towards the Firmament","Obtained from Heavensward sidequest progression.",False
 104,5,"Wring Hands",,,,,,7,"Ballroom Etiquette - Good Will Seeking",,,0,,"",False
-105,0,,,,,,,0,,,,0,,"",False
-106,0,,,,,,,0,,,,0,,"",False
+105,5,"Ritual Prayer",,,,,,17,,,,1," True-blue","Obtained from Stormblood allied society quest progression.",False
+106,5,"Charmed",,,,,,17,,,,1," Chance of Gales","Obtained from Stormblood allied society quest progression.",False
 107,5,"Yol Dance",,,,,,17,,,,1," Out of the Frypan","Obtained from Stormblood allied society quest progression.",False
 108,5,"Lali Hop",,,,,,17,,,,1," Tanks for the Memory","Obtained from Shadowbringers allied society quest progression.",False
 109,0,,,,,,,0,,,,0,,"",False
@@ -353,39 +353,39 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 349,6,"wayward hatchling",,,,,,30,,,,0,,"",False
 350,6,"cherry bomb",,,,,,30,,,,0,,"",False
 351,6,"baby behemoth",,,,,,12,"Baby Behemoth",,,0,,"",False
-352,6,"morbol seedling",,,,,,31,,,,4,"the Aurum Vale","Obtained by clearing the relevant dungeon from A Realm Reborn.",False
+352,6,"morbol seedling",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from A Realm Reborn.",False
 353,6,"dust bunny",,,,,,29,,,,0,,"",False
 354,6,"cactuar cutting",,,,,,2,"Zombies Are People Too",,,1,"Can't Do It without U","Obtained from A Realm Reborn sidequest progression.",False
 355,6,"smallshell",,,,,,7,"Smallshell",,,0,,"",False
 356,6,"goobbue sproutling",,,,,,2,"It Was a Very Good Year",,,1,"Battle Scars","Obtained from Seventh Umbral Era main scenario quest progression.",False
-357,6,"demon brick",,,,,,31,,,,4,"Amdapor Keep","Obtained by clearing the relevant dungeon from A Realm Reborn.",False
+357,6,"demon brick",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from A Realm Reborn.",False
 358,6,"wind-up cursor",,,,,,28,,,,0,,"",False
-359,6,"wind-up Qiqirn",,,,,,7,"Wind-up Qiqirn",,,0,,"",False
+359,6,"wind-up Qiqirn",,,,,,45,,,,0,,"",False
 360,6,"wolf pup",,,,,,2,"Man's Best Fiend",,,1,"Like Cats and Dogs","Obtained from A Realm Reborn sidequest progression.",False
 361,6,"coeurl kitten",,,,,,2,"Curiosity Killed the Coeurl",,,1,"Like Cats and Dogs","Obtained from A Realm Reborn sidequest progression.",False
-362,6,"wind-up tonberry",,,,,,7,"Wind-up Tonberry",,,0,,"",False
-363,6,"magic broom",,,,,,7,"Magic Broom",,,0,,"",False
+362,6,"wind-up tonberry",,,,,,43,,,,0,,"",False
+363,6,"magic broom",,,,,,45,,,,0,,"",False
 364,6,"wind-up moogle",,,,,,12,"Wind-up Moogle",,,0,,"",False
-365,6,"nutkin",,,,,,7,"Nutkin",,,0,,"",False
-366,6,"fat cat",,,,,,7,"Fat Cat",,,0,,"",False
+365,6,"nutkin",,,,,,43,,,,0,,"",False
+366,6,"fat cat",,,,,,44,,,,0,,"",False
 367,6,"water imp",,,,,,16,,,,1,"It Could Happen to You","Obtained from A Realm Reborn sidequest progression.",False
 368,6,"accompaniment node",,,,,,2,"Do It for Gilly",,,1,"Heavensward","Obtained from Heavensward sidequest progression.",False
 369,6,"paissa brat",,,,,,18,,,,1,"Towards the Firmament","Obtained from Heavensward sidequest progression.",False
-370,6,"korpokkur kid",,,,,,31,,,,4,"Saint Mocianne's Arboretum","Obtained by clearing the relevant dungeon from Heavensward.",False
-371,6,"odder otter",,,,,,7,"Odder Otter",,,0,,"",False
-372,6,"wind-up Namazu",,,,,,7,"Wind-up Namazu",,,0,,"",False
-373,6,"wind-up Khloe",,,,,,4,"Khloe Aliapoh","Level#6526530","Wind-up Khloe",1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
-374,6,"mameshiba",,,,,,7,"Mameshiba",,,0,,"",False
+370,6,"korpokkur kid",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from Heavensward.",False
+371,6,"odder otter",,,,,,44,,,,0,,"",False
+372,6,"wind-up Namazu",,,,,,43,,,,0,,"",False
+373,6,"wind-up Khloe",,,,,,42,,,,1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
+374,6,"mameshiba",,,,,,44,,,,0,,"",False
 375,6,"the Great Serpent of Ronka",,,,,,2," Protectors of the Wood",,,1," Hearts as One","Obtained from Shadowbringers sidequest progression.",False
 376,6,"giant beaver",,,,,,4,"giant beaver","Level#7989343","Giant Beaver",1," And Then There Were None","Obtained from Shadowbringers sidequest progression.",False
 377,6,"the Major-General",,,,,,11,"No More Fish in the Sea I",,,1,"All the Fish in the Sea","Obtained from A Realm Reborn sidequest progression.",False
 378,6,"Cait Sith doll",,,,,,12,"Cait Sith Doll",,,0,,"",True
-379,6,"bluebird",,,,,,7,"Bluebird",,,0,,"",False
+379,6,"bluebird",,,,,,43,,,,0,,"",False
 380,6,"fledgling dodo",,,,,,29,,,,0,,"",False
 381,6,"fledgling apkallu",,,,,,11,"Out of Sight Out of Mind",,,1,"A Sight to Behold","Obtained from A Realm Reborn sidequest progression.",False
 382,6,"tender lamb",,,,,,6,"Tender Lamb",,,0,,"",False
 383,6,"kidragora",,,,,,7,"Kidragora",,,0,,"",False
-384,6,"tight-beaked parrot",,,,,,31,,,,4,"Sastasha (Hard)","Obtained by clearing the relevant dungeon from A Realm Reborn.",False
+384,6,"tight-beaked parrot",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from A Realm Reborn.",False
 385,6,"wind-up succubus",,,,,,7,"Wind-up Succubus",,,0,,"",False
 386,6,"wind-up Gilgamesh",,,,,,28,,,,0,,"",False
 387,6,"Onion Prince",,,,,,7,"Onion Prince",,,0,,"",False
@@ -395,18 +395,18 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 391,6,"Mandragora Queen",,,,,,7,"Mandragora Queen",,,0,,"",False
 392,6,"wind-up Ultros",,,,,,33,,,,4,,"Obtained by completing the relevant trial from A Realm Reborn.",False
 393,6,"Enkidu",,,,,,33,,,,4,,"Obtained by completing the relevant trial from A Realm Reborn.",False
-394,6,"atrophied Atomos",,,,,,7,"Atrophied Atomos",,,0,,"",False
-395,6,"gaelikitten",,,,,,31,,,,4,"Sohm Al","Obtained by clearing the relevant dungeon from Heavensward.",False
-396,6,"lesser panda",,,,,,31,,,,4,"the Aery","Obtained by clearing the relevant dungeon from Heavensward.",False
+394,6,"atrophied Atomos",,,,,,45,,,,0,,"",False
+395,6,"gaelikitten",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from Heavensward.",False
+396,6,"lesser panda",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from Heavensward.",False
 397,6,"penguin prince",,,,,,11,"The Road of Verminion I",,,1,"It Could Happen to You","Obtained from A Realm Reborn sidequest progression.",False
 398,6,"Piggy",,,,,,16,,,,1,"It Could Happen to You","Obtained from A Realm Reborn sidequest progression.",False
-399,6,"shaggy shoat",,,,,,31,,,,4,"Pulling Poison Posies","Obtained by clearing the relevant dungeon from Heavensward.",False
-400,6,"road sparrow",,,,,,31,,,,4,"Long Live the Queen","Obtained by clearing the relevant dungeon from Stormblood.",False
-401,6,"wind-up chimera",,,,,,7,"Wind-up Chimera",,,0,,"",False
+399,6,"shaggy shoat",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from Heavensward.",False
+400,6,"road sparrow",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from Stormblood.",False
+401,6,"wind-up chimera",,,,,,45,,,,0,,"",False
 402,6,"yukinko snowflake",,,,,,7,"Yukinko Snowflake",,,1,"And We Shall Call It Hydatos","Obtained from Stormblood sidequest progression.",False
 403,6,"fox kit",,,,,,27,,,,1,"Stormblood","Obtained from Stormblood main scenario quest progression.",False
-404,6,"shoebill",,,,,,31,,,,4,"Thornmarch (Extreme)","Obtained by clearing the relevant dungeon from Shadowbringers.",False
-405,6,"bacon bits",,,,,,7,"Bacon Bits",,,0,,"",False
+404,6,"shoebill",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from Shadowbringers.",False
+405,6,"bacon bits",,,,,,44,,,,0,,"",False
 406,6,"sand fox",,,,,,26,,,,1,"Fantastic Mr. Faux","Obtained from Shadowbringers sidequest progression.",False
 407,6,"much-coveted Mora",,,,,,11,"On a Boat IV",,,1,"All the Fish in the Sea","Obtained from A Realm Reborn sidequest progression.",False
 408,5,"Linkpearl",,,,,,14,,,,0,,"",True
@@ -437,24 +437,24 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 433,9,,,,,,,17,,,,1," Dreams Come True","Obtained from Endwalker allied society quest progression.",False
 434,4,,,,,,,3,,,,3,,"Obtained by unlocking the relevant Ultimate raid from Endwalker.",False
 435,6,"heavy hatchling",,,,,,16,,,,1,"It Could Happen to You","Obtained from A Realm Reborn sidequest progression.",False
-436,6,"slime puddle",,,,,,31,,,,4,"Copperbell Mines (Hard)","Obtained by clearing the relevant dungeon from A Realm Reborn.",False
-437,6,"baby opo-opo",,,,,,31,,,,4,"Brayflox's Longstop (Hard)","Obtained by clearing the relevant dungeon from A Realm Reborn.",False
-438,6,"Littlefoot",,,,,,7,"Littlefoot",,,0,,"",False
+436,6,"slime puddle",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from A Realm Reborn.",False
+437,6,"baby opo-opo",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from A Realm Reborn.",False
+438,6,"Littlefoot",,,,,,44,,,,0,,"",False
 439,6,"shalloweye",,,,,,11,"A Load of Verminion II",,,1,"World of Wonders","Obtained from A Realm Reborn sidequest progression.",False
-440,6,"morpho",,,,,,31,,,,4,"Basic Training: Enemy Parties","Obtained by clearing the relevant dungeon from Heavensward.",False
+440,6,"morpho",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from Heavensward.",False
 441,6,"Poro Roggo",,,,,,2,"The Word of the Mother",,,1,"As It Once Was","Obtained from Heavensward main scenario quest progression.",False
-442,6,"Drippy",,,,,,31,,,,4,"Battle on the Big Bridge","Obtained by clearing the relevant dungeon from Shadowbringers.",False
-443,6,"Bom Boko",,,,,,7,"Bom Boko",,,0,,"",False
-444,6,"hedgehoglet",,,,,,7,"Hedgehoglet",,,0,,"",False
+442,6,"Drippy",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from Shadowbringers.",False
+443,6,"Bom Boko",,,,,,44,,,,0,,"",False
+444,6,"hedgehoglet",,,,,,43,,,,0,,"",False
 445,6,"pterosquirrel",,,,,,26,,,,1,"Fantastic Mr. Faux","Obtained from Shadowbringers sidequest progression.",False
-446,6,"Ghido",,,,,,31,,,,4,"Shadow and Claw","Obtained by clearing the relevant dungeon from Stormblood.",False
-447,6,"salt & pepper seal",,,,,,31,,,,4,"the Howling Eye","Obtained by clearing the relevant dungeon from Stormblood.",False
-448,6,"axolotl eft",,,,,,7,"Axolotl Eft",,,0,,"",False
+446,6,"Ghido",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from Stormblood.",False
+447,6,"salt & pepper seal",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from Stormblood.",False
+448,6,"axolotl eft",,,,,,44,,,,0,,"",False
 449,6,"bitty duckbill",,,,,,22,,,,1,"Nuts to You","Obtained from Shadowbringers sidequest progression.",False
-450,6,"ugly duckling",,,,,,31,,,,4,"Neverreap","Obtained by clearing the relevant dungeon from Heavensward.",False
-451,6,"Byakko cub",,,,,,7,"Byakko Cub",,,0,,"",False
-452,6,"scarlet peacock",,,,,,7,"Scarlet Peacock",,,0,,"",False
-453,6,"Seitei",,,,,,7,"Seitei",,,0,,"",False
+450,6,"ugly duckling",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from Heavensward.",False
+451,6,"Byakko cub",,,,,,45,,,,0,,"",False
+452,6,"scarlet peacock",,,,,,45,,,,0,,"",False
+453,6,"Seitei",,,,,,45,,,,0,,"",False
 454,6,"wind-up Y'shtola",,,,,,12,"Wind-up Y'shtola",,,1,"The Ultimate Weapon","Obtained from Seventh Umbral Era main scenario quest progression.",False
 455,6,"wind-up Minfilia",,,,,,6,"Wind-up Minfilia",,,1,"The Ultimate Weapon","Obtained from Seventh Umbral Era main scenario quest progression.",False
 456,6,"wind-up Thancred",,,,,,6,"Wind-up Thancred",,,1,"The Ultimate Weapon","Obtained from Seventh Umbral Era main scenario quest progression.",False
@@ -474,22 +474,22 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 470,5,"Ear Wiggle",,,,,,2," Dreams Come True",,,1," A Million Malms Away","Obtained from Endwalker allied society quest progression.",False
 471,5,"Hand to Heart",,,,,,14,,,,0,,"",True
 472,6,"sponge silkie",,,,,,34,,,,3,,"Obtained from Endwalker sidequest progression.",False
-473,6,"Chewy",,,,,,7,"Chewy",,,0,,"",False
+473,6,"Chewy",,,,,,44,,,,0,,"",False
 474,6,"weatherproof gaelicat",,,,,,7,"Weatherproof Gaelicat",,,0,,"",False
-475,6,"Nana bear",,,,,,7,"Nana Bear",,,0,,"",False
-476,6,"black hayate",,,,,,31,,,,4,"the <Emphasis>Whorleater</Emphasis> (Hard)","Obtained by clearing the relevant dungeon from Shadowbringers.",False
-477,6,"koala joey",,,,,,7,"Koala Joey",,,0,,"",False
-478,6,"capybara pup",,,,,,7,"Capybara Pup",,,0,,"",False
-479,6,"Flag",,,,,,7,"Flag",,,0,,"",False
+475,6,"Nana bear",,,,,,45,,,,0,,"",False
+476,6,"black hayate",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from Shadowbringers.",False
+477,6,"koala joey",,,,,,44,,,,0,,"",False
+478,6,"capybara pup",,,,,,43,,,,0,,"",False
+479,6,"Flag",,,,,,44,,,,0,,"",False
 480,6,"corgi",,,,,,26,,,,1,"Fantastic Mr. Faux","Obtained from Shadowbringers sidequest progression.",False
 481,6,"silver dasher",,,,,,7,"Silver Dasher",,,0,,"",False
-482,6,"greener gleaner",,,,,,7,"Greener Gleaner",,,0,,"",False
+482,6,"greener gleaner",,,,,,44,,,,0,,"",False
 483,6,"wind-up Arkasodara",,,,,,17,,,,1," A Pachyderm's Promptitude","Obtained from Endwalker allied society quest progression.",False
-484,6,"wind-up Grebuloff",,,,,,7,"Wind-up Grebuloff",,,0,,"",False
+484,6,"wind-up Grebuloff",,,,,,44,,,,0,,"",False
 485,6,"Findingway",,,,,,17,,,,1," Too Few Cooks","Obtained from Endwalker allied society quest progression.",False
-486,6,"optimus Omicron",,,,,,31,,,,4,"the Akh Afah Amphitheatre (Hard)","Obtained by clearing the relevant dungeon from Endwalker.",False
-487,6,"wind-up Omega-M",,,,,,4,"Khloe Aliapoh","Level#6526530","Wind-up Omega-M",1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
-488,6,"wind-up Omega-F",,,,,,4,"Khloe Aliapoh","Level#6526530","Wind-up Omega-F",1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
+486,6,"optimus Omicron",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from Endwalker.",False
+487,6,"wind-up Omega-M",,,,,,42,,,,1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
+488,6,"wind-up Omega-F",,,,,,42,,,,1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
 489,6,"OMG",,,,,,33,,,,4,,"Obtained by completing the relevant trial from Stormblood.",False
 490,6,"wind-up Alpha",,,,,,2,"To Kweh under Distant Skies",,,1,"In the End, There Is Omega","Obtained from Stormblood sidequest progression.",False
 491,6,"wind-up Krile",,,,,,6,"Wind-up Krile",,,0,,"",False
@@ -498,7 +498,7 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 494,6,"wind-up Nanamo",,,,,,28,,,,0,,"",False
 495,6,"wind-up Haurchefant",,,,,,2,"As Goes Light, So Goes Darkness",,,1,"Against the Dying of the Light","Obtained from Heavensward main scenario quest progression.",False
 496,6,"wind-up Aymeric",,,,,,2,"Litany of Peace",,,1,"Heroes of the Hour","Obtained from Heavensward main scenario quest progression.",False
-497,6,"wind-up Estinien",,,,,,4,"Khloe Aliapoh","Level#6526530","Wind-up Estinien",1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
+497,6,"wind-up Estinien",,,,,,42,,,,1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
 498,6,"wind-up Nero tol Scaeva",,,,,,16,,,,1,"It Could Happen to You","Obtained from A Realm Reborn sidequest progression.",False
 499,6,"wind-up leader",,,,,,28,,,,0,,"",False
 500,6,"wind-up leader",,,,,,28,,,,0,,"",False
@@ -534,33 +534,33 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 530,9,,,,,,,36,,,,1,"Way of the Fisher","Obtained from fisher quest progression.",False
 531,9,,,,,,,36,,,,1,"Every Little Thing She Does Is Mahjong","Obtained from A Realm Reborn sidequest progression.",False
 532,5,"Reference",,,,,,24,,,,3,,"Obtained from Endwalker sidequest progression.",False
-533,5,"Slump",,,,,,14,,,,0,,"",False
+533,5,"Slump",,,,,,14,,,,0,,"",True
 534,6,"private pachypodium",,,,,,7,"Private Pachypodium",,,0,,"",False
 535,6,"Shiromaru",,,,,,34,,,,4,,"Obtained from Endwalker sidequest progression.",False
 536,6,"Kuromaru",,,,,,34,,,,4,,"Obtained from Endwalker sidequest progression.",False
-537,6,"private moai",,,,,,7,"Private Moai",,,0,,"",False
+537,6,"private moai",,,,,,45,,,,0,,"",False
 538,6,"wind-up Azeyma",,,,,,32,,,,4,,"Obtained by completing the relevant alliance raid from Endwalker.",False
 539,6,"wind-up Halone",,,,,,32,,,,4,,"Obtained by completing the relevant alliance raid from Endwalker.",False
 540,6,"wind-up Oschon",,,,,,32,,,,4,,"Obtained by completing the relevant alliance raid from Endwalker.",False
-541,6,"gravel golem",,,,,,7,"Gravel Golem",,,0,,"",False
-542,6,"mummy's little mummy",,,,,,31,,,,4,"the Sunken Temple of Qarn (Hard)","Obtained by clearing the relevant dungeon from A Realm Reborn.",False
+541,6,"gravel golem",,,,,,45,,,,0,,"",False
+542,6,"mummy's little mummy",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from A Realm Reborn.",False
 543,6,"Fenrir pup",,,,,,40,,,,0,,"",False
-544,6,"little leannan",,,,,,31,,,,4,"the <Emphasis>Whorleater</Emphasis> (Extreme)","Obtained by clearing the relevant dungeon from Shadowbringers.",False
-545,6,"dwarf rabbit",,,,,,7,"Dwarf Rabbit",,,0,,"",False
+544,6,"little leannan",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from Shadowbringers.",False
+545,6,"dwarf rabbit",,,,,,43,,,,0,,"",False
 546,6,"meerkat",,,,,,7,"Meerkat",,,0,,"",False
 547,6,"assassin fry",,,,,,7,"Assassin Fry",,,0,,"",False
-548,6,"owlet",,,,,,31,,,,4,"the Fractal Continuum","Obtained by clearing the relevant dungeon from Heavensward.",False
+548,6,"owlet",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from Heavensward.",False
 549,6,"hunting hawk",,,,,,18,,,,1,"Towards the Firmament","Obtained from Heavensward sidequest progression.",False
-550,6,"blue-footed booby",,,,,,7,"Blue-footed Booby",,,0,,"",False
+550,6,"blue-footed booby",,,,,,44,,,,0,,"",False
 551,6,"dress-up Y'shtola",,,,,,12,"Dress-up Y'shtola",,,0,,"",False
-552,6,"dress-up Thancred",,,,,,4,"Khloe Aliapoh","Level#6526530","Dress-up Thancred",1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
+552,6,"dress-up Thancred",,,,,,42,,,,1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
 553,6,"wind-up Louisoix",,,,,,11,"Out of a Bind I",,,3,,"Obtained from A Realm Reborn: Chronicles of a New Era quest progression.",False
-554,6,"dress-up Alisaie",,,,,,4,"Khloe Aliapoh","Level#6526530","Dress-up Alisaie",1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
+554,6,"dress-up Alisaie",,,,,,42,,,,1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
 555,6,"wind-up Godbert",,,,,,6,"Wind-up Godbert",,,0,,"",True
 556,6,"wind-up Iceheart",,,,,,12,"Wind-up Iceheart",,,0,,"",False
 557,6,"wind-up Yugiri",,,,,,12,"Wind-up Yugiri",,,0,,"",False
 558,6,"wind-up Edda",,,,,,7,"Wind-up Edda",,,1,"The Nightmare's End","Obtained from Heavensward sidequest progression.",False
-559,6,"wind-up Zhloe",,,,,,4,"Khloe Aliapoh","Level#6526530","Wind-up Zhloe",1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
+559,6,"wind-up Zhloe",,,,,,42,,,,1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
 560,6,"wind-up G'raha Tia",,,,,,2,"Shadowbringers",,,1,"A Greater Purpose","Obtained from Shadowbringers main scenario quest progression.",False
 561,6,"Midgardsormr",,,,,,2,"The Rising Chorus",,,1,"Best Laid Schemes","Obtained from Seventh Umbral Era main scenario quest progression.",False
 562,6,"wind-up Hraesvelgr",,,,,,12,"Wind-up Hraesvelgr",,,0,,"",True
@@ -571,7 +571,7 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 567,9,,,,,,,17,,,,1,"The Nest of Honor","Obtained from Heavensward allied society quest progression.",False
 568,9,,,,,,,17,,,,1,"A Symbiotic Friendship","Obtained from Heavensward allied society quest progression.",False
 569,9,,,,,,,17,,,,1,"The Zenith of Craftsmanship","Obtained from Heavensward allied society quest progression.",False
-570,9,,,,,,,4,"Khloe Aliapoh","Level#6526530","Wondrous Whimsy Framer's Kit",1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
+570,9,,,,,,,42,,,,1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
 571,9,,,,,,,26,,,,1,"Fantastic Mr. Faux","Obtained from Shadowbringers sidequest progression.",False
 572,9,,,,,,,2,"Embraced by Gods",,,1,"The Heart of the Myth","Obtained from Endwalker: Chronicles of a New Era quest progression.",False
 573,9,,,,,,,2,"More Precious than Gil",,,1,"Treasured Bonds","Obtained from Endwalker sidequest progression.",False
@@ -649,30 +649,30 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 645,6,"coblyn larva",,,,,,7,"Coblyn Larva",,,0,,"",False
 646,6,"Kydonia Strolls",,,,,,26,,,,1,"Fantastic Mr. Faux","Obtained from Shadowbringers sidequest progression.",False
 647,6,"wind-up PuPu",,,,,,2,"Not from Around Here",,,1,"By Agents Unknown","Obtained from Endwalker sidequest progression.",False
-648,6,"puffin",,,,,,31,,,,4,"the Singularity Reactor","Obtained by clearing the relevant dungeon from Endwalker.",False
+648,6,"puffin",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from Endwalker.",False
 649,6,"chimpanzee",,,,,,26,,,,1,"Fantastic Mr. Faux","Obtained from Shadowbringers sidequest progression.",False
 650,6,"tiny rat",,,,,,7,"Tiny Rat",,,0,,"",False
 651,6,"baby bun",,,,,,7,"Baby Bun",,,0,,"",False
 652,6,"chigoe larva",,,,,,2,"Occupational Hazards",,,1,"No Guts, No Glory","Obtained from A Realm Reborn sidequest progression.",False
 653,6,"black coeurl",,,,,,16,,,,1,"It Could Happen to You","Obtained from A Realm Reborn sidequest progression.",False
 654,6,"baby raptor",,,,,,7,"Baby Raptor",,,0,,"",False
-655,6,"minute mindflayer",,,,,,7,"Minute Mindflayer",,,0,,"",False
-656,6,"unicolt",,,,,,31,,,,4,"the Vault","Obtained by clearing the relevant dungeon from Heavensward.",False
-657,6,"Gestahl",,,,,,7,"Gestahl",,,0,,"",False
+655,6,"minute mindflayer",,,,,,44,,,,0,,"",False
+656,6,"unicolt",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from Heavensward.",False
+657,6,"Gestahl",,,,,,44,,,,0,,"",False
 658,6,"wind-up Lyse",,,,,,6,"Wind-up Lyse",,,1,"Stormblood","Obtained from Stormblood main scenario quest progression.",False
-659,6,"wind-up Hien",,,,,,4,"Khloe Aliapoh","Level#6526530","Wind-up Hien",1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
+659,6,"wind-up Hien",,,,,,42,,,,1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
 660,6,"dress-up Yugiri",,,,,,6,"Dress-up Yugiri",,,1,"Stormblood","Obtained from Stormblood main scenario quest progression.",False
 661,6,"wind-up Gosetsu",,,,,,6,"Wind-up Gosetsu",,,1,"Stormblood","Obtained from Stormblood main scenario quest progression.",False
 662,6,"wind-up Yotsuyu",,,,,,12,"Wind-up Yotsuyu",,,0,,"",True
-663,6,"mock-up Grynewaht",,,,,,31,,,,4,"Ward Up","Obtained by clearing the relevant dungeon from Stormblood.",False
+663,6,"mock-up Grynewaht",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from Stormblood.",False
 664,6,"dress-up Raubahn",,,,,,2,"Return of the Bull",,,1,"A Blissful Arrival","Obtained from Stormblood main scenario quest progression.",False
-665,6,"wind-up Magnai",,,,,,7,"Wind-up Magnai",,,1,"Stormblood","Obtained from Stormblood main scenario quest progression.",False
+665,6,"wind-up Magnai",,,,,,45,,,,1,"Stormblood","Obtained from Stormblood main scenario quest progression.",False
 666,6,"wind-up Cirina",,,,,,6,"Wind-up Cirina",,,1,"Stormblood","Obtained from Stormblood main scenario quest progression.",False
-667,6,"wind-up Sadu",,,,,,7,"Wind-up Sadu",,,1,"Stormblood","Obtained from Stormblood main scenario quest progression.",False
+667,6,"wind-up Sadu",,,,,,45,,,,1,"Stormblood","Obtained from Stormblood main scenario quest progression.",False
 668,6,"dress-up Tataru",,,,,,12,"Dress-up Tataru",,,0,,"",True
 669,6,"wind-up Suzaku",,,,,,12,"Wind-up Suzaku",,,0,,"",True
 670,6,"brave new Y'shtola",,,,,,6,"Brave New Y'shtola",,,1,"Shadowbringers","Obtained from Shadowbringers main scenario quest progression.",False
-671,6,"brave new Urianger",,,,,,4,"Khloe Aliapoh","Level#6526530","Brave New Urianger",1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
+671,6,"brave new Urianger",,,,,,42,,,,1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
 672,6,"dress-up Estinien",,,,,,18,,,,1,"Towards the Firmament","Obtained from Heavensward sidequest progression.",False
 673,6,"wind-up Lyna",,,,,,12,"Wind-up Lyna",,,0,,"",True
 674,6,"wind-up Runar",,,,,,12,"Wind-up Runar",,,0,,"",True
@@ -684,8 +684,8 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 680,6,"clockwork Solus",,,,,,6,"Clockwork Solus",,,1,"Shadowbringers","Obtained from Shadowbringers main scenario quest progression.",False
 681,9,,,,,,,21,"ENpcBase#1038441","Level#9159882","Viper Framer's Kit",0,,"",False
 682,9,,,,,,,21,"ENpcBase#1038441","Level#9159882","Pictomancer Framer's Kit",0,,"",False
-683,9,,,,,,,14,,,,0,,"",False
-684,9,,,,,,,14,,,,0,,"",False
+683,9,,,,,,,14,,,,0,,"",True
+684,9,,,,,,,14,,,,0,,"",True
 685,9,,,,,,,11,"Top Tier: Season Eleven",,,0,,"",True
 686,11,,,,,,,11,"Crystal in the Rough: Season Eleven",,,0,,"",True
 687,11,,,,,,,11,"Ranked and Filed: Season Eleven",,,0,,"",True
@@ -700,10 +700,10 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 696,9,,,,,,,17,,,,1,"Martial Perfection","Obtained from A Realm Reborn allied society quest progression.",False
 697,9,,,,,,,17,,,,1,"Like Clutchfather, Like Son","Obtained from A Realm Reborn allied society quest progression.",False
 698,9,,,,,,,17,,,,1," Spread Your Wings and Soar","Obtained from A Realm Reborn allied society quest progression.",False
-699,9,,,,,,,4,"Beryl","Level#10361830","Dark Solution Framer's Kit",1,"Dawntrail","Obtained from Dawntrail main scenario quest progression.",False
-700,9,,,,,,,4,"Beryl","Level#10361830","Bright Solution Framer's Kit",1,"Dawntrail","Obtained from Dawntrail main scenario quest progression.",False
-701,9,,,,,,,4,"Kajeel Ja","Level#10340614","Crimson Dawn Framer's Kit",1,"Dawntrail","Obtained from Dawntrail main scenario quest progression.",False
-702,9,,,,,,,4,"Kajeel Ja","Level#10340614","Golden Dawn Framer's Kit",1,"Dawntrail","Obtained from Dawntrail main scenario quest progression.",False
+699,9,,,,,,,41,,,,1,"Dawntrail","Obtained from Dawntrail main scenario quest progression.",False
+700,9,,,,,,,41,,,,1,"Dawntrail","Obtained from Dawntrail main scenario quest progression.",False
+701,9,,,,,,,41,,,,1,"Dawntrail","Obtained from Dawntrail main scenario quest progression.",False
+702,9,,,,,,,41,,,,1,"Dawntrail","Obtained from Dawntrail main scenario quest progression.",False
 703,1,"Enter the Viper",,,,,,2,"Enter the Viper",,,0,,"",False
 704,1,"The Joy of Pictomancy",,,,,,2,"The Joy of Pictomancy",,,0,,"",False
 705,1,"Vengeance of the Viper",,,,,,2,"Vengeance of the Viper",,,1,"Into the Viper Pit","Obtained from viper quest progression.",False
@@ -721,24 +721,84 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 717,0,,,,,,,0,,,,0,,"",False
 718,0,,,,,,,0,,,,0,,"",False
 719,0,,,,,,,0,,,,0,,"",False
-720,0,,,,,,,0,,,,0,,"",False
-721,0,,,,,,,0,,,,0,,"",False
-722,0,,,,,,,0,,,,0,,"",False
-723,0,,,,,,,0,,,,0,,"",False
-724,0,,,,,,,0,,,,0,,"",False
+720,5,"All Saints' Charm",,,,,,6,"Ballroom Etiquette - Wakeful Witchcraft",,,0,,"",False
+721,5,"Uchiwasshoi",,,,,,2,"Fire Red, Beast Green",,,0,,"",True
+722,5,"Attend",,,,,,14,,,,0,,"",False
+723,5,"Water",,,,,,28,,,,0,,"",False
+724,5,"Shake Drink",,,,,,16,,,,1,"It Could Happen to You","Obtained from A Realm Reborn sidequest progression.",False
 725,0,,,,,,,0,,,,0,,"",False
-726,0,,,,,,,0,,,,0,,"",False
-727,0,,,,,,,0,,,,0,,"",False
+726,5,"Bouquet",,,,,,2,"I Promise You a Rose Garden",,,0,,"",True
+727,5,"Ohokaliy",,,,,,2," An Intrepid New Enterprise",,,1,"Dawntrail","Obtained from Dawntrail main scenario quest progression.",False
 728,0,,,,,,,0,,,,0,,"",False
-729,0,,,,,,,0,,,,0,,"",False
-730,0,,,,,,,0,,,,0,,"",False
-731,0,,,,,,,0,,,,0,,"",False
-732,0,,,,,,,0,,,,0,,"",False
-733,0,,,,,,,0,,,,0,,"",False
-734,0,,,,,,,0,,,,0,,"",False
-735,0,,,,,,,0,,,,0,,"",False
-736,0,,,,,,,0,,,,0,,"",False
-737,0,,,,,,,0,,,,0,,"",False
-738,0,,,,,,,0,,,,0,,"",False
-739,0,,,,,,,0,,,,0,,"",False
-740,0,,,,,,,0,,,,0,,"",False
+729,6,"dolphin calf",,,,,,11,"Double-backwards Somersault",,,1,"All the Fish in the Sea","Obtained from A Realm Reborn sidequest progression.",False
+730,6,"starbird",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from Endwalker.",False
+731,6,"Nagxian cat",,,,,,22,,,,1,"The Hunt for Specimens","Obtained from Endwalker sidequest progression.",False
+732,6,"wind-up Vrtra",,,,,,12,"Wind-up Vrtra",,,0,,"",True
+733,6,"crabe de la crabe",,,,,,44,,,,0,,"",False
+734,6,"Prince Lunatender",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from Endwalker.",False
+735,6,"wind-up herois",,,,,,2,"Endwalker",,,1,"Endwalker","Obtained from Endwalker main scenario quest progression.",False
+736,6,"royal lunatender",,,,,,43,,,,0,,"",False
+737,6,"wind-up philos",,,,,,43,,,,1,"Endwalker","Obtained from Endwalker main scenario quest progression.",False
+738,6,"wind-up Erichthonios",,,,,,32,,,,4,,"Obtained by completing the relevant normal raid from Endwalker.",False
+739,6,"wind-up Aidoneus",,,,,,43,,,,1,"Endwalker","Obtained from Endwalker main scenario quest progression.",False
+740,6,"wind-up Athena",,,,,,32,,,,4,,"Obtained by completing the relevant normal raid from Endwalker.",False
+741,6,"vicarious vacationer",,,,,,25,,,,1,"Seeking Sanctuary","Obtained from Endwalker sidequest progression.",False
+742,6,"Hydaelyn idol",,,,,,12,"Hydaelyn Idol",,,0,,"",True
+743,6,"Zodiark idol",,,,,,12,"Zodiark Idol",,,0,,"",True
+744,6,"wind-up Fourchenault",,,,,,12,"Wind-up Fourchenault",,,0,,"",True
+745,6,"alpaca cria",,,,,,41,,,,1,"Dawntrail","Obtained from Dawntrail main scenario quest progression.",False
+746,6,"Ilyikty'i",,,,,,41,,,,1,"Dawntrail","Obtained from Dawntrail main scenario quest progression.",False
+747,6,"quetzal",,,,,,44,,,,0,,"",False
+748,6,"Squeak the Coyote",,,,,,14,,,,0,,"",True
+749,6,"the Cornservant",,,,,,2," Tasteful Memories",,,1," Refined Tastes","Obtained from Dawntrail sidequest progression.",False
+750,6,"tankardtender",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from Dawntrail.",False
+751,6,"bluecoat cat",,,,,,22,,,,1,"A New Dawn, a New Hunt","Obtained from Dawntrail sidequest progression.",False
+752,6,"tin sentry T1",,,,,,31,,,,4,"False","Obtained by clearing the relevant dungeon from Dawntrail.",False
+753,6,"brushed-up Krile",,,,,,6,"Brushed-up Krile",,,0,,"",True
+754,6,"wind-up Zero",,,,,,12,"Wind-up Zero",,,0,,"",True
+755,6,"wind-up Erenville",,,,,,12,"Wind-up Erenville",,,0,,"",True
+756,9,,,,,,,14,,,,0,,"",False
+757,9,,,,,,,14,,,,0,,"",False
+758,9,,,,,,,11,"Top Tier: Season Twelve",,,0,,"",False
+759,11,,,,,,,11,"Crystal in the Rough: Season Twelve",,,0,,"",False
+760,11,,,,,,,11,"Ranked and Filed: Season Twelve",,,0,,"",False
+761,9,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",False
+762,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",False
+763,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",False
+764,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",False
+765,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",False
+766,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",False
+767,9,,,,,,,17,,,,1," A Guest from Across the Salt","Obtained from Dawntrail allied society quest progression.",False
+768,9,,,,,,,42,,,,1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
+769,9,,,,,,,42,,,,1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
+770,9,,,,,,,42,,,,1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
+771,9,,,,,,,42,,,,1,"Keeping Up with the Aliapohs","Obtained from Heavensward sidequest progression.",False
+772,9,,,,,,,36,,,,1,"Stormblood","Obtained from Stormblood main scenario quest progression.",False
+773,9,,,,,,,36,,,,1,"Stormblood","Obtained from Stormblood main scenario quest progression.",False
+774,9,,,,,,,36,,,,1,"Stormblood","Obtained from Stormblood main scenario quest progression.",False
+775,9,,,,,,,36,,,,1,"Stormblood","Obtained from Stormblood main scenario quest progression.",False
+776,9,,,,,,,41,,,,1,"Shadowbringers","Obtained from Shadowbringers main scenario quest progression.",False
+777,9,,,,,,,41,,,,1,"Shadowbringers","Obtained from Shadowbringers main scenario quest progression.",False
+778,9,,,,,,,41,,,,1,"Shadowbringers","Obtained from Shadowbringers main scenario quest progression.",False
+779,9,,,,,,,41,,,,1,"Shadowbringers","Obtained from Shadowbringers main scenario quest progression.",False
+780,9,,,,,,,41,,,,1,"Endwalker","Obtained from Endwalker main scenario quest progression.",False
+781,9,,,,,,,41,,,,1,"Endwalker","Obtained from Endwalker main scenario quest progression.",False
+782,9,,,,,,,41,,,,1,"Endwalker","Obtained from Endwalker main scenario quest progression.",False
+783,9,,,,,,,41,,,,1,"Endwalker","Obtained from Endwalker main scenario quest progression.",False
+784,0,,,,,,,0,,,,0,,"",False
+785,0,,,,,,,0,,,,0,,"",False
+786,0,,,,,,,0,,,,0,,"",False
+787,0,,,,,,,0,,,,0,,"",False
+788,0,,,,,,,0,,,,0,,"",False
+789,0,,,,,,,0,,,,0,,"",False
+790,0,,,,,,,0,,,,0,,"",False
+791,0,,,,,,,0,,,,0,,"",False
+792,0,,,,,,,0,,,,0,,"",False
+793,0,,,,,,,0,,,,0,,"",False
+794,0,,,,,,,0,,,,0,,"",False
+795,0,,,,,,,0,,,,0,,"",False
+796,0,,,,,,,0,,,,0,,"",False
+797,0,,,,,,,0,,,,0,,"",False
+798,0,,,,,,,0,,,,0,,"",False
+799,0,,,,,,,0,,,,0,,"",False
+800,0,,,,,,,0,,,,0,,"",False

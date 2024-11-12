@@ -131,3 +131,6 @@ int32,str,Image,Row,Quest,DefaultTalk,DefaultTalk,byte,byte
 3539071,"","ui/icon/061000/061391.tex","InclusionShop#3801102",,,,1,0
 3539072,"",,"InclusionShop#3801103","Dawn of a New Deal",,,1,0
 3539073,"",,"InclusionShop#3801103","Go West, Craftsman",,,1,0
+3539074,"",,"InclusionShop#3801103",,,,1,0
+3539075,"",,"",,,"DefaultTalk#600624",1,0
+3539076,"",,"Purchase Furnishings (Pillars, Decorations)",,,,1,0

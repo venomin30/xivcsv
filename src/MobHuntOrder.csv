@@ -1180,7 +1180,7 @@ int32,MobHuntTarget,byte,byte,byte,MobHuntReward
 288.0,"alpaca",2,0,1,"MobHuntReward#22"
 288.1,"ty'aitya",3,0,3,"MobHuntReward#22"
 288.2,"tumbleclaw",3,0,3,"MobHuntReward#22"
-288.3,"axe beak",2,0,3,"MobHuntReward#22"
+288.3,"Alexandrian axe beak",2,0,3,"MobHuntReward#22"
 288.4,"outrunner",1,0,5,"MobHuntReward#22"
 289.0,"megamaguey",1,0,1,"MobHuntReward#22"
 289.1,"branchbearer",2,0,3,"MobHuntReward#22"
