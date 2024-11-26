@@ -305,7 +305,7 @@ int32,Action,sbyte,Row,Action,sbyte,Row,Action,sbyte,Row,Action,sbyte,bit&01
 34.6,"Eventide",2,"Scorn","Disesteem",0,,"",0,,"",-1,False
 35.0,"Double Cast",4,,"Fall Malefic",4,,"Aspected Benefic",4,,"Gravity II",-1,False
 35.1,"Minor Arcana",2,"Lady of Crowns","Lady of Crowns",2,"Lord of Crowns","Lord of Crowns",0,,"",-1,False
-35.2,"Macrocosmos",2,"Macrocosmos","Microcosmos",0,,"",0,,"",-1,False
+35.2,"Macrocosmos",12,"Macrocosmos","Microcosmos",0,,"",0,,"",-1,False
 35.3,"Epicycle",2,"Retrograde Ready","Retrograde",0,,"",0,,"",-1,False
 35.4,"Celestial River",2,"Divining","Oracle",0,,"",0,,"",-1,False
 36.0,"Yukikaze",2,"Kaiten","Hyosetsu",0,,"",0,,"",-1,False

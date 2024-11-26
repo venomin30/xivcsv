@@ -15134,7 +15134,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263134.38,"Gleaner's Breeches",False,0,0,"The Pride of Labyrinthos",,"",0,100,650
 263134.39,"Gleaner's Longboots",False,0,0,"The Pride of Labyrinthos",,"",0,100,650
 263134.40,"Hyper Hustle Trophy",False,0,0,"A Dream Worth Chasing",,"",0,110,650
-263134.41,"Wachumeqimeqi Balloon",False,0,0,"",,"",0,115,710
+263134.41,"",False,0,0,"",,"",0,115,710
 263135.0,"Makai Mauler's Facemask",False,0,0,,,"Echoes of the Makai Blade",0,100,0
 263135.1,"Makai Mauler's Oilskin",False,0,0,,,"Echoes of the Makai Blade",0,100,0
 263135.2,"Makai Mauler's Fingerless Gloves",False,0,0,,,"Echoes of the Makai Blade",0,100,0

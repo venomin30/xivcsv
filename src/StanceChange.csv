@@ -18,7 +18,7 @@ int32,uint16,Action,Action,uint16,single
 14,0,"Manipulation","Collectable Synthesis",5896,0
 15,436,"Manipulation","Collectable Synthesis",34,0
 16,437,"Manipulation","Collectable Synthesis",34,0
-17,0,"","",0,0
+17,540,"Manipulation","Collectable Synthesis",34,0
 18,0,"Manipulation","Collectable Synthesis",34,0
 19,437,"Manipulation","Name of the Wind",34,0
 20,0,"Manipulation","Name of Fire",34,0
@@ -45,5 +45,5 @@ int32,uint16,Action,Action,uint16,single
 41,514,"Manipulation","Collectable Synthesis",34,0
 42,513,"Name of Water","Collectable Synthesis",34,0
 43,541,"Name of Water","Collectable Synthesis",34,0
-44,0,"","",0,0
-45,0,"","",0,0
+44,546,"Manipulation","Collectable Synthesis",34,0
+45,547,"Manipulation","Collectable Synthesis",34,0
