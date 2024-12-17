@@ -798,11 +798,11 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint16,uint32,bit&04,uint3
 794,"Volcanic Grass","GatheringItemLevelConvertTable#690",True,,0,0,False,0,5,95
 795,"Optical Fibergrass","GatheringItemLevelConvertTable#700",True,,4540,0,False,0,0,65535
 796,"Alexandrian Ore","GatheringItemLevelConvertTable#700",True,,4540,0,False,0,0,65535
-797,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-798,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-799,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-800,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-801,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+797,"Locomotive Lubricant","GatheringItemLevelConvertTable#645",True,,0,70775,False,0,3,51
+798,"Carriage Furnishing Supplies","GatheringItemLevelConvertTable#645",True,,0,70775,False,0,3,52
+799,"Mapmaking Pigment","GatheringItemLevelConvertTable#650",True,,0,70775,False,0,3,53
+800,"Industrial Sanitizing Fluid","GatheringItemLevelConvertTable#650",True,,0,70775,False,0,3,54
+801,"Trackbed Repair Materials","GatheringItemLevelConvertTable#655",True,,0,70775,False,0,3,55
 802,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
 803,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
 804,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0

@@ -514,7 +514,7 @@ int32,Level,TerritoryType,DefaultTalk,DefaultTalk,DefaultTalk,WarpCondition,Warp
 131582,,"z6e1",,,,"WarpCondition#1","","","",False,"","Travel to Lower Jeuno?"
 131583,,"y6f3",,,,"WarpCondition#1","","","",False,"","Return to Yak T'el?"
 131584,,"z6e1_2",,,,"WarpCondition#1","","","",False,"","Travel to Lower Jeuno?"
-131585,,,,,,"WarpCondition#0","","","",False,"",""
+131585,,"w1t2","DefaultTalk#600660",,,"WarpCondition#1","","","",False,"","Leave the Hall of the Unbound?"
 131586,,"x6f2",,,,"WarpCondition#1","","","",False,"","Leave Yuweyawata?"
 131587,,"f1t2",,,,"WarpCondition#1","","","",False,"","Return to Old Gridania?"
 131588,,"f1ec","DefaultTalk#600298",,,"WarpCondition#1","","","",False,"","Head to the Starlight Stalls?"

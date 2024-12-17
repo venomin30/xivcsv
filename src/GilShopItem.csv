@@ -15134,7 +15134,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263134.38,"Gleaner's Breeches",False,0,0,"The Pride of Labyrinthos",,"",0,100,650
 263134.39,"Gleaner's Longboots",False,0,0,"The Pride of Labyrinthos",,"",0,100,650
 263134.40,"Hyper Hustle Trophy",False,0,0,"A Dream Worth Chasing",,"",0,110,650
-263134.41,"",False,0,0,"",,"",0,115,710
+263134.41,"Wachumeqimeqi Balloon",False,0,0,"Appreciated Value",,"",0,115,710
 263135.0,"Makai Mauler's Facemask",False,0,0,,,"Echoes of the Makai Blade",0,100,0
 263135.1,"Makai Mauler's Oilskin",False,0,0,,,"Echoes of the Makai Blade",0,100,0
 263135.2,"Makai Mauler's Fingerless Gloves",False,0,0,,,"Echoes of the Makai Blade",0,100,0
@@ -16279,19 +16279,19 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263215.6,"Rising Table Lamp",False,0,0,,,"",0,100,9999
 263216.0,"Zoni",False,0,0,,,"",0,100,0
 263216.1,"Magicked Prism (Advent Cakes)",False,0,0,,,"",0,100,0
-263216.2,"",False,0,0,,,"",0,100,9999
-263216.3,"",False,0,0,,,"",0,100,9999
+263216.2,"Oriental New Year's Meal",False,0,0,,,"",0,100,9999
+263216.3,"Springtide Fan Stand",False,0,0,,,"",0,100,9999
 263217.0,"Zoni",False,0,0,,,"",0,100,0
 263217.1,"",False,0,0,,,"",0,100,0
 263217.2,"",False,0,0,,,"",0,100,0
 263217.3,"",False,0,0,,,"",0,100,0
 263217.4,"Magicked Prism (Advent Cakes)",False,0,0,,,"",0,100,0
-263217.5,"",False,0,0,,,"",0,100,9999
-263217.6,"",False,0,0,,,"",0,100,9999
+263217.5,"Oriental New Year's Meal",False,0,0,,,"",0,100,9999
+263217.6,"Springtide Fan Stand",False,0,0,,,"",0,100,9999
 263218.0,"Zoni",False,0,0,,,"",0,100,0
 263218.1,"Magicked Prism (Advent Cakes)",False,0,0,,,"",0,100,0
-263218.2,"",False,0,0,,,"",0,100,9999
-263218.3,"",False,0,0,,,"",0,100,9999
+263218.2,"Oriental New Year's Meal",False,0,0,,,"",0,100,9999
+263218.3,"Springtide Fan Stand",False,0,0,,,"",0,100,9999
 263219.0,"Magicked Prism (Pumpkin)",False,0,0,,,"",0,100,0
 263219.1,"Flying Pumpkin",False,0,0,,,"",0,100,9999
 263220.0,"Air-wheeler A9 Identification Key",False,0,0,,,"",0,10,700
@@ -16300,11 +16300,11 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263222.0,"Gysahl Greens",False,0,0,,,"",0,100,0
 263222.1,"Grade 8 Dark Matter",False,0,0,,,"",0,100,0
 263222.2,"Metal Spinner",False,0,0,,,"",0,100,0
-263222.3,"",False,0,0,,,"",0,100,710
-263222.4,"",False,0,0,,,"",0,100,710
-263222.5,"",False,0,0,,,"",0,100,710
-263222.6,"",False,0,0,,,"",0,100,710
-263222.7,"",False,0,0,,,"",0,100,710
+263222.3,"Rail Grindstone Components",False,0,0,,,"",0,100,710
+263222.4,"Carriage Seat Components",False,0,0,,,"",0,100,710
+263222.5,"Map Printing Components",False,0,0,,,"",0,100,710
+263222.6,"Engineer's Supply Kit Components",False,0,0,,,"",0,100,710
+263222.7,"Railroad Repair Kit Components",False,0,0,,,"",0,100,710
 263223.0,"Bayside Bevy Painting",False,0,0,,,"Happy Trails",0,100,710
 263223.1,"Resplendent Quarter Painting",False,0,0,,,"Happy Trails",0,100,710
 263223.2,"High Tide Harbor Painting",False,0,0,,,"Happy Trails",0,100,710
@@ -16395,13 +16395,13 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263233.18,"Darkest Hourglass",False,0,0,,,"",0,20,630
 263233.19,"Alpine Pillar",False,0,0,,,"",0,10,630
 263233.20,"Verdant Pillar",False,0,0,,,"",0,10,640
-263233.21,"",False,0,0,"Eye of the Dragon",,"",0,200,710
-263233.22,"",False,0,0,"Paladin's Pledge",,"",0,200,710
-263233.23,"",False,0,0,"Pride and Duty (Will Take You from the Mountain)",,"",0,200,710
-263233.24,"",False,0,0,"Brother from Another Mother",,"",0,200,710
-263233.25,"",False,0,0,"Peasants by Day, Ninjas by Night",,"",0,200,710
-263233.26,"",False,0,0,"A Song of Bards and Bowmen",,"",0,200,710
-263233.27,"",False,0,0,"Taking the Black",,"",0,200,710
-263233.28,"",False,0,0,"Austerities of Flame",,"",0,200,710
-263233.29,"",False,0,0,"Seer Folly",,"",0,200,710
-263233.30,"",False,0,0,"Forgotten but Not Gone",,"",0,200,710
+263233.21,"Dragoon Display Crystal",False,0,0,"Eye of the Dragon",,"",0,200,710
+263233.22,"Paladin Display Crystal",False,0,0,"Paladin's Pledge",,"",0,200,710
+263233.23,"Warrior Display Crystal",False,0,0,"Pride and Duty (Will Take You from the Mountain)",,"",0,200,710
+263233.24,"Monk Display Crystal",False,0,0,"Brother from Another Mother",,"",0,200,710
+263233.25,"Ninja Display Crystal",False,0,0,"Peasants by Day, Ninjas by Night",,"",0,200,710
+263233.26,"Bard Display Crystal",False,0,0,"A Song of Bards and Bowmen",,"",0,200,710
+263233.27,"Black Mage Display Crystal",False,0,0,"Taking the Black",,"",0,200,710
+263233.28,"Summoner Display Crystal",False,0,0,"Austerities of Flame",,"",0,200,710
+263233.29,"White Mage Display Crystal",False,0,0,"Seer Folly",,"",0,200,710
+263233.30,"Scholar Display Crystal",False,0,0,"Forgotten but Not Gone",,"",0,200,710

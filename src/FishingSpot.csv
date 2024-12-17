@@ -296,29 +296,29 @@ int32,byte,str,str,str,byte,bit&01,TerritoryType,PlaceName,PlaceName,int16,int16
 292,1,"The seaweed glimmers with a strange light!","The seaweed glimmers no more...","The seaweed glimmers anew!",2,False,"o1a1","The High Seas","The One River",1025,1025,300,4,"Catching Carp","Garlean Bluegill","Yanxian Softshell","Princess Salmon","Calligraph","Singular Shrimp","Brocade Carp","Yanxian Sturgeon","Spectral Kotsu Zetsu","Fishy Shark","Lower One River",284
 293,1,"The scent of plums rises from the waters!","The scent of plums disappears...","The scent of plums wafts forth again!",2,False,"o1a1","The High Seas","The One River",1025,1025,300,2,"Gensui Shrimp","Yato-no-kami","Heron's Eel","Crowshadow Mussel","Yanxian Goby","Iridescent Trout","Un-Namazu","Gakugyo","Ginrin Goshiki","Jewel of Plum Spring","One River Spectral Current",285
 294,90,"","","",2,False,"y6t1","","",734,860,300,4,"Mosquito Fish","Pel Frog","Petticoat Tetra","Icuvlo's Barter","","","","","","","Downripple",286
-295,90,"","","",1,False,"y6t1","","",833,1679,1000,4,"Reasonscale Silverside","Stardust Shrimp","Shallows Sot","Ghostfish","Permit","","","","","","The For'ard Cabins",287
+295,90,"","","",1,False,"y6t1","","",833,1679,1000,4,"Reasonscale Silverside","Stardust Shrimp","Shallows Sot","Ghostfish","Permit","Inktopus","","","","","The For'ard Cabins",287
 296,91,"","","",1,False,"y6t1","","",1432,1275,1800,4,"Reasonscale Silverside","Floating Fife","Blue Purse","Goldfin Cavalli","King Puffer","","","","","","High Tide Harbor",288
 297,91,"","","",8,False,"y6f1","","",967,1328,400,4,"Sea Alpaca","Marbled Hatchetfish","Starsnipper","Urqotrout","Yok Huy Stonecutter","Moongripper","","","","","Sunken Stars",289
 298,92,"","","",8,False,"y6f1","","",950,1796,600,4,"Chirwagur Loach","Alright Alright Alright","Zorlortor","Shooting Starscale","","","","","","","Chirwagur Lake",290
 299,93,"","","",2,True,"y6f1","","",265,966,1000,4,"First Feastfish","Urqofrog","Zeh Tortoh","Morsel Trout","Deepwarden","Qor Pirarucu","","","","","Karvarhur the First",291
-300,92,"","","",2,False,"y6f2","","",482,570,1500,4,"Kozama'uka Skipper","Bopo'u Sleeper","Poison Dyefrog","Pleated Matamata","Uyuy Xage","","","","","","Bopo'uihih",292
+300,92,"","","",2,False,"y6f2","","",482,570,1500,4,"Kozama'uka Skipper","Bopo'u Sleeper","Poison Dyefrog","Pleated Matamata","Uyuy Xage","Oily Ropefish","","","","","Bopo'uihih",292
 301,91,"","","",2,False,"y6f2","","",1096,596,1200,4,"Kozama'uka Skipper","Bopo'u Sleeper","Plattershell","Yok Huy Pleco","Cazuela Crab","","","","","","Waters Hanu",293
 302,93,"","","",2,False,"y6f2","","",1411,550,600,2,"Kozama'uka Skipper","Bopo'u Sleeper","Candiru","Trahira","Driftwood Catfish","","","","","","Miyakabek'zu",294
 303,93,"","","",2,False,"y6f2","","",1842,1612,600,4,"Oho Hunu","Bronze Pleco","Crenicichla","","","","","","","","The Dewspun Bank",295
 304,94,"","","",2,False,"y6f2","","",1948,704,600,4,"Oho Hunu","Bronze Pleco","Hunu Peacock Bass","Pelubane","Giant Trahira","","","","","","Peaks Poga",296
 305,93,"","","",2,False,"y6f2","","",1085,1004,800,4,"Ku'uxage Bitterling","Tonguesnatcher","Corn Dace","Ka Puyhu","","","","","","","Ku'uxage",297
-306,94,"","","",2,False,"y6f2","","",672,1381,2000,4,"Ligaka Guppy","Dumplingfish","Banded Candiru","Oxydoras","","","","","","","Miyakabek'zoma",298
+306,94,"","","",2,False,"y6f2","","",672,1381,2000,4,"Ligaka Guppy","Dumplingfish","Banded Candiru","Oxydoras","Honeycomb Sponge","","","","","","Miyakabek'zoma",298
 307,95,"","","",2,False,"y6f2","","",1237,1528,800,4,"Ligaka Guppy","Dumplingfish","Spotted Stingray","Yellow Peacock Bass","Shovelnose Catfish","","","","","","Marsh Ligaka",299
 308,93,"","","",2,False,"y6f3","","",359,543,600,4,"Shimmering Shadow","Ut'ohmu Dawnfish","Belonesox","Xd'aa Talat Cichlid","Ilyon Asoh Cichlid","","","","","","Xd'aa Talat Tsoly",300
 309,92,"","","",2,False,"y6f3","","",632,584,500,4,"Shimmering Shadow","Ut'ohmu Dawnfish","Iq Br'aax Sailfin","Hunmu Ob","","","","","","","Iq Br'aax Reservoir",301
-310,94,"","","",2,False,"y6f3","","",906,389,800,4,"Shimmering Shadow","Ut'ohmu Dawnfish","Apoda","Mirror Carp","","","","","","","Yak Awak Tsoly",302
+310,94,"","","",2,False,"y6f3","","",906,389,800,4,"Shimmering Shadow","Ut'ohmu Dawnfish","Apoda","Mirror Carp","Yak Awak Core","","","","","","Yak Awak Tsoly",302
 311,94,"","","",2,False,"y6f3","","",1538,289,1800,4,"Tsoly Mu","Iq Rrax Leaffish","Archmatron Angelfish","Yak T'el Salamander","Shadowtongue","","","","","","Iq Rrax Tsoly",303
 312,94,"","","",2,True,"y6f3","","",1611,779,800,4,"Cloud-eye Carp","Xobr'it Lobster","Sunbright Axolotl","Horned Frog","","","","","","","Xobr'it Tsoly",304
 313,95,"","","",2,False,"y6f3","","",352,1308,400,4,"Mudfish","Turali Beaded Lizard","Yak T'el Catfish","Ankledeep Catfish","","","","","","","Ankledeep",305
 314,96,"","","",2,False,"y6f3","","",1035,964,800,4,"Mudfish","Yak T'el Catfish","Checkered Cichlid","Moxutural Gar","","","","","","","Cenote Moxutural",306
 315,96,"","","",2,False,"y6f3","","",936,1546,1800,4,"Mudfish","Yak T'el Catfish","Variatus","Welkin Catfish","Flawless Saucer","","","","","","Cenote Jayunja",307
 316,96,"","","",2,False,"y6f3","","",1697,1581,1000,4,"Mudfish","Yak T'el Catfish","Glittergill","Twig Catfish","","","","","","","Sapsweet Cenote",308
-317,95,"","","",2,False,"y6f3","","",1222,1898,800,4,"Mudfish","Yak T'el Catfish","Blind Brotula","Yak T'el Caiman","","","","","","","Bitterbark Cenote",309
+317,95,"","","",2,False,"y6f3","","",1222,1898,800,4,"Mudfish","Yak T'el Catfish","Blind Brotula","Yak T'el Caiman","Cenote Oyster","","","","","","Bitterbark Cenote",309
 318,97,"","","",1,True,"y6f3","","",1793,1243,800,4,"Ut'ohmu Tiika","Sharknose Goby","Yak T'el Crab","Xty'iinbek Sleeper","Chain Shark","Stardust Sleeper","","","","","Xty'iinbek Tsoly",310
 319,95,"","","",2,False,"x6f1","","",1438,318,600,4,"Bonytail Chub","Niikwerepi Trout","Pyariyoanaan Cichlid","Shaaloani Salmon","Hwittayoanaan Cichlid","","","","","","Niikwerepi",311
 320,96,"","","",2,False,"x6f1","","",1524,637,1000,4,"Bonytail Chub","Niikwerepi Trout","Trailtrout","Toari Sucker","Turali Paddlefish","","","","","","Lake Toari",312

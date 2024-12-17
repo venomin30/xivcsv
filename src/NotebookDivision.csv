@@ -105,7 +105,7 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 1060,"Wachumeqimeqi","Class",90,255,"Blame It on My Juice",90,False,False,False,False,False,False,False,True,True
 1061,"Master Recipes (11)","Master Recipes",100,255,,88,True,True,True,True,True,True,True,True,True
 1062,"","",0,0,,0,False,False,False,False,False,False,False,False,False
-1063,"","",0,0,,0,False,False,False,False,False,False,False,False,False
+1063,"Nitowikwe","Custom Deliveries",90,255,"Laying New Tracks",1,False,True,True,True,True,True,True,True,True
 1064,"","",0,0,,0,False,False,False,False,False,False,False,False,False
 2000,"Coerthas","Regional Folklore",255,50,,12,False,True,True,True,True,True,True,True,True
 2001,"Dravania","Regional Folklore",255,50,,11,False,True,True,True,True,True,True,True,True

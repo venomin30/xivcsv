@@ -82,7 +82,7 @@ int32,Image,JournalCategory,bit&01,str
 78,"ui/icon/061000/061411.tex","Hildibrand Sidequests",True,"Even Further Hildibrand Adventures"
 79,"ui/icon/061000/061411.tex","Hildibrand Sidequests",True,"Somehow Further Hildibrand Adventures"
 80,"ui/icon/061000/061411.tex","Hildibrand Sidequests",True,"Manderville Weapons"
-81,,"Sephiroth Missions",False,""
+81,"ui/icon/061000/061411.tex","Hildibrand Sidequests",True,"Inconceivably Further Hildibrand Adventures"
 82,"ui/icon/061000/061411.tex","Weapon Enhancement Sidequests",True,"Zodiac Weapons"
 83,"ui/icon/061000/061411.tex","Weapon Enhancement Sidequests",True,"Anima Weapons"
 84,"ui/icon/061000/061411.tex","Weapon Enhancement Sidequests",True,"The Forbidden Land, Eureka"

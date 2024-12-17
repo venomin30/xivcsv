@@ -3685,7 +3685,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003681,"crate of handcrafted equipment",0,"crates of handcrafted equipment",0,0,1,0,0,False,"Handcrafted Equipment","ui/icon/021000/021003.tex","",1,1," Sick Day",0,"normal/item_start",0
 2003682,"bolt of Xbr'aal fabric",0,"bolts of Xbr'aal fabric",0,0,1,0,0,False,"Xbr'aal Fabric","ui/icon/021000/021680.tex","",1,1," Sick Day",0,"normal/item_start",0
 2003683,"vial of insect repellent",0,"vials of insect repellent",0,0,1,0,0,False,"Insect Repellent","ui/icon/020000/020705.tex","Key Item",3,1," To Forge in the Forest",0,"normal/item_start",0
-2003684,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003684,"white tsuchinoko ornament",0,"white tsuchinoko ornaments",0,0,1,0,0,False,"White Tsuchinoko Ornament","ui/icon/059000/059892.tex","",1,1,"Heavensssturn Trivia",0,"normal/item_start",0
 2003685,"Napikwe's notebook",0,"Napikwe's notebooks",0,0,1,0,1,False,"Napikwe's Notebook","ui/icon/026000/026167.tex","",1,1,"Hunting the Hunter",0,"normal/item_start",0
 2003686,"warding stone",0,"warding stones",0,0,1,0,0,False,"Warding Stone","ui/icon/021000/021477.tex","",1,1," Dig for Victory",0,"normal/item_start",0
 2003687,"jewelry maker's toolkit",0,"jewelry maker's toolkits",0,0,1,0,0,False,"Jewelry Maker's Toolkit","ui/icon/026000/026108.tex","",1,1," Movamuq's Treasure",0,"normal/item_start",0
@@ -3708,7 +3708,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003704,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
 2003705,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
 2003706,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003707,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003707,"starship illustration",0,"starship illustrations",0,0,1,0,0,False,"Starship Illustration","ui/icon/026000/026151.tex","",1,1,"The Case of the Displaced Inspector",0,"normal/item_start",0
 2003708,"bundle of lush green reeds",0,"bundles of lush green reeds",0,0,1,0,0,False,"Lush Green Reeds","ui/icon/025000/025035.tex","",5,1," Earthenshire Awaits",0,"normal/item_start",0
 2003709,"verification key",0,"verification keys",0,0,1,0,0,False,"Verification Key","ui/icon/020000/020961.tex","",1,1,"Among the Abandoned",0,"normal/item_start",0
 2003710,"mending kit",0,"mending kits",0,0,1,0,0,False,"Mending Kit","ui/icon/021000/021003.tex","",1,1,"Guidance of the Hhetso",0,"normal/item_start",0
@@ -3732,5 +3732,5 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003728,"fledgling of Ligaka thigh",0,"fledgling of Ligaka thighs",0,0,1,0,0,False,"Fledgling of Ligaka Thigh","ui/icon/025000/025155.tex","",1,1," Bird Meat's Back on the Menu",0,"normal/item_start",0
 2003729,"sprig of Ihuyka achiote",0,"sprigs of Ihuyka achiote",0,0,1,0,0,False,"Ihuyka Achiote","ui/icon/025000/025023.tex","",3,1," Seasoned Adventurer",0,"normal/item_start",0
 2003730,"hearty packed lunch",0,"hearty packed lunches",0,0,1,0,0,False,"Hearty Packed Lunch","ui/icon/021000/021005.tex","",1,1," In Time for Lunch",0,"normal/item_start",0
-2003731,"傘の素材",0,"",0,0,1,0,0,False,"","ui/icon/021000/021003.tex","",1,1,"エッグハントと宙を漂う飾りタマゴ",0,"normal/item_start",0
-2003732,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003731,"box of assorted timber",0,"boxes of assorted timber",0,0,1,0,0,False,"Assorted Timber","ui/icon/021000/021003.tex","",1,1,"In Pursuit of Eggcellence",0,"normal/item_start",0
+2003732,"box of market decorations",0,"boxes of market decorations",0,0,1,0,0,False,"Market Decorations","ui/icon/052000/052546.tex","",3,1,"Appreciated Value",0,"normal/item_start",0

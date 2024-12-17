@@ -1157,11 +1157,11 @@ int32,FurnitureCatalogCategory,Item,uint16
 1153,"Rugs","Grassy Rug",710
 1154,"Beds","Royal Bed",710
 1155,"Stuffed Toys/Figures","Eternal Cenotaph",710
-1156,"Tables","",0
-1157,"Tables","",0
-1158,"Tables","",0
-1159,"Tables","",0
-1160,"Tables","",0
+1156,"Lighting","Skydeep Lamp",710
+1157,"Tables","Origenics Monitor Desk",710
+1158,"Chairs/Sofas","Origenics Chair",710
+1159,"Lighting","Strayborough Wall Lamp",710
+1160,"Rugs","Traumerei Floor Stencil",710
 1161,"Walls/Pillars/Partitions","Climbing Wall Partition",710
 1162,"Miscellaneous","Billiard Table",710
 1163,"Miscellaneous","Imitation Closet",710
@@ -1177,19 +1177,19 @@ int32,FurnitureCatalogCategory,Item,uint16
 1173,"Walls/Pillars/Partitions","Rail-and-stile Partition",710
 1174,"Shelves/Chests","Tea Caddy Cabinet",710
 1175,"Miscellaneous","Indoor Awning",710
-1176,"Tables","",0
-1177,"Tables","",0
-1178,"Tables","",0
-1179,"Tables","",0
-1180,"Tables","",0
-1181,"Tables","",0
-1182,"Tables","",0
-1183,"Tables","",0
-1184,"Tables","",0
-1185,"Tables","",0
+1176,"Miscellaneous","Dragoon Display Crystal",710
+1177,"Miscellaneous","Paladin Display Crystal",710
+1178,"Miscellaneous","Warrior Display Crystal",710
+1179,"Miscellaneous","Monk Display Crystal",710
+1180,"Miscellaneous","Ninja Display Crystal",710
+1181,"Miscellaneous","Bard Display Crystal",710
+1182,"Miscellaneous","Black Mage Display Crystal",710
+1183,"Miscellaneous","Summoner Display Crystal",710
+1184,"Miscellaneous","White Mage Display Crystal",710
+1185,"Miscellaneous","Scholar Display Crystal",710
 1186,"Chairs/Sofas","Cushioned Bench",710
 1187,"Beds","Tropical Canopy Bed",710
-1188,"Tables","",0
+1188,"Miscellaneous","Wachumeqimeqi Balloon",710
 1189,"Stuffed Toys/Figures","Stuffed Sabotender",410
 1190,"Miscellaneous","The Moogle's Paw Machine",410
 1191,"Miscellaneous","Out on a Limb Machine",410
