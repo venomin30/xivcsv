@@ -4241,7 +4241,7 @@ Will grant the effect of <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGl
 4222,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4223,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4224,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
-4225,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
+4225,"Ice Aegis","Sheltered by Tentoawa's shield. Damage taken is reduced.","ui/icon/212000/212513.tex",0,0,"All Classes",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,0,0,False,False,-10,0,False,0,False,0,False,0,0,0,False,False,0
 4226,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4227,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4228,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
@@ -4448,7 +4448,7 @@ Will grant the effect of <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGl
 4429,"Rightward Omen","The next attack will be executed from the right.","ui/icon/215000/215425.tex",0,0,"All Classes",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,False,198,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4430,"Leftward Omen","The next attack will be executed from the left.","ui/icon/215000/215426.tex",0,0,"All Classes",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,False,197,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4431,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
-4432,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
+4432,"Shining Encouragement","Spurred on by Ceetol Ja's heartfelt support.","ui/icon/214000/214207.tex",0,0,"All Classes",1,"dk05th_stup0t","",False,False,False,False,False,False,False,True,True,200,0,False,False,100,0,True,0,False,0,False,0,0,0,False,False,0
 4433,"Stun","Unable to execute actions.","ui/icon/215000/215004.tex",0,0,"All Classes",2,"dk05ht_sta0h","",True,False,True,False,False,False,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4434,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0
 4435,"","",,0,0,"",0,"","",False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False,False,0

@@ -726,7 +726,7 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,byte,Row,BannerObtainHintTyp
 722,5,"Attend",,,,,,14,,,,0,,"",False
 723,5,"Water",,,,,,28,,,,0,,"",False
 724,5,"Shake Drink",,,,,,16,,,,1,"It Could Happen to You","Obtained from A Realm Reborn sidequest progression.",False
-725,0,,,,,,,0,,,,0,,"",False
+725,5,"Pose of the Unbound",,,,,,2,"Imposing Views",,,1,"Picking Up the Torch","Obtained from Dawntrail role quest progression.",False
 726,5,"Bouquet",,,,,,2,"I Promise You a Rose Garden",,,0,,"",True
 727,5,"Ohokaliy",,,,,,2," An Intrepid New Enterprise",,,1,"Dawntrail","Obtained from Dawntrail main scenario quest progression.",False
 728,0,,,,,,,0,,,,0,,"",False

@@ -271,7 +271,7 @@ int32,Action,sbyte,Row,Action,sbyte,Row,Action,sbyte,Row,Action,sbyte,bit&01
 27.1,"Apex Arrow",2,"Blast Arrow Ready","Blast Arrow",0,,"",0,,"",-1,False
 27.2,"Final Fantasia",2,"Encore of Light Ready","Encore of Light",0,,"",0,,"",-1,False
 27.3,"Harmonic Arrow",4,,"Harmonic Arrow",4,,"Harmonic Arrow",4,,"Harmonic Arrow",-1,False
-28.0,"Seraph Strike",2,"Sacred Sight","Glare IV",0,,"",0,,"",-1,False
+28.0,"Glare III",2,"Sacred Sight","Glare IV",0,,"",0,,"",-1,False
 28.1,"Cure II",2,"Cure III Ready","Cure III",0,,"",0,,"",-1,False
 29.0,"Fire",1,,"",0,,"",0,,"",-1,False
 29.1,"Blizzard",1,,"",0,,"",0,,"",-1,False
