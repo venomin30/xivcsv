@@ -106,3 +106,4 @@ int32,Item,uint16,Image,bit&01,bit&02,byte
 102,"Red Lupins",117,"ui/icon/066000/066502.tex",False,True,21
 103,"Red Sunflowers",123,"ui/icon/066000/066502.tex",False,True,22
 104,"Red Cattleyas",124,"ui/icon/066000/066502.tex",False,True,23
+105,"Red Paperflowers",125,"ui/icon/066000/066502.tex",False,True,24

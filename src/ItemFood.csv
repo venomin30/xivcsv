@@ -677,3 +677,20 @@ int32,byte,BaseParam,bool,sbyte,int16,sbyte,int16,BaseParam,bool,sbyte,int16,sby
 673,3,"Spell Speed",True,4,10,4,10,"Vitality",True,5,12,5,12,"Reduced Durability Loss",False,3,0,3,0
 674,3,"Determination",True,4,10,4,10,"Vitality",True,5,12,5,12,"Reduced Durability Loss",False,3,0,3,0
 675,3,"Piety",True,4,10,4,10,"Vitality",True,5,12,5,12,"Reduced Durability Loss",False,3,0,3,0
+676,3,"Direct Hit Rate",True,8,113,10,142,"Vitality",True,8,196,10,246,"Determination",True,8,68,10,85
+677,3,"Skill Speed",True,8,113,10,142,"Vitality",True,8,196,10,246,"Direct Hit Rate",True,8,68,10,85
+678,3,"Critical Hit",True,8,113,10,142,"Vitality",True,8,196,10,246,"Skill Speed",True,8,68,10,85
+679,3,"Determination",True,8,113,10,142,"Vitality",True,8,196,10,246,"Critical Hit",True,8,68,10,85
+680,3,"Piety",True,8,113,10,142,"Vitality",True,8,196,10,246,"Determination",True,8,68,10,85
+681,3,"Spell Speed",True,8,113,10,142,"Vitality",True,8,196,10,246,"Piety",True,8,68,10,85
+682,3,"Spell Speed",True,8,113,10,142,"Vitality",True,8,196,10,246,"Direct Hit Rate",True,8,68,10,85
+683,3,"Critical Hit",True,8,113,10,142,"Vitality",True,8,196,10,246,"Spell Speed",True,8,68,10,85
+684,3,"Tenacity",True,8,113,10,142,"Vitality",True,8,196,10,246,"Determination",True,8,68,10,85
+685,3,"Determination",True,8,113,10,142,"Vitality",True,8,196,10,246,"Tenacity",True,8,68,10,85
+686,3,"Strength",True,8,368,10,461,"",False,0,0,0,0,"",False,0,0,0,0
+687,3,"Dexterity",True,8,368,10,461,"",False,0,0,0,0,"",False,0,0,0,0
+688,3,"Vitality",True,8,393,10,492,"",False,0,0,0,0,"",False,0,0,0,0
+689,3,"Intelligence",True,8,368,10,461,"",False,0,0,0,0,"",False,0,0,0,0
+690,3,"Mind",True,8,368,10,461,"",False,0,0,0,0,"",False,0,0,0,0
+691,3,"Critical Hit",True,4,10,4,10,"Vitality",True,5,12,5,12,"Reduced Durability Loss",False,3,0,3,0
+692,3,"Direct Hit Rate",True,4,10,4,10,"Vitality",True,5,12,5,12,"Reduced Durability Loss",False,3,0,3,0

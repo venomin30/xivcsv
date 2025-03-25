@@ -225,3 +225,13 @@ int32,AquariumWater,byte,Item,uint16
 222,"Saltwater",2,"Forgotten One",555
 223,"Freshwater",3,"Giant Snakehead",429
 224,"Saltwater",4,"Hydro Louvar",115
+225,"Freshwater",1,"First Feastfish",539
+226,"Freshwater",1,"Oho Hunu",544
+227,"Freshwater",1,"Iq Rrax Leaffish",552
+228,"Saltwater",1,"Iris Wrasse",578
+229,"Freshwater",2,"Yellow Peacock Bass",526
+230,"Freshwater",2,"Welkin Catfish",538
+231,"Freshwater",2,"Windspath Eel",553
+232,"Saltwater",2,"Stardust Sleeper",579
+233,"Freshwater",3,"Karvarichthys",434
+234,"Saltwater",4,"Copper Shark",116

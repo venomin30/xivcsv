@@ -1194,3 +1194,44 @@ int32,FurnitureCatalogCategory,Item,uint16
 1190,"Miscellaneous","The Moogle's Paw Machine",410
 1191,"Miscellaneous","Out on a Limb Machine",410
 1192,"Miscellaneous","The Finer Miner Machine",410
+1193,"Walls/Pillars/Partitions","No-entry Door Partition",720
+1194,"Shelves/Chests","Hingan Dresser",720
+1195,"Walls/Pillars/Partitions","Hingan Event Partition",720
+1196,"Windows","Decorative Hingan Window",720
+1197,"Walls/Pillars/Partitions","Simple Hingan Pillar",720
+1198,"Shelves","Hingan Wall Shelf",720
+1199,"Shelves","Hingan Wall Cabinet",720
+1200,"Shelves/Chests","Hingan Floor Cabinet",720
+1201,"Walls/Pillars/Partitions","Wooden Frame Partition",720
+1202,"Walls/Pillars/Partitions","Vault Rib",720
+1203,"Shelves/Chests","Lattice-windowed Cabinet",720
+1204,"Miscellaneous","Dark Knight Display Crystal",720
+1205,"Miscellaneous","Machinist Display Crystal",720
+1206,"Miscellaneous","Astrologian Display Crystal",720
+1207,"Miscellaneous","Samurai Display Crystal",720
+1208,"Miscellaneous","Red Mage Display Crystal",720
+1209,"Miscellaneous","Blue Mage Display Crystal",720
+1210,"Miscellaneous","Gunbreaker Display Crystal",720
+1211,"Miscellaneous","Dancer Display Crystal",720
+1212,"Miscellaneous","Reaper Display Crystal",720
+1213,"Miscellaneous","Sage Display Crystal",720
+1214,"Miscellaneous","Viper Display Crystal",720
+1215,"Miscellaneous","Pictomancer Display Crystal",720
+1216,"Shelves/Chests","Mantelshelf",720
+1217,"Tableware/Foods","Leg of Prosciutto",720
+1218,"Rugs","Round Stepping Star",720
+1219,"Stuffed Toys/Figures","Recollection Sword Stand",720
+1220,"Interactive Furnishings","Blank Minimalist Partition",720
+1221,"Interactive Furnishings","Minimalist Partition Door",720
+1222,"Tables","",0
+1223,"Tables","",0
+1224,"Tables","",0
+1225,"Tables","",0
+1226,"Tables","",0
+1227,"Tables","",0
+1228,"Tables","",0
+1229,"Tables","",0
+1230,"Tables","",0
+1231,"Tables","",0
+1232,"Tables","",0
+1233,"Tables","",0

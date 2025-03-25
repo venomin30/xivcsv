@@ -342,3 +342,9 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131424,327,17,0,0,0,,"Zormor Stone Lantern",False,False,True,0,0,0,False,True
 131425,328,17,0,0,0,,"Ja Ja Gural Tree",False,False,True,0,0,0,False,True
 131426,299,17,0,0,0,,"Authentic Illuminated Topiary Chocobo",False,False,True,3,0,0,False,True
+131427,170,17,0,0,0,,"Authentic Senor Sabotender Chronometer",False,False,True,3,0,0,False,True
+131428,191,17,0,0,0,,"East End Tree",False,False,True,0,0,0,False,True
+131429,329,17,0,0,0,,"Gardener's Gate",False,False,True,0,0,0,False,True
+131430,330,17,0,0,0,,"Hewn Stone Circle",False,False,True,0,0,0,False,True
+131431,331,17,0,0,0,,"Hedge-trimmed Flower Bed",False,False,True,0,0,0,False,True
+131432,332,17,0,0,0,,"Chocobo Chick Fountain",False,False,True,0,0,0,False,True

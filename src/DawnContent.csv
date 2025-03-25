@@ -28,12 +28,13 @@ int32,ContentFinderCondition,bit&01,uint16,bit&02,bit&04,bit&08,uint32,uint32,ui
 24,"Ihuykatumu",False,1,False,True,False,5801800,0,70415,3,2013686,0,1046771,1046772,1046773,0,0,0,0,0
 25,"Worqor Zormor",False,2,False,True,False,6689500,0,70427,1,2013642,0,1046856,1046857,1046858,0,0,0,0,0
 26,"Worqor Lar Dor",False,3,False,False,False,0,0,70430,4,2013643,0,1046900,1046906,1046903,1046901,1046902,1046904,1046905,0
-27,"The Skydeep Cenote",False,4,False,True,True,7718100,0,70445,5,2013659,0,1047713,1047715,1047717,1047716,0,0,0,0
+27,"the Skydeep Cenote",False,4,False,True,True,7718100,0,70445,5,2013659,0,1047713,1047715,1047717,1047716,0,0,0,0
 28,"Vanguard",False,5,False,True,True,8787000,0,70462,3,2013687,0,1047367,1047369,1047368,1047370,0,0,0,0
 29,"Origenics",False,6,False,True,True,9012200,0,70481,2,2013848,0,1048144,1048143,1048141,1048142,0,0,0,0
 30,"Everkeep",False,7,False,False,False,0,0,70481,4,2013849,0,1048146,1048148,1048147,1048149,1048152,1048150,1048151,0
 31,"Alexandria",False,8,False,True,True,0,0,70495,2,2013791,0,1048018,1048020,1048021,0,0,0,0,0
 32,"Yuweyawata Field Station",False,9,False,True,True,0,0,70782,4,2014476,0,1052208,1052209,1052210,1052211,1052212,0,0,0
+33,"the Underkeep",False,10,False,True,True,0,0,70840,2,2014676,0,1053866,1053868,1053869,0,0,0,0,0
 200,"Sastasha",False,1,False,False,False,0,0,0,0,2002696,0,0,0,0,0,0,0,0,0
 201,"the Tam–Tara Deepcroft",False,2,False,False,False,0,0,0,0,2002697,0,0,0,0,0,0,0,0,0
 202,"Copperbell Mines",False,3,False,False,False,0,0,0,0,2002698,0,0,0,0,0,0,0,0,0
@@ -67,7 +68,7 @@ int32,ContentFinderCondition,bit&01,uint16,bit&02,bit&04,bit&08,uint32,uint32,ui
 230,"the Burn",False,7,False,False,False,0,0,0,0,2009596,0,0,0,0,0,0,0,0,0
 231,"the Ghimlyt Dark",False,8,False,False,False,0,0,0,0,2009657,0,0,0,0,0,0,0,0,0
 232,"Halatali",True,101,False,False,False,0,0,0,0,2002699,0,0,0,0,0,0,0,0,0
-233,"the Sunken Temple of Qarn",True,102,True,False,True,0,0,0,0,2002703,0,0,0,0,0,0,0,0,0
+233,"the Sunken Temple of Qarn",True,102,False,False,False,0,0,0,0,2002703,0,0,0,0,0,0,0,0,0
 234,"Cutter's Cry",True,103,True,False,True,0,0,0,0,2002704,0,0,0,0,0,0,0,0,0
 235,"Dzemael Darkhold",True,104,True,False,True,0,0,0,0,2002706,0,0,0,0,0,0,0,0,0
 236,"the Aurum Vale",True,105,True,False,True,0,0,0,0,2002708,0,0,0,0,0,0,0,0,0

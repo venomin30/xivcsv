@@ -4,24 +4,24 @@ int32,str,Image,Quest,DefaultTalk,DefaultTalk,bit&01,uint16,uint16
 262144,"",,,,,False,0,0
 262145,"",,,,,False,0,0
 262151,"Purchase Items",,,,,True,0,0
-262152,"Purchase Lalafellin Gear",,,,,True,0,0
-262153,"Purchase Roegadyn Gear",,,,,True,0,0
-262154,"Purchase Elezen Gear",,,,,True,0,0
-262155,"Purchase Hyuran Gear",,,,,True,0,0
-262156,"Purchase Miqo'te Gear",,,,,True,0,0
+262152,"",,,,,False,0,0
+262153,"",,,,,False,0,0
+262154,"",,,,,False,0,0
+262155,"",,,,,False,0,0
+262156,"",,,,,False,0,0
 262157,"",,,,,True,0,0
 262158,"Purchase Items",,,,,True,0,0
-262159,"Purchase Lalafellin Gear",,,,,True,0,0
-262160,"Purchase Roegadyn Gear",,,,,True,0,0
-262161,"Purchase Elezen Gear",,,,,True,0,0
-262162,"Purchase Hyuran Gear",,,,,True,0,0
-262163,"Purchase Miqo'te Gear",,,,,True,0,0
+262159,"",,,,,False,0,0
+262160,"",,,,,False,0,0
+262161,"",,,,,False,0,0
+262162,"",,,,,False,0,0
+262163,"",,,,,False,0,0
 262164,"Purchase Items",,,,,True,0,0
-262165,"Purchase Lalafellin Gear",,,,,True,0,0
-262166,"Purchase Roegadyn Gear",,,,,True,0,0
-262167,"Purchase Elezen Gear",,,,,True,0,0
-262168,"Purchase Hyuran Gear",,,,,True,0,0
-262169,"Purchase Miqo'te Gear",,,,,True,0,0
+262165,"",,,,,False,0,0
+262166,"",,,,,False,0,0
+262167,"",,,,,False,0,0
+262168,"",,,,,False,0,0
+262169,"",,,,,False,0,0
 262170,"",,,,,True,0,0
 262171,"",,,,,True,0,0
 262172,"",,,,,True,0,0
@@ -30,35 +30,35 @@ int32,str,Image,Quest,DefaultTalk,DefaultTalk,bit&01,uint16,uint16
 262175,"",,,,,True,0,0
 262176,"",,,,,True,0,0
 262177,"",,,,,True,0,0
-262178,"Purchase Battle Accessories",,,,,True,0,0
-262179,"Purchase Field Accessories",,,,,True,0,0
+262178,"",,,,,False,0,0
+262179,"",,,,,False,0,0
 262180,"",,,,,True,0,0
 262181,"Purchase Items",,,,,True,0,0
 262182,"",,,,,True,0,0
-262183,"Purchase Tools",,,,,True,0,0
-262184,"Purchase Weapons",,,,,True,0,0
+262183,"",,,,,False,0,0
+262184,"",,,,,False,0,0
 262185,"",,,,,True,0,0
-262186,"Purchase Battle Gear",,,,,True,0,0
-262187,"Purchase Field Gear",,,,,True,0,0
-262188,"Purchase Battle Accessories",,,,,True,0,0
-262189,"Purchase Field Accessories",,,,,True,0,0
+262186,"",,,,,False,0,0
+262187,"",,,,,False,0,0
+262188,"",,,,,False,0,0
+262189,"",,,,,False,0,0
 262190,"",,,,,True,0,0
 262191,"Purchase Items",,,,,True,0,0
 262192,"",,,,,True,0,0
-262193,"Purchase Tools",,,,,True,0,0
-262194,"Purchase Weapons",,,,,True,0,0
-262195,"Purchase Battle Gear",,,,,True,0,0
-262196,"Purchase Field Gear",,,,,True,0,0
+262193,"",,,,,False,0,0
+262194,"",,,,,False,0,0
+262195,"",,,,,False,0,0
+262196,"",,,,,False,0,0
 262197,"",,,,,True,0,0
-262198,"Purchase Battle Accessories",,,,,True,0,0
-262199,"Purchase Field Accessories",,,,,True,0,0
+262198,"",,,,,False,0,0
+262199,"",,,,,False,0,0
 262200,"",,,,,True,0,0
 262201,"Purchase Items",,,,,True,0,0
 262202,"",,,,,True,0,0
-262203,"Purchase Tools",,,,,True,0,0
-262204,"Purchase Weapons",,,,,True,0,0
-262205,"Purchase Battle Gear",,,,,True,0,0
-262206,"Purchase Field Gear",,,,,True,0,0
+262203,"",,,,,False,0,0
+262204,"",,,,,False,0,0
+262205,"",,,,,False,0,0
+262206,"",,,,,False,0,0
 262207,"",,,,,True,0,0
 262208,"",,,,,True,0,0
 262209,"Purchase Weapons",,,,,True,0,0
@@ -274,14 +274,14 @@ int32,str,Image,Quest,DefaultTalk,DefaultTalk,bit&01,uint16,uint16
 262423,"",,,,,True,5,0
 262424,"",,,,,True,8,0
 262425,"",,,,,True,9,0
-262426,"Purchase Items (Neutral)",,,,,True,0,0
-262427,"Purchase Items (Recognized)",,,,,True,0,0
-262428,"Purchase Items (Friendly)",,,,,True,0,0
-262429,"Purchase Items (Trusted)",,,,,True,0,0
-262430,"Purchase Items (Neutral)",,,,,True,0,0
-262431,"Purchase Items (Recognized)",,,,,True,0,0
-262432,"Purchase Items (Friendly)",,,,,True,0,0
-262433,"Purchase Items (Trusted)",,,,,True,0,0
+262426,"",,,,,False,0,0
+262427,"",,,,,False,0,0
+262428,"",,,,,False,0,0
+262429,"",,,,,False,0,0
+262430,"",,,,,False,0,0
+262431,"",,,,,False,0,0
+262432,"",,,,,False,0,0
+262433,"",,,,,False,0,0
 262434,"",,,,,True,0,0
 262435,"",,,,,True,0,0
 262436,"",,,,,True,0,0
@@ -297,38 +297,38 @@ int32,str,Image,Quest,DefaultTalk,DefaultTalk,bit&01,uint16,uint16
 262446,"Purchase Quest Rewards I",,,,,True,0,0
 262449,"Purchase Achievement Rewards I",,,,,True,0,0
 262450,"Purchase Achievement Rewards II",,,,,True,0,0
-262451,"Purchase Items (Neutral)",,,,,True,0,0
-262452,"Purchase Items (Recognized)",,,,,True,0,0
-262453,"Purchase Items (Friendly)",,,,,True,0,0
-262454,"Purchase Items (Trusted)",,,,,True,0,0
-262455,"Purchase Items (Neutral)",,,,,True,0,0
-262456,"Purchase Items (Recognized)",,,,,True,0,0
-262457,"Purchase Items (Friendly)",,,,,True,0,0
-262458,"Purchase Items (Trusted)",,,,,True,0,0
+262451,"",,,,,False,0,0
+262452,"",,,,,False,0,0
+262453,"",,,,,False,0,0
+262454,"",,,,,False,0,0
+262455,"",,,,,False,0,0
+262456,"",,,,,False,0,0
+262457,"",,,,,False,0,0
+262458,"",,,,,False,0,0
 262459,"Purchase Glamouring Items",,"Submission Impossible",,,True,0,0
 262460,"Purchase Items",,,,,True,10,0
 262461,"Purchase Items (Lumber, Metal, Stone, Bone, Leather)","ui/icon/060000/060412.tex",,,,True,0,0
 262462,"Purchase Items (Cloth, Reagents)","ui/icon/060000/060412.tex",,,,True,0,0
 262463,"Purchase Items (Gardening, Dyes)","ui/icon/060000/060412.tex",,,,True,0,0
 262464,"",,,,,True,0,0
-262466,"Purchase Items",,,,,True,0,0
+262466,"",,,,,False,0,0
 262468,"Purchase Gender-specific Gear (Male)",,,,,True,11,0
 262469,"Purchase Gender-specific Gear (Female)",,,,,True,11,0
 262470,"Purchase Items",,,,,True,11,0
 262471,"Purchase Items (Catalysts)","ui/icon/060000/060412.tex",,,,True,0,0
 262472,"Purchase (Cooking Ingredients)","ui/icon/060000/060412.tex",,,,True,0,0
-262473,"Purchase Items (Neutral-Recognized)",,,,,True,0,0
-262474,"Purchase Items (Neutral-Recognized)",,,,,True,0,0
-262475,"Purchase Items (Friendly-Trusted)",,,,,True,0,0
-262476,"Purchase Items (Friendly-Trusted)",,,,,True,0,0
-262477,"Purchase Items (Respected-Honored)",,,,,True,0,0
-262478,"Purchase Items (Respected-Honored)",,,,,True,0,0
-262479,"Purchase Items (Sworn)",,,,,True,0,0
-262480,"Purchase Items (Allied)",,,,,True,0,0
-262481,"Purchase Items (Allied)",,,,,True,0,0
-262482,"Purchase Items (Allied)",,,,,True,0,0
-262483,"Purchase Items (Allied)",,,,,True,0,0
-262484,"Purchase Items (Allied)",,,,,True,0,0
+262473,"",,,,,False,0,0
+262474,"",,,,,False,0,0
+262475,"",,,,,False,0,0
+262476,"",,,,,False,0,0
+262477,"",,,,,False,0,0
+262478,"",,,,,False,0,0
+262479,"",,,,,False,0,0
+262480,"",,,,,False,0,0
+262481,"",,,,,False,0,0
+262482,"",,,,,False,0,0
+262483,"",,,,,False,0,0
+262484,"",,,,,False,0,0
 262485,"",,,,,True,7,0
 262486,"",,,,,True,0,0
 262488,"Purchase Novelty Gear",,,,,True,0,0
@@ -350,13 +350,13 @@ int32,str,Image,Quest,DefaultTalk,DefaultTalk,bit&01,uint16,uint16
 262505,"Replicate Nirvana Zeta.",,,,,True,0,0
 262506,"Replicate Last Resort Zeta.",,,,,True,0,0
 262507,"Replicate the Aegis Shield Zeta.",,,,,True,0,0
-262508,"Purchase Battle Accessories",,,,,True,0,0
+262508,"",,,,,False,0,0
 262509,"Purchase Items",,,,,True,0,0
-262510,"Purchase Battle Gear (DoW)",,,,,True,0,0
-262511,"Purchase Battle Gear (DoM)",,,,,True,0,0
-262512,"Purchase Weapons",,,,,True,0,0
+262510,"",,,,,False,0,0
+262511,"",,,,,False,0,0
+262512,"",,,,,False,0,0
 262513,"Purchase Items",,,,,True,0,0
-262514,"Purchase Tools",,,,,True,0,0
+262514,"",,,,,False,0,0
 262515,"Purchase Items",,,,,True,0,0
 262516,"Purchase Items",,,,,True,0,0
 262517,"Purchase Weapons",,,,,True,0,0
@@ -401,9 +401,9 @@ int32,str,Image,Quest,DefaultTalk,DefaultTalk,bit&01,uint16,uint16
 262557,"Purchase Battle Gear (DoM)",,,,,True,0,0
 262558,"Purchase Items",,,,,True,23,0
 262559,"Purchase Items",,,,,True,22,0
-262560,"Purchase Auri Gear",,,,,True,0,0
-262561,"Purchase Auri Gear",,,,,True,0,0
-262562,"Purchase Auri Gear",,,,,True,0,0
+262560,"",,,,,False,0,0
+262561,"",,,,,False,0,0
+262562,"",,,,,False,0,0
 262564,"Purchase Tools",,,,,True,0,0
 262565,"Purchase Weapons",,,,,True,0,0
 262566,"Purchase Battle Gear (DoW)",,,,,True,0,0
@@ -415,40 +415,40 @@ int32,str,Image,Quest,DefaultTalk,DefaultTalk,bit&01,uint16,uint16
 262573,"Purchase Battle Gear (DoM)",,,,,True,0,0
 262574,"Purchase Minions (Gil)",,,,,True,0,0
 262575,"",,,,,True,28,0
-262576,"Purchase Items (Recognized)",,,,,True,0,0
-262577,"Purchase Items (Friendly)",,,,,True,0,0
-262578,"Purchase Items (Trusted-Honored)",,,,,True,0,0
-262579,"Purchase Items (Trusted-Honored)",,,,,True,0,0
-262580,"Purchase Items (Trusted-Honored)",,,,,True,0,0
-262581,"Purchase Items (Sworn-Bloodsworn)",,,,,True,0,0
-262582,"Purchase Items (Sworn-Bloodsworn)",,,,,True,0,0
+262576,"",,,,,False,0,0
+262577,"",,,,,False,0,0
+262578,"",,,,,False,0,0
+262579,"",,,,,False,0,0
+262580,"",,,,,False,0,0
+262581,"",,,,,False,0,0
+262582,"",,,,,False,0,0
 262584,"",,,,,False,0,0
 262585,"Purchase Items",,,,,True,31,0
 262586,"Purchase Items",,,,,True,32,0
 262587,"Purchase Items",,,,,True,33,0
 262588,"Purchase Items","ui/icon/060000/060412.tex",,,,True,0,0
-262603,"Purchase Items (Friendly)",,,,,True,0,0
-262604,"Purchase Items (Trusted)",,,,,True,0,0
-262605,"Purchase Items (Respected)",,,,,True,0,0
-262606,"Purchase Items (Honored)",,,,,True,0,0
-262607,"Purchase Items (Sworn)",,,,,True,0,0
-262608,"Purchase Items (Bloodsworn)",,,,,True,0,0
+262603,"",,,,,False,0,0
+262604,"",,,,,False,0,0
+262605,"",,,,,False,0,0
+262606,"",,,,,False,0,0
+262607,"",,,,,False,0,0
+262608,"",,,,,False,0,0
 262609,"Deal in Kettles",,,"DefaultTalk#593139","DefaultTalk#592260",True,0,0
 262610,"Replicate Awoken Weapons",,,,,True,0,0
 262611,"Replicate Anima Weapons",,,,,True,0,0
 262612,"Purchase Items (Gil)",,,,"DefaultTalk#593234",True,0,0
-262613,"Purchase Items (Neutral)",,,,,True,0,0
-262614,"Purchase Items (Recognized)",,,,,True,0,0
-262615,"Purchase Items (Friendly)",,,,,True,0,0
-262616,"Purchase Items (Trusted)",,,,,True,0,0
-262617,"Purchase Items (Respected)",,,,,True,0,0
-262618,"Purchase Items (Honored)",,,,,True,0,0
-262619,"Purchase Items (Sworn)",,,,,True,0,0
-262620,"Purchase Items (Bloodsworn)",,,,,True,0,0
+262613,"",,,,,False,0,0
+262614,"",,,,,False,0,0
+262615,"",,,,,False,0,0
+262616,"",,,,,False,0,0
+262617,"",,,,,False,0,0
+262618,"",,,,,False,0,0
+262619,"",,,,,False,0,0
+262620,"",,,,,False,0,0
 262621,"Purchase Tools",,,,,True,0,0
 262622,"Purchase Field Gear",,,,,True,0,0
-262623,"Purchase Field Gear",,,,,True,0,0
-262624,"Purchase Field Accessories",,,,,True,0,0
+262623,"",,,,,False,0,0
+262624,"",,,,,False,0,0
 262625,"Replicate Hyperconductive Weapons",,,,"DefaultTalk#593415",True,0,0
 262626,"Purchase Moonfire Faire Items I",,,,,True,0,0
 262627,"Purchase Moonfire Faire Items II",,,,,True,0,0
@@ -473,9 +473,9 @@ int32,str,Image,Quest,DefaultTalk,DefaultTalk,bit&01,uint16,uint16
 262646,"Purchase Seasonal Event Rewards",,,,,True,43,0
 262647,"Purchase Seasonal Event Rewards",,,,,True,44,0
 262648,"Purchase Items (Gil)",,,,,True,46,0
-262649,"Purchase Items (Allied)",,"Eternity, Loyalty, Honesty",,,True,0,0
-262650,"Purchase Items (Allied)",,"Eternity, Loyalty, Honesty",,,True,0,0
-262651,"Purchase Items (Allied)",,"Eternity, Loyalty, Honesty",,,True,0,0
+262649,"",,,,,False,0,0
+262650,"",,,,,False,0,0
+262651,"",,,,,False,0,0
 262652,"Replicate Sharp Anima Weapons",," Born Again Anima",,,True,0,0
 262653,"Replicate Complete Anima Weapons",," Best Friends Forever",,,True,0,0
 262654,"Purchase Furnishings (Interior)",,,,,True,0,0
@@ -1051,3 +1051,52 @@ int32,str,Image,Quest,DefaultTalk,DefaultTalk,bit&01,uint16,uint16
 263231,"",,,,,False,0,0
 263232,"",,,,,False,0,0
 263233,"Purchase Furnishings (Pillars, Decorations)",,,,,True,0,0
+263234,"",,,,,False,0,0
+263235,"",,,,,False,0,0
+263236,"",,,,,False,0,0
+263237,"",,,,,False,0,0
+263238,"",,,,,False,0,0
+263239,"",,,,,False,0,0
+263240,"",,,,,False,0,0
+263241,"",,,,,False,0,0
+263242,"",,,,,False,0,0
+263243,"",,,,,False,0,0
+263244,"",,,,,False,0,0
+263245,"",,,,,False,0,0
+263246,"",,,,,False,0,0
+263247,"",,,,,False,0,0
+263248,"",,,,,False,0,0
+263249,"",,,,,False,0,0
+263250,"",,,,,False,0,0
+263251,"",,,,,False,0,0
+263252,"",,,,,False,0,0
+263253,"",,,,,False,0,0
+263254,"",,,,,False,0,0
+263255,"",,,,,False,0,0
+263256,"",,,,,False,0,0
+263257,"",,,,,False,0,0
+263258,"",,,,,False,0,0
+263259,"",,,,,False,0,0
+263260,"",,,,,False,0,0
+263261,"",,,,,False,0,0
+263262,"",,,,,False,0,0
+263263,"",,,,,False,0,0
+263264,"",,,,,False,0,0
+263265,"",,,,,False,0,0
+263266,"",,,,,False,0,0
+263267,"",,,,,False,0,0
+263268,"",,,,,False,0,0
+263269,"",,,,,False,0,0
+263270,"",,,,,False,0,0
+263271,"",,,,,False,0,0
+263272,"",,,,,False,0,0
+263273,"",,,,,False,0,0
+263274,"",,,,,False,0,0
+263275,"",,,,,False,0,0
+263276,"",,,,,False,0,0
+263277,"",,,,,False,0,0
+263278,"",,,,,False,0,0
+263279,"",,,,,False,0,0
+263280,"",,,,,False,0,0
+263281,"",,,,,False,0,0
+263282,"",,,,,False,0,0

@@ -901,18 +901,18 @@ int32,Item,uint16,CabinetCategory,byte
 897,"Seneschal Prince's Longboots",5,"Seasonal Gear 1",117
 898,"Leisurewear Knit Cap",1,"Fashions",118
 899,"Leisurewear High-cut Shirt",2,"Fashions",118
-900,"",4,"Fashions",118
+900,"",0,"Fashions",0
 901,"Leisurewear Sweatpants",5,"Fashions",118
 902,"Leisurewear Shoes",6,"Fashions",118
 903,"Leisurewear High-cut Knit Top",3,"Fashions",118
-904,"",1,"Fashions",119
-905,"",2,"Fashions",119
-906,"",4,"Fashions",119
-907,"",5,"Fashions",119
-908,"",7,"Fashions",119
-909,"",3,"Fashions",119
-910,"",6,"Fashions",119
-911,"",8,"Fashions",119
+904,"Belt-leather Beret",1,"Fashions",119
+905,"Belt-leather Harness Top",2,"Fashions",119
+906,"Belt-leather Fingerstalls",4,"Fashions",119
+907,"Belt-leather Trousers",5,"Fashions",119
+908,"Belt-leather Boots",7,"Fashions",119
+909,"Open-back Belt-leather Harness Top",3,"Fashions",119
+910,"Cropped Belt-leather Slops",6,"Fashions",119
+911,"Belt-leather Loafers",8,"Fashions",119
 912,"Ex-arch's Jacket",3,"Costumes",121
 913,"Ex-arch's Bracers",4,"Costumes",121
 914,"Ex-arch's Halfslops",5,"Costumes",121
@@ -926,9 +926,22 @@ int32,Item,uint16,CabinetCategory,byte
 922,"King of Leonis Brais",3,"Fashions",123
 923,"King of Leonis Boots",4,"Fashions",123
 924,"Queen of Hourne Bliaud",5,"Fashions",123
-925,"",6,"Fashions",123
+925,"The Warden's Earring",6,"Costumes",125
 926,"Queen of Hourne Tights",7,"Fashions",123
 927,"Queen of Hourne Boots",8,"Fashions",123
-928,"Ex-arch's Cane",1,"Costumes",121
-929,"Ex-arch's Rod",2,"Costumes",121
+928,"Ex-arch's Cane",2,"Costumes",121
+929,"Ex-arch's Rod",1,"Costumes",121
 930,"Zero's Order Death Scythe",1,"Costumes",122
+931,"The Warden's Wreath",1,"Costumes",125
+932,"The Warden's Dress",2,"Costumes",125
+933,"The Warden's Vambraces",3,"Costumes",125
+934,"The Warden's Tanga",4,"Costumes",125
+935,"The Warden's Thighboots",5,"Costumes",125
+936,"Crystarium Rebel's Top",8,"Costumes",95
+937,"Crystarium Rebel's Wrist Torque",9,"Costumes",95
+938,"Crystarium Rebel's Halftights",10,"Costumes",95
+939,"Crystarium Rebel's Thighboots",11,"Costumes",95
+940,"",1,"Seasonal Gear 2",124
+941,"",2,"Seasonal Gear 2",124
+942,"",3,"Seasonal Gear 2",124
+943,"",4,"Seasonal Gear 2",124

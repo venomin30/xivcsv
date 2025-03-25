@@ -42,66 +42,13 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262151.9,"Behind Closed Doors Orchestrion Roll",False,0,0,,,"",0,100,0
 262151.10,"The Faces We Wear - Simple Spectacles",False,0,0,,,"",0,100,700
 262151.11,"The Faces We Wear - Monocles",False,0,0,,,"",0,100,700
-262152.0,"Lalafellin Tunic",False,0,0,,,"",0,100,0
-262152.1,"Lalafellin Kaftan",False,0,0,,,"",0,100,0
-262152.2,"Hempen Undershirt",False,46,0,,,"",0,100,0
-262152.3,"Hempen Camise",False,36,0,,,"",0,100,0
-262152.4,"Lalafellin Wristguards",False,0,0,,,"",0,100,0
-262152.5,"Lalafellin Wristbands",False,0,0,,,"",0,100,0
-262152.6,"Lalafellin Gaskins",False,0,0,,,"",0,100,0
-262152.7,"Lalafellin Bloomers",False,0,0,,,"",0,100,0
-262152.8,"Hempen Underpants",False,29,0,,,"",0,100,0
-262152.9,"Hempen Pantalettes",False,36,0,,,"",0,100,0
-262152.10,"Lalafellin Top Boots",False,0,0,,,"",0,100,0
-262152.11,"Lalafellin Bootees",False,0,0,,,"",0,100,0
-262153.0,"Roegadyn Harness",False,0,0,,,"",0,100,0
-262153.1,"Roegadyn Bodice",False,0,0,,,"",0,100,0
-262153.2,"Hempen Undershirt",False,46,0,,,"",0,100,0
-262153.3,"Hempen Camise",False,36,0,,,"",0,100,0
-262153.4,"Roegadyn Bracers",False,0,0,,,"",0,100,0
-262153.5,"Roegadyn Armguards",False,0,0,,,"",0,100,0
-262153.6,"Roegadyn Breeches",False,0,0,,,"",0,100,0
-262153.7,"Roegadyn Legstraps",False,0,0,,,"",0,100,0
-262153.8,"Hempen Underpants",False,29,0,,,"",0,100,0
-262153.9,"Hempen Pantalettes",False,36,0,,,"",0,100,0
-262153.10,"Roegadyn Boots",False,0,0,,,"",0,100,0
-262153.11,"Roegadyn Sandals",False,0,0,,,"",0,100,0
-262154.0,"Elezen Surcoat",False,0,0,,,"",0,100,0
-262154.1,"Elezen Gown",False,0,0,,,"",0,100,0
-262154.2,"Hempen Undershirt",False,46,0,,,"",0,100,0
-262154.3,"Hempen Camise",False,36,0,,,"",0,100,0
-262154.4,"Elezen Gloves",False,0,0,,,"",0,100,0
-262154.5,"Elezen Halfgloves",False,0,0,,,"",0,100,0
-262154.6,"Elezen Braccae",False,0,0,,,"",0,100,0
-262154.7,"Elezen Tights",False,0,0,,,"",0,100,0
-262154.8,"Hempen Underpants",False,29,0,,,"",0,100,0
-262154.9,"Hempen Pantalettes",False,36,0,,,"",0,100,0
-262154.10,"Elezen Jackboots",False,0,0,,,"",0,100,0
-262154.11,"Elezen Shoes",False,0,0,,,"",0,100,0
-262155.0,"Hyuran Tunic",False,0,0,,,"",0,100,0
-262155.1,"Hyuran Chemisette",False,0,0,,,"",0,100,0
-262155.2,"Hempen Undershirt",False,46,0,,,"",0,100,0
-262155.3,"Hempen Camise",False,36,0,,,"",0,100,0
-262155.4,"Hyuran Gloves",False,0,0,,,"",0,100,0
-262155.5,"Hyuran Halfgloves",False,0,0,,,"",0,100,0
-262155.6,"Hyuran Breeches",False,0,0,,,"",0,100,0
-262155.7,"Hyuran Skirt",False,0,0,,,"",0,100,0
-262155.8,"Hempen Underpants",False,29,0,,,"",0,100,0
-262155.9,"Hempen Pantalettes",False,36,0,,,"",0,100,0
-262155.10,"Hyuran Thighboots",False,0,0,,,"",0,100,0
-262155.11,"Hyuran Longboots",False,0,0,,,"",0,100,0
-262156.0,"Miqo'te Vest",False,0,0,,,"",0,100,0
-262156.1,"Miqo'te Separates",False,0,0,,,"",0,100,0
-262156.2,"Hempen Undershirt",False,46,0,,,"",0,100,0
-262156.3,"Hempen Camise",False,36,0,,,"",0,100,0
-262156.4,"Miqo'te Gauntlets",False,0,0,,,"",0,100,0
-262156.5,"Miqo'te Gloves",False,0,0,,,"",0,100,0
-262156.6,"Miqo'te Zouaves",False,0,0,,,"",0,100,0
-262156.7,"Miqo'te Loincloth",False,0,0,,,"",0,100,0
-262156.8,"Hempen Underpants",False,29,0,,,"",0,100,0
-262156.9,"Hempen Pantalettes",False,36,0,,,"",0,100,0
-262156.10,"Miqo'te Longboots",False,0,0,,,"",0,100,0
-262156.11,"Miqo'te Shoes",False,0,0,,,"",0,100,0
+262151.12,"The Faces We Wear - Eyepatch (Left)",False,0,0,,,"",0,100,720
+262151.13,"The Faces We Wear - Eyepatch (Right)",False,0,0,,,"",0,100,720
+262152.0,"Potion",False,0,0,,,"",0,100,0
+262153.0,"Potion",False,0,0,,,"",0,100,0
+262154.0,"Potion",False,0,0,,,"",0,100,0
+262155.0,"Potion",False,0,0,,,"",0,100,0
+262156.0,"Potion",False,0,0,,,"",0,100,0
 262157.0,"Carnation",False,0,0,,,"",0,100,0
 262157.1,"Cloves",False,0,0,,,"",0,100,0
 262157.2,"Fish Meal",False,0,0,,,"",0,100,0
@@ -139,6 +86,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262157.34,"Lupin Seeds",False,0,0,,,"",0,100,650
 262157.35,"Garden Sunflower Seeds",False,0,0,,,"",0,100,700
 262157.36,"Cattleya Seeds",False,0,0,,,"",0,100,710
+262157.37,"Paperflower Seeds",False,0,0,,,"",0,100,720
 262158.0,"Gysahl Greens",False,0,0,,,"",0,100,0
 262158.1,"Cherry Bomb",False,0,0,,,"",0,100,0
 262158.2,"Mammet #001",False,0,0,,,"",0,100,0
@@ -151,66 +99,13 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262158.9,"Behind Closed Doors Orchestrion Roll",False,0,0,,,"",0,100,0
 262158.10,"The Faces We Wear - Simple Spectacles",False,0,0,,,"",0,100,700
 262158.11,"The Faces We Wear - Monocles",False,0,0,,,"",0,100,700
-262159.0,"Lalafellin Tunic",False,0,0,,,"",0,100,0
-262159.1,"Lalafellin Kaftan",False,0,0,,,"",0,100,0
-262159.2,"Hempen Undershirt",False,46,0,,,"",0,100,0
-262159.3,"Hempen Camise",False,36,0,,,"",0,100,0
-262159.4,"Lalafellin Wristguards",False,0,0,,,"",0,100,0
-262159.5,"Lalafellin Wristbands",False,0,0,,,"",0,100,0
-262159.6,"Lalafellin Gaskins",False,0,0,,,"",0,100,0
-262159.7,"Lalafellin Bloomers",False,0,0,,,"",0,100,0
-262159.8,"Hempen Underpants",False,29,0,,,"",0,100,0
-262159.9,"Hempen Pantalettes",False,36,0,,,"",0,100,0
-262159.10,"Lalafellin Top Boots",False,0,0,,,"",0,100,0
-262159.11,"Lalafellin Bootees",False,0,0,,,"",0,100,0
-262160.0,"Roegadyn Harness",False,0,0,,,"",0,100,0
-262160.1,"Roegadyn Bodice",False,0,0,,,"",0,100,0
-262160.2,"Hempen Undershirt",False,46,0,,,"",0,100,0
-262160.3,"Hempen Camise",False,36,0,,,"",0,100,0
-262160.4,"Roegadyn Bracers",False,0,0,,,"",0,100,0
-262160.5,"Roegadyn Armguards",False,0,0,,,"",0,100,0
-262160.6,"Roegadyn Breeches",False,0,0,,,"",0,100,0
-262160.7,"Roegadyn Legstraps",False,0,0,,,"",0,100,0
-262160.8,"Hempen Underpants",False,29,0,,,"",0,100,0
-262160.9,"Hempen Pantalettes",False,36,0,,,"",0,100,0
-262160.10,"Roegadyn Boots",False,0,0,,,"",0,100,0
-262160.11,"Roegadyn Sandals",False,0,0,,,"",0,100,0
-262161.0,"Elezen Surcoat",False,0,0,,,"",0,100,0
-262161.1,"Elezen Gown",False,0,0,,,"",0,100,0
-262161.2,"Hempen Undershirt",False,46,0,,,"",0,100,0
-262161.3,"Hempen Camise",False,36,0,,,"",0,100,0
-262161.4,"Elezen Gloves",False,0,0,,,"",0,100,0
-262161.5,"Elezen Halfgloves",False,0,0,,,"",0,100,0
-262161.6,"Elezen Braccae",False,0,0,,,"",0,100,0
-262161.7,"Elezen Tights",False,0,0,,,"",0,100,0
-262161.8,"Hempen Underpants",False,29,0,,,"",0,100,0
-262161.9,"Hempen Pantalettes",False,36,0,,,"",0,100,0
-262161.10,"Elezen Jackboots",False,0,0,,,"",0,100,0
-262161.11,"Elezen Shoes",False,0,0,,,"",0,100,0
-262162.0,"Hyuran Tunic",False,0,0,,,"",0,100,0
-262162.1,"Hyuran Chemisette",False,0,0,,,"",0,100,0
-262162.2,"Hempen Undershirt",False,46,0,,,"",0,100,0
-262162.3,"Hempen Camise",False,36,0,,,"",0,100,0
-262162.4,"Hyuran Gloves",False,0,0,,,"",0,100,0
-262162.5,"Hyuran Halfgloves",False,0,0,,,"",0,100,0
-262162.6,"Hyuran Breeches",False,0,0,,,"",0,100,0
-262162.7,"Hyuran Skirt",False,0,0,,,"",0,100,0
-262162.8,"Hempen Underpants",False,29,0,,,"",0,100,0
-262162.9,"Hempen Pantalettes",False,36,0,,,"",0,100,0
-262162.10,"Hyuran Thighboots",False,0,0,,,"",0,100,0
-262162.11,"Hyuran Longboots",False,0,0,,,"",0,100,0
-262163.0,"Miqo'te Vest",False,0,0,,,"",0,100,0
-262163.1,"Miqo'te Separates",False,0,0,,,"",0,100,0
-262163.2,"Hempen Undershirt",False,46,0,,,"",0,100,0
-262163.3,"Hempen Camise",False,36,0,,,"",0,100,0
-262163.4,"Miqo'te Gauntlets",False,0,0,,,"",0,100,0
-262163.5,"Miqo'te Gloves",False,0,0,,,"",0,100,0
-262163.6,"Miqo'te Zouaves",False,0,0,,,"",0,100,0
-262163.7,"Miqo'te Loincloth",False,0,0,,,"",0,100,0
-262163.8,"Hempen Underpants",False,29,0,,,"",0,100,0
-262163.9,"Hempen Pantalettes",False,36,0,,,"",0,100,0
-262163.10,"Miqo'te Longboots",False,0,0,,,"",0,100,0
-262163.11,"Miqo'te Shoes",False,0,0,,,"",0,100,0
+262158.12,"The Faces We Wear - Eyepatch (Left)",False,0,0,,,"",0,100,720
+262158.13,"The Faces We Wear - Eyepatch (Right)",False,0,0,,,"",0,100,720
+262159.0,"Potion",False,0,0,,,"",0,100,0
+262160.0,"Potion",False,0,0,,,"",0,100,0
+262161.0,"Potion",False,0,0,,,"",0,100,0
+262162.0,"Potion",False,0,0,,,"",0,100,0
+262163.0,"Potion",False,0,0,,,"",0,100,0
 262164.0,"Gysahl Greens",False,0,0,,,"",0,100,0
 262164.1,"Cherry Bomb",False,0,0,,,"",0,100,0
 262164.2,"Mammet #001",False,0,0,,,"",0,100,0
@@ -223,66 +118,13 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262164.9,"Behind Closed Doors Orchestrion Roll",False,0,0,,,"",0,100,0
 262164.10,"The Faces We Wear - Simple Spectacles",False,0,0,,,"",0,100,700
 262164.11,"The Faces We Wear - Monocles",False,0,0,,,"",0,100,700
-262165.0,"Lalafellin Tunic",False,0,0,,,"",0,100,0
-262165.1,"Lalafellin Kaftan",False,0,0,,,"",0,100,0
-262165.2,"Hempen Undershirt",False,46,0,,,"",0,100,0
-262165.3,"Hempen Camise",False,36,0,,,"",0,100,0
-262165.4,"Lalafellin Wristguards",False,0,0,,,"",0,100,0
-262165.5,"Lalafellin Wristbands",False,0,0,,,"",0,100,0
-262165.6,"Lalafellin Gaskins",False,0,0,,,"",0,100,0
-262165.7,"Lalafellin Bloomers",False,0,0,,,"",0,100,0
-262165.8,"Hempen Underpants",False,29,0,,,"",0,100,0
-262165.9,"Hempen Pantalettes",False,36,0,,,"",0,100,0
-262165.10,"Lalafellin Top Boots",False,0,0,,,"",0,100,0
-262165.11,"Lalafellin Bootees",False,0,0,,,"",0,100,0
-262166.0,"Roegadyn Harness",False,0,0,,,"",0,100,0
-262166.1,"Roegadyn Bodice",False,0,0,,,"",0,100,0
-262166.2,"Hempen Undershirt",False,46,0,,,"",0,100,0
-262166.3,"Hempen Camise",False,36,0,,,"",0,100,0
-262166.4,"Roegadyn Bracers",False,0,0,,,"",0,100,0
-262166.5,"Roegadyn Armguards",False,0,0,,,"",0,100,0
-262166.6,"Roegadyn Breeches",False,0,0,,,"",0,100,0
-262166.7,"Roegadyn Legstraps",False,0,0,,,"",0,100,0
-262166.8,"Hempen Underpants",False,29,0,,,"",0,100,0
-262166.9,"Hempen Pantalettes",False,36,0,,,"",0,100,0
-262166.10,"Roegadyn Boots",False,0,0,,,"",0,100,0
-262166.11,"Roegadyn Sandals",False,0,0,,,"",0,100,0
-262167.0,"Elezen Surcoat",False,0,0,,,"",0,100,0
-262167.1,"Elezen Gown",False,0,0,,,"",0,100,0
-262167.2,"Hempen Undershirt",False,46,0,,,"",0,100,0
-262167.3,"Hempen Camise",False,36,0,,,"",0,100,0
-262167.4,"Elezen Gloves",False,0,0,,,"",0,100,0
-262167.5,"Elezen Halfgloves",False,0,0,,,"",0,100,0
-262167.6,"Elezen Braccae",False,0,0,,,"",0,100,0
-262167.7,"Elezen Tights",False,0,0,,,"",0,100,0
-262167.8,"Hempen Underpants",False,29,0,,,"",0,100,0
-262167.9,"Hempen Pantalettes",False,36,0,,,"",0,100,0
-262167.10,"Elezen Jackboots",False,0,0,,,"",0,100,0
-262167.11,"Elezen Shoes",False,0,0,,,"",0,100,0
-262168.0,"Hyuran Tunic",False,0,0,,,"",0,100,0
-262168.1,"Hyuran Chemisette",False,0,0,,,"",0,100,0
-262168.2,"Hempen Undershirt",False,46,0,,,"",0,100,0
-262168.3,"Hempen Camise",False,36,0,,,"",0,100,0
-262168.4,"Hyuran Gloves",False,0,0,,,"",0,100,0
-262168.5,"Hyuran Halfgloves",False,0,0,,,"",0,100,0
-262168.6,"Hyuran Breeches",False,0,0,,,"",0,100,0
-262168.7,"Hyuran Skirt",False,0,0,,,"",0,100,0
-262168.8,"Hempen Underpants",False,29,0,,,"",0,100,0
-262168.9,"Hempen Pantalettes",False,36,0,,,"",0,100,0
-262168.10,"Hyuran Thighboots",False,0,0,,,"",0,100,0
-262168.11,"Hyuran Longboots",False,0,0,,,"",0,100,0
-262169.0,"Miqo'te Vest",False,0,0,,,"",0,100,0
-262169.1,"Miqo'te Separates",False,0,0,,,"",0,100,0
-262169.2,"Hempen Undershirt",False,46,0,,,"",0,100,0
-262169.3,"Hempen Camise",False,36,0,,,"",0,100,0
-262169.4,"Miqo'te Gauntlets",False,0,0,,,"",0,100,0
-262169.5,"Miqo'te Gloves",False,0,0,,,"",0,100,0
-262169.6,"Miqo'te Zouaves",False,0,0,,,"",0,100,0
-262169.7,"Miqo'te Loincloth",False,0,0,,,"",0,100,0
-262169.8,"Hempen Underpants",False,29,0,,,"",0,100,0
-262169.9,"Hempen Pantalettes",False,36,0,,,"",0,100,0
-262169.10,"Miqo'te Longboots",False,0,0,,,"",0,100,0
-262169.11,"Miqo'te Shoes",False,0,0,,,"",0,100,0
+262164.12,"The Faces We Wear - Eyepatch (Left)",False,0,0,,,"",0,100,720
+262164.13,"The Faces We Wear - Eyepatch (Right)",False,0,0,,,"",0,100,720
+262165.0,"Potion",False,0,0,,,"",0,100,0
+262166.0,"Potion",False,0,0,,,"",0,100,0
+262167.0,"Potion",False,0,0,,,"",0,100,0
+262168.0,"Potion",False,0,0,,,"",0,100,0
+262169.0,"Potion",False,0,0,,,"",0,100,0
 262170.0,"Maple Lumber",False,0,0,,,"",0,100,0
 262170.1,"Ash Lumber",False,0,0,,,"",0,100,0
 262170.2,"Copper Ingot",False,0,0,,,"",0,100,0
@@ -445,53 +287,8 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262177.29,"Chanterelle",False,0,0,,,"",0,100,0
 262177.30,"Coral Butterfly",False,0,0,,,"",0,100,0
 262177.31,"Potter's Clay",False,0,0,,,"",0,100,0
-262178.0,"Copper Ear Cuffs",False,0,0,,,"",0,100,0
-262178.1,"Brass Ear Cuffs",False,0,0,,,"",0,100,0
-262178.2,"Sunstone Earrings",False,0,0,,,"",0,100,0
-262178.3,"Sphene Earrings",False,0,0,,,"",0,100,0
-262178.4,"Fluorite Earrings",False,0,0,,,"",0,100,0
-262178.5,"Danburite Earrings",False,0,0,,,"",0,100,0
-262178.6,"Malachite Earrings",False,0,0,,,"",0,100,0
-262178.7,"Lapis Lazuli Earrings",False,0,0,,,"",0,100,0
-262178.8,"Copper Gorget",False,0,0,,,"",0,100,0
-262178.9,"Brass Gorget",False,0,0,,,"",0,100,0
-262178.10,"Silver Gorget",False,0,0,,,"",0,100,0
-262178.11,"Bone Necklace",False,0,0,,,"",0,100,0
-262178.12,"Fang Necklace",False,0,0,,,"",0,100,0
-262178.13,"Horn Necklace",False,0,0,,,"",0,100,0
-262178.14,"Leather Wristbands",False,0,0,,,"",0,100,0
-262178.15,"Hard Leather Wristbands",False,0,0,,,"",0,100,0
-262178.16,"Goatskin Wristbands",False,0,0,,,"",0,100,0
-262178.17,"Copper Wristlets",False,0,0,,,"",0,100,0
-262178.18,"Brass Wristlets",False,0,0,,,"",0,100,0
-262178.19,"Silver Wristlets",False,0,0,,,"",0,100,0
-262178.20,"Copper Ring",False,0,0,,,"",0,100,0
-262178.21,"Brass Ring",False,0,0,,,"",0,100,0
-262178.22,"Silver Ring",False,0,0,,,"",0,100,0
-262178.23,"Bone Ring",False,0,0,,,"",0,100,0
-262178.24,"Coral Ring",False,0,0,,,"",0,100,0
-262178.25,"Horn Ring",False,0,0,,,"",0,100,0
-262179.0,"Fang Earrings",False,0,0,,,"",0,100,0
-262179.1,"Horn Earrings",False,0,0,,,"",0,100,0
-262179.2,"Wolf Earrings",False,0,0,,,"",0,100,0
-262179.3,"Copper Earrings",False,0,0,,,"",0,100,0
-262179.4,"Brass Earrings",False,0,0,,,"",0,100,0
-262179.5,"Silver Earrings",False,0,0,,,"",0,100,0
-262179.6,"Copper Choker",False,0,0,,,"",0,100,0
-262179.7,"Brass Choker",False,0,0,,,"",0,100,0
-262179.8,"Silver Choker",False,0,0,,,"",0,100,0
-262179.9,"Leather Choker",False,0,0,,,"",0,100,0
-262179.10,"Hard Leather Choker",False,0,0,,,"",0,100,0
-262179.11,"Goatskin Choker",False,0,0,,,"",0,100,0
-262179.12,"Boarskin Choker",False,0,0,,,"",0,100,0
-262179.13,"Brass Wristlets of Crafting",False,0,0,,,"",0,100,0
-262179.14,"Silver Wristlets of Crafting",False,0,0,,,"",0,100,0
-262179.15,"Hard Leather Wristbands of Gathering",False,0,0,,,"",0,100,0
-262179.16,"Goatskin Wristbands of Gathering",False,0,0,,,"",0,100,0
-262179.17,"Brass Ring of Crafting",False,0,0,,,"",0,100,0
-262179.18,"Silver Ring of Crafting",False,0,0,,,"",0,100,0
-262179.19,"Goatskin Ring",False,0,0,,,"",0,100,0
-262179.20,"Toadskin Ring",False,0,0,,,"",0,100,0
+262178.0,"Potion",False,0,0,,,"",0,100,0
+262179.0,"Potion",False,0,0,,,"",0,100,0
 262180.0,"Potion",False,0,0,,,"",0,100,0
 262180.1,"Hi-Potion",False,0,0,,,"",0,100,0
 262180.2,"Ether",False,0,0,,,"",0,100,0
@@ -585,63 +382,8 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262182.36,"Chicken Egg",False,0,0,,,"",0,100,0
 262182.37,"Mineral Water",False,0,0,,,"",0,100,0
 262182.38,"Tallow Candle",False,0,0,,,"",0,100,0
-262183.0,"Weathered Saw",False,0,0,,,"",0,100,0
-262183.1,"Bronze Saw",False,0,0,,,"",0,100,0
-262183.2,"Amateur's Saw",False,0,0,,,"",0,100,0
-262183.3,"Chocobotail Saw",False,0,0,,,"",0,100,0
-262183.4,"Amateur's Claw Hammer",False,0,0,,,"",0,100,0
-262183.5,"Bronze Claw Hammer",False,0,0,,,"",0,100,0
-262183.6,"Weathered Head Knife",False,0,0,,,"",0,100,0
-262183.7,"Bronze Head Knife",False,0,0,,,"",0,100,0
-262183.8,"Amateur's Head Knife",False,0,0,,,"",0,100,0
-262183.9,"Brass Head Knife",False,0,0,,,"",0,100,0
-262183.10,"Amateur's Awl",False,0,0,,,"",0,100,0
-262183.11,"Bronze Awl",False,0,0,,,"",0,100,0
-262183.12,"Weathered Hatchet",False,0,0,,,"",0,100,0
-262183.13,"Bronze Hatchet",False,0,0,,,"",0,100,0
-262183.14,"Amateur's Hatchet",False,0,0,,,"",0,100,0
-262183.15,"Iron Hatchet",False,0,0,,,"",0,100,0
-262183.16,"Bronze Scythe",False,0,0,,,"",0,100,0
-262183.17,"Iron Scythe",False,0,0,,,"",0,100,0
-262183.18,"Moth Pupa",False,0,0,,,"",0,100,0
-262183.19,"Crayfish Ball",False,0,0,,,"",0,100,0
-262183.20,"Potion",False,0,0,,,"",0,100,0
-262183.21,"Ether",False,0,0,,,"",0,100,0
-262183.22,"Eye Drops",False,0,0,,,"",0,100,0
-262183.23,"Antidote",False,0,0,,,"",0,100,0
-262183.24,"Grade 1 Dark Matter",False,0,0,,,"",0,100,0
-262183.25,"Grade 2 Dark Matter",False,0,0,,,"",0,100,0
-262183.26,"Grade 3 Dark Matter",False,0,0,,,"",0,100,0
-262183.27,"Grade 4 Dark Matter",False,0,0,,,"",0,100,0
-262183.28,"Grade 5 Dark Matter",False,0,0,,,"",0,100,0
-262183.29,"Grade 6 Dark Matter",False,0,0,,,"",0,100,0
-262184.0,"Weathered Spear",False,0,0,,,"",0,100,0
-262184.1,"Bone Harpoon",False,0,0,,,"",0,100,0
-262184.2,"Bronze Spear",False,0,0,,,"",0,100,0
-262184.3,"Ramhorn Harpoon",False,0,0,,,"",0,100,0
-262184.4,"Feathered Harpoon",False,0,0,,,"",0,100,0
-262184.5,"Brass Spear",False,0,0,,,"",0,100,0
-262184.6,"Iron Spear",False,0,0,,,"",0,100,0
-262184.7,"Weathered Shortbow",False,0,0,,,"",0,100,0
-262184.8,"Maple Shortbow",False,0,0,,,"",0,100,0
-262184.9,"Maple Longbow",False,0,0,,,"",0,100,0
-262184.10,"Plumed Maple Shortbow",False,0,0,,,"",0,100,0
-262184.11,"Wrapped Maple Longbow",False,0,0,,,"",0,100,0
-262184.12,"Ash Shortbow",False,0,0,,,"",0,100,0
-262184.13,"Maple Wand",False,0,0,,,"",0,100,0
-262184.14,"Whispering Maple Wand",False,0,0,,,"",0,100,0
-262184.15,"Budding Maple Wand",False,0,0,,,"",0,100,0
-262184.16,"Ash Wand",False,0,0,,,"",0,100,0
-262184.17,"Weathered Cane",False,0,0,,,"",0,100,0
-262184.18,"Maple Cane",False,0,0,,,"",0,100,0
-262184.19,"Maple Crook",False,0,0,,,"",0,100,0
-262184.20,"Ash Radical",False,0,0,,,"",0,100,0
-262184.21,"Square Maple Shield",False,0,0,,,"",0,100,0
-262184.22,"Bronze Hoplon",False,0,0,,,"",0,100,0
-262184.23,"Round Shield",False,0,0,,,"",0,100,0
-262184.24,"Leather Targe",False,0,0,,,"",0,100,0
-262184.25,"Bronze Scutum",False,0,0,,,"",0,100,0
-262184.26,"Bronze Buckler",False,0,0,,,"",0,100,0
+262183.0,"Potion",False,0,0,,,"",0,100,0
+262184.0,"Potion",False,0,0,,,"",0,100,0
 262185.0,"Orange Juice",False,0,0,,,"",0,100,0
 262185.1,"Tree Toad Legs",False,0,0,,,"",0,100,0
 262185.2,"Boiled Egg",False,0,0,,,"",0,100,0
@@ -655,117 +397,10 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262185.10,"Rabbit Pie",False,0,0,,,"",0,100,0
 262185.11,"Mutton Stew",False,0,0,,,"",0,100,0
 262185.12,"Lentils and Chestnuts",False,0,0,,,"",0,100,0
-262186.0,"Leather Eyepatch",False,36,0,,,"",0,100,0
-262186.1,"Bronze Sallet",False,81,0,,,"",0,100,0
-262186.2,"Amateur's Hempen Coif",False,74,0,,,"",0,100,0
-262186.3,"Bronze Celata",False,74,0,,,"",0,100,0
-262186.4,"Bronze Chain Coif",False,14,0,,,"",0,100,0
-262186.5,"Bronze Barbut",False,46,0,,,"",0,100,0
-262186.6,"Leather Jacket",False,14,0,,,"",0,100,0
-262186.7,"Hard Leather Harness",False,81,0,,,"",0,100,0
-262186.8,"Hempen Halfrobe",False,74,0,,,"",0,100,0
-262186.9,"Hempen Robe",False,74,0,,,"",0,100,0
-262186.10,"Cotton Cowl",False,74,0,,,"",0,100,0
-262186.11,"Bronze Cuirass",False,81,0,,,"",0,100,0
-262186.12,"Fingerless Leather Gloves",False,74,0,,,"",0,100,0
-262186.13,"Leather Mitts",False,81,0,,,"",0,100,0
-262186.14,"Hard Leather Armguards",False,46,0,,,"",0,100,0
-262186.15,"Leather Lightmitts",False,46,0,,,"",0,100,0
-262186.16,"Leather Ringbands",False,74,0,,,"",0,100,0
-262186.17,"Hard Leather Lightmitts",False,29,0,,,"",0,100,0
-262186.18,"Bronze Gauntlets",False,14,0,,,"",0,100,0
-262186.19,"Bronze Mitt Gauntlets",False,14,0,,,"",0,100,0
-262186.20,"Hempen Sarouel",False,14,0,,,"",0,100,0
-262186.21,"Hempen Kecks",False,81,0,,,"",0,100,0
-262186.22,"Hempen Trousers",False,36,0,,,"",0,100,0
-262186.23,"Cotton Sarouel",False,46,0,,,"",0,100,0
-262186.24,"Hempen Tights",False,81,0,,,"",0,100,0
-262186.25,"Hempen Gaskins",False,14,0,,,"",0,100,0
-262186.26,"Amateur's Breeches",False,29,0,,,"",0,100,0
-262186.27,"Striped Cotton Slops",False,81,0,,,"",0,100,0
-262186.28,"Padded Hempen Trousers",False,36,0,,,"",0,100,0
-262186.29,"Leather Crakows",False,36,0,,,"",0,100,0
-262186.30,"Hard Leather Caligae",False,46,0,,,"",0,100,0
-262186.31,"Leather Sandals",False,29,0,,,"",0,100,0
-262186.32,"Hard Leather Sandals",False,36,0,,,"",0,100,0
-262186.33,"Bronze Sabatons",False,46,0,,,"",0,100,0
-262186.34,"Bronze Sollerets",False,29,0,,,"",0,100,0
-262187.0,"Hempen Bandana",False,29,0,,,"",0,100,0
-262187.1,"Amateur's Headgear",False,46,0,,,"",0,100,0
-262187.2,"Straw Hat",False,74,0,,,"",0,100,0
-262187.3,"Stablemaid's Hat",False,74,0,,,"",0,100,0
-262187.4,"Stablehand's Hat",False,74,0,,,"",0,100,0
-262187.5,"Hempen Shepherd's Tunic",False,46,0,,,"",0,100,0
-262187.6,"Amateur's Kurta",False,29,0,,,"",0,100,0
-262187.7,"Hempen Doublet Vest of Crafting",False,14,0,,,"",0,100,0
-262187.8,"Amateur's Doublet Vest",False,36,0,,,"",0,100,0
-262187.9,"Hempen Doublet Vest of Gathering",False,29,0,,,"",0,100,0
-262187.10,"Cotton Shepherd's Tunic",False,46,0,,,"",0,100,0
-262187.11,"Hempen Shortgloves",False,74,0,,,"",0,100,0
-262187.12,"Amateur's Smithing Gloves",False,29,0,,,"",0,100,0
-262187.13,"Cotton Halfgloves",False,81,0,,,"",0,100,0
-262187.14,"Hempen Work Gloves",False,81,0,,,"",0,100,0
-262187.15,"Hard Leather Wristguards",False,81,0,,,"",0,100,0
-262187.16,"Goatskin Wristguards",False,36,0,,,"",0,100,0
-262187.17,"Hempen Chausses",False,74,0,,,"",0,100,0
-262187.18,"Hempen Bottoms",False,14,0,,,"",0,100,0
-262187.19,"Cotton Chausses",False,14,0,,,"",0,100,0
-262187.20,"Leather Culottes",False,81,0,,,"",0,100,0
-262187.21,"Amateur's Slops",False,36,0,,,"",0,100,0
-262187.22,"Cotton Shepherd's Slops",False,29,0,,,"",0,100,0
-262187.23,"Maple Pattens",False,29,0,,,"",0,100,0
-262187.24,"Amateur's Thighboots",False,46,0,,,"",0,100,0
-262187.25,"Ash Pattens",False,46,0,,,"",0,100,0
-262187.26,"Leather Shoes",False,14,0,,,"",0,100,0
-262187.27,"Hard Leather Shoes",False,36,0,,,"",0,100,0
-262187.28,"Hard Leather Espadrilles",False,74,0,,,"",0,100,0
-262188.0,"Copper Ear Cuffs",False,0,0,,,"",0,100,0
-262188.1,"Brass Ear Cuffs",False,0,0,,,"",0,100,0
-262188.2,"Sunstone Earrings",False,0,0,,,"",0,100,0
-262188.3,"Sphene Earrings",False,0,0,,,"",0,100,0
-262188.4,"Fluorite Earrings",False,0,0,,,"",0,100,0
-262188.5,"Danburite Earrings",False,0,0,,,"",0,100,0
-262188.6,"Malachite Earrings",False,0,0,,,"",0,100,0
-262188.7,"Lapis Lazuli Earrings",False,0,0,,,"",0,100,0
-262188.8,"Copper Gorget",False,0,0,,,"",0,100,0
-262188.9,"Brass Gorget",False,0,0,,,"",0,100,0
-262188.10,"Silver Gorget",False,0,0,,,"",0,100,0
-262188.11,"Bone Necklace",False,0,0,,,"",0,100,0
-262188.12,"Fang Necklace",False,0,0,,,"",0,100,0
-262188.13,"Horn Necklace",False,0,0,,,"",0,100,0
-262188.14,"Leather Wristbands",False,0,0,,,"",0,100,0
-262188.15,"Hard Leather Wristbands",False,0,0,,,"",0,100,0
-262188.16,"Goatskin Wristbands",False,0,0,,,"",0,100,0
-262188.17,"Copper Wristlets",False,0,0,,,"",0,100,0
-262188.18,"Brass Wristlets",False,0,0,,,"",0,100,0
-262188.19,"Silver Wristlets",False,0,0,,,"",0,100,0
-262188.20,"Copper Ring",False,0,0,,,"",0,100,0
-262188.21,"Brass Ring",False,0,0,,,"",0,100,0
-262188.22,"Silver Ring",False,0,0,,,"",0,100,0
-262188.23,"Bone Ring",False,0,0,,,"",0,100,0
-262188.24,"Coral Ring",False,0,0,,,"",0,100,0
-262188.25,"Horn Ring",False,0,0,,,"",0,100,0
-262189.0,"Fang Earrings",False,0,0,,,"",0,100,0
-262189.1,"Horn Earrings",False,0,0,,,"",0,100,0
-262189.2,"Wolf Earrings",False,0,0,,,"",0,100,0
-262189.3,"Copper Earrings",False,0,0,,,"",0,100,0
-262189.4,"Brass Earrings",False,0,0,,,"",0,100,0
-262189.5,"Silver Earrings",False,0,0,,,"",0,100,0
-262189.6,"Copper Choker",False,0,0,,,"",0,100,0
-262189.7,"Brass Choker",False,0,0,,,"",0,100,0
-262189.8,"Silver Choker",False,0,0,,,"",0,100,0
-262189.9,"Leather Choker",False,0,0,,,"",0,100,0
-262189.10,"Hard Leather Choker",False,0,0,,,"",0,100,0
-262189.11,"Goatskin Choker",False,0,0,,,"",0,100,0
-262189.12,"Boarskin Choker",False,0,0,,,"",0,100,0
-262189.13,"Brass Wristlets of Crafting",False,0,0,,,"",0,100,0
-262189.14,"Silver Wristlets of Crafting",False,0,0,,,"",0,100,0
-262189.15,"Hard Leather Wristbands of Gathering",False,0,0,,,"",0,100,0
-262189.16,"Goatskin Wristbands of Gathering",False,0,0,,,"",0,100,0
-262189.17,"Brass Ring of Crafting",False,0,0,,,"",0,100,0
-262189.18,"Silver Ring of Crafting",False,0,0,,,"",0,100,0
-262189.19,"Goatskin Ring",False,0,0,,,"",0,100,0
-262189.20,"Toadskin Ring",False,0,0,,,"",0,100,0
+262186.0,"Potion",False,0,0,,,"",0,100,0
+262187.0,"Potion",False,0,0,,,"",0,100,0
+262188.0,"Potion",False,0,0,,,"",0,100,0
+262189.0,"Potion",False,0,0,,,"",0,100,0
 262190.0,"Potion",False,0,0,,,"",0,100,0
 262190.1,"Hi-Potion",False,0,0,,,"",0,100,0
 262190.2,"Ether",False,0,0,,,"",0,100,0
@@ -859,125 +494,10 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262192.36,"Chicken Egg",False,0,0,,,"",0,100,0
 262192.37,"Mineral Water",False,0,0,,,"",0,100,0
 262192.38,"Tallow Candle",False,0,0,,,"",0,100,0
-262193.0,"Weathered Cross-pein Hammer",False,0,0,,,"",0,100,0
-262193.1,"Bronze Cross-pein Hammer",False,0,0,,,"",0,100,0
-262193.2,"Amateur's Cross-pein Hammer",False,0,0,,,"",0,100,0
-262193.3,"Amateur's File",False,0,0,,,"",0,100,0
-262193.4,"Bronze File",False,0,0,,,"",0,100,0
-262193.5,"Weathered Doming Hammer",False,0,0,,,"",0,100,0
-262193.6,"Bronze Doming Hammer",False,0,0,,,"",0,100,0
-262193.7,"Amateur's Doming Hammer",False,0,0,,,"",0,100,0
-262193.8,"Amateur's Pliers",False,0,0,,,"",0,100,0
-262193.9,"Bronze Pliers",False,0,0,,,"",0,100,0
-262193.10,"Weathered Skillet",False,0,0,,,"",0,100,0
-262193.11,"Bronze Skillet",False,0,0,,,"",0,100,0
-262193.12,"Amateur's Skillet",False,0,0,,,"",0,100,0
-262193.13,"Amateur's Culinary Knife",False,0,0,,,"",0,100,0
-262193.14,"Bronze Culinary Knife",False,0,0,,,"",0,100,0
-262193.15,"Weathered Fishing Rod",False,0,0,,,"",0,100,0
-262193.16,"Maple Fishing Rod",False,0,0,,,"",0,100,0
-262193.17,"Amateur's Fishing Rod",False,0,0,,,"",0,100,0
-262193.18,"Moth Pupa",False,0,0,,,"",0,100,0
-262193.19,"Lugworm",False,0,0,,,"",0,100,0
-262193.20,"Crayfish Ball",False,0,0,,,"",0,100,0
-262193.21,"Pill Bug",False,0,0,,,"",0,100,0
-262193.22,"Potion",False,0,0,,,"",0,100,0
-262193.23,"Ether",False,0,0,,,"",0,100,0
-262193.24,"Eye Drops",False,0,0,,,"",0,100,0
-262193.25,"Antidote",False,0,0,,,"",0,100,0
-262193.26,"Grade 1 Dark Matter",False,0,0,,,"",0,100,0
-262193.27,"Grade 2 Dark Matter",False,0,0,,,"",0,100,0
-262193.28,"Grade 3 Dark Matter",False,0,0,,,"",0,100,0
-262193.29,"Grade 4 Dark Matter",False,0,0,,,"",0,100,0
-262193.30,"Grade 5 Dark Matter",False,0,0,,,"",0,100,0
-262193.31,"Grade 6 Dark Matter",False,0,0,,,"",0,100,0
-262194.0,"Weathered War Axe",False,0,0,,,"",0,100,0
-262194.1,"Bronze War Axe",False,0,0,,,"",0,100,0
-262194.2,"Bronze Labrys",False,0,0,,,"",0,100,0
-262194.3,"Spiked Bronze Labrys",False,0,0,,,"",0,100,0
-262194.4,"Iron War Axe",False,0,0,,,"",0,100,0
-262194.5,"Weathered Grimoire",False,0,0,,,"",0,100,0
-262194.6,"Leather Grimoire",False,0,0,,,"",0,100,0
-262194.7,"Maple Picatrix",False,0,0,,,"",0,100,0
-262194.8,"Engraved Leather Grimoire",False,0,0,,,"",0,100,0
-262194.9,"Ash Picatrix",False,0,0,,,"",0,100,0
-262194.10,"Hard Leather Grimoire",False,0,0,,,"",0,100,0
-262194.11,"Square Maple Shield",False,0,0,,,"",0,100,0
-262194.12,"Bronze Hoplon",False,0,0,,,"",0,100,0
-262194.13,"Round Shield",False,0,0,,,"",0,100,0
-262194.14,"Leather Targe",False,0,0,,,"",0,100,0
-262194.15,"Bronze Scutum",False,0,0,,,"",0,100,0
-262194.16,"Bronze Buckler",False,0,0,,,"",0,100,0
-262194.17,"Weathered Daggers",False,0,0,,,"",0,100,0
-262194.18,"Bronze Daggers",False,0,0,,,"",0,100,0
-262194.19,"Bronze Knives",False,0,0,,,"",0,100,0
-262194.20,"Bronze Baselards",False,0,0,,,"",0,100,0
-262194.21,"Brass Daggers",False,0,0,,,"",0,100,0
-262194.22,"Brass Knives",False,0,0,,,"",0,100,0
-262195.0,"Leather Eyepatch",False,36,0,,,"",0,100,0
-262195.1,"Bronze Sallet",False,81,0,,,"",0,100,0
-262195.2,"Amateur's Hempen Coif",False,74,0,,,"",0,100,0
-262195.3,"Bronze Celata",False,74,0,,,"",0,100,0
-262195.4,"Bronze Chain Coif",False,14,0,,,"",0,100,0
-262195.5,"Bronze Barbut",False,46,0,,,"",0,100,0
-262195.6,"Leather Jacket",False,14,0,,,"",0,100,0
-262195.7,"Hard Leather Harness",False,81,0,,,"",0,100,0
-262195.8,"Hempen Halfrobe",False,74,0,,,"",0,100,0
-262195.9,"Hempen Robe",False,74,0,,,"",0,100,0
-262195.10,"Cotton Cowl",False,74,0,,,"",0,100,0
-262195.11,"Bronze Cuirass",False,81,0,,,"",0,100,0
-262195.12,"Fingerless Leather Gloves",False,74,0,,,"",0,100,0
-262195.13,"Leather Mitts",False,81,0,,,"",0,100,0
-262195.14,"Hard Leather Armguards",False,46,0,,,"",0,100,0
-262195.15,"Leather Lightmitts",False,46,0,,,"",0,100,0
-262195.16,"Leather Ringbands",False,74,0,,,"",0,100,0
-262195.17,"Hard Leather Lightmitts",False,29,0,,,"",0,100,0
-262195.18,"Bronze Gauntlets",False,14,0,,,"",0,100,0
-262195.19,"Bronze Mitt Gauntlets",False,14,0,,,"",0,100,0
-262195.20,"Hempen Sarouel",False,14,0,,,"",0,100,0
-262195.21,"Hempen Kecks",False,81,0,,,"",0,100,0
-262195.22,"Hempen Trousers",False,36,0,,,"",0,100,0
-262195.23,"Cotton Sarouel",False,46,0,,,"",0,100,0
-262195.24,"Hempen Tights",False,81,0,,,"",0,100,0
-262195.25,"Hempen Gaskins",False,14,0,,,"",0,100,0
-262195.26,"Amateur's Breeches",False,29,0,,,"",0,100,0
-262195.27,"Striped Cotton Slops",False,81,0,,,"",0,100,0
-262195.28,"Padded Hempen Trousers",False,36,0,,,"",0,100,0
-262195.29,"Leather Crakows",False,36,0,,,"",0,100,0
-262195.30,"Hard Leather Caligae",False,46,0,,,"",0,100,0
-262195.31,"Leather Sandals",False,29,0,,,"",0,100,0
-262195.32,"Hard Leather Sandals",False,36,0,,,"",0,100,0
-262195.33,"Bronze Sabatons",False,46,0,,,"",0,100,0
-262195.34,"Bronze Sollerets",False,29,0,,,"",0,100,0
-262196.0,"Hempen Bandana",False,29,0,,,"",0,100,0
-262196.1,"Amateur's Headgear",False,46,0,,,"",0,100,0
-262196.2,"Straw Hat",False,74,0,,,"",0,100,0
-262196.3,"Stablemaid's Hat",False,74,0,,,"",0,100,0
-262196.4,"Stablehand's Hat",False,74,0,,,"",0,100,0
-262196.5,"Hempen Shepherd's Tunic",False,46,0,,,"",0,100,0
-262196.6,"Amateur's Kurta",False,29,0,,,"",0,100,0
-262196.7,"Hempen Doublet Vest of Crafting",False,14,0,,,"",0,100,0
-262196.8,"Amateur's Doublet Vest",False,36,0,,,"",0,100,0
-262196.9,"Hempen Doublet Vest of Gathering",False,29,0,,,"",0,100,0
-262196.10,"Cotton Shepherd's Tunic",False,46,0,,,"",0,100,0
-262196.11,"Hempen Shortgloves",False,74,0,,,"",0,100,0
-262196.12,"Amateur's Smithing Gloves",False,29,0,,,"",0,100,0
-262196.13,"Cotton Halfgloves",False,81,0,,,"",0,100,0
-262196.14,"Hempen Work Gloves",False,81,0,,,"",0,100,0
-262196.15,"Hard Leather Wristguards",False,81,0,,,"",0,100,0
-262196.16,"Goatskin Wristguards",False,36,0,,,"",0,100,0
-262196.17,"Hempen Chausses",False,74,0,,,"",0,100,0
-262196.18,"Hempen Bottoms",False,14,0,,,"",0,100,0
-262196.19,"Cotton Chausses",False,14,0,,,"",0,100,0
-262196.20,"Leather Culottes",False,81,0,,,"",0,100,0
-262196.21,"Amateur's Slops",False,36,0,,,"",0,100,0
-262196.22,"Cotton Shepherd's Slops",False,29,0,,,"",0,100,0
-262196.23,"Maple Pattens",False,29,0,,,"",0,100,0
-262196.24,"Amateur's Thighboots",False,46,0,,,"",0,100,0
-262196.25,"Ash Pattens",False,46,0,,,"",0,100,0
-262196.26,"Leather Shoes",False,14,0,,,"",0,100,0
-262196.27,"Hard Leather Shoes",False,36,0,,,"",0,100,0
-262196.28,"Hard Leather Espadrilles",False,74,0,,,"",0,100,0
+262193.0,"Potion",False,0,0,,,"",0,100,0
+262194.0,"Potion",False,0,0,,,"",0,100,0
+262195.0,"Potion",False,0,0,,,"",0,100,0
+262196.0,"Potion",False,0,0,,,"",0,100,0
 262197.0,"Orange Juice",False,0,0,,,"",0,100,0
 262197.1,"Tree Toad Legs",False,0,0,,,"",0,100,0
 262197.2,"Boiled Egg",False,0,0,,,"",0,100,0
@@ -991,53 +511,8 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262197.10,"Rabbit Pie",False,0,0,,,"",0,100,0
 262197.11,"Mutton Stew",False,0,0,,,"",0,100,0
 262197.12,"Lentils and Chestnuts",False,0,0,,,"",0,100,0
-262198.0,"Copper Ear Cuffs",False,0,0,,,"",0,100,0
-262198.1,"Brass Ear Cuffs",False,0,0,,,"",0,100,0
-262198.2,"Sunstone Earrings",False,0,0,,,"",0,100,0
-262198.3,"Sphene Earrings",False,0,0,,,"",0,100,0
-262198.4,"Fluorite Earrings",False,0,0,,,"",0,100,0
-262198.5,"Danburite Earrings",False,0,0,,,"",0,100,0
-262198.6,"Malachite Earrings",False,0,0,,,"",0,100,0
-262198.7,"Lapis Lazuli Earrings",False,0,0,,,"",0,100,0
-262198.8,"Copper Gorget",False,0,0,,,"",0,100,0
-262198.9,"Brass Gorget",False,0,0,,,"",0,100,0
-262198.10,"Silver Gorget",False,0,0,,,"",0,100,0
-262198.11,"Bone Necklace",False,0,0,,,"",0,100,0
-262198.12,"Fang Necklace",False,0,0,,,"",0,100,0
-262198.13,"Horn Necklace",False,0,0,,,"",0,100,0
-262198.14,"Leather Wristbands",False,0,0,,,"",0,100,0
-262198.15,"Hard Leather Wristbands",False,0,0,,,"",0,100,0
-262198.16,"Goatskin Wristbands",False,0,0,,,"",0,100,0
-262198.17,"Copper Wristlets",False,0,0,,,"",0,100,0
-262198.18,"Brass Wristlets",False,0,0,,,"",0,100,0
-262198.19,"Silver Wristlets",False,0,0,,,"",0,100,0
-262198.20,"Copper Ring",False,0,0,,,"",0,100,0
-262198.21,"Brass Ring",False,0,0,,,"",0,100,0
-262198.22,"Silver Ring",False,0,0,,,"",0,100,0
-262198.23,"Bone Ring",False,0,0,,,"",0,100,0
-262198.24,"Coral Ring",False,0,0,,,"",0,100,0
-262198.25,"Horn Ring",False,0,0,,,"",0,100,0
-262199.0,"Fang Earrings",False,0,0,,,"",0,100,0
-262199.1,"Horn Earrings",False,0,0,,,"",0,100,0
-262199.2,"Wolf Earrings",False,0,0,,,"",0,100,0
-262199.3,"Copper Earrings",False,0,0,,,"",0,100,0
-262199.4,"Brass Earrings",False,0,0,,,"",0,100,0
-262199.5,"Silver Earrings",False,0,0,,,"",0,100,0
-262199.6,"Copper Choker",False,0,0,,,"",0,100,0
-262199.7,"Brass Choker",False,0,0,,,"",0,100,0
-262199.8,"Silver Choker",False,0,0,,,"",0,100,0
-262199.9,"Leather Choker",False,0,0,,,"",0,100,0
-262199.10,"Hard Leather Choker",False,0,0,,,"",0,100,0
-262199.11,"Goatskin Choker",False,0,0,,,"",0,100,0
-262199.12,"Boarskin Choker",False,0,0,,,"",0,100,0
-262199.13,"Brass Wristlets of Crafting",False,0,0,,,"",0,100,0
-262199.14,"Silver Wristlets of Crafting",False,0,0,,,"",0,100,0
-262199.15,"Hard Leather Wristbands of Gathering",False,0,0,,,"",0,100,0
-262199.16,"Goatskin Wristbands of Gathering",False,0,0,,,"",0,100,0
-262199.17,"Brass Ring of Crafting",False,0,0,,,"",0,100,0
-262199.18,"Silver Ring of Crafting",False,0,0,,,"",0,100,0
-262199.19,"Goatskin Ring",False,0,0,,,"",0,100,0
-262199.20,"Toadskin Ring",False,0,0,,,"",0,100,0
+262198.0,"Potion",False,0,0,,,"",0,100,0
+262199.0,"Potion",False,0,0,,,"",0,100,0
 262200.0,"Potion",False,0,0,,,"",0,100,0
 262200.1,"Hi-Potion",False,0,0,,,"",0,100,0
 262200.2,"Ether",False,0,0,,,"",0,100,0
@@ -1131,131 +606,10 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262202.36,"Chicken Egg",False,0,0,,,"",0,100,0
 262202.37,"Mineral Water",False,0,0,,,"",0,100,0
 262202.38,"Tallow Candle",False,0,0,,,"",0,100,0
-262203.0,"Weathered Chaser Hammer",False,0,0,,,"",0,100,0
-262203.1,"Bronze Chaser Hammer",False,0,0,,,"",0,100,0
-262203.2,"Amateur's Chaser Hammer",False,0,0,,,"",0,100,0
-262203.3,"Bronze Ornamental Hammer",False,0,0,,,"",0,100,0
-262203.4,"Amateur's Grinding Wheel",False,0,0,,,"",0,100,0
-262203.5,"Ragstone Grinding Wheel",False,0,0,,,"",0,100,0
-262203.6,"Rusty Needle",False,0,0,,,"",0,100,0
-262203.7,"Copper Needle",False,0,0,,,"",0,100,0
-262203.8,"Amateur's Needle",False,0,0,,,"",0,100,0
-262203.9,"Bat Fang Needle",False,0,0,,,"",0,100,0
-262203.10,"Amateur's Spinning Wheel",False,0,0,,,"",0,100,0
-262203.11,"Ash Spinning Wheel",False,0,0,,,"",0,100,0
-262203.12,"Weathered Alembic",False,0,0,,,"",0,100,0
-262203.13,"Bronze Alembic",False,0,0,,,"",0,100,0
-262203.14,"Amateur's Alembic",False,0,0,,,"",0,100,0
-262203.15,"Brass Alembic",False,0,0,,,"",0,100,0
-262203.16,"Amateur's Mortar",False,0,0,,,"",0,100,0
-262203.17,"Bronze Mortar",False,0,0,,,"",0,100,0
-262203.18,"Weathered Pickaxe",False,0,0,,,"",0,100,0
-262203.19,"Bronze Pickaxe",False,0,0,,,"",0,100,0
-262203.20,"Amateur's Pickaxe",False,0,0,,,"",0,100,0
-262203.21,"Plumed Bronze Pickaxe",False,0,0,,,"",0,100,0
-262203.22,"Bronze Sledgehammer",False,0,0,,,"",0,100,0
-262203.23,"Moth Pupa",False,0,0,,,"",0,100,0
-262203.24,"Crayfish Ball",False,0,0,,,"",0,100,0
-262203.25,"Potion",False,0,0,,,"",0,100,0
-262203.26,"Ether",False,0,0,,,"",0,100,0
-262203.27,"Eye Drops",False,0,0,,,"",0,100,0
-262203.28,"Antidote",False,0,0,,,"",0,100,0
-262203.29,"Grade 1 Dark Matter",False,0,0,,,"",0,100,0
-262203.30,"Grade 2 Dark Matter",False,0,0,,,"",0,100,0
-262203.31,"Grade 3 Dark Matter",False,0,0,,,"",0,100,0
-262203.32,"Grade 4 Dark Matter",False,0,0,,,"",0,100,0
-262203.33,"Grade 5 Dark Matter",False,0,0,,,"",0,100,0
-262203.34,"Grade 6 Dark Matter",False,0,0,,,"",0,100,0
-262204.0,"Weathered Shortsword",False,0,0,,,"",0,100,0
-262204.1,"Bronze Bastard Sword",False,0,0,,,"",0,100,0
-262204.2,"Viking Sword",False,0,0,,,"",0,100,0
-262204.3,"Ash Macuahuitl",False,0,0,,,"",0,100,0
-262204.4,"Bronze Spatha",False,0,0,,,"",0,100,0
-262204.5,"Brass Bastard Sword",False,0,0,,,"",0,100,0
-262204.6,"Weathered Hora",False,0,0,,,"",0,100,0
-262204.7,"Bone Hora",False,0,0,,,"",0,100,0
-262204.8,"Leather Himantes",False,0,0,,,"",0,100,0
-262204.9,"Ramhorn Claws",False,0,0,,,"",0,100,0
-262204.10,"Bronze Knuckles",False,0,0,,,"",0,100,0
-262204.11,"Hard Leather Himantes",False,0,0,,,"",0,100,0
-262204.12,"Weathered Scepter",False,0,0,,,"",0,100,0
-262204.13,"Bone Brand",False,0,0,,,"",0,100,0
-262204.14,"Copper Scepter",False,0,0,,,"",0,100,0
-262204.15,"Bronze Scepter",False,0,0,,,"",0,100,0
-262204.16,"Brass Cudgel",False,0,0,,,"",0,100,0
-262204.17,"Bone Staff",False,0,0,,,"",0,100,0
-262204.18,"Ramhorn Staff",False,0,0,,,"",0,100,0
-262204.19,"Decorated Bone Staff",False,0,0,,,"",0,100,0
-262204.20,"Square Maple Shield",False,0,0,,,"",0,100,0
-262204.21,"Bronze Hoplon",False,0,0,,,"",0,100,0
-262204.22,"Round Shield",False,0,0,,,"",0,100,0
-262204.23,"Leather Targe",False,0,0,,,"",0,100,0
-262204.24,"Bronze Scutum",False,0,0,,,"",0,100,0
-262204.25,"Bronze Buckler",False,0,0,,,"",0,100,0
-262205.0,"Leather Eyepatch",False,36,0,,,"",0,100,0
-262205.1,"Bronze Sallet",False,81,0,,,"",0,100,0
-262205.2,"Amateur's Hempen Coif",False,74,0,,,"",0,100,0
-262205.3,"Bronze Celata",False,74,0,,,"",0,100,0
-262205.4,"Bronze Chain Coif",False,14,0,,,"",0,100,0
-262205.5,"Bronze Barbut",False,46,0,,,"",0,100,0
-262205.6,"Leather Jacket",False,14,0,,,"",0,100,0
-262205.7,"Hard Leather Harness",False,81,0,,,"",0,100,0
-262205.8,"Hempen Halfrobe",False,74,0,,,"",0,100,0
-262205.9,"Hempen Robe",False,74,0,,,"",0,100,0
-262205.10,"Cotton Cowl",False,74,0,,,"",0,100,0
-262205.11,"Bronze Cuirass",False,81,0,,,"",0,100,0
-262205.12,"Fingerless Leather Gloves",False,74,0,,,"",0,100,0
-262205.13,"Leather Mitts",False,81,0,,,"",0,100,0
-262205.14,"Hard Leather Armguards",False,46,0,,,"",0,100,0
-262205.15,"Leather Lightmitts",False,46,0,,,"",0,100,0
-262205.16,"Leather Ringbands",False,74,0,,,"",0,100,0
-262205.17,"Hard Leather Lightmitts",False,29,0,,,"",0,100,0
-262205.18,"Bronze Gauntlets",False,14,0,,,"",0,100,0
-262205.19,"Bronze Mitt Gauntlets",False,14,0,,,"",0,100,0
-262205.20,"Hempen Sarouel",False,14,0,,,"",0,100,0
-262205.21,"Hempen Kecks",False,81,0,,,"",0,100,0
-262205.22,"Hempen Trousers",False,36,0,,,"",0,100,0
-262205.23,"Cotton Sarouel",False,46,0,,,"",0,100,0
-262205.24,"Hempen Tights",False,81,0,,,"",0,100,0
-262205.25,"Hempen Gaskins",False,14,0,,,"",0,100,0
-262205.26,"Amateur's Breeches",False,29,0,,,"",0,100,0
-262205.27,"Striped Cotton Slops",False,81,0,,,"",0,100,0
-262205.28,"Padded Hempen Trousers",False,36,0,,,"",0,100,0
-262205.29,"Leather Crakows",False,36,0,,,"",0,100,0
-262205.30,"Hard Leather Caligae",False,46,0,,,"",0,100,0
-262205.31,"Leather Sandals",False,29,0,,,"",0,100,0
-262205.32,"Hard Leather Sandals",False,36,0,,,"",0,100,0
-262205.33,"Bronze Sabatons",False,46,0,,,"",0,100,0
-262205.34,"Bronze Sollerets",False,29,0,,,"",0,100,0
-262206.0,"Hempen Bandana",False,29,0,,,"",0,100,0
-262206.1,"Amateur's Headgear",False,46,0,,,"",0,100,0
-262206.2,"Straw Hat",False,74,0,,,"",0,100,0
-262206.3,"Stablemaid's Hat",False,74,0,,,"",0,100,0
-262206.4,"Stablehand's Hat",False,74,0,,,"",0,100,0
-262206.5,"Hempen Shepherd's Tunic",False,46,0,,,"",0,100,0
-262206.6,"Amateur's Kurta",False,29,0,,,"",0,100,0
-262206.7,"Hempen Doublet Vest of Crafting",False,14,0,,,"",0,100,0
-262206.8,"Amateur's Doublet Vest",False,36,0,,,"",0,100,0
-262206.9,"Hempen Doublet Vest of Gathering",False,29,0,,,"",0,100,0
-262206.10,"Cotton Shepherd's Tunic",False,46,0,,,"",0,100,0
-262206.11,"Hempen Shortgloves",False,74,0,,,"",0,100,0
-262206.12,"Amateur's Smithing Gloves",False,29,0,,,"",0,100,0
-262206.13,"Cotton Halfgloves",False,81,0,,,"",0,100,0
-262206.14,"Hempen Work Gloves",False,81,0,,,"",0,100,0
-262206.15,"Hard Leather Wristguards",False,81,0,,,"",0,100,0
-262206.16,"Goatskin Wristguards",False,36,0,,,"",0,100,0
-262206.17,"Hempen Chausses",False,74,0,,,"",0,100,0
-262206.18,"Hempen Bottoms",False,14,0,,,"",0,100,0
-262206.19,"Cotton Chausses",False,14,0,,,"",0,100,0
-262206.20,"Leather Culottes",False,81,0,,,"",0,100,0
-262206.21,"Amateur's Slops",False,36,0,,,"",0,100,0
-262206.22,"Cotton Shepherd's Slops",False,29,0,,,"",0,100,0
-262206.23,"Maple Pattens",False,29,0,,,"",0,100,0
-262206.24,"Amateur's Thighboots",False,46,0,,,"",0,100,0
-262206.25,"Ash Pattens",False,46,0,,,"",0,100,0
-262206.26,"Leather Shoes",False,14,0,,,"",0,100,0
-262206.27,"Hard Leather Shoes",False,36,0,,,"",0,100,0
-262206.28,"Hard Leather Espadrilles",False,74,0,,,"",0,100,0
+262203.0,"Potion",False,0,0,,,"",0,100,0
+262204.0,"Potion",False,0,0,,,"",0,100,0
+262205.0,"Potion",False,0,0,,,"",0,100,0
+262206.0,"Potion",False,0,0,,,"",0,100,0
 262207.0,"Orange Juice",False,0,0,,,"",0,100,0
 262207.1,"Tree Toad Legs",False,0,0,,,"",0,100,0
 262207.2,"Boiled Egg",False,0,0,,,"",0,100,0
@@ -4652,6 +4006,8 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262419.46,"Railway Sleepers",False,0,0,,,"",0,100,640
 262419.47,"Smashed Flower Pot",False,0,0,,,"",0,100,640
 262419.48,"Square Stepping Stones",False,0,0,,,"",0,100,710
+262419.49,"East End Tree",False,0,0,,,"",0,100,720
+262419.50,"Hedge-trimmed Flower Bed",False,0,0,,,"",0,100,720
 262420.0,"Brass Bench",False,0,0,,,"",0,100,0
 262420.1,"Glade Placard",False,0,0,,,"",0,100,0
 262420.2,"Glade Thatch Wall",False,0,0,,,"",0,100,0
@@ -4701,6 +4057,8 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262420.46,"Railway Sleepers",False,0,0,,,"",0,100,640
 262420.47,"Smashed Flower Pot",False,0,0,,,"",0,100,640
 262420.48,"Square Stepping Stones",False,0,0,,,"",0,100,710
+262420.49,"East End Tree",False,0,0,,,"",0,100,720
+262420.50,"Hedge-trimmed Flower Bed",False,0,0,,,"",0,100,720
 262421.0,"Brass Bench",False,0,0,,,"",0,100,0
 262421.1,"Oasis Placard",False,0,0,,,"",0,100,0
 262421.2,"Oasis Wooden Wall",False,0,0,,,"",0,100,0
@@ -4750,6 +4108,8 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262421.46,"Railway Sleepers",False,0,0,,,"",0,100,640
 262421.47,"Smashed Flower Pot",False,0,0,,,"",0,100,640
 262421.48,"Square Stepping Stones",False,0,0,,,"",0,100,710
+262421.49,"East End Tree",False,0,0,,,"",0,100,720
+262421.50,"Hedge-trimmed Flower Bed",False,0,0,,,"",0,100,720
 262422.0,"Ash Log",False,0,0,,,"",0,100,0
 262422.1,"Ash Lumber",False,0,0,,,"",0,100,0
 262422.2,"Elm Lumber",False,0,0,,,"",0,100,0
@@ -4805,6 +4165,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262422.52,"Lupin Seeds",False,0,0,,,"",0,100,650
 262422.53,"Garden Sunflower Seeds",False,0,0,,,"",0,100,700
 262422.54,"Cattleya Seeds",False,0,0,,,"",0,100,710
+262422.55,"Paperflower Seeds",False,0,0,,,"",0,100,720
 262423.0,"Usagi Kabuto",False,0,0,,,"",0,100,0
 262423.1,"Silver Usagi Kabuto",False,0,0,,,"",0,100,0
 262423.2,"Black Usagi Kabuto",False,0,0,,,"",0,100,0
@@ -4822,134 +4183,14 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262425.0,"Peach Blossoms",False,0,0,,,"",0,100,0
 262425.1,"Peach Confetti",False,0,0,,,"",0,100,0
 262425.2,"Sweet Rice Cake",False,0,0,,,"",0,100,0
-262426.0,"Bronze Rivets",False,0,0,,,"",0,100,0
-262426.1,"Bronze Plate",False,0,0,,,"",0,100,0
-262426.2,"Iron Ingot",False,0,0,,,"",0,100,0
-262426.3,"Iron Rivets",False,0,0,,,"",0,100,0
-262426.4,"Iron Plate",False,0,0,,,"",0,100,0
-262426.5,"Steel Ingot",False,0,0,,,"",0,100,0
-262426.6,"Steel Rivets",False,0,0,,,"",0,100,0
-262426.7,"Steel Plate",False,0,0,,,"",0,100,0
-262426.8,"Steel Rings",False,0,0,,,"",0,100,0
-262426.9,"Mythril Ingot",False,0,0,,,"",0,100,0
-262426.10,"Mythril Rivets",False,0,0,,,"",0,100,0
-262426.11,"Mythril Rings",False,0,0,,,"",0,100,0
-262427.0,"Bronze Rivets",False,0,0,,,"",0,100,0
-262427.1,"Bronze Plate",False,0,0,,,"",0,100,0
-262427.2,"Iron Ingot",False,0,0,,,"",0,100,0
-262427.3,"Iron Rivets",False,0,0,,,"",0,100,0
-262427.4,"Iron Plate",False,0,0,,,"",0,100,0
-262427.5,"Steel Ingot",False,0,0,,,"",0,100,0
-262427.6,"Steel Rivets",False,0,0,,,"",0,100,0
-262427.7,"Steel Plate",False,0,0,,,"",0,100,0
-262427.8,"Steel Rings",False,0,0,,,"",0,100,0
-262427.9,"Mythril Ingot",False,0,0,,,"",0,100,0
-262427.10,"Mythril Rivets",False,0,0,,,"",0,100,0
-262427.11,"Mythril Rings",False,0,0,,,"",0,100,0
-262427.12,"Coeurl Yellow Dye",False,0,0,,,"",0,100,0
-262427.13,"Seafog Blue Dye",False,0,0,,,"",0,100,0
-262427.14,"Raptor Blue Dye",False,0,0,,,"",0,100,0
-262428.0,"Bronze Rivets",False,0,0,,,"",0,100,0
-262428.1,"Bronze Plate",False,0,0,,,"",0,100,0
-262428.2,"Iron Ingot",False,0,0,,,"",0,100,0
-262428.3,"Iron Rivets",False,0,0,,,"",0,100,0
-262428.4,"Iron Plate",False,0,0,,,"",0,100,0
-262428.5,"Steel Ingot",False,0,0,,,"",0,100,0
-262428.6,"Steel Rivets",False,0,0,,,"",0,100,0
-262428.7,"Steel Plate",False,0,0,,,"",0,100,0
-262428.8,"Steel Rings",False,0,0,,,"",0,100,0
-262428.9,"Mythril Ingot",False,0,0,,,"",0,100,0
-262428.10,"Mythril Rivets",False,0,0,,,"",0,100,0
-262428.11,"Mythril Rings",False,0,0,,,"",0,100,0
-262428.12,"Coeurl Yellow Dye",False,0,0,,,"",0,100,0
-262428.13,"Seafog Blue Dye",False,0,0,,,"",0,100,0
-262428.14,"Raptor Blue Dye",False,0,0,,,"",0,100,0
-262428.15,"Raisin Brown Dye",False,0,0,,,"",0,100,0
-262428.16,"Peacock Blue Dye",False,0,0,,,"",0,100,0
-262428.17,"Currant Purple Dye",False,0,0,,,"",0,100,0
-262429.0,"Bronze Rivets",False,0,0,,,"",0,100,0
-262429.1,"Bronze Plate",False,0,0,,,"",0,100,0
-262429.2,"Iron Ingot",False,0,0,,,"",0,100,0
-262429.3,"Iron Rivets",False,0,0,,,"",0,100,0
-262429.4,"Iron Plate",False,0,0,,,"",0,100,0
-262429.5,"Steel Ingot",False,0,0,,,"",0,100,0
-262429.6,"Steel Rivets",False,0,0,,,"",0,100,0
-262429.7,"Steel Plate",False,0,0,,,"",0,100,0
-262429.8,"Steel Rings",False,0,0,,,"",0,100,0
-262429.9,"Mythril Ingot",False,0,0,,,"",0,100,0
-262429.10,"Mythril Rivets",False,0,0,,,"",0,100,0
-262429.11,"Mythril Rings",False,0,0,,,"",0,100,0
-262429.12,"Coeurl Yellow Dye",False,0,0,,,"",0,100,0
-262429.13,"Seafog Blue Dye",False,0,0,,,"",0,100,0
-262429.14,"Raptor Blue Dye",False,0,0,,,"",0,100,0
-262429.15,"Raisin Brown Dye",False,0,0,,,"",0,100,0
-262429.16,"Peacock Blue Dye",False,0,0,,,"",0,100,0
-262429.17,"Currant Purple Dye",False,0,0,,,"",0,100,0
-262429.18,"Wind-up Amalj'aa",False,0,0,,,"",0,100,0
-262429.19,"Drake Horn",False,0,0,,,"",0,100,0
-262429.20,"Amalj'aa Supply Carriage",False,0,0,,,"",0,100,0
-262429.21,"Amalj'aa Pavis Shield",False,0,0,,,"",0,100,0
-262429.22,"Glamour Dispeller",False,0,0,,,"",0,100,0
-262430.0,"Straw",False,0,0,,,"",0,100,0
-262430.1,"Cotton Yarn",False,0,0,,,"",0,100,0
-262430.2,"Undyed Cotton Cloth",False,0,0,,,"",0,100,0
-262430.3,"Undyed Velveteen",False,0,0,,,"",0,100,0
-262430.4,"Linen Yarn",False,0,0,,,"",0,100,0
-262430.5,"Undyed Linen",False,0,0,,,"",0,100,0
-262430.6,"Crow Feather",False,0,0,,,"",0,100,0
-262430.7,"Wildfowl Feather",False,0,0,,,"",0,100,0
-262431.0,"Straw",False,0,0,,,"",0,100,0
-262431.1,"Cotton Yarn",False,0,0,,,"",0,100,0
-262431.2,"Undyed Cotton Cloth",False,0,0,,,"",0,100,0
-262431.3,"Undyed Velveteen",False,0,0,,,"",0,100,0
-262431.4,"Linen Yarn",False,0,0,,,"",0,100,0
-262431.5,"Undyed Linen",False,0,0,,,"",0,100,0
-262431.6,"Sylphic Silk",False,0,0,,,"",0,100,0
-262431.7,"Crow Feather",False,0,0,,,"",0,100,0
-262431.8,"Wildfowl Feather",False,0,0,,,"",0,100,0
-262431.9,"Aldgoat Brown Dye",False,0,0,,,"",0,100,0
-262431.10,"Shale Brown Dye",False,0,0,,,"",0,100,0
-262431.11,"Lime Green Dye",False,0,0,,,"",0,100,0
-262431.12,"Marsh Green Dye",False,0,0,,,"",0,100,0
-262432.0,"Straw",False,0,0,,,"",0,100,0
-262432.1,"Cotton Yarn",False,0,0,,,"",0,100,0
-262432.2,"Undyed Cotton Cloth",False,0,0,,,"",0,100,0
-262432.3,"Undyed Velveteen",False,0,0,,,"",0,100,0
-262432.4,"Linen Yarn",False,0,0,,,"",0,100,0
-262432.5,"Undyed Linen",False,0,0,,,"",0,100,0
-262432.6,"Sylphic Silk",False,0,0,,,"",0,100,0
-262432.7,"Crow Feather",False,0,0,,,"",0,100,0
-262432.8,"Wildfowl Feather",False,0,0,,,"",0,100,0
-262432.9,"Aldgoat Brown Dye",False,0,0,,,"",0,100,0
-262432.10,"Shale Brown Dye",False,0,0,,,"",0,100,0
-262432.11,"Lime Green Dye",False,0,0,,,"",0,100,0
-262432.12,"Marsh Green Dye",False,0,0,,,"",0,100,0
-262432.13,"Qiqirn Brown Dye",False,0,0,,,"",0,100,0
-262432.14,"Acorn Brown Dye",False,0,0,,,"",0,100,0
-262432.15,"Cactuar Green Dye",False,0,0,,,"",0,100,0
-262432.16,"Turquoise Green Dye",False,0,0,,,"",0,100,0
-262433.0,"Straw",False,0,0,,,"",0,100,0
-262433.1,"Cotton Yarn",False,0,0,,,"",0,100,0
-262433.2,"Undyed Cotton Cloth",False,0,0,,,"",0,100,0
-262433.3,"Undyed Velveteen",False,0,0,,,"",0,100,0
-262433.4,"Linen Yarn",False,0,0,,,"",0,100,0
-262433.5,"Undyed Linen",False,0,0,,,"",0,100,0
-262433.6,"Sylphic Silk",False,0,0,,,"",0,100,0
-262433.7,"Crow Feather",False,0,0,,,"",0,100,0
-262433.8,"Wildfowl Feather",False,0,0,,,"",0,100,0
-262433.9,"Aldgoat Brown Dye",False,0,0,,,"",0,100,0
-262433.10,"Shale Brown Dye",False,0,0,,,"",0,100,0
-262433.11,"Lime Green Dye",False,0,0,,,"",0,100,0
-262433.12,"Marsh Green Dye",False,0,0,,,"",0,100,0
-262433.13,"Qiqirn Brown Dye",False,0,0,,,"",0,100,0
-262433.14,"Acorn Brown Dye",False,0,0,,,"",0,100,0
-262433.15,"Cactuar Green Dye",False,0,0,,,"",0,100,0
-262433.16,"Turquoise Green Dye",False,0,0,,,"",0,100,0
-262433.17,"Wind-up Sylph",False,0,0,,,"",0,100,0
-262433.18,"Laurel Goobbue Horn",False,0,0,,,"",0,100,0
-262433.19,"Sylphic Lamp Tree",False,0,0,,,"",0,100,0
-262433.20,"Sylphic Lamppost",False,0,0,,,"",0,100,0
-262433.21,"Glamour Dispeller",False,0,0,,,"",0,100,0
+262426.0,"Potion",False,0,0,,,"",0,100,0
+262427.0,"Potion",False,0,0,,,"",0,100,0
+262428.0,"Potion",False,0,0,,,"",0,100,0
+262429.0,"Potion",False,0,0,,,"",0,100,0
+262430.0,"Potion",False,0,0,,,"",0,100,0
+262431.0,"Potion",False,0,0,,,"",0,100,0
+262432.0,"Potion",False,0,0,,,"",0,100,0
+262433.0,"Potion",False,0,0,,,"",0,100,0
 262434.0,"Riviera Cottage Permit (Wood)",False,0,0,,,"",0,100,0
 262434.1,"Riviera Cottage Permit (Composite)",False,0,0,,,"",0,100,0
 262434.2,"Riviera Cottage Permit (Stone)",False,0,0,,,"",0,100,0
@@ -5213,134 +4454,14 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262450.52,"Kupo Crown",False,0,0,,,"Let Luck Be a Moogle I",0,100,520
 262450.53,"Bozjan Earring",False,0,0,,,"Lost and Found IV",0,100,530
 262450.54,"Migratory Plume",False,0,0,,,"A Life of Adventure V",0,100,600
-262451.0,"Aldgoat Horn",False,0,0,,,"",0,100,0
-262451.1,"Quicksilver",False,0,0,,,"",0,100,0
-262451.2,"Beastkin Blood",False,0,0,,,"",0,100,0
-262451.3,"Scalekin Blood",False,0,0,,,"",0,100,0
-262451.4,"Jellyfish Umbrella",False,0,0,,,"",0,100,0
-262451.5,"Bomb Ash",False,0,0,,,"",0,100,0
-262451.6,"Blue Landtrap Leaf",False,0,0,,,"",0,100,0
-262451.7,"Morbol Vine",False,0,0,,,"",0,100,0
-262451.8,"Vitriol",False,0,0,,,"",0,100,0
-262451.9,"Cloves",False,0,0,,,"",0,100,0
-262451.10,"Coral Butterfly",False,0,0,,,"",0,100,0
-262452.0,"Aldgoat Horn",False,0,0,,,"",0,100,0
-262452.1,"Quicksilver",False,0,0,,,"",0,100,0
-262452.2,"Beastkin Blood",False,0,0,,,"",0,100,0
-262452.3,"Scalekin Blood",False,0,0,,,"",0,100,0
-262452.4,"Jellyfish Umbrella",False,0,0,,,"",0,100,0
-262452.5,"Bomb Ash",False,0,0,,,"",0,100,0
-262452.6,"Blue Landtrap Leaf",False,0,0,,,"",0,100,0
-262452.7,"Morbol Vine",False,0,0,,,"",0,100,0
-262452.8,"Vitriol",False,0,0,,,"",0,100,0
-262452.9,"Cloves",False,0,0,,,"",0,100,0
-262452.10,"Coral Butterfly",False,0,0,,,"",0,100,0
-262452.11,"Sylph Green Dye",False,0,0,,,"",0,100,0
-262452.12,"Meadow Green Dye",False,0,0,,,"",0,100,0
-262452.13,"Ul Brown Dye",False,0,0,,,"",0,100,0
-262453.0,"Aldgoat Horn",False,0,0,,,"",0,100,0
-262453.1,"Quicksilver",False,0,0,,,"",0,100,0
-262453.2,"Beastkin Blood",False,0,0,,,"",0,100,0
-262453.3,"Scalekin Blood",False,0,0,,,"",0,100,0
-262453.4,"Jellyfish Umbrella",False,0,0,,,"",0,100,0
-262453.5,"Bomb Ash",False,0,0,,,"",0,100,0
-262453.6,"Blue Landtrap Leaf",False,0,0,,,"",0,100,0
-262453.7,"Morbol Vine",False,0,0,,,"",0,100,0
-262453.8,"Vitriol",False,0,0,,,"",0,100,0
-262453.9,"Cloves",False,0,0,,,"",0,100,0
-262453.10,"Coral Butterfly",False,0,0,,,"",0,100,0
-262453.11,"Sylph Green Dye",False,0,0,,,"",0,100,0
-262453.12,"Meadow Green Dye",False,0,0,,,"",0,100,0
-262453.13,"Ul Brown Dye",False,0,0,,,"",0,100,0
-262453.14,"Cork Brown Dye",False,0,0,,,"",0,100,0
-262453.15,"Gobbiebag Brown Dye",False,0,0,,,"",0,100,0
-262453.16,"Apple Green Dye",False,0,0,,,"",0,100,0
-262453.17,"Adamantoise Green Dye",False,0,0,,,"",0,100,0
-262454.0,"Aldgoat Horn",False,0,0,,,"",0,100,0
-262454.1,"Quicksilver",False,0,0,,,"",0,100,0
-262454.2,"Beastkin Blood",False,0,0,,,"",0,100,0
-262454.3,"Scalekin Blood",False,0,0,,,"",0,100,0
-262454.4,"Jellyfish Umbrella",False,0,0,,,"",0,100,0
-262454.5,"Bomb Ash",False,0,0,,,"",0,100,0
-262454.6,"Blue Landtrap Leaf",False,0,0,,,"",0,100,0
-262454.7,"Morbol Vine",False,0,0,,,"",0,100,0
-262454.8,"Vitriol",False,0,0,,,"",0,100,0
-262454.9,"Cloves",False,0,0,,,"",0,100,0
-262454.10,"Coral Butterfly",False,0,0,,,"",0,100,0
-262454.11,"Sylph Green Dye",False,0,0,,,"",0,100,0
-262454.12,"Meadow Green Dye",False,0,0,,,"",0,100,0
-262454.13,"Ul Brown Dye",False,0,0,,,"",0,100,0
-262454.14,"Cork Brown Dye",False,0,0,,,"",0,100,0
-262454.15,"Gobbiebag Brown Dye",False,0,0,,,"",0,100,0
-262454.16,"Apple Green Dye",False,0,0,,,"",0,100,0
-262454.17,"Adamantoise Green Dye",False,0,0,,,"",0,100,0
-262454.18,"Wind-up Kobold",False,0,0,,,"",0,100,0
-262454.19,"Bomb Palanquin Horn",False,0,0,,,"",0,100,0
-262454.20,"Automaton Digger",False,0,0,,,"",0,100,0
-262454.21,"Kobold Furnace",False,0,0,,,"",0,100,0
-262454.22,"Glamour Dispeller",False,0,0,,,"",0,100,0
-262455.0,"Table Salt",False,0,0,,,"",0,100,0
-262455.1,"Cinnamon",False,0,0,,,"",0,100,0
-262455.2,"Garlean Garlic",False,0,0,,,"",0,100,0
-262455.3,"Smooth Butter",False,0,0,,,"",0,100,0
-262455.4,"Sunset Wheat Flour",False,0,0,,,"",0,100,0
-262455.5,"Olive Oil",False,0,0,,,"",0,100,0
-262455.6,"Black Pepper",False,0,0,,,"",0,100,0
-262455.7,"Sun Lemon",False,0,0,,,"",0,100,0
-262455.8,"Night Milk",False,0,0,,,"",0,100,0
-262455.9,"Midland Basil",False,0,0,,,"",0,100,0
-262456.0,"Table Salt",False,0,0,,,"",0,100,0
-262456.1,"Cinnamon",False,0,0,,,"",0,100,0
-262456.2,"Garlean Garlic",False,0,0,,,"",0,100,0
-262456.3,"Smooth Butter",False,0,0,,,"",0,100,0
-262456.4,"Sunset Wheat Flour",False,0,0,,,"",0,100,0
-262456.5,"Olive Oil",False,0,0,,,"",0,100,0
-262456.6,"Black Pepper",False,0,0,,,"",0,100,0
-262456.7,"Sun Lemon",False,0,0,,,"",0,100,0
-262456.8,"Night Milk",False,0,0,,,"",0,100,0
-262456.9,"Midland Basil",False,0,0,,,"",0,100,0
-262456.10,"Lilac Purple Dye",False,0,0,,,"",0,100,0
-262456.11,"Corpse Blue Dye",False,0,0,,,"",0,100,0
-262456.12,"Lavender Purple Dye",False,0,0,,,"",0,100,0
-262457.0,"Table Salt",False,0,0,,,"",0,100,0
-262457.1,"Cinnamon",False,0,0,,,"",0,100,0
-262457.2,"Garlean Garlic",False,0,0,,,"",0,100,0
-262457.3,"Smooth Butter",False,0,0,,,"",0,100,0
-262457.4,"Sunset Wheat Flour",False,0,0,,,"",0,100,0
-262457.5,"Olive Oil",False,0,0,,,"",0,100,0
-262457.6,"Black Pepper",False,0,0,,,"",0,100,0
-262457.7,"Sun Lemon",False,0,0,,,"",0,100,0
-262457.8,"Night Milk",False,0,0,,,"",0,100,0
-262457.9,"Midland Basil",False,0,0,,,"",0,100,0
-262457.10,"Lilac Purple Dye",False,0,0,,,"",0,100,0
-262457.11,"Corpse Blue Dye",False,0,0,,,"",0,100,0
-262457.12,"Lavender Purple Dye",False,0,0,,,"",0,100,0
-262457.13,"Coral Pink Dye",False,0,0,,,"",0,100,0
-262457.14,"Rhotano Blue Dye",False,0,0,,,"",0,100,0
-262457.15,"Shadow Blue Dye",False,0,0,,,"",0,100,0
-262457.16,"Iris Purple Dye",False,0,0,,,"",0,100,0
-262458.0,"Table Salt",False,0,0,,,"",0,100,0
-262458.1,"Cinnamon",False,0,0,,,"",0,100,0
-262458.2,"Garlean Garlic",False,0,0,,,"",0,100,0
-262458.3,"Smooth Butter",False,0,0,,,"",0,100,0
-262458.4,"Sunset Wheat Flour",False,0,0,,,"",0,100,0
-262458.5,"Olive Oil",False,0,0,,,"",0,100,0
-262458.6,"Black Pepper",False,0,0,,,"",0,100,0
-262458.7,"Sun Lemon",False,0,0,,,"",0,100,0
-262458.8,"Night Milk",False,0,0,,,"",0,100,0
-262458.9,"Midland Basil",False,0,0,,,"",0,100,0
-262458.10,"Lilac Purple Dye",False,0,0,,,"",0,100,0
-262458.11,"Corpse Blue Dye",False,0,0,,,"",0,100,0
-262458.12,"Lavender Purple Dye",False,0,0,,,"",0,100,0
-262458.13,"Coral Pink Dye",False,0,0,,,"",0,100,0
-262458.14,"Rhotano Blue Dye",False,0,0,,,"",0,100,0
-262458.15,"Shadow Blue Dye",False,0,0,,,"",0,100,0
-262458.16,"Iris Purple Dye",False,0,0,,,"",0,100,0
-262458.17,"Wind-up Sahagin",False,0,0,,,"",0,100,0
-262458.18,"Elbst Horn",False,0,0,,,"",0,100,0
-262458.19,"Sahagin Living Lamp",False,0,0,,,"",0,100,0
-262458.20,"Sahagin Hanging Larder",False,0,0,,,"",0,100,0
-262458.21,"Glamour Dispeller",False,0,0,,,"",0,100,0
+262451.0,"Potion",False,0,0,,,"",0,100,0
+262452.0,"Potion",False,0,0,,,"",0,100,0
+262453.0,"Potion",False,0,0,,,"",0,100,0
+262454.0,"Potion",False,0,0,,,"",0,100,0
+262455.0,"Potion",False,0,0,,,"",0,100,0
+262456.0,"Potion",False,0,0,,,"",0,100,0
+262457.0,"Potion",False,0,0,,,"",0,100,0
+262458.0,"Potion",False,0,0,,,"",0,100,0
 262459.0,"Master Carpenter: Glamours",False,0,0,,,"",0,100,0
 262459.1,"Master Blacksmith: Glamours",False,0,0,,,"",0,100,0
 262459.2,"Master Armorer: Glamours",False,0,0,,,"",0,100,0
@@ -5491,18 +4612,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262464.15,"Allagan Repair Node Permit",False,0,0,,,"",0,100,420
 262464.16,"Allagan Housekeeping Node Permit",False,0,0,,,"",0,100,420
 262464.17,"Journeyman Salvager Permit",False,0,0,,,"",0,100,430
-262466.0,"Orange Juice",False,0,0,,,"",0,100,0
-262466.1,"Grilled Carp",False,0,0,,,"",0,100,0
-262466.2,"Dodo Omelette",False,0,0,,,"",0,100,0
-262466.3,"Pearl Chocolate",False,0,0,,,"",0,100,0
-262466.4,"Meat Miq'abob",False,0,0,,,"",0,100,0
-262466.5,"Chicken and Mushrooms",False,0,0,,,"",0,100,0
-262466.6,"Mashed Popotoes",False,0,0,,,"",0,100,0
-262466.7,"Raw Oyster",False,0,0,,,"",0,100,0
-262466.8,"Stone Soup",False,0,0,,,"",0,100,0
-262466.9,"Roasted Nopales",False,0,0,,,"",0,100,0
-262466.10,"Lentils and Chestnuts",False,0,0,,,"",0,100,0
-262466.11,"Blue Cheese",False,0,0,,,"",0,100,0
+262466.0,"Potion",False,0,0,,,"",0,100,0
 262468.0,"Storm Tracer",False,0,0,,,"",0,100,0
 262468.1,"Flame Tracer",False,0,0,,,"",0,100,0
 262468.2,"Serpent Tracer",False,0,0,,,"",0,100,0
@@ -5605,219 +4715,18 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262472.31,"Lominsan Anchovy",False,0,0,,,"",0,100,0
 262472.32,"Young Dodo Roaster",False,0,0,,,"",0,100,0
 262472.33,"Dodo Stuffing",False,0,0,,,"",0,100,0
-262473.0,"Ehcatl Wristgloves",False,0,0,,,"",0,100,0
-262473.1,"Maple Lumber",False,0,0,,,"",0,100,0
-262473.2,"Maple Branch",False,0,0,,,"",0,100,0
-262473.3,"Ash Lumber",False,0,0,,,"",0,100,0
-262473.4,"Ash Branch",False,0,0,,,"",0,100,0
-262473.5,"Elm Lumber",False,0,0,,,"",0,100,0
-262473.6,"Yew Lumber",False,0,0,,,"",0,100,0
-262473.7,"Yew Branch",False,0,0,,,"",0,100,0
-262474.0,"Ehcatl Wristgloves",False,0,0,,,"",0,100,0
-262474.1,"Maple Lumber",False,0,0,,,"",0,100,0
-262474.2,"Maple Branch",False,0,0,,,"",0,100,0
-262474.3,"Ash Lumber",False,0,0,,,"",0,100,0
-262474.4,"Ash Branch",False,0,0,,,"",0,100,0
-262474.5,"Elm Lumber",False,0,0,,,"",0,100,0
-262474.6,"Yew Lumber",False,0,0,,,"",0,100,0
-262474.7,"Yew Branch",False,0,0,,,"",0,100,0
-262475.0,"Ehcatl Wristgloves",False,0,0,,,"",0,100,0
-262475.1,"Maple Lumber",False,0,0,,,"",0,100,0
-262475.2,"Maple Branch",False,0,0,,,"",0,100,0
-262475.3,"Ash Lumber",False,0,0,,,"",0,100,0
-262475.4,"Ash Branch",False,0,0,,,"",0,100,0
-262475.5,"Elm Lumber",False,0,0,,,"",0,100,0
-262475.6,"Yew Lumber",False,0,0,,,"",0,100,0
-262475.7,"Yew Branch",False,0,0,,,"",0,100,0
-262475.8,"Walnut Lumber",False,0,0,,,"",0,100,0
-262475.9,"Oak Lumber",False,0,0,,,"",0,100,0
-262475.10,"Oak Branch",False,0,0,,,"",0,100,0
-262475.11,"Hunter Green Dye",False,0,0,,,"",0,100,0
-262475.12,"Morbol Green Dye",False,0,0,,,"",0,100,0
-262475.13,"Royal Blue Dye",False,0,0,,,"",0,100,0
-262476.0,"Ehcatl Wristgloves",False,0,0,,,"",0,100,0
-262476.1,"Maple Lumber",False,0,0,,,"",0,100,0
-262476.2,"Maple Branch",False,0,0,,,"",0,100,0
-262476.3,"Ash Lumber",False,0,0,,,"",0,100,0
-262476.4,"Ash Branch",False,0,0,,,"",0,100,0
-262476.5,"Elm Lumber",False,0,0,,,"",0,100,0
-262476.6,"Yew Lumber",False,0,0,,,"",0,100,0
-262476.7,"Yew Branch",False,0,0,,,"",0,100,0
-262476.8,"Walnut Lumber",False,0,0,,,"",0,100,0
-262476.9,"Oak Lumber",False,0,0,,,"",0,100,0
-262476.10,"Oak Branch",False,0,0,,,"",0,100,0
-262476.11,"Hunter Green Dye",False,0,0,,,"",0,100,0
-262476.12,"Morbol Green Dye",False,0,0,,,"",0,100,0
-262476.13,"Royal Blue Dye",False,0,0,,,"",0,100,0
-262477.0,"Ehcatl Wristgloves",False,0,0,,,"",0,100,0
-262477.1,"Maple Lumber",False,0,0,,,"",0,100,0
-262477.2,"Maple Branch",False,0,0,,,"",0,100,0
-262477.3,"Ash Lumber",False,0,0,,,"",0,100,0
-262477.4,"Ash Branch",False,0,0,,,"",0,100,0
-262477.5,"Elm Lumber",False,0,0,,,"",0,100,0
-262477.6,"Yew Lumber",False,0,0,,,"",0,100,0
-262477.7,"Yew Branch",False,0,0,,,"",0,100,0
-262477.8,"Walnut Lumber",False,0,0,,,"",0,100,0
-262477.9,"Oak Lumber",False,0,0,,,"",0,100,0
-262477.10,"Oak Branch",False,0,0,,,"",0,100,0
-262477.11,"Hunter Green Dye",False,0,0,,,"",0,100,0
-262477.12,"Morbol Green Dye",False,0,0,,,"",0,100,0
-262477.13,"Royal Blue Dye",False,0,0,,,"",0,100,0
-262477.14,"Snow White Dye",False,0,0,,,"",0,100,0
-262477.15,"Soot Black Dye",False,0,0,,,"",0,100,0
-262478.0,"Ehcatl Wristgloves",False,0,0,,,"",0,100,0
-262478.1,"Maple Lumber",False,0,0,,,"",0,100,0
-262478.2,"Maple Branch",False,0,0,,,"",0,100,0
-262478.3,"Ash Lumber",False,0,0,,,"",0,100,0
-262478.4,"Ash Branch",False,0,0,,,"",0,100,0
-262478.5,"Elm Lumber",False,0,0,,,"",0,100,0
-262478.6,"Yew Lumber",False,0,0,,,"",0,100,0
-262478.7,"Yew Branch",False,0,0,,,"",0,100,0
-262478.8,"Walnut Lumber",False,0,0,,,"",0,100,0
-262478.9,"Oak Lumber",False,0,0,,,"",0,100,0
-262478.10,"Oak Branch",False,0,0,,,"",0,100,0
-262478.11,"Hunter Green Dye",False,0,0,,,"",0,100,0
-262478.12,"Morbol Green Dye",False,0,0,,,"",0,100,0
-262478.13,"Royal Blue Dye",False,0,0,,,"",0,100,0
-262478.14,"Snow White Dye",False,0,0,,,"",0,100,0
-262478.15,"Soot Black Dye",False,0,0,,,"",0,100,0
-262479.0,"Ehcatl Wristgloves",False,0,0,,,"",0,100,0
-262479.1,"Maple Lumber",False,0,0,,,"",0,100,0
-262479.2,"Maple Branch",False,0,0,,,"",0,100,0
-262479.3,"Ash Lumber",False,0,0,,,"",0,100,0
-262479.4,"Ash Branch",False,0,0,,,"",0,100,0
-262479.5,"Elm Lumber",False,0,0,,,"",0,100,0
-262479.6,"Yew Lumber",False,0,0,,,"",0,100,0
-262479.7,"Yew Branch",False,0,0,,,"",0,100,0
-262479.8,"Walnut Lumber",False,0,0,,,"",0,100,0
-262479.9,"Oak Lumber",False,0,0,,,"",0,100,0
-262479.10,"Oak Branch",False,0,0,,,"",0,100,0
-262479.11,"Hunter Green Dye",False,0,0,,,"",0,100,0
-262479.12,"Morbol Green Dye",False,0,0,,,"",0,100,0
-262479.13,"Royal Blue Dye",False,0,0,,,"",0,100,0
-262479.14,"Snow White Dye",False,0,0,,,"",0,100,0
-262479.15,"Soot Black Dye",False,0,0,,,"",0,100,0
-262479.16,"Glamour Dispeller",False,0,0,,,"",0,100,0
-262479.17,"Wind-up Ixal",False,0,0,,,"",0,100,0
-262479.18,"Direwolf Whistle",False,0,0,,,"",0,100,0
-262479.19,"Ixali Shelter",False,0,0,,,"",0,100,0
-262479.20,"Ixali Banner",False,0,0,,,"",0,100,0
-262480.0,"Ehcatl Wristgloves",False,0,0,,,"",0,100,0
-262480.1,"Maple Lumber",False,0,0,,,"",0,100,0
-262480.2,"Maple Branch",False,0,0,,,"",0,100,0
-262480.3,"Ash Lumber",False,0,0,,,"",0,100,0
-262480.4,"Ash Branch",False,0,0,,,"",0,100,0
-262480.5,"Elm Lumber",False,0,0,,,"",0,100,0
-262480.6,"Yew Lumber",False,0,0,,,"",0,100,0
-262480.7,"Yew Branch",False,0,0,,,"",0,100,0
-262480.8,"Walnut Lumber",False,0,0,,,"",0,100,0
-262480.9,"Oak Lumber",False,0,0,,,"",0,100,0
-262480.10,"Oak Branch",False,0,0,,,"",0,100,0
-262480.11,"Hunter Green Dye",False,0,0,,,"",0,100,0
-262480.12,"Morbol Green Dye",False,0,0,,,"",0,100,0
-262480.13,"Royal Blue Dye",False,0,0,,,"",0,100,0
-262480.14,"Snow White Dye",False,0,0,,,"",0,100,0
-262480.15,"Soot Black Dye",False,0,0,,,"",0,100,0
-262480.16,"Glamour Dispeller",False,0,0,,,"",0,100,0
-262480.17,"Wind-up Ixal",False,0,0,,,"",0,100,0
-262480.18,"Direwolf Whistle",False,0,0,,,"",0,100,0
-262480.19,"Ixali Shelter",False,0,0,,,"",0,100,0
-262480.20,"Ixali Banner",False,0,0,,,"",0,100,0
-262480.21,"Wind-up Dezul Qualan",False,0,0,,,"",0,100,0
-262481.0,"Bronze Rivets",False,0,0,,,"",0,100,0
-262481.1,"Bronze Plate",False,0,0,,,"",0,100,0
-262481.2,"Iron Ingot",False,0,0,,,"",0,100,0
-262481.3,"Iron Rivets",False,0,0,,,"",0,100,0
-262481.4,"Iron Plate",False,0,0,,,"",0,100,0
-262481.5,"Steel Ingot",False,0,0,,,"",0,100,0
-262481.6,"Steel Rivets",False,0,0,,,"",0,100,0
-262481.7,"Steel Plate",False,0,0,,,"",0,100,0
-262481.8,"Steel Rings",False,0,0,,,"",0,100,0
-262481.9,"Mythril Ingot",False,0,0,,,"",0,100,0
-262481.10,"Mythril Rivets",False,0,0,,,"",0,100,0
-262481.11,"Mythril Rings",False,0,0,,,"",0,100,0
-262481.12,"Coeurl Yellow Dye",False,0,0,,,"",0,100,0
-262481.13,"Seafog Blue Dye",False,0,0,,,"",0,100,0
-262481.14,"Raptor Blue Dye",False,0,0,,,"",0,100,0
-262481.15,"Raisin Brown Dye",False,0,0,,,"",0,100,0
-262481.16,"Peacock Blue Dye",False,0,0,,,"",0,100,0
-262481.17,"Currant Purple Dye",False,0,0,,,"",0,100,0
-262481.18,"Wind-up Amalj'aa",False,0,0,,,"",0,100,0
-262481.19,"Drake Horn",False,0,0,,,"",0,100,0
-262481.20,"Amalj'aa Supply Carriage",False,0,0,,,"",0,100,0
-262481.21,"Amalj'aa Pavis Shield",False,0,0,,,"",0,100,0
-262481.22,"Glamour Dispeller",False,0,0,,,"",0,100,0
-262481.23,"Wind-up Founder",False,0,0,,,"",0,100,0
-262482.0,"Straw",False,0,0,,,"",0,100,0
-262482.1,"Cotton Yarn",False,0,0,,,"",0,100,0
-262482.2,"Undyed Cotton Cloth",False,0,0,,,"",0,100,0
-262482.3,"Undyed Velveteen",False,0,0,,,"",0,100,0
-262482.4,"Linen Yarn",False,0,0,,,"",0,100,0
-262482.5,"Undyed Linen",False,0,0,,,"",0,100,0
-262482.6,"Sylphic Silk",False,0,0,,,"",0,100,0
-262482.7,"Crow Feather",False,0,0,,,"",0,100,0
-262482.8,"Wildfowl Feather",False,0,0,,,"",0,100,0
-262482.9,"Aldgoat Brown Dye",False,0,0,,,"",0,100,0
-262482.10,"Shale Brown Dye",False,0,0,,,"",0,100,0
-262482.11,"Lime Green Dye",False,0,0,,,"",0,100,0
-262482.12,"Marsh Green Dye",False,0,0,,,"",0,100,0
-262482.13,"Qiqirn Brown Dye",False,0,0,,,"",0,100,0
-262482.14,"Acorn Brown Dye",False,0,0,,,"",0,100,0
-262482.15,"Cactuar Green Dye",False,0,0,,,"",0,100,0
-262482.16,"Turquoise Green Dye",False,0,0,,,"",0,100,0
-262482.17,"Wind-up Sylph",False,0,0,,,"",0,100,0
-262482.18,"Laurel Goobbue Horn",False,0,0,,,"",0,100,0
-262482.19,"Sylphic Lamp Tree",False,0,0,,,"",0,100,0
-262482.20,"Sylphic Lamppost",False,0,0,,,"",0,100,0
-262482.21,"Glamour Dispeller",False,0,0,,,"",0,100,0
-262482.22,"Wind-up Violet",False,0,0,,,"",0,100,0
-262483.0,"Aldgoat Horn",False,0,0,,,"",0,100,0
-262483.1,"Quicksilver",False,0,0,,,"",0,100,0
-262483.2,"Beastkin Blood",False,0,0,,,"",0,100,0
-262483.3,"Scalekin Blood",False,0,0,,,"",0,100,0
-262483.4,"Jellyfish Umbrella",False,0,0,,,"",0,100,0
-262483.5,"Bomb Ash",False,0,0,,,"",0,100,0
-262483.6,"Blue Landtrap Leaf",False,0,0,,,"",0,100,0
-262483.7,"Morbol Vine",False,0,0,,,"",0,100,0
-262483.8,"Vitriol",False,0,0,,,"",0,100,0
-262483.9,"Cloves",False,0,0,,,"",0,100,0
-262483.10,"Coral Butterfly",False,0,0,,,"",0,100,0
-262483.11,"Sylph Green Dye",False,0,0,,,"",0,100,0
-262483.12,"Meadow Green Dye",False,0,0,,,"",0,100,0
-262483.13,"Ul Brown Dye",False,0,0,,,"",0,100,0
-262483.14,"Cork Brown Dye",False,0,0,,,"",0,100,0
-262483.15,"Gobbiebag Brown Dye",False,0,0,,,"",0,100,0
-262483.16,"Apple Green Dye",False,0,0,,,"",0,100,0
-262483.17,"Adamantoise Green Dye",False,0,0,,,"",0,100,0
-262483.18,"Wind-up Kobold",False,0,0,,,"",0,100,0
-262483.19,"Bomb Palanquin Horn",False,0,0,,,"",0,100,0
-262483.20,"Automaton Digger",False,0,0,,,"",0,100,0
-262483.21,"Kobold Furnace",False,0,0,,,"",0,100,0
-262483.22,"Glamour Dispeller",False,0,0,,,"",0,100,0
-262483.23,"Wind-up Kobolder",False,0,0,,,"",0,100,0
-262484.0,"Table Salt",False,0,0,,,"",0,100,0
-262484.1,"Cinnamon",False,0,0,,,"",0,100,0
-262484.2,"Garlean Garlic",False,0,0,,,"",0,100,0
-262484.3,"Smooth Butter",False,0,0,,,"",0,100,0
-262484.4,"Sunset Wheat Flour",False,0,0,,,"",0,100,0
-262484.5,"Olive Oil",False,0,0,,,"",0,100,0
-262484.6,"Black Pepper",False,0,0,,,"",0,100,0
-262484.7,"Sun Lemon",False,0,0,,,"",0,100,0
-262484.8,"Night Milk",False,0,0,,,"",0,100,0
-262484.9,"Midland Basil",False,0,0,,,"",0,100,0
-262484.10,"Lilac Purple Dye",False,0,0,,,"",0,100,0
-262484.11,"Corpse Blue Dye",False,0,0,,,"",0,100,0
-262484.12,"Lavender Purple Dye",False,0,0,,,"",0,100,0
-262484.13,"Coral Pink Dye",False,0,0,,,"",0,100,0
-262484.14,"Rhotano Blue Dye",False,0,0,,,"",0,100,0
-262484.15,"Shadow Blue Dye",False,0,0,,,"",0,100,0
-262484.16,"Iris Purple Dye",False,0,0,,,"",0,100,0
-262484.17,"Wind-up Sahagin",False,0,0,,,"",0,100,0
-262484.18,"Elbst Horn",False,0,0,,,"",0,100,0
-262484.19,"Sahagin Living Lamp",False,0,0,,,"",0,100,0
-262484.20,"Sahagin Hanging Larder",False,0,0,,,"",0,100,0
-262484.21,"Glamour Dispeller",False,0,0,,,"",0,100,0
-262484.22,"Wind-up Sea Devil",False,0,0,,,"",0,100,0
+262473.0,"Potion",False,0,0,,,"",0,100,0
+262474.0,"Potion",False,0,0,,,"",0,100,0
+262475.0,"Potion",False,0,0,,,"",0,100,0
+262476.0,"Potion",False,0,0,,,"",0,100,0
+262477.0,"Potion",False,0,0,,,"",0,100,0
+262478.0,"Potion",False,0,0,,,"",0,100,0
+262479.0,"Potion",False,0,0,,,"",0,100,0
+262480.0,"Potion",False,0,0,,,"",0,100,0
+262481.0,"Potion",False,0,0,,,"",0,100,0
+262482.0,"Potion",False,0,0,,,"",0,100,0
+262483.0,"Potion",False,0,0,,,"",0,100,0
+262484.0,"Potion",False,0,0,,,"",0,100,0
 262485.0,"King Slime Crown",False,0,0,,,"",0,100,0
 262486.0,"Magicked Prism (Petals)",False,0,0,,,"",0,100,0
 262486.1,"Magicked Prism (Bubbles)",False,0,0,,,"",0,100,0
@@ -6012,26 +4921,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262507.5,"Holy Shield Nexus Replica",False,0,0,,,"",0,100,0
 262507.6,"Aegis Shield Replica",False,0,0,,,"",0,100,0
 262507.7,"Aegis Shield Zeta Replica",False,0,0,,,"",0,100,0
-262508.0,"Mythrite Earrings of Fending",False,0,0,,,"",0,100,0
-262508.1,"Mythrite Earrings of Slaying",False,0,0,,,"",0,100,0
-262508.2,"Mythrite Earrings of Aiming",False,0,0,,,"",0,100,0
-262508.3,"Mythrite Earrings of Casting",False,0,0,,,"",0,100,0
-262508.4,"Mythrite Earrings of Healing",False,0,0,,,"",0,100,0
-262508.5,"Rainbow Ribbon of Fending",False,0,0,,,"",0,100,0
-262508.6,"Rainbow Ribbon of Slaying",False,0,0,,,"",0,100,0
-262508.7,"Rainbow Ribbon of Aiming",False,0,0,,,"",0,100,0
-262508.8,"Rainbow Ribbon of Casting",False,0,0,,,"",0,100,0
-262508.9,"Rainbow Ribbon of Healing",False,0,0,,,"",0,100,0
-262508.10,"Mythrite Bangle of Fending",False,0,0,,,"",0,100,0
-262508.11,"Mythrite Bangle of Slaying",False,0,0,,,"",0,100,0
-262508.12,"Mythrite Bangle of Aiming",False,0,0,,,"",0,100,0
-262508.13,"Mythrite Bangle of Casting",False,0,0,,,"",0,100,0
-262508.14,"Mythrite Bangle of Healing",False,0,0,,,"",0,100,0
-262508.15,"Agate Ring of Fending",False,0,0,,,"",0,100,0
-262508.16,"Agate Ring of Slaying",False,0,0,,,"",0,100,0
-262508.17,"Agate Ring of Aiming",False,0,0,,,"",0,100,0
-262508.18,"Agate Ring of Casting",False,0,0,,,"",0,100,0
-262508.19,"Agate Ring of Healing",False,0,0,,,"",0,100,0
+262508.0,"Potion",False,0,0,,,"",0,100,0
 262509.0,"Coerthan Tea Leaves",False,0,0,,,"",0,100,0
 262509.1,"Dravanian Mistletoe",False,0,0,,,"",0,100,0
 262509.2,"Abalathian Rock Salt",False,0,0,,,"",0,100,0
@@ -6072,52 +4962,9 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262509.37,"Chicken Egg",False,0,0,,,"",0,100,0
 262509.38,"Mineral Water",False,0,0,,,"",0,100,0
 262509.39,"Tallow Candle",False,0,0,,,"",0,100,0
-262510.0,"Mythrite Sallet of Fending",False,0,0,,,"",0,100,0
-262510.1,"Mythrite Sallet of Maiming",False,0,0,,,"",0,100,0
-262510.2,"Mythrite Circlet of Striking",False,0,0,,,"",0,100,0
-262510.3,"Rainbow Cap of Aiming",False,0,0,,,"",0,100,0
-262510.4,"Rainbow Coif of Scouting",False,0,0,,,"",0,100,0
-262510.5,"Mythrite Hauberk of Fending",False,0,0,,,"",0,100,0
-262510.6,"Mythrite Hauberk of Maiming",False,0,0,,,"",0,100,0
-262510.7,"Rainbow Bolero of Striking",False,0,0,,,"",0,100,0
-262510.8,"Rainbow Robe of Aiming",False,0,0,,,"",0,100,0
-262510.9,"Rainbow Shirt of Scouting",False,0,0,,,"",0,100,0
-262510.10,"Mythrite Gauntlets of Fending",False,0,0,,,"",0,100,0
-262510.11,"Mythrite Gauntlets of Maiming",False,0,0,,,"",0,100,0
-262510.12,"Archaeoskin Gloves of Striking",False,0,0,,,"",0,100,0
-262510.13,"Archaeoskin Gloves of Aiming",False,0,0,,,"",0,100,0
-262510.14,"Rainbow Halfgloves of Scouting",False,0,0,,,"",0,100,0
-262510.15,"Archaeoskin Breeches of Fending",False,0,0,,,"",0,100,0
-262510.16,"Archaeoskin Breeches of Maiming",False,0,0,,,"",0,100,0
-262510.17,"Rainbow Culottes of Striking",False,0,0,,,"",0,100,0
-262510.18,"Rainbow Slops of Aiming",False,0,0,,,"",0,100,0
-262510.19,"Rainbow Sarouel of Scouting",False,0,0,,,"",0,100,0
-262510.20,"Mythrite Sabatons of Fending",False,0,0,,,"",0,100,0
-262510.21,"Mythrite Sabatons of Maiming",False,0,0,,,"",0,100,0
-262510.22,"Archaeoskin Boots of Striking",False,0,0,,,"",0,100,0
-262510.23,"Archaeoskin Shoes of Aiming",False,0,0,,,"",0,100,0
-262510.24,"Archaeoskin Boots of Scouting",False,0,0,,,"",0,100,0
-262511.0,"Rainbow Cap of Casting",False,0,0,,,"",0,100,0
-262511.1,"Rainbow Cap of Healing",False,0,0,,,"",0,100,0
-262511.2,"Rainbow Robe of Casting",False,0,0,,,"",0,100,0
-262511.3,"Rainbow Robe of Healing",False,0,0,,,"",0,100,0
-262511.4,"Archaeoskin Gloves of Casting",False,0,0,,,"",0,100,0
-262511.5,"Archaeoskin Gloves of Healing",False,0,0,,,"",0,100,0
-262511.6,"Rainbow Slops of Casting",False,0,0,,,"",0,100,0
-262511.7,"Rainbow Slops of Healing",False,0,0,,,"",0,100,0
-262511.8,"Archaeoskin Shoes of Casting",False,0,0,,,"",0,100,0
-262511.9,"Archaeoskin Shoes of Healing",False,0,0,,,"",0,100,0
-262512.0,"Mythrite Katzbalger",False,0,0,,,"",0,100,0
-262512.1,"Mythrite Patas",False,0,0,,,"",0,100,0
-262512.2,"Mythrite War Axe",False,0,0,,,"",0,100,0
-262512.3,"Mythrite Trident",False,0,0,,,"",0,100,0
-262512.4,"Cedar Longbow",False,0,0,,,"",0,100,0
-262512.5,"Mythrite Pugiones",False,0,0,,,"",0,100,0
-262512.6,"Cedar Crook",False,0,0,,,"",0,100,0
-262512.7,"Yeti Staff",False,0,0,,,"",0,100,0
-262512.8,"Archaeoskin Grimoire",False,0,0,,,"",0,100,0
-262512.9,"Archaeoskin Codex",False,0,0,,,"",0,100,0
-262512.10,"Mythrite Scutum",False,0,0,,,"",0,100,0
+262510.0,"Potion",False,0,0,,,"",0,100,0
+262511.0,"Potion",False,0,0,,,"",0,100,0
+262512.0,"Potion",False,0,0,,,"",0,100,0
 262513.0,"Hi-Potion",False,0,0,,,"",0,100,0
 262513.1,"Mega-Potion",False,0,0,,,"",0,100,0
 262513.2,"Hi-Ether",False,0,0,,,"",0,100,0
@@ -6131,20 +4978,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262513.10,"Antidote",False,0,0,,,"",0,100,0
 262513.11,"Echo Drops",False,0,0,,,"",0,100,0
 262513.12,"Spine Drops",False,0,0,,,"",0,100,0
-262514.0,"Bas-relief Cobalt Saw",False,0,0,,,"",0,100,0
-262514.1,"Wrapped Hawksbeak Hammer",False,0,0,,,"",0,100,0
-262514.2,"Cobalt Raising Hammer",False,0,0,,,"",0,100,0
-262514.3,"Electrum Lapidary Hammer",False,0,0,,,"",0,100,0
-262514.4,"Electrum Head Knife",False,0,0,,,"",0,100,0
-262514.5,"Electrum Needle",False,0,0,,,"",0,100,0
-262514.6,"Thermal Alembic",False,0,0,,,"",0,100,0
-262514.7,"Hells' Kitchen",False,0,0,,,"",0,100,0
-262514.8,"Egret Dolabra",False,0,0,,,"",0,100,0
-262514.9,"Horned Hatchet",False,0,0,,,"",0,100,0
-262514.10,"Gilded Rosewood Fishing Rod",False,0,0,,,"",0,100,0
-262514.11,"Caddisfly Larva",False,0,0,,,"",0,100,0
-262514.12,"Balloon Bug",False,0,0,,,"",0,100,0
-262514.13,"Stonefly Nymph",False,0,0,,,"",0,100,0
+262514.0,"Potion",False,0,0,,,"",0,100,0
 262515.0,"Dzemael Gratin",False,0,0,,,"",0,100,0
 262515.1,"Button Mushroom Saute",False,0,0,,,"",0,100,0
 262515.2,"Trapper's Quiche",False,0,0,,,"",0,100,0
@@ -6781,42 +5615,9 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262559.16,"Rat Tail",False,0,0,,,"",0,100,0
 262559.17,"Crab Ball",False,0,0,,,"",0,100,0
 262559.18,"Spoon Worm",False,0,0,,,"",0,100,0
-262560.0,"Auri Harness",False,0,0,,,"",0,100,0
-262560.1,"Auri Gown",False,0,0,,,"",0,100,0
-262560.2,"Hempen Undershirt",False,46,0,,,"",0,100,0
-262560.3,"Hempen Camise",False,36,0,,,"",0,100,0
-262560.4,"Auri Armguards",False,0,0,,,"",0,100,0
-262560.5,"Auri Halfgloves",False,0,0,,,"",0,100,0
-262560.6,"Auri Breeches",False,0,0,,,"",0,100,0
-262560.7,"Auri Pantalettes",False,0,0,,,"",0,100,0
-262560.8,"Hempen Underpants",False,29,0,,,"",0,100,0
-262560.9,"Hempen Pantalettes",False,36,0,,,"",0,100,0
-262560.10,"Auri Sandals",False,0,0,,,"",0,100,0
-262560.11,"Auri Buskins",False,0,0,,,"",0,100,0
-262561.0,"Auri Harness",False,0,0,,,"",0,100,0
-262561.1,"Auri Gown",False,0,0,,,"",0,100,0
-262561.2,"Hempen Undershirt",False,46,0,,,"",0,100,0
-262561.3,"Hempen Camise",False,36,0,,,"",0,100,0
-262561.4,"Auri Armguards",False,0,0,,,"",0,100,0
-262561.5,"Auri Halfgloves",False,0,0,,,"",0,100,0
-262561.6,"Auri Breeches",False,0,0,,,"",0,100,0
-262561.7,"Auri Pantalettes",False,0,0,,,"",0,100,0
-262561.8,"Hempen Underpants",False,29,0,,,"",0,100,0
-262561.9,"Hempen Pantalettes",False,36,0,,,"",0,100,0
-262561.10,"Auri Sandals",False,0,0,,,"",0,100,0
-262561.11,"Auri Buskins",False,0,0,,,"",0,100,0
-262562.0,"Auri Harness",False,0,0,,,"",0,100,0
-262562.1,"Auri Gown",False,0,0,,,"",0,100,0
-262562.2,"Hempen Undershirt",False,46,0,,,"",0,100,0
-262562.3,"Hempen Camise",False,36,0,,,"",0,100,0
-262562.4,"Auri Armguards",False,0,0,,,"",0,100,0
-262562.5,"Auri Halfgloves",False,0,0,,,"",0,100,0
-262562.6,"Auri Breeches",False,0,0,,,"",0,100,0
-262562.7,"Auri Pantalettes",False,0,0,,,"",0,100,0
-262562.8,"Hempen Underpants",False,29,0,,,"",0,100,0
-262562.9,"Hempen Pantalettes",False,36,0,,,"",0,100,0
-262562.10,"Auri Sandals",False,0,0,,,"",0,100,0
-262562.11,"Auri Buskins",False,0,0,,,"",0,100,0
+262560.0,"Potion",False,0,0,,,"",0,100,0
+262561.0,"Potion",False,0,0,,,"",0,100,0
+262562.0,"Potion",False,0,0,,,"",0,100,0
 262564.0,"Adamantite Saw",False,0,0,,,"",0,100,0
 262564.1,"Adamantite Cross-pein Hammer",False,0,0,,,"",0,100,0
 262564.2,"Adamantite Ball-pein Hammer",False,0,0,,,"",0,100,0
@@ -6957,57 +5758,13 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262575.7,"Witch's Coatee",False,0,0,"Investigating the Inimical",,"",0,100,0
 262575.8,"Witch's Gloves",False,0,0,"Investigating the Inimical",,"",0,100,0
 262575.9,"Witch's Thighboots",False,0,0,"Investigating the Inimical",,"",0,100,0
-262576.0,"Birch Branch",False,0,0,,,"",0,100,0
-262576.1,"Starflower",False,0,0,,,"",0,100,0
-262577.0,"Birch Branch",False,0,0,,,"",0,100,0
-262577.1,"Birch Sap",False,0,0,,,"",0,100,0
-262577.2,"Starflower",False,0,0,,,"",0,100,0
-262577.3,"Whiteloom",False,0,0,,,"",0,100,0
-262577.4,"Cold Knight's Cookfire",False,0,0,,,"",0,100,0
-262578.0,"Birch Branch",False,0,0,,,"",0,100,0
-262578.1,"Birch Sap",False,0,0,,,"",0,100,0
-262578.2,"Starflower",False,0,0,,,"",0,100,0
-262578.3,"Whiteloom",False,0,0,,,"",0,100,0
-262578.4,"Cold Knight's Cookfire",False,0,0,,,"",0,100,0
-262578.5,"Shaded Visor",False,0,0,,,"",0,100,0
-262578.6,"Wind-up Gundu Warrior",False,0,0,,,"",0,100,0
-262579.0,"Birch Branch",False,0,0,,,"",0,100,0
-262579.1,"Birch Sap",False,0,0,,,"",0,100,0
-262579.2,"Starflower",False,0,0,,,"",0,100,0
-262579.3,"Whiteloom",False,0,0,,,"",0,100,0
-262579.4,"Cold Knight's Cookfire",False,0,0,,,"",0,100,0
-262579.5,"Shaded Visor",False,0,0,,,"",0,100,0
-262579.6,"Wind-up Gundu Warrior",False,0,0,,,"",0,100,0
-262580.0,"Birch Branch",False,0,0,,,"",0,100,0
-262580.1,"Birch Sap",False,0,0,,,"",0,100,0
-262580.2,"Starflower",False,0,0,,,"",0,100,0
-262580.3,"Whiteloom",False,0,0,,,"",0,100,0
-262580.4,"Cold Knight's Cookfire",False,0,0,,,"",0,100,0
-262580.5,"Shaded Visor",False,0,0,,,"",0,100,0
-262580.6,"Wind-up Gundu Warrior",False,0,0,,,"",0,100,0
-262581.0,"Birch Branch",False,0,0,,,"",0,100,0
-262581.1,"Birch Sap",False,0,0,,,"",0,100,0
-262581.2,"Starflower",False,0,0,,,"",0,100,0
-262581.3,"Whiteloom",False,0,0,,,"",0,100,0
-262581.4,"Cold Knight's Cookfire",False,0,0,,,"",0,100,0
-262581.5,"Shaded Visor",False,0,0,,,"",0,100,0
-262581.6,"Wind-up Gundu Warrior",False,0,0,,,"",0,100,0
-262581.7,"Wind-up Zundu Warrior",False,0,0,,,"",0,100,0
-262581.8,"Sanuwa Horn",False,0,0,,,"",0,100,0
-262582.0,"Birch Branch",False,0,0,,,"",0,100,0
-262582.1,"Birch Sap",False,0,0,,,"",0,100,0
-262582.2,"Starflower",False,0,0,,,"",0,100,0
-262582.3,"Whiteloom",False,0,0,,,"",0,100,0
-262582.4,"Cold Knight's Cookfire",False,0,0,,,"",0,100,0
-262582.5,"Shaded Visor",False,0,0,,,"",0,100,0
-262582.6,"Wind-up Gundu Warrior",False,0,0,,,"",0,100,0
-262582.7,"Wind-up Zundu Warrior",False,0,0,,,"",0,100,0
-262582.8,"Sanuwa Horn",False,0,0,,,"",0,100,0
-262582.9,"Vanu Vanu Head",False,0,0,,,"",0,100,0
-262582.10,"Vanu Vanu Body",False,0,0,,,"",0,100,0
-262582.11,"Vanu Vanu Arms",False,0,0,,,"",0,100,0
-262582.12,"Vanu Vanu Waist",False,0,0,,,"",0,100,0
-262582.13,"Vanu Vanu Legs",False,0,0,,,"",0,100,0
+262576.0,"Potion",False,0,0,,,"",0,100,0
+262577.0,"Potion",False,0,0,,,"",0,100,0
+262578.0,"Potion",False,0,0,,,"",0,100,0
+262579.0,"Potion",False,0,0,,,"",0,100,0
+262580.0,"Potion",False,0,0,,,"",0,100,0
+262581.0,"Potion",False,0,0,,,"",0,100,0
+262582.0,"Potion",False,0,0,,,"",0,100,0
 262584.0,"",False,0,0,,,"",0,100,0
 262584.1,"",False,0,0,,,"",0,100,0
 262584.2,"",False,0,0,,,"",0,100,0
@@ -7034,79 +5791,12 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262588.4,"Parsnip Salad",False,0,0,,,"",0,100,0
 262588.5,"Rabbit Pie",False,0,0,,,"",0,100,0
 262588.6,"Orange Juice",False,0,0,,,"",0,100,0
-262603.0,"Gysahl Greens",False,0,0,,,"",0,100,0
-262603.1,"Sylkis Bud",False,0,0,,,"",0,100,0
-262603.2,"Mimett Gourd",False,0,0,,,"",0,100,0
-262603.3,"Tantalplant",False,0,0,,,"",0,100,0
-262603.4,"Pahsana Fruit",False,0,0,,,"",0,100,0
-262604.0,"Gysahl Greens",False,0,0,,,"",0,100,0
-262604.1,"Sylkis Bud",False,0,0,,,"",0,100,0
-262604.2,"Mimett Gourd",False,0,0,,,"",0,100,0
-262604.3,"Tantalplant",False,0,0,,,"",0,100,0
-262604.4,"Pahsana Fruit",False,0,0,,,"",0,100,0
-262604.5,"Brimstone",False,0,0,,,"",0,100,0
-262604.6,"Black Firesand",False,0,0,,,"",0,100,0
-262604.7,"Wind-up Vath",False,0,0,,,"",0,100,0
-262605.0,"Gysahl Greens",False,0,0,,,"",0,100,0
-262605.1,"Sylkis Bud",False,0,0,,,"",0,100,0
-262605.2,"Mimett Gourd",False,0,0,,,"",0,100,0
-262605.3,"Tantalplant",False,0,0,,,"",0,100,0
-262605.4,"Pahsana Fruit",False,0,0,,,"",0,100,0
-262605.5,"Brimstone",False,0,0,,,"",0,100,0
-262605.6,"Black Firesand",False,0,0,,,"",0,100,0
-262605.7,"Wind-up Vath",False,0,0,,,"",0,100,0
-262605.8,"Titanium Nugget",False,0,0,,,"",0,100,0
-262605.9,"Aurum Regis Nugget",False,0,0,,,"",0,100,0
-262605.10,"Hardsilver Nugget",False,0,0,,,"",0,100,0
-262605.11,"Mythrite Nugget",False,0,0,,,"",0,100,0
-262606.0,"Gysahl Greens",False,0,0,,,"",0,100,0
-262606.1,"Sylkis Bud",False,0,0,,,"",0,100,0
-262606.2,"Mimett Gourd",False,0,0,,,"",0,100,0
-262606.3,"Tantalplant",False,0,0,,,"",0,100,0
-262606.4,"Pahsana Fruit",False,0,0,,,"",0,100,0
-262606.5,"Brimstone",False,0,0,,,"",0,100,0
-262606.6,"Black Firesand",False,0,0,,,"",0,100,0
-262606.7,"Wind-up Vath",False,0,0,,,"",0,100,0
-262606.8,"Titanium Nugget",False,0,0,,,"",0,100,0
-262606.9,"Aurum Regis Nugget",False,0,0,,,"",0,100,0
-262606.10,"Hardsilver Nugget",False,0,0,,,"",0,100,0
-262606.11,"Mythrite Nugget",False,0,0,,,"",0,100,0
-262606.12,"Gnathic Lamp Tree",False,0,0,,,"",0,100,0
-262607.0,"Gysahl Greens",False,0,0,,,"",0,100,0
-262607.1,"Sylkis Bud",False,0,0,,,"",0,100,0
-262607.2,"Mimett Gourd",False,0,0,,,"",0,100,0
-262607.3,"Tantalplant",False,0,0,,,"",0,100,0
-262607.4,"Pahsana Fruit",False,0,0,,,"",0,100,0
-262607.5,"Brimstone",False,0,0,,,"",0,100,0
-262607.6,"Black Firesand",False,0,0,,,"",0,100,0
-262607.7,"Wind-up Vath",False,0,0,,,"",0,100,0
-262607.8,"Titanium Nugget",False,0,0,,,"",0,100,0
-262607.9,"Aurum Regis Nugget",False,0,0,,,"",0,100,0
-262607.10,"Hardsilver Nugget",False,0,0,,,"",0,100,0
-262607.11,"Mythrite Nugget",False,0,0,,,"",0,100,0
-262607.12,"Gnathic Lamp Tree",False,0,0,,,"",0,100,0
-262607.13,"Wind-up Gnath",False,0,0,,,"",0,100,0
-262607.14,"Kongamato Whistle",False,0,0,,,"",0,100,0
-262608.0,"Gysahl Greens",False,0,0,,,"",0,100,0
-262608.1,"Sylkis Bud",False,0,0,,,"",0,100,0
-262608.2,"Mimett Gourd",False,0,0,,,"",0,100,0
-262608.3,"Tantalplant",False,0,0,,,"",0,100,0
-262608.4,"Pahsana Fruit",False,0,0,,,"",0,100,0
-262608.5,"Brimstone",False,0,0,,,"",0,100,0
-262608.6,"Black Firesand",False,0,0,,,"",0,100,0
-262608.7,"Wind-up Vath",False,0,0,,,"",0,100,0
-262608.8,"Titanium Nugget",False,0,0,,,"",0,100,0
-262608.9,"Aurum Regis Nugget",False,0,0,,,"",0,100,0
-262608.10,"Hardsilver Nugget",False,0,0,,,"",0,100,0
-262608.11,"Mythrite Nugget",False,0,0,,,"",0,100,0
-262608.12,"Gnathic Lamp Tree",False,0,0,,,"",0,100,0
-262608.13,"Wind-up Gnath",False,0,0,,,"",0,100,0
-262608.14,"Kongamato Whistle",False,0,0,,,"",0,100,0
-262608.15,"Gnath Head",False,0,0,,,"",0,100,0
-262608.16,"Vath Thorax",False,0,0,,,"",0,100,0
-262608.17,"Gnath Arms",False,0,0,,,"",0,100,0
-262608.18,"Gnath Abdomen",False,0,0,,,"",0,100,0
-262608.19,"Gnath Legs",False,0,0,,,"",0,100,0
+262603.0,"Potion",False,0,0,,,"",0,100,0
+262604.0,"Potion",False,0,0,,,"",0,100,0
+262605.0,"Potion",False,0,0,,,"",0,100,0
+262606.0,"Potion",False,0,0,,,"",0,100,0
+262607.0,"Potion",False,0,0,,,"",0,100,0
+262608.0,"Potion",False,0,0,,,"",0,100,0
 262609.0,"Ultimate Kettle",False,0,0,,,"",0,100,0
 262609.1,"Ultimate Kettle Zenith",False,0,0,,,"",0,100,0
 262609.2,"Ultimate Kettle Nexus",False,0,0,,,"",0,100,0
@@ -7147,68 +5837,14 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262612.3,"Grade 1 Feed - Endurance Blend",False,0,0,,,"",0,103,0
 262612.4,"Grade 1 Feed - Stamina Blend",False,0,0,,,"",0,104,0
 262612.5,"Grade 1 Feed - Balance Blend",False,0,0,,,"",0,105,0
-262613.0,"Hardsilver Sand",False,0,0,,,"",0,100,0
-262613.1,"Cloud Mica",False,0,0,,,"",0,100,0
-262613.2,"Dandelion",False,0,0,,,"",0,100,0
-262613.3,"Camphorwood Branch",False,0,0,,,"",0,100,0
-262614.0,"Hardsilver Sand",False,0,0,,,"",0,100,0
-262614.1,"Cloud Mica",False,0,0,,,"",0,100,0
-262614.2,"Dandelion",False,0,0,,,"",0,100,0
-262614.3,"Camphorwood Branch",False,0,0,,,"",0,100,0
-262614.4,"Markworthy Mogsofa",False,0,0,,,"",0,100,0
-262614.5,"Dragon Floor Lamp",False,0,0,,,"",0,100,0
-262615.0,"Hardsilver Sand",False,0,0,,,"",0,100,0
-262615.1,"Cloud Mica",False,0,0,,,"",0,100,0
-262615.2,"Dandelion",False,0,0,,,"",0,100,0
-262615.3,"Camphorwood Branch",False,0,0,,,"",0,100,0
-262615.4,"Markworthy Mogsofa",False,0,0,,,"",0,100,0
-262615.5,"Dragon Floor Lamp",False,0,0,,,"",0,100,0
-262616.0,"Hardsilver Sand",False,0,0,,,"",0,100,0
-262616.1,"Cloud Mica",False,0,0,,,"",0,100,0
-262616.2,"Dandelion",False,0,0,,,"",0,100,0
-262616.3,"Camphorwood Branch",False,0,0,,,"",0,100,0
-262616.4,"Markworthy Mogsofa",False,0,0,,,"",0,100,0
-262616.5,"Dragon Floor Lamp",False,0,0,,,"",0,100,0
-262617.0,"Hardsilver Sand",False,0,0,,,"",0,100,0
-262617.1,"Cloud Mica",False,0,0,,,"",0,100,0
-262617.2,"Dandelion",False,0,0,,,"",0,100,0
-262617.3,"Camphorwood Branch",False,0,0,,,"",0,100,0
-262617.4,"Markworthy Mogsofa",False,0,0,,,"",0,100,0
-262617.5,"Dragon Floor Lamp",False,0,0,,,"",0,100,0
-262618.0,"Hardsilver Sand",False,0,0,,,"",0,100,0
-262618.1,"Cloud Mica",False,0,0,,,"",0,100,0
-262618.2,"Aurum Regis Sand",False,0,0,,,"",0,100,0
-262618.3,"Dandelion",False,0,0,,,"",0,100,0
-262618.4,"Camphorwood Branch",False,0,0,,,"",0,100,0
-262618.5,"Dravanian Mistletoe",False,0,0,,,"",0,100,0
-262618.6,"Gloaming Coral",False,0,0,,,"",0,100,0
-262618.7,"Markworthy Mogsofa",False,0,0,,,"",0,100,0
-262618.8,"Dragon Floor Lamp",False,0,0,,,"",0,100,0
-262618.9,"Meandering Mog Slippers",False,0,0,,,"",0,100,0
-262619.0,"Hardsilver Sand",False,0,0,,,"",0,100,0
-262619.1,"Cloud Mica",False,0,0,,,"",0,100,0
-262619.2,"Aurum Regis Sand",False,0,0,,,"",0,100,0
-262619.3,"Dandelion",False,0,0,,,"",0,100,0
-262619.4,"Camphorwood Branch",False,0,0,,,"",0,100,0
-262619.5,"Dravanian Mistletoe",False,0,0,,,"",0,100,0
-262619.6,"Gloaming Coral",False,0,0,,,"",0,100,0
-262619.7,"Markworthy Mogsofa",False,0,0,,,"",0,100,0
-262619.8,"Dragon Floor Lamp",False,0,0,,,"",0,100,0
-262619.9,"Meandering Mog Slippers",False,0,0,,,"",0,100,0
-262619.10,"Wind-up Dragonet",False,0,0,,,"",0,100,0
-262619.11,"Cloud Mallow Seeds",False,0,0,,,"",0,100,0
-262620.0,"Hardsilver Sand",False,0,0,,,"",0,100,0
-262620.1,"Cloud Mica",False,0,0,,,"",0,100,0
-262620.2,"Aurum Regis Sand",False,0,0,,,"",0,100,0
-262620.3,"Dandelion",False,0,0,,,"",0,100,0
-262620.4,"Camphorwood Branch",False,0,0,,,"",0,100,0
-262620.5,"Dravanian Mistletoe",False,0,0,,,"",0,100,0
-262620.6,"Gloaming Coral",False,0,0,,,"",0,100,0
-262620.7,"Markworthy Mogsofa",False,0,0,,,"",0,100,0
-262620.8,"Dragon Floor Lamp",False,0,0,,,"",0,100,0
-262620.9,"Meandering Mog Slippers",False,0,0,,,"",0,100,0
-262620.10,"Wind-up Dragonet",False,0,0,,,"",0,100,0
-262620.11,"Cloud Mallow Seeds",False,0,0,,,"",0,100,0
+262613.0,"Potion",False,0,0,,,"",0,100,0
+262614.0,"Potion",False,0,0,,,"",0,100,0
+262615.0,"Potion",False,0,0,,,"",0,100,0
+262616.0,"Potion",False,0,0,,,"",0,100,0
+262617.0,"Potion",False,0,0,,,"",0,100,0
+262618.0,"Potion",False,0,0,,,"",0,100,0
+262619.0,"Potion",False,0,0,,,"",0,100,0
+262620.0,"Potion",False,0,0,,,"",0,100,0
 262621.0,"Bas-relief Cobalt Saw",False,0,0,,,"",0,100,0
 262621.1,"Wrapped Hawksbeak Hammer",False,0,0,,,"",0,100,0
 262621.2,"Cobalt Raising Hammer",False,0,0,,,"",0,100,0
@@ -7272,24 +5908,8 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262622.27,"Ramie Trousers of Gathering",False,0,0,,,"",0,100,0
 262622.28,"Dhalmelskin Shoes",False,0,0,,,"",0,100,0
 262622.29,"Dhalmelskin Fringe Boots",False,0,0,,,"",0,100,0
-262623.0,"Patrician's Wedge Cap",False,46,0,,,"",0,100,0
-262623.1,"Patrician's Coatee",False,46,0,,,"",0,100,0
-262623.2,"Patrician's Gloves",False,36,0,,,"",0,100,0
-262623.3,"Patrician's Bottoms",False,14,0,,,"",0,100,0
-262623.4,"Patrician's Gaiters",False,29,0,,,"",0,100,0
-262623.5,"Cobalt Mesail",False,74,0,,,"",0,100,0
-262623.6,"Raptorskin Jerkin",False,14,0,,,"",0,100,0
-262623.7,"Raptorskin Culottes",False,36,0,,,"",0,100,0
-262623.8,"Raptorskin Workboots",False,81,0,,,"",0,100,0
-262623.9,"Potion",False,0,0,,,"",0,100,0
-262624.0,"Red Coral Earrings",False,0,0,,,"",0,100,0
-262624.1,"Electrum Choker",False,0,0,,,"",0,100,0
-262624.2,"Electrum Wristlets of Crafting",False,0,0,,,"",0,100,0
-262624.3,"Electrum Ring of Crafting",False,0,0,,,"",0,100,0
-262624.4,"Electrum Earrings",False,0,0,,,"",0,100,0
-262624.5,"Raptorskin Choker",False,0,0,,,"",0,100,0
-262624.6,"Raptorskin Wristbands of Gathering",False,0,0,,,"",0,100,0
-262624.7,"Raptorskin Ring",False,0,0,,,"",0,100,0
+262623.0,"Potion",False,0,0,,,"",0,100,0
+262624.0,"Potion",False,0,0,,,"",0,100,0
 262625.0,"Hyperconductive Almace Replica",False,0,0," A Dream Fulfilled",,"It's Alive: The Twin Thegns",0,50,0
 262625.1,"Hyperconductive Ancile Replica",False,0,0," A Dream Fulfilled",,"It's Alive: The Twin Thegns",0,60,0
 262625.2,"Hyperconductive Verethragna Replicas",False,0,0," A Dream Fulfilled",,"It's Alive: The Sultan",0,70,0
@@ -7562,6 +6182,11 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262632.17,"Seneschal's Monocle",False,0,0,"Pretty in Peaches",,"",0,130,0
 262632.18,"Princess's Peach Corsage",False,0,0,"Pretty in Peaches",,"",0,130,0
 262632.19,"Little Lady's Crown",False,0,0,"Fashion Face-off",,"",0,140,0
+262632.20,"Seneschal Prince's Headset",False,0,0,"A Princely Debut",,"",0,150,0
+262632.21,"Seneschal Prince's Jacket",False,0,0,"A Princely Debut",,"",0,150,0
+262632.22,"Seneschal Prince's Gloves",False,0,0,"A Princely Debut",,"",0,150,0
+262632.23,"Seneschal Prince's Trousers",False,0,0,"A Princely Debut",,"",0,150,0
+262632.24,"Seneschal Prince's Longboots",False,0,0,"A Princely Debut",,"",0,150,0
 262633.0,"Pristine Egg Cap",False,0,0,"Hard-boiled",,"",0,100,0
 262633.1,"Chocobo Egg Cap",False,0,0,"Hard-boiled",,"",0,100,0
 262633.2,"Vibrant Egg Cap",False,0,0,"Hard-boiled",,"",0,100,0
@@ -7599,12 +6224,12 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262634.7,"Lucian Prince's Fingerless Glove",False,0,0,"The Man in Black",,"",0,120,0
 262634.8,"Lucian Prince's Bottoms",False,0,0,"In the Dark of Night",,"",0,120,0
 262634.9,"Lucian Prince's Boots",False,0,0,"Messenger of the Winds",,"",0,120,0
-262634.10,"Metian Vest",False,0,0,"The Path Infernal",,"",0,130,700
-262634.11,"Metian Gauntlets",False,0,0,"The Path Infernal",,"",0,130,700
-262634.12,"Metian Chausses",False,0,0,"The Path Infernal",,"",0,130,700
-262634.13,"Metian Sollerets",False,0,0,"The Path Infernal",,"",0,130,700
-262634.14,"Imp Head",False,0,0,"Of Impish Importance",,"",0,140,700
-262634.15,"Imp Suit",False,0,0,"Of Impish Importance",,"",0,140,700
+262634.10,"Metian Vest",False,0,0,"The Path Infernal",,"",0,130,0
+262634.11,"Metian Gauntlets",False,0,0,"The Path Infernal",,"",0,130,0
+262634.12,"Metian Chausses",False,0,0,"The Path Infernal",,"",0,130,0
+262634.13,"Metian Sollerets",False,0,0,"The Path Infernal",,"",0,130,0
+262634.14,"Imp Head",False,0,0,"Of Impish Importance",,"",0,140,0
+262634.15,"Imp Suit",False,0,0,"Of Impish Importance",,"",0,140,0
 262634.16,"Thug's Mug",False,0,0,"Breaking Brick Mountains",,"",0,90,0
 262635.0,"The Mushroomery Orchestrion Roll",False,0,0,,,"",0,100,0
 262636.0,"Rising Pillar",False,0,0,,,"",0,100,0
@@ -7812,59 +6437,9 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262648.11,"Royal Seneschal's Fingerless Gloves",False,0,0,"Idols Give Back",,"",0,170,0
 262648.12,"Royal Seneschal's Breeches",False,0,0,"Idols Give Back",,"",0,180,0
 262648.13,"Royal Seneschal's Boots",False,0,0,"Idols Give Back",,"",0,190,0
-262649.0,"Birch Branch",False,0,0,,,"",0,100,0
-262649.1,"Birch Sap",False,0,0,,,"",0,100,0
-262649.2,"Starflower",False,0,0,,,"",0,100,0
-262649.3,"Whiteloom",False,0,0,,,"",0,100,0
-262649.4,"Cold Knight's Cookfire",False,0,0,,,"",0,100,0
-262649.5,"Shaded Visor",False,0,0,,,"",0,100,0
-262649.6,"Wind-up Gundu Warrior",False,0,0,,,"",0,100,0
-262649.7,"Wind-up Zundu Warrior",False,0,0,,,"",0,100,0
-262649.8,"Sanuwa Horn",False,0,0,,,"",0,100,0
-262649.9,"Vanu Vanu Head",False,0,0,,,"",0,100,0
-262649.10,"Vanu Vanu Body",False,0,0,,,"",0,100,0
-262649.11,"Vanu Vanu Arms",False,0,0,,,"",0,100,0
-262649.12,"Vanu Vanu Waist",False,0,0,,,"",0,100,0
-262649.13,"Vanu Vanu Legs",False,0,0,,,"",0,100,0
-262649.14,"Zundu Head",False,0,0,,,"",0,100,0
-262649.15,"Zundu Body",False,0,0,,,"",0,100,0
-262649.16,"Zundu Arms",False,0,0,,,"",0,100,0
-262649.17,"Zundu Waist",False,0,0,,,"",0,100,0
-262649.18,"Zundu Legs",False,0,0,,,"",0,100,0
-262650.0,"Gysahl Greens",False,0,0,,,"",0,100,0
-262650.1,"Sylkis Bud",False,0,0,,,"",0,100,0
-262650.2,"Mimett Gourd",False,0,0,,,"",0,100,0
-262650.3,"Tantalplant",False,0,0,,,"",0,100,0
-262650.4,"Pahsana Fruit",False,0,0,,,"",0,100,0
-262650.5,"Brimstone",False,0,0,,,"",0,100,0
-262650.6,"Black Firesand",False,0,0,,,"",0,100,0
-262650.7,"Wind-up Vath",False,0,0,,,"",0,100,0
-262650.8,"Titanium Nugget",False,0,0,,,"",0,100,0
-262650.9,"Aurum Regis Nugget",False,0,0,,,"",0,100,0
-262650.10,"Hardsilver Nugget",False,0,0,,,"",0,100,0
-262650.11,"Mythrite Nugget",False,0,0,,,"",0,100,0
-262650.12,"Gnathic Lamp Tree",False,0,0,,,"",0,100,0
-262650.13,"Wind-up Gnath",False,0,0,,,"",0,100,0
-262650.14,"Kongamato Whistle",False,0,0,,,"",0,100,0
-262650.15,"Gnath Head",False,0,0,,,"",0,100,0
-262650.16,"Vath Thorax",False,0,0,,,"",0,100,0
-262650.17,"Gnath Arms",False,0,0,,,"",0,100,0
-262650.18,"Gnath Abdomen",False,0,0,,,"",0,100,0
-262650.19,"Gnath Legs",False,0,0,,,"",0,100,0
-262650.20,"Gnath Thorax",False,0,0,,,"",0,100,0
-262651.0,"Hardsilver Sand",False,0,0,,,"",0,100,0
-262651.1,"Cloud Mica",False,0,0,,,"",0,100,0
-262651.2,"Aurum Regis Sand",False,0,0,,,"",0,100,0
-262651.3,"Dandelion",False,0,0,,,"",0,100,0
-262651.4,"Camphorwood Branch",False,0,0,,,"",0,100,0
-262651.5,"Dravanian Mistletoe",False,0,0,,,"",0,100,0
-262651.6,"Gloaming Coral",False,0,0,,,"",0,100,0
-262651.7,"Markworthy Mogsofa",False,0,0,,,"",0,100,0
-262651.8,"Dragon Floor Lamp",False,0,0,,,"",0,100,0
-262651.9,"Meandering Mog Slippers",False,0,0,,,"",0,100,0
-262651.10,"Wind-up Dragonet",False,0,0,,,"",0,100,0
-262651.11,"Cloud Mallow Seeds",False,0,0,,,"",0,100,0
-262651.12,"Wind-up Ohl Deeh",False,0,0,,,"",0,100,0
+262649.0,"Potion",False,0,0,,,"",0,100,0
+262650.0,"Potion",False,0,0,,,"",0,100,0
+262651.0,"Potion",False,0,0,,,"",0,100,0
 262652.0,"Sharpened Sword of the Twin Thegns Replica",False,0,0,,,"It's Done: Aettir & Priwen",0,50,0
 262652.1,"Sharpened Shield of the Twin Thegns Replica",False,0,0,,,"It's Done: Aettir & Priwen",0,60,0
 262652.2,"Replica Sharpened Sultan's Fists",False,0,0,,,"It's Done: Nyepels",0,70,0
@@ -8016,6 +6591,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262657.35,"Hannish Pendant Wall Light",False,0,0,,,"",0,230,630
 262657.36,"Magazine Display Rack",False,0,0,,,"",0,35,650
 262657.37,"Contemporary Iron Shelf",False,0,0,,,"",0,35,710
+262657.38,"Mantelshelf",False,0,0,,,"",0,35,720
 262658.0,"Ink & Quill",False,0,0,,,"",0,100,0
 262658.1,"Classified Documents",False,0,0,,,"",0,100,0
 262658.2,"Scattered Documents",False,0,0,,,"",0,100,0
@@ -8413,6 +6989,8 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262690.41,"Railway Sleepers",False,0,0,,,"",0,100,640
 262690.42,"Smashed Flower Pot",False,0,0,,,"",0,100,640
 262690.43,"Square Stepping Stones",False,0,0,,,"",0,100,710
+262690.44,"East End Tree",False,0,0,,,"",0,100,720
+262690.45,"Hedge-trimmed Flower Bed",False,0,0,,,"",0,100,720
 262691.0,"Clear Prism",False,0,0,,,"",0,100,0
 262691.1,"Glamour Dispeller",False,0,0,,,"",0,100,0
 262691.2,"Gysahl Greens",False,0,0,,,"",0,100,0
@@ -10441,31 +9019,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262825.22,"Molybdenum Armguards of Scouting",False,0,0,,,"",0,100,0
 262825.23,"Gazelleskin Brais of Scouting",False,0,0,,,"",0,100,0
 262825.24,"Gazelleskin Open-toed Boots of Scouting",False,0,0,,,"",0,100,0
-262826.0,"",False,0,0,,,"",0,100,0
-262826.1,"",False,0,0,,,"",0,100,0
-262826.2,"",False,0,0,,,"",0,100,0
-262826.3,"",False,0,0,,,"",0,100,0
-262826.4,"",False,0,0,,,"",0,100,0
-262826.5,"",False,0,0,,,"",0,100,0
-262826.6,"",False,0,0,,,"",0,100,0
-262826.7,"",False,0,0,,,"",0,100,0
-262826.8,"",False,0,0,,,"",0,100,0
-262826.9,"",False,0,0,,,"",0,100,0
-262826.10,"",False,0,0,,,"",0,100,0
-262826.11,"",False,0,0,,,"",0,100,0
-262826.12,"",False,0,0,,,"",0,100,0
-262826.13,"",False,0,0,,,"",0,100,0
-262826.14,"",False,0,0,,,"",0,100,0
-262826.15,"",False,0,0,,,"",0,100,0
-262826.16,"",False,0,0,,,"",0,100,0
-262826.17,"",False,0,0,,,"",0,100,0
-262826.18,"",False,0,0,,,"",0,100,0
-262826.19,"",False,0,0,,,"",0,100,0
-262826.20,"",False,0,0,,,"",0,100,0
-262826.21,"",False,0,0,,,"",0,100,0
-262826.22,"",False,0,0,,,"",0,100,0
-262826.23,"",False,0,0,,,"",0,100,0
-262826.24,"",False,0,0,,,"",0,100,0
+262826.0,"Potion",False,0,0,,,"",0,100,0
 262827.0,"Beech Mask of Healing",False,0,0,,,"",0,100,0
 262827.1,"Bloodhempen Chestwrap of Healing",False,0,0,,,"",0,100,0
 262827.2,"Koppranickel Armlets of Healing",False,0,0,,,"",0,100,0
@@ -10526,16 +9080,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262832.7,"Gazelleskin Armguards of Casting",False,0,0,,,"",0,100,0
 262832.8,"Twinsilk Slops of Casting",False,0,0,,,"",0,100,0
 262832.9,"Gazelleskin Boots of Casting",False,0,0,,,"",0,100,0
-262833.0,"",False,0,0,,,"",0,100,0
-262833.1,"",False,0,0,,,"",0,100,0
-262833.2,"",False,0,0,,,"",0,100,0
-262833.3,"",False,0,0,,,"",0,100,0
-262833.4,"",False,0,0,,,"",0,100,0
-262833.5,"",False,0,0,,,"",0,100,0
-262833.6,"",False,0,0,,,"",0,100,0
-262833.7,"",False,0,0,,,"",0,100,0
-262833.8,"",False,0,0,,,"",0,100,0
-262833.9,"",False,0,0,,,"",0,100,0
+262833.0,"Potion",False,0,0,,,"",0,100,0
 262834.0,"Bloodhempen Turban of Crafting",False,0,0,,,"",0,100,0
 262834.1,"Bloodhempen Doublet of Crafting",False,0,0,,,"",0,100,0
 262834.2,"Gaganaskin Halfgloves",False,0,0,,,"",0,100,0
@@ -10651,22 +9196,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262840.13,"Molybdenum Uchigatana",False,0,0,,,"",0,100,0
 262840.14,"Palladium Tuck",False,0,0,,,"",0,100,0
 262840.15,"Molybdenum Kite Shield",False,0,0,,,"",0,100,0
-262841.0,"",False,0,0,,,"",0,100,0
-262841.1,"",False,0,0,,,"",0,100,0
-262841.2,"",False,0,0,,,"",0,100,0
-262841.3,"",False,0,0,,,"",0,100,0
-262841.4,"",False,0,0,,,"",0,100,0
-262841.5,"",False,0,0,,,"",0,100,0
-262841.6,"",False,0,0,,,"",0,100,0
-262841.7,"",False,0,0,,,"",0,100,0
-262841.8,"",False,0,0,,,"",0,100,0
-262841.9,"",False,0,0,,,"",0,100,0
-262841.10,"",False,0,0,,,"",0,100,0
-262841.11,"",False,0,0,,,"",0,100,0
-262841.12,"",False,0,0,,,"",0,100,0
-262841.13,"",False,0,0,,,"",0,100,0
-262841.14,"",False,0,0,,,"",0,100,0
-262841.15,"",False,0,0,,,"",0,100,0
+262841.0,"Potion",False,0,0,,,"",0,100,0
 262842.0,"Beech Rod",False,0,0,,,"",0,100,0
 262842.1,"Koppranickel Staff",False,0,0,,,"",0,100,0
 262842.2,"Koppranickel Index",False,0,0,,,"",0,100,0
@@ -12401,6 +10931,8 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262952.43,"Hannish Bookshelf Partition",False,0,0,,,"",0,100,630
 262952.44,"Investigation Map",False,0,0,,,"",0,100,710
 262952.45,"Classroom Blackboard",False,0,0,,,"",0,100,710
+262952.46,"Blank Minimalist Partition",False,0,0,,,"",0,100,720
+262952.47,"Minimalist Partition Door",False,0,0,,,"",0,100,720
 262953.0,"Deepgold Helm of Fending",False,0,0,,,"",0,100,500
 262953.1,"Deepgold Cuirass of Fending",False,0,0,,,"",0,100,500
 262953.2,"Deepgold Gauntlets of Fending",False,0,0,,,"",0,100,500
@@ -15018,6 +13550,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263123.27,"Lupin Seeds",False,0,0,,,"",0,100,650
 263123.28,"Garden Sunflower Seeds",False,0,0,,,"",0,100,700
 263123.29,"Cattleya Seeds",False,0,0,,,"",0,100,710
+263123.30,"Paperflower Seeds",False,0,0,,,"",0,100,720
 263124.0,"Nymeia Potpourri",False,0,0,,,"",0,100,0
 263124.1,"Magicked Prism (Flowers)",False,0,0,,,"",0,100,0
 263124.2,"Meteor Shower",False,0,0,,,"",0,100,0
@@ -15135,6 +13668,11 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263134.39,"Gleaner's Longboots",False,0,0,"The Pride of Labyrinthos",,"",0,100,650
 263134.40,"Hyper Hustle Trophy",False,0,0,"A Dream Worth Chasing",,"",0,110,650
 263134.41,"Wachumeqimeqi Balloon",False,0,0,"Appreciated Value",,"",0,115,710
+263134.42,"Dawnblazer Hat",False,0,0,"His Heart Blazes On",,"",0,120,720
+263134.43,"Dawnblazer Jerkin",False,0,0,"His Heart Blazes On",,"",0,120,720
+263134.44,"Dawnblazer Gloves",False,0,0,"His Heart Blazes On",,"",0,120,720
+263134.45,"Dawnblazer Chaps",False,0,0,"His Heart Blazes On",,"",0,120,720
+263134.46,"Dawnblazer Boots",False,0,0,"His Heart Blazes On",,"",0,120,720
 263135.0,"Makai Mauler's Facemask",False,0,0,,,"Echoes of the Makai Blade",0,100,0
 263135.1,"Makai Mauler's Oilskin",False,0,0,,,"Echoes of the Makai Blade",0,100,0
 263135.2,"Makai Mauler's Fingerless Gloves",False,0,0,,,"Echoes of the Makai Blade",0,100,0
@@ -16405,3 +14943,1212 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263233.28,"Summoner Display Crystal",False,0,0,"Austerities of Flame",,"",0,200,710
 263233.29,"White Mage Display Crystal",False,0,0,"Seer Folly",,"",0,200,710
 263233.30,"Scholar Display Crystal",False,0,0,"Forgotten but Not Gone",,"",0,200,710
+263233.31,"Dark Knight Display Crystal",False,0,0,"Our End",,"",0,200,720
+263233.32,"Machinist Display Crystal",False,0,0,"Savior of Skysteel",,"",0,200,720
+263233.33,"Astrologian Display Crystal",False,0,0,"Stairway to the Heavens",,"",0,200,720
+263233.34,"Samurai Display Crystal",False,0,0,"The Way of the Samurai",,"",0,200,720
+263233.35,"Red Mage Display Crystal",False,0,0,"Taking the Red",,"",0,200,720
+263233.36,"Blue Mage Display Crystal",False,0,0,"Out of the Blue",,"",0,200,720
+263233.37,"Gunbreaker Display Crystal",False,0,0,"The Makings of a Gunbreaker",,"",0,200,720
+263233.38,"Dancer Display Crystal",False,0,0,"Shall We Dance",,"",0,200,720
+263233.39,"Reaper Display Crystal",False,0,0,"The Killer Instinct",,"",0,200,720
+263233.40,"Sage Display Crystal",False,0,0,"Sage's Path",,"",0,200,720
+263233.41,"Viper Display Crystal",False,0,0,"Enter the Viper",,"",0,200,720
+263233.42,"Pictomancer Display Crystal",False,0,0,"The Joy of Pictomancy",,"",0,200,720
+263233.43,"Vault Rib",False,0,0,,,"",0,10,720
+263234.0,"Storm Tracer",False,0,0,,,"",0,100,0
+263234.1,"Flame Tracer",False,0,0,,,"",0,100,0
+263234.2,"Serpent Tracer",False,0,0,,,"",0,100,0
+263234.3,"Lominsan Sparkler",False,0,0,,,"",0,100,0
+263234.4,"Gridanian Sparkler",False,0,0,,,"",0,100,0
+263234.5,"Ul'dahn Sparkler",False,0,0,,,"",0,100,0
+263234.6,"Bombard Bloom",False,0,0,,,"",0,100,0
+263234.7,"Pinwheel",False,0,0,,,"",0,100,0
+263235.0,"Nymeia Potpourri",False,0,0,,,"",0,100,0
+263235.1,"Magicked Prism (Flowers)",False,0,0,,,"",0,100,0
+263235.2,"Meteor Shower",False,0,0,,,"",0,100,0
+263235.3,"Heavenscracker",False,0,0,,,"",0,100,0
+263235.4,"Realm Reborn Red",False,0,0,,,"",0,100,0
+263235.5,"Magicked Prism (Meteor Survivor)",False,0,0,,,"",0,100,0
+263236.0,"Prismatic Heart (Left)",False,0,0,,,"",0,100,0
+263236.1,"Prismatic Heart (Right)",False,0,0,,,"",0,100,0
+263237.0,"Gysahl Greens",False,0,0,,,"",0,100,0
+263237.1,"Grade 8 Dark Matter",False,0,0,,,"",0,100,0
+263237.2,"Golden Stonefly Nymph",False,0,0,,,"",0,100,0
+263238.0,"Antidote",False,0,0,,,"",0,100,0
+263238.1,"Eye Drops",False,0,0,,,"",0,100,0
+263238.2,"Echo Drops",False,0,0,,,"",0,100,0
+263238.3,"Smelling Salts",False,0,0,,,"",0,100,0
+263238.4,"Spine Drops",False,0,0,,,"",0,100,0
+263238.5,"Gold Needle",False,0,0,,,"",0,100,0
+263238.6,"Grade 7 Dark Matter",False,0,0,,,"",0,100,0
+263238.7,"Grade 8 Dark Matter",False,0,0,,,"",0,100,0
+263238.8,"",False,0,0,,,"",0,90,720
+263238.9,"",False,0,0,,,"",0,90,720
+263238.10,"",False,0,0,,,"",0,90,720
+263239.0,"Grade 1 Dark Matter",False,0,0,,,"",0,100,0
+263239.1,"Grade 2 Dark Matter",False,0,0,,,"",0,100,0
+263239.2,"Grade 3 Dark Matter",False,0,0,,,"",0,100,0
+263239.3,"Grade 4 Dark Matter",False,0,0,,,"",0,100,0
+263239.4,"Grade 5 Dark Matter",False,0,0,,,"",0,100,0
+263239.5,"Grade 6 Dark Matter",False,0,0,,,"",0,100,0
+263239.6,"Grade 7 Dark Matter",False,0,0,,,"",0,100,0
+263239.7,"Grade 8 Dark Matter",False,0,0,,,"",0,100,0
+263240.0,"Potion",False,0,0,,,"",0,100,0
+263241.0,"Potion",False,0,0,,,"",0,100,0
+263242.0,"Potion",False,0,0,,,"",0,100,0
+263243.0,"Potion",False,0,0,,,"",0,100,0
+263245.0,"Mountain Chromite Pickaxe",False,0,0,,,"",0,100,0
+263245.1,"Mountain Chromite Hatchet",False,0,0,,,"",0,100,0
+263245.2,"Ginseng Fishing Rod",False,0,0,,,"",0,100,0
+263245.3,"Mountain Chromite Maul",False,0,0,,,"",0,100,0
+263245.4,"Mountain Chromite Garden Scythe",False,0,0,,,"",0,100,0
+263245.5,"Cobalt Tungsten Pickaxe",False,0,0,,,"",0,100,0
+263245.6,"Cobalt Tungsten Hatchet",False,0,0,,,"",0,100,0
+263245.7,"Dark Mahogany Fishing Rod",False,0,0,,,"",0,100,0
+263245.8,"Cobalt Tungsten Maul",False,0,0,,,"",0,100,0
+263245.9,"Cobalt Tungsten Garden Scythe",False,0,0,,,"",0,100,0
+263245.10,"Titanium Gold Pickaxe",False,0,0,,,"",0,100,0
+263245.11,"Titanium Gold Hatchet",False,0,0,,,"",0,100,0
+263245.12,"Acacia Fishing Rod",False,0,0,,,"",0,100,0
+263245.13,"Titanium Gold Maul",False,0,0,,,"",0,100,0
+263245.14,"Titanium Gold Garden Scythe",False,0,0,,,"",0,100,0
+263245.15,"Spearfishing Gig",False,0,0,,,"",0,100,0
+263246.0,"Snow Cotton Bandana",False,0,0,,,"",0,100,0
+263246.1,"Loboskin Coat",False,0,0,,,"",0,100,0
+263246.2,"Loboskin Gloves",False,0,0,,,"",0,100,0
+263246.3,"Snow Cotton Breeches",False,0,0,,,"",0,100,0
+263246.4,"Loboskin Boots",False,0,0,,,"",0,100,0
+263246.5,"Sarcenet Trapper's Hat of Gathering",False,0,0,,,"",0,100,0
+263246.6,"Sarcenet Jacket of Gathering",False,0,0,,,"",0,100,0
+263246.7,"Br'aaxskin Halfgloves of Gathering",False,0,0,,,"",0,100,0
+263246.8,"Sarcenet Culottes of Gathering",False,0,0,,,"",0,100,0
+263246.9,"Br'aaxskin Boots of Gathering",False,0,0,,,"",0,100,0
+263246.10,"Rroneek Serge Hat of Gathering",False,0,0,,,"",0,100,0
+263246.11,"Gomphotherium Doublet of Gathering",False,0,0,,,"",0,100,0
+263246.12,"Gomphotherium Halfgloves of Gathering",False,0,0,,,"",0,100,0
+263246.13,"Rroneek Serge Trousers of Gathering",False,0,0,,,"",0,100,0
+263246.14,"Gomphotherium Boots of Gathering",False,0,0,,,"",0,100,0
+263247.0,"Potion",False,0,0,,,"",0,100,0
+263248.0,"Weathered Saw",False,0,0,,,"",0,100,0
+263248.1,"Bronze Saw",False,0,0,,,"",0,100,0
+263248.2,"Amateur's Saw",False,0,0,,,"",0,100,0
+263248.3,"Chocobotail Saw",False,0,0,,,"",0,100,0
+263248.4,"Initiate's Saw",False,0,0,,,"",0,100,0
+263248.5,"Amateur's Claw Hammer",False,0,0,,,"",0,100,0
+263248.6,"Bronze Claw Hammer",False,0,0,,,"",0,100,0
+263248.7,"Iron Claw Hammer",False,0,0,,,"",0,100,0
+263248.8,"Weathered Cross-pein Hammer",False,0,0,,,"",0,100,0
+263248.9,"Bronze Cross-pein Hammer",False,0,0,,,"",0,100,0
+263248.10,"Amateur's Cross-pein Hammer",False,0,0,,,"",0,100,0
+263248.11,"Birdsbeak Hammer",False,0,0,,,"",0,100,0
+263248.12,"Iron Cross-pein Hammer",False,0,0,,,"",0,100,0
+263248.13,"Amateur's File",False,0,0,,,"",0,100,0
+263248.14,"Bronze File",False,0,0,,,"",0,100,0
+263248.15,"Weathered Doming Hammer",False,0,0,,,"",0,100,0
+263248.16,"Bronze Doming Hammer",False,0,0,,,"",0,100,0
+263248.17,"Amateur's Doming Hammer",False,0,0,,,"",0,100,0
+263248.18,"Bronze Raising Hammer",False,0,0,,,"",0,100,0
+263248.19,"Iron Doming Hammer",False,0,0,,,"",0,100,0
+263248.20,"Amateur's Pliers",False,0,0,,,"",0,100,0
+263248.21,"Bronze Pliers",False,0,0,,,"",0,100,0
+263249.0,"Bas-relief Iron Saw",False,0,0,,,"",0,100,0
+263249.1,"Iron Chocobotail Saw",False,0,0,,,"",0,100,0
+263249.2,"Bas-relief Steel Saw",False,0,0,,,"",0,100,0
+263249.3,"Crosscut Saw",False,0,0,,,"",0,100,0
+263249.4,"Mythril Saw",False,0,0,,,"",0,100,0
+263249.5,"Initiate's Claw Hammer",False,0,0,,,"",0,100,0
+263249.6,"Steel Claw Hammer",False,0,0,,,"",0,100,0
+263249.7,"Wrapped Steel Claw Hammer",False,0,0,,,"",0,100,0
+263249.8,"Initiate's Cross-pein Hammer",False,0,0,,,"",0,100,0
+263249.9,"Crowsbeak Hammer",False,0,0,,,"",0,100,0
+263249.10,"Heavy Crowsbeak Hammer",False,0,0,,,"",0,100,0
+263249.11,"Steel Cross-pein Hammer",False,0,0,,,"",0,100,0
+263249.12,"Steel Crowsbeak Hammer",False,0,0,,,"",0,100,0
+263249.13,"Wrapped Crowsbeak Hammer",False,0,0,,,"",0,100,0
+263249.14,"Iron File",False,0,0,,,"",0,100,0
+263249.15,"Initiate's File",False,0,0,,,"",0,100,0
+263249.16,"Steel File",False,0,0,,,"",0,100,0
+263249.17,"Initiate's Doming Hammer",False,0,0,,,"",0,100,0
+263249.18,"Iron Raising Hammer",False,0,0,,,"",0,100,0
+263249.19,"Wrapped Iron Raising Hammer",False,0,0,,,"",0,100,0
+263249.20,"Steel Doming Hammer",False,0,0,,,"",0,100,0
+263249.21,"Steel Raising Hammer",False,0,0,,,"",0,100,0
+263249.22,"Iron Pliers",False,0,0,,,"",0,100,0
+263249.23,"Initiate's Pliers",False,0,0,,,"",0,100,0
+263249.24,"Steel Pliers",False,0,0,,,"",0,100,0
+263250.0,"Mythril Chocobotail Saw",False,0,0,,,"",0,100,0
+263250.1,"Bas-relief Cobalt Saw",False,0,0,,,"",0,100,0
+263250.2,"Mythrite Halfheart Saw",False,0,0,,,"",0,100,0
+263250.3,"Hardsilver Saw",False,0,0,,,"",0,100,0
+263250.4,"Titanium Halfheart Saw",False,0,0,,,"",0,100,0
+263250.5,"Adamantite Saw",False,0,0,,,"",0,100,0
+263250.6,"Mythril Claw Hammer",False,0,0,,,"",0,100,0
+263250.7,"Cobalt Claw Hammer",False,0,0,,,"",0,100,0
+263250.8,"Mythrite Claw Hammer",False,0,0,,,"",0,100,0
+263250.9,"Titanium Claw Hammer",False,0,0,,,"",0,100,0
+263250.10,"Adamantite Claw Hammer",False,0,0,,,"",0,100,0
+263250.11,"Cobalt Cross-pein Hammer",False,0,0,,,"",0,100,0
+263250.12,"Wrapped Hawksbeak Hammer",False,0,0,,,"",0,100,0
+263250.13,"Mythrite Lump Hammer",False,0,0,,,"",0,100,0
+263250.14,"Titanium Cross-pein Hammer",False,0,0,,,"",0,100,0
+263250.15,"Titanium Lump Hammer",False,0,0,,,"",0,100,0
+263250.16,"Adamantite Cross-pein Hammer",False,0,0,,,"",0,100,0
+263250.17,"Mythril File",False,0,0,,,"",0,100,0
+263250.18,"Cobalt File",False,0,0,,,"",0,100,0
+263250.19,"Mythrite File",False,0,0,,,"",0,100,0
+263250.20,"Titanium File",False,0,0,,,"",0,100,0
+263250.21,"Adamantite File",False,0,0,,,"",0,100,0
+263250.22,"Cobalt Doming Hammer",False,0,0,,,"",0,100,0
+263250.23,"Cobalt Raising Hammer",False,0,0,,,"",0,100,0
+263250.24,"Mythrite Raising Hammer",False,0,0,,,"",0,100,0
+263250.25,"Titanium Ball-pein Hammer",False,0,0,,,"",0,100,0
+263250.26,"Titanium Raising Hammer",False,0,0,,,"",0,100,0
+263250.27,"Adamantite Ball-pein Hammer",False,0,0,,,"",0,100,0
+263250.28,"Mythril Pliers",False,0,0,,,"",0,100,0
+263250.29,"Cobalt Pliers",False,0,0,,,"",0,100,0
+263250.30,"Mythrite Pliers",False,0,0,,,"",0,100,0
+263250.31,"Titanium Pliers",False,0,0,,,"",0,100,0
+263250.32,"Adamantite Pliers",False,0,0,,,"",0,100,0
+263251.0,"High Steel Saw",False,0,0,,,"",0,100,0
+263251.1,"Doman Iron Halfheart Saw",False,0,0,,,"",0,100,0
+263251.2,"Doman Steel Saw",False,0,0,,,"",0,100,0
+263251.3,"Molybdenum Halfheart Saw",False,0,0,,,"",0,100,0
+263251.4,"Deepgold Saw",False,0,0,,,"",0,100,0
+263251.5,"Bluespirit Halfheart Saw",False,0,0,,,"",0,100,0
+263251.6,"Titanbronze Saw",False,0,0,,,"",0,100,0
+263251.7,"Dwarven Mythril Saw",False,0,0,,,"",0,100,0
+263251.8,"High Steel Claw Hammer",False,0,0,,,"",0,100,0
+263251.9,"Doman Iron Claw Hammer",False,0,0,,,"",0,100,0
+263251.10,"Doman Steel Claw Hammer",False,0,0,,,"",0,100,0
+263251.11,"Molybdenum Claw Hammer",False,0,0,,,"",0,100,0
+263251.12,"Deepgold Claw Hammer",False,0,0,,,"",0,100,0
+263251.13,"Bluespirit Claw Hammer",False,0,0,,,"",0,100,0
+263251.14,"Titanbronze Claw Hammer",False,0,0,,,"",0,100,0
+263251.15,"Dwarven Mythril Claw Hammer",False,0,0,,,"",0,100,0
+263251.16,"High Steel Cross-pein Hammer",False,0,0,,,"",0,100,0
+263251.17,"Doman Iron Lump Hammer",False,0,0,,,"",0,100,0
+263251.18,"Doman Steel Cross-pein Hammer",False,0,0,,,"",0,100,0
+263251.19,"Molybdenum Lump Hammer",False,0,0,,,"",0,100,0
+263251.20,"Deepgold Cross-pein Hammer",False,0,0,,,"",0,100,0
+263251.21,"Bluespirit Cross-pein Hammer",False,0,0,,,"",0,100,0
+263251.22,"Titanbronze Lump Hammer",False,0,0,,,"",0,100,0
+263251.23,"Dwarven Mythril Cross-pein Hammer",False,0,0,,,"",0,100,0
+263251.24,"High Steel File",False,0,0,,,"",0,100,0
+263251.25,"Doman Iron File",False,0,0,,,"",0,100,0
+263251.26,"Doman Steel File",False,0,0,,,"",0,100,0
+263251.27,"Molybdenum File",False,0,0,,,"",0,100,0
+263251.28,"Deepgold File",False,0,0,,,"",0,100,0
+263251.29,"Bluespirit File",False,0,0,,,"",0,100,0
+263251.30,"Titanbronze File",False,0,0,,,"",0,100,0
+263251.31,"Dwarven Mythril File",False,0,0,,,"",0,100,0
+263251.32,"High Steel Doming Hammer",False,0,0,,,"",0,100,0
+263251.33,"Doman Iron Raising Hammer",False,0,0,,,"",0,100,0
+263251.34,"Doman Steel Raising Hammer",False,0,0,,,"",0,100,0
+263251.35,"Molybdenum Ball-pein Hammer",False,0,0,,,"",0,100,0
+263251.36,"Deepgold Raising Hammer",False,0,0,,,"",0,100,0
+263251.37,"Bluespirit Raising Hammer",False,0,0,,,"",0,100,0
+263251.38,"Titanbronze Ball-pein Hammer",False,0,0,,,"",0,100,0
+263251.39,"Dwarven Mythril Raising Hammer",False,0,0,,,"",0,100,0
+263251.40,"High Steel Pliers",False,0,0,,,"",0,100,0
+263251.41,"Doman Iron Pliers",False,0,0,,,"",0,100,0
+263251.42,"Doman Steel Pliers",False,0,0,,,"",0,100,0
+263251.43,"Molybdenum Pliers",False,0,0,,,"",0,100,0
+263251.44,"Deepgold Pliers",False,0,0,,,"",0,100,0
+263251.45,"Bluespirit Pliers",False,0,0,,,"",0,100,0
+263251.46,"Titanbronze Pliers",False,0,0,,,"",0,100,0
+263251.47,"Dwarven Mythril Pliers",False,0,0,,,"",0,100,0
+263252.0,"High Durium Saw",False,0,0,,,"",0,100,0
+263252.1,"Bismuth Saw",False,0,0,,,"",0,100,0
+263252.2,"Manganese Saw",False,0,0,,,"",0,100,0
+263252.3,"Chondrite Saw",False,0,0,,,"",0,100,0
+263252.4,"Mountain Chromite Saw",False,0,0,,,"",0,100,0
+263252.5,"Cobalt Tungsten Saw",False,0,0,,,"",0,100,0
+263252.6,"Titanium Gold Saw",False,0,0,,,"",0,100,0
+263252.7,"Ra'Kaznar Saw",False,0,0,,,"",0,100,0
+263252.8,"High Durium Claw Hammer",False,0,0,,,"",0,100,0
+263252.9,"Bismuth Claw Hammer",False,0,0,,,"",0,100,0
+263252.10,"Manganese Claw Hammer",False,0,0,,,"",0,100,0
+263252.11,"Chondrite Claw Hammer",False,0,0,,,"",0,100,0
+263252.12,"Mountain Chromite Claw Hammer",False,0,0,,,"",0,100,0
+263252.13,"Cobalt Tungsten Claw Hammer",False,0,0,,,"",0,100,0
+263252.14,"Titanium Gold Claw Hammer",False,0,0,,,"",0,100,0
+263252.15,"Ra'Kaznar Claw Hammer",False,0,0,,,"",0,100,0
+263252.16,"High Durium Cross-pein Hammer",False,0,0,,,"",0,100,0
+263252.17,"Bismuth Cross-pein Hammer",False,0,0,,,"",0,100,0
+263252.18,"Manganese Cross-pein Hammer",False,0,0,,,"",0,100,0
+263252.19,"Chondrite Cross-pein Hammer",False,0,0,,,"",0,100,0
+263252.20,"Mountain Chromite Cross-pein Hammer",False,0,0,,,"",0,100,0
+263252.21,"Cobalt Tungsten Cross-pein Hammer",False,0,0,,,"",0,100,0
+263252.22,"Titanium Gold Cross-pein Hammer",False,0,0,,,"",0,100,0
+263252.23,"Ra'Kaznar Cross-pein Hammer",False,0,0,,,"",0,100,0
+263252.24,"High Durium File",False,0,0,,,"",0,100,0
+263252.25,"Bismuth File",False,0,0,,,"",0,100,0
+263252.26,"Manganese File",False,0,0,,,"",0,100,0
+263252.27,"Chondrite File",False,0,0,,,"",0,100,0
+263252.28,"Mountain Chromite File",False,0,0,,,"",0,100,0
+263252.29,"Cobalt Tungsten File",False,0,0,,,"",0,100,0
+263252.30,"Titanium Gold File",False,0,0,,,"",0,100,0
+263252.31,"Ra'Kaznar File",False,0,0,,,"",0,100,0
+263252.32,"High Durium Raising Hammer",False,0,0,,,"",0,100,0
+263252.33,"Bismuth Raising Hammer",False,0,0,,,"",0,100,0
+263252.34,"Manganese Raising Hammer",False,0,0,,,"",0,100,0
+263252.35,"Chondrite Raising Hammer",False,0,0,,,"",0,100,0
+263252.36,"Mountain Chromite Raising Hammer",False,0,0,,,"",0,100,0
+263252.37,"Cobalt Tungsten Raising Hammer",False,0,0,,,"",0,100,0
+263252.38,"Titanium Gold Raising Hammer",False,0,0,,,"",0,100,0
+263252.39,"Ra'Kaznar Raising Hammer",False,0,0,,,"",0,100,0
+263252.40,"High Durium Pliers",False,0,0,,,"",0,100,0
+263252.41,"Bismuth Pliers",False,0,0,,,"",0,100,0
+263252.42,"Manganese Pliers",False,0,0,,,"",0,100,0
+263252.43,"Chondrite Pliers",False,0,0,,,"",0,100,0
+263252.44,"Mountain Chromite Pliers",False,0,0,,,"",0,100,0
+263252.45,"Cobalt Tungsten Pliers",False,0,0,,,"",0,100,0
+263252.46,"Titanium Gold Pliers",False,0,0,,,"",0,100,0
+263252.47,"Ra'Kaznar Pliers",False,0,0,,,"",0,100,0
+263253.0,"Weathered Chaser Hammer",False,0,0,,,"",0,100,0
+263253.1,"Bronze Chaser Hammer",False,0,0,,,"",0,100,0
+263253.2,"Amateur's Chaser Hammer",False,0,0,,,"",0,100,0
+263253.3,"Bronze Ornamental Hammer",False,0,0,,,"",0,100,0
+263253.4,"Iron Chaser Hammer",False,0,0,,,"",0,100,0
+263253.5,"Amateur's Grinding Wheel",False,0,0,,,"",0,100,0
+263253.6,"Ragstone Grinding Wheel",False,0,0,,,"",0,100,0
+263253.7,"Weathered Head Knife",False,0,0,,,"",0,100,0
+263253.8,"Bronze Head Knife",False,0,0,,,"",0,100,0
+263253.9,"Amateur's Head Knife",False,0,0,,,"",0,100,0
+263253.10,"Brass Head Knife",False,0,0,,,"",0,100,0
+263253.11,"Initiate's Head Knife",False,0,0,,,"",0,100,0
+263253.12,"Amateur's Awl",False,0,0,,,"",0,100,0
+263253.13,"Bronze Awl",False,0,0,,,"",0,100,0
+263253.14,"Iron Awl",False,0,0,,,"",0,100,0
+263253.15,"Rusty Needle",False,0,0,,,"",0,100,0
+263253.16,"Copper Needle",False,0,0,,,"",0,100,0
+263253.17,"Bat Fang Needle",False,0,0,,,"",0,101,0
+263253.18,"Amateur's Needle",False,0,0,,,"",0,100,0
+263253.19,"Brass Needle",False,0,0,,,"",0,102,0
+263253.20,"Amateur's Spinning Wheel",False,0,0,,,"",0,110,0
+263253.21,"Ash Spinning Wheel",False,0,0,,,"",0,110,0
+263253.22,"Initiate's Spinning Wheel",False,0,0,,,"",0,110,0
+263254.0,"Initiate's Chaser Hammer",False,0,0,,,"",0,100,0
+263254.1,"Iron Ornamental Hammer",False,0,0,,,"",0,100,0
+263254.2,"Steel Chaser Hammer",False,0,0,,,"",0,100,0
+263254.3,"Steel Ornamental Hammer",False,0,0,,,"",0,100,0
+263254.4,"Mythril Ornamental Hammer",False,0,0,,,"",0,100,0
+263254.5,"Mudstone Grinding Wheel",False,0,0,,,"",0,100,0
+263254.6,"Initiate's Grinding Wheel",False,0,0,,,"",0,100,0
+263254.7,"Siltstone Grinding Wheel",False,0,0,,,"",0,100,0
+263254.8,"Iron Round Knife",False,0,0,,,"",0,100,0
+263254.9,"Iron Head Knife",False,0,0,,,"",0,100,0
+263254.10,"Silver Head Knife",False,0,0,,,"",0,100,0
+263254.11,"Steel Round Knife",False,0,0,,,"",0,100,0
+263254.12,"Mythril Head Knife",False,0,0,,,"",0,100,0
+263254.13,"Initiate's Awl",False,0,0,,,"",0,100,0
+263254.14,"Steel Awl",False,0,0,,,"",0,100,0
+263254.15,"Wrapped Steel Awl",False,0,0,,,"",0,100,0
+263254.16,"Initiate's Needle",False,0,0,,,"",0,100,0
+263254.17,"Silver Needle",False,0,0,,,"",0,100,0
+263254.18,"Worm Fang Needle",False,0,0,,,"",0,100,0
+263254.19,"Mythril Needle",False,0,0,,,"",0,100,0
+263254.20,"Wolf Fang Needle",False,0,0,,,"",0,100,0
+263254.21,"Elm Spinning Wheel",False,0,0,,,"",0,100,0
+263254.22,"Walnut Spinning Wheel",False,0,0,,,"",0,100,0
+263254.23,"Mahogany Spinning Wheel",False,0,0,,,"",0,100,0
+263255.0,"Mythril Lapidary Hammer",False,0,0,,,"",0,100,0
+263255.1,"Electrum Lapidary Hammer",False,0,0,,,"",0,100,0
+263255.2,"Mythrite Lapidary Hammer",False,0,0,,,"",0,100,0
+263255.3,"Hardsilver Texture Hammer",False,0,0,,,"",0,100,0
+263255.4,"Hardsilver Lapidary Hammer",False,0,0,,,"",0,100,0
+263255.5,"Aurum Regis Texture Hammer",False,0,0,,,"",0,100,0
+263255.6,"Garnet Grinding Wheel",False,0,0,,,"",0,100,0
+263255.7,"Basilisk Grinding Wheel",False,0,0,,,"",0,100,0
+263255.8,"Astral Grinding Wheel",False,0,0,,,"",0,100,0
+263255.9,"Cloud Mica Grinding Wheel",False,0,0,,,"",0,100,0
+263255.10,"Dragonscale Grinding Wheel",False,0,0,,,"",0,100,0
+263255.11,"Mythril Round Knife",False,0,0,,,"",0,100,0
+263255.12,"Electrum Head Knife",False,0,0,,,"",0,100,0
+263255.13,"Mythrite Round Knife",False,0,0,,,"",0,100,0
+263255.14,"Titanium Creasing Knife",False,0,0,,,"",0,100,0
+263255.15,"Hardsilver Round Knife",False,0,0,,,"",0,100,0
+263255.16,"Aurum Regis Creasing Knife",False,0,0,,,"",0,100,0
+263255.17,"Mythril Awl",False,0,0,,,"",0,100,0
+263255.18,"Cobalt Awl",False,0,0,,,"",0,100,0
+263255.19,"Mythrite Awl",False,0,0,,,"",0,100,0
+263255.20,"Titanium Awl",False,0,0,,,"",0,100,0
+263255.21,"Adamantite Awl",False,0,0,,,"",0,100,0
+263255.22,"Thousand Needle",False,0,0,,,"",0,100,0
+263255.23,"Electrum Needle",False,0,0,,,"",0,100,0
+263255.24,"Mythrite Needle",False,0,0,,,"",0,100,0
+263255.25,"Hardsilver Needle",False,0,0,,,"",0,100,0
+263255.26,"Dragon Fang Needle",False,0,0,,,"",0,100,0
+263255.27,"Griffin Talon Needle",False,0,0,,,"",0,100,0
+263255.28,"Rosewood Spinning Wheel",False,0,0,,,"",0,100,0
+263255.29,"Holy Cedar Spinning Wheel",False,0,0,,,"",0,100,0
+263255.30,"Dark Chestnut Spinning Wheel",False,0,0,,,"",0,100,0
+263255.31,"Birch Spinning Wheel",False,0,0,,,"",0,100,0
+263256.0,"Koppranickel Ornamental Hammer",False,0,0,,,"",0,100,0
+263256.1,"Durium Texture Hammer",False,0,0,,,"",0,100,0
+263256.2,"Durium Lapidary Hammer",False,0,0,,,"",0,100,0
+263256.3,"Palladium Texture Hammer",False,0,0,,,"",0,100,0
+263256.4,"Deepgold Lapidary Hammer",False,0,0,,,"",0,100,0
+263256.5,"Bluespirit Lapidary Hammer",False,0,0,,,"",0,100,0
+263256.6,"Titanbronze Texture Hammer",False,0,0,,,"",0,100,0
+263256.7,"Dwarven Mythril Lapidary Hammer",False,0,0,,,"",0,100,0
+263256.8,"Stiperstone Grinding Wheel",False,0,0,,,"",0,100,0
+263256.9,"Slate Grinding Wheel",False,0,0,,,"",0,100,0
+263256.10,"Polished Slate Grinding Wheel",False,0,0,,,"",0,100,0
+263256.11,"Almandine Grinding Wheel",False,0,0,,,"",0,100,0
+263256.12,"White Oak Grinding Wheel",False,0,0,,,"",0,100,0
+263256.13,"White Ash Grinding Wheel",False,0,0,,,"",0,100,0
+263256.14,"Sandteak Grinding Wheel",False,0,0,,,"",0,100,0
+263256.15,"Lignum Vitae Grinding Wheel",False,0,0,,,"",0,100,0
+263256.16,"High Steel Head Knife",False,0,0,,,"",0,100,0
+263256.17,"Doman Iron Head Knife",False,0,0,,,"",0,100,0
+263256.18,"Doman Steel Round Knife",False,0,0,,,"",0,100,0
+263256.19,"Molybdenum Creasing Knife",False,0,0,,,"",0,100,0
+263256.20,"Deepgold Head Knife",False,0,0,,,"",0,100,0
+263256.21,"Bluespirit Round Knife",False,0,0,,,"",0,100,0
+263256.22,"Titanbronze Creasing Knife",False,0,0,,,"",0,100,0
+263256.23,"Dwarven Mythril Round Knife",False,0,0,,,"",0,100,0
+263256.24,"High Steel Awl",False,0,0,,,"",0,100,0
+263256.25,"Doman Iron Awl",False,0,0,,,"",0,100,0
+263256.26,"Doman Steel Awl",False,0,0,,,"",0,100,0
+263256.27,"Molybdenum Awl",False,0,0,,,"",0,100,0
+263256.28,"Deepgold Awl",False,0,0,,,"",0,100,0
+263256.29,"Bluespirit Awl",False,0,0,,,"",0,100,0
+263256.30,"Titanbronze Awl",False,0,0,,,"",0,100,0
+263256.31,"Dwarven Mythril Awl",False,0,0,,,"",0,100,0
+263256.32,"Bombfish Needle",False,0,0,,,"",0,100,0
+263256.33,"Dzo Horn Needle",False,0,0,,,"",0,100,0
+263256.34,"Gazelle Horn Needle",False,0,0,,,"",0,100,0
+263256.35,"Palladium Needle",False,0,0,,,"",0,100,0
+263256.36,"Stonegold Needle",False,0,0,,,"",0,100,0
+263256.37,"Manasilver Needle",False,0,0,,,"",0,100,0
+263256.38,"Titanbronze Needle",False,0,0,,,"",0,100,0
+263256.39,"Dwarven Mythril Needle",False,0,0,,,"",0,100,0
+263256.40,"Larch Spinning Wheel",False,0,0,,,"",0,100,0
+263256.41,"Pine Spinning Wheel",False,0,0,,,"",0,100,0
+263256.42,"Persimmon Spinning Wheel",False,0,0,,,"",0,100,0
+263256.43,"Zelkova Spinning Wheel",False,0,0,,,"",0,100,0
+263256.44,"White Oak Spinning Wheel",False,0,0,,,"",0,100,0
+263256.45,"White Ash Spinning Wheel",False,0,0,,,"",0,100,0
+263256.46,"Sandteak Spinning Wheel",False,0,0,,,"",0,100,0
+263256.47,"Lignum Vitae Spinning Wheel",False,0,0,,,"",0,100,0
+263257.0,"High Durium Lapidary Hammer",False,0,0,,,"",0,100,0
+263257.1,"Bismuth Lapidary Hammer",False,0,0,,,"",0,100,0
+263257.2,"Manganese Lapidary Hammer",False,0,0,,,"",0,100,0
+263257.3,"Chondrite Lapidary Hammer",False,0,0,,,"",0,100,0
+263257.4,"Mountain Chromite Lapidary Hammer",False,0,0,,,"",0,100,0
+263257.5,"Cobalt Tungsten Lapidary Hammer",False,0,0,,,"",0,100,0
+263257.6,"Titanium Gold Lapidary Hammer",False,0,0,,,"",0,100,0
+263257.7,"Ra'Kaznar Lapidary Hammer",False,0,0,,,"",0,100,0
+263257.8,"Horse Chestnut Grinding Wheel",False,0,0,,,"",0,100,0
+263257.9,"Red Pine Grinding Wheel",False,0,0,,,"",0,100,0
+263257.10,"Ironwood Grinding Wheel",False,0,0,,,"",0,100,0
+263257.11,"Integral Grinding Wheel",False,0,0,,,"",0,100,0
+263257.12,"Ginseng Grinding Wheel",False,0,0,,,"",0,100,0
+263257.13,"Dark Mahogany Grinding Wheel",False,0,0,,,"",0,100,0
+263257.14,"Acacia Grinding Wheel",False,0,0,,,"",0,100,0
+263257.15,"Claro Walnut Grinding Wheel",False,0,0,,,"",0,100,0
+263257.16,"High Durium Creasing Knife",False,0,0,,,"",0,100,0
+263257.17,"Bismuth Round Knife",False,0,0,,,"",0,100,0
+263257.18,"Manganese Round Knife",False,0,0,,,"",0,100,0
+263257.19,"Chondrite Round Knife",False,0,0,,,"",0,100,0
+263257.20,"Mountain Chromite Creasing Knife",False,0,0,,,"",0,100,0
+263257.21,"Cobalt Tungsten Creasing Knife",False,0,0,,,"",0,100,0
+263257.22,"Titanium Gold Creasing Knife",False,0,0,,,"",0,100,0
+263257.23,"Ra'Kaznar Round Knife",False,0,0,,,"",0,100,0
+263257.24,"High Durium Awl",False,0,0,,,"",0,100,0
+263257.25,"Bismuth Awl",False,0,0,,,"",0,100,0
+263257.26,"Manganese Awl",False,0,0,,,"",0,100,0
+263257.27,"Chondrite Awl",False,0,0,,,"",0,100,0
+263257.28,"Mountain Chromite Awl",False,0,0,,,"",0,100,0
+263257.29,"Cobalt Tungsten Awl",False,0,0,,,"",0,100,0
+263257.30,"Titanium Gold Awl",False,0,0,,,"",0,100,0
+263257.31,"Ra'Kaznar Awl",False,0,0,,,"",0,100,0
+263257.32,"High Durium Needle",False,0,0,,,"",0,100,0
+263257.33,"Phrygian Needle",False,0,0,,,"",0,100,0
+263257.34,"Manganese Needle",False,0,0,,,"",0,100,0
+263257.35,"Chondrite Needle",False,0,0,,,"",0,100,0
+263257.36,"Lar Needle",False,0,0,,,"",0,100,0
+263257.37,"Cobalt Tungsten Needle",False,0,0,,,"",0,100,0
+263257.38,"White Gold Needle",False,0,0,,,"",0,100,0
+263257.39,"Ra'Kaznar Needle",False,0,0,,,"",0,100,0
+263257.40,"Horse Chestnut Spinning Wheel",False,0,0,,,"",0,100,0
+263257.41,"Red Pine Spinning Wheel",False,0,0,,,"",0,100,0
+263257.42,"Ironwood Spinning Wheel",False,0,0,,,"",0,100,0
+263257.43,"Integral Spinning Wheel",False,0,0,,,"",0,100,0
+263257.44,"Ginseng Spinning Wheel",False,0,0,,,"",0,100,0
+263257.45,"Dark Mahogany Spinning Wheel",False,0,0,,,"",0,100,0
+263257.46,"Acacia Spinning Wheel",False,0,0,,,"",0,100,0
+263257.47,"Claro Walnut Spinning Wheel",False,0,0,,,"",0,100,0
+263258.0,"Weathered Pickaxe",False,0,0,,,"",0,100,0
+263258.1,"Bronze Pickaxe",False,0,0,,,"",0,100,0
+263258.2,"Amateur's Pickaxe",False,0,0,,,"",0,100,0
+263258.3,"Plumed Bronze Pickaxe",False,0,0,,,"",0,100,0
+263258.4,"Iron Pickaxe",False,0,0,,,"",0,100,0
+263258.5,"Weathered Sledgehammer",False,0,0,,,"",0,100,0
+263258.6,"Bronze Sledgehammer",False,0,0,,,"",0,101,0
+263258.7,"Initiate's Sledgehammer",False,0,0,,,"",0,102,0
+263258.8,"Weathered Hatchet",False,0,0,,,"",0,102,0
+263258.9,"Bronze Hatchet",False,0,0,,,"",0,102,0
+263258.10,"Amateur's Hatchet",False,0,0,,,"",0,102,0
+263258.11,"Iron Hatchet",False,0,0,,,"",0,102,0
+263258.12,"Initiate's Hatchet",False,0,0,,,"",0,103,0
+263258.13,"Weathered Scythe",False,0,0,,,"",0,104,0
+263258.14,"Bronze Scythe",False,0,0,,,"",0,105,0
+263258.15,"Iron Scythe",False,0,0,,,"",0,106,0
+263258.16,"Weathered Fishing Rod",False,0,0,,,"",0,107,0
+263258.17,"Maple Fishing Rod",False,0,0,,,"",0,107,0
+263258.18,"Amateur's Fishing Rod",False,0,0,,,"",0,107,0
+263258.19,"Elm Fishing Rod",False,0,0,,,"",0,107,0
+263258.20,"Initiate's Fishing Rod",False,0,0,,,"",0,107,0
+263259.0,"Initiate's Pickaxe",False,0,0,,,"",0,100,0
+263259.1,"Iron Dolabra",False,0,0,,,"",0,100,0
+263259.2,"Steel Pickaxe",False,0,0,,,"",0,100,0
+263259.3,"Steel Dolabra",False,0,0,,,"",0,100,0
+263259.4,"Plumed Mythril Pickaxe",False,0,0,,,"",0,100,0
+263259.5,"Iron Sledgehammer",False,0,0,,,"",0,100,0
+263259.6,"Steel Sledgehammer",False,0,0,,,"",0,100,0
+263259.7,"Wrapped Steel Sledgehammer",False,0,0,,,"",0,100,0
+263259.8,"Brass Hatchet",False,0,0,,,"",0,100,0
+263259.9,"Plumed Iron Hatchet",False,0,0,,,"",0,100,0
+263259.10,"Steel Hatchet",False,0,0,,,"",0,100,0
+263259.11,"Plumed Steel Hatchet",False,0,0,,,"",0,100,0
+263259.12,"Mythril Hatchet",False,0,0,,,"",0,100,0
+263259.13,"Initiate's Scythe",False,0,0,,,"",0,100,0
+263259.14,"Steel Scythe",False,0,0,,,"",0,100,0
+263259.15,"Wrapped Steel Scythe",False,0,0,,,"",0,100,0
+263259.16,"Yew Fishing Rod",False,0,0,,,"",0,100,0
+263259.17,"Staghorn Fishing Rod",False,0,0,,,"",0,100,0
+263259.18,"Walnut Fishing Rod",False,0,0,,,"",0,100,0
+263259.19,"Horn Fishing Rod",False,0,0,,,"",0,100,0
+263259.20,"Mahogany Fishing Rod",False,0,0,,,"",0,100,0
+263260.0,"Cobalt Dolabra",False,0,0,,,"",0,100,0
+263260.1,"Egret Dolabra",False,0,0,,,"",0,100,0
+263260.2,"Mythrite Pickaxe",False,0,0,,,"",0,100,0
+263260.3,"Hardsilver Dolabra",False,0,0,,,"",0,100,0
+263260.4,"Titanium Pickaxe",False,0,0,,,"",0,100,0
+263260.5,"Adamantite Dolabra",False,0,0,,,"",0,100,0
+263260.6,"Mythril Sledgehammer",False,0,0,,,"",0,100,0
+263260.7,"Cobalt Sledgehammer",False,0,0,,,"",0,100,0
+263260.8,"Mythrite Sledgehammer",False,0,0,,,"",0,100,0
+263260.9,"Titanium Sledgehammer",False,0,0,,,"",0,100,0
+263260.10,"Adamantite Sledgehammer",False,0,0,,,"",0,100,0
+263260.11,"Cobalt Hatchet",False,0,0,,,"",0,100,0
+263260.12,"Horned Hatchet",False,0,0,,,"",0,100,0
+263260.13,"Mythrite Hatchet",False,0,0,,,"",0,100,0
+263260.14,"Titanium Hatchet",False,0,0,,,"",0,100,0
+263260.15,"Hardsilver Hatchet",False,0,0,,,"",0,100,0
+263260.16,"Adamantite Hatchet",False,0,0,,,"",0,100,0
+263260.17,"Mythril Scythe",False,0,0,,,"",0,100,0
+263260.18,"Cobalt Scythe",False,0,0,,,"",0,100,0
+263260.19,"Mythrite Scythe",False,0,0,,,"",0,100,0
+263260.20,"Titanium Scythe",False,0,0,,,"",0,100,0
+263260.21,"Adamantite Scythe",False,0,0,,,"",0,100,0
+263260.22,"Rosewood Fishing Rod",False,0,0,,,"",0,100,0
+263260.23,"Gilded Rosewood Fishing Rod",False,0,0,,,"",0,100,0
+263260.24,"Cedar Fishing Rod",False,0,0,,,"",0,100,0
+263260.25,"Dark Chestnut Fishing Rod",False,0,0,,,"",0,100,0
+263260.26,"Hallowed Chestnut Fishing Rod",False,0,0,,,"",0,100,0
+263260.27,"Birch Fishing Rod",False,0,0,,,"",0,100,0
+263261.0,"High Steel Dolabra",False,0,0,,,"",0,100,0
+263261.1,"Doman Iron Pickaxe",False,0,0,,,"",0,100,0
+263261.2,"Plumed Doman Steel Pickaxe",False,0,0,,,"",0,100,0
+263261.3,"Molybdenum Pickaxe",False,0,0,,,"",0,100,0
+263261.4,"Deepgold Pickaxe",False,0,0,,,"",0,100,0
+263261.5,"Bluespirit Pickaxe",False,0,0,,,"",0,100,0
+263261.6,"Titanbronze Pickaxe",False,0,0,,,"",0,100,0
+263261.7,"Dwarven Mythril Pickaxe",False,0,0,,,"",0,100,0
+263261.8,"High Steel Sledgehammer",False,0,0,,,"",0,100,0
+263261.9,"Doman Iron Sledgehammer",False,0,0,,,"",0,100,0
+263261.10,"Doman Steel Sledgehammer",False,0,0,,,"",0,100,0
+263261.11,"Molybdenum Sledgehammer",False,0,0,,,"",0,100,0
+263261.12,"Deepgold Sledgehammer",False,0,0,,,"",0,100,0
+263261.13,"Bluespirit Sledgehammer",False,0,0,,,"",0,100,0
+263261.14,"Titanbronze Sledgehammer",False,0,0,,,"",0,100,0
+263261.15,"Dwarven Mythril Sledgehammer",False,0,0,,,"",0,100,0
+263261.16,"High Steel Hatchet",False,0,0,,,"",0,100,0
+263261.17,"Doman Iron Hatchet",False,0,0,,,"",0,100,0
+263261.18,"Doman Steel Hatchet",False,0,0,,,"",0,100,0
+263261.19,"Molybdenum Hatchet",False,0,0,,,"",0,100,0
+263261.20,"Deepgold Hatchet",False,0,0,,,"",0,100,0
+263261.21,"Bluespirit Hatchet",False,0,0,,,"",0,100,0
+263261.22,"Titanbronze Hatchet",False,0,0,,,"",0,100,0
+263261.23,"Dwarven Mythril Hatchet",False,0,0,,,"",0,100,0
+263261.24,"High Steel Scythe",False,0,0,,,"",0,100,0
+263261.25,"Doman Iron Scythe",False,0,0,,,"",0,100,0
+263261.26,"Doman Steel Scythe",False,0,0,,,"",0,100,0
+263261.27,"Molybdenum Scythe",False,0,0,,,"",0,100,0
+263261.28,"Deepgold Scythe",False,0,0,,,"",0,100,0
+263261.29,"Bluespirit Scythe",False,0,0,,,"",0,100,0
+263261.30,"Titanbronze Scythe",False,0,0,,,"",0,100,0
+263261.31,"Dwarven Mythril Scythe",False,0,0,,,"",0,100,0
+263261.32,"Muudhorn Fishing Rod",False,0,0,,,"",0,100,0
+263261.33,"Pine Fishing Rod",False,0,0,,,"",0,100,0
+263261.34,"Gazelle Horn Fishing Rod",False,0,0,,,"",0,100,0
+263261.35,"Zelkova Fishing Rod",False,0,0,,,"",0,100,0
+263261.36,"White Oak Fishing Rod",False,0,0,,,"",0,100,0
+263261.37,"White Ash Fishing Rod",False,0,0,,,"",0,100,0
+263261.38,"Sandteak Fishing Rod",False,0,0,,,"",0,100,0
+263261.39,"Lignum Vitae Fishing Rod",False,0,0,,,"",0,100,0
+263261.40,"Spearfishing Gig",False,0,0,"A New Fishing Ex-spear-ience",,"",0,100,0
+263262.0,"High Durium Pickaxe",False,0,0,,,"",0,100,0
+263262.1,"Bismuth Pickaxe",False,0,0,,,"",0,100,0
+263262.2,"Manganese Pickaxe",False,0,0,,,"",0,100,0
+263262.3,"Chondrite Pickaxe",False,0,0,,,"",0,100,0
+263262.4,"Mountain Chromite Pickaxe",False,0,0,,,"",0,100,0
+263262.5,"Cobalt Tungsten Pickaxe",False,0,0,,,"",0,100,0
+263262.6,"Titanium Gold Pickaxe",False,0,0,,,"",0,100,0
+263262.7,"Ra'Kaznar Pickaxe",False,0,0,,,"",0,100,0
+263262.8,"High Durium Sledgehammer",False,0,0,,,"",0,100,0
+263262.9,"Bismuth Sledgehammer",False,0,0,,,"",0,100,0
+263262.10,"Manganese Sledgehammer",False,0,0,,,"",0,100,0
+263262.11,"Chondrite Sledgehammer",False,0,0,,,"",0,100,0
+263262.12,"Mountain Chromite Maul",False,0,0,,,"",0,100,0
+263262.13,"Cobalt Tungsten Maul",False,0,0,,,"",0,100,0
+263262.14,"Titanium Gold Maul",False,0,0,,,"",0,100,0
+263262.15,"Ra'Kaznar Maul",False,0,0,,,"",0,100,0
+263262.16,"High Durium Hatchet",False,0,0,,,"",0,100,0
+263262.17,"Bismuth Hatchet",False,0,0,,,"",0,100,0
+263262.18,"Manganese Hatchet",False,0,0,,,"",0,100,0
+263262.19,"Chondrite Hatchet",False,0,0,,,"",0,100,0
+263262.20,"Mountain Chromite Hatchet",False,0,0,,,"",0,100,0
+263262.21,"Cobalt Tungsten Hatchet",False,0,0,,,"",0,100,0
+263262.22,"Titanium Gold Hatchet",False,0,0,,,"",0,100,0
+263262.23,"Ra'Kaznar Hatchet",False,0,0,,,"",0,100,0
+263262.24,"High Durium Garden Scythe",False,0,0,,,"",0,100,0
+263262.25,"Bismuth Garden Scythe",False,0,0,,,"",0,100,0
+263262.26,"Manganese Garden Scythe",False,0,0,,,"",0,100,0
+263262.27,"Chondrite Garden Scythe",False,0,0,,,"",0,100,0
+263262.28,"Mountain Chromite Garden Scythe",False,0,0,,,"",0,100,0
+263262.29,"Cobalt Tungsten Garden Scythe",False,0,0,,,"",0,100,0
+263262.30,"Titanium Gold Garden Scythe",False,0,0,,,"",0,100,0
+263262.31,"Ra'Kaznar Garden Scythe",False,0,0,,,"",0,100,0
+263262.32,"Horse Chestnut Fishing Rod",False,0,0,,,"",0,100,0
+263262.33,"Red Pine Fishing Rod",False,0,0,,,"",0,100,0
+263262.34,"Ironwood Fishing Rod",False,0,0,,,"",0,100,0
+263262.35,"Integral Fishing Rod",False,0,0,,,"",0,100,0
+263262.36,"Ginseng Fishing Rod",False,0,0,,,"",0,100,0
+263262.37,"Dark Mahogany Fishing Rod",False,0,0,,,"",0,100,0
+263262.38,"Acacia Fishing Rod",False,0,0,,,"",0,100,0
+263262.39,"Claro Walnut Fishing Rod",False,0,0,,,"",0,100,0
+263262.40,"Spearfishing Gig",False,0,0,"A New Fishing Ex-spear-ience",,"",0,100,0
+263263.0,"Leather Calot",False,0,0,,,"",0,100,0
+263263.1,"Hempen Bandana",False,0,0,,,"",0,100,0
+263263.2,"Amateur's Headgear",False,0,0,,,"",0,100,0
+263263.3,"Cotton Scarf",False,0,0,,,"",0,100,0
+263263.4,"Initiate's Headgear",False,0,0,,,"",0,100,0
+263263.5,"Hempen Kurta",False,0,0,,,"",0,100,0
+263263.6,"Hempen Shepherd's Tunic",False,0,0,,,"",0,100,0
+263263.7,"Amateur's Kurta",False,0,0,,,"",0,100,0
+263263.8,"Hempen Doublet Vest of Crafting",False,0,0,,,"",0,100,0
+263263.9,"Cotton Shepherd's Tunic",False,0,0,,,"",0,100,0
+263263.10,"Cotton Kurta",False,0,0,,,"",0,100,0
+263263.11,"Hempen Halfgloves",False,0,0,,,"",0,100,0
+263263.12,"Hempen Shortgloves",False,0,0,,,"",0,100,0
+263263.13,"Amateur's Smithing Gloves",False,0,0,,,"",0,100,0
+263263.14,"Cotton Halfgloves",False,0,0,,,"",0,100,0
+263263.15,"Initiate's Gloves",False,0,0,,,"",0,100,0
+263263.16,"Hempen Breeches of Crafting",False,0,0,,,"",0,100,0
+263263.17,"Hempen Chausses",False,0,0,,,"",0,100,0
+263263.18,"Hempen Bottoms",False,0,0,,,"",0,100,0
+263263.19,"Cotton Chausses",False,0,0,,,"",0,100,0
+263263.20,"Cotton Breeches of Crafting",False,0,0,,,"",0,100,0
+263263.21,"Maple Clogs",False,0,0,,,"",0,100,0
+263263.22,"Maple Pattens",False,0,0,,,"",0,100,0
+263263.23,"Amateur's Thighboots",False,0,0,,,"",0,100,0
+263263.24,"Ash Pattens",False,0,0,,,"",0,100,0
+263263.25,"Initiate's Thighboots",False,0,0,,,"",0,100,0
+263264.0,"Velveteen Bandana",False,0,0,,,"",0,100,0
+263264.1,"Silver Magnifiers",False,0,0,,,"",0,100,0
+263264.2,"Velveteen Wedge Cap of Crafting",False,0,0,,,"",0,100,0
+263264.3,"Velveteen Beret",False,0,0,,,"",0,100,0
+263264.4,"Steel Goggles",False,0,0,,,"",0,100,0
+263264.5,"Mythril Magnifiers",False,0,0,,,"",0,100,0
+263264.6,"Linen Wedge Cap of Crafting",False,0,0,,,"",0,100,0
+263264.7,"Cotton Doublet Vest of Crafting",False,0,0,,,"",0,100,0
+263264.8,"Initiate's Gown",False,0,0,,,"",0,100,0
+263264.9,"Velveteen Coatee of Crafting",False,0,0,,,"",0,100,0
+263264.10,"Velveteen Gown",False,0,0,,,"",0,100,0
+263264.11,"Velveteen Doublet Vest of Crafting",False,0,0,,,"",0,100,0
+263264.12,"Linen Coatee of Crafting",False,0,0,,,"",0,100,0
+263264.13,"Velveteen Halfgloves",False,0,0,,,"",0,100,0
+263264.14,"Velveteen Shortgloves",False,0,0,,,"",0,100,0
+263264.15,"Linen Halfgloves",False,0,0,,,"",0,100,0
+263264.16,"Linen Shortgloves",False,0,0,,,"",0,100,0
+263264.17,"Velveteen Chausses",False,0,0,,,"",0,100,0
+263264.18,"Velveteen Bottoms",False,0,0,,,"",0,100,0
+263264.19,"Linen Chausses",False,0,0,,,"",0,100,0
+263264.20,"Linen Bottoms",False,0,0,,,"",0,100,0
+263264.21,"Elm Pattens",False,0,0,,,"",0,100,0
+263264.22,"Velveteen Gaiters",False,0,0,,,"",0,100,0
+263264.23,"Walnut Pattens",False,0,0,,,"",0,100,0
+263264.24,"Linen Gaiters",False,0,0,,,"",0,100,0
+263265.0,"Linen Deerstalker",False,0,0,,,"",0,100,0
+263265.1,"Woolen Beret",False,0,0,,,"",0,100,0
+263265.2,"Cobalt Preserves",False,0,0,,,"",0,100,0
+263265.3,"Woolen Deerstalker",False,0,0,,,"",0,100,0
+263265.4,"Felt Beret",False,0,0,,,"",0,100,0
+263265.5,"Patrician's Wedge Cap",False,0,0,,,"",0,100,0
+263265.6,"Mythrite Goggles of Crafting",False,0,0,,,"",0,100,0
+263265.7,"Holy Rainbow Wedge Cap",False,0,0,,,"",0,100,0
+263265.8,"Ramie Turban of Crafting",False,0,0,,,"",0,100,0
+263265.9,"Chimerical Felt Turban of Crafting",False,0,0,,,"",0,100,0
+263265.10,"Linen Smock",False,0,0,,,"",0,100,0
+263265.11,"Woolen Gown",False,0,0,,,"",0,100,0
+263265.12,"Woolen Smock",False,0,0,,,"",0,100,0
+263265.13,"Felt Gown",False,0,0,,,"",0,100,0
+263265.14,"Patrician's Coatee",False,0,0,,,"",0,100,0
+263265.15,"Archaeoskin Jackcoat of Crafting",False,0,0,,,"",0,100,0
+263265.16,"Holy Rainbow Coatee",False,0,0,,,"",0,100,0
+263265.17,"Ramie Doublet of Crafting",False,0,0,,,"",0,100,0
+263265.18,"Chimerical Felt Doublet of Crafting",False,0,0,,,"",0,100,0
+263265.19,"Boarskin Smithy's Gloves",False,0,0,,,"",0,100,0
+263265.20,"Woolen Halfgloves",False,0,0,,,"",0,100,0
+263265.21,"Raptorskin Smithy's Gloves",False,0,0,,,"",0,100,0
+263265.22,"Felt Halfgloves",False,0,0,,,"",0,100,0
+263265.23,"Patrician's Gloves",False,0,0,,,"",0,100,0
+263265.24,"Archaeoskin Gloves of Crafting",False,0,0,,,"",0,100,0
+263265.25,"Holy Rainbow Gloves",False,0,0,,,"",0,100,0
+263265.26,"Dhalmelskin Halfgloves of Crafting",False,0,0,,,"",0,100,0
+263265.27,"Serpentskin Halfgloves of Crafting",False,0,0,,,"",0,100,0
+263265.28,"Linen Slops",False,0,0,,,"",0,100,0
+263265.29,"Woolen Chausses",False,0,0,,,"",0,100,0
+263265.30,"Woolen Slops",False,0,0,,,"",0,100,0
+263265.31,"Felt Chausses",False,0,0,,,"",0,100,0
+263265.32,"Archaeoskin Breeches of Crafting",False,0,0,,,"",0,100,0
+263265.33,"Holy Rainbow Bottoms",False,0,0,,,"",0,100,0
+263265.34,"Ramie Skirt",False,0,0,,,"",0,100,0
+263265.35,"Chimerical Felt Skirt",False,0,0,,,"",0,100,0
+263265.36,"Boarskin Thighboots",False,0,0,,,"",0,100,0
+263265.37,"Oak Pattens",False,0,0,,,"",0,100,0
+263265.38,"Raptorskin Thighboots",False,0,0,,,"",0,100,0
+263265.39,"Mahogany Pattens",False,0,0,,,"",0,100,0
+263265.40,"Patrician's Gaiters",False,0,0,,,"",0,100,0
+263265.41,"Archaeoskin Jackboots of Crafting",False,0,0,,,"",0,100,0
+263265.42,"Holy Rainbow Shoes",False,0,0,,,"",0,100,0
+263265.43,"Dhalmelskin Shoes",False,0,0,,,"",0,100,0
+263265.44,"Serpentskin Shoes",False,0,0,,,"",0,100,0
+263266.0,"Bloodhempen Turban of Crafting",False,0,0,,,"",0,100,0
+263266.1,"Ruby Cotton Cap",False,0,0,,,"",0,100,0
+263266.2,"Kudzu Cap of Crafting",False,0,0,,,"",0,100,0
+263266.3,"Serge Turban of Crafting",False,0,0,,,"",0,100,0
+263266.4,"Serge Knit Cap",False,0,0,,,"",0,100,0
+263266.5,"Brightlinen Turban of Crafting",False,0,0,,,"",0,100,0
+263266.6,"Pixie Cotton Hat of Crafting",False,0,0,,,"",0,100,0
+263266.7,"Ovim Wool Turban of Crafting",False,0,0,,,"",0,100,0
+263266.8,"Dwarven Cotton Beret",False,0,0,,,"",0,100,0
+263266.9,"Bloodhempen Doublet of Crafting",False,0,0,,,"",0,100,0
+263266.10,"Ruby Cotton Coatee",False,0,0,,,"",0,100,0
+263266.11,"Kudzu Robe of Crafting",False,0,0,,,"",0,100,0
+263266.12,"Marid Leather Bolero of Crafting",False,0,0,,,"",0,100,0
+263266.13,"Twinsilk Suspenders",False,0,0,,,"",0,100,0
+263266.14,"Brightlinen Doublet Vest of Crafting",False,0,0,,,"",0,100,0
+263266.15,"Pixie Cotton Apron of Crafting",False,0,0,,,"",0,100,0
+263266.16,"Zonureskin Jacket of Crafting",False,0,0,,,"",0,100,0
+263266.17,"Dwarven Cotton Jacket",False,0,0,,,"",0,100,0
+263266.18,"Gaganaskin Halfgloves",False,0,0,,,"",0,100,0
+263266.19,"Gyuki Leather Gloves of Crafting",False,0,0,,,"",0,100,0
+263266.20,"Durium Chaplets",False,0,0,,,"",0,100,0
+263266.21,"Marid Leather Gloves of Crafting",False,0,0,,,"",0,100,0
+263266.22,"Gazelleskin Gloves of Crafting",False,0,0,,,"",0,100,0
+263266.23,"Smilodonskin Gloves of Crafting",False,0,0,,,"",0,100,0
+263266.24,"Pixie Cotton Sleeves of Crafting",False,0,0,,,"",0,100,0
+263266.25,"Zonureskin Gloves of Crafting",False,0,0,,,"",0,100,0
+263266.26,"Swallowskin Fingerless Gloves",False,0,0,,,"",0,100,0
+263266.27,"Bloodhempen Skirt",False,0,0,,,"",0,100,0
+263266.28,"Ruby Cotton Bottoms",False,0,0,,,"",0,100,0
+263266.29,"Kudzu Culottes of Crafting",False,0,0,,,"",0,100,0
+263266.30,"Serge Sarouel of Crafting",False,0,0,,,"",0,100,0
+263266.31,"Cropped Twinsilk Slops",False,0,0,,,"",0,100,0
+263266.32,"Brightlinen Bottoms of Crafting",False,0,0,,,"",0,100,0
+263266.33,"Pixie Cotton Breeches of Crafting",False,0,0,,,"",0,100,0
+263266.34,"Ovim Wool Gaskins of Crafting",False,0,0,,,"",0,100,0
+263266.35,"Dwarven Cotton Trousers",False,0,0,,,"",0,100,0
+263266.36,"Gaganaskin Shoes",False,0,0,,,"",0,100,0
+263266.37,"Gyuki Leather Shoes",False,0,0,,,"",0,100,0
+263266.38,"Tigerskin Boots of Crafting",False,0,0,,,"",0,100,0
+263266.39,"Marid Leather Babouches of Crafting",False,0,0,,,"",0,100,0
+263266.40,"Gazelleskin Shoes",False,0,0,,,"",0,100,0
+263266.41,"Smilodonskin Shoes of Crafting",False,0,0,,,"",0,100,0
+263266.42,"Atrociraptorskin Boots of Crafting",False,0,0,,,"",0,100,0
+263266.43,"Zonureskin Shoes of Crafting",False,0,0,,,"",0,100,0
+263266.44,"Swallowskin Shoes",False,0,0,,,"",0,100,0
+263267.0,"Darkhempen Hat",False,0,0,,,"",0,100,0
+263267.1,"Snow Linen Turban of Crafting",False,0,0,,,"",0,100,0
+263267.2,"Scarlet Moko Wedge Cap of Crafting",False,0,0,,,"",0,100,0
+263267.3,"AR-Caean Velvet Work Cap of Crafting",False,0,0,,,"",0,100,0
+263267.4,"Snow Cotton Beret",False,0,0,,,"",0,100,0
+263267.5,"Sarcenet Work Cap of Crafting",False,0,0,,,"",0,100,0
+263267.6,"Rroneek Serge Cap of Crafting",False,0,0,,,"",0,100,0
+263267.7,"Thunderyards Silk Cap of Crafting",False,0,0,,,"",0,100,0
+263267.8,"Darkhempen Dogi",False,0,0,,,"",0,100,0
+263267.9,"Snow Linen Doublet of Crafting",False,0,0,,,"",0,100,0
+263267.10,"Scarlet Moko Coatee of Crafting",False,0,0,,,"",0,100,0
+263267.11,"AR-Caean Velvet Work Shirt of Crafting",False,0,0,,,"",0,100,0
+263267.12,"Snow Cotton Jacket",False,0,0,,,"",0,100,0
+263267.13,"Sarcenet Work Shirt of Crafting",False,0,0,,,"",0,100,0
+263267.14,"Rroneek Serge Doublet of Crafting",False,0,0,,,"",0,100,0
+263267.15,"Thunderyards Silk Shirt of Crafting",False,0,0,,,"",0,100,0
+263267.16,"Gajaskin Handekko",False,0,0,,,"",0,100,0
+263267.17,"Saigaskin Gloves of Crafting",False,0,0,,,"",0,100,0
+263267.18,"Kumbhiraskin Gloves of Crafting",False,0,0,,,"",0,100,0
+263267.19,"Ophiotauroskin Halfgloves of Crafting",False,0,0,,,"",0,100,0
+263267.20,"Loboskin Fingerless Gloves",False,0,0,,,"",0,100,0
+263267.21,"Br'aaxskin Halfgloves of Crafting",False,0,0,,,"",0,100,0
+263267.22,"Gomphotherium Fingerless Gloves of Crafting",False,0,0,,,"",0,100,0
+263267.23,"Gargantuaskin Halfgloves of Crafting",False,0,0,,,"",0,100,0
+263267.24,"Darkhempen Momohiki",False,0,0,,,"",0,100,0
+263267.25,"Snow Linen Bottoms of Crafting",False,0,0,,,"",0,100,0
+263267.26,"Scarlet Moko Bottoms of Crafting",False,0,0,,,"",0,100,0
+263267.27,"AR-Caean Velvet Hose of Crafting",False,0,0,,,"",0,100,0
+263267.28,"Snow Cotton Trousers",False,0,0,,,"",0,100,0
+263267.29,"Sarcenet Hose of Crafting",False,0,0,,,"",0,100,0
+263267.30,"Rroneek Serge Trousers of Crafting",False,0,0,,,"",0,100,0
+263267.31,"Thunderyards Silk Culottes of Crafting",False,0,0,,,"",0,100,0
+263267.32,"Gajaskin Tabi",False,0,0,,,"",0,100,0
+263267.33,"Saigaskin Shoes of Crafting",False,0,0,,,"",0,100,0
+263267.34,"Kumbhiraskin Shoes of Crafting",False,0,0,,,"",0,100,0
+263267.35,"Ophiotauroskin Workboots of Crafting",False,0,0,,,"",0,100,0
+263267.36,"Loboskin Shoes",False,0,0,,,"",0,100,0
+263267.37,"Br'aaxskin Workboots of Crafting",False,0,0,,,"",0,100,0
+263267.38,"Gomphotherium Boots",False,0,0,,,"",0,100,0
+263267.39,"Claro Walnut Sandals of Crafting",False,0,0,,,"",0,100,0
+263268.0,"Hempen Coif of Gathering",False,0,0,,,"",0,100,0
+263268.1,"Hempen Bandana",False,0,0,,,"",0,100,0
+263268.2,"Straw Hat",False,0,0,,,"",0,100,0
+263268.3,"Stablemaid's Hat",False,0,0,,,"",0,100,0
+263268.4,"Stablehand's Hat",False,0,0,,,"",0,100,0
+263268.5,"Hard Leather Skullcap",False,0,0,,,"",0,100,0
+263268.6,"Cotton Coif of Gathering",False,0,0,,,"",0,100,0
+263268.7,"Hempen Dalmatica of Gathering",False,0,0,,,"",0,100,0
+263268.8,"Hempen Shepherd's Tunic",False,0,0,,,"",0,100,0
+263268.9,"Amateur's Doublet Vest",False,0,0,,,"",0,100,0
+263268.10,"Hempen Doublet Vest of Gathering",False,0,0,,,"",0,100,0
+263268.11,"Cotton Shepherd's Tunic",False,0,0,,,"",0,100,0
+263268.12,"Cotton Dalmatica of Gathering",False,0,0,,,"",0,100,0
+263268.13,"Leather Wristguards",False,0,0,,,"",0,100,0
+263268.14,"Hempen Work Gloves",False,0,0,,,"",0,100,0
+263268.15,"Hard Leather Wristguards",False,0,0,,,"",0,100,0
+263268.16,"Goatskin Wristguards",False,0,0,,,"",0,100,0
+263268.17,"Cotton Work Gloves",False,0,0,,,"",0,100,0
+263268.18,"Hempen Shepherd's Slops",False,0,0,,,"",0,100,0
+263268.19,"Leather Culottes",False,0,0,,,"",0,100,0
+263268.20,"Amateur's Slops",False,0,0,,,"",0,100,0
+263268.21,"Cotton Shepherd's Slops",False,0,0,,,"",0,100,0
+263268.22,"Initiate's Slops",False,0,0,,,"",0,100,0
+263268.23,"Leather Duckbills of Gathering",False,0,0,,,"",0,100,0
+263268.24,"Leather Shoes",False,0,0,,,"",0,100,0
+263268.25,"Hard Leather Shoes",False,0,0,,,"",0,100,0
+263268.26,"Hard Leather Espadrilles",False,0,0,,,"",0,100,0
+263268.27,"Padded Leather Duckbills of Gathering",False,0,0,,,"",0,100,0
+263269.0,"Velveteen Bandana",False,0,0,,,"",0,100,0
+263269.1,"Velveteen Wedge Cap of Gathering",False,0,0,,,"",0,100,0
+263269.2,"Steel Goggles",False,0,0,,,"",0,100,0
+263269.3,"Angler's Hat",False,0,0,,,"",0,100,0
+263269.4,"Linen Wedge Cap of Gathering",False,0,0,,,"",0,100,0
+263269.5,"Woolen Coif of Gathering",False,0,0,,,"",0,100,0
+263269.6,"Cotton Doublet Vest of Gathering",False,0,0,,,"",0,100,0
+263269.7,"Initiate's Doublet Vest",False,0,0,,,"",0,100,0
+263269.8,"Velveteen Coatee of Gathering",False,0,0,,,"",0,100,0
+263269.9,"Toadskin Jerkin",False,0,0,,,"",0,100,0
+263269.10,"Velveteen Doublet Vest of Gathering",False,0,0,,,"",0,100,0
+263269.11,"Linen Coatee of Gathering",False,0,0,,,"",0,100,0
+263269.12,"Fingerless Goatskin Gloves of Gathering",False,0,0,,,"",0,100,0
+263269.13,"Velveteen Work Gloves",False,0,0,,,"",0,100,0
+263269.14,"Fingerless Boarskin Gloves of Gathering",False,0,0,,,"",0,100,0
+263269.15,"Fingerless Peisteskin Gloves of Gathering",False,0,0,,,"",0,100,0
+263269.16,"Velveteen Sarouel of Gathering",False,0,0,,,"",0,100,0
+263269.17,"Toadskin Culottes",False,0,0,,,"",0,100,0
+263269.18,"Linen Sarouel of Gathering",False,0,0,,,"",0,100,0
+263269.19,"Woolen Sarouel of Gathering",False,0,0,,,"",0,100,0
+263269.20,"Goatskin Espadrilles",False,0,0,,,"",0,100,0
+263269.21,"Goatskin Crakows of Gathering",False,0,0,,,"",0,100,0
+263269.22,"Toadskin Workboots",False,0,0,,,"",0,100,0
+263269.23,"Boarskin Crakows of Gathering",False,0,0,,,"",0,100,0
+263269.24,"Peisteskin Crakows of Gathering",False,0,0,,,"",0,100,0
+263270.0,"Mythril Mesail",False,0,0,,,"",0,100,0
+263270.1,"Cobalt Preserves",False,0,0,,,"",0,100,0
+263270.2,"Felt Coif of Gathering",False,0,0,,,"",0,100,0
+263270.3,"Cobalt Mesail",False,0,0,,,"",0,100,0
+263270.4,"Mythrite Goggles of Gathering",False,0,0,,,"",0,100,0
+263270.5,"Holy Rainbow Hat",False,0,0,,,"",0,100,0
+263270.6,"Dhalmelskin Bush Hat",False,0,0,,,"",0,100,0
+263270.7,"Serpentskin Bush Hat",False,0,0,,,"",0,100,0
+263270.8,"Linen Doublet",False,0,0,,,"",0,100,0
+263270.9,"Boarskin Jerkin",False,0,0,,,"",0,100,0
+263270.10,"Woolen Doublet",False,0,0,,,"",0,100,0
+263270.11,"Raptorskin Jerkin",False,0,0,,,"",0,100,0
+263270.12,"Archaeoskin Jackcoat of Gathering",False,0,0,,,"",0,100,0
+263270.13,"Wyvernskin Jerkin",False,0,0,,,"",0,100,0
+263270.14,"Dhalmelskin Vest",False,0,0,,,"",0,100,0
+263270.15,"Serpentskin Vest",False,0,0,,,"",0,100,0
+263270.16,"Woolen Work Gloves",False,0,0,,,"",0,100,0
+263270.17,"Fingerless Raptorskin Gloves of Gathering",False,0,0,,,"",0,100,0
+263270.18,"Felt Work Gloves",False,0,0,,,"",0,100,0
+263270.19,"Archaeoskin Gloves of Gathering",False,0,0,,,"",0,100,0
+263270.20,"Holy Rainbow Work Gloves",False,0,0,,,"",0,100,0
+263270.21,"Dhalmelskin Gloves",False,0,0,,,"",0,100,0
+263270.22,"Serpentskin Gloves",False,0,0,,,"",0,100,0
+263270.23,"Boarskin Culottes",False,0,0,,,"",0,100,0
+263270.24,"Raptorskin Culottes",False,0,0,,,"",0,100,0
+263270.25,"Archaeoskin Breeches of Gathering",False,0,0,,,"",0,100,0
+263270.26,"Wyvernskin Culottes",False,0,0,,,"",0,100,0
+263270.27,"Ramie Trousers of Gathering",False,0,0,,,"",0,100,0
+263270.28,"Chimerical Felt Trousers",False,0,0,,,"",0,100,0
+263270.29,"Boarskin Workboots",False,0,0,,,"",0,100,0
+263270.30,"Raptorskin Workboots",False,0,0,,,"",0,100,0
+263270.31,"Archaeoskin Jackboots of Gathering",False,0,0,,,"",0,100,0
+263270.32,"Wyvernskin Workboots",False,0,0,,,"",0,100,0
+263270.33,"Dhalmelskin Fringe Boots",False,0,0,,,"",0,100,0
+263270.34,"Serpentskin Fringe Boots",False,0,0,,,"",0,100,0
+263271.0,"Gaganaskin Bush Hat",False,0,0,,,"",0,100,0
+263271.1,"Gyuki Leather Hat",False,0,0,,,"",0,100,0
+263271.2,"Tigerskin Cap of Gathering",False,0,0,,,"",0,100,0
+263271.3,"Serge Turban of Gathering",False,0,0,,,"",0,100,0
+263271.4,"Serge Hood",False,0,0,,,"",0,100,0
+263271.5,"Brightlinen Turban of Gathering",False,0,0,,,"",0,100,0
+263271.6,"Atrociraptorskin Cap of Gathering",False,0,0,,,"",0,100,0
+263271.7,"Ovim Wool Turban of Gathering",False,0,0,,,"",0,100,0
+263271.8,"Dwarven Cotton Bandana",False,0,0,,,"",0,100,0
+263271.9,"Gaganaskin Vest",False,0,0,,,"",0,100,0
+263271.10,"Gyuki Leather Jacket",False,0,0,,,"",0,100,0
+263271.11,"Kudzu Coat of Gathering",False,0,0,,,"",0,100,0
+263271.12,"Marid Leather Bolero of Gathering",False,0,0,,,"",0,100,0
+263271.13,"Serge Poncho",False,0,0,,,"",0,100,0
+263271.14,"Brightlinen Coat of Gathering",False,0,0,,,"",0,100,0
+263271.15,"Atrociraptorskin Vest of Gathering",False,0,0,,,"",0,100,0
+263271.16,"Zonureskin Robe of Gathering",False,0,0,,,"",0,100,0
+263271.17,"Swallowskin Coat",False,0,0,,,"",0,100,0
+263271.18,"Gaganaskin Gloves",False,0,0,,,"",0,100,0
+263271.19,"Gyuki Leather Gloves of Gathering",False,0,0,,,"",0,100,0
+263271.20,"Tigerskin Fingerless Gloves of Gathering",False,0,0,,,"",0,100,0
+263271.21,"Marid Leather Gloves of Gathering",False,0,0,,,"",0,100,0
+263271.22,"Serge Work Gloves",False,0,0,,,"",0,100,0
+263271.23,"Smilodonskin Gloves of Gathering",False,0,0,,,"",0,100,0
+263271.24,"Atrociraptorskin Gloves of Gathering",False,0,0,,,"",0,100,0
+263271.25,"Zonureskin Gloves of Gathering",False,0,0,,,"",0,100,0
+263271.26,"Swallowskin Gloves",False,0,0,,,"",0,100,0
+263271.27,"Bloodhempen Trousers of Gathering",False,0,0,,,"",0,100,0
+263271.28,"Gyuki Leather Chaps",False,0,0,,,"",0,100,0
+263271.29,"Kudzu Culottes of Gathering",False,0,0,,,"",0,100,0
+263271.30,"Serge Sarouel of Gathering",False,0,0,,,"",0,100,0
+263271.31,"Twinsilk Slops of Gathering",False,0,0,,,"",0,100,0
+263271.32,"Brightlinen Bottoms of Gathering",False,0,0,,,"",0,100,0
+263271.33,"Pixie Cotton Slops of Gathering",False,0,0,,,"",0,100,0
+263271.34,"Ovim Wool Gaskins of Gathering",False,0,0,,,"",0,100,0
+263271.35,"Dwarven Cotton Breeches",False,0,0,,,"",0,100,0
+263271.36,"Gaganaskin Fringe Boots",False,0,0,,,"",0,100,0
+263271.37,"Gyuki Leather Boots of Gathering",False,0,0,,,"",0,100,0
+263271.38,"Tigerskin Boots of Gathering",False,0,0,,,"",0,100,0
+263271.39,"Marid Leather Babouches of Gathering",False,0,0,,,"",0,100,0
+263271.40,"Fur-lined Gazelleskin Boots",False,0,0,,,"",0,100,0
+263271.41,"Smilodonskin Shoes of Gathering",False,0,0,,,"",0,100,0
+263271.42,"Atrociraptorskin Boots of Gathering",False,0,0,,,"",0,100,0
+263271.43,"Zonureskin Shoes of Gathering",False,0,0,,,"",0,100,0
+263271.44,"Swallowskin Boots",False,0,0,,,"",0,100,0
+263272.0,"Horse Chestnut Kasa",False,0,0,,,"",0,100,0
+263272.1,"Snow Linen Turban of Gathering",False,0,0,,,"",0,100,0
+263272.2,"Scarlet Moko Beret of Gathering",False,0,0,,,"",0,100,0
+263272.3,"AR-Caean Velvet Trapper's Hat of Gathering",False,0,0,,,"",0,100,0
+263272.4,"Snow Cotton Bandana",False,0,0,,,"",0,100,0
+263272.5,"Sarcenet Trapper's Hat of Gathering",False,0,0,,,"",0,100,0
+263272.6,"Rroneek Serge Hat of Gathering",False,0,0,,,"",0,100,0
+263272.7,"Gargantuaskin Hat of Gathering",False,0,0,,,"",0,100,0
+263272.8,"Darkhempen Tabigoromo",False,0,0,,,"",0,100,0
+263272.9,"Snow Linen Coat of Gathering",False,0,0,,,"",0,100,0
+263272.10,"Scarlet Moko Vest of Gathering",False,0,0,,,"",0,100,0
+263272.11,"AR-Caean Velvet Jacket of Gathering",False,0,0,,,"",0,100,0
+263272.12,"Loboskin Coat",False,0,0,,,"",0,100,0
+263272.13,"Sarcenet Jacket of Gathering",False,0,0,,,"",0,100,0
+263272.14,"Gomphotherium Doublet of Gathering",False,0,0,,,"",0,100,0
+263272.15,"Thunderyards Silk Vest of Gathering",False,0,0,,,"",0,100,0
+263272.16,"Gajaskin Tekko",False,0,0,,,"",0,100,0
+263272.17,"Saigaskin Halfgloves of Gathering",False,0,0,,,"",0,100,0
+263272.18,"Kumbhiraskin Gloves of Gathering",False,0,0,,,"",0,100,0
+263272.19,"Ophiotauroskin Halfgloves of Gathering",False,0,0,,,"",0,100,0
+263272.20,"Loboskin Gloves",False,0,0,,,"",0,100,0
+263272.21,"Br'aaxskin Halfgloves of Gathering",False,0,0,,,"",0,100,0
+263272.22,"Gomphotherium Halfgloves of Gathering",False,0,0,,,"",0,100,0
+263272.23,"Gargantuaskin Fingerless Gloves of Gathering",False,0,0,,,"",0,100,0
+263272.24,"Darkhempen Kyakui",False,0,0,,,"",0,100,0
+263272.25,"Snow Linen Bottoms of Gathering",False,0,0,,,"",0,100,0
+263272.26,"Scarlet Moko Halfslops of Gathering",False,0,0,,,"",0,100,0
+263272.27,"AR-Caean Velvet Culottes of Gathering",False,0,0,,,"",0,100,0
+263272.28,"Snow Cotton Breeches",False,0,0,,,"",0,100,0
+263272.29,"Sarcenet Culottes of Gathering",False,0,0,,,"",0,100,0
+263272.30,"Rroneek Serge Trousers of Gathering",False,0,0,,,"",0,100,0
+263272.31,"Thunderyards Silk Culottes of Gathering",False,0,0,,,"",0,100,0
+263272.32,"Gajaskin Zori",False,0,0,,,"",0,100,0
+263272.33,"Saigaskin Sandals of Gathering",False,0,0,,,"",0,100,0
+263272.34,"Kumbhiraskin Boots of Gathering",False,0,0,,,"",0,100,0
+263272.35,"Ophiotauroskin Boots of Gathering",False,0,0,,,"",0,100,0
+263272.36,"Loboskin Boots",False,0,0,,,"",0,100,0
+263272.37,"Br'aaxskin Boots of Gathering",False,0,0,,,"",0,100,0
+263272.38,"Gomphotherium Boots of Gathering",False,0,0,,,"",0,100,0
+263272.39,"Claro Walnut Sandals of Gathering",False,0,0,,,"",0,100,0
+263273.0,"Fang Earrings",False,0,0,,,"",0,100,0
+263273.1,"Copper Choker",False,0,0,,,"",0,120,0
+263273.2,"Brass Choker",False,0,0,,,"",0,120,0
+263273.3,"Brass Wristlets of Crafting",False,0,0,,,"",0,140,0
+263273.4,"Brass Ring of Crafting",False,0,0,,,"",0,160,0
+263273.5,"Copper Earrings",False,0,0,,,"",0,110,0
+263273.6,"Brass Earrings",False,0,0,,,"",0,110,0
+263273.7,"Leather Choker",False,0,0,,,"",0,130,0
+263273.8,"Hard Leather Choker",False,0,0,,,"",0,130,0
+263273.9,"Hard Leather Wristbands of Gathering",False,0,0,,,"",0,150,0
+263273.10,"Goatskin Wristbands of Gathering",False,0,0,,,"",0,150,0
+263273.11,"Goatskin Ring",False,0,0,,,"",0,170,0
+263273.12,"Toadskin Ring",False,0,0,,,"",0,170,0
+263274.0,"Horn Earrings",False,0,0,,,"",0,100,0
+263274.1,"Wolf Earrings",False,0,0,,,"",0,100,0
+263274.2,"Silver Choker",False,0,0,,,"",0,120,0
+263274.3,"Mythril Choker",False,0,0,,,"",0,120,0
+263274.4,"Silver Wristlets of Crafting",False,0,0,,,"",0,140,0
+263274.5,"Mythril Wristlets of Crafting",False,0,0,,,"",0,140,0
+263274.6,"Silver Ring of Crafting",False,0,0,,,"",0,160,0
+263274.7,"Mythril Ring of Crafting",False,0,0,,,"",0,160,0
+263274.8,"Silver Earrings",False,0,0,,,"",0,110,0
+263274.9,"Mythril Earrings",False,0,0,,,"",0,110,0
+263274.10,"Goatskin Choker",False,0,0,,,"",0,130,0
+263274.11,"Boarskin Choker",False,0,0,,,"",0,130,0
+263274.12,"Boarskin Wristbands of Gathering",False,0,0,,,"",0,150,0
+263274.13,"Boarskin Ring",False,0,0,,,"",0,170,0
+263275.0,"Red Coral Earrings",False,0,0,,,"",0,100,0
+263275.1,"Yeti Fang Earrings",False,0,0,,,"",0,100,0
+263275.2,"Dragon Fang Earrings",False,0,0,,,"",0,100,0
+263275.3,"Electrum Choker",False,0,0,,,"",0,120,0
+263275.4,"Holy Cedar Necklace",False,0,0,,,"",0,120,0
+263275.5,"Hallowed Chestnut Necklace",False,0,0,,,"",0,120,0
+263275.6,"Electrum Wristlets of Crafting",False,0,0,,,"",0,140,0
+263275.7,"Holy Cedar Armillae",False,0,0,,,"",0,140,0
+263275.8,"Hallowed Chestnut Armillae",False,0,0,,,"",0,140,0
+263275.9,"Electrum Ring of Crafting",False,0,0,,,"",0,160,0
+263275.10,"Holy Cedar Ring",False,0,0,,,"",0,160,0
+263275.11,"Hallowed Chestnut Ring",False,0,0,,,"",0,160,0
+263275.12,"Electrum Earrings",False,0,0,,,"",0,110,0
+263275.13,"Mythrite Earrings of Gathering",False,0,0,,,"",0,110,0
+263275.14,"Hardsilver Earrings of Gathering",False,0,0,,,"",0,110,0
+263275.15,"Raptorskin Choker",False,0,0,,,"",0,130,0
+263275.16,"Wyvernskin Choker",False,0,0,,,"",0,130,0
+263275.17,"Dragonskin Choker",False,0,0,,,"",0,130,0
+263275.18,"Raptorskin Wristbands of Gathering",False,0,0,,,"",0,150,0
+263275.19,"Wyvernskin Wristbands",False,0,0,,,"",0,150,0
+263275.20,"Dragonskin Wristbands",False,0,0,,,"",0,150,0
+263275.21,"Raptorskin Ring",False,0,0,,,"",0,170,0
+263275.22,"Wyvernskin Ring",False,0,0,,,"",0,170,0
+263275.23,"Dragonskin Ring",False,0,0,,,"",0,170,0
+263276.0,"Larch Earrings",False,0,0,,,"",0,100,0
+263276.1,"Persimmon Earrings",False,0,0,,,"",0,100,0
+263276.2,"Zelkova Earrings",False,0,0,,,"",0,100,0
+263276.3,"White Oak Earrings",False,0,0,,,"",0,100,0
+263276.4,"Manasilver Ear Cuffs",False,0,0,,,"",0,100,0
+263276.5,"Dwarven Mythril Ear Cuffs",False,0,0,,,"",0,100,0
+263276.6,"Larch Necklace",False,0,0,,,"",0,120,0
+263276.7,"Persimmon Necklace",False,0,0,,,"",0,120,0
+263276.8,"Zelkova Necklace",False,0,0,,,"",0,120,0
+263276.9,"White Oak Necklace",False,0,0,,,"",0,120,0
+263276.10,"Manasilver Choker",False,0,0,,,"",0,120,0
+263276.11,"Dwarven Mythril Choker",False,0,0,,,"",0,120,0
+263276.12,"Larch Bracelets",False,0,0,,,"",0,140,0
+263276.13,"Persimmon Bracelets",False,0,0,,,"",0,140,0
+263276.14,"Zelkova Bracelets",False,0,0,,,"",0,140,0
+263276.15,"White Oak Bracelets",False,0,0,,,"",0,140,0
+263276.16,"Manasilver Bracelets",False,0,0,,,"",0,140,0
+263276.17,"Dwarven Mythril Bracelets",False,0,0,,,"",0,140,0
+263276.18,"Larch Ring",False,0,0,,,"",0,160,0
+263276.19,"Persimmon Ring",False,0,0,,,"",0,160,0
+263276.20,"Zelkova Ring",False,0,0,,,"",0,160,0
+263276.21,"White Oak Ring",False,0,0,,,"",0,160,0
+263276.22,"Manasilver Ring",False,0,0,,,"",0,160,0
+263276.23,"Dwarven Mythril Ring",False,0,0,,,"",0,160,0
+263276.24,"Gyuki Leather Earrings",False,0,0,,,"",0,110,0
+263276.25,"Marid Leather Earrings",False,0,0,,,"",0,110,0
+263276.26,"Gazelleskin Earrings",False,0,0,,,"",0,110,0
+263276.27,"Smilodonskin Earrings",False,0,0,,,"",0,110,0
+263276.28,"White Ash Earrings",False,0,0,,,"",0,110,0
+263276.29,"Lignum Vitae Earrings",False,0,0,,,"",0,110,0
+263276.30,"Gyuki Leather Choker",False,0,0,,,"",0,130,0
+263276.31,"Marid Leather Choker",False,0,0,,,"",0,130,0
+263276.32,"Gazelleskin Choker",False,0,0,,,"",0,130,0
+263276.33,"Smilodonskin Choker",False,0,0,,,"",0,130,0
+263276.34,"White Ash Necklace",False,0,0,,,"",0,130,0
+263276.35,"Lignum Vitae Necklace",False,0,0,,,"",0,130,0
+263276.36,"Gyuki Leather Wristband",False,0,0,,,"",0,150,0
+263276.37,"Marid Leather Wristband",False,0,0,,,"",0,150,0
+263276.38,"Gazelleskin Wristband",False,0,0,,,"",0,150,0
+263276.39,"Smilodonskin Wristband",False,0,0,,,"",0,150,0
+263276.40,"White Ash Bracelet",False,0,0,,,"",0,150,0
+263276.41,"Lignum Vitae Bracelet",False,0,0,,,"",0,150,0
+263276.42,"Gyuki Leather Ring",False,0,0,,,"",0,170,0
+263276.43,"Marid Leather Ring",False,0,0,,,"",0,170,0
+263276.44,"Gazelleskin Ring",False,0,0,,,"",0,170,0
+263276.45,"Smilodonskin Ring",False,0,0,,,"",0,170,0
+263276.46,"White Ash Ring",False,0,0,,,"",0,170,0
+263276.47,"Lignum Vitae Ring",False,0,0,,,"",0,170,0
+263277.0,"Ametrine Ear Cuffs of Crafting",False,0,0,,,"",0,100,0
+263277.1,"Ironwood Earrings of Crafting",False,0,0,,,"",0,100,0
+263277.2,"Integral Earrings of Crafting",False,0,0,,,"",0,100,0
+263277.3,"Lar Ear Cuffs",False,0,0,,,"",0,100,0
+263277.4,"Acacia Earrings",False,0,0,,,"",0,100,0
+263277.5,"Black Star Earrings of Crafting",False,0,0,,,"",0,100,0
+263277.6,"Ametrine Necklace of Crafting",False,0,0,,,"",0,120,0
+263277.7,"Ironwood Necklace of Crafting",False,0,0,,,"",0,120,0
+263277.8,"Integral Necklace of Crafting",False,0,0,,,"",0,120,0
+263277.9,"Lar Choker",False,0,0,,,"",0,120,0
+263277.10,"Acacia Necklace",False,0,0,,,"",0,120,0
+263277.11,"Black Star Scarf of Crafting",False,0,0,,,"",0,120,0
+263277.12,"Ametrine Armillae of Crafting",False,0,0,,,"",0,140,0
+263277.13,"Ironwood Bracelet of Crafting",False,0,0,,,"",0,140,0
+263277.14,"Integral Bracelet of Crafting",False,0,0,,,"",0,140,0
+263277.15,"Lar Bracelets",False,0,0,,,"",0,140,0
+263277.16,"Acacia Bracelet",False,0,0,,,"",0,140,0
+263277.17,"Black Star Bracelets of Crafting",False,0,0,,,"",0,140,0
+263277.18,"Ametrine Ring of Crafting",False,0,0,,,"",0,160,0
+263277.19,"Ironwood Ring of Crafting",False,0,0,,,"",0,160,0
+263277.20,"Integral Ring of Crafting",False,0,0,,,"",0,160,0
+263277.21,"Lar Ring",False,0,0,,,"",0,160,0
+263277.22,"Acacia Ring",False,0,0,,,"",0,160,0
+263277.23,"Black Star Ring of Crafting",False,0,0,,,"",0,160,0
+263277.24,"Horse Chestnut Earrings of Gathering",False,0,0,,,"",0,110,0
+263277.25,"Kumbhiraskin Earrings of Gathering",False,0,0,,,"",0,110,0
+263277.26,"Ophiotauroskin Earrings of Gathering",False,0,0,,,"",0,110,0
+263277.27,"Ginseng Earrings",False,0,0,,,"",0,110,0
+263277.28,"Gomphotherium Earrings",False,0,0,,,"",0,110,0
+263277.29,"Black Star Earrings of Gathering",False,0,0,,,"",0,110,0
+263277.30,"Horse Chestnut Necklace of Gathering",False,0,0,,,"",0,130,0
+263277.31,"Kumbhiraskin Necklace of Gathering",False,0,0,,,"",0,130,0
+263277.32,"Ophiotauroskin Necklace of Gathering",False,0,0,,,"",0,130,0
+263277.33,"Ginseng Necklace",False,0,0,,,"",0,130,0
+263277.34,"Gomphotherium Necklace",False,0,0,,,"",0,130,0
+263277.35,"Claro Walnut Necklace of Gathering",False,0,0,,,"",0,130,0
+263277.36,"Horse Chestnut Bracelet of Gathering",False,0,0,,,"",0,150,0
+263277.37,"Kumbhiraskin Armilla of Gathering",False,0,0,,,"",0,150,0
+263277.38,"Ophiotauroskin Wristband of Gathering",False,0,0,,,"",0,150,0
+263277.39,"Ginseng Bracelet",False,0,0,,,"",0,150,0
+263277.40,"Gomphotherium Wristband",False,0,0,,,"",0,150,0
+263277.41,"Claro Walnut Bracelet of Gathering",False,0,0,,,"",0,150,0
+263277.42,"Horse Chestnut Ring of Gathering",False,0,0,,,"",0,170,0
+263277.43,"Kumbhiraskin Ring of Gathering",False,0,0,,,"",0,170,0
+263277.44,"Ophiotauroskin Ring of Gathering",False,0,0,,,"",0,170,0
+263277.45,"Ginseng Ring",False,0,0,,,"",0,170,0
+263277.46,"Gomphotherium Ring",False,0,0,,,"",0,170,0
+263277.47,"Ra'Kaznar Ring of Gathering",False,0,0,,,"",0,170,0
+263278.0,"Weathered Alembic",False,0,0,,,"",0,100,0
+263278.1,"Bronze Alembic",False,0,0,,,"",0,100,0
+263278.2,"Amateur's Alembic",False,0,0,,,"",0,100,0
+263278.3,"Brass Alembic",False,0,0,,,"",0,100,0
+263278.4,"Initiate's Alembic",False,0,0,,,"",0,100,0
+263278.5,"Amateur's Mortar",False,0,0,,,"",0,100,0
+263278.6,"Bronze Mortar",False,0,0,,,"",0,100,0
+263278.7,"Iron Mortar",False,0,0,,,"",0,100,0
+263278.8,"Weathered Skillet",False,0,0,,,"",0,100,0
+263278.9,"Bronze Skillet",False,0,0,,,"",0,100,0
+263278.10,"Amateur's Skillet",False,0,0,,,"",0,100,0
+263278.11,"Iron Skillet",False,0,0,,,"",0,100,0
+263278.12,"Initiate's Skillet",False,0,0,,,"",0,100,0
+263278.13,"Amateur's Culinary Knife",False,0,0,,,"",0,100,0
+263278.14,"Bronze Culinary Knife",False,0,0,,,"",0,100,0
+263278.15,"Iron Culinary Knife",False,0,0,,,"",0,100,0
+263278.16,"Initiate's Culinary Knife",False,0,0,,,"",0,100,0
+263279.0,"Iron Alembic",False,0,0,,,"",0,100,0
+263279.1,"Conical Alembic",False,0,0,,,"",0,100,0
+263279.2,"Steel Alembic",False,0,0,,,"",0,100,0
+263279.3,"Silver Alembic",False,0,0,,,"",0,100,0
+263279.4,"Mythril Alembic",False,0,0,,,"",0,100,0
+263279.5,"Initiate's Mortar",False,0,0,,,"",0,100,0
+263279.6,"Steel Mortar",False,0,0,,,"",0,100,0
+263279.7,"Heavy Steel Mortar",False,0,0,,,"",0,100,0
+263279.8,"Iron Frypan",False,0,0,,,"",0,100,0
+263279.9,"Bomb Frypan",False,0,0,,,"",0,100,0
+263279.10,"Steel Skillet",False,0,0,,,"",0,100,0
+263279.11,"White Skillet",False,0,0,,,"",0,100,0
+263279.12,"Steel Frypan",False,0,0,,,"",0,100,0
+263279.13,"Steel Culinary Knife",False,0,0,,,"",0,100,0
+263279.14,"Wrapped Steel Culinary Knife",False,0,0,,,"",0,100,0
+263280.0,"Electrum Alembic",False,0,0,,,"",0,100,0
+263280.1,"Thermal Alembic",False,0,0,,,"",0,100,0
+263280.2,"Mythrite Alembic",False,0,0,,,"",0,100,0
+263280.3,"Hardsilver Alembic",False,0,0,,,"",0,100,0
+263280.4,"Titanium Alembic",False,0,0,,,"",0,100,0
+263280.5,"Adamantite Alembic",False,0,0,,,"",0,100,0
+263280.6,"Mythril Mortar",False,0,0,,,"",0,100,0
+263280.7,"Cobalt Mortar",False,0,0,,,"",0,100,0
+263280.8,"Mythrite Mortar",False,0,0,,,"",0,100,0
+263280.9,"Titanium Mortar",False,0,0,,,"",0,100,0
+263280.10,"Adamantite Mortar",False,0,0,,,"",0,100,0
+263280.11,"Cobalt Skillet",False,0,0,,,"",0,100,0
+263280.12,"Hells' Kitchen",False,0,0,,,"",0,100,0
+263280.13,"Frypan Caliente",False,0,0,,,"",0,100,0
+263280.14,"Titanium Frypan",False,0,0,,,"",0,100,0
+263280.15,"Mandragoras Frypan",False,0,0,,,"",0,100,0
+263280.16,"Adamantite Frypan",False,0,0,,,"",0,100,0
+263280.17,"Mythril Culinary Knife",False,0,0,,,"",0,100,0
+263280.18,"Cobalt Culinary Knife",False,0,0,,,"",0,100,0
+263280.19,"Mythrite Culinary Knife",False,0,0,,,"",0,100,0
+263280.20,"Titanium Culinary Knife",False,0,0,,,"",0,100,0
+263280.21,"Adamantite Culinary Knife",False,0,0,,,"",0,100,0
+263281.0,"High Steel Thermal Alembic",False,0,0,,,"",0,100,0
+263281.1,"Doman Iron Alembic",False,0,0,,,"",0,100,0
+263281.2,"Doman Steel Alembic",False,0,0,,,"",0,100,0
+263281.3,"Molybdenum Alembic",False,0,0,,,"",0,100,0
+263281.4,"Deepgold Alembic",False,0,0,,,"",0,100,0
+263281.5,"Bluespirit Alembic",False,0,0,,,"",0,100,0
+263281.6,"Titanbronze Alembic",False,0,0,,,"",0,100,0
+263281.7,"Dwarven Mythril Alembic",False,0,0,,,"",0,100,0
+263281.8,"High Steel Mortar",False,0,0,,,"",0,100,0
+263281.9,"Doman Iron Mortar",False,0,0,,,"",0,100,0
+263281.10,"Doman Steel Mortar",False,0,0,,,"",0,100,0
+263281.11,"Molybdenum Mortar",False,0,0,,,"",0,100,0
+263281.12,"Deepgold Mortar",False,0,0,,,"",0,100,0
+263281.13,"Bluespirit Mortar",False,0,0,,,"",0,100,0
+263281.14,"Titanbronze Mortar",False,0,0,,,"",0,100,0
+263281.15,"Dwarven Mythril Mortar",False,0,0,,,"",0,100,0
+263281.16,"High Steel Bomb Frypan",False,0,0,,,"",0,100,0
+263281.17,"Doman Iron Frypan",False,0,0,,,"",0,100,0
+263281.18,"Doman Steel Frypan Caliente",False,0,0,,,"",0,100,0
+263281.19,"Molybdenum Frypan",False,0,0,,,"",0,100,0
+263281.20,"Deepgold Rail Frypan",False,0,0,,,"",0,100,0
+263281.21,"Bluespirit Porxie Frypan",False,0,0,,,"",0,100,0
+263281.22,"Titanbronze Moogle Frypan",False,0,0,,,"",0,100,0
+263281.23,"Dwarven Mythril Frypan",False,0,0,,,"",0,100,0
+263281.24,"High Steel Culinary Knife",False,0,0,,,"",0,100,0
+263281.25,"Doman Iron Culinary Knife",False,0,0,,,"",0,100,0
+263281.26,"Doman Steel Culinary Knife",False,0,0,,,"",0,100,0
+263281.27,"Molybdenum Culinary Knife",False,0,0,,,"",0,100,0
+263281.28,"Deepgold Culinary Knife",False,0,0,,,"",0,100,0
+263281.29,"Bluespirit Culinary Knife",False,0,0,,,"",0,100,0
+263281.30,"Titanbronze Culinary Knife",False,0,0,,,"",0,100,0
+263281.31,"Dwarven Mythril Culinary Knife",False,0,0,,,"",0,100,0
+263282.0,"High Durium Alembic",False,0,0,,,"",0,100,0
+263282.1,"Bismuth Alembic",False,0,0,,,"",0,100,0
+263282.2,"Manganese Alembic",False,0,0,,,"",0,100,0
+263282.3,"Chondrite Alembic",False,0,0,,,"",0,100,0
+263282.4,"Mountain Chromite Alembic",False,0,0,,,"",0,100,0
+263282.5,"Cobalt Tungsten Alembic",False,0,0,,,"",0,100,0
+263282.6,"Titanium Gold Alembic",False,0,0,,,"",0,100,0
+263282.7,"Ra'Kaznar Alembic",False,0,0,,,"",0,100,0
+263282.8,"High Durium Mortar",False,0,0,,,"",0,100,0
+263282.9,"Bismuth Mortar",False,0,0,,,"",0,100,0
+263282.10,"Manganese Mortar",False,0,0,,,"",0,100,0
+263282.11,"Chondrite Mortar",False,0,0,,,"",0,100,0
+263282.12,"Mountain Chromite Mortar",False,0,0,,,"",0,100,0
+263282.13,"Cobalt Tungsten Mortar",False,0,0,,,"",0,100,0
+263282.14,"Titanium Gold Mortar",False,0,0,,,"",0,100,0
+263282.15,"Ra'Kaznar Mortar",False,0,0,,,"",0,100,0
+263282.16,"High Durium Namazu Frypan",False,0,0,,,"",0,100,0
+263282.17,"Bismuth Fat Cat Frypan",False,0,0,,,"",0,100,0
+263282.18,"Manganese Chocobo Frypan",False,0,0,,,"",0,100,0
+263282.19,"Chondrite Bomb Frypan",False,0,0,,,"",0,100,0
+263282.20,"Mountain Chromite Frypan",False,0,0,,,"",0,100,0
+263282.21,"Cobalt Tungsten Chocobo Frypan",False,0,0,,,"",0,100,0
+263282.22,"Titanium Gold Bomb Frypan",False,0,0,,,"",0,100,0
+263282.23,"Ra'Kaznar Spriggan Frypan",False,0,0,,,"",0,100,0
+263282.24,"High Durium Culinary Knife",False,0,0,,,"",0,100,0
+263282.25,"Bismuth Culinary Knife",False,0,0,,,"",0,100,0
+263282.26,"Manganese Culinary Knife",False,0,0,,,"",0,100,0
+263282.27,"Chondrite Culinary Knife",False,0,0,,,"",0,100,0
+263282.28,"Mountain Chromite Culinary Knife",False,0,0,,,"",0,100,0
+263282.29,"Cobalt Tungsten Culinary Knife",False,0,0,,,"",0,100,0
+263282.30,"Titanium Gold Culinary Knife",False,0,0,,,"",0,100,0
+263282.31,"Ra'Kaznar Culinary Knife",False,0,0,,,"",0,100,0

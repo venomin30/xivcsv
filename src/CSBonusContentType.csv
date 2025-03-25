@@ -38,3 +38,9 @@ Lv. <Value>IntegerParameter(7)</Value>","Complete <Value>IntegerParameter(8)</Va
 Lv. <Value>IntegerParameter(7)</Value>","Complete a stage of the Masked Carnivale.","","ui/icon/112000/112332.tex",7735774,,68734,0,610
 18,"Island Sanctuary","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
 Lv. <Value>IntegerParameter(7)</Value>","Gather materials <Value>IntegerParameter(8)</Value> <If(Equal(IntegerParameter(8),1))>time<Else/>times</If> in <Sheet(ContentType,IntegerParameter(2),0)/>.","","ui/icon/101000/101184.tex",9323110,,70179,0,0
+19,"V&C Dungeon Finder","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
+Lv. <Value>IntegerParameter(7)</Value>","Complete <Sheet(InstanceContent,IntegerParameter(5),3)/> <Value>IntegerParameter(8)</Value> times.","","ui/icon/111000/111042.tex",0,,70182,0,0
+20,"Custom Deliveries","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
+Lv. <Value>IntegerParameter(7)</Value>","Complete any custom delivery <Value>IntegerParameter(8)</Value> times.","","ui/icon/111000/111048.tex",0,,67634,0,0
+21,"Society Quests","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
+Lv. <Value>IntegerParameter(7)</Value>","Complete any society daily quest <Value>IntegerParameter(8)</Value> times.","","ui/icon/111000/111049.tex",0,,66488,0,0

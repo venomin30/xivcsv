@@ -1534,3 +1534,34 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198194,1407,12,0,0,0,0,,"Cushioned Bench",False,False,0,0,0,True,False
 198195,1408,12,0,0,0,0,,"Tropical Canopy Bed",False,False,0,0,0,True,False
 198196,1455,14,0,0,0,0,,"Wachumeqimeqi Balloon",False,False,5,0,0,True,False
+198197,644,13,0,0,0,0,,"Authentic Cactuar Dining Table",False,False,3,0,0,True,False
+198198,1456,12,0,0,0,0,,"No-entry Door Partition",False,False,0,0,0,True,False
+198199,1457,12,0,0,0,0,,"Hingan Dresser",False,False,0,0,0,True,False
+198200,1458,12,0,0,0,0,,"Hingan Event Partition",False,False,0,0,0,True,False
+198201,1459,15,0,0,0,0,,"Decorative Hingan Window",False,False,0,0,0,True,False
+198202,1460,12,0,0,0,0,,"Simple Hingan Pillar",False,False,0,0,0,True,False
+198203,1461,15,0,0,0,0,,"Hingan Wall Shelf",False,False,0,0,0,True,False
+198204,1462,15,0,0,0,0,,"Hingan Wall Cabinet",False,False,0,0,0,True,False
+198205,1463,13,0,0,0,0,,"Hingan Floor Cabinet",False,False,0,0,0,True,False
+198206,1464,12,0,0,0,0,,"Wooden Frame Partition",False,False,0,0,0,True,False
+198207,1465,12,0,0,0,0,,"Vault Rib",False,False,0,0,0,True,False
+198208,1466,13,0,0,0,0,,"Lattice-windowed Cabinet",False,False,0,0,0,True,False
+198209,1467,14,0,0,0,0,,"Dark Knight Display Crystal",False,False,5,0,0,True,False
+198210,1468,14,0,0,0,0,,"Machinist Display Crystal",False,False,5,0,0,True,False
+198211,1469,14,0,0,0,0,,"Astrologian Display Crystal",False,False,5,0,0,True,False
+198212,1470,14,0,0,0,0,,"Samurai Display Crystal",False,False,5,0,0,True,False
+198213,1471,14,0,0,0,0,,"Red Mage Display Crystal",False,False,5,0,0,True,False
+198214,1472,14,0,0,0,0,,"Blue Mage Display Crystal",False,False,5,0,0,True,False
+198215,1473,14,0,0,0,0,,"Gunbreaker Display Crystal",False,False,5,0,0,True,False
+198216,1474,14,0,0,0,0,,"Dancer Display Crystal",False,False,5,0,0,True,False
+198217,1475,14,0,0,0,0,,"Reaper Display Crystal",False,False,5,0,0,True,False
+198218,1476,14,0,0,0,0,,"Sage Display Crystal",False,False,5,0,0,True,False
+198219,1477,14,0,0,0,0,,"Viper Display Crystal",False,False,5,0,0,True,False
+198220,1478,14,0,0,0,0,,"Pictomancer Display Crystal",False,False,5,0,0,True,False
+198221,1480,13,0,0,0,0,,"Mantelshelf",False,False,0,0,0,True,False
+198222,1482,14,7,91,0,0,"CmnDefHousingDish_00213","Leg of Prosciutto",True,False,9,4,11,True,False
+198223,1483,16,0,0,0,0,,"Round Stepping Star",False,False,0,0,0,True,False
+198224,1493,14,0,0,105,0,,"Recollection Sword Stand",False,False,0,0,0,True,False
+198225,1494,15,0,0,0,0,,"Authentic Copy of Seekers of Eternity",False,False,3,0,0,True,False
+198226,1495,12,12,3,0,0,"HouFurWallpaperPartition_00437","Blank Minimalist Partition",False,False,0,8,15,True,False
+198227,1496,12,12,3,0,0,"HouFurWallpaperPartition_00437","Minimalist Partition Door",False,False,0,8,15,True,False

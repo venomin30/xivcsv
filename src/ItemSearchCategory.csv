@@ -1,15 +1,15 @@
 ﻿key,0,1,2,3,4,5
 #,Name,Icon,Category,Order,ClassJob,
 int32,str,Image,byte,byte,ClassJob,bit&01
-0,"",,0,0,"adventurer",False
-1,"Primary Arms","ui/icon/060000/060102.tex",0,0,"adventurer",False
-2,"Primary Tools","ui/icon/060000/060113.tex",0,0,"adventurer",False
-3,"Primary Tools","ui/icon/060000/060120.tex",0,0,"adventurer",False
-4,"Armor","ui/icon/060000/060126.tex",0,0,"adventurer",False
-5,"Accessories","ui/icon/060000/060135.tex",0,0,"adventurer",False
-6,"Medicines","ui/icon/060000/060136.tex",0,0,"adventurer",False
-7,"Materials","ui/icon/060000/060137.tex",0,0,"adventurer",False
-8,"Other","ui/icon/060000/060159.tex",0,0,"adventurer",False
+0,"",,0,0,"",False
+1,"Primary Arms","ui/icon/060000/060102.tex",0,0,"",False
+2,"Primary Tools","ui/icon/060000/060113.tex",0,0,"",False
+3,"Primary Tools","ui/icon/060000/060120.tex",0,0,"",False
+4,"Armor","ui/icon/060000/060126.tex",0,0,"",False
+5,"Accessories","ui/icon/060000/060135.tex",0,0,"",False
+6,"Medicines","ui/icon/060000/060136.tex",0,0,"",False
+7,"Materials","ui/icon/060000/060137.tex",0,0,"",False
+8,"Other","ui/icon/060000/060159.tex",0,0,"",False
 9,"Pugilist's Arms","ui/icon/060000/060101.tex",1,6,"pugilist",False
 10,"Gladiator's Arms","ui/icon/060000/060102.tex",1,0,"gladiator",False
 11,"Marauder's Arms","ui/icon/060000/060103.tex",1,1,"marauder",False
@@ -18,8 +18,8 @@ int32,str,Image,byte,byte,ClassJob,bit&01
 14,"Thaumaturge's Arms","ui/icon/060000/060108.tex",1,13,"thaumaturge",False
 15,"Conjurer's Arms","ui/icon/060000/060107.tex",1,17,"conjurer",False
 16,"Arcanist's Arms","ui/icon/060000/060109.tex",1,14,"arcanist",False
-17,"Shields","ui/icon/060000/060110.tex",2,0,"adventurer",False
-18,"Dancer's Arms","ui/icon/060000/060111.tex",0,0,"adventurer",False
+17,"Shields","ui/icon/060000/060110.tex",2,0,"",False
+18,"Dancer's Arms","ui/icon/060000/060111.tex",0,0,"",False
 19,"Carpenter's Tools","ui/icon/060000/060112.tex",1,21,"carpenter",False
 20,"Blacksmith's Tools","ui/icon/060000/060113.tex",1,22,"blacksmith",False
 21,"Armorer's Tools","ui/icon/060000/060114.tex",1,23,"armorer",False
@@ -32,58 +32,58 @@ int32,str,Image,byte,byte,ClassJob,bit&01
 28,"Botanist's Tools","ui/icon/060000/060121.tex",1,30,"botanist",False
 29,"Fisher's Tools","ui/icon/060000/060122.tex",1,31,"fisher",False
 30,"Fishing Tackle","ui/icon/060000/060123.tex",1,32,"fisher",False
-31,"Head","ui/icon/060000/060124.tex",2,1,"adventurer",False
-32,"Undershirts","ui/icon/060000/060125.tex",0,0,"adventurer",False
-33,"Body","ui/icon/060000/060126.tex",2,2,"adventurer",False
-34,"Undergarments","ui/icon/060000/060127.tex",0,0,"adventurer",False
-35,"Legs","ui/icon/060000/060128.tex",2,4,"adventurer",False
-36,"Hands","ui/icon/060000/060129.tex",2,3,"adventurer",False
-37,"Feet","ui/icon/060000/060130.tex",2,5,"adventurer",False
-38,"Waist","ui/icon/060000/060131.tex",0,0,"adventurer",False
-39,"Necklaces","ui/icon/060000/060132.tex",2,7,"adventurer",False
-40,"Earrings","ui/icon/060000/060133.tex",2,6,"adventurer",False
-41,"Bracelets","ui/icon/060000/060134.tex",2,8,"adventurer",False
-42,"Rings","ui/icon/060000/060135.tex",2,9,"adventurer",False
-43,"Medicine","ui/icon/060000/060136.tex",3,0,"adventurer",False
-44,"Ingredients","ui/icon/060000/060137.tex",3,1,"adventurer",False
-45,"Meals","ui/icon/060000/060146.tex",3,2,"adventurer",False
-46,"Seafood","ui/icon/060000/060138.tex",3,3,"adventurer",False
-47,"Stone","ui/icon/060000/060139.tex",3,4,"adventurer",False
-48,"Metal","ui/icon/060000/060140.tex",3,5,"adventurer",False
-49,"Lumber","ui/icon/060000/060141.tex",3,6,"adventurer",False
-50,"Cloth","ui/icon/060000/060142.tex",3,7,"adventurer",False
-51,"Leather","ui/icon/060000/060143.tex",3,8,"adventurer",False
-52,"Bone","ui/icon/060000/060144.tex",3,9,"adventurer",False
-53,"Reagents","ui/icon/060000/060145.tex",3,10,"adventurer",False
-54,"Dyes","ui/icon/060000/060147.tex",3,11,"adventurer",False
-55,"Weapon Parts","ui/icon/060000/060148.tex",3,12,"adventurer",False
-56,"Furnishings","ui/icon/060000/060164.tex",4,3,"adventurer",False
-57,"Materia","ui/icon/060000/060150.tex",3,13,"adventurer",False
-58,"Crystals","ui/icon/060000/060151.tex",3,14,"adventurer",False
-59,"Catalysts","ui/icon/060000/060152.tex",3,15,"adventurer",False
-60,"Miscellany","ui/icon/060000/060153.tex",3,16,"adventurer",False
-61,"Soul Crystals","ui/icon/060000/060157.tex",0,0,"adventurer",False
-62,"Arrows","ui/icon/060000/060153.tex",0,0,"adventurer",False
-63,"Quest Items","ui/icon/060000/060158.tex",0,0,"adventurer",False
-64,"Other","ui/icon/060000/060159.tex",0,0,"adventurer",False
-65,"Exterior Fixtures","ui/icon/060000/060160.tex",4,0,"adventurer",False
-66,"Interior Fixtures","ui/icon/060000/060161.tex",4,1,"adventurer",False
-67,"Outdoor Furnishings","ui/icon/060000/060168.tex",4,2,"adventurer",False
-68,"Chairs and Beds","ui/icon/060000/060165.tex",4,4,"adventurer",False
-69,"Tables","ui/icon/060000/060162.tex",4,5,"adventurer",False
-70,"Tabletop","ui/icon/060000/060163.tex",4,6,"adventurer",False
-71,"Wall-mounted","ui/icon/060000/060166.tex",4,7,"adventurer",False
-72,"Rugs","ui/icon/060000/060167.tex",4,8,"adventurer",False
+31,"Head","ui/icon/060000/060124.tex",2,1,"",False
+32,"Undershirts","ui/icon/060000/060125.tex",0,0,"",False
+33,"Body","ui/icon/060000/060126.tex",2,2,"",False
+34,"Undergarments","ui/icon/060000/060127.tex",0,0,"",False
+35,"Legs","ui/icon/060000/060128.tex",2,4,"",False
+36,"Hands","ui/icon/060000/060129.tex",2,3,"",False
+37,"Feet","ui/icon/060000/060130.tex",2,5,"",False
+38,"Waist","ui/icon/060000/060131.tex",0,0,"",False
+39,"Necklaces","ui/icon/060000/060132.tex",2,7,"",False
+40,"Earrings","ui/icon/060000/060133.tex",2,6,"",False
+41,"Bracelets","ui/icon/060000/060134.tex",2,8,"",False
+42,"Rings","ui/icon/060000/060135.tex",2,9,"",False
+43,"Medicine","ui/icon/060000/060136.tex",3,0,"",False
+44,"Ingredients","ui/icon/060000/060137.tex",3,1,"",False
+45,"Meals","ui/icon/060000/060146.tex",3,2,"",False
+46,"Seafood","ui/icon/060000/060138.tex",3,3,"",False
+47,"Stone","ui/icon/060000/060139.tex",3,4,"",False
+48,"Metal","ui/icon/060000/060140.tex",3,5,"",False
+49,"Lumber","ui/icon/060000/060141.tex",3,6,"",False
+50,"Cloth","ui/icon/060000/060142.tex",3,7,"",False
+51,"Leather","ui/icon/060000/060143.tex",3,8,"",False
+52,"Bone","ui/icon/060000/060144.tex",3,9,"",False
+53,"Reagents","ui/icon/060000/060145.tex",3,10,"",False
+54,"Dyes","ui/icon/060000/060147.tex",3,11,"",False
+55,"Weapon Parts","ui/icon/060000/060148.tex",3,12,"",False
+56,"Furnishings","ui/icon/060000/060164.tex",4,3,"",False
+57,"Materia","ui/icon/060000/060150.tex",3,13,"",False
+58,"Crystals","ui/icon/060000/060151.tex",3,14,"",False
+59,"Catalysts","ui/icon/060000/060152.tex",3,15,"",False
+60,"Miscellany","ui/icon/060000/060153.tex",3,16,"",False
+61,"Soul Crystals","ui/icon/060000/060157.tex",0,0,"",False
+62,"Arrows","ui/icon/060000/060153.tex",0,0,"",False
+63,"Quest Items","ui/icon/060000/060158.tex",0,0,"",False
+64,"Other","ui/icon/060000/060159.tex",0,0,"",False
+65,"Exterior Fixtures","ui/icon/060000/060160.tex",4,0,"",False
+66,"Interior Fixtures","ui/icon/060000/060161.tex",4,1,"",False
+67,"Outdoor Furnishings","ui/icon/060000/060168.tex",4,2,"",False
+68,"Chairs and Beds","ui/icon/060000/060165.tex",4,4,"",False
+69,"Tables","ui/icon/060000/060162.tex",4,5,"",False
+70,"Tabletop","ui/icon/060000/060163.tex",4,6,"",False
+71,"Wall-mounted","ui/icon/060000/060166.tex",4,7,"",False
+72,"Rugs","ui/icon/060000/060167.tex",4,8,"",False
 73,"Rogue's Arms","ui/icon/060000/060106.tex",1,8,"rogue",False
-74,"Seasonal Miscellany","ui/icon/060000/060154.tex",3,17,"adventurer",False
-75,"Minions","ui/icon/060000/060155.tex",3,19,"adventurer",True
+74,"Seasonal Miscellany","ui/icon/060000/060154.tex",3,17,"",False
+75,"Minions","ui/icon/060000/060155.tex",3,19,"",True
 76,"Dark Knight's Arms","ui/icon/060000/060170.tex",1,2,"dark knight",False
 77,"Machinist's Arms","ui/icon/060000/060172.tex",1,11,"machinist",False
 78,"Astrologian's Arms","ui/icon/060000/060171.tex",1,19,"astrologian",False
-79,"Airship/Submersible Components","ui/icon/060000/060169.tex",3,20,"adventurer",False
-80,"Orchestrion Components","ui/icon/060000/060173.tex",3,21,"adventurer",True
-81,"Gardening Items","ui/icon/060000/060174.tex",4,9,"adventurer",False
-82,"Paintings","ui/icon/060000/060175.tex",4,10,"adventurer",False
+79,"Airship/Submersible Components","ui/icon/060000/060169.tex",3,20,"",False
+80,"Orchestrion Components","ui/icon/060000/060173.tex",3,21,"",True
+81,"Gardening Items","ui/icon/060000/060174.tex",4,9,"",False
+82,"Paintings","ui/icon/060000/060175.tex",4,10,"",False
 83,"Samurai's Arms","ui/icon/060000/060177.tex",1,7,"samurai",False
 84,"Red Mage's Arms","ui/icon/060000/060176.tex",1,15,"red mage",False
 85,"Scholar's Arms","ui/icon/060000/060178.tex",1,18,"scholar",False
@@ -91,14 +91,14 @@ int32,str,Image,byte,byte,ClassJob,bit&01
 87,"Dancer's Arms","ui/icon/060000/060182.tex",1,12,"dancer",False
 88,"Reaper's Arms","ui/icon/060000/060183.tex",1,5,"reaper",False
 89,"Sage's Arms","ui/icon/060000/060184.tex",1,20,"sage",False
-90,"Registrable Miscellany","ui/icon/060000/060185.tex",3,18,"adventurer",True
+90,"Registrable Miscellany","ui/icon/060000/060185.tex",3,18,"",True
 91,"Viper's Arms","ui/icon/060000/060187.tex",1,9,"viper",False
 92,"Pictomancer's Arms","ui/icon/060000/060188.tex",1,16,"pictomancer",False
-93,"",,0,0,"adventurer",False
-94,"",,0,0,"adventurer",False
-95,"",,0,0,"adventurer",False
-96,"",,0,0,"adventurer",False
-97,"",,0,0,"adventurer",False
-98,"",,0,0,"adventurer",False
-99,"",,0,0,"adventurer",False
-100,"",,0,0,"adventurer",False
+93,"",,0,0,"",False
+94,"",,0,0,"",False
+95,"",,0,0,"",False
+96,"",,0,0,"",False
+97,"",,0,0,"",False
+98,"",,0,0,"",False
+99,"",,0,0,"",False
+100,"",,0,0,"",False

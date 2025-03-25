@@ -181,7 +181,7 @@ int32,CSBonusContentType,CSBonusContentIdentifier,CSBonusContentIdentifier,uint1
 177,"Eureka","","",0,1,-1,-1,-1,-1,10,0,0,0,0
 178,"Save the Queen","","",0,1,-1,-1,-1,-1,10,0,0,0,0
 179,"The Masked Carnivale","","",0,1,-1,-1,-1,-1,10,0,0,0,0
-180,"Island Sanctuary","","",0,50,-1,-1,-1,-1,10,0,0,0,0
+180,"Island Sanctuary","","",0,30,-1,-1,-1,-1,10,0,0,0,0
 181,"Deep Dungeons","InstanceContent#60025","",0,1,-1,-1,-1,-1,50,0,0,0,0
 182,"Triple Triad","King Elmer III","",0,1,-1,-1,-1,-1,10,0,0,0,0
 183,"Fishing","Glimmerscale","",0,1,-1,-1,-1,-1,10,0,0,0,0
@@ -213,3 +213,52 @@ int32,CSBonusContentType,CSBonusContentIdentifier,CSBonusContentIdentifier,uint1
 209,"Trials","InstanceContent#20086","",0,1,-1,-1,-1,-1,20,0,0,0,0
 210,"Trials","InstanceContent#20089","",0,1,-1,-1,-1,-1,20,0,0,0,0
 211,"Trials","InstanceContent#20091","",0,1,-1,-1,-1,-1,20,0,0,0,0
+212,"V&C Dungeon Finder","InstanceContent#36001","",0,6,-1,-1,-1,-1,70,0,0,0,0
+213,"Custom Deliveries","","",0,6,-1,-1,-1,-1,10,0,0,0,0
+214,"Society Quests","","",0,6,-1,-1,-1,-1,10,0,0,0,0
+215,"Triple Triad","Gibrillont","",0,1,-1,-1,-1,-1,10,0,0,0,0
+216,"Fishing","Chirurgeon","",0,1,-1,-1,-1,-1,10,0,0,0,0
+217,"Dungeons","InstanceContent#10","",0,-1,-1,-1,-1,-1,4,0,0,0,0
+218,"Dungeons","InstanceContent#14","",0,-1,-1,-1,-1,-1,4,0,0,0,0
+219,"Dungeons","InstanceContent#40","",0,-1,-1,-1,-1,-1,4,0,0,0,0
+220,"Dungeons","InstanceContent#42","",0,-1,-1,-1,-1,-1,4,0,0,0,0
+221,"Dungeons","InstanceContent#62","",0,-1,-1,-1,-1,-1,4,0,0,0,0
+222,"Dungeons","InstanceContent#82","",0,-1,-1,-1,-1,-1,4,0,0,0,0
+223,"Dungeons","InstanceContent#81","",0,-1,-1,-1,-1,-1,4,0,0,0,0
+224,"Raids","InstanceContent#30087","",0,-1,-1,-1,-1,-1,8,0,0,0,0
+225,"Raids","InstanceContent#30096","",0,-1,-1,-1,-1,-1,9,0,0,0,0
+226,"Raids","InstanceContent#30105","",0,-1,-1,-1,-1,-1,10,0,0,0,0
+227,"Raids","InstanceContent#30111","",0,-1,-1,-1,-1,-1,2,0,0,0,0
+228,"Raids","InstanceContent#30113","",0,-1,-1,-1,-1,-1,2,0,0,0,0
+229,"Raids","InstanceContent#30109","",0,-1,-1,-1,-1,-1,2,0,0,0,0
+230,"Raids","InstanceContent#30107","",0,-1,-1,-1,-1,-1,2,0,0,0,0
+231,"Raids","InstanceContent#30116","",0,-1,-1,-1,-1,-1,2,0,0,0,0
+232,"Raids","InstanceContent#30120","",0,-1,-1,-1,-1,-1,2,0,0,0,0
+233,"Raids","InstanceContent#30118","",0,-1,-1,-1,-1,-1,2,0,0,0,0
+234,"Raids","InstanceContent#30122","",0,-1,-1,-1,-1,-1,2,0,0,0,0
+235,"Raids","InstanceContent#30126","",0,-1,-1,-1,-1,-1,3,0,0,0,0
+236,"Raids","InstanceContent#30128","",0,-1,-1,-1,-1,-1,3,0,0,0,0
+237,"Raids","InstanceContent#30130","",0,-1,-1,-1,-1,-1,3,0,0,0,0
+238,"Raids","InstanceContent#30132","",0,-1,-1,-1,-1,-1,3,0,0,0,0
+239,"Dungeons","InstanceContent#10","",0,1,-1,-1,-1,-1,20,0,0,0,0
+240,"Dungeons","InstanceContent#14","",0,1,-1,-1,-1,-1,20,0,0,0,0
+241,"Dungeons","InstanceContent#40","",0,1,-1,-1,-1,-1,20,0,0,0,0
+242,"Dungeons","InstanceContent#42","",0,1,-1,-1,-1,-1,20,0,0,0,0
+243,"Dungeons","InstanceContent#62","",0,1,-1,-1,-1,-1,20,0,0,0,0
+244,"Dungeons","InstanceContent#82","",0,1,-1,-1,-1,-1,20,0,0,0,0
+245,"Dungeons","InstanceContent#81","",0,1,-1,-1,-1,-1,20,0,0,0,0
+246,"Raids","InstanceContent#30087","",0,1,-1,-1,-1,-1,20,0,0,0,0
+247,"Raids","InstanceContent#30096","",0,1,-1,-1,-1,-1,20,0,0,0,0
+248,"Raids","InstanceContent#30105","",0,1,-1,-1,-1,-1,20,0,0,0,0
+249,"Raids","InstanceContent#30111","",0,1,-1,-1,-1,-1,20,0,0,0,0
+250,"Raids","InstanceContent#30113","",0,1,-1,-1,-1,-1,20,0,0,0,0
+251,"Raids","InstanceContent#30109","",0,1,-1,-1,-1,-1,20,0,0,0,0
+252,"Raids","InstanceContent#30107","",0,1,-1,-1,-1,-1,20,0,0,0,0
+253,"Raids","InstanceContent#30116","",0,1,-1,-1,-1,-1,20,0,0,0,0
+254,"Raids","InstanceContent#30120","",0,1,-1,-1,-1,-1,20,0,0,0,0
+255,"Raids","InstanceContent#30118","",0,1,-1,-1,-1,-1,20,0,0,0,0
+256,"Raids","InstanceContent#30122","",0,1,-1,-1,-1,-1,20,0,0,0,0
+257,"Raids","InstanceContent#30126","",0,1,-1,-1,-1,-1,20,0,0,0,0
+258,"Raids","InstanceContent#30128","",0,1,-1,-1,-1,-1,20,0,0,0,0
+259,"Raids","InstanceContent#30130","",0,1,-1,-1,-1,-1,20,0,0,0,0
+260,"Raids","InstanceContent#30132","",0,1,-1,-1,-1,-1,20,0,0,0,0
