@@ -1223,7 +1223,7 @@ int32,FurnitureCatalogCategory,Item,uint16
 1219,"Stuffed Toys/Figures","Recollection Sword Stand",720
 1220,"Interactive Furnishings","Blank Minimalist Partition",720
 1221,"Interactive Furnishings","Minimalist Partition Door",720
-1222,"Tables","",0
+1222,"Miscellaneous","Drafting Table",720
 1223,"Tables","",0
 1224,"Tables","",0
 1225,"Tables","",0
@@ -1232,6 +1232,6 @@ int32,FurnitureCatalogCategory,Item,uint16
 1228,"Tables","",0
 1229,"Tables","",0
 1230,"Tables","",0
-1231,"Tables","",0
-1232,"Tables","",0
-1233,"Tables","",0
+1231,"Chairs/Sofas","Cosmochair",720
+1232,"Tables","Cosmotable",720
+1233,"Lighting","Cosmolamp",720

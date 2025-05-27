@@ -369,69 +369,69 @@ int32,byte,str,str,str,byte,bit&01,TerritoryType,PlaceName,PlaceName,int16,int16
 10028,84,"","","",2,False,"u5e3","","",1172,627,200,4,"Protoflesh","Comet Tail","","","","","","","","","Elysian Seas β",0
 10029,84,"","","",2,False,"u5e3","","",861,1136,800,4,"Protoflesh","Wandering Starscale","","","","","","","","","Elysian Playgrounds α",0
 10030,84,"","","",2,False,"u5e3","","",736,1370,800,4,"Protoflesh","Wandering Starscale","Katoptron","","","","","","","","Elysian Playgrounds β",0
-10031,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10032,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10033,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10034,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10035,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10036,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10037,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10038,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10039,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10031,1,"","","",2,False,,"","",0,0,0,0,"","","","","","","","","","","Weeping Pool",0
+10032,1,"","","",2,False,,"","",0,0,0,0,"","","","","","","","","","","Northward Hop-print",0
+10033,1,"","","",2,False,,"","",0,0,0,0,"","","","","","","","","","","Westward Hop-print",0
+10034,1,"","","",2,False,,"","",0,0,0,0,"","","","","","","","","","","Southeast Well",0
+10035,1,"","","",2,False,,"","",0,0,0,0,"","","","","","","","","","","Hollow Harbor",0
+10036,1,"","","",7,False,,"","",0,0,0,0,"","","","","","","","","","","Palus Arsenici",0
+10037,1,"","","",7,False,,"","",0,0,0,0,"","","","","","","","","","","Glimmerpond Alpha",0
+10038,1,"","","",7,False,,"","",0,0,0,0,"","","","","","","","","","","Glimmerpond Beta",0
+10039,1,"","","",7,False,,"","",0,0,0,0,"","","","","","","","","","","Aetherial Falls",0
 10040,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
 10041,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
 10042,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10043,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10044,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10045,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10046,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10047,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10048,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10049,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10050,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10051,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10052,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10053,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10054,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10055,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10056,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10057,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10058,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10059,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10060,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10061,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10062,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10063,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10064,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10065,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10066,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10067,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10068,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10069,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10070,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10071,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10072,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10073,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10074,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10075,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10076,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10077,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10078,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10079,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10080,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10081,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10082,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10083,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10084,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10085,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10086,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10087,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10088,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10089,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10090,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10091,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10092,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10093,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10043,1,"","","",2,False,,"","",0,0,0,0,"Astacus Lamentorum","Lunar Tilapia","Lunar Blue Guppy","","","","","","","","Weeping Pool",0
+10044,1,"","","",2,False,,"","",0,0,0,0,"Melancholia","Hop-shrimp","Blue Cichlid","","","","","","","","Northward Hop-print",0
+10045,1,"","","",2,False,,"","",0,0,0,0,"Bluemoon Loach","Lunar Raiamas","Cobalt Eel","","","","","","","","Westward Hop-print",0
+10046,1,"","","",2,False,,"","",0,0,0,0,"Star Pleco","Lunar Axolotl","Lunar Catfish","","","","","","","","Southeast Well",0
+10047,1,"","","",2,False,,"","",0,0,0,0,"Astacus Lamentorum","Lunar Peacock Bass","Lunar Hemiodus","","","","","","","","Weeping Pool",0
+10048,1,"","","",2,False,,"","",0,0,0,0,"Melancholia","High Noontide Oscar","Hopping Fish","","","","","","","","Northward Hop-print",0
+10049,1,"","","",2,False,,"","",0,0,0,0,"Star Pleco","Lunar Grass Carp","Lover's Staff","Nightscale","","","","","","","Southeast Well",0
+10050,1,"","","",2,False,,"","",0,0,0,0,"Astacus Lamentorum","Starcrier","Weepingeye","Lunar Eel","","","","","","","Weeping Pool",0
+10051,1,"","","",2,False,,"","",0,0,0,0,"Bluemoon Loach","Lunar Raiamas","Lunar Salmon","Lunar Aetherlouse","","","","","","","Westward Hop-print",0
+10052,1,"","","",2,False,,"","",0,0,0,0,"Star Pleco","Pinkmoon Cichlid","Lunar Sole","White Sturgeon","","","","","","","Southeast Well",0
+10053,1,"","","",2,False,,"","",0,0,0,0,"Astacus Lamentorum","Starcrier","Weeping Cichlid","Yellowcheek","","","","","","","Weeping Pool",0
+10054,1,"","","",2,False,,"","",0,0,0,0,"Bluemoon Loach","Lunar Raiamas","Hopping Star","Blue-peppered Platy","","","","","","","Westward Hop-print",0
+10055,1,"","","",2,False,,"","",0,0,0,0,"Melancholia","Hopped-on Leaffish","Lunar Discus","Solar Flarefish","","","","","","","Northward Hop-print",0
+10056,1,"","","",2,False,,"","",0,0,0,0,"Moonrock Candy","Moongill","Crowntail Betta","Speckled Pike","Prismatic Fish","","","","","","Hollow Harbor",0
+10057,1,"","","",2,False,,"","",0,0,0,0,"Astacus Lamentorum","Starcrier","Rainbow Tear","Ammoonite","Lunar Coelacanth","","","","","","Weeping Pool",0
+10058,1,"","","",2,False,,"","",0,0,0,0,"Moonrock Candy","Moongill","Lunar Cabomba","Opal Eel","Lunar Pirarucu","","","","","","Hollow Harbor",0
+10059,1,"","","",2,False,,"","",0,0,0,0,"Melancholia","Mooncrystal Perch","Lunar Prismfish","Gold Hopping Fish","Lunar Bichir","","","","","","Northward Hop-print",0
+10060,1,"","","",7,False,,"","",0,0,0,0,"Lunar Scorpion","Moonwhip","Polypus Arsenici","Eolactoria","Raw Lunar Tourmaline","","","","","","Palus Arsenici",0
+10061,1,"","","",2,False,,"","",0,0,0,0,"Bluemoon Loach","Leaping Loach","Lunar Bronze Pleco","Starry Stingray","Lunar Lungfish","","","","","","Westward Hop-print",0
+10062,1,"","","",2,False,,"","",0,0,0,0,"Star Pleco","Lunar Grass Carp","Macrobrachium Lunaris","Ataxite","","","","","","","Southeast Well",0
+10063,1,"","","",7,False,,"","",0,0,0,0,"Lunar Scorpion","Moonwhip","Polypus Arsenici","Wiwaxia","Atopodentatus","","","","","","Palus Arsenici",0
+10064,1,"Something glints white beneath the water!","The glint was all too fleeting...","The glinting white form reappears!",2,False,,"","",0,0,0,0,"Melancholia","Mooncrystal Perch","Lunar Prismfish","Hopping Goby","Lunar Wolffish","Platinum Bichir","","","","","Northward Hop-print",0
+10065,1,"","","",2,False,,"","",0,0,0,0,"Bluemoon Loach","Lunar Raiamas","Preceptor Betta","Lunar Academician","Skipping Star","","","","","","Westward Hop-print",0
+10066,1,"","","",2,False,,"","",0,0,0,0,"Moonrock Candy","Moongill","Darkside Bass","Lunar Sisterscale","Grand Crowntail Betta","","","","","","Hollow Harbor",0
+10067,1,"","","",7,False,,"","",0,0,0,0,"Lunar Scorpion","Moonwhip","Polypus Arsenici","Broodingway","Galactic Haze","","","","","","Palus Arsenici",0
+10068,1,"","","",2,False,,"","",0,0,0,0,"Moonrock Candy","Moongill","Darkside Bass","Lunar Turtle","Dark Crowntail Betta","","","","","","Hollow Harbor",0
+10069,1,"","","",2,False,,"","",0,0,0,0,"Astacus Lamentorum","Starcrier","Rainbow Tear","Dark Carp","Goldcheek","","","","","","Weeping Pool",0
+10070,1,"","","",2,False,,"","",0,0,0,0,"Star Pleco","Lunar Grass Carp","Moonlit Snakehead","Southeastern Pike","Lunarsword Snook","Lamentorum Garpike","","","","","Southeast Well",0
+10071,1,"","","",7,False,,"","",0,0,0,0,"Ctenophora Lunaris","Protomyke #721","Argonauta Lunaris","Nadirichthys","Atolla Jellyfish","","","","","","Aetherial Falls",0
+10072,1,"","","",7,False,,"","",0,0,0,0,"Arsenic Axolotl","Sunny Jellyfish","Universal Darkfin","Etheirys Croppie","Moon Mora","","","","","","Glimmerpond Alpha",0
+10073,1,"","","",7,False,,"","",0,0,0,0,"Lunar Scorpion","Moonwhip","Polypus Arsenici","Arsenic Flower","Arsenic Salamander","Eyeballingway","","","","","Palus Arsenici",0
+10074,1,"","","",2,False,,"","",0,0,0,0,"Moonrock Candy","Lunar Platyfish","Crenicichla Lunaris","Fullmoon Ray","Lunar Yellowfin","Wayeater","","","","","Hollow Harbor",0
+10075,1,"","","",7,False,,"","",0,0,0,0,"Lunar Scorpion","Moonwhip","Lunar Anemone","Culter Arsenici","Lamentorum Regotoise","Polypus Sulfuris","","","","","Palus Arsenici",0
+10076,1,"","","",2,False,,"","",0,0,0,0,"Star Pleco","Lunar Grass Carp","Moonlit Snakehead","Moonbeam","Moongate Cod","Lunar Sturgeon","","","","","Southeast Well",0
+10077,1,"","","",2,False,,"","",0,0,0,0,"Bluemoon Loach","Lunar Raiamas","Preceptor Betta","Starcrystal Knife","Bright Cobalt Eel","","","","","","Westward Hop-print",0
+10078,1,"","","",2,False,,"","",0,0,0,0,"Astacus Lamentorum","Teardrop Knifefish","Weeping Crab","Silvermoon Tilapia","Weeping Minnow","","","","","","Weeping Pool",0
+10079,1,"","","",2,False,,"","",0,0,0,0,"Moonrock Candy","Moongill","Darkside Bass","Opal Guppy","Harbor Fang","Deepmoon Cabomba","","","","","Hollow Harbor",0
+10080,1,"","","",2,False,,"","",0,0,0,0,"Melancholia","Mooncrystal Perch","Lunar Prismfish","Hopping Flounder","Cobalt Fish","Galactic Flarefish","","","","","Northward Hop-print",0
+10081,1,"","","",7,False,,"","",0,0,0,0,"Arsenic Axolotl","Sunny Jellyfish","Universal Darkfin","Glimmerfish","Lepopredator","Soliclymenia","","","","","Glimmerpond Alpha",0
+10082,1,"","","",7,False,,"","",0,0,0,0,"Lunar Scorpion","Moonwhip","Polypus Arsenici","Lunar Tadpole","Grand Atopodentatus","","","","","","Palus Arsenici",0
+10083,1,"","","",7,False,,"","",0,0,0,0,"Lunar Goldfish","Lunar Minnow","Gleamingray","Lunar Butterfly","Lunar Seagrapes","Fishingway","","","","","Glimmerpond Beta",0
+10084,1,"","","",7,False,,"","",0,0,0,0,"Ctenophora Lunaris","Protomyke #721","Argonauta Lunaris","Aetherial Sword","Moon Manta","Nadir Ambulocetus","","","","","Aetherial Falls",0
+10085,1,"","","",7,False,,"","",0,0,0,0,"Ctenophora Lunaris","Protomyke #721","Argonauta Lunaris","Aetherial Sword","Macropinna","Deepmoon Seadragon","","","","","Aetherial Falls",0
+10086,1,"","","",7,False,,"","",0,0,0,0,"Lunar Scorpion","Arsenical Proto-hropken","Lunar Oil Eel","Galactic Noise","Onychodictyon","Eolactoria Arsenici","","","","","Palus Arsenici",0
+10087,1,"You glimpse a draconic form writhe up from the depths!","The draconic figure fades from view...","The draconic form looms forth once again!",7,False,,"","",0,0,0,0,"Lunar Goldfish","Lunar Minnow","Lunar Glassfish","Gleaming Deathworm","Leanchoilia","Harpagofututor","","","","","Glimmerpond Beta",0
+10088,1,"","","",2,False,,"","",0,0,0,0,"Star Pleco","Lunar Grass Carp","Lunar Catfish","Lunar Longhair","Heavy Ataxite ","","","","","","Southeast Well",0
+10089,1,"","","",2,False,,"","",0,0,0,0,"Bluemoon Loach","Lunar Raiamas","Preceptor Betta","Moonlit Carp","Hopping Lungfish","","","","","","Westward Hop-print",0
+10090,1,"","","",7,False,,"","",0,0,0,0,"Lunar Scorpion","Moonwhip","Polypus Arsenici","Darkside Shrimp","Stardust Octopus","Raw Moonbright Tourmaline","","","","","Palus Arsenici",0
+10091,1,"","","",2,False,,"","",0,0,0,0,"Moonrock Candy","Moongill","Waxscale","Corydoras Lunaris","Infinity Eel","Hollow Eel","","","","","Hollow Harbor",0
+10092,1,"","","",2,False,,"","",0,0,0,0,"Bluemoon Loach","Lamentorum Geayi","Moon Bluetail","","","","","","","","Westward Hop-print",0
+10093,1,"","","",2,False,,"","",0,0,0,0,"Melancholia","Sunken Drone","","","","","","","","","Northward Hop-print",0
 10094,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
 10095,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
-10096,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10096,1,"","","",2,False,,"","",0,0,0,0,"Moonlight Pleco","Lunastone Pleco","","","","","","","","","Weeping Pool",0

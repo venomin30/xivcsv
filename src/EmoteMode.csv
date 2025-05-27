@@ -81,6 +81,6 @@ int32,Emote,Emote,bit&01,bit&02,bit&04,bit&08,byte,bit&10
 77,"Bouquet","",True,False,False,False,3,False
 78,"","",True,False,False,False,3,False
 79,"Dazed","",True,False,False,False,3,False
-80,"","",True,False,False,False,3,False
+80,"Rage","",True,False,False,False,3,False
 81,"Tomescroll","",True,False,False,False,3,False
 82,"Study","",True,False,False,False,3,False

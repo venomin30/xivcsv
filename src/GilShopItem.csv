@@ -15386,22 +15386,20 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263258.2,"Amateur's Pickaxe",False,0,0,,,"",0,100,0
 263258.3,"Plumed Bronze Pickaxe",False,0,0,,,"",0,100,0
 263258.4,"Iron Pickaxe",False,0,0,,,"",0,100,0
-263258.5,"Weathered Sledgehammer",False,0,0,,,"",0,100,0
-263258.6,"Bronze Sledgehammer",False,0,0,,,"",0,101,0
-263258.7,"Initiate's Sledgehammer",False,0,0,,,"",0,102,0
-263258.8,"Weathered Hatchet",False,0,0,,,"",0,102,0
-263258.9,"Bronze Hatchet",False,0,0,,,"",0,102,0
-263258.10,"Amateur's Hatchet",False,0,0,,,"",0,102,0
-263258.11,"Iron Hatchet",False,0,0,,,"",0,102,0
-263258.12,"Initiate's Hatchet",False,0,0,,,"",0,103,0
-263258.13,"Weathered Scythe",False,0,0,,,"",0,104,0
-263258.14,"Bronze Scythe",False,0,0,,,"",0,105,0
-263258.15,"Iron Scythe",False,0,0,,,"",0,106,0
-263258.16,"Weathered Fishing Rod",False,0,0,,,"",0,107,0
-263258.17,"Maple Fishing Rod",False,0,0,,,"",0,107,0
-263258.18,"Amateur's Fishing Rod",False,0,0,,,"",0,107,0
-263258.19,"Elm Fishing Rod",False,0,0,,,"",0,107,0
-263258.20,"Initiate's Fishing Rod",False,0,0,,,"",0,107,0
+263258.5,"Bronze Sledgehammer",False,0,0,,,"",0,101,0
+263258.6,"Initiate's Sledgehammer",False,0,0,,,"",0,102,0
+263258.7,"Weathered Hatchet",False,0,0,,,"",0,102,0
+263258.8,"Bronze Hatchet",False,0,0,,,"",0,102,0
+263258.9,"Amateur's Hatchet",False,0,0,,,"",0,102,0
+263258.10,"Iron Hatchet",False,0,0,,,"",0,102,0
+263258.11,"Initiate's Hatchet",False,0,0,,,"",0,103,0
+263258.12,"Bronze Scythe",False,0,0,,,"",0,105,0
+263258.13,"Iron Scythe",False,0,0,,,"",0,106,0
+263258.14,"Weathered Fishing Rod",False,0,0,,,"",0,107,0
+263258.15,"Maple Fishing Rod",False,0,0,,,"",0,107,0
+263258.16,"Amateur's Fishing Rod",False,0,0,,,"",0,107,0
+263258.17,"Elm Fishing Rod",False,0,0,,,"",0,107,0
+263258.18,"Initiate's Fishing Rod",False,0,0,,,"",0,107,0
 263259.0,"Initiate's Pickaxe",False,0,0,,,"",0,100,0
 263259.1,"Iron Dolabra",False,0,0,,,"",0,100,0
 263259.2,"Steel Pickaxe",False,0,0,,,"",0,100,0
@@ -15897,9 +15895,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263273.7,"Leather Choker",False,0,0,,,"",0,130,0
 263273.8,"Hard Leather Choker",False,0,0,,,"",0,130,0
 263273.9,"Hard Leather Wristbands of Gathering",False,0,0,,,"",0,150,0
-263273.10,"Goatskin Wristbands of Gathering",False,0,0,,,"",0,150,0
-263273.11,"Goatskin Ring",False,0,0,,,"",0,170,0
-263273.12,"Toadskin Ring",False,0,0,,,"",0,170,0
+263273.10,"Goatskin Ring",False,0,0,,,"",0,170,0
 263274.0,"Horn Earrings",False,0,0,,,"",0,100,0
 263274.1,"Wolf Earrings",False,0,0,,,"",0,100,0
 263274.2,"Silver Choker",False,0,0,,,"",0,120,0
@@ -15912,8 +15908,10 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263274.9,"Mythril Earrings",False,0,0,,,"",0,110,0
 263274.10,"Goatskin Choker",False,0,0,,,"",0,130,0
 263274.11,"Boarskin Choker",False,0,0,,,"",0,130,0
-263274.12,"Boarskin Wristbands of Gathering",False,0,0,,,"",0,150,0
-263274.13,"Boarskin Ring",False,0,0,,,"",0,170,0
+263274.12,"Goatskin Wristbands of Gathering",False,0,0,,,"",0,150,0
+263274.13,"Boarskin Wristbands of Gathering",False,0,0,,,"",0,150,0
+263274.14,"Toadskin Ring",False,0,0,,,"",0,170,0
+263274.15,"Boarskin Ring",False,0,0,,,"",0,170,0
 263275.0,"Red Coral Earrings",False,0,0,,,"",0,100,0
 263275.1,"Yeti Fang Earrings",False,0,0,,,"",0,100,0
 263275.2,"Dragon Fang Earrings",False,0,0,,,"",0,100,0
@@ -16050,7 +16048,6 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263278.13,"Amateur's Culinary Knife",False,0,0,,,"",0,100,0
 263278.14,"Bronze Culinary Knife",False,0,0,,,"",0,100,0
 263278.15,"Iron Culinary Knife",False,0,0,,,"",0,100,0
-263278.16,"Initiate's Culinary Knife",False,0,0,,,"",0,100,0
 263279.0,"Iron Alembic",False,0,0,,,"",0,100,0
 263279.1,"Conical Alembic",False,0,0,,,"",0,100,0
 263279.2,"Steel Alembic",False,0,0,,,"",0,100,0
@@ -16064,8 +16061,9 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263279.10,"Steel Skillet",False,0,0,,,"",0,100,0
 263279.11,"White Skillet",False,0,0,,,"",0,100,0
 263279.12,"Steel Frypan",False,0,0,,,"",0,100,0
-263279.13,"Steel Culinary Knife",False,0,0,,,"",0,100,0
-263279.14,"Wrapped Steel Culinary Knife",False,0,0,,,"",0,100,0
+263279.13,"Initiate's Culinary Knife",False,0,0,,,"",0,100,0
+263279.14,"Steel Culinary Knife",False,0,0,,,"",0,100,0
+263279.15,"Wrapped Steel Culinary Knife",False,0,0,,,"",0,100,0
 263280.0,"Electrum Alembic",False,0,0,,,"",0,100,0
 263280.1,"Thermal Alembic",False,0,0,,,"",0,100,0
 263280.2,"Mythrite Alembic",False,0,0,,,"",0,100,0

@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12
-#,TopImage,BottomImage,FontColor,,,,UnlockCondition,,,,,SortKey,Name
+#,TopImage,BottomImage,FontColor,,,,UnlockCondition,,,,SortKey,Name,
 int32,Image,Image,byte,byte,byte,byte,BannerCondition,uint16,uint16,uint16,byte,uint16,str
 0,"ui/icon/196000/196001.tex","ui/icon/196000/196251.tex",0,0,0,0,"BannerCondition#1",0,0,0,0,0,"None"
 1,"ui/icon/196000/196002.tex","ui/icon/196000/196252.tex",1,0,0,0,"BannerCondition#1",0,0,0,1,3,"Black Gradient"
@@ -75,4 +75,4 @@ int32,Image,Image,byte,byte,byte,byte,BannerCondition,uint16,uint16,uint16,byte,
 71,"ui/icon/196000/196118.tex",,1,0,0,0,"BannerCondition#872",0,0,0,4,2505,"Futures Rewritten"
 72,,,0,0,0,0,"BannerCondition#0",0,0,0,0,0,""
 73,,,0,0,0,0,"BannerCondition#0",0,0,0,0,0,""
-74,,,0,0,0,0,"BannerCondition#0",0,0,0,0,0,""
+74,"ui/icon/196000/196120.tex",,1,0,0,0,"BannerCondition#878",0,0,0,8,2342,"Cosmic Exploration"

@@ -1056,7 +1056,7 @@ int32,str,Image,Quest,DefaultTalk,DefaultTalk,bit&01,uint16,uint16
 263236,"",,,,,False,0,0
 263237,"",,,,,False,0,0
 263238,"",,,,,False,0,0
-263239,"",,,,,False,0,0
+263239,"Purchase Items",,,,,True,0,0
 263240,"",,,,,False,0,0
 263241,"",,,,,False,0,0
 263242,"",,,,,False,0,0
@@ -1065,38 +1065,38 @@ int32,str,Image,Quest,DefaultTalk,DefaultTalk,bit&01,uint16,uint16
 263245,"",,,,,False,0,0
 263246,"",,,,,False,0,0
 263247,"",,,,,False,0,0
-263248,"",,,,,False,0,0
-263249,"",,,,,False,0,0
-263250,"",,,,,False,0,0
-263251,"",,,,,False,0,0
-263252,"",,,,,False,0,0
-263253,"",,,,,False,0,0
-263254,"",,,,,False,0,0
-263255,"",,,,,False,0,0
-263256,"",,,,,False,0,0
-263257,"",,,,,False,0,0
-263258,"",,,,,False,0,0
-263259,"",,,,,False,0,0
-263260,"",,,,,False,0,0
-263261,"",,,,,False,0,0
-263262,"",,,,,False,0,0
-263263,"",,,,,False,0,0
-263264,"",,,,,False,0,0
-263265,"",,,,,False,0,0
-263266,"",,,,,False,0,0
-263267,"",,,,,False,0,0
-263268,"",,,,,False,0,0
-263269,"",,,,,False,0,0
-263270,"",,,,,False,0,0
-263271,"",,,,,False,0,0
-263272,"",,,,,False,0,0
-263273,"",,,,,False,0,0
-263274,"",,,,,False,0,0
-263275,"",,,,,False,0,0
-263276,"",,,,,False,0,0
-263277,"",,,,,False,0,0
-263278,"",,,,,False,0,0
-263279,"",,,,,False,0,0
-263280,"",,,,,False,0,0
-263281,"",,,,,False,0,0
-263282,"",,,,,False,0,0
+263248,"Purchase Tools (Carpenter/Blacksmith/Armorer)",,,,,True,0,0
+263249,"Purchase Tools (Carpenter/Blacksmith/Armorer)",,,,,True,0,0
+263250,"Purchase Tools (Carpenter/Blacksmith/Armorer)",,,,,True,0,0
+263251,"Purchase Tools (Carpenter/Blacksmith/Armorer)",,,,,True,0,0
+263252,"Purchase Tools (Carpenter/Blacksmith/Armorer)",,,,,True,0,0
+263253,"Purchase Tools (Goldsmith/Leatherworker/Weaver)",,,,,True,0,0
+263254,"Purchase Tools (Goldsmith/Leatherworker/Weaver)",,,,,True,0,0
+263255,"Purchase Tools (Goldsmith/Leatherworker/Weaver)",,,,,True,0,0
+263256,"Purchase Tools (Goldsmith/Leatherworker/Weaver)",,,,,True,0,0
+263257,"Purchase Tools (Goldsmith/Leatherworker/Weaver)",,,,,True,0,0
+263258,"Purchase Tools (Miner/Botanist/Fisher)",,,,,True,0,0
+263259,"Purchase Tools (Miner/Botanist/Fisher)",,,,,True,0,0
+263260,"Purchase Tools (Miner/Botanist/Fisher)",,,,,True,0,0
+263261,"Purchase Tools (Miner/Botanist/Fisher)",,,,,True,0,0
+263262,"Purchase Tools (Miner/Botanist/Fisher)",,,,,True,0,0
+263263,"Purchase Tradecraft Gear",,,,,True,0,0
+263264,"Purchase Tradecraft Gear",,,,,True,0,0
+263265,"Purchase Tradecraft Gear",,,,,True,0,0
+263266,"Purchase Tradecraft Gear",,,,,True,0,0
+263267,"Purchase Tradecraft Gear",,,,,True,0,0
+263268,"Purchase Fieldcraft Gear",,,,,True,0,0
+263269,"Purchase Fieldcraft Gear",,,,,True,0,0
+263270,"Purchase Fieldcraft Gear",,,,,True,0,0
+263271,"Purchase Fieldcraft Gear",,,,,True,0,0
+263272,"Purchase Fieldcraft Gear",,,,,True,0,0
+263273,"Purchase Accessories",,,,,True,0,0
+263274,"Purchase Accessories",,,,,True,0,0
+263275,"Purchase Accessories",,,,,True,0,0
+263276,"Purchase Accessories",,,,,True,0,0
+263277,"Purchase Accessories",,,,,True,0,0
+263278,"Purchase Tools (Alchemist/Culinarian)",,,,,True,0,0
+263279,"Purchase Tools (Alchemist/Culinarian)",,,,,True,0,0
+263280,"Purchase Tools (Alchemist/Culinarian)",,,,,True,0,0
+263281,"Purchase Tools (Alchemist/Culinarian)",,,,,True,0,0
+263282,"Purchase Tools (Alchemist/Culinarian)",,,,,True,0,0

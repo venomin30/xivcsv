@@ -1736,178 +1736,178 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint16,uint32,bit&04,uint3
 10915,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
 10916,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
 10917,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10918,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10919,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10920,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10921,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10922,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10923,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10924,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10925,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10926,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+10918,"Lunar Meteorite","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+10919,"Lunar Meteorite","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+10920,"Lunar Meteorite","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+10921,"Lunar Chromite Ore","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+10922,"Lunar Meteorite","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+10923,"Lunar Chromite Ore","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+10924,"Lunar Earth Fragment","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+10925,"Lunar Rock","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+10926,"Lunar Cobalt Ore","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
 10927,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10928,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10929,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10930,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10931,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10932,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10933,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10934,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10935,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10936,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10937,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+10928,"Lunar Earth Fragment","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+10929,"Lunar Rock","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+10930,"Lunar Cobalt Ore","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+10931,"Lunar Cobalt Ore","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+10932,"Lunar Earth Fragment","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+10933,"Lunar Copper Sand","GatheringItemLevelConvertTable#50",False,,0,0,False,0,6,21
+10934,"Lunar Yellow Copper Ore","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+10935,"Lunar Gold Ore","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+10936,"Lunar Yellow Alumen","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+10937,"Lunar Yellow Copper Ore","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
 10938,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
 10939,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10940,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10941,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10942,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10943,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10944,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10945,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10946,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10947,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10948,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10949,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10950,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10951,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+10940,"Lunar Yellow Copper Ore","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+10941,"Lunar Gold Ore","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+10942,"Lunar Yellow Alumen","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+10943,"Lunar Yellow Copper Ore","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+10944,"Lunar Yellow Copper Ore","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+10945,"Lunar Yellow Copper Ore","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+10946,"Lunar Gold Sand","GatheringItemLevelConvertTable#560",False,,0,0,False,0,6,21
+10947,"Lunar Yellow Quartz","GatheringItemLevelConvertTable#560",False,,0,0,False,0,5,104
+10948,"Lunar Yellow Copper Ore","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+10949,"Lunar Gold Ore","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+10950,"Lunar Yellow Alumen","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+10951,"Lunar Earth Fragment","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
 10952,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
 10953,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10954,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10955,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10956,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10957,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10958,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10959,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10960,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10961,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10962,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10963,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10964,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10965,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10966,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+10954,"Lunar Cobalt Ore","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+10955,"Lunar Hardsilver Ore","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+10956,"Lunar Anorthosite Whetstone","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+10957,"Lunar Chromite Ore","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+10958,"Lunar Earth Fragment","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+10959,"Lunar Earth Fragment","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+10960,"Lunar Rock","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+10961,"Lunar Rhodium Sand","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+10962,"Lunar Black Quartz","GatheringItemLevelConvertTable#700",False,,0,0,False,0,5,105
+10963,"Lunar Durium Ore","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+10964,"Lunar Durium Sand","GatheringItemLevelConvertTable#700",False,,0,0,False,0,6,22
+10965,"Lunar Limonite","GatheringItemLevelConvertTable#700",False,,0,0,False,0,6,22
+10966,"Lunar Yellow Quartz","GatheringItemLevelConvertTable#730",False,,0,0,False,0,5,106
 10967,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10968,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10969,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10970,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10971,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10972,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10973,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10974,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+10968,"Lunar Cobalt Ore","GatheringItemLevelConvertTable#730",False,,0,0,False,0,0,65535
+10969,"Lunar Hardsilver Sand","GatheringItemLevelConvertTable#730",False,,0,0,False,0,6,22
+10970,"Lunar Meteorite","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+10971,"Lunar Zinc Ore","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+10972,"Lunar Magnesia Powder","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+10973,"Lunar Earth Fragment","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+10974,"Lunar Cobalt Ore","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
 10975,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
 10976,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10977,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10978,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10979,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10980,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10981,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10982,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10983,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10984,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10985,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10986,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10987,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10988,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+10977,"Lunar Yellow Copper Ore","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+10978,"Lunar Gold Sand","GatheringItemLevelConvertTable#730",False,,0,0,False,0,6,22
+10979,"Lunar Earth Fragment","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+10980,"Lunar Rock","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+10981,"Lunar Rhodium Sand","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+10982,"Brown Lunar Slag","GatheringItemLevelConvertTable#730",False,,0,0,False,0,5,108
+10983,"Lunar Chromite Ore","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+10984,"Lunar Silver Ore","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+10985,"Lunar Pumice","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+10986,"Lunar Purpurite","GatheringItemLevelConvertTable#730",False,,0,0,False,0,0,65535
+10987,"Lunar Durium Sand","GatheringItemLevelConvertTable#700",False,,0,0,False,0,6,22
+10988,"Lunar Blue Quartz","GatheringItemLevelConvertTable#730",False,,0,0,False,0,5,109
 10989,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10990,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10991,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10992,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10993,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10994,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10995,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10996,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10997,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10998,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-10999,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11000,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11001,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11002,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11003,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11004,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11005,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11006,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11007,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11008,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11009,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11010,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11011,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11012,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+10990,"Lunar Durium Ore","GatheringItemLevelConvertTable#730",False,,0,0,False,0,0,65535
+10991,"Lunar Durium Sand","GatheringItemLevelConvertTable#730",False,,0,0,False,0,6,22
+10992,"Lunar Blue Quartz","GatheringItemLevelConvertTable#730",False,,0,0,False,0,5,111
+10993,"Lunar Hard Water","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+10994,"Lunar Chromite Ore","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+10995,"Lunar Gold Ore","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+10996,"Lunar Meteorite","GatheringItemLevelConvertTable#730",False,,0,0,False,0,0,65535
+10997,"Lunar Bronze Alumen","GatheringItemLevelConvertTable#730",False,,0,0,False,0,0,65535
+10998,"Lunar Saltpeter","GatheringItemLevelConvertTable#730",False,,0,0,False,0,0,65535
+10999,"","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11000,"Lunar Insulating Material","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11001,"Fallen Drone","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11002,"","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11003,"Siderite","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11004,"Moonwheat","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11005,"Moonwheat","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11006,"Goldeye Scales","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11007,"Red Spider Fungus","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11008,"Goldeye Scales","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11009,"Red Spider Fungus","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11010,"Turquoise Shag Leaf","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+11011,"Turquoise Shag Vine","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+11012,"Coraleaf","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
 11013,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11014,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11015,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11016,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11017,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11018,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11019,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11020,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11021,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11022,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11023,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+11014,"Red Mycophlox Log","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+11015,"Red Mycophlox Sporocarp","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+11016,"Coraleaf","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+11017,"Coraleaf","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+11018,"Red Mycophlox Rhizome","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+11019,"Red Mycophlox Mucilage","GatheringItemLevelConvertTable#50",False,,0,0,False,0,6,21
+11020,"Pink Shag Leaf","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11021,"Pink Shag Vine","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11022,"Pink Shag Flower","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11023,"Blue Mycophlox Log","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
 11024,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
 11025,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11026,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11027,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11028,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11029,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11030,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11031,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11032,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11033,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11034,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11035,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11036,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11037,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+11026,"Moonglory Log","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11027,"Moonglory Sporocarp","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11028,"Moonglory Rhizomes","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11029,"Blue Mycophlox Log","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11030,"Moonglory Log","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11031,"Blue Mycophlox Log","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11032,"Blue Mycophlox Mucilage","GatheringItemLevelConvertTable#560",False,,0,0,False,0,6,21
+11033,"Moonglory Mycelium","GatheringItemLevelConvertTable#560",False,,0,0,False,0,5,112
+11034,"Pink Shag Leaf","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11035,"Pink Shag Vine","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11036,"Pink Shag Flower","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11037,"Red Mycophlox Log","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
 11038,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
 11039,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11040,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11041,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11042,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11043,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11044,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11045,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11046,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11047,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11048,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11049,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11050,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11051,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11052,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+11040,"Coraleaf","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11041,"Coraleaf Spores","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11042,"Weddingbloom","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11043,"Red Spider Fungus","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11044,"Red Mycophlox Log","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11045,"Turquoise Shag Leaf","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11046,"Turquoise Shag Vine","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11047,"Turquoise Shag Flower","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11048,"Goldeye Amber","GatheringItemLevelConvertTable#700",False,,0,0,False,0,5,113
+11049,"Blue Fungus","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11050,"Green Fungus","GatheringItemLevelConvertTable#700",False,,0,0,False,0,6,22
+11051,"Lunar Shallot","GatheringItemLevelConvertTable#700",False,,0,0,False,0,6,22
+11052,"Blue Mycophlox Mycelium","GatheringItemLevelConvertTable#730",False,,0,0,False,0,5,114
 11053,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11054,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11055,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11056,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11057,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11058,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11059,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+11054,"Coraleaf","GatheringItemLevelConvertTable#730",False,,0,0,False,0,0,65535
+11055,"Moonblue Mushroom Spores","GatheringItemLevelConvertTable#730",False,,0,0,False,0,6,22
+11056,"Turquoise Shag Leaf","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11057,"Turquoise Shag Vine","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11058,"Turquoise Shag Flower","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11059,"Coraleaf","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
 11060,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
 11061,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11062,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11063,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11064,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11065,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11066,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11067,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11068,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11069,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11070,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11071,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11072,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11073,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11074,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+11062,"Moonwheat Spores","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11063,"Moonglory Log","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11064,"Mycophlox Scales","GatheringItemLevelConvertTable#730",False,,0,0,False,0,6,22
+11065,"Coraleaf","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11066,"Coraleaf Spores","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11067,"Weddingbloom","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11068,"Mycophos Fiber","GatheringItemLevelConvertTable#730",False,,0,0,False,0,5,116
+11069,"Red Mycophlox Log","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11070,"Red Mycophlox Sporocarp","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11071,"Red Mycophlox Rhizome","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11072,"Mycophos Sclerotium","GatheringItemLevelConvertTable#730",False,,0,0,False,0,0,65535
+11073,"Green Fungus","GatheringItemLevelConvertTable#700",False,,0,0,False,0,6,22
+11074,"Red Fungus","GatheringItemLevelConvertTable#730",False,,0,0,False,0,5,117
 11075,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11076,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11077,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11078,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11079,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11080,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11081,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11082,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11083,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11084,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11085,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11086,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11087,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11088,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11089,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+11076,"Yellow Fungus","GatheringItemLevelConvertTable#730",False,,0,0,False,0,0,65535
+11077,"Green Fungus","GatheringItemLevelConvertTable#730",False,,0,0,False,0,6,22
+11078,"Lilac Fungus","GatheringItemLevelConvertTable#730",False,,0,0,False,0,5,119
+11079,"Goldeye Scales","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11080,"Moonglory Sporocarp","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11081,"Moonblue Mushroom","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11082,"Red Mycophlox Rhizome","GatheringItemLevelConvertTable#730",False,,0,0,False,0,0,65535
+11083,"Blue Mycophlox Mucilage","GatheringItemLevelConvertTable#730",False,,0,0,False,0,0,65535
+11084,"Weddingbloom","GatheringItemLevelConvertTable#730",False,,0,0,False,0,0,65535
+11085,"","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11086,"Mutated Spongos","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11087,"","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11088,"Vegetation Sample","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11089,"Mycophos Sclerotium","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
 11090,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
 11091,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
 11092,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
