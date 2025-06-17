@@ -78,14 +78,14 @@ int32,ContentsNoteCategory,Image,byte,int32,byte,int32,byte,int32,uint16,HowTo,R
 73,"ContentsNoteCategory#10","ui/icon/061000/061820.tex",13,1,0,0,8,3000,0,"","Open and Inviting","Come on in, It's Open","Participate in an Open tournament and receive your reward.",0
 74,"ContentsNoteCategory#11","ui/icon/061000/061847.tex",11,100,0,0,11,1000,0,"","Seeking Sanctuary","Living off the Land","Collect 100 materials in your island sanctuary.",0
 75,"ContentsNoteCategory#11","ui/icon/061000/061847.tex",12,20,0,0,11,1000,0,"","Seeking Sanctuary","Making a Living off the Land","Ship 20 isleworks handicrafts.",0
-76,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
-77,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
-78,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
-79,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
-80,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
-81,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
-82,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
-83,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
+76,"ContentsNoteCategory#13","ui/icon/061000/061851.tex",1,30,12,30,13,140,0,"","Unfamiliar Territory","Occult Interloping I","Defeat 30 monsters with a knowledge level equal to or higher than your own.",0
+77,"ContentsNoteCategory#13","ui/icon/061000/061851.tex",2,60,12,70,13,240,0,"","Unfamiliar Territory","Occult Interloping II","Defeat 60 monsters with a knowledge level equal to or higher than your own.",0
+78,"ContentsNoteCategory#13","ui/icon/061000/061851.tex",3,8,12,30,13,140,0,"","Unfamiliar Territory","Critically Endangered I","Complete 8 critical encounters on the Occult Crescent.",0
+79,"ContentsNoteCategory#13","ui/icon/061000/061851.tex",4,15,12,70,13,240,0,"","Unfamiliar Territory","Critically Endangered II","Complete 15 critical encounters on the Occult Crescent.",0
+80,"ContentsNoteCategory#13","ui/icon/061000/061851.tex",5,10,12,30,13,140,0,"","Unfamiliar Territory","Fateful Contention I","Complete 10 FATEs on the Occult Crescent.",0
+81,"ContentsNoteCategory#13","ui/icon/061000/061851.tex",6,20,12,70,13,240,0,"","Unfamiliar Territory","Fateful Contention II","Complete 20 FATEs on the Occult Crescent.",0
+82,"ContentsNoteCategory#13","ui/icon/061000/061851.tex",7,1,12,30,13,140,0,"","Unfamiliar Territory","Make It Chain I","Achieve an EXP chain of 20 on the Occult Crescent.",0
+83,"ContentsNoteCategory#13","ui/icon/061000/061851.tex",8,1,12,70,13,240,0,"","Unfamiliar Territory","Make It Chain II","Achieve an EXP chain of 40 on the Occult Crescent.",0
 84,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
 85,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
 86,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0

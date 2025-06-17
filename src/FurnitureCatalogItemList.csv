@@ -1224,14 +1224,14 @@ int32,FurnitureCatalogCategory,Item,uint16
 1220,"Interactive Furnishings","Blank Minimalist Partition",720
 1221,"Interactive Furnishings","Minimalist Partition Door",720
 1222,"Miscellaneous","Drafting Table",720
-1223,"Tables","",0
-1224,"Tables","",0
-1225,"Tables","",0
-1226,"Tables","",0
-1227,"Tables","",0
-1228,"Tables","",0
-1229,"Tables","",0
-1230,"Tables","",0
+1223,"Tableware/Foods","Tiika Selvaas",720
+1224,"Miscellaneous","Celestial Sphere",720
+1225,"Miscellaneous","Crescent Trophy",720
+1226,"Tables","Occult Table",720
+1227,"Chairs/Sofas","Occult Chair",720
+1228,"Miscellaneous","Occult Tablets",720
+1229,"Miscellaneous","Knowledge Crystal Replica",720
+1230,"Flags/Frames/Posters","Occult Crescent Map",720
 1231,"Chairs/Sofas","Cosmochair",720
 1232,"Tables","Cosmotable",720
 1233,"Lighting","Cosmolamp",720

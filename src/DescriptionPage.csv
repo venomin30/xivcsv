@@ -2934,32 +2934,120 @@ When in a position to call certain hands, or when match points are tallied, char
 ※Players must first complete the main scenario quest “<Sheet(Quest,67205,0)/>.”
 
 Once purchased, you can open the Gold Saucer menu and navigate to the Mahjong tab. Then, under Mahjong Character Voices, you can select your desired character to be used during matches. You may also select what attire will be used in the selected character's portrait, unlocking additional outfits as you progress through the main scenario.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-124.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-125.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-125.1,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-125.2,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-126.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-126.1,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-126.2,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-126.3,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-126.4,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-126.5,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-126.6,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-126.7,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-126.8,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-127.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-127.1,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-128.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-129.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-129.1,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-130.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-130.1,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-131.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-132.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-132.1,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-132.2,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-132.3,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-133.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+124.0,0,,0,"The Occult Crescent",,"On the Occult Crescent, players must explore widely and overcome deadly threats, all in aid of unraveling the isle's mysteries.","ui/icon/086000/086304.tex","■Basic Rules
+Players can enter the Occult Crescent solo or in a party. It is possible to form a party even after entering the instance.
+
+■Requirements
+A <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Disciple of War or Magic level 100 or higher<UIGlow>01</UIGlow><UIForeground>01</UIForeground> is required to enter, and the <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>required average item level is 690<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+■Restrictions
+Once inside, you are free to change to any Disciple of War or Magic that meets the requirements to enter. However, you cannot change jobs in certain circumstances, including while participating in a critical encounter.
+
+All expeditions on the Occult Crescent are level synced, with <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>character levels adjusted to 100, and all equipment adjusted to item level 700<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",,"",,"",,"",,"",,"",,"",,"",,"",,0
+125.0,0,,0,"Knowledge Level",,"Progress during the expedition is represented by your <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>knowledge level<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, with all players starting at level 1.
+
+Discrepancies between your knowledge level and that of your enemies can greatly impact the outcome of a battle. Caution is advised when engaging a foe with a knowledge level greater than your own.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+125.1,0,,0,"Raising Your Knowledge Level",,"Players can accumulate <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>knowledge<UIGlow>01</UIGlow><UIForeground>01</UIForeground>─akin to experience points─by defeating enemies and completing quests on the Occult Crescent.
+
+Slaying foes with a knowledge level higher than your own will garner more knowledge. Players may choose to form parties and take on such adversaries to reap the increased knowledge reward.
+
+Knowledge can also be earned by participating in critical encounters and FATEs across the island.
+
+Your knowledge level and accrued knowledge will be retained between excursions─progress will not be lost when you depart the Occult Crescent.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+125.2,0,,0,"Incapacitation Penalty",,"Falling in battle while out on an excursion will incur a penalty. <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>If you are incapacitated and return to base camp without being revived, you will lose a portion of your knowledge.<UIGlow>01</UIGlow><UIForeground>01</UIForeground> The amount of knowledge lost is dependent on your knowledge level. Players who leave the instance while incapacitated will also receive the aforementioned penalty.
+
+Furthermore, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>if your knowledge level is above 5, incurring the penalty can decrease your knowledge level<UIGlow>01</UIGlow><UIForeground>01</UIForeground> if your knowledge falls below zero as a result.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+126.0,0,,0,"Phantom Jobs",,"While exploring the Occult Crescent, players can utilize additional, supplemental jobs known as <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>phantom jobs<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Selecting a phantom job bestows a <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>beneficial status and grants access to an array of phantom actions<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Although only one phantom job may be selected, under most circumstances you are free to make a different selection at any time. Leveraging various phantom jobs as the need arises may be the difference between victory and defeat out in the field.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+126.1,0,,0,"Unlocking New Phantom Jobs",,"The roster of phantom jobs available to you is expanded by learning ancient martial and arcane techniques contained within <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>soul shards.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Soul shards are obtained from vendors, certain critical encounters, and more. Explore the Occult Crescent to find them!",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+126.2,0,,0,"Changing Phantom Jobs",,"Select the character icon on the Occult Crescent HUD to open the phantom job window and view a list of actions and traits associated with your current phantom job.",,"On the phantom job window, select the character icon again to view your phantom job repertoire. From here, you may change jobs by selecting a different character icon.",,"",,"",,"",,"",,"",,"",,"",,"",,0
+126.3,0,,0,"Learning New Phantom Actions",,"Utilizing a phantom job to defeat your adversaries will garner <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>phantom EXP<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Earning sufficient phantom EXP will increase the level of your selected phantom job, granting access to a variety of <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>offensive, restorative, and supplemental phantom actions<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+126.4,0,,0,"Using Phantom Actions",,"Upon acquisition, phantom actions are registered to the phantom action panel, which displays within Occult Crescent zones <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>in place of the duty action HUD.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","ui/icon/086000/086305.tex","Phantom actions can be executed and toggled using the following methods:
+
+<If(Equal(PlayerParameter(80),0))>■Keyboard and Mouse
+By clicking phantom action icons displayed on the HUD.
+
+■<If(GreaterThan(PlayerParameter(75),0))>Controller<Else/>Gamepad</If>
+By pressing <Gui(17)/> with the cross hotbar active.
+<CommandIcon(14)/>＋<Gui(17)/>: Select Phantom Action
+<CommandIcon(15)/>＋<Gui(17)/>: Execute Phantom Action
+<Else/>■<If(GreaterThan(PlayerParameter(75),0))>Controller<Else/>Gamepad</If>
+By pressing <Gui(17)/> with the cross hotbar active.
+<CommandIcon(14)/>＋<Gui(17)/>: Select Phantom Action
+<CommandIcon(15)/>＋<Gui(17)/>: Execute Phantom Action
+
+■Keyboard and Mouse
+By clicking phantom action icons displayed on the HUD.
+</If>
+■Registering Duty Actions to the Hotbar / Cross Hotbar
+If you register Duty Actions I and II found under the Duties tab in Actions & Traits to your hotbar or cross hotbar, these icons will automatically switch to Execute Phantom Action and Toggle Phantom Action, respectively, while on the Occult Crescent.
+
+■Registering Phantom Actions to the Hotbar / Cross Hotbar
+If you register Phantom Actions I-V found under the Duties tab in Actions & Traits to your hotbar or cross hotbar, these icons will automatically switch to their respective phantom actions while on the Occult Crescent.",,"",,"",,"",,"",,"",,"",,"",,"",,0
+126.5,0,,0,"Phantom Traits",,"Leveling your phantom jobs can provide access to job-specific <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>phantom traits<UIGlow>01</UIGlow><UIForeground>01</UIForeground> which in turn boost the effectiveness of your phantom actions or grant special techniques.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+126.6,0,,0,"Items and Phantom Actions",,"Some phantom actions, such as the Phantom Chemist's Occult Potion and the Phantom Samurai's Zeninage, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>consume specific items upon use.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+These items are available for purchase with gil or Enlightenment pieces from the expedition supplier and antiquarian.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+126.7,0,,0,"Mastering Phantom Jobs",,"Upon reaching a phantom job's maximum level, you will receive the Phantom Mastery status, which grants increased damage dealt and other helpful effects, and remains active even should you change to another phantom job.
+
+The more jobs you master, the more powerful your Phantom Mastery effects become, so intrepid adventurers will want to deepen their knowledge of many a lost art.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+126.8,0,,0,"Phantom Freelancer",,"The first phantom job available to you is that of the freelancer, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>a basic job suited to exploration.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Freelancers do not gain experience through traditional means. <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Instead, it levels up with every additional phantom job you master.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+127.0,0,,0,"Balanced Parties",,"On the Occult Crescent, a party is considered balanced <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>so long as all members are within three knowledge levels of one another.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",,"Enemies defeated by a balanced party will award <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>10% more phantom experience.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Additionally, because your knowledge level is adjusted to the average level of all party members, everyone is able to take part in combat on even footing─an appealing advantage compared to exploring alone!",,"",,"",,"",,"",,"",,"",,"",,"",,0
+127.1,0,,0,"Knowledge Level Sync",,"If your party is not balanced, each member will enter combat at their current knowledge level, resulting in a strength discrepancy.
+
+To avoid this, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>the party leader may choose to toggle knowledge level sync on or off.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+When enabled, this setting adjusts the knowledge level of all members three or more levels higher than the member whose knowledge level is lowest, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>automatically creating a balanced party.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+128.0,0,,0,"EXP Chains",,"Under certain conditions, defeating enemies on the Occult Crescent will result in <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>EXP chains.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Generally, it occurs upon defeating <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>an enemy whose knowledge level exceeds your own,<UIGlow>01</UIGlow><UIForeground>01</UIForeground> but the exact threshold will change depending on party size.
+
+Solo: 2 levels higher
+2 players: 3 levels higher
+3 or 4 players: 4 or 5 levels higher
+5 or 6 players: 6 or 7 levels higher
+7 or 8 players: 7 or 8 levels higher",,"The more high-level enemies defeated within a set time period, the larger the chain will grow; <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>the bigger the level difference, the faster the growth rate.<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow> Form a party with your comrades and reap greater rewards!",,"",,"",,"",,"",,"",,"",,"",,"",,0
+129.0,0,,0,"Critical Encounters",,"Critical encounters are large-scale battles wherein up to 72 players band together to take on powerful opponents. Prove yourself victorious and you'll gain considerable knowledge, among other rewards.
+
+Unlike enemies in the wild, foes fought in critical encounters are <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>unaffected by knowledge level,<UIGlow>01</UIGlow><UIForeground>01</UIForeground> so all players who join the fray will do so on even ground.
+
+Even better, a uniquely powerful enhancing effect will be applied to those who win the battle under set conditions!",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+129.1,0,,0,"Participation",,"To take part in a critical encounter, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>you need only reach its location on the map.<UIGlow>01</UIGlow><UIForeground>01</UIForeground> This may necessitate travel through areas infested with dangerous enemies, so have care.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+130.0,0,"Past and Crescent",0,"The Forked Towers",,"The Forked Towers are the greatest challenge to be found on the Occult Crescent.
+
+Make full use of your phantom jobs and work together with up to 48 total players to overcome powerful foes and tricky battle mechanics!",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+130.1,0,"Past and Crescent",0,"The Forked Tower: Blood",,"Only those with a <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>knowledge level of 20 or greater<UIGlow>01</UIGlow><UIForeground>01</UIForeground> may enter the Forked Tower: Blood.
+
+To do so, an aetherial node must be powered through the coordinated use of <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>sanguine ciphers<UIGlow>01</UIGlow><UIForeground>01</UIForeground> purchased from the expedition antiquarian at the base camp.",,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>A minimum of 16 players must offer sanguine ciphers within a set timeframe.<UIGlow>01</UIGlow><UIForeground>01</UIForeground> Those selected to enter will receive the Right of Entry: The Forked Tower status effect, granting them clearance to enter the Forked Tower: Blood.
+
+A short time after the node is activated, a maximum of 48 players standing upon it will be teleported inside. Should more than 48 players board the node, players who invested a greater number of ciphers will have a higher chance of being selected for entry.",,"",,"",,"",,"",,"",,"",,"",,"",,0
+131.0,0,,0,"Currencies",,"On the Occult Crescent, there are two forms of currency: Enlightenment silver pieces and Enlightenment gold pieces.",,"■Enlightenment Silver Pieces
+Primarily acquired from critical encounters and FATEs.
+
+■Enlightenment Gold Pieces
+Primarily acquired from defeating enemies in the wild.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Both can be traded to the expedition antiquarian at the base camp for a variety of items.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",,"",,"",,"",,"",,"",,"",,"",,"",,0
+132.0,0,,0,"Knowledge Crystals",,"Knowledge crystals are ancient artifacts erected around the Occult Crescent.","ui/icon/086000/086306.tex","These crystals <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>resonate with certain phantom actions and apply a variety of effects to you and your party members.<UIGlow>01</UIGlow><UIForeground>01</UIForeground> Use them to your advantage!",,"",,"",,"",,"",,"",,"",,"",,"",,0
+132.1,0,,0,"Treasure Coffers",,"The Occult Crescent is teeming with treasure for the taking.","ui/icon/086000/086307.tex","These chests are only visible to you, so if you catch sight of one while exploring, don't hesitate to open it!",,"",,"",,"",,"",,"",,"",,"",,"",,0
+132.2,0,,0,"Happy Bunnies",,"Treasure chests on the Occult Crescent sometimes hold a fortune carrot. With one in your possession, you may start to notice signs of happy bunnies nearby.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Using the fortune carrot on the spot<UIGlow>01</UIGlow><UIForeground>01</UIForeground> will draw the little leporine elementals out into the open.","ui/icon/086000/086309.tex","Happy bunnies are known to repay kind adventurers with treasure, so be sure to offer them any fortune carrots you find!",,"",,"",,"",,"",,"",,"",,"",,"",,0
+132.3,0,,0,"Persistent Pots",,"Some FATEs on the Occult Crescent will task you with defending magic pots from hostile creatures.","ui/icon/086000/086308.tex","Of those who contribute sufficiently to the successful completion of these FATEs, 20 players will be selected at random to receive an elixir, the scent of which will entice a persistent pot to give chase.
+
+These soulkin can sense buried treasure and will offer hints as to its location <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>in exchange for sips of elixir.<UIGlow>01</UIGlow><UIForeground>01</UIForeground> Use these clues to seek out hidden riches!",,"",,"",,"",,"",,"",,"",,"",,"",,0
+133.0,0,,0,"Arcanaut's Gear",,"Certain shops sell equipment imbued with special enhancements that only take effect when worn within Occult Crescent areas.
+
+Notably, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>enhancements to special attribute will increase damage dealt by phantom actions.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+You may also trade items to the expedition armorer at the base camp in exchange for gear upgrades.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
 134.0,0,,0,"Overview",,"Cosmic Exploration is <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>an initiative wherein Disciples of the Hand and Land join forces to achieve interstellar travel.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","ui/icon/086000/086280.tex","■The Basics
 For this project to achieve liftoff, Searchingway has need of your artisanal skills. Objectives can be completed solo or in groups.
 
@@ -3109,7 +3197,7 @@ To learn more about these tallying periods or your present score, <UIForeground>
 
 Players selected as Star Contributor will receive special accolades that last for fourteen days (Earth time) from the time they are chosen.
 
-Star Contributors cannot be selected again for thirteen days (Earth time) from the day they are chosen. However, should they have the highest score on the fourteenth day, they can maintain their status as Star Contributor without interruption.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+While Star Contributors cannot be selected again during this fourteen day period, should they have the highest score on the fourteenth day, they can maintain their status as Star Contributor without interruption.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
 137.1,0,,0,"Astral Aura",,"Players selected as Star Contributor will glow with a special aura while in cosmic exploration zones.","ui/icon/086000/086289.tex","This aura will only appear when playing as a <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Disciple of the Hand or Land<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
 
 Players may disable the aura by manually turning off the status effect “Astral Aura.” However, it will reset after leaving and re-entering the cosmic exploration zone. ",,"",,"",,"",,"",,"",,"",,"",,"",,0

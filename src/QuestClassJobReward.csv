@@ -432,24 +432,24 @@ int32,ClassJobCategory,Item,Item,Item,Item,byte,byte,byte,byte,Item,Item,Item,It
 33.8,"MIN","Lodestar Pickaxe","","","",1,0,0,0,"Vrandtic Visionary's Pickaxe","Nightforged Miner's Component","Nightforged Ice Cluster","",0,0,1,220,220,0,0,0,False,False,False,False,False,False,True,False,False,True,True,True
 33.9,"BTN","Lodestar Hatchet","","","",1,0,0,0,"Vrandtic Visionary's Hatchet","Nightforged Botanist's Component","Nightforged Water Cluster","",0,0,1,220,220,0,0,0,False,False,False,False,False,False,True,False,False,True,True,True
 33.10,"FSH","Lodestar Fishing Rod","","","",1,0,0,0,"Vrandtic Visionary's Fishing Rod","Nightforged Fisher's Component","","",0,0,1,170,0,0,0,0,False,False,False,False,False,False,True,False,True,True,True,True
-34.0,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-34.1,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-34.2,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-34.3,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-34.4,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-34.5,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-34.6,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-34.7,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-34.8,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-34.9,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-34.10,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-34.11,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-34.12,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-34.13,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-34.14,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-34.15,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-34.16,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-34.17,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-34.18,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-34.19,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-34.20,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
+34.0,"PLD","Phantom Sword Penumbrae","Phantom Kite Shield Penumbrae","","",1,1,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+34.1,"MNK","Phantom Knuckles Penumbrae","","","",1,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+34.2,"WAR","Phantom Bardiche Penumbrae","","","",1,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+34.3,"DRG","Phantom Spear Penumbrae","","","",1,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+34.4,"BRD","Phantom Harp Bow Penumbrae","","","",1,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+34.5,"WHM","Phantom Crook Penumbrae","","","",1,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+34.6,"BLM","Phantom Staff Penumbrae","","","",1,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+34.7,"SMN","Phantom Index Penumbrae","","","",1,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+34.8,"SCH","Phantom Codex Penumbrae","","","",1,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+34.9,"NIN","Phantom Cleavers Penumbrae","","","",1,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+34.10,"DRK","Phantom Guillotine Penumbrae","","","",1,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+34.11,"MCH","Phantom Arquebus Penumbrae","","","",1,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+34.12,"AST","Phantom Star Globe Penumbrae","","","",1,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+34.13,"SAM","Phantom Blade Penumbrae","","","",1,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+34.14,"RDM","Phantom Rapier Penumbrae","","","",1,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+34.15,"GNB","Phantom Bayonet Penumbrae","","","",1,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+34.16,"DNC","Phantom Terpna Penumbrae","","","",1,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+34.17,"RPR","Phantom War Scythe Penumbrae","","","",1,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+34.18,"SGE","Phantom Pendulums Penumbrae","","","",1,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+34.19,"VPR","Phantom Twinfangs Penumbrae","","","",1,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+34.20,"PCT","Phantom Flat Brush Penumbrae","","","",1,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True

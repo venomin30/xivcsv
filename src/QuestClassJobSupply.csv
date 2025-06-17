@@ -298,78 +298,78 @@ int32,ClassJobCategory,byte,ENpcResident,Item,byte,bit&01,uint32,uint32,uint32,u
 92.0,"MIN",6,"Uvlo","Azure Fragment",1,False,10744131,10766135,10766140,0,1
 92.1,"BTN",6,"Uvlo","Azure Fragment",1,False,10744132,10766127,10766130,0,2
 93.0,"FSH",2,"Donuhanu","Fulmisturgeon",1,False,10559144,0,0,0,1
-94.0,"",0,,"",0,False,0,0,0,0,0
-94.1,"",0,,"",0,False,0,0,0,0,0
-94.2,"",0,,"",0,False,0,0,0,0,0
+94.0,"MIN",255,"Kageel Ja","Fresh Yak T'el Spring Water",3,False,11724070,0,0,0,1
+94.1,"BTN",255,"Kageel Ja","Growth-hindering Herbs",3,False,11724702,0,0,0,1
+94.2,"FSH",255,"Kageel Ja","Freakish Fish",1,False,11724791,0,0,0,1
 95.0,"",0,,"",0,False,0,0,0,0,0
 95.1,"",0,,"",0,False,0,0,0,0,0
 95.2,"",0,,"",0,False,0,0,0,0,0
-96.0,"",0,,"",0,False,0,0,0,0,0
-96.1,"",0,,"",0,False,0,0,0,0,0
-96.2,"",0,,"",0,False,0,0,0,0,0
-97.0,"",0,,"",0,False,0,0,0,0,0
-97.1,"",0,,"",0,False,0,0,0,0,0
-97.2,"",0,,"",0,False,0,0,0,0,0
-98.0,"",0,,"",0,False,0,0,0,0,0
-98.1,"",0,,"",0,False,0,0,0,0,0
-98.2,"",0,,"",0,False,0,0,0,0,0
-99.0,"",0,,"",0,False,0,0,0,0,0
-99.1,"",0,,"",0,False,0,0,0,0,0
-99.2,"",0,,"",0,False,0,0,0,0,0
-100.0,"",0,,"",0,False,0,0,0,0,0
-100.1,"",0,,"",0,False,0,0,0,0,0
-100.2,"",0,,"",0,False,0,0,0,0,0
-101.0,"",0,,"",0,False,0,0,0,0,0
-101.1,"",0,,"",0,False,0,0,0,0,0
-101.2,"",0,,"",0,False,0,0,0,0,0
-102.0,"",0,,"",0,False,0,0,0,0,0
-102.1,"",0,,"",0,False,0,0,0,0,0
-102.2,"",0,,"",0,False,0,0,0,0,0
-103.0,"",0,,"",0,False,0,0,0,0,0
-103.1,"",0,,"",0,False,0,0,0,0,0
-103.2,"",0,,"",0,False,0,0,0,0,0
-104.0,"",0,,"",0,False,0,0,0,0,0
-104.1,"",0,,"",0,False,0,0,0,0,0
-104.2,"",0,,"",0,False,0,0,0,0,0
-105.0,"",0,,"",0,False,0,0,0,0,0
-105.1,"",0,,"",0,False,0,0,0,0,0
-105.2,"",0,,"",0,False,0,0,0,0,0
-106.0,"",0,,"",0,False,0,0,0,0,0
-106.1,"",0,,"",0,False,0,0,0,0,0
-106.2,"",0,,"",0,False,0,0,0,0,0
-107.0,"",0,,"",0,False,0,0,0,0,0
-107.1,"",0,,"",0,False,0,0,0,0,0
-107.2,"",0,,"",0,False,0,0,0,0,0
-108.0,"",0,,"",0,False,0,0,0,0,0
-108.1,"",0,,"",0,False,0,0,0,0,0
-108.2,"",0,,"",0,False,0,0,0,0,0
-109.0,"",0,,"",0,False,0,0,0,0,0
-109.1,"",0,,"",0,False,0,0,0,0,0
-109.2,"",0,,"",0,False,0,0,0,0,0
-110.0,"",0,,"",0,False,0,0,0,0,0
-110.1,"",0,,"",0,False,0,0,0,0,0
-110.2,"",0,,"",0,False,0,0,0,0,0
-111.0,"",0,,"",0,False,0,0,0,0,0
-111.1,"",0,,"",0,False,0,0,0,0,0
-111.2,"",0,,"",0,False,0,0,0,0,0
-112.0,"",0,,"",0,False,0,0,0,0,0
-112.1,"",0,,"",0,False,0,0,0,0,0
-112.2,"",0,,"",0,False,0,0,0,0,0
-113.0,"",0,,"",0,False,0,0,0,0,0
-113.1,"",0,,"",0,False,0,0,0,0,0
-113.2,"",0,,"",0,False,0,0,0,0,0
-114.0,"",0,,"",0,False,0,0,0,0,0
-114.1,"",0,,"",0,False,0,0,0,0,0
-114.2,"",0,,"",0,False,0,0,0,0,0
-115.0,"",0,,"",0,False,0,0,0,0,0
-115.1,"",0,,"",0,False,0,0,0,0,0
-115.2,"",0,,"",0,False,0,0,0,0,0
-116.0,"",0,,"",0,False,0,0,0,0,0
-116.1,"",0,,"",0,False,0,0,0,0,0
-116.2,"",0,,"",0,False,0,0,0,0,0
-117.0,"",0,,"",0,False,0,0,0,0,0
-117.1,"",0,,"",0,False,0,0,0,0,0
-117.2,"",0,,"",0,False,0,0,0,0,0
-118.0,"",0,,"",0,False,0,0,0,0,0
-118.1,"",0,,"",0,False,0,0,0,0,0
-118.2,"",0,,"",0,False,0,0,0,0,0
+96.0,"MIN",255,"Kageel Ja","Moss-covered Rock",3,False,11724692,0,0,0,2
+96.1,"BTN",255,"Kageel Ja","Aether-infused Foliage",3,False,11724766,0,0,0,1
+96.2,"FSH",255,"Kageel Ja","Aether-infused Algae",1,False,11724826,0,0,0,1
+97.0,"MIN",1,"Kubeel Ja","Organic Soil",3,False,11724070,0,0,0,1
+97.1,"BTN",1,"Kubeel Ja","Sodden Tree Bark",3,False,11724702,0,0,0,1
+97.2,"FSH",1,"Kubeel Ja","Freshwater Mudfish",1,False,11724791,0,0,0,1
+98.0,"MIN",1,"Kubeel Ja","Aqueous Tsolystone",3,False,11724695,0,0,0,1
+98.1,"BTN",1,"Kubeel Ja","Ut'ohmu Plant Oil",3,False,11724781,0,0,0,1
+98.2,"FSH",1,"Kubeel Ja","Tsoly Sponge",1,False,11724846,0,0,0,1
+99.0,"MIN",255,"Kageel Ja","Xobr'it Sandstone",3,False,11724693,0,0,0,2
+99.1,"BTN",255,"Kageel Ja","Xobr'it Deadwood Log",3,False,11724780,0,0,0,1
+99.2,"FSH",255,"Kageel Ja","Iq Rrax Whelk",1,False,11724839,0,0,0,1
+100.0,"MIN",255,"Kageel Ja","Energy-imbued Water",3,False,11724070,0,0,0,1
+100.1,"BTN",255,"Kageel Ja","Soft Young Leaves",3,False,11724702,0,0,0,1
+100.2,"FSH",255,"Kageel Ja","Waterweed Fish",1,False,11724791,0,0,0,1
+101.0,"MIN",255,"Kageel Ja","Odorous Powdered Ore",3,False,11724695,0,0,0,1
+101.1,"BTN",255,"Kageel Ja","Odorous Sap",3,False,11724781,0,0,0,1
+101.2,"FSH",255,"Kageel Ja","Odorous Waterweed",1,False,11724846,0,0,0,1
+102.0,"MIN",255,"Kageel Ja","Salt of Living Light",3,False,11724692,0,0,0,2
+102.1,"BTN",255,"Kageel Ja","Mushroom of Living Light",3,False,11724766,0,0,0,1
+102.2,"FSH",255,"Kageel Ja","Shellfish of Living Light",1,False,11724826,0,0,0,1
+103.0,"MIN",255,"Kageel Ja","Ut'ohmu Natron",3,False,11724700,0,0,0,1
+103.1,"BTN",255,"Kageel Ja","Concentrated Ut'ohmu Plant Oil",3,False,11724784,0,0,0,2
+103.2,"FSH",255,"Kageel Ja","Ut'ohmu Trout",1,False,11724848,0,0,0,1
+104.0,"MIN",255,"Kageel Ja","Rock Sample",3,False,11724693,0,0,0,2
+104.1,"BTN",255,"Kageel Ja","Bark Sample",3,False,11724780,0,0,0,1
+104.2,"FSH",255,"Kageel Ja","Moss Sample",1,False,11724839,0,0,0,1
+105.0,"MIN",255,"Kageel Ja","Promising Whetstone",3,False,11724692,0,0,0,2
+105.1,"BTN",255,"Kageel Ja","Promising Lumber",3,False,11724766,0,0,0,1
+105.2,"FSH",255,"Kageel Ja","Promising Shellfish",1,False,11724826,0,0,0,1
+106.0,"MIN",255,"Kageel Ja","Tungsten Powder",3,False,11724690,0,0,0,2
+106.1,"BTN",255,"Kageel Ja","Yak T'el Verbena",3,False,11724758,0,0,0,2
+106.2,"FSH",255,"Kageel Ja","Smokeshell",1,False,11724813,0,0,0,1
+107.0,"MIN",255,"Kageel Ja","Yak T'el Moss",3,False,11724070,0,0,0,1
+107.1,"BTN",255,"Kageel Ja","Ja Tiika Cranberries",3,False,11724702,0,0,0,1
+107.2,"FSH",255,"Kageel Ja","Cexudross Fish",1,False,11724849,0,0,0,1
+108.0,"MIN",255,"Kageel Ja","Aromatic Salt",3,False,11724695,0,0,0,1
+108.1,"BTN",255,"Kageel Ja","Sweet-scented Flowers",3,False,11724781,0,0,0,1
+108.2,"FSH",255,"Kageel Ja","Tsoly Sweetfish",1,False,11724846,0,0,0,1
+109.0,"MIN",255,"Kageel Ja","Mineral Dust",3,False,11724690,0,0,0,2
+109.1,"BTN",255,"Kageel Ja","Viscous Nectar",3,False,11724758,0,0,0,2
+109.2,"FSH",255,"Kageel Ja","Thick-boned Fish",1,False,11724813,0,0,0,1
+110.0,"MIN",255,"Kageel Ja","Desiccant Diatomite",3,False,11724693,0,0,0,2
+110.1,"BTN",255,"Kageel Ja","Desiccant Lumber",3,False,11724780,0,0,0,1
+110.2,"FSH",255,"Kageel Ja","Desiccant Mollusk",1,False,11724839,0,0,0,1
+111.0,"MIN",255,"Kageel Ja","Pristine Ice Crystal",3,False,11724690,0,0,0,2
+111.1,"BTN",255,"Kageel Ja","Pristine Water Crystal",3,False,11724758,0,0,0,2
+111.2,"FSH",255,"Kageel Ja","Crystalfish",1,False,11724813,0,0,0,1
+112.0,"MIN",255,"Kageel Ja","Smooth Rock Salt",3,False,11724700,0,0,0,1
+112.1,"BTN",255,"Kageel Ja","Spicy White Pepper",3,False,11724784,0,0,0,2
+112.2,"FSH",255,"Kageel Ja","Freshwater Algae",1,False,11724848,0,0,0,1
+113.0,"MIN",255,"Kageel Ja","Yak Awak Spring Water",3,False,11724695,0,0,0,1
+113.1,"BTN",255,"Kageel Ja","Leopardfang Tea Leaves",3,False,11724781,0,0,0,1
+113.2,"FSH",255,"Kageel Ja","Tsoly Tea Grass",1,False,11724846,0,0,0,1
+114.0,"MIN",255,"Anggir","Xobr'it Charcoal",3,False,11724693,0,0,0,2
+114.1,"BTN",255,"Anggir","Charred Bark",3,False,11724780,0,0,0,1
+114.2,"FSH",255,"Anggir","Cindershell",1,False,11724839,0,0,0,1
+115.0,"MIN",2,"Ruvoll Ja","Glowing Mineral Water",3,False,11724070,0,0,0,1
+115.1,"BTN",2,"Ruvoll Ja","Glowing Seeds",3,False,11724702,0,0,0,1
+115.2,"FSH",2,"Ruvoll Ja","Glowing Waterweed",1,False,11724791,0,0,0,1
+116.0,"MIN",255,"Anggir","Soft Limestone",3,False,11724690,0,0,0,2
+116.1,"BTN",255,"Anggir","Supple Ivy",3,False,11724758,0,0,0,2
+116.2,"FSH",255,"Anggir","Anklefish",1,False,11724813,0,0,0,1
+117.0,"MIN",255,"Ruvoll Ja","Jayunja Meteorite",3,False,11724692,0,0,0,2
+117.1,"BTN",255,"Ruvoll Ja","Bark of Living Light",3,False,11724766,0,0,0,1
+117.2,"FSH",255,"Ruvoll Ja","Meteorfish",1,False,11724826,0,0,0,1
+118.0,"MIN",6,"Bol Tst'ei","Xbr'aal Yeast",3,False,11724700,0,0,0,1
+118.1,"BTN",6,"Bol Tst'ei","Xbr'aal Herbs",3,False,11724784,0,0,0,2
+118.2,"FSH",6,"Bol Tst'ei","Xbr'aal Loach",1,False,11724848,0,0,0,1

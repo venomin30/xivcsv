@@ -28,4 +28,4 @@ int32,byte,Quest,str,str,str,bit&01,DescriptionSection
 3604504,0,,"Hall of the Novice","Combat Guide","",True,"Basics of Combat"
 3604505,0,,"","","",False,""
 3604506,0,,"","","",True,"Cosmic Exploration"
-3604507,0,,"","","",False,""
+3604507,0,,"The Occult Crescent","The Occult Crescent","",True,"Overview"

@@ -141,14 +141,14 @@ int32,GatheringType,ClassJob,Quest,uint16,Item,str,byte
 2289,"Quarrying","miner","Inscrutable Tastes",2018,"","Lv. 96",0
 2290,"Logging","botanist","Inscrutable Tastes",2018,"","Lv. 96",0
 2291,"Logging","botanist","Inscrutable Tastes",2018,"","Lv. 96",0
-2292,"Mining","",,0,"","",0
-2293,"Mining","",,0,"","",0
-2294,"Mining","",,0,"","",0
-2295,"Mining","",,0,"","",0
-2296,"Mining","",,0,"","",0
-2297,"Mining","",,0,"","",0
-2298,"Mining","",,0,"","",0
-2299,"Mining","",,0,"","",0
+2292,"Quarrying","miner","Dawntrail",0,"","",0
+2293,"Quarrying","miner","Dawntrail",0,"","",0
+2294,"Logging","botanist","Dawntrail",0,"","",0
+2295,"Logging","botanist","Dawntrail",0,"","",0
+2296,"Quarrying","miner"," Cultivating Hope",0,"","",0
+2297,"Quarrying","miner"," Cultivating Hope",0,"","",0
+2298,"Logging","botanist"," Cultivating Hope",0,"","",0
+2299,"Logging","botanist"," Cultivating Hope",0,"","",0
 2300,"Mining","",,0,"","",0
 2301,"Mining","",,0,"","",0
 2302,"Mining","",,0,"","",0

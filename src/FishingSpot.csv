@@ -314,11 +314,11 @@ int32,byte,str,str,str,byte,bit&01,TerritoryType,PlaceName,PlaceName,int16,int16
 310,94,"","","",2,False,"y6f3","","",906,389,800,4,"Shimmering Shadow","Ut'ohmu Dawnfish","Apoda","Mirror Carp","Yak Awak Core","Awaksbane Apoda","","","","","Yak Awak Tsoly",302
 311,94,"","","",2,False,"y6f3","","",1538,289,1800,4,"Tsoly Mu","Iq Rrax Leaffish","Archmatron Angelfish","Yak T'el Salamander","Shadowtongue","","","","","","Iq Rrax Tsoly",303
 312,94,"","","",2,True,"y6f3","","",1611,779,800,4,"Cloud-eye Carp","Xobr'it Lobster","Sunbright Axolotl","Horned Frog","","","","","","","Xobr'it Tsoly",304
-313,95,"","","",2,False,"y6f3","","",352,1308,400,4,"Mudfish","Turali Beaded Lizard","Yak T'el Catfish","Ankledeep Catfish","","","","","","","Ankledeep",305
-314,96,"","","",2,False,"y6f3","","",1035,964,800,4,"Mudfish","Yak T'el Catfish","Checkered Cichlid","Moxutural Gar","","","","","","","Cenote Moxutural",306
-315,96,"","","",2,False,"y6f3","","",936,1546,1800,4,"Mudfish","Yak T'el Catfish","Variatus","Welkin Catfish","Flawless Saucer","","","","","","Cenote Jayunja",307
+313,94,"","","",2,False,"y6f3","","",352,1308,400,4,"Mudfish","Turali Beaded Lizard","Yak T'el Catfish","Ankledeep Catfish","","","","","","","Ankledeep",305
+314,94,"","","",2,False,"y6f3","","",1035,964,800,4,"Mudfish","Yak T'el Catfish","Checkered Cichlid","Moxutural Gar","","","","","","","Cenote Moxutural",306
+315,94,"","","",2,False,"y6f3","","",936,1546,1800,4,"Mudfish","Yak T'el Catfish","Variatus","Welkin Catfish","Flawless Saucer","","","","","","Cenote Jayunja",307
 316,96,"","","",2,False,"y6f3","","",1697,1581,1000,4,"Mudfish","Yak T'el Catfish","Glittergill","Twig Catfish","","","","","","","Sapsweet Cenote",308
-317,95,"","","",2,False,"y6f3","","",1222,1898,800,4,"Mudfish","Yak T'el Catfish","Blind Brotula","Yak T'el Caiman","Cenote Oyster","","","","","","Bitterbark Cenote",309
+317,94,"","","",2,False,"y6f3","","",1222,1898,800,4,"Mudfish","Yak T'el Catfish","Blind Brotula","Yak T'el Caiman","Cenote Oyster","","","","","","Bitterbark Cenote",309
 318,97,"","","",1,True,"y6f3","","",1793,1243,800,4,"Ut'ohmu Tiika","Sharknose Goby","Yak T'el Crab","Xty'iinbek Sleeper","Chain Shark","Stardust Sleeper","","","","","Xty'iinbek Tsoly",310
 319,95,"","","",2,False,"x6f1","","",1438,318,600,4,"Bonytail Chub","Niikwerepi Trout","Pyariyoanaan Cichlid","Shaaloani Salmon","Hwittayoanaan Cichlid","","","","","","Niikwerepi",311
 320,96,"","","",2,False,"x6f1","","",1524,637,1000,4,"Bonytail Chub","Niikwerepi Trout","Trailtrout","Toari Sucker","Turali Paddlefish","Ttokatoa","","","","","Lake Toari",312
@@ -390,7 +390,7 @@ int32,byte,str,str,str,byte,bit&01,TerritoryType,PlaceName,PlaceName,int16,int16
 10049,1,"","","",2,False,,"","",0,0,0,0,"Star Pleco","Lunar Grass Carp","Lover's Staff","Nightscale","","","","","","","Southeast Well",0
 10050,1,"","","",2,False,,"","",0,0,0,0,"Astacus Lamentorum","Starcrier","Weepingeye","Lunar Eel","","","","","","","Weeping Pool",0
 10051,1,"","","",2,False,,"","",0,0,0,0,"Bluemoon Loach","Lunar Raiamas","Lunar Salmon","Lunar Aetherlouse","","","","","","","Westward Hop-print",0
-10052,1,"","","",2,False,,"","",0,0,0,0,"Star Pleco","Pinkmoon Cichlid","Lunar Sole","White Sturgeon","","","","","","","Southeast Well",0
+10052,1,"","","",2,False,,"","",0,0,0,0,"Star Pleco","Pinkmoon Cichlid","Lunar Sole","Silver Sturgeon","","","","","","","Southeast Well",0
 10053,1,"","","",2,False,,"","",0,0,0,0,"Astacus Lamentorum","Starcrier","Weeping Cichlid","Yellowcheek","","","","","","","Weeping Pool",0
 10054,1,"","","",2,False,,"","",0,0,0,0,"Bluemoon Loach","Lunar Raiamas","Hopping Star","Blue-peppered Platy","","","","","","","Westward Hop-print",0
 10055,1,"","","",2,False,,"","",0,0,0,0,"Melancholia","Hopped-on Leaffish","Lunar Discus","Solar Flarefish","","","","","","","Northward Hop-print",0
@@ -426,10 +426,10 @@ int32,byte,str,str,str,byte,bit&01,TerritoryType,PlaceName,PlaceName,int16,int16
 10085,1,"","","",7,False,,"","",0,0,0,0,"Ctenophora Lunaris","Protomyke #721","Argonauta Lunaris","Aetherial Sword","Macropinna","Deepmoon Seadragon","","","","","Aetherial Falls",0
 10086,1,"","","",7,False,,"","",0,0,0,0,"Lunar Scorpion","Arsenical Proto-hropken","Lunar Oil Eel","Galactic Noise","Onychodictyon","Eolactoria Arsenici","","","","","Palus Arsenici",0
 10087,1,"You glimpse a draconic form writhe up from the depths!","The draconic figure fades from view...","The draconic form looms forth once again!",7,False,,"","",0,0,0,0,"Lunar Goldfish","Lunar Minnow","Lunar Glassfish","Gleaming Deathworm","Leanchoilia","Harpagofututor","","","","","Glimmerpond Beta",0
-10088,1,"","","",2,False,,"","",0,0,0,0,"Star Pleco","Lunar Grass Carp","Lunar Catfish","Lunar Longhair","Heavy Ataxite ","","","","","","Southeast Well",0
+10088,1,"","","",2,False,,"","",0,0,0,0,"Star Pleco","Lunar Grass Carp","Full Moon Catfish","Lunar Longhair","Heavy Ataxite ","","","","","","Southeast Well",0
 10089,1,"","","",2,False,,"","",0,0,0,0,"Bluemoon Loach","Lunar Raiamas","Preceptor Betta","Moonlit Carp","Hopping Lungfish","","","","","","Westward Hop-print",0
 10090,1,"","","",7,False,,"","",0,0,0,0,"Lunar Scorpion","Moonwhip","Polypus Arsenici","Darkside Shrimp","Stardust Octopus","Raw Moonbright Tourmaline","","","","","Palus Arsenici",0
-10091,1,"","","",2,False,,"","",0,0,0,0,"Moonrock Candy","Moongill","Waxscale","Corydoras Lunaris","Infinity Eel","Hollow Eel","","","","","Hollow Harbor",0
+10091,1,"","","",2,False,,"","",0,0,0,0,"Moonrock Candy","Moongill","Waxscale","Corydoras Lunaris","Inanity Eel","Hollow Eel","","","","","Hollow Harbor",0
 10092,1,"","","",2,False,,"","",0,0,0,0,"Bluemoon Loach","Lamentorum Geayi","Moon Bluetail","","","","","","","","Westward Hop-print",0
 10093,1,"","","",2,False,,"","",0,0,0,0,"Melancholia","Sunken Drone","","","","","","","","","Northward Hop-print",0
 10094,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0

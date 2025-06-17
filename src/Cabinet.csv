@@ -394,12 +394,12 @@ int32,Item,uint16,CabinetCategory,byte
 390,"Butler's Gloves",5,"Exclusive Extras",94
 391,"Butler's Slacks",6,"Exclusive Extras",94
 392,"Butler's Gaiters",7,"Exclusive Extras",94
-393,"Eastern Journey Battle Staff",13,"Exclusive Extras",94
-394,"Eastern Journey Circlet",14,"Exclusive Extras",94
-395,"Eastern Journey Jacket",15,"Exclusive Extras",94
-396,"Eastern Journey Armlets",16,"Exclusive Extras",94
-397,"Eastern Journey Bottoms",17,"Exclusive Extras",94
-398,"Eastern Journey Shoes",18,"Exclusive Extras",94
+393,"Far Eastern Journey Battle Staff",13,"Exclusive Extras",94
+394,"Far Eastern Journey Circlet",14,"Exclusive Extras",94
+395,"Far Eastern Journey Jacket",15,"Exclusive Extras",94
+396,"Far Eastern Journey Armlets",16,"Exclusive Extras",94
+397,"Far Eastern Journey Bottoms",17,"Exclusive Extras",94
+398,"Far Eastern Journey Shoes",18,"Exclusive Extras",94
 399,"Cait Sith Ears",3,"Exclusive Extras",90
 400,"Moogle Head",1,"Exclusive Extras",93
 401,"Moogle Body",2,"Exclusive Extras",93
@@ -695,17 +695,17 @@ int32,Item,uint16,CabinetCategory,byte
 691,"Loyal Butler's Gloves",3,"Fashions",149
 692,"Loyal Butler's Slacks",4,"Fashions",149
 693,"Loyal Butler's Gaiters",5,"Fashions",149
-694,"Exclusive Eastern Journey Circlet",2,"Fashions",147
-695,"Exclusive Eastern Journey Jacket",3,"Fashions",147
-696,"Exclusive Eastern Journey Armlets",4,"Fashions",147
-697,"Exclusive Eastern Journey Bottoms",5,"Fashions",147
-698,"Exclusive Eastern Journey Shoes",6,"Fashions",147
-699,"Eastern Lady's Togi",4,"Fashions",159
-700,"Eastern Lady's Loincloth",5,"Fashions",159
-701,"Eastern Lady's Crakows",6,"Fashions",159
-702,"Eastern Lord's Togi",1,"Fashions",159
-703,"Eastern Lord's Trousers",2,"Fashions",159
-704,"Eastern Lord's Crakows",3,"Fashions",159
+694,"Exclusive Far Eastern Journey Circlet",2,"Fashions",147
+695,"Exclusive Far Eastern Journey Jacket",3,"Fashions",147
+696,"Exclusive Far Eastern Journey Armlets",4,"Fashions",147
+697,"Exclusive Far Eastern Journey Bottoms",5,"Fashions",147
+698,"Exclusive Far Eastern Journey Shoes",6,"Fashions",147
+699,"Far Eastern Lady's Dress",4,"Fashions",159
+700,"Far Eastern Lady's Loincloth",5,"Fashions",159
+701,"Far Eastern Lady's Crakows",6,"Fashions",159
+702,"Far Eastern Lord's Robe",1,"Fashions",159
+703,"Far Eastern Lord's Trousers",2,"Fashions",159
+704,"Far Eastern Lord's Crakows",3,"Fashions",159
 705,"Fuga Haori",1,"Fashions",145
 706,"Fuga Hakama",2,"Fashions",145
 707,"Far Eastern Noble's Mortarboard",1,"Fashions",160
@@ -715,19 +715,19 @@ int32,Item,uint16,CabinetCategory,byte
 711,"Far Eastern Noble's Sandals",5,"Fashions",160
 712,"Far Eastern Gentleman's Hat",1,"Fashions",162
 713,"Far Eastern Gentleman's Robe",2,"Fashions",162
-714,"Far Eastern Gentleman's Haidate",3,"Fashions",162
+714,"Far Eastern Gentleman's Trousers",3,"Fashions",162
 715,"Far Eastern Gentleman's Boots",4,"Fashions",162
 716,"Far Eastern Beauty's Hairpin",5,"Fashions",162
 717,"Far Eastern Beauty's Robe",6,"Fashions",162
-718,"Far Eastern Beauty's Koshita",7,"Fashions",162
+718,"Far Eastern Beauty's Skirt",7,"Fashions",162
 719,"Far Eastern Beauty's Boots",8,"Fashions",162
 720,"Star of the Nezha Lord",1,"Fashions",148
-721,"Nezha Lord's Togi",2,"Fashions",148
+721,"Nezha Lord's Jacket",2,"Fashions",148
 722,"Nezha Lord's Gloves",3,"Fashions",148
 723,"Nezha Lord's Slops",4,"Fashions",148
 724,"Nezha Lord's Boots",5,"Fashions",148
 725,"Star of the Nezha Lady",6,"Fashions",148
-726,"Nezha Lady's Togi",7,"Fashions",148
+726,"Nezha Lady's Jacket",7,"Fashions",148
 727,"Nezha Lady's Gloves",8,"Fashions",148
 728,"Nezha Lady's Slops",9,"Fashions",148
 729,"Nezha Lady's Kneeboots",10,"Fashions",148
@@ -757,16 +757,16 @@ int32,Item,uint16,CabinetCategory,byte
 753,"Far Eastern Schoolboy's Hat",1,"Fashions",165
 754,"Far Eastern Schoolboy's Hakama",2,"Fashions",165
 755,"Far Eastern Schoolboy's Zori",3,"Fashions",165
-756,"Mun'gaek Hat",1,"Fashions",151
-757,"Mun'gaek Uibok",2,"Fashions",151
-758,"Mun'gaek Cuffs",3,"Fashions",151
-759,"Mun'gaek Trousers",4,"Fashions",151
-760,"Mun'gaek Boots",5,"Fashions",151
-761,"Eastern Socialite's Hat",6,"Fashions",151
-762,"Eastern Socialite's Cheongsam",7,"Fashions",151
-763,"Eastern Socialite's Gloves",8,"Fashions",151
-764,"Eastern Socialite's Skirt",9,"Fashions",151
-765,"Eastern Socialite's Boots",10,"Fashions",151
+756,"Far Eastern Enforcer's Hat",1,"Fashions",151
+757,"Far Eastern Enforcer's Robe",2,"Fashions",151
+758,"Far Eastern Enforcer's Cuffs",3,"Fashions",151
+759,"Far Eastern Enforcer's Trousers",4,"Fashions",151
+760,"Far Eastern Enforcer's Boots",5,"Fashions",151
+761,"Far Eastern Socialite's Hat",6,"Fashions",151
+762,"Far Eastern Socialite's Dress",7,"Fashions",151
+763,"Far Eastern Socialite's Gloves",8,"Fashions",151
+764,"Far Eastern Socialite's Skirt",9,"Fashions",151
+765,"Far Eastern Socialite's Boots",10,"Fashions",151
 766,"Far Eastern Officer's Hat",1,"Fashions",164
 767,"Far Eastern Officer's Robe",2,"Fashions",164
 768,"Far Eastern Officer's Armband",3,"Fashions",164
@@ -802,16 +802,16 @@ int32,Item,uint16,CabinetCategory,byte
 798,"Collegiate Blazer (Bow)",4,"Fashions",155
 799,"Collegiate Skirt",5,"Fashions",155
 800,"Collegiate Shoes (Tall Socks)",6,"Fashions",155
-801,"Eastern Lord Errant's Hat",1,"Fashions",166
-802,"Eastern Lord Errant's Jacket",2,"Fashions",166
-803,"Eastern Lord Errant's Wristbands",3,"Fashions",166
-804,"Eastern Lord Errant's Trousers",4,"Fashions",166
-805,"Eastern Lord Errant's Shoes",5,"Fashions",166
-806,"Eastern Lady Errant's Hat",6,"Fashions",166
-807,"Eastern Lady Errant's Coat",7,"Fashions",166
-808,"Eastern Lady Errant's Gloves",8,"Fashions",166
-809,"Eastern Lady Errant's Skirt",9,"Fashions",166
-810,"Eastern Lady Errant's Boots",10,"Fashions",166
+801,"Far Eastern Lord Errant's Hat",1,"Fashions",166
+802,"Far Eastern Lord Errant's Jacket",2,"Fashions",166
+803,"Far Eastern Lord Errant's Wristbands",3,"Fashions",166
+804,"Far Eastern Lord Errant's Trousers",4,"Fashions",166
+805,"Far Eastern Lord Errant's Shoes",5,"Fashions",166
+806,"Far Eastern Lady Errant's Hat",6,"Fashions",166
+807,"Far Eastern Lady Errant's Coat",7,"Fashions",166
+808,"Far Eastern Lady Errant's Gloves",8,"Fashions",166
+809,"Far Eastern Lady Errant's Skirt",9,"Fashions",166
+810,"Far Eastern Lady Errant's Boots",10,"Fashions",166
 811,"Resshi Hachigane",1,"Fashions",156
 812,"Resshi Haori",2,"Fashions",156
 813,"Resshi Tsutsu-hakama",3,"Fashions",156
@@ -868,16 +868,16 @@ int32,Item,uint16,CabinetCategory,byte
 864,"Crystarium Prodigy's Hose",6,"Costumes",95
 865,"Crystarium Prodigy's Thighboots",7,"Costumes",95
 866,"Far Eastern Performer's Mask",1,"Fashions",167
-867,"Far Eastern Performer's Dogi",2,"Fashions",167
-868,"Far Eastern Performer's Kyakui",3,"Fashions",167
-869,"Far Eastern Performer's Zori",4,"Fashions",167
+867,"Far Eastern Performer's Halfrobe",2,"Fashions",167
+868,"Far Eastern Performer's Trousers",3,"Fashions",167
+869,"Far Eastern Performer's Shoes",4,"Fashions",167
 870,"Sweet Dream Cap",7,"Seasonal Gear 4",62
 871,"Sweet Dream Tunic",8,"Seasonal Gear 4",62
 872,"Sweet Dream Boots",9,"Seasonal Gear 4",62
 873,"Tetsuji Usagi Kabuto",1,"Seasonal Gear 4",44
 874,"Black Tetsuji Usagi Kabuto",2,"Seasonal Gear 4",44
 875,"Silver Tetsuji Usagi Kabuto",3,"Seasonal Gear 4",44
-876,"Exclusive Eastern Journey Battle Staff",1,"Fashions",147
+876,"Exclusive Far Eastern Journey Battle Staff",1,"Fashions",147
 877,"Replica White Ravens",1,"Fashions",116
 878,"Glossy Winner's Crown",2,"Seasonal Gear 5",74
 879,"Azeyma's Earrings",2,"Exclusive Extras",89
@@ -941,7 +941,7 @@ int32,Item,uint16,CabinetCategory,byte
 937,"Crystarium Rebel's Wrist Torque",9,"Costumes",95
 938,"Crystarium Rebel's Halftights",10,"Costumes",95
 939,"Crystarium Rebel's Thighboots",11,"Costumes",95
-940,"",1,"Seasonal Gear 2",124
-941,"",2,"Seasonal Gear 2",124
-942,"",3,"Seasonal Gear 2",124
-943,"",4,"Seasonal Gear 2",124
+940,"Maritime Mirrored Sunglasses",1,"Seasonal Gear 2",124
+941,"Maritime Top",2,"Seasonal Gear 2",124
+942,"Maritime Shorts",3,"Seasonal Gear 2",124
+943,"Maritime Sandals",4,"Seasonal Gear 2",124

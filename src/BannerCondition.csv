@@ -820,7 +820,7 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,uint32,Row,BannerObtainHintT
 816,5,"Fry Egg",,,,,,12,"Ballroom Etiquette - The Eggcellent Host",,,0,,"",0,False
 817,5,"Visage Capture",,,,,,49,,,,0,,,55,False
 818,5,"Overreact",,,,,,2,"Royal Rumblings",,,0,,"",0,True
-819,0,,,,,,,0,,,,0,,"",0,False
+819,5,"Twirl",,,,,,23,,,,0,,,90,False
 820,5,"Dazed",,,,,,14,,,,0,,"",0,False
 821,5,"Rage",,,,,,48,,,,0,,,55,False
 822,6,"wind-up sasquatch",,,,,,20,,,,0,,,51,False
@@ -874,13 +874,13 @@ int32,byte,Row,Row,Row,Row,Row,Row,byte,Row,Row,Row,uint32,Row,BannerObtainHintT
 870,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",0,False
 871,11,,,,,,,13,"ENpcBase#1005417","Level#6245610",,0,,"",0,False
 872,4,,,,,,,3,,,,0,,,91,False
-873,0,,,,,,,0,,,,0,,"",0,False
+873,9,,,,,,,17,,,,0,,,89,False
 874,9,,,,,,,47,,,,1580,,,51,False
 875,9,,,,,,,47,,,,1657,,,52,False
 876,9,,,,,,,47,,,,2049,,,53,False
 877,9,,,,,,,47,,,,2051,,,53,False
 878,9,,,,,,,48,,,,0,,,55,False
-879,0,,,,,,,0,,,,0,,"",0,False
+879,9,,,,,,,23,,,,0,,,90,False
 880,0,,,,,,,0,,,,0,,"",0,False
 881,0,,,,,,,0,,,,0,,"",0,False
 882,0,,,,,,,0,,,,0,,"",0,False

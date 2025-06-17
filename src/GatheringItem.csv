@@ -1908,51 +1908,51 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint16,uint32,bit&04,uint3
 11087,"","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
 11088,"Vegetation Sample","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
 11089,"Mycophos Sclerotium","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
-11090,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11091,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11092,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11093,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11094,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11095,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11096,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11097,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11098,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11099,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11100,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11101,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11102,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11103,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11104,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11105,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11106,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11107,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11108,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11109,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11110,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11111,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11112,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11113,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11114,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11115,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11116,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11117,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11118,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11119,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11120,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11121,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11122,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11123,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11124,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11125,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11126,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11127,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11128,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11129,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11130,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11131,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11132,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11133,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11134,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11135,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11136,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11137,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+11090,"Xobr'it Charcoal","GatheringItemLevelConvertTable#534",False,,0,0,False,0,0,65535
+11091,"Glowing Mineral Water","GatheringItemLevelConvertTable#540",False,,0,0,False,0,0,65535
+11092,"Soft Limestone","GatheringItemLevelConvertTable#547",False,,0,0,False,0,0,65535
+11093,"Jayunja Meteorite","GatheringItemLevelConvertTable#554",False,,0,0,False,0,0,65535
+11094,"Xbr'aal Yeast","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11095,"Fresh Yak T'el Spring Water","GatheringItemLevelConvertTable#540",False,,0,0,False,0,0,65535
+11096,"Moss-covered Rock","GatheringItemLevelConvertTable#540",False,,0,0,False,0,0,65535
+11097,"Organic Soil","GatheringItemLevelConvertTable#540",False,,0,0,False,0,0,65535
+11098,"Aqueous Tsolystone","GatheringItemLevelConvertTable#540",False,,0,0,False,0,0,65535
+11099,"Xobr'it Sandstone","GatheringItemLevelConvertTable#540",False,,0,0,False,0,0,65535
+11100,"Energy-imbued Water","GatheringItemLevelConvertTable#547",False,,0,0,False,0,0,65535
+11101,"Odorous Powdered Ore","GatheringItemLevelConvertTable#547",False,,0,0,False,0,0,65535
+11102,"Salt of Living Light","GatheringItemLevelConvertTable#547",False,,0,0,False,0,0,65535
+11103,"Ut'ohmu Natron","GatheringItemLevelConvertTable#547",False,,0,0,False,0,0,65535
+11104,"Rock Sample","GatheringItemLevelConvertTable#547",False,,0,0,False,0,0,65535
+11105,"Promising Whetstone","GatheringItemLevelConvertTable#554",False,,0,0,False,0,0,65535
+11106,"Tungsten Powder","GatheringItemLevelConvertTable#554",False,,0,0,False,0,0,65535
+11107,"Yak T'el Moss","GatheringItemLevelConvertTable#554",False,,0,0,False,0,0,65535
+11108,"Aromatic Salt","GatheringItemLevelConvertTable#554",False,,0,0,False,0,0,65535
+11109,"Mineral Dust","GatheringItemLevelConvertTable#554",False,,0,0,False,0,0,65535
+11110,"Desiccant Diatomite","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11111,"Pristine Ice Crystal","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11112,"Smooth Rock Salt","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11113,"Yak Awak Spring Water","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11114,"Charred Bark","GatheringItemLevelConvertTable#534",False,,0,0,False,0,0,65535
+11115,"Glowing Seeds","GatheringItemLevelConvertTable#540",False,,0,0,False,0,0,65535
+11116,"Supple Ivy","GatheringItemLevelConvertTable#547",False,,0,0,False,0,0,65535
+11117,"Bark of Living Light","GatheringItemLevelConvertTable#554",False,,0,0,False,0,0,65535
+11118,"Xbr'aal Herbs","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11119,"Growth-hindering Herbs","GatheringItemLevelConvertTable#540",False,,0,0,False,0,0,65535
+11120,"Aether-infused Foliage","GatheringItemLevelConvertTable#540",False,,0,0,False,0,0,65535
+11121,"Sodden Tree Bark","GatheringItemLevelConvertTable#540",False,,0,0,False,0,0,65535
+11122,"Ut'ohmu Plant Oil","GatheringItemLevelConvertTable#540",False,,0,0,False,0,0,65535
+11123,"Xobr'it Deadwood Log","GatheringItemLevelConvertTable#540",False,,0,0,False,0,0,65535
+11124,"Soft Young Leaves","GatheringItemLevelConvertTable#547",False,,0,0,False,0,0,65535
+11125,"Odorous Sap","GatheringItemLevelConvertTable#547",False,,0,0,False,0,0,65535
+11126,"Mushroom of Living Light","GatheringItemLevelConvertTable#547",False,,0,0,False,0,0,65535
+11127,"Concentrated Ut'ohmu Plant Oil","GatheringItemLevelConvertTable#547",False,,0,0,False,0,0,65535
+11128,"Bark Sample","GatheringItemLevelConvertTable#547",False,,0,0,False,0,0,65535
+11129,"Promising Lumber","GatheringItemLevelConvertTable#554",False,,0,0,False,0,0,65535
+11130,"Yak T'el Verbena","GatheringItemLevelConvertTable#554",False,,0,0,False,0,0,65535
+11131,"Ja Tiika Cranberries","GatheringItemLevelConvertTable#554",False,,0,0,False,0,0,65535
+11132,"Sweet-scented Flowers","GatheringItemLevelConvertTable#554",False,,0,0,False,0,0,65535
+11133,"Viscous Nectar","GatheringItemLevelConvertTable#554",False,,0,0,False,0,0,65535
+11134,"Desiccant Lumber","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11135,"Pristine Water Crystal","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11136,"Spicy White Pepper","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11137,"Leopardfang Tea Leaves","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535

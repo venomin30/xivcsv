@@ -14983,9 +14983,9 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263238.5,"Gold Needle",False,0,0,,,"",0,100,0
 263238.6,"Grade 7 Dark Matter",False,0,0,,,"",0,100,0
 263238.7,"Grade 8 Dark Matter",False,0,0,,,"",0,100,0
-263238.8,"",False,0,0,,,"",0,90,720
-263238.9,"",False,0,0,,,"",0,90,720
-263238.10,"",False,0,0,,,"",0,90,720
+263238.8,"Occult Coffer",False,0,0,,,"",0,90,720
+263238.9,"Occult Potion",False,0,0,,,"",0,90,720
+263238.10,"Occult Elixir",False,0,0,,,"",0,90,720
 263239.0,"Grade 1 Dark Matter",False,0,0,,,"",0,100,0
 263239.1,"Grade 2 Dark Matter",False,0,0,,,"",0,100,0
 263239.2,"Grade 3 Dark Matter",False,0,0,,,"",0,100,0
@@ -15614,19 +15614,20 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263265.29,"Woolen Chausses",False,0,0,,,"",0,100,0
 263265.30,"Woolen Slops",False,0,0,,,"",0,100,0
 263265.31,"Felt Chausses",False,0,0,,,"",0,100,0
-263265.32,"Archaeoskin Breeches of Crafting",False,0,0,,,"",0,100,0
-263265.33,"Holy Rainbow Bottoms",False,0,0,,,"",0,100,0
-263265.34,"Ramie Skirt",False,0,0,,,"",0,100,0
-263265.35,"Chimerical Felt Skirt",False,0,0,,,"",0,100,0
-263265.36,"Boarskin Thighboots",False,0,0,,,"",0,100,0
-263265.37,"Oak Pattens",False,0,0,,,"",0,100,0
-263265.38,"Raptorskin Thighboots",False,0,0,,,"",0,100,0
-263265.39,"Mahogany Pattens",False,0,0,,,"",0,100,0
-263265.40,"Patrician's Gaiters",False,0,0,,,"",0,100,0
-263265.41,"Archaeoskin Jackboots of Crafting",False,0,0,,,"",0,100,0
-263265.42,"Holy Rainbow Shoes",False,0,0,,,"",0,100,0
-263265.43,"Dhalmelskin Shoes",False,0,0,,,"",0,100,0
-263265.44,"Serpentskin Shoes",False,0,0,,,"",0,100,0
+263265.32,"Patrician's Bottoms",False,0,0,,,"",0,100,0
+263265.33,"Archaeoskin Breeches of Crafting",False,0,0,,,"",0,100,0
+263265.34,"Holy Rainbow Bottoms",False,0,0,,,"",0,100,0
+263265.35,"Ramie Skirt",False,0,0,,,"",0,100,0
+263265.36,"Chimerical Felt Skirt",False,0,0,,,"",0,100,0
+263265.37,"Boarskin Thighboots",False,0,0,,,"",0,100,0
+263265.38,"Oak Pattens",False,0,0,,,"",0,100,0
+263265.39,"Raptorskin Thighboots",False,0,0,,,"",0,100,0
+263265.40,"Mahogany Pattens",False,0,0,,,"",0,100,0
+263265.41,"Patrician's Gaiters",False,0,0,,,"",0,100,0
+263265.42,"Archaeoskin Jackboots of Crafting",False,0,0,,,"",0,100,0
+263265.43,"Holy Rainbow Shoes",False,0,0,,,"",0,100,0
+263265.44,"Dhalmelskin Shoes",False,0,0,,,"",0,100,0
+263265.45,"Serpentskin Shoes",False,0,0,,,"",0,100,0
 263266.0,"Bloodhempen Turban of Crafting",False,0,0,,,"",0,100,0
 263266.1,"Ruby Cotton Cap",False,0,0,,,"",0,100,0
 263266.2,"Kudzu Cap of Crafting",False,0,0,,,"",0,100,0

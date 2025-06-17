@@ -270,7 +270,7 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 53.4,10429375,2,"A Brother's Duty",255,False,2,"Sibling Rescue",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 53.5,11140956,1," An Intrepid New Enterprise",0,False,1," A Tentative First Tour",0,False,1," Earthenshire Awaits",0,False,1," Recruitment Drive",0,False,1," A Guest from Across the Salt",0,False,0,,0,False,0,0,0,False
 54.0,10614014,2,"Into the Traverse",1,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-54.1,11741016,1,"",0,False,1,"",0,False,1,"",0,False,1,"",0,False,1,"",0,False,0,,0,False,0,0,0,False
+54.1,11741016,1," Cultivating Hope",0,False,1," Doppro Tradition",0,False,1," A Hoobigo's Return",0,False,1," The Boon of Boonewa",0,False,1," A New Yak T'el",0,False,0,,0,False,0,0,0,False
 55.0,10399297,2,"The Protector and the Destroyer",3,False,2,"Dawntrail",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 55.1,10558455,1,"Dawntrail",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 55.2,10968008,2,"Alexandria Mourns",2,False,2,"Crossroads",5,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
@@ -287,4 +287,4 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 58.4,10596151,2,"Dawntrail",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 58.5,10109854,2,"A Knight of Alexandria",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 58.6,0,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-59.0,11622293,1,"",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+59.0,11622293,1,"The Ancient Arts of War",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False

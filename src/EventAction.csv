@@ -110,7 +110,7 @@ int32,str,Image,byte,ActionTimeline,ActionTimeline,ActionTimeline
 106,"Assisting","ui/icon/061000/061103.tex",5,"normal/touchaction_start","normal/touchaction_loop","normal/touchaction_end"
 107,"Channeling Aether","ui/icon/061000/061103.tex",5,"normal/aettouch_start","normal/aettouch_loop","normal/aettouch_end"
 108,"Stroking","ui/icon/061000/061103.tex",5,"pc_contentsaction/pc_cnt042_start","pc_contentsaction/pc_cnt042_loop","pc_contentsaction/pc_cnt042_end"
-109,"",,0,"","",""
+109,"Transporting","ui/icon/061000/061103.tex",1,"","",""
 110,"Delivering","ui/icon/061000/061103.tex",3,"normal/touchaction_start","normal/touchaction_loop","normal/touchaction_end"
 111,"Drilling","ui/icon/061000/061103.tex",6,"","pc_contentsaction/wks014","normal/event_action_hwd_end"
 112,"Drilling","ui/icon/061000/061103.tex",6,"","pc_contentsaction/wks013","normal/event_action_hwd_end"

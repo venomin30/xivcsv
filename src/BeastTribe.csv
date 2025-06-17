@@ -20,4 +20,4 @@ int32,bit&01,byte,BeastRankBonus,Image,Image,byte,ExVersion,uint32,Item,byte,str
 16,False,90,"BeastRankBonus#9","ui/icon/061000/061916.tex","ui/icon/065000/065093.tex",8,"Endwalker",70324,"Omicron Omnitoken",2,"Omicrons",0,"",0,0,0,0,0,"Omicron Relations"
 17,False,90,"BeastRankBonus#10","ui/icon/061000/061917.tex","ui/icon/065000/065101.tex",8,"Endwalker",70324,"Loporrit Carat",3,"Loporrits",0,"",0,0,0,0,0,"Loporrit Relations"
 18,False,0,"BeastRankBonus#11","ui/icon/061000/061918.tex","ui/icon/065000/065113.tex",8,"Dawntrail",0,"Pelu Pelplume",2,"Pelupelu",0,"",0,0,0,0,0,"Pelupelu Relations"
-19,False,100,"BeastRankBonus#12",,"ui/icon/065000/065115.tex",8,"Dawntrail",0,"",1,"Mamool Ja",0,"",0,0,0,0,0,"Mamool Ja Relations"
+19,False,100,"BeastRankBonus#12","ui/icon/061000/061919.tex","ui/icon/065000/065115.tex",8,"Dawntrail",0,"Mamool Ja Nanook",1,"Mamool Ja",0,"",0,0,0,0,0,"Mamool Ja Relations"

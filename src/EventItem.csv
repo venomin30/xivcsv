@@ -3297,7 +3297,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003293,"unsigned letter",0,"unsigned letters",0,1,1,0,0,False,"Unsigned Letter","ui/icon/026000/026151.tex","",1,1," Secret in the Box",0,"normal/item_start",1
 2003294,"gold key",0,"gold keys",0,0,1,0,0,False,"Gold Key","ui/icon/025000/025902.tex","",3,1," Secret in the Box",0,"normal/item_start",0
 2003295,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003296,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003296,"magical elixir",0,"magical elixirs",0,0,1,0,0,False,"Magical Elixir","ui/icon/020000/020624.tex","",1,1,,0,"normal/item_start",0
 2003297,"Nymeia lily bulb",0,"Nymeia lily bulbs",0,0,1,0,0,False,"Nymeia Lily Bulb","ui/icon/027000/027459.tex","Key Item",2,1," Leveilleur Philanthropy",3,"normal/item_start",0
 2003298,"salad sandwich",0,"salad sandwiches",0,0,1,0,0,False,"Salad Sandwich","ui/icon/024000/024009.tex","",2,1," Sandwiches and Pretzels",0,"normal/item_start",0
 2003299,"bottle of Anagnorisis juice medley",0,"bottles of Anagnorisis juice medley",0,0,1,0,0,False,"Anagnorisis Juice Medley","ui/icon/024000/024409.tex","",1,1," Familiar Food",0,"normal/item_start",1
@@ -3720,7 +3720,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003716,"sack of souvenirs",0,"sacks of souvenirs",0,0,1,0,0,False,"Souvenir Sack","ui/icon/025000/025979.tex","",1,1," A Sackful of Memories",0,"normal/item_start",0
 2003717,"vial of insect repellent",0,"vials of insect repellent",0,0,1,0,0,False,"Insect Repellent","ui/icon/020000/020602.tex","Key Item",3,1," Preventative Measures",3,"normal/item_start",0
 2003718,"misplaced bag",0,"misplaced bags",0,0,1,0,0,False,"Misplaced Bag","ui/icon/025000/025979.tex","",1,1," Bag Your Pardon",0,"normal/item_start",0
-2003719,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003719,"notes on crescent Garula",0,"notes on crescent Garula",0,0,1,0,0,False,"Notes on Crescent Garula","ui/icon/026000/026572.tex","",1,1,"Creatures of the Crescent",0,"normal/item_start",0
 2003720,"survey response",0,"survey responses",0,0,1,0,0,False,"Survey Response","ui/icon/026000/026572.tex","",3,1," Canvassing in Kozama'uka",0,"normal/item_start",0
 2003721,"nectar extraction device",0,"nectar extraction devices",0,0,1,0,0,False,"Nectar Extraction Device","ui/icon/026000/026108.tex","Key Item",2,1," The Nectar Collector",3,"normal/item_start",0
 2003722,"pot of fragrant nectar",0,"pots of fragrant nectar",0,0,1,0,0,False,"Fragrant Nectar","ui/icon/022000/022670.tex","",2,1," The Nectar Collector",0,"normal/item_start",0
@@ -3734,11 +3734,11 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003730,"hearty packed lunch",0,"hearty packed lunches",0,0,1,0,0,False,"Hearty Packed Lunch","ui/icon/021000/021005.tex","",1,1," In Time for Lunch",0,"normal/item_start",0
 2003731,"box of assorted timber",0,"boxes of assorted timber",0,0,1,0,0,False,"Assorted Timber","ui/icon/021000/021003.tex","",1,1,"In Pursuit of Eggcellence",0,"normal/item_start",0
 2003732,"box of market decorations",0,"boxes of market decorations",0,0,1,0,0,False,"Market Decorations","ui/icon/052000/052546.tex","",3,1,"Appreciated Value",0,"normal/item_start",0
-2003733,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003734,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003735,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003736,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003737,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003733,"starship illustration",0,"starship illustrations",0,0,1,0,0,False,"Starship Illustration","ui/icon/026000/026151.tex","",1,1,"Wizened Testimony",0,"normal/item_start",0
+2003734,"chunk of aether-imbued stone",0,"chunks of aether-imbued stone",0,0,1,0,0,False,"Aether-imbued Stone ","ui/icon/021000/021487.tex","",1,1,"A Ruined Land",0,"normal/item_start",0
+2003735,"chunk of aether-imbued stone",0,"chunks of aether-imbued stone",0,0,1,0,0,False,"Aether-imbued Stone ","ui/icon/021000/021252.tex","",1,1,"A Common Thread",0,"normal/item_start",0
+2003736,"chunk of aether-imbued stone",0,"chunks of aether-imbued stone",0,0,1,0,0,False,"Aether-imbued Stone ","ui/icon/021000/021455.tex","",1,1,"A Common Thread",0,"normal/item_start",0
+2003737,"chunk of aether-imbued stone",0,"chunks of aether-imbued stone",0,0,1,0,0,False,"Aether-imbued Stone ","ui/icon/021000/021251.tex","",1,1,"A Common Thread",0,"normal/item_start",0
 2003738,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
 2003739,"wrapped keepsake",0,"wrapped keepsakes",0,0,1,0,0,False,"Wrapped Keepsake","ui/icon/026000/026108.tex","",4,1,"In Search of Meaning",0,"normal/item_start",0
 2003740,"piece of raw material",0,"pieces of raw material",0,0,1,0,0,False,"Raw Material","ui/icon/020000/020802.tex","",1,1,,0,"normal/item_start",0
@@ -3752,15 +3752,15 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003748,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
 2003749,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
 2003750,"King Elmer III card",0,"King Elmer III cards",0,0,1,0,0,False,"King Elmer III Card","ui/icon/027000/027672.tex","",1,1,"Royal Rumblings",0,"normal/item_start",0
-2003751,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003752,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003753,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003754,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003755,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003756,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003757,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003758,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003759,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003751,"notes on crescent flying lizards",0,"notes on crescent flying lizards",0,0,1,0,0,False,"Notes on Crescent Flying Lizards","ui/icon/026000/026572.tex","",1,1,"Creatures of the Crescent",0,"normal/item_start",0
+2003752,"notes on crescent bandersnatches",0,"notes on crescent bandersnatches",0,0,1,0,0,False,"Notes on Crescent Bandersnatches","ui/icon/026000/026572.tex","",1,1,"Creatures of the Crescent",0,"normal/item_start",0
+2003753,"sack of wivre leavings",0,"sacks of wivre leavings",0,0,1,0,0,False,"Wivre Leavings","ui/icon/027000/027501.tex","",3,1," Taking Your Leavings",0,"normal/item_start",0
+2003754,"hefty sack of Gok Golma vegetables",0,"hefty sacks of Gok Golma vegetables",0,0,1,0,0,False,"Gok Golma Vegetables","ui/icon/026000/026110.tex","",1,1," Gifts of the Gainery",0,"normal/item_start",0
+2003755,"generous sack of choice meats",0,"generous sacks of choice meats",0,0,1,0,0,False,"Choice Meats","ui/icon/026000/026111.tex","",1,1," Gifts of the Gainery",0,"normal/item_start",0
+2003756,"sack of najool stems",0,"sacks of najool stems",0,0,1,0,0,False,"Najool Stems","ui/icon/026000/026110.tex","",1,1," Stem's the Breaks",0,"normal/item_start",0
+2003757,"herbal compress",0,"herbal compresses",0,0,1,0,0,False,"Herbal Compress","ui/icon/026000/026127.tex","",3,1," Pain Relief",0,"normal/item_start",0
+2003758,"ripened branchberry",0,"ripened branchberries",0,0,1,0,0,False,"Ripened Branchberry","ui/icon/025000/025331.tex","",1,1," Fruit of Friendship",0,"normal/item_start",0
+2003759,"basket of fresh produce",0,"baskets of fresh produce",0,0,1,0,0,False,"Fresh Produce","ui/icon/027000/027551.tex","",1,1," Store-to-door Delivery",0,"normal/item_start",0
 2003760,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
 2003761,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
 2003762,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0

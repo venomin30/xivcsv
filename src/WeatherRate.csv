@@ -169,5 +169,5 @@ int32,Weather,byte,Weather,byte,Weather,byte,Weather,byte,Weather,byte,Weather,b
 165,"Fair Skies",5,"Clouds",20,"Fog",15,"Rain",5,"Thunderstorms",5,"Umbral Static",50,"",0,"",0
 166,"Rain",10,"Fog",10,"Clouds",20,"Fair Skies",60,"",0,"",0,"",0,"",0
 167,"Electrostatic Dust",100,"",0,"",0,"",0,"",0,"",0,"",0,"",0
-168,"Clear Skies",10,"Fair Skies",45,"Clouds",15,"Rain",10,"",15,"",5,"",0,"",0
+168,"Clear Skies",10,"Fair Skies",45,"Clouds",15,"Rain",10,"Atmospheric Phantasms",15,"Illusory Disturbances",5,"",0,"",0
 169,"Moon Dust",15,"Fair Skies",70,"Umbral Wind",15,"",0,"",0,"",0,"",0,"",0
