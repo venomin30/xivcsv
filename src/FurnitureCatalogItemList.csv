@@ -107,11 +107,11 @@ int32,FurnitureCatalogCategory,Item,uint16
 103,"Chairs/Sofas","Knight Captain's Chair",410
 104,"Lighting","Nymian Wall Lantern",410
 105,"Lighting","Amdapori Wall Lantern",410
-106,"Stuffed Toys/Figures","Magitek Reaper Miniature",410
+106,"Ornaments","Magitek Reaper Miniature",410
 107,"Lighting","Belah'dian Crystal Lantern",410
-108,"Stuffed Toys/Figures","Stuffed Moogle",410
-109,"Stuffed Toys/Figures","Stuffed Chocobo",410
-110,"Stuffed Toys/Figures","Drinking Apkallu",410
+108,"Stuffed Toys/Mascots","Stuffed Moogle",410
+109,"Stuffed Toys/Mascots","Stuffed Chocobo",410
+110,"Stuffed Toys/Mascots","Drinking Apkallu",410
 111,"Lighting","Tonberry Floor Lamp",410
 112,"Lighting","Mandragora Floor Lamp",410
 113,"Lighting","Amigo Cactus Floor Lamp",410
@@ -194,7 +194,7 @@ int32,FurnitureCatalogCategory,Item,uint16
 190,"Lighting","Tonberry Wall Lantern",410
 191,"Rugs","Tonberry Oval Rug",410
 192,"Miscellaneous","Lalafellin Step Stool",410
-193,"Stuffed Toys/Figures","Stuffed Ahriman",410
+193,"Stuffed Toys/Mascots","Stuffed Ahriman",410
 194,"Plants","Ahriman Vase",410
 195,"Tables","Carbuncle Round Table",410
 196,"Chairs/Sofas","Carbuncle Armchair",410
@@ -226,11 +226,11 @@ int32,FurnitureCatalogCategory,Item,uint16
 222,"Interactive Furnishings","Level 5 Aetherial Wheel Stand",410
 223,"Interactive Furnishings","Level 6 Aetherial Wheel Stand",410
 224,"Tables","Eorzean Map Table",410
-225,"Miscellaneous","Dragon Piece",410
-226,"Miscellaneous","Wyvern Piece",410
-227,"Miscellaneous","Vigil Piece",410
-228,"Miscellaneous","Temple Knight Piece",410
-229,"Miscellaneous","Dragoon Piece",410
+225,"Ornaments","Dragon Piece",410
+226,"Ornaments","Wyvern Piece",410
+227,"Ornaments","Vigil Piece",410
+228,"Ornaments","Temple Knight Piece",410
+229,"Ornaments","Dragoon Piece",410
 230,"Miscellaneous","Manor Harpsichord",410
 231,"Chairs/Sofas","Manor Music Stool",410
 232,"Miscellaneous","Manor Timpani",410
@@ -247,8 +247,8 @@ int32,FurnitureCatalogCategory,Item,uint16
 243,"Tableware/Foods","Chilled Red",410
 244,"Miscellaneous","The Five Ages",410
 245,"Miscellaneous","Classified Documents",410
-246,"Stuffed Toys/Figures","Stuffed Goblin",410
-247,"Stuffed Toys/Figures","Ultima Weapon Miniature",410
+246,"Stuffed Toys/Mascots","Stuffed Goblin",410
+247,"Ornaments","Ultima Weapon Miniature",410
 248,"Flags/Frames/Posters","Onus of an Engineer",410
 249,"Flags/Frames/Posters","Enquire Within",410
 250,"Plants","Wall Planter",410
@@ -296,8 +296,8 @@ int32,FurnitureCatalogCategory,Item,uint16
 292,"Miscellaneous","Masonwork Stove",410
 293,"Miscellaneous","Shipping Crate",410
 294,"Miscellaneous","Wine Barrel",410
-295,"Stuffed Toys/Figures","Odin Miniature",410
-296,"Stuffed Toys/Figures","Bahamut Miniature",410
+295,"Ornaments","Odin Miniature",410
+296,"Ornaments","Bahamut Miniature",410
 297,"Miscellaneous","Eternity Cake",410
 298,"Flags/Frames/Posters","The Antecedent",410
 299,"Flags/Frames/Posters","A Northerly Wind",410
@@ -313,14 +313,14 @@ int32,FurnitureCatalogCategory,Item,uint16
 309,"Chairs/Sofas","Alpine Chair",410
 310,"Tables","Alpine Round Table",410
 311,"Tableware/Foods","Alpine Tea Set",410
-312,"Stuffed Toys/Figures","Stuffed Onion Prince",410
-313,"Stuffed Toys/Figures","Stuffed Eggplant Knight",410
-314,"Stuffed Toys/Figures","Stuffed Garlic Jester",410
-315,"Stuffed Toys/Figures","Stuffed Tomato King",410
-316,"Stuffed Toys/Figures","Stuffed Mandragora Queen",410
-317,"Stuffed Toys/Figures","Zurvan Miniature",410
-318,"Stuffed Toys/Figures","Diabolos Miniature",410
-319,"Stuffed Toys/Figures","Scathach Miniature",410
+312,"Stuffed Toys/Mascots","Stuffed Onion Prince",410
+313,"Stuffed Toys/Mascots","Stuffed Eggplant Knight",410
+314,"Stuffed Toys/Mascots","Stuffed Garlic Jester",410
+315,"Stuffed Toys/Mascots","Stuffed Tomato King",410
+316,"Stuffed Toys/Mascots","Stuffed Mandragora Queen",410
+317,"Ornaments","Zurvan Miniature",410
+318,"Ornaments","Diabolos Miniature",410
+319,"Ornaments","Scathach Miniature",410
 320,"Miscellaneous","Wax Vegetables",410
 321,"Tables","Guildleve Counter",410
 322,"Tableware/Foods","Glade Tea Set",410
@@ -334,7 +334,7 @@ int32,FurnitureCatalogCategory,Item,uint16
 330,"Plants","Oak Low Barrel Planter",410
 331,"Walls/Pillars/Partitions","Royal Partition",410
 332,"Miscellaneous","Order of Nald'thal Lectern",410
-333,"Miscellaneous","Stuffed Carbuncle",410
+333,"Stuffed Toys/Mascots","Stuffed Carbuncle",410
 334,"Tableware/Foods","Oriental Breakfast",410
 335,"Tableware/Foods","Nameday Cake",410
 336,"Tableware/Foods","Cake Tray",410
@@ -373,9 +373,9 @@ int32,FurnitureCatalogCategory,Item,uint16
 369,"Chairs/Sofas","Funguar Chair",410
 370,"Walls/Pillars/Partitions","Mahogany Partition Door",410
 371,"Miscellaneous","Morin Khuur",410
-372,"Stuffed Toys/Figures","Tiny Bronco Miniature",410
-373,"Stuffed Toys/Figures","Invincible Miniature",410
-374,"Stuffed Toys/Figures","Enterprise Miniature",410
+372,"Ornaments","Tiny Bronco Miniature",410
+373,"Ornaments","Invincible Miniature",410
+374,"Ornaments","Enterprise Miniature",410
 375,"Lighting","Pudding Floor Lamp",410
 376,"Chairs/Sofas","Pudding Settee",410
 377,"Tables","Pudding Desk",410
@@ -386,7 +386,7 @@ int32,FurnitureCatalogCategory,Item,uint16
 382,"Interactive Furnishings","Glade Flowerpot",410
 383,"Interactive Furnishings","Oasis Flowerpot",410
 384,"Shelves/Chests","Staggered Shelf",410
-385,"Stuffed Toys/Figures","Stuffed Bear",410
+385,"Stuffed Toys/Mascots","Stuffed Bear",410
 386,"Tableware/Foods","Alpine Breakfast",410
 387,"Miscellaneous","Hat Stand",410
 388,"Miscellaneous","Ashtray",410
@@ -394,25 +394,25 @@ int32,FurnitureCatalogCategory,Item,uint16
 390,"Lighting","Indirect Stand Lighting",410
 391,"Walls/Pillars/Partitions","Chirurgeon's Curtain",410
 392,"Interactive Furnishings","Tier 4 Aquarium",410
-393,"Stuffed Toys/Figures","Nidhogg Miniature",410
+393,"Ornaments","Nidhogg Miniature",410
 394,"Chairs/Sofas","Markworthy Mogsofa",410
 395,"Lighting","Dragon Floor Lamp",410
 396,"Lighting","Mammet Lantern",410
 397,"Shelves","Mounted Box Shelf",410
 398,"Tables","Knightly Round Table",410
-399,"Stuffed Toys/Figures","Stuffed Calca",410
-400,"Stuffed Toys/Figures","Stuffed Brina",410
+399,"Stuffed Toys/Mascots","Stuffed Calca",410
+400,"Stuffed Toys/Mascots","Stuffed Brina",410
 401,"Shelves/Chests","Mounted Bookshelf",410
 402,"Lighting","Great Gubal Floor Lamp",410
 403,"Rugs","Combed Wool Rug",410
 404,"Miscellaneous","Spirits Collection",410
-405,"Stuffed Toys/Figures","Invincible II Miniature",410
-406,"Stuffed Toys/Figures","Odyssey Miniature",410
-407,"Stuffed Toys/Figures","Tatanora Miniature",410
-408,"Stuffed Toys/Figures","Viltgance Miniature",410
+405,"Ornaments","Invincible II Miniature",410
+406,"Ornaments","Odyssey Miniature",410
+407,"Ornaments","Tatanora Miniature",410
+408,"Ornaments","Viltgance Miniature",410
 409,"Interactive Furnishings","Compact Level 6 Aetherial Wheel Stand",410
-410,"Stuffed Toys/Figures","Sophia Miniature",410
-411,"Stuffed Toys/Figures","Alexander Miniature",410
+410,"Ornaments","Sophia Miniature",410
+411,"Ornaments","Alexander Miniature",410
 412,"Beds","Carbuncle Bed",410
 413,"Flags/Frames/Posters","Forever Friends",410
 414,"Miscellaneous","Yarn Basket",410
@@ -433,9 +433,9 @@ int32,FurnitureCatalogCategory,Item,uint16
 429,"Miscellaneous","Oriental Pipe Box",410
 430,"Miscellaneous","Oriental Dressing Case",410
 431,"Walls/Pillars/Partitions","Doman Partition",410
-432,"Stuffed Toys/Figures","Lakshmi Miniature",410
-433,"Stuffed Toys/Figures","Susano Miniature",410
-434,"Stuffed Toys/Figures","Stuffed Edda",410
+432,"Ornaments","Lakshmi Miniature",410
+433,"Ornaments","Susano Miniature",410
+434,"Stuffed Toys/Mascots","Stuffed Edda",410
 435,"Tableware/Foods","Oriental Sushi Lunch",410
 436,"Tableware/Foods","Oriental Soba Lunch",410
 437,"Tableware/Foods","Oriental Udon Lunch",410
@@ -446,11 +446,11 @@ int32,FurnitureCatalogCategory,Item,uint16
 442,"Miscellaneous","Zabuton Cushion",410
 443,"Walls/Partitions","White Half Partition",410
 444,"Interactive Furnishings","Blank Riviera Partition",410
-445,"Miscellaneous","Unmoving Maneki Moogle",410
+445,"Stuffed Toys/Mascots","Unmoving Maneki Moogle",410
 446,"Lighting","Matanga Lamp",410
-447,"Stuffed Toys/Figures","Stuffed Khloe",410
-448,"Stuffed Toys/Figures","Stuffed Fox",410
-449,"Miscellaneous","Ixion Trophy",410
+447,"Stuffed Toys/Mascots","Stuffed Khloe",410
+448,"Stuffed Toys/Mascots","Stuffed Fox",410
+449,"Ornaments","Ixion Trophy",410
 450,"Windows","Imitation Square Window",410
 451,"Tables","Chocobo Round Table",410
 452,"Chairs/Sofas","Chocobo Chair",410
@@ -475,18 +475,18 @@ int32,FurnitureCatalogCategory,Item,uint16
 471,"Flags/Frames/Posters","Hingan Wall Scroll",410
 472,"Plants","Bamboo Planter",410
 473,"Lighting","Hingan Andon Lamp",410
-474,"Miscellaneous","Kotetsu Replica",410
-475,"Miscellaneous","Hingan Armor Display",410
+474,"Ornaments","Kotetsu Replica",410
+475,"Ornaments","Hingan Armor Display",410
 476,"Lighting","Hingan Chochin Lantern",410
 477,"Miscellaneous","Hingan Scroll",410
 478,"Miscellaneous","Hingan Brushes",410
 479,"Miscellaneous","Porcelain Vase",410
 480,"Miscellaneous","Kimono Hanger",410
-481,"Miscellaneous","Crimson Coral Object",410
+481,"Ornaments","Crimson Coral Object",410
 482,"Miscellaneous","Decorative Wall Fan",410
 483,"Miscellaneous","Shinryu's Wing",410
 484,"Miscellaneous","Paint Can",410
-485,"Stuffed Toys/Figures","Stuffed Kojin",410
+485,"Stuffed Toys/Mascots","Stuffed Kojin",410
 486,"Flags/Frames/Posters","Mol Banner",410
 487,"Windows","Fool's Portal",410
 488,"Windows","Imitation Stained Crystal Ornament",410
@@ -499,8 +499,8 @@ int32,FurnitureCatalogCategory,Item,uint16
 495,"Tables","Byakko Sideboard",410
 496,"Chairs/Sofas","Byakko Throne",410
 497,"Tableware/Foods","Bread Basket",410
-498,"Stuffed Toys/Figures","Stuffed Alpha",410
-499,"Miscellaneous","Emerald Crystal Boule",410
+498,"Stuffed Toys/Mascots","Stuffed Alpha",410
+499,"Ornaments","Emerald Crystal Boule",410
 500,"Tableware/Foods","House Borel Tea Set",410
 501,"Tableware/Foods","Royal Dowager Tea Set",410
 502,"Miscellaneous","Brick Interior Wall",410
@@ -519,7 +519,7 @@ int32,FurnitureCatalogCategory,Item,uint16
 515,"Miscellaneous","Indoor BBQ Spit",410
 516,"Miscellaneous","Sake Set",410
 517,"Walls/Pillars/Partitions","Stage Panel",410
-518,"Stuffed Toys/Figures","Stuffed Ananta",410
+518,"Stuffed Toys/Mascots","Stuffed Ananta",410
 519,"Chairs/Sofas","Odder Otter Chair",410
 520,"Lighting","Odder Otter Wall Lantern",410
 521,"Tables","Chocobo Dining Table",410
@@ -543,7 +543,7 @@ int32,FurnitureCatalogCategory,Item,uint16
 539,"Miscellaneous","Coat Hanger",410
 540,"Miscellaneous","Crossed Halberds",410
 541,"Miscellaneous","Sewing Baskets",410
-542,"Stuffed Toys/Figures","Stuffed Tsukuyomi",410
+542,"Stuffed Toys/Mascots","Stuffed Tsukuyomi",410
 543,"Flags/Frames/Posters","Falcons Banner",410
 544,"Flags/Frames/Posters","Ravens Banner",410
 545,"Shelves/Chests","Disordered Wardrobe",410
@@ -562,7 +562,7 @@ int32,FurnitureCatalogCategory,Item,uint16
 558,"Miscellaneous","Chainmail Hanger",410
 559,"Plants","Sumptuous Dimension Castle Vase",410
 560,"Plants","Imposing Dimension Castle Vase",410
-561,"Stuffed Toys/Figures","Stuffed Namazu",410
+561,"Stuffed Toys/Mascots","Stuffed Namazu",410
 562,"Miscellaneous","Altar to Pazuzu",410
 563,"Miscellaneous","Empyrean Shrine",410
 564,"Tableware/Foods","Basket of Steamed Buns",410
@@ -576,13 +576,13 @@ int32,FurnitureCatalogCategory,Item,uint16
 572,"Interactive Furnishings","Cuff-a-Cur Machine",410
 573,"Chairs/Sofas","Grand Chair",410
 574,"Lighting","Jellyfish Lamp",410
-575,"Stuffed Toys/Figures","Stuffed Happy Bunny",410
+575,"Stuffed Toys/Mascots","Stuffed Happy Bunny",410
 576,"Tableware/Foods","Pot of Cream Stew",410
 577,"Miscellaneous","Suzaku Wall Hanging",410
 578,"Plants","Doman Dogwood",410
 579,"Flags/Frames/Posters","Enclave Map",410
 580,"Tableware/Foods","Redoubtable Rolanberry Tart",410
-581,"Miscellaneous","Crystal Boule",410
+581,"Ornaments","Crystal Boule",410
 582,"Miscellaneous","Gridanian Bouquet",410
 583,"Windows","Imitation Shuttered Window",410
 584,"Miscellaneous","Little Chef's Playset",410
@@ -604,13 +604,13 @@ int32,FurnitureCatalogCategory,Item,uint16
 600,"Miscellaneous","Bathroom Wall Tiles",410
 601,"Miscellaneous","Towels",410
 602,"Miscellaneous","Sofa Cushions",410
-603,"Miscellaneous","Seiryu Statuette",410
+603,"Ornaments","Seiryu Statuette",410
 604,"Windows","Small Imitation Window",410
 605,"Miscellaneous","Bag of Booty",410
 606,"Miscellaneous","Undersea Spoils",410
 607,"Miscellaneous","Level Checker Replica",410
-608,"Miscellaneous","Cerulean Crystal Boule",410
-609,"Miscellaneous","Fat Cat Bank",410
+608,"Ornaments","Cerulean Crystal Boule",410
+609,"Stuffed Toys/Mascots","Fat Cat Bank",410
 610,"Miscellaneous","Tree Slice Tower",410
 611,"Plants","Botanist's Dried Herbs",410
 612,"Miscellaneous","Steppe Kitchen",410
@@ -631,7 +631,7 @@ int32,FurnitureCatalogCategory,Item,uint16
 627,"Miscellaneous","Honey Pot",410
 628,"Rugs","Red Carpet",410
 629,"Plants","Hanging Planter Shelf",410
-630,"Stuffed Toys/Figures","Plush Pile",410
+630,"Stuffed Toys/Mascots","Plush Pile",410
 631,"Bathing","Washbasin",410
 632,"Chairs/Sofas","Fat Cat Sofa",410
 633,"Miscellaneous","Ananta Metalworks",410
@@ -651,10 +651,10 @@ int32,FurnitureCatalogCategory,Item,uint16
 647,"Miscellaneous","Crystarium Stove",500
 648,"Miscellaneous","Crystarium Kitchen Hanger",500
 649,"Miscellaneous","Crystarium Teapot",500
-650,"Miscellaneous","Ruby Crystal Boule",500
+650,"Ornaments","Ruby Crystal Boule",500
 651,"Clocks","Crystarium Wall Chronometer",500
 652,"Miscellaneous","Crystarium Mechanical Till",500
-653,"Stuffed Toys/Figures","Stuffed Fuath",500
+653,"Stuffed Toys/Mascots","Stuffed Fuath",500
 654,"Miscellaneous","Antique Vessels",500
 655,"Tableware/Foods","Decadent Fruit Platter",500
 656,"Tableware/Foods","Sandwich Basket",500
@@ -667,8 +667,8 @@ int32,FurnitureCatalogCategory,Item,uint16
 663,"Lighting","Wooden Work Lantern",500
 664,"Lighting","Alchemical Lantern",500
 665,"Miscellaneous","Crystarium Umbrella Stand",500
-666,"Stuffed Toys/Figures","Stuffed Clionid",500
-667,"Stuffed Toys/Figures","Stuffed Tonberry",410
+666,"Stuffed Toys/Mascots","Stuffed Clionid",500
+667,"Stuffed Toys/Mascots","Stuffed Tonberry",410
 668,"Miscellaneous","Indoor Oriental Garden",510
 669,"Tableware/Foods","Oriental Chawan-mushi Lunch",510
 670,"Miscellaneous","Oasis Wall-mounted Fountain",510
@@ -686,7 +686,7 @@ int32,FurnitureCatalogCategory,Item,uint16
 682,"Miscellaneous","Empty Boxes",510
 683,"Miscellaneous","Set of Liquor Bottles",510
 684,"Walls/Pillars/Partitions","Log Partition",510
-685,"Stuffed Toys/Figures","Stuffed Porxie",510
+685,"Stuffed Toys/Mascots","Stuffed Porxie",510
 686,"Plants","Greatwood Planter",510
 687,"Shelves","Shirt Display Rack",510
 688,"Chairs/Sofas","Lakeland Chair",510
@@ -695,7 +695,7 @@ int32,FurnitureCatalogCategory,Item,uint16
 691,"Lighting","Il Mheg Flower Lamp",510
 692,"Miscellaneous","Macaron Cushion",510
 693,"Shelves/Chests","Imposing Ishgardian Shelf",510
-694,"Stuffed Toys/Figures","Stuffed Hraesvelgr",510
+694,"Stuffed Toys/Mascots","Stuffed Hraesvelgr",510
 695,"Miscellaneous","Dishware",520
 696,"Interactive Furnishings","Small Angler's Canvas",520
 697,"Interactive Furnishings","Medium Angler's Canvas",520
@@ -717,7 +717,7 @@ int32,FurnitureCatalogCategory,Item,uint16
 713,"Tableware/Foods","The Bismarck",520
 714,"Tableware/Foods","Devil's Salad Bowl",520
 715,"Flags/Frames/Posters","Lord Commander Portrait",520
-716,"Miscellaneous","Golden Crystal Boule",520
+716,"Ornaments","Golden Crystal Boule",520
 717,"Walls/Pillars/Partitions","Cosmos Partition",520
 718,"Tables","Wooden Table",520
 719,"Miscellaneous","Picnic Basket",520
@@ -730,19 +730,19 @@ int32,FurnitureCatalogCategory,Item,uint16
 726,"Miscellaneous","Cosmos Decoration",520
 727,"Tables","Used Banquet Table",520
 728,"Beds","Steppe Bed",520
-729,"Stuffed Toys/Figures","Ruby Weapon Bust",520
+729,"Ornaments","Ruby Weapon Bust",520
 730,"Miscellaneous","Apron Rack",520
 731,"Miscellaneous","Mahogany Aqueduct",520
-732,"Miscellaneous","Crystallized Coral",520
+732,"Ornaments","Crystallized Coral",520
 733,"Walls/Pillars/Partitions","White Screen",520
 734,"Miscellaneous","Siphon Coffee Brewer",520
 735,"Clocks","Fat Cat Wall Chronometer",520
 736,"Miscellaneous","Bomb Cauldron",520
 737,"Chairs/Sofas","Ronkan Rocking Chair",520
 738,"Miscellaneous","Trophy of Light",530
-739,"Stuffed Toys/Figures","Sapphire Weapon Bust",530
+739,"Ornaments","Sapphire Weapon Bust",530
 740,"Miscellaneous","Verdant Shelf Partition",530
-741,"Stuffed Toys/Figures","Ironfrog Keeper",530
+741,"Ornaments","Ironfrog Keeper",530
 742,"Miscellaneous","Wooden Staircase Bookshelf",530
 743,"Miscellaneous","Gemseeker's Pack",530
 744,"Miscellaneous","Bluebird Mobile",530
@@ -767,12 +767,12 @@ int32,FurnitureCatalogCategory,Item,uint16
 763,"Lighting","Dwarven Floor Lamp",530
 764,"Clocks","Mandragora Table Chronometer",530
 765,"Rugs","Paissa Rug",530
-766,"Stuffed Toys/Figures","Huggable Gaelicat",530
+766,"Stuffed Toys/Mascots","Huggable Gaelicat",530
 767,"Miscellaneous","Ishgardian Display Stand",530
 768,"Chairs/Sofas","Fortemps Sofa",530
-769,"Stuffed Toys/Figures","Stuffed Estinien",530
-770,"Stuffed Toys/Figures","Helldiver SD",530
-771,"Stuffed Toys/Figures","Dainsleif SD",530
+769,"Stuffed Toys/Mascots","Stuffed Estinien",530
+770,"Ornaments","Helldiver SD",530
+771,"Ornaments","Dainsleif SD",530
 772,"Walls/Pillars/Partitions","Slanted Wall",530
 773,"Walls/Pillars/Partitions","Slanted Skylight",530
 774,"Tableware/Foods","Sliced Watermelon",530
@@ -780,11 +780,11 @@ int32,FurnitureCatalogCategory,Item,uint16
 776,"Lighting","Goobbue Lamp",540
 777,"Miscellaneous","Dress Form",540
 778,"Miscellaneous","Tankard",540
-779,"Stuffed Toys/Figures","Emerald Weapon Bust",540
+779,"Ornaments","Emerald Weapon Bust",540
 780,"Tableware/Foods","Shakshouka Pot",540
 781,"Walls/Pillars/Partitions","Rose Trellis",540
 782,"Miscellaneous","Dragon Icon",540
-783,"Miscellaneous","Royal Lion",540
+783,"Ornaments","Royal Lion",540
 784,"Miscellaneous","Swag Valance",540
 785,"Miscellaneous","Homemade Cookie Set",540
 786,"Shelves/Chests","Florist's Counter",540
@@ -796,25 +796,25 @@ int32,FurnitureCatalogCategory,Item,uint16
 792,"Miscellaneous","Armament Showcase",540
 793,"Miscellaneous","Art Showcase",540
 794,"Miscellaneous","Baked Goods Showcase",540
-795,"Stuffed Toys/Figures","Stuffed Cait Sith",540
+795,"Stuffed Toys/Mascots","Stuffed Cait Sith",540
 796,"Walls/Pillars/Partitions","Spring Meadow Partition",540
 797,"Miscellaneous","Ishgardian Stove",540
-798,"Stuffed Toys/Figures","Extra-stuffed Carbuncle",540
+798,"Stuffed Toys/Mascots","Extra-stuffed Carbuncle",540
 799,"Miscellaneous","Carbuncle House Slippers",540
-800,"Stuffed Toys/Figures","Queen's Gunner Piece",540
-801,"Stuffed Toys/Figures","Queen's Soldier Piece",540
-802,"Stuffed Toys/Figures","Queen's Warrior Piece",540
-803,"Stuffed Toys/Figures","Queen's Knight Piece",540
+800,"Ornaments","Queen's Gunner Piece",540
+801,"Ornaments","Queen's Soldier Piece",540
+802,"Ornaments","Queen's Warrior Piece",540
+803,"Ornaments","Queen's Knight Piece",540
 804,"Miscellaneous","Antique Sink",540
 805,"Lighting","Iron Torch",540
 806,"Miscellaneous","Major-General Cushion",550
 807,"Shelves/Chests","Rustic Chocobo Counter",540
 808,"Walls/Pillars/Partitions","Wood Slat Partition",540
 809,"Chairs/Sofas","Paissa Swing Chair",540
-810,"Stuffed Toys/Figures","Diamond Weapon Bust",550
+810,"Ornaments","Diamond Weapon Bust",550
 811,"Miscellaneous","Azim Steppe Phasmascape",550
 812,"Miscellaneous","Blue Moon Phasmascape",550
-813,"Stuffed Toys/Figures","Stuffed Android Units",550
+813,"Stuffed Toys/Mascots","Stuffed Android Units",550
 814,"Miscellaneous","Wooden Reel Table",550
 815,"Miscellaneous","Violin Showcase",550
 816,"Miscellaneous","Aetherolectric Guitar",550
@@ -836,9 +836,9 @@ int32,FurnitureCatalogCategory,Item,uint16
 832,"Flags/Frames/Posters","Portrait of Gestahl",550
 833,"Miscellaneous","Armor Hanger",550
 834,"Miscellaneous","Mounted Dinosaur Skull",550
-835,"Stuffed Toys/Figures","G-Warrior MG",550
-836,"Miscellaneous","Queen's Rest",550
-837,"Stuffed Toys/Figures","Stuffed Peerifool",550
+835,"Ornaments","G-Warrior MG",550
+836,"Ornaments","Queen's Rest",550
+837,"Stuffed Toys/Mascots","Stuffed Peerifool",550
 838,"Miscellaneous","Eastern Indoor Pond",550
 839,"Shelves/Chests","Grocery Counter Cart",550
 840,"Miscellaneous","Wooden Spiral Staircase",550
@@ -863,7 +863,7 @@ int32,FurnitureCatalogCategory,Item,uint16
 859,"Rugs","Fat Cat Rug",600
 860,"Plants","Walnut Flower Vases",600
 861,"Tableware/Foods","Fluffy Pancakes",600
-862,"Stuffed Toys/Figures","Stuffed Bom Boko",600
+862,"Stuffed Toys/Mascots","Stuffed Bom Boko",600
 863,"Miscellaneous","Wooden Blinds",600
 864,"Walls/Pillars/Partitions","Dance Pole",600
 865,"Shelves","Antique Wall Shelf",600
@@ -917,9 +917,9 @@ int32,FurnitureCatalogCategory,Item,uint16
 913,"Shelves/Chests","Scholasticate Bookshelf",610
 914,"Miscellaneous","Royal Menagerie Phasmascape",610
 915,"Miscellaneous","Sea of Clouds Phasmascape",610
-916,"Stuffed Toys/Figures","Stuffed Sanduruva",610
-917,"Stuffed Toys/Figures","Stuffed Minduruva",610
-918,"Stuffed Toys/Figures","Stuffed Cinduruva",610
+916,"Stuffed Toys/Mascots","Stuffed Sanduruva",610
+917,"Stuffed Toys/Mascots","Stuffed Minduruva",610
+918,"Stuffed Toys/Mascots","Stuffed Cinduruva",610
 919,"Flags/Frames/Posters","Azure Banner of Conflict",610
 920,"Flags/Frames/Posters","Crimson Banner of Conflict",610
 921,"Windows","Imitation Stained Crystal Roundel",620
@@ -955,7 +955,7 @@ int32,FurnitureCatalogCategory,Item,uint16
 951,"Miscellaneous","Flagstone Loft",620
 952,"Miscellaneous","Exciting Neon Wall Light",620
 953,"Beds","Farmer's Straw Bed",620
-954,"Stuffed Toys/Figures","Storm's Crown Sword Stand",620
+954,"Ornaments","Storm's Crown Sword Stand",620
 955,"Flags/Frames/Posters","Bill of Contrition (S-1)",620
 956,"Flags/Frames/Posters","Bill of Deep Contrition (M-1)",620
 957,"Flags/Frames/Posters","Bill of Deepest Contrition (L-1)",620
@@ -994,8 +994,8 @@ int32,FurnitureCatalogCategory,Item,uint16
 990,"Miscellaneous","Allagan Terminal Beta",630
 991,"Miscellaneous","Toy Cooking Set",630
 992,"Chairs/Sofas","Lalafell Lifter",630
-993,"Interactive Furnishings","Alpine Partition",630
-994,"Walls/Pillars/Partitions","Alpine Partition Door",630
+993,"Interactive Furnishings","Highland Partition",630
+994,"Walls/Pillars/Partitions","Highland Partition Door",630
 995,"Walls/Pillars/Partitions","Alpine Pillar",630
 996,"Clocks","Enigma Wall Chronometer",630
 997,"Rugs","Rainbow Hopping Rug",630
@@ -1045,30 +1045,30 @@ int32,FurnitureCatalogCategory,Item,uint16
 1041,"Plants","Cactuar Colony Planter",640
 1042,"Walls/Pillars/Partitions","Verdant Pillar",640
 1043,"Walls/Pillars/Partitions","Rattan Partition",640
-1044,"Miscellaneous","Oyoroi Display",640
+1044,"Ornaments","Oyoroi Display",640
 1045,"Lighting","Far Eastern Brazier",640
 1046,"Miscellaneous","Imitation Closed Door",640
 1047,"Miscellaneous","Wall-mounted Pot Rack",640
 1048,"Miscellaneous","Serving Barrel",640
 1049,"Miscellaneous","Raw Log Half Partition",640
 1050,"Flags/Frames/Posters","Forever at Your Side",640
-1051,"Stuffed Toys/Figures","Drowned King Sculpture",640
-1052,"Stuffed Toys/Figures","Eventide Sword Stand",640
+1051,"Ornaments","Drowned King Sculpture",640
+1052,"Ornaments","Eventide Sword Stand",640
 1053,"Miscellaneous","Seiryu Sculpture",640
 1054,"Miscellaneous","Suzaku Sculpture",640
-1055,"Miscellaneous","Storm Trophy (Left)",650
-1056,"Miscellaneous","Storm Trophy (Center)",650
-1057,"Miscellaneous","Storm Trophy (Right)",650
-1058,"Miscellaneous","Serpent Trophy (Left)",650
-1059,"Miscellaneous","Serpent Trophy (Center)",650
-1060,"Miscellaneous","Serpent Trophy (Right)",650
-1061,"Miscellaneous","Flame Trophy (Left)",650
-1062,"Miscellaneous","Flame Trophy (Center)",650
-1063,"Miscellaneous","Flame Trophy (Right)",650
+1055,"Ornaments","Storm Trophy (Left)",650
+1056,"Ornaments","Storm Trophy (Center)",650
+1057,"Ornaments","Storm Trophy (Right)",650
+1058,"Ornaments","Serpent Trophy (Left)",650
+1059,"Ornaments","Serpent Trophy (Center)",650
+1060,"Ornaments","Serpent Trophy (Right)",650
+1061,"Ornaments","Flame Trophy (Left)",650
+1062,"Ornaments","Flame Trophy (Center)",650
+1063,"Ornaments","Flame Trophy (Right)",650
 1064,"Tables","Classic Secretaire",650
-1065,"Stuffed Toys/Figures","Blighted Earth Sword Stand",650
+1065,"Ornaments","Blighted Earth Sword Stand",650
 1066,"Miscellaneous","Hanging Lure Display",650
-1067,"Stuffed Toys/Figures","Abyssal Wings Display",650
+1067,"Ornaments","Abyssal Wings Display",650
 1068,"Miscellaneous","Crystarium Wall Canopy",650
 1069,"Miscellaneous","Nursery Canopy",650
 1070,"Miscellaneous","Ronkan Fireplace",650
@@ -1094,20 +1094,20 @@ int32,FurnitureCatalogCategory,Item,uint16
 1090,"Flags/Frames/Posters","The Matron",650
 1091,"Flags/Frames/Posters","The Keeper",650
 1092,"Lighting","Aloalo Pendant Wall Lamp",650
-1093,"Miscellaneous","Forgotten Figure",650
+1093,"Ornaments","Forgotten Figure",650
 1094,"Miscellaneous","Aloalo Faerie Cushion",650
 1095,"Rugs","Alzadaal's Treasure Rug",650
-1096,"Miscellaneous","Hyper Hustle Trophy",650
+1096,"Ornaments","Hyper Hustle Trophy",650
 1097,"Flags/Frames/Posters","The Spinner",700
 1098,"Flags/Frames/Posters","The Fury",700
 1099,"Flags/Frames/Posters","The Lover",700
 1100,"Flags/Frames/Posters","The Scholar",700
 1101,"Flags/Frames/Posters","The Navigator",700
 1102,"Flags/Frames/Posters","The Wanderer",700
-1103,"Stuffed Toys/Figures","Stuffed Axolotl Eft",700
-1104,"Stuffed Toys/Figures","Stuffed Flag",700
-1105,"Stuffed Toys/Figures","Fluffy-wuffy Stuffed Drippy",700
-1106,"Stuffed Toys/Figures","Stuffed Punutiy",700
+1103,"Stuffed Toys/Mascots","Stuffed Axolotl Eft",700
+1104,"Stuffed Toys/Mascots","Stuffed Flag",700
+1105,"Stuffed Toys/Mascots","Fluffy-wuffy Stuffed Drippy",700
+1106,"Stuffed Toys/Mascots","Stuffed Punutiy",700
 1107,"Windows","Decorative Hingan Door",700
 1108,"Miscellaneous","Sunset Phasmascape",700
 1109,"Miscellaneous","Goblet Phasmascape",700
@@ -1129,7 +1129,7 @@ int32,FurnitureCatalogCategory,Item,uint16
 1125,"Shelves/Chests","Wall Cabinet",700
 1126,"Miscellaneous","Sake Barrel",700
 1127,"Lighting","Bluecap Mushroom Lamp",700
-1128,"Stuffed Toys/Figures","Skyruin Trophy",700
+1128,"Ornaments","Skyruin Trophy",700
 1129,"Walls/Pillars/Partitions","Stone Partition",700
 1130,"Tableware/Foods","Xibruq Pibil",700
 1131,"Lighting","Tuliyollan Table Lamp",700
@@ -1156,7 +1156,7 @@ int32,FurnitureCatalogCategory,Item,uint16
 1152,"Miscellaneous","Apothecary Mortar",710
 1153,"Rugs","Grassy Rug",710
 1154,"Beds","Royal Bed",710
-1155,"Stuffed Toys/Figures","Eternal Cenotaph",710
+1155,"Ornaments","Eternal Cenotaph",710
 1156,"Lighting","Skydeep Lamp",710
 1157,"Tables","Origenics Monitor Desk",710
 1158,"Chairs/Sofas","Origenics Chair",710
@@ -1177,20 +1177,20 @@ int32,FurnitureCatalogCategory,Item,uint16
 1173,"Walls/Pillars/Partitions","Rail-and-stile Partition",710
 1174,"Shelves/Chests","Tea Caddy Cabinet",710
 1175,"Miscellaneous","Indoor Awning",710
-1176,"Miscellaneous","Dragoon Display Crystal",710
-1177,"Miscellaneous","Paladin Display Crystal",710
-1178,"Miscellaneous","Warrior Display Crystal",710
-1179,"Miscellaneous","Monk Display Crystal",710
-1180,"Miscellaneous","Ninja Display Crystal",710
-1181,"Miscellaneous","Bard Display Crystal",710
-1182,"Miscellaneous","Black Mage Display Crystal",710
-1183,"Miscellaneous","Summoner Display Crystal",710
-1184,"Miscellaneous","White Mage Display Crystal",710
-1185,"Miscellaneous","Scholar Display Crystal",710
+1176,"Ornaments","Dragoon Display Crystal",710
+1177,"Ornaments","Paladin Display Crystal",710
+1178,"Ornaments","Warrior Display Crystal",710
+1179,"Ornaments","Monk Display Crystal",710
+1180,"Ornaments","Ninja Display Crystal",710
+1181,"Ornaments","Bard Display Crystal",710
+1182,"Ornaments","Black Mage Display Crystal",710
+1183,"Ornaments","Summoner Display Crystal",710
+1184,"Ornaments","White Mage Display Crystal",710
+1185,"Ornaments","Scholar Display Crystal",710
 1186,"Chairs/Sofas","Cushioned Bench",710
 1187,"Beds","Tropical Canopy Bed",710
 1188,"Miscellaneous","Wachumeqimeqi Balloon",710
-1189,"Stuffed Toys/Figures","Stuffed Sabotender",410
+1189,"Stuffed Toys/Mascots","Stuffed Sabotender",410
 1190,"Miscellaneous","The Moogle's Paw Machine",410
 1191,"Miscellaneous","Out on a Limb Machine",410
 1192,"Miscellaneous","The Finer Miner Machine",410
@@ -1205,28 +1205,28 @@ int32,FurnitureCatalogCategory,Item,uint16
 1201,"Walls/Pillars/Partitions","Wooden Frame Partition",720
 1202,"Walls/Pillars/Partitions","Vault Rib",720
 1203,"Shelves/Chests","Lattice-windowed Cabinet",720
-1204,"Miscellaneous","Dark Knight Display Crystal",720
-1205,"Miscellaneous","Machinist Display Crystal",720
-1206,"Miscellaneous","Astrologian Display Crystal",720
-1207,"Miscellaneous","Samurai Display Crystal",720
-1208,"Miscellaneous","Red Mage Display Crystal",720
-1209,"Miscellaneous","Blue Mage Display Crystal",720
-1210,"Miscellaneous","Gunbreaker Display Crystal",720
-1211,"Miscellaneous","Dancer Display Crystal",720
-1212,"Miscellaneous","Reaper Display Crystal",720
-1213,"Miscellaneous","Sage Display Crystal",720
-1214,"Miscellaneous","Viper Display Crystal",720
-1215,"Miscellaneous","Pictomancer Display Crystal",720
+1204,"Ornaments","Dark Knight Display Crystal",720
+1205,"Ornaments","Machinist Display Crystal",720
+1206,"Ornaments","Astrologian Display Crystal",720
+1207,"Ornaments","Samurai Display Crystal",720
+1208,"Ornaments","Red Mage Display Crystal",720
+1209,"Ornaments","Blue Mage Display Crystal",720
+1210,"Ornaments","Gunbreaker Display Crystal",720
+1211,"Ornaments","Dancer Display Crystal",720
+1212,"Ornaments","Reaper Display Crystal",720
+1213,"Ornaments","Sage Display Crystal",720
+1214,"Ornaments","Viper Display Crystal",720
+1215,"Ornaments","Pictomancer Display Crystal",720
 1216,"Shelves/Chests","Mantelshelf",720
 1217,"Tableware/Foods","Leg of Prosciutto",720
 1218,"Rugs","Round Stepping Star",720
-1219,"Stuffed Toys/Figures","Recollection Sword Stand",720
+1219,"Ornaments","Recollection Sword Stand",720
 1220,"Interactive Furnishings","Blank Minimalist Partition",720
 1221,"Interactive Furnishings","Minimalist Partition Door",720
 1222,"Miscellaneous","Drafting Table",720
 1223,"Tableware/Foods","Tiika Selvaas",720
 1224,"Miscellaneous","Celestial Sphere",720
-1225,"Miscellaneous","Crescent Trophy",720
+1225,"Ornaments","Crescent Trophy",720
 1226,"Tables","Occult Table",720
 1227,"Chairs/Sofas","Occult Chair",720
 1228,"Miscellaneous","Occult Tablets",720
@@ -1235,3 +1235,38 @@ int32,FurnitureCatalogCategory,Item,uint16
 1231,"Chairs/Sofas","Cosmochair",720
 1232,"Tables","Cosmotable",720
 1233,"Lighting","Cosmolamp",720
+1234,"Ornaments","Resilient Sword Stand",700
+1235,"Walls/Pillars/Partitions","Log Partition Door",730
+1236,"Rugs","Cabin Half-moon Rug",730
+1237,"Beds","Cabin Bed",730
+1238,"Chairs/Sofas","Cabin Sofa",730
+1239,"Shelves/Chests","Cabin Sideboard",730
+1240,"Lighting","Overhead Studio Light",730
+1241,"Miscellaneous","Dumbbell Rack",730
+1242,"Chairs/Sofas","Training Bench",730
+1243,"Rugs","Training Mat",730
+1244,"Tableware/Foods","Old Fishwife's Paella",730
+1245,"Walls/Pillars/Partitions","Lattice Planter Partition",730
+1246,"Shelves/Chests","Scroll Cabinet",730
+1247,"Interactive Furnishings","Minimalist Glade Partition Door",730
+1248,"Interactive Furnishings","Minimalist Oasis Partition Door",730
+1249,"Interactive Furnishings","Minimalist Riviera Partition Door",730
+1250,"Interactive Furnishings","Minimalist Highland Partition Door",730
+1251,"Interactive Furnishings","Minimalist Hingan Partition Door",730
+1252,"Ornaments","Death's Halo",730
+1253,"Miscellaneous","Far Eastern Odder Otter Seater",730
+1254,"Miscellaneous","Guardian Arkveld's Windward Plains Phasmascape",730
+1255,"Miscellaneous","Rey Dau's Windward Plains Phasmascape",730
+1256,"Miscellaneous","Uth Duna's Scarlet Forest Phasmascape",730
+1257,"Miscellaneous","Omega's Iceshard Cliffs Phasmascape",730
+1258,"Miscellaneous","Jin Dahaad's Iceshard Cliffs Phasmascape",730
+1259,"Miscellaneous","Nu Udra's Oilwell Basin Phasmascape",730
+1260,"Ornaments","Wilds Great Sword Stand",730
+1261,"Flags/Frames/Posters","Wilds Banner",730
+1262,"Windows","Lyhe Ghiah Stained Crystal Ornament",730
+1263,"Lighting","Everkeep Lamppost",730
+1264,"Chairs/Sofas","Cosmoseat",730
+1265,"Walls/Pillars/Partitions","Cosmokitchen Partition",730
+1266,"Miscellaneous","Portable Exoterminal",730
+1267,"Miscellaneous","Indoor Hunter's Grill",730
+1268,"Chairs/Sofas","Hunter's Lodge Chair",730

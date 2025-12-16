@@ -31,7 +31,7 @@ Lv. <Value>IntegerParameter(7)</Value>","<If(Equal(IntegerParameter(4),2))>Compl
 Lv. <Value>IntegerParameter(7)</Value>","Enter a treasure dungeon via a teleportation portal <Value>IntegerParameter(8)</Value> times.
 ※Treasure hunts abandoned midway through will not count toward the total.","","ui/icon/111000/111047.tex",0,,0,0,179
 15,"Eureka","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value>","Defeat <Value>IntegerParameter(8)</Value> notorious <If(Equal(IntegerParameter(8),1))>monster<Else/>monsters</If> in the Forbidden Land, Eureka.","",,0,,0,0,283
+Lv. <Value>IntegerParameter(7)</Value>","Defeat <Value>IntegerParameter(8)</Value> notorious <If(Equal(IntegerParameter(8),1))>monster<Else/>monsters</If> in <Sheet(PublicContent,IntegerParameter(5),3)/>.","",,0,,0,0,283
 16,"Save the Queen","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
 Lv. <Value>IntegerParameter(7)</Value>","Complete <Value>IntegerParameter(8)</Value> critical <If(Equal(IntegerParameter(8),1))>engagement<Else/>engagements</If> <If(Equal(IntegerParameter(5),27))>on the Bozjan southern front<Else/>in Zadnor</If>.","",,0,,0,0,735
 17,"The Masked Carnivale","<If(GreaterThan(IntegerParameter(1),0))>Masked Carnivale<Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))>Masked Carnivale<Else/>???</If>
@@ -39,8 +39,14 @@ Lv. <Value>IntegerParameter(7)</Value>","Complete a stage of the Masked Carnival
 18,"Island Sanctuary","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
 Lv. <Value>IntegerParameter(7)</Value>","Gather materials <Value>IntegerParameter(8)</Value> <If(Equal(IntegerParameter(8),1))>time<Else/>times</If> in <Sheet(ContentType,IntegerParameter(2),0)/>.","","ui/icon/101000/101184.tex",9323110,,70179,0,0
 19,"V&C Dungeon Finder","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value>","Complete <Sheet(InstanceContent,IntegerParameter(5),3)/> <Value>IntegerParameter(8)</Value> times.","","ui/icon/111000/111042.tex",0,,70182,0,0
+Lv. <Value>IntegerParameter(7)</Value>","Complete <Sheet(InstanceContent,IntegerParameter(5),3)/> <Value>IntegerParameter(8)</Value> times.","","ui/icon/111000/111042.tex",0,,0,0,0
 20,"Custom Deliveries","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
 Lv. <Value>IntegerParameter(7)</Value>","Complete any custom delivery <Value>IntegerParameter(8)</Value> times.","","ui/icon/111000/111048.tex",0,,67634,0,0
 21,"Society Quests","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
 Lv. <Value>IntegerParameter(7)</Value>","Complete any society daily quest <Value>IntegerParameter(8)</Value> times.","","ui/icon/111000/111049.tex",0,,66488,0,0
+22,"PvP","<If(GreaterThan(IntegerParameter(1),0))>Crystalline Conflict<Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))>Crystalline Conflict<Else/>???</If>
+Lv. <Value>IntegerParameter(7)</Value>","Participate in a casual match of Crystalline Conflict.","","ui/icon/112000/112471.tex",0,,0,0,835
+23,"Gold Saucer","<If(GreaterThan(IntegerParameter(1),0))>Chocobo Racing<Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))>Chocobo Racing<Else/>???</If>
+Lv. <Value>IntegerParameter(7)</Value>","Participate in <Value>IntegerParameter(8)</Value> chocobo races.","","ui/icon/112000/112295.tex",0,,66101,0,0
+24,"Wondrous Tails","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
+Lv. <Value>IntegerParameter(7)</Value>","Collect <Value>IntegerParameter(8)</Value> seals for Wondrous Tails.","","ui/icon/111000/111050.tex",6526530,,67928,0,0

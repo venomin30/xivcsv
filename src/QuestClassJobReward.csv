@@ -453,3 +453,32 @@ int32,ClassJobCategory,Item,Item,Item,Item,byte,byte,byte,byte,Item,Item,Item,It
 34.18,"SGE","Phantom Pendulums Penumbrae","","","",1,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
 34.19,"VPR","Phantom Twinfangs Penumbrae","","","",1,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
 34.20,"PCT","Phantom Flat Brush Penumbrae","","","",1,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+35.0,"PLD","Phantom Sword Umbrae","Phantom Kite Shield Umbrae","","",1,1,0,0,"Phantom Sword Penumbrae","Phantom Kite Shield Penumbrae","","",0,0,1,1,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+35.1,"MNK","Phantom Knuckles Umbrae","","","",1,0,0,0,"Phantom Knuckles Penumbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+35.2,"WAR","Phantom Bardiche Umbrae","","","",1,0,0,0,"Phantom Bardiche Penumbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+35.3,"DRG","Phantom Spear Umbrae","","","",1,0,0,0,"Phantom Spear Penumbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+35.4,"BRD","Phantom Harp Bow Umbrae","","","",1,0,0,0,"Phantom Harp Bow Penumbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+35.5,"WHM","Phantom Crook Umbrae","","","",1,0,0,0,"Phantom Crook Penumbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+35.6,"BLM","Phantom Staff Umbrae","","","",1,0,0,0,"Phantom Staff Penumbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+35.7,"SMN","Phantom Index Umbrae","","","",1,0,0,0,"Phantom Index Penumbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+35.8,"SCH","Phantom Codex Umbrae","","","",1,0,0,0,"Phantom Codex Penumbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+35.9,"NIN","Phantom Cleavers Umbrae","","","",1,0,0,0,"Phantom Cleavers Penumbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+35.10,"DRK","Phantom Guillotine Umbrae","","","",1,0,0,0,"Phantom Guillotine Penumbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+35.11,"MCH","Phantom Arquebus Umbrae","","","",1,0,0,0,"Phantom Arquebus Penumbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+35.12,"AST","Phantom Star Globe Umbrae","","","",1,0,0,0,"Phantom Star Globe Penumbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+35.13,"SAM","Phantom Blade Umbrae","","","",1,0,0,0,"Phantom Blade Penumbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+35.14,"RDM","Phantom Rapier Umbrae","","","",1,0,0,0,"Phantom Rapier Penumbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+35.15,"GNB","Phantom Bayonet Umbrae","","","",1,0,0,0,"Phantom Bayonet Penumbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+35.16,"DNC","Phantom Terpna Umbrae","","","",1,0,0,0,"Phantom Terpna Penumbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+35.17,"RPR","Phantom War Scythe Umbrae","","","",1,0,0,0,"Phantom War Scythe Penumbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+35.18,"SGE","Phantom Pendulums Umbrae","","","",1,0,0,0,"Phantom Pendulums Penumbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+35.19,"VPR","Phantom Twinfangs Umbrae","","","",1,0,0,0,"Phantom Twinfangs Penumbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+35.20,"PCT","Phantom Flat Brush Umbrae","","","",1,0,0,0,"Phantom Flat Brush Penumbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+36.0,"CRP","Yok Huy Ward","Wind Crystal","","",1,35,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+36.1,"BSM","Yok Huy Ward","Fire Crystal","","",1,35,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+36.2,"ARM","Yok Huy Ward","Ice Crystal","","",1,35,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+36.3,"GSM","Yok Huy Ward","Wind Crystal","","",1,35,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+36.4,"LTW","Yok Huy Ward","Earth Crystal","","",1,35,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+36.5,"WVR","Yok Huy Ward","Lightning Crystal","","",1,35,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+36.6,"ALC","Yok Huy Ward","Water Crystal","","",1,35,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+36.7,"CUL","Yok Huy Ward","Fire Crystal","","",1,35,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True

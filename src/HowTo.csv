@@ -21,7 +21,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 17,"Linkshells",True,"ui/icon/151000/en/151171.tex","ui/icon/151000/en/151172.tex","","","","","","","","","Adventuring Basics",11
 18,"Gear",True,"ui/icon/150000/en/150181.tex","ui/icon/150000/en/150182.tex","","","","ui/icon/150000/en/150181.tex","ui/icon/150000/en/150182.tex","","","","Gear",1
 19,"Aethernet",True,"ui/icon/150000/en/150191.tex","","","","","","","","","","Movement",3
-20,"Shops",True,"ui/icon/150000/en/150201.tex","ui/icon/150000/en/150202.tex","","","","ui/icon/150000/en/150201.tex","ui/icon/150000/en/150202.tex","","","","Items",5
+20,"Shops",True,"ui/icon/150000/en/150201.tex","ui/icon/150000/en/150202.tex","","","","ui/icon/150000/en/150201.tex","ui/icon/150000/en/150202.tex","","","","Items",6
 21,"The Armoire",True,"ui/icon/151000/en/151521.tex","ui/icon/151000/en/151522.tex","","","","","","","","","Gear",11
 22,"Moogle Delivery Service",True,"ui/icon/150000/en/150221.tex","ui/icon/150000/en/150222.tex","","","","ui/icon/150000/en/150221.tex","ui/icon/150000/en/150222.tex","","","","Adventuring Basics",8
 23,"Finding Mature Trees",True,"ui/icon/150000/en/150231.tex","ui/icon/150000/en/150232.tex","ui/icon/150000/en/150233.tex","","","ui/icon/150000/en/150231.tex","ui/icon/150000/en/150232.tex","ui/icon/150000/en/150233.tex","","","Gathering",3
@@ -58,7 +58,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 54,"Gathering Point Characteristics",True,"ui/icon/150000/en/150541.tex","ui/icon/150000/en/150542.tex","","","","","","","","","Gathering",22
 55,"Unspoiled Locations",True,"ui/icon/151000/en/151221.tex","ui/icon/151000/en/151222.tex","ui/icon/151000/en/151223.tex","","","","","","","","Gathering",30
 56,"",False,"","","","","","","","","","","None",0
-57,"Clearing Instanced Raids",True,"ui/icon/150000/en/150572.tex","ui/icon/150000/en/150573.tex","ui/icon/150000/en/150574.tex","","","","","","","","Duty",3
+57,"Clearing Instanced Raids",True,"ui/icon/150000/en/150572.tex","ui/icon/150000/en/150573.tex","ui/icon/150000/en/150574.tex","","","","","","","","Duty",4
 58,"Material Condition",True,"ui/icon/150000/en/150581.tex","ui/icon/150000/en/150582.tex","","","","","","","","","Crafting",4
 59,"",False,"","","","","","","","","","","None",0
 60,"High-quality Items",True,"ui/icon/150000/en/150601.tex","ui/icon/150000/en/150602.tex","","","","","","","","","Items",2
@@ -94,7 +94,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 90,"Expert Delivery Missions",True,"ui/icon/150000/en/150951.tex","ui/icon/150000/en/150952.tex","","","","","","","","","Grand Companies",4
 91,"Free Companies",True,"ui/icon/150000/en/150961.tex","ui/icon/150000/en/150962.tex","ui/icon/150000/en/150963.tex","","","","","","","","Free Companies",1
 92,"Limit Break",True,"ui/icon/150000/en/150971.tex","ui/icon/150000/en/150972.tex","ui/icon/150000/en/150973.tex","ui/icon/150000/en/150974.tex","","","","","","","Battle",13
-93,"Level Sync",True,"ui/icon/150000/en/150981.tex","ui/icon/150000/en/150982.tex","ui/icon/150000/en/150983.tex","","","","","","","","Duty",4
+93,"Level Sync",True,"ui/icon/150000/en/150981.tex","ui/icon/150000/en/150982.tex","ui/icon/150000/en/150983.tex","","","","","","","","Duty",5
 94,"Jobs",True,"ui/icon/150000/en/150991.tex","ui/icon/150000/en/150992.tex","ui/icon/150000/en/150993.tex","","","","","","","","Adventuring Basics",10
 95,"Dyeing",True,"ui/icon/151000/en/151001.tex","ui/icon/151000/en/151002.tex","ui/icon/151000/en/151003.tex","ui/icon/151000/en/151004.tex","","","","","","","Gear",8
 96,"Fighting with Your Chocobo",True,"ui/icon/151000/en/151151.tex","ui/icon/151000/en/151152.tex","","","","","","","","","Battle",21
@@ -138,7 +138,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 134,"",False,"","","","","","","","","","","None",0
 135,"Fishing",True,"ui/icon/151000/en/151311.tex","ui/icon/151000/en/151312.tex","","","","","","","","","Fishing",2
 136,"Armoury Bonus",True,"ui/icon/151000/en/151441.tex","ui/icon/151000/en/151442.tex","","","","","","","","","Battle",14
-137,"Allagan Tomestones",True,"ui/icon/151000/en/151451.tex","ui/icon/151000/en/151452.tex","","","","","","","","","Items",6
+137,"Allagan Tomestones",True,"ui/icon/151000/en/151451.tex","ui/icon/151000/en/151452.tex","","","","","","","","","Items",7
 138,"Using Items on Areas",True,"ui/icon/151000/en/151471.tex","","","","","ui/icon/151000/en/151472.tex","","","","","Quests",8
 139,"Using Key Items on Targets",True,"ui/icon/151000/en/151501.tex","ui/icon/151000/en/151502.tex","","","","ui/icon/151000/en/151504.tex","ui/icon/151000/en/151502.tex","","","","Quests",9
 140,"",False,"","","","","","","","","","","None",0
@@ -155,8 +155,8 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 151,"Finding Treasure",True,"ui/icon/151000/en/151631.tex","ui/icon/151000/en/151632.tex","ui/icon/151000/en/151633.tex","","","","","","","","Items",33
 152,"Allied Society Quests",True,"ui/icon/151000/en/151641.tex","ui/icon/151000/en/151642.tex","ui/icon/151000/en/151643.tex","","","","","","","","Quests",21
 153,"Reputation",True,"ui/icon/151000/en/151651.tex","ui/icon/151000/en/151652.tex","ui/icon/151000/en/151653.tex","","","","","","","","Quests",22
-154,"Transporting",True,"ui/icon/151000/en/151661.tex","ui/icon/151000/en/151661.tex","","","","","","","","","Quests",23
-155,"Transparency",True,"ui/icon/151000/en/151671.tex","ui/icon/151000/en/151672.tex","","","","","","","","","Quests",24
+154,"",False,"","","","","","","","","","","None",0
+155,"",False,"","","","","","","","","","","None",0
 156,"The Pet Hotbar",True,"ui/icon/151000/en/151681.tex","","","","","ui/icon/151000/en/151682.tex","","","","","Quests",25
 157,"Aesthetician",True,"ui/icon/151000/en/151691.tex","ui/icon/151000/en/151692.tex","","","","","","","","","Adventuring Basics",15
 158,"The Duty Roulette",True,"ui/icon/151000/en/151701.tex","ui/icon/151000/en/151702.tex","","","","","","","","","Duty",24
@@ -180,7 +180,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 176,"Frontline",True,"ui/icon/151000/en/151901.tex","","","","","","","","","","Duty",34
 177,"Repairing Your Own Gear",True,"ui/icon/151000/en/151881.tex","ui/icon/151000/en/151882.tex","","","","","","","","","Gear",7
 178,"Sightseeing Log",True,"ui/icon/151000/en/151891.tex","ui/icon/151000/en/151892.tex","","","","ui/icon/151000/en/151893.tex","ui/icon/151000/en/151892.tex","","","","Duty",7
-179,"Allied Seals",True,"ui/icon/151000/en/151911.tex","ui/icon/151000/en/151912.tex","","","","","","","","","Items",7
+179,"Allied Seals",True,"ui/icon/151000/en/151911.tex","ui/icon/151000/en/151912.tex","","","","","","","","","Items",8
 180,"Toy Chest",True,"ui/icon/151000/en/151931.tex","","","","","","","","","","Duty",60
 181,"Artillery",True,"ui/icon/151000/en/151921.tex","ui/icon/151000/en/151922.tex","","","","","","","","","Quests",26
 182,"Releasing Fish",True,"ui/icon/151000/en/151941.tex","ui/icon/151000/en/151942.tex","","","","","","","","","Fishing",9
@@ -189,7 +189,7 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 185,"Ixal Quests",True,"ui/icon/151000/en/151971.tex","ui/icon/151000/en/151972.tex","","","","","","","","","Quests",27
 186,"Ehcatl Nine Delivery Quests",True,"ui/icon/151000/en/151981.tex","ui/icon/151000/en/151982.tex","ui/icon/151000/en/151983.tex","","","","","","","","Quests",28
 187,"",False,"","","","","","","","","","","None",0
-188,"Transfiguration",True,"ui/icon/152000/en/152001.tex","ui/icon/152000/en/152001.tex","","","","","","","","","Quests",29
+188,"",False,"","","","","","","","","","","None",0
 189,"Soulglazing",True,"ui/icon/152000/en/152011.tex","ui/icon/152000/en/152012.tex","ui/icon/152000/en/152013.tex","ui/icon/152000/en/152014.tex","","","","","","","Gear",33
 190,"Fish Population",True,"ui/icon/152000/en/152061.tex","ui/icon/152000/en/152062.tex","","","","","","","","","Fishing",10
 191,"Fish and Weather",True,"ui/icon/152000/en/152071.tex","","","","","","","","","","Fishing",11
@@ -267,11 +267,11 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 263,"Multi-seat Mounts",True,"ui/icon/152000/en/152751.tex","","","","","","","","","","Movement",22
 264,"World Visit",True,"ui/icon/152000/en/152761.tex","ui/icon/152000/en/152762.tex","","","","","","","","","Movement",10
 265,"Blue Magic",True,"ui/icon/152000/en/152771.tex","ui/icon/152000/en/152772.tex","ui/icon/152000/en/152773.tex","ui/icon/152000/en/152774.tex","ui/icon/152000/en/152775.tex","ui/icon/152000/en/152771.tex","ui/icon/152000/en/152776.tex","ui/icon/152000/en/152773.tex","ui/icon/152000/en/152774.tex","ui/icon/152000/en/152775.tex","Battle",64
-266,"Bicolor Gemstones",True,"ui/icon/152000/en/152781.tex","ui/icon/152000/en/152782.tex","ui/icon/152000/en/152783.tex","","","ui/icon/152000/en/152781.tex","ui/icon/152000/en/152782.tex","ui/icon/152000/en/152784.tex","","","Duty",2
+266,"Bicolor Gemstones",True,"ui/icon/152000/en/152781.tex","ui/icon/152000/en/152782.tex","ui/icon/152000/en/152783.tex","","","ui/icon/152000/en/152781.tex","ui/icon/152000/en/152782.tex","ui/icon/152000/en/152784.tex","","","Duty",3
 267,"Fishing and Regional Folklore",True,"ui/icon/152000/en/152791.tex","ui/icon/152000/en/152792.tex","","","","","","","","","Fishing",13
 268,"Swimming Shadows",True,"ui/icon/152000/en/152801.tex","ui/icon/152000/en/152802.tex","","","","","","","","","Fishing",12
 269,"Collection",True,"ui/icon/152000/en/152811.tex","","","","","ui/icon/152000/en/152812.tex","","","","","Adventuring Basics",27
-270,"Expert Recipes",True,"ui/icon/152000/en/152821.tex","","","","","","","","","","Crafting",11
+270,"Expert Recipes",True,"ui/icon/152000/en/152821.tex","ui/icon/152000/en/152822.tex","","","","","","","","","Crafting",11
 271,"Patience",True,"ui/icon/152000/en/152831.tex","ui/icon/152000/en/152832.tex","","","","","","","","","Fishing",14
 272,"Fashion Accessories",True,"ui/icon/152000/en/152841.tex","ui/icon/152000/en/152842.tex","","","","","","","","","Adventuring Basics",28
 273,"",False,"","","","","","","","","","","None",0
@@ -290,8 +290,8 @@ int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,How
 286,"Scenario Guide",True,"ui/icon/152000/en/152961.tex","ui/icon/152000/en/152962.tex","","","","","","","","","Quests",7
 287,"Special Recipes",True,"ui/icon/152000/en/152971.tex","ui/icon/152000/en/152972.tex","","","","","","","","","Crafting",22
 288,"Phantom Actions",True,"ui/icon/152000/en/152981.tex","ui/icon/152000/en/152982.tex","ui/icon/152000/en/152983.tex","","","ui/icon/152000/en/152981.tex","ui/icon/152000/en/152982.tex","ui/icon/152000/en/152983.tex","","","Duty",56
-289,"",False,"","","","","","","","","","","None",0
-290,"",False,"","","","","","","","","","","None",0
+289,"Vault Oneiron",True,"ui/icon/151000/en/151011.tex","ui/icon/151000/en/151012.tex","ui/icon/151000/en/151013.tex","ui/icon/151000/en/151014.tex","","","","","","","Items",36
+290,"Phoenix Down",True,"ui/icon/150000/en/150911.tex","ui/icon/150000/en/150912.tex","ui/icon/150000/en/150913.tex","ui/icon/150000/en/150914.tex","","","","","","","Items",5
 291,"",False,"","","","","","","","","","","None",0
 292,"",False,"","","","","","","","","","","None",0
 293,"",False,"","","","","","","","","","","None",0

@@ -262,3 +262,23 @@ int32,CSBonusContentType,CSBonusContentIdentifier,CSBonusContentIdentifier,uint1
 258,"Raids","InstanceContent#30128","",0,1,-1,-1,-1,-1,20,0,0,0,0
 259,"Raids","InstanceContent#30130","",0,1,-1,-1,-1,-1,20,0,0,0,0
 260,"Raids","InstanceContent#30132","",0,1,-1,-1,-1,-1,20,0,0,0,0
+261,"Dungeons","InstanceContent#17","",0,-1,-1,-1,-1,-1,4,0,0,0,0
+262,"Dungeons","InstanceContent#18","",0,-1,-1,-1,-1,-1,4,0,0,0,0
+263,"Dungeons","InstanceContent#45","",0,-1,-1,-1,-1,-1,4,0,0,0,0
+264,"Dungeons","InstanceContent#47","",0,-1,-1,-1,-1,-1,4,0,0,0,0
+265,"Raids","InstanceContent#30029","",0,-1,-1,-1,-1,-1,4,0,0,0,0
+266,"Raids","InstanceContent#30038","",0,-1,-1,-1,-1,-1,5,0,0,0,0
+267,"Raids","InstanceContent#30047","",0,-1,-1,-1,-1,-1,7,0,0,0,0
+268,"Dungeons","InstanceContent#17","",0,1,-1,-1,-1,-1,20,0,0,0,0
+269,"Dungeons","InstanceContent#18","",0,1,-1,-1,-1,-1,20,0,0,0,0
+270,"Dungeons","InstanceContent#45","",0,1,-1,-1,-1,-1,20,0,0,0,0
+271,"Dungeons","InstanceContent#47","",0,1,-1,-1,-1,-1,20,0,0,0,0
+272,"Raids","InstanceContent#30029","",0,1,-1,-1,-1,-1,20,0,0,0,0
+273,"Raids","InstanceContent#30038","",0,1,-1,-1,-1,-1,20,0,0,0,0
+274,"Raids","InstanceContent#30047","",0,1,-1,-1,-1,-1,20,0,0,0,0
+275,"V&C Dungeon Finder","InstanceContent#36002","",0,6,-1,-1,-1,-1,70,0,0,0,0
+276,"Wondrous Tails","","",0,3,-1,-1,-1,-1,10,0,0,0,0
+277,"Gold Saucer","","",0,3,-1,-1,-1,-1,10,0,0,0,0
+278,"PvP","","",0,1,-1,-1,-1,-1,10,0,0,0,0
+279,"Triple Triad","Wawalago","",0,1,-1,-1,-1,-1,10,0,0,0,0
+280,"Fishing","Dream Goby","",0,1,-1,-1,-1,-1,10,0,0,0,0

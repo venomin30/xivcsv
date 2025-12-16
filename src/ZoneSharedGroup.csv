@@ -273,18 +273,31 @@ int32,uint32,byte,Quest,uint32,bool,byte,Quest,uint32,bool,byte,Quest,uint32,boo
 54.1,11741016,1," Cultivating Hope",0,False,1," Doppro Tradition",0,False,1," A Hoobigo's Return",0,False,1," The Boon of Boonewa",0,False,1," A New Yak T'el",0,False,0,,0,False,0,0,0,False
 55.0,10399297,2,"The Protector and the Destroyer",3,False,2,"Dawntrail",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 55.1,10558455,1,"Dawntrail",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-55.2,10968008,2,"Alexandria Mourns",2,False,2,"Crossroads",5,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+55.2,10968008,2,"Alexandria Mourns",2,False,2,"Crossroads",5,False,2,"A Darkness in the Heart",255,False,2,"A Terminal Invitation",6,False,0,,0,False,0,,0,False,0,0,0,False
 56.0,10511646,2,"And the Land Would Tremble",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 56.1,9872339,2,"And the Land Would Tremble",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 56.2,10746983,2,"In Yyasulani's Shadow",2,False,2,"The Protector and the Destroyer",1,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 56.3,10510357,2,"A Hot Commodity",255,False,2,"All Aboard",3,False,2,"The Warmth of Family",255,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 56.4,10515675,2,"All Aboard",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 57.0,10617550,2,"Solution Nine",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-58.0,10591852,2,"In Serenity and Sorrow",9,False,2,"In Serenity and Sorrow",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-58.1,10591856,2,"A Knight of Alexandria",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-58.2,10613110,2,"Leafing through the Past",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-58.3,10613109,2,"A Journey Never-ending",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-58.4,10596151,2,"Dawntrail",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
-58.5,10109854,2,"A Knight of Alexandria",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+57.1,11861199,2,"Blades in Waiting",4,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+58.0,10591852,2,"In Serenity and Sorrow",9,False,2,"In Serenity and Sorrow",255,False,2,"The Promise of Tomorrow",2,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+58.1,10591856,2,"A Knight of Alexandria",255,False,2,"The Promise of Tomorrow",2,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+58.2,10613110,2,"Leafing through the Past",255,False,2,"The Promise of Tomorrow",2,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+58.3,10613109,2,"A Journey Never-ending",255,False,2,"The Promise of Tomorrow",2,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+58.4,10596151,2,"Dawntrail",255,False,2,"One of Our Own",255,False,2,"The Promise of Tomorrow",2,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+58.5,10109854,2,"A Knight of Alexandria",255,False,2,"The Promise of Tomorrow",2,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 58.6,0,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
 59.0,11622293,1,"The Ancient Arts of War",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+60.0,11849003,2,"A Calculated Evolution",3,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+60.1,11849052,2,"Preservation Their Purpose",5,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+60.2,11849207,2,"Preservation Their Purpose",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+60.3,11849254,2,"A Calculated Evolution",8,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+60.4,11850862,2,"Preservation Their Purpose",8,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+60.5,11851720,2,"A Calculated Evolution",4,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+60.6,11851722,2,"Preservation Their Purpose",9,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+60.7,11851723,2,"A Calculated Evolution",1,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+61.0,11986969,1," Frosty Neighbors",0,False,1," Still as Stone",0,False,1," Buried Memories",0,False,1," The Pact",0,False,1," Forged in Corn",0,False,0,,0,False,0,0,0,False
+62.0,11863576,2,"Spreading the Warmth and Cheer",7,False,2,"We Three Kinderpunsch",1,False,2,"We Three Kinderpunsch",5,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+62.1,12001802,2,"We Three Kinderpunsch",255,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False
+63.0,11877921,1,"Aether, Aether, Everywhere",0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,,0,False,0,0,0,False

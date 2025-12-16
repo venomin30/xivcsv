@@ -1107,7 +1107,7 @@ From <Emphasis>O'er Westward Seas</Emphasis>
 1095,"This turtle's subtle shell allows it to become one with the bleak and barren lunar surface. Loporrits enjoy attempting to convince unsuspecting people that the moon itself is simply a large accretion of these turtles─though this is, of course, a fiction.","","","","Regotoise","GatheringItemLevelConvertTable#540",0,6000,False,"Aetherochemical Pools","The Frozen Fissure",,True,0
 1096,"It is the leaf-shaped dorsal fin that allows this creature to catch the wind and hop from island to floating island in Elpis. Some, however, are unable to ride the winds as well as others, and thus drop clean out of the sky to land on the ground, where they flop about impotently.","","","","Isle Skipper","GatheringItemLevelConvertTable#534",0,6000,False,"Rivers","Rumination's Ramble",,True,0
 1097,"When this multicolored wavekin leaps from the water's surface, its brilliant scales reflect sunlight through the misty spray in its wake, making it appear as if it is climbing a rainbow to the sky.","","","","Iribainion","GatheringItemLevelConvertTable#534",0,6000,False,"Rivers","Rumination's Ramble",,True,0
-1098,"This variety of golden loach was born quite by accident in the Cthonic Horns. Sadly, every attempt at registering its concept has been met with skepticism, as the wavekin is far too susceptible to predation.","","","","Albino Loach","GatheringItemLevelConvertTable#540",0,6000,False,"Rivers","Rumination's Ramble",,True,0
+1098,"This variety of golden loach was born quite by accident in the Chthonic Horns. Sadly, every attempt at registering its concept has been met with skepticism, as the wavekin is far too susceptible to predation.","","","","Albino Loach","GatheringItemLevelConvertTable#540",0,6000,False,"Rivers","Rumination's Ramble",,True,0
 1099,"Created strictly for aesthetic purposes, this wavekin's glimmering scales cast a brilliant effect across the water's surface, rendering the fish's own beauty sadly dull by comparison.","","","","Golden Shiner","GatheringItemLevelConvertTable#540",0,6000,False,"Rivers","Rumination's Ramble",,True,0
 1100,"Stout and thick, this golden wavekin looks more like an ingot with fins than a fish. Residents of Elpis, however, do not ascribe any particular importance to gold, and thus the mangar's extravagance is largely lost on them.","","","","Mangar","GatheringItemLevelConvertTable#570",0,6000,False,"Rivers","Rumination's Ramble","Ancient Fishing Folklore",True,0
 1101,"What this wavekin lacks in size is made up for in silvery luster. However, as its shine is the product of the luminescent microbial parasites covering its scales rather than its natural coloration─a dull dirt brown─it is hard to credit the fish's creator for their aesthetic sensibilities.","","","","Dermogenys","GatheringItemLevelConvertTable#540",0,6000,False,"Lakes","The Lower Hungering Gardens",,True,0
@@ -1123,7 +1123,7 @@ From <Emphasis>O'er Westward Seas</Emphasis>
 1111,"Similar to what men might call “chirurgeon fish,” these wavekin can be found attached to the scales of grown wyrms, nibbling away at the parasites upon which they feed and other detritus.","","","","Dragonscale","GatheringItemLevelConvertTable#554",0,6000,False,"Aetherochemical Pools","Apohelos 18-α",,True,0
 1112,"Meteion made contact with these life-forms somewhere in the cosmos. One theory posits that they are all that remains of a once-sentient race whose mental faculties were obliterated through some arcane mischance.","","","","Ypupîara","GatheringItemLevelConvertTable#560",0,6000,False,"Aetherochemical Pools","Apohelos 18-α",,True,0
 1113,"A predator capable of swallowing a dragon egg whole. With no such eggs available to it, it now mindlessly swims aetherochemical springs, jaw slack and mouth agape.","","","","Eehs Forhnesh","GatheringItemLevelConvertTable#560",0,6000,False,"Aetherochemical Pools","Apohelos 18-α",,True,0
-1114,"The flecks of white on this wavekin's azure body sparkle as it moves. Its multiple layers of scales are not unlike a telescope, reflecting the image of galaxies located thousands of light-years away.","","","","Katoptron","GatheringItemLevelConvertTable#560",0,6000,False,"Lakes","The Wellspring of Regret",,True,0
+1114,"The flecks of white on this wavekin's azure body sparkle as it moves. Its multiple layers of scales are not unlike a telescope, reflecting the image of unfathomably distant galaxies.","","","","Katoptron","GatheringItemLevelConvertTable#560",0,6000,False,"Lakes","The Wellspring of Regret",,True,0
 1115,"Protruding red gills are the most aesthetically pleasing of this wavekin's many and varied respiratory organs, which allow it to survive in a variety of environs. Scholars insist that they are the result of direct exposure to highly concentrated aether following the collision of two celestial bodies, rather than a duller process such as evolution.","","","","Comet Tail","GatheringItemLevelConvertTable#560",0,6000,False,"Lakes","The Wellspring of Regret",,True,0
 1116,"Atrophied optic nerves force this creature to use the faint electricity encasing its body to map its surroundings. The pulsating frequency that results echoes to the deepest reaches of the cosmos like an endless dirge.","","","","Aoide","GatheringItemLevelConvertTable#560",0,6000,False,"Lakes","The Wellspring of Regret",,True,0
 1117,"Developed by the Ea to test the viability of returning to flesh-based bodies, this specimen was likely modeled after one of the few organic beings its creators managed to remember.","","","","Protoflesh","GatheringItemLevelConvertTable#560",0,6000,False,"Lakes","The Wellspring of Regret",,True,0
@@ -1447,17 +1447,25 @@ From <Emphasis>O'er Westward Seas</Emphasis>
 1435,"This aquatic invertebrate was named for the hexagonal pores in its spongin mesh. Once its living cells have been cruelly stripped away, its skeletal remains can be used to create luxurious lathers with the soap of one's choice.","","","","Honeycomb Sponge","GatheringItemLevelConvertTable#650",0,7000,False,"Rivers","Miyakabek'zoma",,True,0
 1436,"The thick shell of this wavekin, found only in saltwater cenotes, is pulverized and added to soil to improve its drainage. Historically, this has saved countless structures from damage during heavy rain.","","","","Cenote Oyster","GatheringItemLevelConvertTable#655",0,7000,False,"Lakes","Bitterbark Cenote",,True,0
 1437,"Compared to its timid lesser brethren, this wavekin is bestowed with a positively brazen temperament, and is often spotted leading shoals around the shallows near the For'ard Cabins with a self-assured grace. Guests have likened its presence to that of a conscientious, well-versed caretaker.","","","","Cabinkeep Permit","GatheringItemLevelConvertTable#730",0,7000,True,"Coastlines","The For'ard Cabins","Yok Turali Fishing Folklore",True,1145
-1438,"As pleated matamata age, their shells continue to grow indefinitely. According to legend, the largest and most ancient specimens eventually fuse with the landscape, blocking rivers in the process─the once mighty roar of water reduced to a mere muttering. Though naturalists have yet to observe the phenomena in the wild, this specimen renders the tales believable.","","","","Muttering Matamata","GatheringItemLevelConvertTable#730",0,7000,True,"Lakes","Bopo'uihih","Yok Turali Fishing Folklore",True,1145
+1438,"As pleated matamata age, their shells continue to grow indefinitely. According to legend, the largest and most ancient specimens eventually fuse with the landscape, blocking rivers in the process─the once-mighty roar of water reduced to a mere muttering. Though naturalists have yet to observe the phenomena in the wild, this specimen renders the tales believable.","","","","Muttering Matamata","GatheringItemLevelConvertTable#730",0,7000,True,"Lakes","Bopo'uihih","Yok Turali Fishing Folklore",True,1145
 1439,"Capable of singlehandedly reducing the largest of predators to naught but a pile of polished bones, this wavekin combines the voraciousness of its kin with an independent tenacity that is chilling to behold.","","","","Riverlong Candiru","GatheringItemLevelConvertTable#730",0,7000,True,"Rivers","Miyakabek'zu","Yok Turali Fishing Folklore",True,1145
 1440,"The rhomboid form of this pale yellow fish closely resembles fallen foliage. Indeed, local folklore tells of leaves borne on the wind morphing into wavekin after alighting on the surface of the Iq Br'aax reservoir.","","","","Deep Canopy","GatheringItemLevelConvertTable#730",0,7000,True,"Lakes","Iq Br'aax Reservoir","Yok Turali Fishing Folklore",True,1145
 1441,"Despite being considerably larger than other apoda, this ancient amphibian's chief form of defense remains the same: secreting a highly toxic slime. Unlike its smaller cousins, however, it produces toxins in such quantities as to blight the waters of the tsoly it calls home.","","","","Awaksbane Apoda","GatheringItemLevelConvertTable#730",0,7000,True,"Lakes","Yak Awak Tsoly","Yok Turali Fishing Folklore",True,1145
 1442,"The dense black roe laid by this wavekin sink down to the substrate where it spends much of its time. Known in the Hhetsarro tongue as the “swallower of dawn,” to witness this wavekin's gaping maw loom up from the depths of Lake Toari is to keenly understand the origins of its name.","","","","Ttokatoa","GatheringItemLevelConvertTable#730",0,7000,True,"Lakes","Lake Toari","Xak Turali Fishing Folklore",True,1145
 1443,"When the scales of this flat fish catch the light, they appear to coruscate with electrical energy. This startling effect is all the more pronounced when lightning strikes nearby.","","","","Thunderous Flounder","GatheringItemLevelConvertTable#730",0,7000,True,"Rivers","Crackling Canyons","Alexandrian Fishing Folklore",True,1145
 1444,"Routinely observed leading retinues of harlequin lancers with magnanimous poise, this regal wavekin lashes out with its venomous barbels to fell prey with deadly precision.","Whip-like barbels unfurl near the water's surface!","The whip-like barbels slink out of view...","You reel in the whip-like barbels and their indignant owner!","Harlequin Queen","GatheringItemLevelConvertTable#730",0,7000,True,"Lakes","The Knowable","Alexandrian Fishing Folklore",True,1145
-1445,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1446,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1447,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
-1448,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1445,"Struck daily by the lightning that pours into the crackling canyons, this eel is valued for its delicate-yet-flavorful flesh that notably numbs the tongue with an electrifying spiciness.","","","","Goldentail","GatheringItemLevelConvertTable#730",0,7000,True,"Rivers","Crackling Canyons","Alexandrian Fishing Folklore",True,0
+1446,"It is believed that in the basin's pristine depths, the currents churned by Ku'uxage's falls transform themselves into aether-rich wavekin. Thus does the purple palate surely share the refined tastes of its Ku'uxage parent-waters' grand “tongue.”","","","","Purple Palate","GatheringItemLevelConvertTable#730",0,7000,True,"Rivers","Ku'uxage","Yok Turali Fishing Folklore",True,0
+1447,"This carefree ray lives happily amongst the clouds, guided only by the wind and its own sense of adventure. Not even capture can unsettle its insouciance, as it tends to bond with the fisher that reels it in.","","","","Sunray Ray","GatheringItemLevelConvertTable#730",0,7000,True,"Skies","Westbound Zorgor",,True,0
+1448,"With a lifespan that exceeds even that of Yok Huy, this enormous wavekin commands the depths of Karvarhur the First while robed in thick swaths of lichen that bespeak its ancient legacy.","","","","Prime Adjudicator","GatheringItemLevelConvertTable#730",0,7000,True,"Lakes","Karvarhur the First","Yok Turali Fishing Folklore",True,1145
+1449,"This large specimen of crenicichla dominates the shoreline waters of Miyakabek'zoma, boasting the elegant and unmarred fins of an absolute victor.","An impetuous challenger stirs in the water!","The impetuous challenger loses interest in you...","You reel in the impetuous challenger!","Crenicichla Miyaka","GatheringItemLevelConvertTable#730",0,7000,True,"Rivers","The Dewspun Bank","Yok Turali Fishing Folklore",True,1145
+1450,"While the skins of related species can be processed into armor, the sable scales of this primordial wavekin boast even greater toughness, and are sturdy enough to substitute as weaponry without alteration.","","","","Iron Shadowtongue","GatheringItemLevelConvertTable#730",0,7000,True,"Lakes","Iq Rrax Tsoly","Yok Turali Fishing Folklore",True,1145
+1451,"Said to spring forth from sunbeams as radiant droplets, these wavekin are worth their weight in gold, for they have long been considered the ideal gift to ingratiate oneself with those in high places.","","","","Lotl-in-waiting","GatheringItemLevelConvertTable#730",0,7000,True,"Lakes","Xobr'it Tsoly","Yok Turali Fishing Folklore",True,1145
+1452,"This acrobatic wavekin is often seen leaping skyward before plummeting straight and true into the mists it calls home. On one occasion, a particularly dextrous specimen found itself the target of a mysterious traveler's probing spear tip. Predicting a swift skewering, onlookers were instead treated to a dazzling aerial display as the creature nimbly evaded defeat.","","","","Azure Diver","GatheringItemLevelConvertTable#730",0,7000,True,"Skies","Eastbound Zorgor","Xak Turali Fishing Folklore",True,1145
+1453,"On closer inspection, the speckled markings that adorn this wavekin are actually bud-like protrusions. Any fish lured close by the apparition of a sprouting buffet usually find themselves on the menu instead.","","","","Sprouting Perch","GatheringItemLevelConvertTable#730",0,7000,True,"Rivers","Outskirts Shallows","Alexandrian Fishing Folklore",True,1145
+1454,"Boasting a cavernous set of lungs proportionate to their gargantuan size, these fish have been recorded subsisting on a single lungful of air before breaching the surface again. It is difficult to assess which is more impressive─the wavekin's physical attributes, or the patience of the naturalists who waited for days on end to make such an observation.","","","","Gigagiant Snakehead","GatheringItemLevelConvertTable#730",0,7000,True,"Lakes","Mu Springs Eternal","Alexandrian Fishing Folklore",True,1145
+1455,"This saltwater fish can be found languidly roaming the waterways of Canal Town, shoals of lesser wavekin in tow. To exert control over its territory, it plies the same routes back and forth with the consistency of a commercial ferry service.","","","","Gondola Louvar","GatheringItemLevelConvertTable#730",0,7000,True,"Deep Sea","Canal Town South","Alexandrian Fishing Folklore",True,1145
+1456,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
 15000,"","","","","Timeworn Leather Map","GatheringItemLevelConvertTable#36",0,0,False,"","Undiscovered Fishing Hole",,False,0
 15001,"","","","","Timeworn Goatskin Map","GatheringItemLevelConvertTable#41",0,0,False,"","Undiscovered Fishing Hole",,False,0
 15002,"","","","","Timeworn Toadskin Map","GatheringItemLevelConvertTable#46",0,0,False,"","Undiscovered Fishing Hole",,False,0
@@ -1932,3 +1940,232 @@ From <Emphasis>O'er Westward Seas</Emphasis>
 15471,"","","","","Crystalfish","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
 15472,"","","","","Freshwater Algae","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
 15473,"","","","","Tsoly Tea Grass","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15474,"","","","","Macrobrachium Phaennense","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15475,"","","","","Eelsplorer","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15476,"","","","","Lehr Brotula","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15477,"","","","","Glass Stitcher","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15478,"","","","","Glass Discus","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15479,"","","","","Opal Ammonite","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15480,"","","","","Pearl Shell","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15481,"","","","","Cobalt Bijou","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15482,"","","","","Untitled Work No. 33","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15483,"","","","","Macrobrachium Phaennense","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15484,"","","","","Eelsplorer","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15485,"","","","","Lehr Salamander","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15486,"","","","","Pearl Shell","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15487,"","","","","Cobalt Bijou","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15488,"","","","","Lampwork Cucumber","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15489,"","","","","Glass Stitcher","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15490,"","","","","Biodome","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15491,"","","","","Roseveil Bijou","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15492,"","","","","Macrobrachium Phaennense","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15493,"","","","","Eelsplorer","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15494,"","","","","Dark Expanse Catfish","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15495,"","","","","Light Expanse Catfish","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15496,"","","","","Glass Stitcher","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15497,"","","","","Glass Jellyfish","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15498,"","","","","Untitled Work No. 11","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15499,"","","","","Glass Ribbon-arm","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15500,"","","","","Macrobrachium Phaennense","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15501,"","","","","Eelsplorer","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15502,"","","","","Cosmocaecilian","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15503,"","","","","Lehr Carp","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15504,"","","","","Glass Stitcher","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15505,"","","","","Glass Discus","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15506,"","","","","Phaenna's Arrow","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15507,"","","","","Boro Bead","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15508,"","","","","Macrobrachium Phaennense","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15509,"","","","","Eelsplorer","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15510,"","","","","Gymnarchus","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15511,"","","","","Inlay Ray","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15512,"","","","","Pearl Shell","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15513,"","","","","Cobalt Bijou","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15514,"","","","","Bony Wraithfish","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15515,"","","","","Emeraldback","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15516,"","","","","Pearl Shell","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15517,"","","","","Cobalt Bijou","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15518,"","","","","Sandblaster","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15519,"","","","","Opal Shell","GatheringItemLevelConvertTable#50",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15520,"","","","","Frosted Shell","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15521,"","","","","Untitled Work No. 98","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15522,"","","","","Pendantfish","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15523,"","","","","Hammerhead Antiblaster","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15524,"","","","","Isosceles Cobalt","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15525,"","","","","Glass Dahlia","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15526,"","","","","Fishy Jellyfish","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15527,"","","","","Glass Skeleton","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15528,"","","","","Blue Pane","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15529,"","","","","Crystallized Throwstone","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15530,"","","","","White Starburst","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15531,"","","","","Skippingway","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15532,"","","","","Glass Coral","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15533,"","","","","Sun-purpled Tapestry","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15534,"","","","","Lime Impesctor","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15535,"","","","","Kissing Counterfeit","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15536,"","","","","Float Cloud","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15537,"","","","","Navy Coelacanth","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15538,"","","","","Iceglass Gar","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15539,"","","","","Moonstone Mora","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15540,"","","","","Untitled Work No. 288","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15541,"","","","","Desertingway","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15542,"","","","","Goldflake Sandfish","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15543,"","","","","Sandglass Glob","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15544,"","","","","Prismatic Moraine","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15545,"","","","","Glass Stitcher","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15546,"","","","","Glass Discus","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15547,"","","","","Isosceles Amethyst","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15548,"","","","","Iceglass Floe","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15549,"","","","","Super Starburst","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15550,"","","","","Pearl Shell","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15551,"","","","","Cobalt Bijou","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15552,"","","","","Kintsugi Chip","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15553,"","","","","Opalescent Stingship","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15554,"","","","","Untitled Work No. 288","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15555,"","","","","Desertingway","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15556,"","","","","Ammochronologist","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15557,"","","","","Polarized Eel","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15558,"","","","","Quicksand Mantaroid","GatheringItemLevelConvertTable#560",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15559,"","","","","Macrobrachium Phaennense","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15560,"","","","","Stellar Skink","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15561,"","","","","Star Crabtain","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15562,"","","","","Lehr Killifish","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15563,"","","","","Doomed Voyager","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15564,"","","","","Bottom-layer","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15565,"","","","","Potash Guppish","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15566,"","","","","Aurora Shell","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15567,"","","","","Untitled Work No. 66","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15568,"","","","","Imitation Engraver","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15569,"","","","","Isosceles Pearl","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15570,"","","","","Pearl Shell","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15571,"","","","","Cobalt Bijou","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15572,"","","","","Selenium Herring","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15573,"","","","","Codmonaut","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15574,"","","","","Opalite Impesctor","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15575,"","","","","Untitled Work No. 288","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15576,"","","","","Desertingway","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15577,"","","","","Gold Broochback","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15578,"","","","","Nitric Chelid","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15579,"","","","","Sunken Kite","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15580,"","","","","Glass Dahlia","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15581,"","","","","Fishy Jellyfish","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15582,"","","","","Suspect Skeletonfish","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15583,"","","","","Cobalt Glass Eel","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15584,"","","","","Cast Flowers","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15585,"","","","","Frosted Shell","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15586,"","","","","Untitled Work No. 98","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15587,"","","","","Pendantfish","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15588,"","","","","Untitled Work No. 432","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15589,"","","","","Sodiment Licker","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15590,"","","","","Soda-lime Streamer","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15591,"","","","","Glass Dahlia","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15592,"","","","","Fishy Jellyfish","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15593,"","","","","Limingway","GatheringItemLevelConvertTable#695",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15594,"","","","","Gold Ruby Pansyfin","GatheringItemLevelConvertTable#695",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15595,"","A mass of crystal wriggles in the water!","The mass of crystal winks away...","You reel in the mass of crystal!","Sinking Crystascute","GatheringItemLevelConvertTable#695",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15596,"","","","","White Starburst","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15597,"","","","","Skippingway","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15598,"","","","","Glass Coral","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15599,"","","","","Blown Bubble","GatheringItemLevelConvertTable#695",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15600,"","A dark horn darts in the water!","The dark horn slips away...","You reel in the dark horn!","Cobalt Horn","GatheringItemLevelConvertTable#695",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15601,"","","","","Kissing Counterfeit","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15602,"","","","","Float Cloud","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15603,"","","","","Navy Coelacanth","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15604,"","","","","Obsidian Mussel","GatheringItemLevelConvertTable#695",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15605,"","","","","Glass Sculptor","GatheringItemLevelConvertTable#695",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15606,"","","","","Prismatic Cluster","GatheringItemLevelConvertTable#695",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15607,"","","","","Glass Dahlia","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15608,"","","","","Fishy Jellyfish","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15609,"","","","","Decorative Disc","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15610,"","","","","Milky Irisfish","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15611,"","","","","Applebrow","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15612,"","","","","Untitled Work No. 765","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15613,"","","","","White Starburst","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15614,"","","","","Skippingway","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15615,"","","","","Glass Coral","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15616,"","","","","Shallnot Shell","GatheringItemLevelConvertTable#695",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15617,"","","","","Full-blown Bubble","GatheringItemLevelConvertTable#695",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15618,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15619,"","","","","Kissing Counterfeit","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15620,"","","","","Float Cloud","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15621,"","","","","Navy Coelacanth","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15622,"","","","","Untitled Work No. 345","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15623,"","","","","Royal Comet Tail","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15624,"","","","","Grim Impesctor","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15625,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15626,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15627,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15628,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15629,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15630,"","","","","Glass Guppish","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15631,"","","","","Nyctichthys","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15632,"","","","","Five-star Bijou","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15633,"","","","","Capsule Castoff","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15634,"","","","","Capsule Amber","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15635,"","","","","Kissing Counterfeit","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15636,"","","","","Soda-lime Sunrise","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15637,"","","","","Navy Coelacanths","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15638,"","","","","Filigree Floret","GatheringItemLevelConvertTable#695",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15639,"","","","","Soda Mocktail","GatheringItemLevelConvertTable#695",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15640,"","","","","Bubbling Impesctor","GatheringItemLevelConvertTable#695",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15641,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15642,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15643,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15644,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15645,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15646,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15647,"","","","","Bursting Anemone","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15648,"","","","","Bubble Eater","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15649,"","","","","Phainofly Fish","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15650,"","","","","Bubblegazer","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15651,"","","","","Chthonic Tapestry","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15652,"","An ethereal image appears in the water!","The ethereal image vanishes...","You reel in the ethereal image!","Chasm Avatar","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15653,"","","","","Untitled Work No. 288","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15654,"","","","","Desertingway","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15655,"","","","","Sandglass Helm","GatheringItemLevelConvertTable#740",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15656,"","","","","Reluctant Paperweight","GatheringItemLevelConvertTable#740",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15657,"","","","","Glass Vajrajaw","GatheringItemLevelConvertTable#740",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15658,"","","","","Saltpeter Rose","GatheringItemLevelConvertTable#740",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15659,"","","","","Frosted Shell","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15660,"","","","","Untitled Work No. 98","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15661,"","","","","Pendantfish","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15662,"","","","","Amethyst Bijou","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15663,"","","","","Frothfish","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15664,"","","","","Soda-blue Impesctor","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15665,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15666,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15667,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15668,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15669,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15670,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15671,"","","","","Shearclaw","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15672,"","","","","Bellows Crab","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15673,"","","","","Crimplouse","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15674,"","","","","Pipetongue","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15675,"","","","","Garnet Seahorse","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15676,"","","","","Vent Impesctor","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15677,"","","","","Glass Guppish","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15678,"","","","","Nyctichthys","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15679,"","","","","False Tetraform","GatheringItemLevelConvertTable#740",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15680,"","","","","Capsulette","GatheringItemLevelConvertTable#740",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15681,"","","","","Glass Nib","GatheringItemLevelConvertTable#740",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15682,"","","","","Encapsulated Impesctor","GatheringItemLevelConvertTable#740",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15683,"","","","","Shearclaw","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15684,"","","","","Bellows Crab","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15685,"","","","","Crimplouse","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15686,"","","","","Confusing Catfusion","GatheringItemLevelConvertTable#740",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15687,"","","","","Specious Shark","GatheringItemLevelConvertTable#740",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15688,"","","","","Fused Animus","GatheringItemLevelConvertTable#740",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15689,"","","","","Untitled Work No. 288","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15690,"","","","","Desertingway","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15691,"","","","","Mosaic Bricklayer","GatheringItemLevelConvertTable#740",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15692,"","","","","Sandglass Slasher","GatheringItemLevelConvertTable#740",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15693,"","","","","Garbled Gar","GatheringItemLevelConvertTable#740",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15694,"","","","","Sandwyrm","GatheringItemLevelConvertTable#740",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15695,"","","","","Starfaring Goby","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15696,"","","","","Initiative Trout","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15697,"","","","","Faux Cloudfish","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15698,"","","","","Trailing Snailfish","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15699,"","","","","Bursting Anemone","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15700,"","","","","Midnight Impression","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15701,"","","","","Blue Starburst","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15702,"","","","","Timeworn Gargantuaskin Map","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0

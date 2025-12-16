@@ -3498,7 +3498,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003494,"lump of copal",0,"lumps of copal",0,0,1,0,0,False,"Copal","ui/icon/022000/022638.tex","",1,1,"The Milk of Mamool Ja Kindness",0,"normal/item_start",0
 2003495,"sturdy rope",0,"sturdy ropes",0,0,1,0,0,False,"Sturdy Rope","ui/icon/026000/026103.tex","",1,1,"The Seeds of Popularity",3,"normal/item_start",0
 2003496,"captured morbol seedling",0,"captured morbol seedlings",0,0,1,0,0,False,"Captured Morbol Seedling","ui/icon/059000/059412.tex","",1,1,"The Seeds of Popularity",0,"normal/item_start",0
-2003497,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003497,"fetching fragment",0,"fetching fragments",0,0,1,0,0,False,"Fetching Fragment","ui/icon/026000/026111.tex","",3,1,"Perspective Reflected",0,"normal/item_start",0
 2003498,"blessed scale",0,"blessed scales",0,0,1,0,0,False,"Blessed Scale","ui/icon/025000/025990.tex","",1,1,"Scale of Trust",0,"normal/item_start",0
 2003499,"hartebeest horn",0,"hartebeest horns",0,0,1,0,0,False,"Hartebeest Horn","ui/icon/022000/022204.tex","",1,1,"Perspectives in Pursuit",0,"normal/item_start",0
 2003500,"Kupopo-sized sack",0,"Kupopo-sized sacks",0,0,1,0,0,False,"Kupopo-sized Sack","ui/icon/026000/026648.tex","Key Item",1,1,"The Crate Beyond",3,"normal/item_start",0
@@ -3743,8 +3743,8 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003739,"wrapped keepsake",0,"wrapped keepsakes",0,0,1,0,0,False,"Wrapped Keepsake","ui/icon/026000/026108.tex","",4,1,"In Search of Meaning",0,"normal/item_start",0
 2003740,"piece of raw material",0,"pieces of raw material",0,0,1,0,0,False,"Raw Material","ui/icon/020000/020802.tex","",1,1,,0,"normal/item_start",0
 2003741,"piece of processed material",0,"pieces of processed material",0,0,1,0,0,False,"Processed Material","ui/icon/020000/020952.tex","",1,1,,0,"normal/item_start",0
-2003742,"drained battery pack",0,"drained battery packs",0,0,1,0,0,False,"Drained Battery Pack","ui/icon/023000/023553.tex","",1,1,,0,"normal/item_start",0
-2003743,"charged battery pack",0,"charged battery packs",0,0,1,0,0,False,"Charged Battery Pack","ui/icon/023000/023553.tex","",1,1,,0,"normal/item_start",0
+2003742,"battery pack",0,"battery packs",0,0,1,0,0,False,"Battery Pack","ui/icon/023000/023553.tex","",1,1,,0,"normal/item_start",0
+2003743,"battery pack",0,"battery packs",0,0,1,0,0,False,"Battery Pack","ui/icon/023000/023553.tex","",1,1,,0,"normal/item_start",0
 2003744,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
 2003745,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
 2003746,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
@@ -3761,6 +3761,33 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003757,"herbal compress",0,"herbal compresses",0,0,1,0,0,False,"Herbal Compress","ui/icon/026000/026127.tex","",3,1," Pain Relief",0,"normal/item_start",0
 2003758,"ripened branchberry",0,"ripened branchberries",0,0,1,0,0,False,"Ripened Branchberry","ui/icon/025000/025331.tex","",1,1," Fruit of Friendship",0,"normal/item_start",0
 2003759,"basket of fresh produce",0,"baskets of fresh produce",0,0,1,0,0,False,"Fresh Produce","ui/icon/027000/027551.tex","",1,1," Store-to-door Delivery",0,"normal/item_start",0
-2003760,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003761,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003762,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003760,"sack of All Saints' cookies",0,"sacks of All Saints' cookies",0,0,1,0,0,False,"All Saints' Cookies","ui/icon/026000/026111.tex","",1,1,"Frights of Fancy",0,"normal/item_start",0
+2003761,"decorative pumpkin",0,"decorative pumpkins",0,0,1,0,0,False,"Decorative Pumpkin","ui/icon/024000/024153.tex","",1,1,"Frights of Fancy",0,"normal/item_start",0
+2003762,"liquor bottle",0,"liquor bottles",0,0,1,0,0,False,"Liquor Bottle","ui/icon/025000/025057.tex","",1,1,"On the Trail of Destruction",0,"normal/item_start",0
+2003763,"sack of produce",0,"sacks of produce",0,0,1,0,0,False,"Sack of Produce","ui/icon/025000/025351.tex","",1,1,"On the Trail of Destruction",0,"normal/item_start",0
+2003764,"piece of paper",0,"pieces of paper",0,0,1,0,0,False,"Piece of Paper","ui/icon/026000/026151.tex","",1,1,"On the Trail of Destruction",0,"normal/item_start",0
+2003765,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003766,"aetherwell array",0,"aetherwell arrays",0,1,1,0,0,False,"Aetherwell Array","ui/icon/026000/026083.tex","Key Item",1,8,"Aether, Aether, Everywhere",0,"normal/item_start",0
+2003767,"card-shaped object",0,"card-shaped objects",0,0,1,0,0,False,"Card-shaped Object","ui/icon/026000/026078.tex","Key Item",1,1,"Preservation Their Purpose",0,"normal/item_start",1
+2003768,"Level 2 security card",0,"Level 2 security cards",0,0,1,0,0,False,"Level 2 Security Card","ui/icon/026000/026079.tex","Key Item",1,1,"Preservation Their Purpose",0,"normal/item_start",1
+2003769,"Level 3 security card",0,"Level 3 security cards",0,0,1,0,0,False,"Level 3 Security Card","ui/icon/026000/026080.tex","Key Item",1,1,"A Calculated Evolution",0,"normal/item_start",1
+2003770,"crumpled note",0,"crumpled notes",0,0,1,0,0,False,"Crumpled Note","ui/icon/026000/026572.tex","",1,1,"A Calculated Evolution",0,"normal/item_start",0
+2003771,"large alexandrite",0,"large alexandrites",0,0,1,0,0,False,"Large Alexandrite","ui/icon/021000/021290.tex","",1,1,"A Calculated Evolution",0,"normal/item_start",0
+2003772,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003773,"chilly cartridge",0,"chilly cartridges",0,0,1,0,0,False,"Chilly Cartridge","ui/icon/023000/023569.tex","",3,1,,0,"normal/item_start",0
+2003774,"chilly cartridge",0,"chilly cartridges",0,0,1,0,0,False,"Chilly Cartridge","ui/icon/023000/023569.tex","",5,1,,0,"normal/item_start",0
+2003775,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003776,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003777,"sack of melting salts",0,"sacks of melting salts",0,0,1,0,0,False,"Melting Salts","ui/icon/026000/026111.tex","Key Item",3,1," Worth Their Salt",0,"normal/item_start",0
+2003778,"sack of polishing powder",0,"sacks of polishing powder",0,0,1,0,0,False,"Polishing Powder","ui/icon/025000/025919.tex","Key Item",4,1," The Crystals' Favor",0,"normal/item_start",0
+2003779,"crimson Karvarhur bloom",0,"crimson Karvarhur blooms",0,0,1,0,0,False,"Crimson Karvarhur Bloom","ui/icon/025000/025687.tex","",3,1," Scouring for Flowers",0,"normal/item_start",0
+2003780,"Chirwagur payment",0,"Chirwagur payments",0,0,1,0,0,False,"Chirwagur Payment","ui/icon/021000/021205.tex","",1,1," Seasoned Stories",0,"normal/item_start",0
+2003781,"pinch of Chirwagur salt",0,"pinches of Chirwagur salt",0,0,1,0,0,False,"Chirwagur Salt","ui/icon/025000/025104.tex","",1,1," Seasoned Stories",0,"normal/item_start",0
+2003782,"spring water icicle",0,"spring water icicles",0,0,1,0,0,False,"Spring Water Icicle","ui/icon/020000/020015.tex","",1,1," I Want to Trade My Icicle",0,"normal/item_start",0
+2003783,"set of essential construction supplies",0,"sets of essential construction supplies",0,0,1,0,0,False,"Essential Construction Supplies","ui/icon/021000/021003.tex","",1,1," Will Work for Supplies",0,"normal/item_start",0
+2003784,"chunk of restoration glowstone",0,"chunks of restoration glowstone",0,0,1,0,0,False,"Restoration Glowstone","ui/icon/021000/021477.tex","",1,1," Getting a Glow On",0,"normal/item_start",0
+2003785,"gargantuaskin treasure map",0,"gargantuaskin treasure maps",0,0,1,0,0,False,"Gargantuaskin Treasure Map","ui/icon/026000/026151.tex","Key Item",1,2,,0,"normal/item_start",0
+2003786,"high-rolling thief's map",0,"high-rolling thief's maps",0,0,1,0,0,False,"High-rolling Thief's Map","ui/icon/026000/026151.tex","Key Item",1,2,,0,"normal/item_start",0
+2003787,"jar of kirkahryar",0,"jars of kirkahryar",0,0,1,0,0,False,"Jar of Kirkahryar","ui/icon/022000/022802.tex","",1,1," Forged in Corn",0,"normal/item_start",0
+2003788,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003789,"Level 1 security card",0,"Level 1 security cards",0,0,1,0,0,False,"Level 1 Security Card","ui/icon/026000/026078.tex","Key Item",1,1,"Preservation Their Purpose",0,"normal/item_start",1

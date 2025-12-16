@@ -171,3 +171,5 @@ int32,Weather,byte,Weather,byte,Weather,byte,Weather,byte,Weather,byte,Weather,b
 167,"Electrostatic Dust",100,"",0,"",0,"",0,"",0,"",0,"",0,"",0
 168,"Clear Skies",10,"Fair Skies",45,"Clouds",15,"Rain",10,"Atmospheric Phantasms",15,"Illusory Disturbances",5,"",0,"",0
 169,"Moon Dust",15,"Fair Skies",70,"Umbral Wind",15,"",0,"",0,"",0,"",0,"",0
+170,"Dying Breath",100,"",0,"",0,"",0,"",0,"",0,"",0,"",0
+171,"Fair Skies",60,"Clouds",20,"Rain",20,"",0,"",0,"",0,"",0,"",0

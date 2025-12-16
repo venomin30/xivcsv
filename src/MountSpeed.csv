@@ -49,7 +49,7 @@ int32,Quest,uint32,byte
 45,,0,72
 46,,0,73
 47,,0,74
-48,,0,76
+48,,0,80
 49,,0,75
 50,"The Far Edge of Fate",0,41
 51,,0,81
@@ -59,3 +59,6 @@ int32,Quest,uint32,byte
 55,,0,85
 56,,0,86
 57,"Unfamiliar Territory",542,102
+58,"A Cosmic Homecoming",70789,0
+59,"Go Forth, Brave Explorers",70945,0
+60,,0,0

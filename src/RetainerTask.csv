@@ -1103,3 +1103,5 @@ int32,bit&01,ClassJobCategory,byte,uint16,RetainerTaskParameter,uint16,uint16,in
 1099,False,"BTN",100,0,"RetainerTaskParameter#700",1,60,2902300,0,72,0,3357,0,"Ipe Log"
 1100,False,"BTN",100,0,"RetainerTaskParameter#700",1,60,2902300,0,72,0,3357,0,"Nopaliflower"
 1101,False,"BTN",100,0,"RetainerTaskParameter#700",1,60,2902300,0,72,0,3357,0,"Blackseed Cotton Boll"
+1102,False,"MIN",100,1,"RetainerTaskParameter#700",1,60,2902300,0,72,0,3357,0,"Alexandrian Ore"
+1103,False,"BTN",100,1,"RetainerTaskParameter#700",1,60,2902300,0,72,0,3357,0,"Optical Fibergrass"

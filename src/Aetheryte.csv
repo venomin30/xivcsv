@@ -176,7 +176,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,PlaceName,PlaceName,TerritoryT
 172,"",0,"",0,0,1,0,0,"Camp Broken Glass","","m5f2",,,,,True,10,"Aetheryte",0,False,,"m5f2/00",0,0,145
 173,"",0,"",0,0,1,0,0,"Tertium","","m5f2",,,,,True,10,"AetheryteTertium",0,False,,"m5f2/00",0,0,146
 174,"",0,"",0,0,1,0,0,"Sinus Lacrimarum","","u5f1",,,,,True,10,"Aetheryte",0,False,,"u5f1/00",0,0,226
-175,"",0,"",0,0,1,0,0,"Bestways Burrow","","u5f1",,,,,True,10,"Aetheryte",0,False,,"u5f1/00",0,0,227
+175,"",0,"",0,0,1,0,0,"Bestways Burrow","","u5f1",,,,,True,10,"AetheryteBestwaysBurrow",0,False,,"u5f1/00",0,0,227
 176,"",0,"",0,0,1,0,0,"Anagnorisis","","n5f1",,,,,True,10,"Aetheryte",0,False,,"n5f1/00",0,0,231
 177,"",0,"",0,0,1,0,0,"The Twelve Wonders","","n5f1",,,,,True,10,"Aetheryte",0,False,,"n5f1/00",0,0,232
 178,"",0,"",0,0,1,0,0,"Poieten Oikos","","n5f1",,,,,True,10,"Aetheryte",0,False,,"n5f1/00",0,0,233

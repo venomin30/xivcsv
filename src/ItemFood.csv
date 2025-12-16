@@ -694,3 +694,6 @@ int32,byte,BaseParam,bool,sbyte,int16,sbyte,int16,BaseParam,bool,sbyte,int16,sby
 690,3,"Mind",True,8,368,10,461,"",False,0,0,0,0,"",False,0,0,0,0
 691,3,"Critical Hit",True,4,10,4,10,"Vitality",True,5,12,5,12,"Reduced Durability Loss",False,3,0,3,0
 692,3,"Direct Hit Rate",True,4,10,4,10,"Vitality",True,5,12,5,12,"Reduced Durability Loss",False,3,0,3,0
+693,3,"Skill Speed",True,4,10,4,10,"Vitality",True,5,12,5,12,"Reduced Durability Loss",False,3,0,3,0
+694,3,"CP",True,21,80,26,100,"Control",True,4,92,5,115,"",False,0,0,0,0
+695,3,"Gathering",True,6,150,7,188,"Perception",True,2,77,3,97,"",False,0,0,0,0

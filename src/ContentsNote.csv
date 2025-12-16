@@ -86,7 +86,23 @@ int32,ContentsNoteCategory,Image,byte,int32,byte,int32,byte,int32,uint16,HowTo,R
 81,"ContentsNoteCategory#13","ui/icon/061000/061851.tex",6,20,12,70,13,240,0,"","Unfamiliar Territory","Fateful Contention II","Complete 20 FATEs on the Occult Crescent.",0
 82,"ContentsNoteCategory#13","ui/icon/061000/061851.tex",7,1,12,30,13,140,0,"","Unfamiliar Territory","Make It Chain I","Achieve an EXP chain of 20 on the Occult Crescent.",0
 83,"ContentsNoteCategory#13","ui/icon/061000/061851.tex",8,1,12,70,13,240,0,"","Unfamiliar Territory","Make It Chain II","Achieve an EXP chain of 40 on the Occult Crescent.",0
-84,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
-85,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
-86,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
-87,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
+84,"ContentsNoteCategory#14","ui/icon/061000/061824.tex",1,1,14,7,0,0,0,"","Pilgrimage of Light","Take Me to Church I","Clear the area marked by stone 20 in Pilgrim's Traverse.",0
+85,"ContentsNoteCategory#14","ui/icon/061000/061824.tex",2,1,15,2,0,0,0,"","Pilgrimage of Light","Take Me to Church II","Clear the area marked by stone 30 in Pilgrim's Traverse.",0
+86,"ContentsNoteCategory#14","ui/icon/061000/061824.tex",3,1,14,8,0,0,0,"","Faerie Tale","Take Me to Church III","Clear the area marked by stone 50 in Pilgrim's Traverse.",0
+87,"ContentsNoteCategory#14","ui/icon/061000/061824.tex",4,1,15,3,0,0,0,"","Faerie Tale","Take Me to Church IV","Clear the area marked by stone 70 in Pilgrim's Traverse.",0
+88,"ContentsNoteCategory#14","ui/icon/061000/061824.tex",5,1,14,10,0,0,0,"","Faerie Tale","Take Me to Church V","Clear the area marked by stone 100 in Pilgrim's Traverse.",0
+89,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
+90,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
+91,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
+92,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
+93,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
+94,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
+95,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
+96,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
+97,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
+98,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
+99,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
+100,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
+101,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
+102,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0
+103,"ContentsNoteCategory#0",,0,0,0,0,0,0,0,"",,"","",0

@@ -104,7 +104,7 @@ Displays percentage of TP remaining.
 37,"Group Up","ui/icon/009000/009971.tex","Everyone, group up!<Unknown60>0264</Unknown60>",,37
 38,"Purify","ui/icon/009000/009905.tex","<Clickable(<Sheet(Action,IntegerParameter(1),0)/>)/> <If(Equal(IntegerParameter(2),0))>ready!<Unknown60>0263</Unknown60><Else/>ready in <Value>IntegerParameter(2)</Value>s!<Unknown60>0264</Unknown60></If>","Fixed phrase available only during the Feast.
 
-<Color(PlayerParameter(16))><27>01</27><28>02</28>Get the medals!<28>01</28><27>02</27></Color>",38
+<Color(PlayerParameter(16))><27>01</27><28>02</28>Get the medals!<28>01</28><27>02</27></Color>",0
 39,"Guard","ui/icon/009000/009972.tex","<Clickable(<Sheet(Action,IntegerParameter(1),0)/>)/> <If(Equal(IntegerParameter(2),0))>ready!<Unknown60>0263</Unknown60><Else/>ready in <Value>IntegerParameter(2)</Value>s!<Unknown60>0264</Unknown60></If>","Fixed phrase available only during Crystalline Conflict.
 
 <Color(PlayerParameter(16))><27>01</27><28>02</28>Everyone, attack!<28>01</28><27>02</27></Color>",39

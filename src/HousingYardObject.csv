@@ -131,6 +131,8 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131199,127,17,0,0,47,,"Dandelion Plot",False,False,True,0,0,0,False,True
 131200,128,17,0,0,0,,"Living Arch",False,False,True,0,0,0,False,True
 131201,129,17,0,0,59,,"Shishi-odoshi",False,False,True,0,0,0,False,True
+131202,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
+131203,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
 131204,132,17,0,0,0,"CmnDefHousingObject_00141","Cold Knight's Cookfire",False,False,True,0,0,0,False,True
 131205,133,17,0,0,0,,"Oriental Snowcave",False,False,True,0,0,0,False,True
 131206,134,17,16,3,30,,"Faust Striking Dummy",False,False,True,0,0,0,False,False
@@ -187,6 +189,7 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131257,179,17,14,0,77,"HouFurVisitNote_00477","Dodo Message Book Stand",False,False,True,0,0,0,True,False
 131258,172,17,0,0,0,,"Picnic Set",False,False,True,0,0,0,False,True
 131259,173,17,0,0,0,,"Miniature Heaven-on-High",False,False,True,0,0,0,False,True
+131260,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
 131261,175,17,0,0,0,,"Fallen Tree",False,False,True,0,0,0,False,True
 131262,176,17,0,0,0,,"Simple Treehouse",False,False,True,0,0,0,False,True
 131263,177,17,0,0,0,,"Odder Otter Andon Lamp",False,False,True,0,0,0,False,True
@@ -198,7 +201,12 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131269,184,17,0,0,0,,"Botanist's Garden",False,False,True,0,0,0,False,True
 131270,185,17,0,0,0,,"Big One Festival Float",False,False,True,5,0,0,False,True
 131271,186,17,0,0,0,,"Vegetable Garden",False,False,True,0,0,0,False,True
+131272,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
+131273,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
+131274,189,17,0,0,0,,"La Noscean Orange Tree",False,False,True,0,0,0,False,True
 131275,190,17,0,0,0,,"Cedar Tree",False,False,True,0,0,0,False,True
+131276,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
+131277,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
 131278,193,17,16,5,30,,"Crystarium Striking Dummy",False,False,True,0,0,0,False,False
 131279,194,17,0,0,0,,"Firebloom",False,False,True,5,0,0,False,True
 131280,195,17,0,0,0,,"Seastone Brazier",False,False,True,5,0,0,False,True
@@ -216,7 +224,9 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131292,207,17,0,0,0,,"Enchanter's Stall",False,False,True,0,0,0,False,True
 131293,208,17,0,0,0,,"Butcher's Stall",False,False,True,0,0,0,False,True
 131294,209,17,0,0,0,,"Wooden Deck",False,False,True,0,0,0,False,True
+131295,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
 131296,211,17,0,0,0,,"Dohn Trellis",False,False,True,0,0,0,False,True
+131297,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
 131298,213,17,0,0,0,,"Toymaker's Show Window",False,False,True,0,0,0,False,True
 131299,214,17,0,0,0,,"Designer's Show Window",False,False,True,0,0,0,False,True
 131300,215,17,0,0,0,,"Smith's Show Window",False,False,True,0,0,0,False,True
@@ -312,11 +322,15 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131390,298,17,0,0,0,,"Planted Toro Lantern",False,False,True,0,0,0,False,True
 131391,299,17,0,0,0,,"Illuminated Topiary Chocobo",False,False,True,5,0,0,False,True
 131392,263,17,0,0,0,,"Authentic Summer Bonfire",False,False,True,3,0,0,False,True
+131393,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
+131394,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
+131395,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
 131396,303,17,0,0,0,,"Mobile Garden Stairs",False,False,True,0,0,0,False,True
 131397,304,17,0,0,0,,"Flower-wreathed Gazebo",False,False,True,0,0,0,False,True
 131398,305,17,0,0,0,,"Alzadaal's Garden Lamp",False,False,True,0,0,0,False,True
 131399,306,17,0,0,0,,"Elpis Garden Fountain",False,False,True,5,0,0,False,True
 131400,307,17,0,0,47,,"Wildflower Bed",False,False,True,0,0,0,False,True
+131401,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
 131402,309,17,0,0,0,"CmnDefHousingObject_00141","Imitation Magitek Repair Station (Wall Unit)",False,False,True,0,0,0,False,True
 131403,310,17,0,0,0,,"Labyrinthos Grape Lamppost",False,False,True,0,0,0,False,True
 131404,311,17,0,0,0,,"Hingan Rock Garden",False,False,True,0,0,0,False,True
@@ -350,3 +364,18 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131432,332,17,0,0,0,,"Chocobo Chick Fountain",False,False,True,0,0,0,False,True
 131433,334,17,0,0,0,,"Occult Epitaph",False,False,True,0,0,0,False,True
 131434,335,17,0,0,0,,"Stellar Lamppost",False,False,True,0,0,0,False,True
+131435,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
+131436,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
+131437,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
+131438,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
+131439,346,17,0,0,0,,"Yok Huy Lantern",False,False,True,5,0,0,False,True
+131440,339,17,0,0,108,,"Outdoor Hunter's Grill",False,False,True,0,0,0,False,True
+131441,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
+131442,340,17,0,0,0,,"Makeshift Camp",False,False,True,0,0,0,False,True
+131443,341,17,0,0,0,,"Pop-up Camp",False,False,True,0,0,0,False,True
+131444,342,17,16,7,30,,"Palanx Striking Dummy",False,False,True,0,0,0,False,False
+131445,344,17,0,0,0,,"Traverse Clocktower",False,False,True,5,0,0,False,True
+131446,345,17,0,0,0,,"Traverse Tree",False,False,True,0,0,0,False,True
+131447,347,17,0,0,0,,"Docking Station Cover",False,False,True,0,0,0,False,True
+131448,348,17,0,0,0,,"Cosmic Circumferbench",False,False,True,0,0,0,False,True
+131449,349,17,0,0,0,,"Hunter's Camp Chair",False,False,True,0,0,0,False,True

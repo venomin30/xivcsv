@@ -35,6 +35,8 @@ int32,ContentFinderCondition,bit&01,uint16,bit&02,bit&04,bit&08,uint32,uint32,ui
 31,"Alexandria",False,8,False,True,True,0,0,70495,2,2013791,0,1048018,1048020,1048021,0,0,0,0,0
 32,"Yuweyawata Field Station",False,9,False,True,True,0,0,70782,4,2014476,0,1052208,1052209,1052210,1052211,1052212,0,0,0
 33,"the Underkeep",False,10,False,True,True,0,0,70840,2,2014676,0,1053866,1053868,1053869,0,0,0,0,0
+34,"the Meso Terminal",False,11,False,True,True,0,0,70907,2,2014845,0,1054583,1054584,1054585,1054586,1054587,1054588,1054589,0
+35,"the Ageless Necropolis",False,12,False,False,False,0,0,70907,4,2014846,0,1054590,1054591,1054592,1054593,1054594,1054595,1054596,0
 200,"Sastasha",False,1,False,False,False,0,0,0,0,2002696,0,0,0,0,0,0,0,0,0
 201,"the Tam–Tara Deepcroft",False,2,False,False,False,0,0,0,0,2002697,0,0,0,0,0,0,0,0,0
 202,"Copperbell Mines",False,3,False,False,False,0,0,0,0,2002698,0,0,0,0,0,0,0,0,0
@@ -69,7 +71,7 @@ int32,ContentFinderCondition,bit&01,uint16,bit&02,bit&04,bit&08,uint32,uint32,ui
 231,"the Ghimlyt Dark",False,8,False,False,False,0,0,0,0,2009657,0,0,0,0,0,0,0,0,0
 232,"Halatali",True,101,False,False,False,0,0,0,0,2002699,0,0,0,0,0,0,0,0,0
 233,"the Sunken Temple of Qarn",True,102,False,False,False,0,0,0,0,2002703,0,0,0,0,0,0,0,0,0
-234,"Cutter's Cry",True,103,True,False,True,0,0,0,0,2002704,0,0,0,0,0,0,0,0,0
+234,"Cutter's Cry",True,103,False,False,False,0,0,0,0,2002704,0,0,0,0,0,0,0,0,0
 235,"Dzemael Darkhold",True,104,True,False,True,0,0,0,0,2002706,0,0,0,0,0,0,0,0,0
 236,"the Aurum Vale",True,105,True,False,True,0,0,0,0,2002708,0,0,0,0,0,0,0,0,0
 237,"the Dusk Vigil",True,201,True,False,True,0,0,0,0,2006378,0,0,0,0,0,0,0,0,0

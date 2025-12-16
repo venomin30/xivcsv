@@ -44,6 +44,9 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262151.11,"The Faces We Wear - Monocles",False,0,0,,,"",0,100,700
 262151.12,"The Faces We Wear - Eyepatch (Left)",False,0,0,,,"",0,100,720
 262151.13,"The Faces We Wear - Eyepatch (Right)",False,0,0,,,"",0,100,720
+262151.14,"Plain Neotunic",False,0,0,,,"",0,100,730
+262151.15,"Oversized Plain Neotunic",False,0,0,,,"",0,100,730
+262151.16,"Form-fitting Plain Neotunic",False,0,0,,,"",0,100,730
 262152.0,"Potion",False,0,0,,,"",0,100,0
 262153.0,"Potion",False,0,0,,,"",0,100,0
 262154.0,"Potion",False,0,0,,,"",0,100,0
@@ -87,6 +90,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262157.35,"Garden Sunflower Seeds",False,0,0,,,"",0,100,700
 262157.36,"Cattleya Seeds",False,0,0,,,"",0,100,710
 262157.37,"Paperflower Seeds",False,0,0,,,"",0,100,720
+262157.38,"Champa Seeds",False,0,0,,,"",0,100,730
 262158.0,"Gysahl Greens",False,0,0,,,"",0,100,0
 262158.1,"Cherry Bomb",False,0,0,,,"",0,100,0
 262158.2,"Mammet #001",False,0,0,,,"",0,100,0
@@ -101,6 +105,9 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262158.11,"The Faces We Wear - Monocles",False,0,0,,,"",0,100,700
 262158.12,"The Faces We Wear - Eyepatch (Left)",False,0,0,,,"",0,100,720
 262158.13,"The Faces We Wear - Eyepatch (Right)",False,0,0,,,"",0,100,720
+262158.14,"Plain Neotunic",False,0,0,,,"",0,100,730
+262158.15,"Oversized Plain Neotunic",False,0,0,,,"",0,100,730
+262158.16,"Form-fitting Plain Neotunic",False,0,0,,,"",0,100,730
 262159.0,"Potion",False,0,0,,,"",0,100,0
 262160.0,"Potion",False,0,0,,,"",0,100,0
 262161.0,"Potion",False,0,0,,,"",0,100,0
@@ -120,6 +127,9 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262164.11,"The Faces We Wear - Monocles",False,0,0,,,"",0,100,700
 262164.12,"The Faces We Wear - Eyepatch (Left)",False,0,0,,,"",0,100,720
 262164.13,"The Faces We Wear - Eyepatch (Right)",False,0,0,,,"",0,100,720
+262164.14,"Plain Neotunic",False,0,0,,,"",0,100,730
+262164.15,"Oversized Plain Neotunic",False,0,0,,,"",0,100,730
+262164.16,"Form-fitting Plain Neotunic",False,0,0,,,"",0,100,730
 262165.0,"Potion",False,0,0,,,"",0,100,0
 262166.0,"Potion",False,0,0,,,"",0,100,0
 262167.0,"Potion",False,0,0,,,"",0,100,0
@@ -302,6 +312,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262180.10,"Antidote",False,0,0,,,"",0,100,0
 262180.11,"Echo Drops",False,0,0,,,"",0,100,0
 262180.12,"Spine Drops",False,0,0,,,"",0,100,0
+262180.13,"Phoenix Down",False,0,0,,,"",0,100,730
 262181.0,"Grade 1 Dark Matter",False,0,0,,,"",0,100,0
 262181.1,"Grade 2 Dark Matter",False,0,0,,,"",0,100,0
 262181.2,"Grade 3 Dark Matter",False,0,0,,,"",0,100,0
@@ -414,6 +425,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262190.10,"Antidote",False,0,0,,,"",0,100,0
 262190.11,"Echo Drops",False,0,0,,,"",0,100,0
 262190.12,"Spine Drops",False,0,0,,,"",0,100,0
+262190.13,"Phoenix Down",False,0,0,,,"",0,100,730
 262191.0,"Grade 1 Dark Matter",False,0,0,,,"",0,100,0
 262191.1,"Grade 2 Dark Matter",False,0,0,,,"",0,100,0
 262191.2,"Grade 3 Dark Matter",False,0,0,,,"",0,100,0
@@ -526,6 +538,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262200.10,"Antidote",False,0,0,,,"",0,100,0
 262200.11,"Echo Drops",False,0,0,,,"",0,100,0
 262200.12,"Spine Drops",False,0,0,,,"",0,100,0
+262200.13,"Phoenix Down",False,0,0,,,"",0,100,730
 262201.0,"Grade 1 Dark Matter",False,0,0,,,"",0,100,0
 262201.1,"Grade 2 Dark Matter",False,0,0,,,"",0,100,0
 262201.2,"Grade 3 Dark Matter",False,0,0,,,"",0,100,0
@@ -4008,6 +4021,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262419.48,"Square Stepping Stones",False,0,0,,,"",0,100,710
 262419.49,"East End Tree",False,0,0,,,"",0,100,720
 262419.50,"Hedge-trimmed Flower Bed",False,0,0,,,"",0,100,720
+262419.51,"La Noscean Orange Tree",False,0,0,,,"",0,100,730
 262420.0,"Brass Bench",False,0,0,,,"",0,100,0
 262420.1,"Glade Placard",False,0,0,,,"",0,100,0
 262420.2,"Glade Thatch Wall",False,0,0,,,"",0,100,0
@@ -4059,6 +4073,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262420.48,"Square Stepping Stones",False,0,0,,,"",0,100,710
 262420.49,"East End Tree",False,0,0,,,"",0,100,720
 262420.50,"Hedge-trimmed Flower Bed",False,0,0,,,"",0,100,720
+262420.51,"La Noscean Orange Tree",False,0,0,,,"",0,100,730
 262421.0,"Brass Bench",False,0,0,,,"",0,100,0
 262421.1,"Oasis Placard",False,0,0,,,"",0,100,0
 262421.2,"Oasis Wooden Wall",False,0,0,,,"",0,100,0
@@ -4110,6 +4125,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262421.48,"Square Stepping Stones",False,0,0,,,"",0,100,710
 262421.49,"East End Tree",False,0,0,,,"",0,100,720
 262421.50,"Hedge-trimmed Flower Bed",False,0,0,,,"",0,100,720
+262421.51,"La Noscean Orange Tree",False,0,0,,,"",0,100,730
 262422.0,"Ash Log",False,0,0,,,"",0,100,0
 262422.1,"Ash Lumber",False,0,0,,,"",0,100,0
 262422.2,"Elm Lumber",False,0,0,,,"",0,100,0
@@ -4166,6 +4182,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262422.53,"Garden Sunflower Seeds",False,0,0,,,"",0,100,700
 262422.54,"Cattleya Seeds",False,0,0,,,"",0,100,710
 262422.55,"Paperflower Seeds",False,0,0,,,"",0,100,720
+262422.56,"Champa Seeds",False,0,0,,,"",0,100,730
 262423.0,"Usagi Kabuto",False,0,0,,,"",0,100,0
 262423.1,"Silver Usagi Kabuto",False,0,0,,,"",0,100,0
 262423.2,"Black Usagi Kabuto",False,0,0,,,"",0,100,0
@@ -4978,6 +4995,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262513.10,"Antidote",False,0,0,,,"",0,100,0
 262513.11,"Echo Drops",False,0,0,,,"",0,100,0
 262513.12,"Spine Drops",False,0,0,,,"",0,100,0
+262513.13,"Phoenix Down",False,0,0,,,"",0,100,730
 262514.0,"Potion",False,0,0,,,"",0,100,0
 262515.0,"Dzemael Gratin",False,0,0,,,"",0,100,0
 262515.1,"Button Mushroom Saute",False,0,0,,,"",0,100,0
@@ -6264,6 +6282,11 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262639.8,"Grade 7 Dark Matter",False,0,0,,,"",0,100,0
 262639.9,"Metal Spinner",False,0,0,,,"",0,100,510
 262639.10,"Grade 8 Dark Matter",False,0,0,,,"",0,100,600
+262639.11,"Eye Drops",False,0,0,,,"",0,100,730
+262639.12,"Antidote",False,0,0,,,"",0,100,730
+262639.13,"Echo Drops",False,0,0,,,"",0,100,730
+262639.14,"Spine Drops",False,0,0,,,"",0,100,730
+262639.15,"Phoenix Down",False,0,0,,,"",0,100,730
 262640.0,"Weathered Earrings",False,0,0,,,"",0,100,0
 262640.1,"Weathered Choker",False,0,0,,,"",0,100,0
 262640.2,"Weathered Wristlets",False,0,0,,,"",0,100,0
@@ -6991,6 +7014,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262690.43,"Square Stepping Stones",False,0,0,,,"",0,100,710
 262690.44,"East End Tree",False,0,0,,,"",0,100,720
 262690.45,"Hedge-trimmed Flower Bed",False,0,0,,,"",0,100,720
+262690.46,"La Noscean Orange Tree",False,0,0,,,"",0,100,730
 262691.0,"Clear Prism",False,0,0,,,"",0,100,0
 262691.1,"Glamour Dispeller",False,0,0,,,"",0,100,0
 262691.2,"Gysahl Greens",False,0,0,,,"",0,100,0
@@ -9564,6 +9588,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262861.10,"Antidote",False,0,0,,,"",0,100,0
 262861.11,"Echo Drops",False,0,0,,,"",0,100,0
 262861.12,"Spine Drops",False,0,0,,,"",0,100,0
+262861.13,"Phoenix Down",False,0,0,,,"",0,100,730
 262862.0,"Cooking Sake",False,0,0,,,"",0,100,0
 262862.1,"Nigari",False,0,0,,,"",0,100,0
 262862.2,"Koshu Sticky Rice",False,0,0,,,"",0,100,0
@@ -9684,6 +9709,11 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262867.10,"Grade 7 Dark Matter",False,0,0,,,"",0,100,0
 262867.11,"Metal Spinner",False,0,0,,,"",0,100,510
 262867.12,"Grade 8 Dark Matter",False,0,0,,,"",0,100,600
+262867.13,"Eye Drops",False,0,0,,,"",0,100,730
+262867.14,"Antidote",False,0,0,,,"",0,100,730
+262867.15,"Echo Drops",False,0,0,,,"",0,100,730
+262867.16,"Spine Drops",False,0,0,,,"",0,100,730
+262867.17,"Phoenix Down",False,0,0,,,"",0,100,730
 262868.0,"Salmon Roe",False,0,0,,,"",0,100,0
 262868.1,"Gysahl Greens",False,0,0,,,"",0,100,0
 262868.2,"Grade 6 Dark Matter",False,0,0,,,"",0,100,0
@@ -10164,6 +10194,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262908.6,"Gold Needle",False,0,0,,,"",0,100,0
 262908.7,"Grade 7 Dark Matter",False,0,0,,,"",0,100,0
 262908.8,"Grade 8 Dark Matter",False,0,0,,,"",0,100,600
+262908.9,"Phoenix Down",False,0,0,,,"",0,100,730
 262909.0,"Hatching-tide Banner",False,0,0,,,"",0,100,9999
 262909.1,"Spriggan Chocolate",False,0,0,,,"",0,100,9999
 262910.0,"Ash Grey Dye",False,0,0,,,"",0,50,0
@@ -10432,6 +10463,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262923.6,"Gold Needle",False,0,0,,,"",0,100,0
 262923.7,"Grade 7 Dark Matter",False,0,0,,,"",0,100,0
 262923.8,"Grade 8 Dark Matter",False,0,0,,,"",0,100,600
+262923.9,"Phoenix Down",False,0,0,,,"",0,100,730
 262924.0,"Magitek Torch (Red Lotus)",False,0,0,,,"",0,100,0
 262924.1,"Skyrocket",False,0,0,,,"",0,100,0
 262924.2,"Magitek Torch (Blue Lotus)",False,0,0,,,"",0,100,0
@@ -10480,6 +10512,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262927.6,"Gold Needle",False,0,0,,,"",0,100,0
 262927.7,"Grade 7 Dark Matter",False,0,0,,,"",0,100,0
 262927.8,"Grade 8 Dark Matter",False,0,0,,,"",0,100,600
+262927.9,"Phoenix Down",False,0,0,,,"",0,100,730
 262928.0,"Terebinth",False,0,0,,,"",0,100,0
 262928.1,"Travel Paint Set",False,0,0,,,"",0,100,450
 262928.2,"Paint Can",False,0,0,,,"",0,100,450
@@ -10925,14 +10958,20 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262952.37,"Curved Marble Partition",False,0,0,,,"",0,100,610
 262952.38,"Hydaelyn, as We Know Her",False,0,0,,,"",0,100,620
 262952.39,"Wall-mounted Wings",False,0,0,,,"",0,100,620
-262952.40,"Alpine Partition",False,0,0,,,"",0,100,630
-262952.41,"Alpine Partition Door",False,0,0,,,"",0,100,630
+262952.40,"Highland Partition",False,0,0,,,"",0,100,630
+262952.41,"Highland Partition Door",False,0,0,,,"",0,100,630
 262952.42,"Hannish Screen",False,0,0,,,"",0,100,630
 262952.43,"Hannish Bookshelf Partition",False,0,0,,,"",0,100,630
 262952.44,"Investigation Map",False,0,0,,,"",0,100,710
 262952.45,"Classroom Blackboard",False,0,0,,,"",0,100,710
 262952.46,"Blank Minimalist Partition",False,0,0,,,"",0,100,720
 262952.47,"Minimalist Partition Door",False,0,0,,,"",0,100,720
+262952.48,"Log Partition Door",False,0,0,,,"",0,100,730
+262952.49,"Minimalist Glade Partition Door",False,0,0,,,"",0,100,730
+262952.50,"Minimalist Oasis Partition Door",False,0,0,,,"",0,100,730
+262952.51,"Minimalist Riviera Partition Door",False,0,0,,,"",0,100,730
+262952.52,"Minimalist Highland Partition Door",False,0,0,,,"",0,100,730
+262952.53,"Minimalist Hingan Partition Door",False,0,0,,,"",0,100,730
 262953.0,"Deepgold Helm of Fending",False,0,0,,,"",0,100,500
 262953.1,"Deepgold Cuirass of Fending",False,0,0,,,"",0,100,500
 262953.2,"Deepgold Gauntlets of Fending",False,0,0,,,"",0,100,500
@@ -11540,6 +11579,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 262985.8,"Antidote",False,0,0,,,"",0,100,0
 262985.9,"Echo Drops",False,0,0,,,"",0,100,0
 262985.10,"Spine Drops",False,0,0,,,"",0,100,0
+262985.11,"Phoenix Down",False,0,0,,,"",0,100,730
 262986.0,"Grilled Rail",False,0,0,,,"",0,100,500
 262986.1,"Purple Carrot Juice",False,0,0,,,"",0,100,500
 262986.2,"Caramels",False,0,0,,,"",0,100,500
@@ -11751,6 +11791,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263010.8,"Antidote",False,0,0,,,"",0,100,0
 263010.9,"Echo Drops",False,0,0,,,"",0,100,0
 263010.10,"Spine Drops",False,0,0,,,"",0,100,0
+263010.11,"Phoenix Down",False,0,0,,,"",0,100,730
 263011.0,"Fruit Worm",False,0,0,,,"",0,100,500
 263011.1,"Moyebi Shrimp",False,0,0,,,"",0,100,500
 263012.0,"Gysahl Greens",False,0,0,,,"",0,100,0
@@ -11932,6 +11973,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263023.5,"Gold Needle",False,0,0,,,"",0,100,0
 263023.6,"Grade 7 Dark Matter",False,0,0,,,"",0,100,0
 263023.7,"Grade 8 Dark Matter",False,0,0,,,"",0,100,600
+263023.8,"Phoenix Down",False,0,0,,,"",0,100,730
 263024.0,"Dragonsung Saw Replica",False,0,0,,,"Old and Improved: Skysung Saw",0,100,530
 263024.1,"Dragonsung Cross-pein Hammer Replica",False,0,0,,,"Old and Improved: Skysung Cross-pein Hammer",0,100,530
 263024.2,"Dragonsung Raising Hammer Replica",False,0,0,,,"Old and Improved: Skysung Raising Hammer",0,100,530
@@ -13497,6 +13539,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263121.13,"Gold Salmon Roe",False,0,0,,,"",0,100,600
 263121.14,"Leech",False,0,0,,,"",0,100,600
 263121.15,"Luxurious Paper",False,0,0,,,"",0,90,600
+263121.16,"Phoenix Down",False,0,0,,,"",0,100,730
 263122.0,"X-Potion",False,0,0,,,"",0,100,0
 263122.1,"X-Ether",False,0,0,,,"",0,100,0
 263122.2,"X-Potion of Strength",False,0,0,,,"",0,100,0
@@ -13520,6 +13563,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263122.20,"Aetheroconductive Mammet Components",False,0,0,,,"",0,100,610
 263122.21,"School Supply Components",False,0,0,,,"",0,100,610
 263122.22,"Metal Spinner",False,0,0,,,"",0,101,0
+263122.23,"Phoenix Down",False,0,0,,,"",0,100,730
 263123.0,"Oldrose Seeds",False,0,0,,,"",0,100,0
 263123.1,"Fish Meal",False,0,0,,,"",0,100,0
 263123.2,"Red Pomace",False,0,0,,,"",0,100,0
@@ -13551,6 +13595,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263123.28,"Garden Sunflower Seeds",False,0,0,,,"",0,100,700
 263123.29,"Cattleya Seeds",False,0,0,,,"",0,100,710
 263123.30,"Paperflower Seeds",False,0,0,,,"",0,100,720
+263123.31,"Champa Seeds",False,0,0,,,"",0,100,730
 263124.0,"Nymeia Potpourri",False,0,0,,,"",0,100,0
 263124.1,"Magicked Prism (Flowers)",False,0,0,,,"",0,100,0
 263124.2,"Meteor Shower",False,0,0,,,"",0,100,0
@@ -13611,7 +13656,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263131.16,"Senaculum Imperialis Painting",False,0,0,,,"End in Sight",0,100,610
 263131.17,"Regio Urbanissima Painting",False,0,0,,,"End in Sight",0,100,610
 263131.18,"Forum Solius Painting",False,0,0,,,"End in Sight",0,100,610
-263132.0,"Cthonic Horns Painting",False,0,0,,,"End in Sight",0,100,610
+263132.0,"Chthonic Horns Painting",False,0,0,,,"End in Sight",0,100,610
 263132.1,"Metabaseos Thalassai Painting",False,0,0,,,"End in Sight",0,100,610
 263132.2,"Lethe Painting",False,0,0,,,"End in Sight",0,100,610
 263132.3,"Ktisis Hyperboreia Painting",False,0,0,,,"End in Sight",0,100,610
@@ -13750,6 +13795,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263141.14,"Leech",False,0,0,,,"",0,100,600
 263141.15,"Shrimp Ball",False,0,0,,,"",0,100,600
 263141.16,"Archon Loaf",False,0,0,,,"",0,100,600
+263141.17,"Phoenix Down",False,0,0,,,"",0,100,730
 263142.0,"High Durium Pickaxe",False,0,0,,,"",0,100,0
 263142.1,"High Durium Hatchet",False,0,0,,,"",0,100,0
 263142.2,"Horse Chestnut Fishing Rod",False,0,0,,,"",0,100,0
@@ -14733,6 +14779,8 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263203.14,"Crimson Lugworm",False,0,0,,,"",0,100,700
 263203.15,"Honeybee",False,0,0,,,"",0,100,700
 263203.16,"Cherimoya",False,0,0,,,"",0,100,700
+263203.17,"Rroneek Glue",False,0,0," Forging the Phantasmal",,"",0,100,730
+263203.18,"Phoenix Down",False,0,0,,,"",0,100,730
 263204.0,"Golden Stonefly Nymph",False,0,0,,,"",0,100,700
 263204.1,"Crimson Lugworm",False,0,0,,,"",0,100,700
 263204.2,"Silkmoth Pupa",False,0,0,,,"",0,100,700
@@ -14753,6 +14801,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263205.12,"Grade 8 Dark Matter",False,0,0,,,"",0,100,0
 263205.13,"Golden Stonefly Nymph",False,0,0,,,"",0,100,700
 263205.14,"Honeybee",False,0,0,,,"",0,100,700
+263205.15,"Phoenix Down",False,0,0,,,"",0,100,730
 263206.0,"Gysahl Greens",False,0,0,,,"",0,100,0
 263206.1,"Grade 8 Dark Matter",False,0,0,,,"",0,100,0
 263206.2,"Golden Stonefly Nymph",False,0,0,,,"",0,100,700
@@ -14986,6 +15035,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263238.8,"Occult Coffer",False,0,0,,,"",0,90,720
 263238.9,"Occult Potion",False,0,0,,,"",0,90,720
 263238.10,"Occult Elixir",False,0,0,,,"",0,90,720
+263238.11,"Phoenix Down",False,0,0,,,"",0,100,730
 263239.0,"Grade 1 Dark Matter",False,0,0,,,"",0,100,0
 263239.1,"Grade 2 Dark Matter",False,0,0,,,"",0,100,0
 263239.2,"Grade 3 Dark Matter",False,0,0,,,"",0,100,0
@@ -16151,3 +16201,90 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263282.29,"Cobalt Tungsten Culinary Knife",False,0,0,,,"",0,100,0
 263282.30,"Titanium Gold Culinary Knife",False,0,0,,,"",0,100,0
 263282.31,"Ra'Kaznar Culinary Knife",False,0,0,,,"",0,100,0
+263283.0,"Gysahl Greens",False,0,0,,,"",0,100,0
+263283.1,"Grade 8 Dark Matter",False,0,0,,,"",0,100,0
+263284.0,"Mountain Chromite Saw",False,0,0,,,"",0,100,0
+263284.1,"Mountain Chromite Cross-pein Hammer",False,0,0,,,"",0,100,0
+263284.2,"Mountain Chromite Raising Hammer",False,0,0,,,"",0,100,0
+263284.3,"Mountain Chromite Lapidary Hammer",False,0,0,,,"",0,100,0
+263284.4,"Mountain Chromite Creasing Knife",False,0,0,,,"",0,100,0
+263284.5,"Lar Needle",False,0,0,,,"",0,100,0
+263284.6,"Mountain Chromite Alembic",False,0,0,,,"",0,100,0
+263284.7,"Mountain Chromite Frypan",False,0,0,,,"",0,100,0
+263284.8,"Mountain Chromite Claw Hammer",False,0,0,,,"",0,100,0
+263284.9,"Mountain Chromite File",False,0,0,,,"",0,100,0
+263284.10,"Mountain Chromite Pliers",False,0,0,,,"",0,100,0
+263284.11,"Ginseng Grinding Wheel",False,0,0,,,"",0,100,0
+263284.12,"Mountain Chromite Awl",False,0,0,,,"",0,100,0
+263284.13,"Ginseng Spinning Wheel",False,0,0,,,"",0,100,0
+263284.14,"Mountain Chromite Mortar",False,0,0,,,"",0,100,0
+263284.15,"Mountain Chromite Culinary Knife",False,0,0,,,"",0,100,0
+263284.16,"Cobalt Tungsten Saw",False,0,0,,,"",0,100,0
+263284.17,"Cobalt Tungsten Cross-pein Hammer",False,0,0,,,"",0,100,0
+263284.18,"Cobalt Tungsten Raising Hammer",False,0,0,,,"",0,100,0
+263284.19,"Cobalt Tungsten Lapidary Hammer",False,0,0,,,"",0,100,0
+263284.20,"Cobalt Tungsten Creasing Knife",False,0,0,,,"",0,100,0
+263284.21,"Cobalt Tungsten Needle",False,0,0,,,"",0,100,0
+263284.22,"Cobalt Tungsten Alembic",False,0,0,,,"",0,100,0
+263284.23,"Cobalt Tungsten Chocobo Frypan",False,0,0,,,"",0,100,0
+263284.24,"Cobalt Tungsten Claw Hammer",False,0,0,,,"",0,100,0
+263284.25,"Cobalt Tungsten File",False,0,0,,,"",0,100,0
+263284.26,"Cobalt Tungsten Pliers",False,0,0,,,"",0,100,0
+263284.27,"Dark Mahogany Grinding Wheel",False,0,0,,,"",0,100,0
+263284.28,"Cobalt Tungsten Awl",False,0,0,,,"",0,100,0
+263284.29,"Dark Mahogany Spinning Wheel",False,0,0,,,"",0,100,0
+263284.30,"Cobalt Tungsten Mortar",False,0,0,,,"",0,100,0
+263284.31,"Cobalt Tungsten Culinary Knife",False,0,0,,,"",0,100,0
+263284.32,"Titanium Gold Saw",False,0,0,,,"",0,100,0
+263284.33,"Titanium Gold Cross-pein Hammer",False,0,0,,,"",0,100,0
+263284.34,"Titanium Gold Raising Hammer",False,0,0,,,"",0,100,0
+263284.35,"Titanium Gold Lapidary Hammer",False,0,0,,,"",0,100,0
+263284.36,"Titanium Gold Creasing Knife",False,0,0,,,"",0,100,0
+263284.37,"White Gold Needle",False,0,0,,,"",0,100,0
+263284.38,"Titanium Gold Alembic",False,0,0,,,"",0,100,0
+263284.39,"Titanium Gold Bomb Frypan",False,0,0,,,"",0,100,0
+263284.40,"Titanium Gold Claw Hammer",False,0,0,,,"",0,100,0
+263284.41,"Titanium Gold File",False,0,0,,,"",0,100,0
+263284.42,"Titanium Gold Pliers",False,0,0,,,"",0,100,0
+263284.43,"Acacia Grinding Wheel",False,0,0,,,"",0,100,0
+263284.44,"Titanium Gold Awl",False,0,0,,,"",0,100,0
+263284.45,"Acacia Spinning Wheel",False,0,0,,,"",0,100,0
+263284.46,"Titanium Gold Mortar",False,0,0,,,"",0,100,0
+263284.47,"Titanium Gold Culinary Knife",False,0,0,,,"",0,100,0
+263285.0,"Snow Cotton Beret",False,0,0,,,"",0,100,0
+263285.1,"Snow Cotton Jacket",False,0,0,,,"",0,100,0
+263285.2,"Loboskin Fingerless Gloves",False,0,0,,,"",0,100,0
+263285.3,"Snow Cotton Trousers",False,0,0,,,"",0,100,0
+263285.4,"Loboskin Shoes",False,0,0,,,"",0,100,0
+263285.5,"Sarcenet Work Cap of Crafting",False,0,0,,,"",0,100,0
+263285.6,"Sarcenet Work Shirt of Crafting",False,0,0,,,"",0,100,0
+263285.7,"Br'aaxskin Halfgloves of Crafting",False,0,0,,,"",0,100,0
+263285.8,"Sarcenet Hose of Crafting",False,0,0,,,"",0,100,0
+263285.9,"Br'aaxskin Workboots of Crafting",False,0,0,,,"",0,100,0
+263285.10,"Rroneek Serge Cap of Crafting",False,0,0,,,"",0,100,0
+263285.11,"Rroneek Serge Doublet of Crafting",False,0,0,,,"",0,100,0
+263285.12,"Gomphotherium Fingerless Gloves of Crafting",False,0,0,,,"",0,100,0
+263285.13,"Rroneek Serge Trousers of Crafting",False,0,0,,,"",0,100,0
+263285.14,"Gomphotherium Boots",False,0,0,,,"",0,100,0
+263286.0,"Magicked Prism (Pumpkin)",False,0,0,,,"",0,100,0
+263286.1,"Feastful All Saints' Wake Advertisement",False,0,0,,,"",0,90,9999
+263287.0,"Magicked Prism (Sunshine)",False,0,0,,,"",0,100,0
+263287.1,"Magicked Prism (Stardust)",False,0,0,,,"",0,100,0
+263287.2,"Starlight Kinderpunsch",False,0,0,,,"",0,90,0
+263287.3,"Starlight Mug Tower",False,0,0,,,"",0,90,0
+263287.4,"Lominsan Kinderpunsch",False,0,0,,,"",0,90,9999
+263287.5,"Lominsan Starlight Mugs",False,0,0,,,"",0,90,9999
+263287.6,"Ul'dahn Kinderpunsch",False,0,0,,,"",0,90,9999
+263287.7,"Ul'dahn Starlight Mugs",False,0,0,,,"",0,90,9999
+263288.0,"Zoni",False,0,0,,,"",0,100,0
+263288.1,"Magicked Prism (Advent Cakes)",False,0,0,,,"",0,100,0
+263288.2,"",False,0,0,,,"",0,90,9999
+263289.0,"Zoni",False,0,0,,,"",0,100,0
+263289.1,"",False,0,0,,,"",0,100,0
+263289.2,"",False,0,0,,,"",0,100,0
+263289.3,"",False,0,0,,,"",0,100,0
+263289.4,"Magicked Prism (Advent Cakes)",False,0,0,,,"",0,100,0
+263289.5,"",False,0,0,,,"",0,90,9999
+263290.0,"Zoni",False,0,0,,,"",0,100,0
+263290.1,"Magicked Prism (Advent Cakes)",False,0,0,,,"",0,100,0
+263290.2,"",False,0,0,,,"",0,90,9999

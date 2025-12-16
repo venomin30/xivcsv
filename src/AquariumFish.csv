@@ -2,6 +2,7 @@
 #,AquariumWater,Size,Item,
 int32,AquariumWater,byte,Item,uint16
 0,"nothing",0,"",0
+1,"nothing",0,"",0
 2,"Freshwater",1,"Copperfish",40
 3,"Saltwater",1,"Coral Butterfly",49
 4,"Saltwater",2,"Blowfish",7
@@ -235,3 +236,13 @@ int32,AquariumWater,byte,Item,uint16
 232,"Saltwater",2,"Stardust Sleeper",579
 233,"Freshwater",3,"Karvarichthys",434
 234,"Saltwater",4,"Copper Shark",116
+235,"Saltwater",1,"Reasonscale Silverside",532
+236,"Freshwater",1,"Thundering Redbelly",572
+237,"Freshwater",1,"Variegated Sisterscale",586
+238,"Freshwater",1,"Sunlit Prism",590
+239,"Freshwater",2,"Hunu Peacock Bass",521
+240,"Freshwater",2,"Yak T'el Catfish",536
+241,"Saltwater",2,"Canal Drum",554
+242,"Freshwater",2,"Pixel Loach",582
+243,"Freshwater",3,"Oxydoras",412
+244,"Freshwater",4,"Ttokatoa",117

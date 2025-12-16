@@ -809,10 +809,10 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint16,uint32,bit&04,uint3
 805,"Shaaloani Coffee","GatheringItemLevelConvertTable#730",True,,4740,0,False,0,0,65535
 806,"Cochineal Pigment","GatheringItemLevelConvertTable#730",True,,4740,0,False,0,0,65535
 807,"Fulgurite","GatheringItemLevelConvertTable#730",True,,4740,0,False,0,0,65535
-808,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-809,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-810,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-811,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+808,"Desert Lapis Ore","GatheringItemLevelConvertTable#730",True,,4960,0,False,0,0,65535
+809,"Cordia Sap","GatheringItemLevelConvertTable#730",True,,4960,0,False,0,0,65535
+810,"Levin Quartz","GatheringItemLevelConvertTable#730",True,,0,0,False,0,5,120
+811,"Calamus Root","GatheringItemLevelConvertTable#730",True,,0,0,False,0,5,121
 812,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
 813,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
 814,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
@@ -1021,7 +1021,7 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint16,uint32,bit&04,uint3
 10200,"Rarefied Dark Mahogany Log","GatheringItemLevelConvertTable#690",True,,0,0,False,0,1,123
 10201,"Rarefied Acacia Log","GatheringItemLevelConvertTable#700",True,,0,0,False,0,1,123
 10202,"Rarefied Windsbalm Bay Leaf","GatheringItemLevelConvertTable#700",True,,0,0,False,0,1,123
-10203,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+10203,"Timeworn Gargantuaskin Map","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
 10204,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
 10205,"Swordleaf","GatheringItemLevelConvertTable#180",False,,0,0,False,0,0,65535
 10206,"Mute Swan Feather","GatheringItemLevelConvertTable#180",False,,0,0,False,0,0,65535
@@ -1956,3 +1956,103 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint16,uint32,bit&04,uint3
 11135,"Pristine Water Crystal","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
 11136,"Spicy White Pepper","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
 11137,"Leopardfang Tea Leaves","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11138,"Phaenna Bedglass","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11139,"Phaenna Bedglass","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11140,"Cobalt Vitrilith","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11141,"Vitrescent Aethersand","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11142,"Millefiorite","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11143,"Phainosilicate","GatheringItemLevelConvertTable#750",False,,0,0,False,0,5,123
+11144,"Phainosilicate","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11145,"Soda Vitrilith","GatheringItemLevelConvertTable#560",False,,0,0,False,0,6,21
+11146,"Soda Vitrilith","GatheringItemLevelConvertTable#750",False,,0,0,False,0,6,22
+11147,"Silver Vitrilith","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11148,"Amphibolite","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11149,"Phaenna Silex","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11150,"Silver Vitrilith","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11151,"Amphibolite","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11152,"Phaenna Silex","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11153,"Copper Vitrilith","GatheringItemLevelConvertTable#690",False,,0,0,False,0,6,22
+11154,"Phaenna Feldspar","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+11155,"Obsidian Vitrisand","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+11156,"Pegmatite","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+11157,"Milky Quartz","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+11158,"Phaenna Feldspar","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11159,"Obsidian Vitrisand","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11160,"Phaenna Alumen","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11161,"Pegmatite","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11162,"Milky Quartz","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11163,"High-silica Water","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11164,"Phaenna Diatomite","GatheringItemLevelConvertTable#700",False,,0,0,False,0,5,124
+11165,"Tinquartz","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+11166,"Glass Agate","GatheringItemLevelConvertTable#50",False,,0,0,False,0,6,21
+11167,"Tinquartz","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11168,"Tinquartz","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11169,"Glass Agate","GatheringItemLevelConvertTable#700",False,,0,0,False,0,6,22
+11170,"Milky Vitrilith","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11171,"Ironquartz","GatheringItemLevelConvertTable#700",False,,0,0,False,0,6,22
+11172,"Mirrorglass","GatheringItemLevelConvertTable#700",False,,0,0,False,0,5,125
+11173,"Pyrophainite","GatheringItemLevelConvertTable#750",False,,0,0,False,0,5,126
+11174,"Volcanic Glass","GatheringItemLevelConvertTable#750",False,,0,0,False,0,0,65535
+11175,"Glass Jasper","GatheringItemLevelConvertTable#750",False,,0,0,False,0,6,22
+11176,"Amethyst Cupflower","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11177,"Amethyst Cupflower","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11178,"Frosted Almonds","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11179,"Cupflower Leaf","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11180,"Glass Helix","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11181,"Helixfruit","GatheringItemLevelConvertTable#750",False,,0,0,False,0,5,127
+11182,"Myrrhine","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11183,"Myrrhine Leaf","GatheringItemLevelConvertTable#560",False,,0,0,False,0,6,21
+11184,"Myrrhine Leaf","GatheringItemLevelConvertTable#750",False,,0,0,False,0,6,22
+11185,"Distempered Grass","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11186,"Distempered Bough","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11187,"Distempered Frit","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11188,"Distempered Grass","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11189,"Distempered Bough","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11190,"Distempered Frit","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11191,"Display Acanecia","GatheringItemLevelConvertTable#690",False,,0,0,False,0,6,22
+11192,"Faceted Grass","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+11193,"Faceted Grass Stems","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+11194,"Faceted Bluegrass","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+11195,"Bluegrass Frit","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+11196,"Faceted Grass","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11197,"Faceted Grass Stems","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11198,"Faceted Grass Root","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11199,"Faceted Bluegrass","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11200,"Bluegrass Frit","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11201,"Faceted Bluegrass Root","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11202,"Blue Phainospongos","GatheringItemLevelConvertTable#700",False,,0,0,False,0,5,128
+11203,"Carnival Grass","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+11204,"Slumpbloom","GatheringItemLevelConvertTable#50",False,,0,0,False,0,6,21
+11205,"Carnival Grass","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11206,"Carnival Grass","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11207,"Slumpbloom","GatheringItemLevelConvertTable#700",False,,0,0,False,0,6,22
+11208,"Amberina Cupflower","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11209,"Cupflower Bulb","GatheringItemLevelConvertTable#700",False,,0,0,False,0,6,22
+11210,"Yellow Phainospongos","GatheringItemLevelConvertTable#700",False,,0,0,False,0,5,129
+11211,"Scorched Ventweed","GatheringItemLevelConvertTable#750",False,,0,0,False,0,5,130
+11212,"Ventweed Root","GatheringItemLevelConvertTable#750",False,,0,0,False,0,0,65535
+11213,"Ventweed","GatheringItemLevelConvertTable#750",False,,0,0,False,0,6,22
+11214,"Lightning Rod Quartz","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11215,"Cold-fused Phainoglass","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11216,"Phainopyrite","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11217,"Amethyst Cupflower","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11218,"Hardened Distempered Grass","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11219,"Mosaic Grass Seed","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11220,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+11221,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+11222,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+11223,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+11224,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+11225,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+11226,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+11227,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+11228,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+11229,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+11230,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+11231,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+11232,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+11233,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+11234,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+11235,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+11236,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+11237,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0

@@ -1802,7 +1802,7 @@ Custom matches allow participants to customize their group, arena, and other mat
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■Arenas■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 Both casual and ranked matches are held in a variety of different arenas. The staging ground currently in play rotates periodically according to Earth time.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
 63.2,0,,0,"Risers and Tiers",,"A player's riser and tier indicate their demonstrated skill in ranked Crystalline Conflict matches.","ui/icon/086000/086164.tex","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■Tier■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-Each player will rate in one of six tiers─Bronze, Silver, Gold, Platinum, Diamond, or Crystal. Players ranked in or below the Platinum tier will never drop down to a lower tier during that season. However, it is possible to drop to a lower tier from the Diamond or Crystal tiers.
+Each player will rate in one of eight tiers─Bronze, Silver, Gold, Platinum, Diamond, Crystal, Omega, or Ultima. Players ranked in or below the Platinum tier will never drop down to a lower tier during that season. However, it is possible to drop to a lower tier from Diamond and higher tiers.
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■Riser■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 The sub-levels within each tier are called “risers.” The number of risers varies per tier, with three risers each for Bronze and Silver, four for Gold and Platinum, and five within the Diamond tier. Regardless of tier placement, it is always possible for players to drop down to a lower riser.
@@ -1810,8 +1810,8 @@ The sub-levels within each tier are called “risers.” The number of risers va
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■Rising Stars■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 When you win a ranked match, you will gain one Rising Star. Similarly, a loss will remove one Star. Once you have earned the maximum three Rising Stars in one riser, an additional win will allow you to move up a riser. Winning three or more matches in a row while in the Bronze, Silver, Gold, Platinum, or Diamond tier will apply a streak bonus, netting you two Rising Stars per win.
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■The Crystal Tier■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-Once you have reached Crystal, the highest tier, victory and defeat will be reflected by your Crystal Credit, rather than Rising Stars. The amount of Credit you earn or forfeit in matches is determined by the difference in average Credit between your team and the opposing team. Streak bonuses do not apply to Crystal Credit.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■Crystal Credits■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Once you have reached Crystal tier, victory and defeat will be reflected by your Crystal Credit, rather than Rising Stars. The amount of Credit you earn or forfeit in matches is determined by the difference in average Credit between your team and the opposing team. Earning sufficient Credit will promote you to the Omega and Ultima tiers. The required Credit for promotion will change each season. Streak bonuses do not apply to Crystal Credit.
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■Resets■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 At the end of each season, the tier and risers of all participants will be lowered, the amount by which will vary between seasons.",,"",,"",,"",,"",,"",,"",,"",,"",,0
@@ -1904,6 +1904,8 @@ Heat waves atop the Red Sands will deal damage over time to all competitors. How
 ・A boost to the limit gauge.
 
 While the geyser is erupting, no creatures will emerge from the sandpit. Nevertheless, caution is advised, as the force of the geyser will deal damage to and knock back any who approach its center.","ui/icon/086000/086204.tex","","ui/icon/086000/086205.tex","",,"",,0
+64.5,0,,0,"The Bayside Battleground",,"Evoking the bayside of a western port city, this glamour-woven arena offers no specialized gimmicks. Those who would claim glory must seize it through strength and strategy alone.","ui/icon/086000/086310.tex","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■Jump Glyphs■<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Placed near the center of the arena, players may jump to the opposite shore by utilizing these glyphs. ","ui/icon/086000/086311.tex","",,"",,"",,"",,"",,"",,"",,"",,0
 65.0,0,,0,"Developing Your Island",,"Island Sanctuary allows you to create your own personal paradise amidst the natural beauty of the Cieldalaes.","ui/icon/086000/086179.tex","Island endeavors are primarily solo experiences, and can be enjoyed at your own pace.
 
 Once you have taken steps to ready your island for visitors, you may invite friends, party members, and members of your free company to spend time in your sanctuary.
@@ -2371,7 +2373,7 @@ Especially powerful enemies can be found on certain floors. Players can save the
 80.2,0,,0,"Saving Progress",,"Players can save their progress in the Palace of the Dead by defeating the boss enemies that appear on certain floors. After saving one's progress, players can resume their foray into the Palace of the Dead immediately or return at a later time. Players who choose to leave and return later will start on the floor following their last save point.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
 80.3,0,,0,"Leveling Up",,"Players who enter from floor 1 will start at level 1 regardless of their current class or job level. Players who enter from floor 51, however, will start at level 60.
 
-If your job or class level is below 90 upon entering the deep dungeon, experience points will be rewarded based on progress.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+While an independent leveling system is in place within the dungeon, experience points that affect current class or job level will be rewarded based on progress.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
 80.4,0,,0,"Learning Actions",,"As you gain levels within the Palace of the Dead, you will also relearn actions and traits for your selected class or job. You will continue to acquire actions and traits as you normally would even should your level in the Palace of the Dead exceed your actual class or job level.
 
 Any role actions acquired prior to entering the Palace of the Dead will be available immediately upon entry.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
@@ -2414,7 +2416,7 @@ To create a fixed party, the party leader must speak with Kyusei after forming a
 You must be a Disciple of War or Magic of level 61 or above to participate.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
 87.1,0,,0,"Leveling Up",,"Players who enter from floor 1 will start at level 61 regardless of their current class or job level. Players who enter from floor 21, however, will start at level 70.
 
-If your job or class level is below 90 upon entering the deep dungeon, experience points will be rewarded based on progress.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+While an independent leveling system is in place within the dungeon, experience points that affect current class or job level will be rewarded based on progress.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
 87.2,0,,0,"Precautions",,"It is possible to receive a score for your performance in Heaven–on–High. In order to do so, you must enter with a fixed party.
 
 A fixed party is also required to challenge floor 31 and beyond. Moreover, your Party KO count must be zero. Please note that the Party KO count will also increase in the event your party abandons the duty.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
@@ -2446,7 +2448,7 @@ Magicite cannot be taken outside of the deep dungeon. When in a matched party, i
 To create a fixed party, the party leader must speak with Khatun after forming a party of up to four players. Please note that all party members must have at least one unused save slot.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
 92.1,0,,0,"Leveling Up",,"Players who enter from floor 1 will start at level 81 regardless of their current class or job level. Players who enter from floor 21, however, will start at level 90.
 
-If your job or class level is below 90 upon entering the deep dungeon, experience points will be rewarded based on progress.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+While an independent leveling system is in place within the dungeon, experience points that affect current class or job level will be rewarded based on progress.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
 92.2,0,,0,"Precautions",,"It is possible to receive a score for your performance in Eureka Orthos. In order to do so, you must enter with a fixed party.
 
 A fixed party is also required to challenge floor 31 and beyond. Moreover, your Party KO count must be zero. Please note that the Party KO count will also increase in the event your party abandons the duty.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
@@ -2746,7 +2748,8 @@ Confirm your chosen color settings in the preview pane, then select <UIForegroun
 
 To use terebinth, select the leftmost square located under the leftmost color category.",,"Once terebinth has been set to the section you wish to undye, select <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Dye<UIGlow>01</UIGlow><UIForeground>01</UIForeground> to begin the dye removal process.",,"",,"",,"",,"",,"",,"",,"",,"",,0
 113.5,2,,0,"Requirements",,"Some items cannot be dyed until you have fulfilled specific conditions, indicated by the lock symbol in the upper right corner.","ui/icon/086000/086214.tex","The requirements for these items can be reviewed at any time from the <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Item Dyeing<UIGlow>01</UIGlow><UIForeground>01</UIForeground> window. Once met, the lock icon will change to a circle.",,"",,"",,"",,"",,"",,"",,"",,"",,0
-113.6,4,,3,"Dyeing Retainer Gear",,"While your retainer is summoned, select <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Dye Items<UIGlow>01</UIGlow><UIForeground>01</UIForeground> from the retainer menu to apply dyes to their equipment or any other gear in their possession.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+113.6,4,,3,"Dyeing Retainer Gear",,"While your retainer is summoned, select <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Dye Items<UIGlow>01</UIGlow><UIForeground>01</UIForeground> from the retainer menu to apply dyes to their equipment or any other gear in their possession.
+※For these items, your retainer will appear in the dye preview.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
 114.0,2,,0,"Overview",,"Glamours are a means of projecting the appearance of one piece of equipment onto another.
 
 This is a reversible effect which can be redone any number of times.
@@ -2761,7 +2764,8 @@ From the Cast Glamour window, choose the base item, then select the glamour you 
 Glamour prism recipe tomes can be purchased from Goberin in western Thanalan (X:12.1 Y:15.0) or Tataroga in Mor Dhona (X:22.1 Y:6.7) after completing the quest <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>“Absolutely Glamourous”<UIGlow>01</UIGlow><UIForeground>01</UIForeground> in western Thanalan (X:12.6 Y:14.3).",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
 114.4,2,,0,"Dispelling Glamours",,"Restoring a glamoured item to its original appearance requires the use of <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>glamour dispellers<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, which are available for purchase from the market boards or certain vendors.
 
-From the Cast Glamour window, select the glamoured item on the left, then select Remove on the right. This action will consume a glamour dispeller.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+From the Cast Glamour window, select the glamoured item on the left, then select Remove on the right. This action will consume a glamour dispeller.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※Dyes and company crests are also removed in the process.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
 114.5,2,,0,"Limitations",,"You will not be able to cast a glamour if:
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>1. The base item's job level requirement is lower than that of the glamour cast.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -2935,7 +2939,7 @@ When in a position to call certain hands, or when match points are tallied, char
 
 Once purchased, you can open the Gold Saucer menu and navigate to the Mahjong tab. Then, under Mahjong Character Voices, you can select your desired character to be used during matches. You may also select what attire will be used in the selected character's portrait, unlocking additional outfits as you progress through the main scenario.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
 124.0,0,,0,"The Occult Crescent",,"On the Occult Crescent, players must explore widely and overcome deadly threats, all in aid of unraveling the isle's mysteries.","ui/icon/086000/086304.tex","■Basic Rules
-Players can enter the Occult Crescent solo or in a party. It is possible to form a party even after entering the instance.
+Players can enter the Occult Crescent solo, in a party, or in an alliance of between nine and 48 players. It is possible to form a party even after entering the instance.
 
 ■Requirements
 A <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Disciple of War or Magic level 100 or higher<UIGlow>01</UIGlow><UIForeground>01</UIForeground> is required to enter, and the <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>required average item level is 690<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
@@ -3025,7 +3029,7 @@ Even better, a uniquely powerful enhancing effect will be applied to those who w
 Make full use of your phantom jobs and work together with up to 48 total players to overcome powerful foes and tricky battle mechanics!",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
 130.1,0,"Past and Crescent",0,"The Forked Tower: Blood",,"Only those with a <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>knowledge level of 20 or greater<UIGlow>01</UIGlow><UIForeground>01</UIForeground> may enter the Forked Tower: Blood.
 
-To do so, an aetherial node must be powered through the coordinated use of <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>sanguine ciphers<UIGlow>01</UIGlow><UIForeground>01</UIForeground> purchased from the expedition antiquarian at the base camp.",,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>A minimum of 16 players must offer sanguine ciphers within a set timeframe.<UIGlow>01</UIGlow><UIForeground>01</UIForeground> Those selected to enter will receive the Right of Entry: The Forked Tower status effect, granting them clearance to enter the Forked Tower: Blood.
+To do so, an aetherial node must be powered through the coordinated use of <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>sanguine ciphers<UIGlow>01</UIGlow><UIForeground>01</UIForeground> purchased from the expedition antiquarian at the base camp.",,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>A minimum of 24 players must offer sanguine ciphers within a set time frame.<UIGlow>01</UIGlow><UIForeground>01</UIForeground> Those selected to enter will receive the Right of Entry: The Forked Tower status effect, granting them clearance to enter the Forked Tower: Blood.
 
 A short time after the node is activated, a maximum of 48 players standing upon it will be teleported inside. Should more than 48 players board the node, players who invested a greater number of ciphers will have a higher chance of being selected for entry.",,"",,"",,"",,"",,"",,"",,"",,"",,0
 131.0,0,,0,"Currencies",,"On the Occult Crescent, there are two forms of currency: Enlightenment silver pieces and Enlightenment gold pieces.",,"■Enlightenment Silver Pieces
@@ -3075,28 +3079,42 @@ From this window, you have access to each facet of exploration, enabling you to 
 ■Cosmocredits
 Cosmocredits are a type of formless currency issued by the initiative and accepted at any interstellar base camp. The amount in your possession is displayed on your exotablet.
 
-■Lunar Credits
-Lunar credits are another type of formless currency issued by the initiative, but accepted only at the Moongate Hub. As with cosmocredits, the amount in your possession is displayed on your exotablet.",,"",,"",,"",,"",,"",,"",,"",,"",,0
+■Sector Credits
+Each cosmic exploration zone uses a unique formless currency. As with cosmocredits, the amount of credits applicable to your current location is displayed on your exotablet.",,"",,"",,"",,"",,"",,"",,"",,"",,0
 134.3,0,,0,"Zone Effects and Rules",,"Players participating in the Cosmic Exploration Initiative are subject to a number of rules and effects.
 
-■Traveling to Sinus Ardorum
-Players may speak with Drivingway in Bestways Burrow (X:21.9 Y:13.2) to gain passage to Sinus Ardorum. Upon arrival you can travel between instances by speaking to Drivingway again in Sinus Ardorum (X:20.3 Y:20.0).
+■Traveling to Exploration Zones
+Players may speak with Drivingway in Bestways Burrow (X:21.9 Y:13.2) to gain passage to cosmic exploration zones. Players may also travel directly to the zone currently under development via the aetheryte in Bestways Burrow.
 
 ■Stellar Return
-Stellar Return can be used anywhere within cosmic exploration zones. Upon use, players are transported to the rainbow crystal located in the center of the zone.
+Stellar Return can be used anywhere within cosmic exploration zones. Upon use, players are transported to the rainbow crystal located at the zone's base of operations.
 
 ■Stellar Sprint
-Within cosmic exploration zones, the rainbow crystal converts a crafter or gatherer's Sprint action into Stellar Sprint, boosting movement speed and effect duration.
+Within cosmic exploration zones, the rainbow crystal converts a crafter or gatherer's Sprint action into Stellar Sprint, boosting movement speed and effect duration.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+134.4,0,"Go Forth, Brave Explorers",0,"Traveling Between Exploration Zones",,"The Cosmic Exploration Initiative is now operational on other stars.","ui/icon/086000/086281.tex","By speaking with Cruisingway, located near the <Emphasis>Galactic Way</Emphasis>, you may travel to other cosmic exploration zones.
 
-■Mount Usage
-Excluding the mechs ridden by select pilot candidates during a mech ops directive, mounts are not permitted within the exploration zone.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+■Changing Instanced Areas
+During periods of congestion, cosmic exploration zones may be separated into instanced areas. You may travel to different instances by speaking with Cruisingway.",,"",,"",,"",,"",,"",,"",,"",,"",,0
 135.0,0,,0,"Completing Stellar Missions",,"Stellar missions are <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>requests issued to Disciples of the Hand and Land for the purpose of furthering the initiative.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","ui/icon/086000/086282.tex","■Accepting Missions
 Select Stellar Missions from the exotablet to view a list of available missions.","ui/icon/086000/086283.tex","Select a mission from the list to view its location, rewards, and other details.",,"When you're ready to begin, select the Initiate button to undertake the mission. <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>You may only accept one at a time.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",,"■Duty List
 Appears whenever a stellar mission is active. Heed the instructions to fulfill the request!",,"■Mission in Progress
 During an active mission, select Stellar Missions on the exotablet to open the Mission in Progress window. Here, you may review all the relevant details of your mission.",,"■Mission Complete
 Once you have achieved your objective, you may select the Report button from the Mission in Progress window to complete the mission and receive your rewards.
-※For a higher payout, achieve a silver or gold star rating before reporting.",,"",,"",,"",,0
-135.1,0,,0,"Missions in Progress",,"The Mission in Progress window displays details and commands relevant to your ongoing stellar mission.",,"■Cosmic Crafting Log
+※For a higher payout, achieve a silver or gold star rating before reporting.",,"※Stellar missions will be automatically abandoned upon leaving the relevant exploration zone.",,"",,"",,0
+135.1,0,,0,"Mission Selection",,"The mission selection list provides detailed information on the stellar missions available to you.",,"■Distance Icon
+Next to the name of each mission is a distance icon, indicating the relative distance from your current location to the site of the selected stellar mission.
+※Certain missions do not have a designated location.",,"■Mission Types
+Missions are divided into three categories based on conditions of availability. Select an icon to display the respective missions.","ui/icon/086000/086298.tex","・Basic Missions
+　Generally available missions.
+
+・Provisional Missions
+　Missions with restricted availability, such as during certain times
+　or weather phenomena.
+　The icon will show an exclamation mark when missions are available.
+
+・Critical Missions
+　Missions only available during red alerts.",,"",,"",,"",,"",,"",,"",,0
+135.2,0,,0,"Missions in Progress",,"The Mission in Progress window displays details and commands relevant to your ongoing stellar mission.",,"■Cosmic Crafting Log
 Exclusive to cosmic exploration, this crafting log contains recipes specific to Disciple of the Hand stellar missions.
 
 Choose a recipe, then select the Synthesize button to begin cosmic crafting in much the same fashion as ordinary crafting.",,"■Stellar Reduction
@@ -3111,29 +3129,50 @@ Upon completing a mission, you will be awarded a bronze, silver, or gold star ra
 Bronze: No Bonus
 Silver: 4x Bonus
 Gold: 5x Bonus
+Furthermore, you will gain a fixed amount of experience regardless of tier.
 
 Any mission completed with a bronze or silver star rating will henceforth have a checkmark beside its name in the mission selection list, whereas missions completed with a gold star rating will have a special symbol instead.",,"",,"",,"",,"",,"",,"",,"",,0
-135.2,0,,0,"Mission Types",,"Though objectives, rating milestones, and other details may vary, each mission generally falls under one of the following categories:
+135.3,0,,0,"Mission Types I",,"Though objectives, rating milestones, and other details may vary, each mission generally falls under one of the following categories:
 
-■Stock Up on Items
-Utilize your crafting or gathering abilities to collect a specific item. Upon reaching the requisite quantity, the mission is complete.
+■Stocking Specified Items
+Utilize your abilities to collect a specific item. Upon reaching the requisite quantity, the mission is complete.
 
-Disciples of the Hand may earn greater compensation by submitting high-quality items, whereas Disciples of the Land will be richly rewarded for items with a higher collectability rating. You can review the requisite milestones on the item help window.
+Disciples of the Hand may earn greater compensation by submitting high-quality items, whereas fishers will be richly rewarded for large-sized fish. You can review the requisite milestones on the item help window.
+
+■Stocking Specified Item Types
+Utilize your abilities to collect items of specified types. The more types of items obtained, the higher your rating upon mission completion. Each new type of item obtained increases your rating by 1,000 points.
 
 ■Race against Time
-For these missions, the objective must be completed within the time limit, whether it's gathering a set quantity of items or fishing up different types of marine life. The faster you finish, the better your rating.
+For these missions, the objective must be completed within the time limit. The faster you finish, the better your rating, increasing by 10 points for every remaining second.
 
-■Chains and Gatherer's Boon (Miners and Botanists Only)
-Achieve as many successful chains and instances of Gatherer's Boon as possible. Upon achieving the requisite score, the mission is complete.
+■Increasing Collectability
+Utilize your abilities to collect items with high collectability. The higher the collectability, the higher your rating upon completion. You can review the requisite milestones on the item help window.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+135.4,0,,0,"Mission Types II",,"Certain gatherer missions also have class-specific rank requirements.
 
-■Big Fish (Fishers Only)
-For these missions, your rating is determined by the size of your fish. Some missions will evaluate your single biggest catch, while others measure the average size of your entire haul. Upon meeting the requisite size, the mission is complete.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-135.3,0,,0,"Cosmopouch",,"The cosmopouch is <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>a separate inventory reserved exclusively for cosmic exploration.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Any materials or bait required for stellar missions will be placed in your cosmopouch free of charge upon commencement.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","ui/icon/086000/086284.tex","The cosmopouch also holds your gathered resources, fish, and cosmic crafts. Upon completing a stellar mission, the relevant items are automatically submitted to the initiative.",,"",,"",,"",,"",,"",,"",,"",,0
-135.4,0,,0,"Unlocking New Missions",,"In the beginning, you are only permitted to undertake class D stellar missions. You will gradually unlock more difficult tasks upon reaching the requisite conditions, which can be found below the mission selection list.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-135.5,0,,0,"Stellar Mission Rules",,"There are a few special rules and restrictions associated with stellar missions:
+■Successive Gathering Chains (Miner and Botanist Only)
+Achieve as many successful chains as possible at a single gathering point. The higher the chain, the higher your rating.
+Chain #1: 50
+Chain #2: 50
+Chain #3: 50
+Chain #4: 150
+Chain #5+: 200
+
+■Gatherer's Boon (Miner and Botanist Only)
+Trigger Gatherer's Boon as many times as possible. Rating is increased by 200 each time the effect is triggered.
+
+■Big Fish (Fisher Only)
+Your rating is determined by the size of fish caught. Some missions will evaluate your single biggest catch, while others measure the average size of your entire haul. In either case, your rating is tallied using the formula “fish size x 10.”",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+135.5,0,,0,"Cosmopouch",,"The cosmopouch is <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>a separate inventory reserved exclusively for cosmic exploration.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Any materials or bait required for stellar missions will be placed in your cosmopouch free of charge upon commencement.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","ui/icon/086000/086284.tex","The cosmopouch also holds your gathered resources, fish, and cosmic crafts. Upon completing a stellar mission, the relevant items are automatically submitted to the initiative.",,"",,"",,"",,"",,"",,"",,"",,0
+135.6,0,,0,"Unlocking New Missions",,"In the beginning, you are only permitted to undertake class D stellar missions. You will gradually unlock more difficult tasks upon reaching the requisite conditions, which can be found below the mission selection list.
+
+Unlocking tasks in any given area will unlock stellar missions for all exploration areas. ",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+135.7,0,,0,"Stellar Mission Rules",,"There are a few special rules and restrictions associated with stellar missions:
 
 ■Quest Sync
 The difficulty of crafting and gathering missions, as well as the amount of experience earned, will be adjusted to your current level at the time of commencement.
+
+■GP Recovery
+Upon completing gathering missions, you will recover GP equal to the total amount spent during the mission. Furthermore, the recast timer of recovery items such as cordials will be reset.
 
 ■Crafting and Gathering Restrictions
 During a stellar mission, crafting and gathering will not award experience, and spiritbond will accrue at a different rate.
@@ -3144,11 +3183,11 @@ At the end of each stellar mission, your Angler's Art stacks will be reset, rega
 ■Ground Support Bonuses
 Ground supporters who make sufficient contributions to a mech op will receive bonus credits for a certain number of subsequent missions, regardless of objective. These bonuses are as follows:
 
-Cosmocredits: +10
-Lunar Credits: +10
+Cosmocredits: +20
+Sector Credits: +10
 
 For the duration of the effect, an arrow symbol will be displayed on the Initiate button on the mission selection window.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-135.6,0,,0,"Cosmic Class Score",,"The cosmic class score refers to <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>the points individual players accrue by taking part in cosmic exploration, separated by class.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+135.8,0,,0,"Cosmic Class Score",,"The cosmic class score refers to <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>the points individual players accrue by taking part in cosmic exploration, separated by class.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 Whenever you complete a stellar mission, you will earn points for your chosen class. Reaching certain milestones will grant achievements and, in some cases, titles.
 
@@ -3158,7 +3197,7 @@ When mech op directives are issued, an announcement will be made to all players 
 Players may take part as either pilots or ground support, each role having different requirements for participation.",,"",,"",,"",,"",,"",,"",,"",,0
 136.1,0,,0,"Piloting a Mech",,"Pilots are charged with <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>operating powerful mechs called vacuum suits in order to carry out these missions.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 Each time a mech op order is issued, pilots will be selected at random from those who apply.","ui/icon/086000/086286.tex","■Pilot Applications
-To be selected as a pilot, players will be asked to submit a pilot application. These can be obtained from Alerot in Sinus Ardorum (X:22.4 Y:20.3) in exchange for lunar credits.
+To be selected as a pilot, players will be asked to submit a pilot application. These can be obtained from Alerot in exchange for the designated stellar credits.","ui/icon/086000/086303.tex","There are different types of pilot applications, each of which can only be used in their corresponding exploration areas.
 
 ■Submitting Applications
 Once a mech op has been issued, those seeking to serve as pilots may do so by accessing the Mech Ops Registration menu via their exotablets.","ui/icon/086000/086287.tex","Those who possess an application will then be allowed to submit.",,"After the application period has concluded, those selected to be pilots will receive a notification.
@@ -3168,20 +3207,18 @@ A final verification prompt will then be displayed, after which pilots will boar
 Please be advised that <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>any active stellar missions will be canceled.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 ■Processed Applications
-Applications are only processed and taken from players who are selected to be pilots. Please note that, once taken, they will not be returned should you later decide to forfeit your position as pilot.",,"",,"",,"",,"",,"",,"",,0
+Applications are only processed and taken from players who are selected to be pilots. Please note that, once taken, they will not be returned should you later decide to forfeit your position as pilot.",,"",,"",,"",,"",,"",,0
 136.2,0,,0,"Ground Support",,"Ground supporters are <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>another important role in the completion of mech ops, whereby players participate without the use of vacuum suits.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","ui/icon/086000/086288.tex","■Participation
 To join mech ops as a ground supporter, players must proceed directly to the mission site and select “Join Event.”
 
 ■Reaching the Mission Site
-When a mech ops directive has been issued, players may speak with Alerot in Sinus Ardorum (X:22.4 Y:20.3) to be transported immediately to the mission site.
-
-■Ground Supporter's Duty
+When a mech ops directive has been issued, players may speak with Alerot to be transported immediately to the mission site.","ui/icon/086000/086303.tex","■Ground Supporter's Duty
 Resources gathered during mech ops must be fed into nearby field scanners. When sufficient resources have been gathered, the field scanners will activate, revealing targets for mech pilots to strike.
 
 ■Special Rewards
 As thanks for completion of missions as ground support, players who make sufficient contributions will receive a buff that increases the number of credits received when completing stellar missions.
 
-Further details can be found under “Stellar Mission Rules.”",,"",,"",,"",,"",,"",,"",,"",,"",,0
+Further details can be found under “Stellar Mission Rules.”",,"",,"",,"",,"",,"",,"",,"",,0
 137.0,0,,0,"Overview",,"By assisting in the Cosmic Exploration Initiative, player contributions are recorded and tallied over regular intervals. These accumulated scores are used to rank players in the Starward Standings.
 
 Players with the highest score at the end of any given ranking period are designated <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Star Contributor<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
@@ -3193,7 +3230,9 @@ Player scores can be increased by undertaking stellar missions, or participating
 
 After completion of the aforementioned activities, a system message will display in the log window noting the size of your contribution.
 
-To learn more about these tallying periods or your present score, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>speak with Scanningway at the Moongate Hub.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+To learn more about these tallying periods or your present score, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>speak with Scanningway at the current exploration area's base camp.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Please note that <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Starward Standings will only be recorded in the current exploration area<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
 
 Players selected as Star Contributor will receive special accolades that last for fourteen days (Earth time) from the time they are chosen.
 
@@ -3225,7 +3264,7 @@ You can keep track of your progress via the Stellar Successes section of the exo
 Participating in stellar missions and mech ops are just two of the many ways you can attain stellar successes and reap the rewards.
 
 Beware that rewards received above and beyond your carrying capacity will be disposed of.",,"",,"",,"",,"",,"",,"",,"",,"",,0
-140.1,0,,0,"Daily Successes",,"Daily successes reward <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>short-term contributions to the initiative on a day-to-day basis<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. These milestones can be viewed under the Daily tab in the Stellar Successes section of the exotablet.",,"Completing daily successes awards Daily Success Points. Different rewards are available depending on the number of points accrued.
+140.1,0,,0,"Daily Successes",,"Daily successes reward <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>short-term contributions to the initiative on a day-to-day basis<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. These milestones can be viewed under the Daily tab in the Stellar Successes section of the exotablet.",,"Completing daily successes awards Daily Success Points. Different rewards are available depending on the number of points accrued. Rewards may also vary based on the current initiative's progress.
 
 Daily success progress is reset each day at <ResetTime>13</ResetTime><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>12</If> <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>p.m.<Else/>a.m.</If> (Earth time).",,"",,"",,"",,"",,"",,"",,"",,"",,0
 140.2,0,,0,"Standard Successes",,"Standard successes reward <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>long-term contributions over the course of the initiative<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. These milestones can be viewed under the Standard tab in the Stellar Successes section of the exotablet.",,"Corresponding rewards are given upon reaching each milestone.",,"",,"",,"",,"",,"",,"",,"",,"",,0
@@ -3240,13 +3279,15 @@ An icon will appear on the exotablet when you have sufficient data to report.","
 142.1,0,,0,"Cosmic Tools",,"Designed for Disciples of the Hand and Land, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>cosmic tools are the technological culmination of Researchingway's fastidious data analysis<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
 
 As you complete analytical tasks, the ingenious Loporrit can upgrade your cosmic tool to ever-increasing heights of utility.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-143.0,0,,0,"Overview",,"Cosmic fortunes are <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>one of several reward systems players will encounter while participating in cosmic exploration.<UIGlow>01</UIGlow><UIForeground>01</UIForeground> Using credits earned through contributions to the initiative, you can draw fortunes to receive various prizes.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+143.0,0,,0,"Overview",,"Cosmic fortunes are <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>one of several reward systems players will encounter while participating in cosmic exploration.<UIGlow>01</UIGlow><UIForeground>01</UIForeground> Using credits earned through contributions to the initiative, you can draw fortunes to receive various prizes. The available prizes differ from star to star.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
 143.1,0,,0,"Requirements",,"Contributions to the Cosmic Exploration Initiative are rewarded with credits based on the planet where they are made. In the case of Sinus Ardorum, players will receive lunar credits.
 
 These credits may then be spent to <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>draw cosmic fortunes by speaking with Orbitingway, each draw costing 1,000 credits.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","ui/icon/086000/086299.tex","",,"",,"",,"",,"",,"",,"",,"",,"",,0
 143.2,0,,0,"Drawing Your Fortune",,"After paying the requisite credits, the cosmic fortune drawing will begin, and players will be presented with two roulette wheels.",,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Each roulette contains a unique set of prizes.<UIGlow>01</UIGlow><UIForeground>01</UIForeground> After selecting one, the roulette wheel will be spun, and players will receive rewards based on where it stops.",,"",,"",,"",,"",,"",,"",,"",,"",,0
 143.3,0,,0,"Stellar Opportunities",,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>The roulette wheel has a chance to stop on a special marker, granting players a Stellar Opportunity.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","ui/icon/086000/086300.tex","Stopping on Stellar Opportunity will reveal a new roulette wheel with a new set of special prizes.",,"",,"",,"",,"",,"",,"",,"",,"",,0
 143.4,0,,0,"Big Bang Fortunes",,"Players who make substantial contributions to mech ops may be rewarded with a ticket for a <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Big Bang fortune<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+There are several types of Big Bang fortunes which can only be obtained and used on their respective stars.
 
 Should you receive one of these tickets, speak with Orbitingway to test your luck on a special roulette wheel for a chance to win extravagant prizes.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
 144.0,0,,0,"Overview",,"Operating in volatile environs is not without its challenges. At times, unforeseen developments may call for emergency measures.","ui/icon/086000/086301.tex","Whenever these hazards result in major obstacles to the initiative, the Moongate Hub will issue a <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>red alert<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Heed the call to arms, and work together with your comrades to resolve the crisis!",,"",,"",,"",,"",,"",,"",,"",,"",,0
@@ -3258,11 +3299,135 @@ For the Cosmic Exploration Initiative, there's no such thing as too many supplie
 144.4,0,,0,"Restrictions",,"Critical missions may only be undertaken while a red alert is active. Upon its conclusion, you will be unable to complete the mission.
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Additionally, once the timer falls below one minute, you will be unable to accept a new mission, as you will not have sufficient time to complete it.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+144.5,0,"Go Forth, Brave Explorers",0,"Traveling to Mission Sites",,"Critical missions require you to craft or procure materials at a designated location. On Phaenna, you may speak with Lefleda at Glassblowers' Beacon to travel directly to the mission site while a red alert is active.","ui/icon/086000/086312.tex","",,"",,"",,"",,"",,"",,"",,"",,"",,0
 145.0,0,,0,"Cosmocredits",,"Cosmocredits are a type of currency earned through contributions to the Cosmic Exploration Initiative. At the Credit Exchange, they can be used to purchase a variety of supplies and even exclusive wares!
 
 ■How to Earn Cosmocredits
 Cosmocredits are primarily earned through the completion of stellar missions, but are also awarded through stellar successes and other avenues. Some tasks, such as construction projects, are more lucrative than others!",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
-145.1,0,,0,"Lunar Credits",,"Lunar credits are a type of currency earned through contributions to the exploration of Sinus Ardorum. They can be used to purchase cosmic fortunes as well as pilot applications for use in mech ops.
+145.1,0,,0,"Sector Credits",,"Sector credits are currencies earned through contributions to the Cosmic Exploration Initiative. The type of credits obtained will vary based on the exploration map they were obtained in. They can be used to purchase cosmic fortunes as well as pilot applications for use in mech ops.
 
-■How to Earn Lunar Credits
-Lunar credits are primarily earned through the completion of stellar missions, but are also awarded through stellar successes and other avenues. During red alerts, complete critical missions for an even bigger payout!",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+■How to Earn Sector Credits
+Sector credits are primarily earned through the completion of stellar missions, but are also awarded through stellar successes and other avenues. During red alerts, complete critical missions for an even bigger payout!",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+145.2,0,"Go Forth, Brave Explorers",0,"Cosmic Exploration Tokens",,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Cosmic Exploration Tokens<UIGlow>01</UIGlow><UIForeground>01</UIForeground> are awarded upon successful completion of certain difficult stellar missions.
+
+These tokens can be exchanged for special rewards by speaking with Mesouaidonque.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+146.0,0,,0,"Entry",,"You may enter Pilgrim's Traverse solo or in a party of up to four players. When speaking with Vanthau, you will be given the option to enter with a fixed party or a matched party via the matching system.
+
+To create a fixed party, the party leader must speak with Vanthau after forming a party of up to four players. Please note that all party members must have at least one unused save slot.
+
+You must be a Disciple of War or Magic of level 91 or above to participate.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+146.1,0,,0,"Leveling Up",,"Players who enter from traverse stone 1 will start at level 91 regardless of their current class or job level. Players who enter from traverse stones 21, 31, 51, or 71 will start at level 100.
+
+While an independent leveling system is in place within the dungeon, experience points that affect current class or job level will be rewarded based on progress.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+146.2,0,,0,"Precautions",,"Your Party KO count must be zero to challenge areas beyond traverse stone 31. Please note that the Party KO count will also increase in the event your party abandons the duty.
+
+It is also possible to receive a score for your performance in Pilgrim's Traverse. In order to do so, you must enter with a fixed party.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+147.0,0,,0,"Resetting Progress",,"It is possible to reset your progression in Pilgrim's Traverse, allowing you to re-enter the chapels from previous traverse stones.
+
+If entering from stone 1, your level will be reset to 91. If entering from stones 21, 31, 51, or 71, your level will be reset to 100. Although area progression and character level will be reset, aetherpool arm and gear strength will remain unchanged. Please note, however, that data cannot be restored once deleted.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+148.0,0,,0,"Disbanding Fixed Parties",,"It is possible to convert fixed party save data to matched party save data, allowing you to be matched automatically with other players via the matching system. Please note that all special items (pomanders and incense) will be lost upon converting your data.
+
+Once saved data from a fixed party is converted, it can only be used when selecting matched party. It cannot be restored to its original state.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+148.1,0,,0,"Entry After Disbanding",,"Although players can no longer enter as a fixed party after converting their saved data, it is still possible to create preformed parties as long as the party is formed before entering Pilgrim's Traverse. The progression of all party members must be identical when doing so. Any open party slots will be filled automatically via the matching system.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+148.2,0,,0,"Party Progression",,"Players who have not progressed to the same stone cannot enter Pilgrim's Traverse together as a party. Those clearing earlier areas must use the matching system on their own. Once all players have reached the same traverse stone, they can proceed together by forming a party and choosing to enter as a matched party.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+149.0,0,,0,"About Illumed Aetherpool Gear",,"Players must use illumed aetherpool armor and arms in place of normal gear when inside Pilgrim's Traverse. They will be equipped automatically upon entering, and can then be strengthened as you progress through the dungeon.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+149.1,0,,0,"Upgrading Aetherpool Gear",,"Illumed aetherpool gear can be enhanced by accessing silver coffers. These coffers are found randomly in each area and after defeating certain enemies. Please note that aetherpool gear possessed of significant strength may, in some cases, fail to resonate properly with silver coffers, resulting in failed enhancement.
+
+The maximum strength of illumed aetherpool gear may be restricted depending on your class or job level and current dungeon progression. This can be confirmed when viewing the Character Info window.
+
+Aetherpool gear enhancements will not carry over from one deep dungeon to another.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+149.2,0,,0,"Gear Restrictions",,"Under certain circumstances, you may be unable to join a matched party due to insufficient gear strength. In such cases, it may be necessary to resume your exploration of Pilgrim's Traverse from stone 1 to ensure your illumed aetherpool gear is of sufficient strength.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+150.0,0,,0,"Pomanders",,"Players will, on occasion, obtain pomanders from treasure coffers in Pilgrim's Traverse. These items can be used by all party members once acquired. They have various effects such as revealing the entirety of a map or increasing the number of treasure coffers in a given area. Effective use of these items will help ensure the situation is always to your advantage.
+
+Pomanders that affect the map cannot be overwritten with the same item when their effect is already in play. Please note, however, that they will still be consumed upon use.
+
+Pomanders cannot be taken outside of the deep dungeon. When in a matched party, they will be reset each time you enter the dungeon.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+150.1,0,,0,"Juniper Incense",,"Juniper incense may be obtained from treasure coffers in Pilgrim's Traverse. Incense is shared between all party members and, when burned, calls the faerie king to assist you in a variety of ways. The help you receive is dependent upon the type of incense you burn.
+
+Incense cannot be taken outside of the deep dungeon. When in a matched party, it will be reset each time you enter the dungeon.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+151.0,0,,0,"About Votives",,"Players may encounter votive candelabras along their journey through Pilgrim's Traverse. Lighting them will activate various effects for the area beyond the next traverse stone. These effects may benefit your party or introduce additional challenges, so consider wisely before lighting the votives you find.
+
+Votive candelabras cannot be found in areas that precede a boss battle.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+152.0,0,,0,"About the Accursed Hoard",,"When exploring Pilgrim's Traverse, players will, on occasion, find pieces of the Accursed Hoard─treasure sealed by powerful magicks. Once found, players must remain stationary in the treasure's location for a fixed period of time to unearth the coffer.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+152.1,0,,0,"Finding the Accursed Hoard",,"Though it is not difficult to unearth pieces of the Accursed Hoard, its location cannot be discerned with the naked eye alone.
+
+Players must make use of a certain pomander in order to sense the presence of hidden pieces of the Accursed Hoard.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+152.2,0,,0,"Appraisal",,"Pieces of the Accursed Hoard found in Pilgrim's Traverse will be moved to your inventory upon saving your progress and exiting the dungeon. To ascertain the true value of this treasure, you must speak with Tyr Marn to have it properly appraised.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+153.0,0,,0,"Individual and Party Scores",,"When entering the deep dungeon as a fixed party, you will receive scores based on a number of factors such as the furthest traverse stone reached and number of enemies slain. You will be assigned separate scores for both individual and team performance.
+
+Please note that you cannot earn credit for previous areas when starting from stones 21, 31, 51, or 71. Starting from traverse stone 1 will ensure the highest score possible.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+153.1,0,,0,"Rankings",,"Your highest score from the deep dungeon will be saved and can be viewed at any time by speaking with Vanthau. Scores that exceed a certain threshold will be made viewable on the rankings page of the Lodestone.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+154.0,0,"A Branch and Their Sapling",0,"Entry",,"The Final Verse (Quantum) is an independent duty that pits a four-player party against an enhanced incarnation of Eminent Grief. At least 15 sacramental offerings must be collected in order to challenge this duty.
+
+Once a party leader has acquired sufficient offerings, they must form a four-player party with Disciples of War or Magic of level 100 or above and speak with Vanthau to invoke the Final Verse (Quantum). After selecting at least 15 offerings, Eminent Grief may be summoned and the duty commenced.
+
+Please note that phoenix down cannot be used during the Final Verse (Quantum).",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+154.1,0,"A Branch and Their Sapling",0,"Sacramental Offerings",,"Five types of items may serve as offerings when invoking the Final Verse (Quantum):
+・Sacramental Spirits
+・Sacramental Spices
+・Sacramental Grain
+・Sacramental Light
+・Sacramental Lilies
+
+At least 15 items must be selected to summon Eminent Grief.
+
+Sacramental offerings may occasionally be obtained by appraising pieces of the Accursed Hoard discovered within Pilgrim's Traverse.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+154.2,0,"A Branch and Their Sapling",0,"Difficulty Level",,"In principle, summoning Eminent Grief with a greater number of offerings will result in a stronger incarnation. The type and number of offerings selected may also affect boss behavior, statuses, and a variety of other factors, thus altering the difficulty of the Final Verse (Quantum) in unexpected ways.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+154.3,0,"A Branch and Their Sapling",0,"Rewards",,"Upon victory, a treasure coffer will appear. Opening this treasure coffer will expend the offerings that were selected to summon Eminent Grief.
+
+Rewards are proportionate to the number of offerings used. Additionally, the player who selected offerings before entering the duty will receive more rewards than other party members.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+155.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+156.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+156.1,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+157.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+157.1,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+158.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+158.1,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+158.2,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+158.3,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+159.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+159.1,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+160.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+160.1,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+161.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+162.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+163.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+164.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+165.0,0,,0,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+166.0,6,,0,"Entry",,"The Final Verse is a practice duty that pits a party of up to four players against a simulacrum of Eminent Grief. Players may speak with Vanthau to challenge this duty with a fixed or matched party.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+166.1,6,,0,"Difficulty Level",,"The boss summoned by invoking the Final Verse is a perfect replica of the fiend lurking beyond traverse stone 99. By practicing against this simulacrum, players will become better equipped to overcome Eminent Grief within Pilgrim's Traverse.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+166.2,6,,0,"Rewards",,"Upon victory, a treasure coffer will appear. All party members may receive rewards upon opening this treasure coffer.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+167.0,0,,0,"About the Blessed Hoard",,"Players may obtain pieces of the Blessed Hoard by completing challenge log objectives for Pilgrim's Traverse, or by clearing the two duties unlocked over the course of the dungeon.
+
+Just as with the Accursed Hoard, pieces of the Blessed Hoard must be appraised by Tyr Marn in Wolekdorf to ascertain their true value.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+168.0,0,,0,"Construction",,"Pilgrim's Traverse differs from previous deep dungeons in a variety of ways. The changes you can expect to find are outlined below, using the Palace of the Dead as a contrasting example.
+
+<UIForeground>F20224</UIForeground>■Floors<UIForeground>01</UIForeground>
+The Palace of the Dead has a total of two hundred floors, whereas Pilgrim's Traverse has one hundred areas available for exploration.
+
+<UIForeground>F20224</UIForeground>■Entry Points<UIForeground>01</UIForeground>
+You may re-enter the dungeon from waypoints should your party KO or if you reset your progress. These entry points become available after clearing certain areas and completing quests unlocked by dungeon progression.
+
+In the Palace of the Dead, players can only re-enter from floors 1 or 51. Pilgrim's Traverse offers entry points from stones 1, 21, 31, 51, and 71.
+
+<UIForeground>F20224</UIForeground>■Matched Parties<UIForeground>01</UIForeground>
+All floors after floor 100 of the Palace of the Dead are designed strictly as a challenge for players and only accessible to fixed parties. However, Pilgrim's Traverse allows players to challenge comparable areas, beginning with stone 31, with matched parties. Please note that from stone 91 onwards, the matching system cannot be used to add members.
+
+<UIForeground>F20224</UIForeground>■Independent Duties<UIForeground>01</UIForeground>
+Two independent duties can be unlocked by proceeding through Pilgrim's Traverse. Tabs with more information on each will be added to this menu when they are unlocked.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+168.1,0,,0,"Special Items and Features",,"Some items and features found within this dungeon are unique to Pilgrim's Traverse.
+
+<UIForeground>F20224</UIForeground>■Special Items<UIForeground>01</UIForeground>
+Alongside pomanders, treasure coffers in Pilgrim's Traverse may contain juniper incense, which can be burned to call the faerie king. Check the Special Items tab for more information.
+
+<UIForeground>F20224</UIForeground>■Special Features<UIForeground>01</UIForeground>
+In Pilgrim's Traverse, you may encounter votive candelabras, which may be lit to trigger effects in the subsequent area. Check the Votive Candelabras tab for more information.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0
+168.2,0,,0,"Rewards",,"Alongside pieces of the Accursed Hoard, Pilgrim's Traverse offers a variety of rewards.
+
+<UIForeground>F20224</UIForeground>■Challenge Log Rewards<UIForeground>01</UIForeground>
+Entries for Pilgrim's Traverse have been added to the deep dungeon category of the challenge log. Completing them will earn players special rewards.
+
+The challenge log may be checked via the main menu or by speaking with Vanthau.
+
+<UIForeground>F20224</UIForeground>■The Blessed Hoard<UIForeground>01</UIForeground>
+Players can collect pieces of the Blessed Hoard by completing challenge log objectives or clearing related duties. Check the Blessed Hoard tab for more information.",,"",,"",,"",,"",,"",,"",,"",,"",,"",,0

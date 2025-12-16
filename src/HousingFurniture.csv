@@ -216,6 +216,10 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 196820,212,15,12,2,0,0,"HouFurPicture_00376","Grade 1 Picture Frame",False,False,0,7,14,True,False
 196821,213,15,12,2,0,0,"HouFurPicture_00376","Grade 2 Picture Frame",False,False,0,7,14,True,False
 196822,214,15,12,2,0,0,"HouFurPicture_00376","Grade 3 Picture Frame",False,False,0,7,14,True,False
+196823,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+196824,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+196825,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+196826,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 196827,219,14,7,22,0,0,"CmnDefHousingDish_00213","High House Supper Set",True,False,9,4,11,True,False
 196828,220,14,12,1,0,0,"HouFurVase_00336","Riviera Vase",False,False,0,5,12,True,False
 196829,221,14,12,1,0,0,"HouFurVase_00336","Oasis Vase",False,False,0,5,12,True,False
@@ -324,6 +328,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 196932,324,12,0,0,0,0,,"Longcase Chronometer",False,False,0,0,0,True,False
 196933,325,12,0,0,0,0,,"Oriental Bathtub",False,False,0,0,0,True,False
 196934,326,12,0,0,0,0,,"Frolicking Beasts",False,False,0,0,0,True,False
+196935,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 196936,328,13,0,0,0,0,,"Kotatsu Table",False,False,0,0,0,True,False
 196937,329,12,0,0,0,0,,"Alpine Chair",False,False,0,0,0,True,False
 196938,330,13,0,0,0,0,,"Alpine Round Table",False,False,0,0,0,True,False
@@ -349,6 +354,8 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 196958,350,12,0,0,0,0,,"Oriental Partition",False,False,0,0,0,True,False
 196959,351,12,0,0,0,0,,"Dead Man's Chest",False,False,0,0,0,True,False
 196960,352,12,0,0,0,0,,"Oak Low Barrel Planter",False,False,0,0,0,True,False
+196961,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+196962,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 196963,355,14,7,11,0,0,"CmnDefHousingDish_00213","Valentione's Cake",True,False,9,4,11,True,False
 196964,356,12,0,0,0,0,,"Royal Partition",False,False,0,0,0,True,False
 196965,357,13,0,0,0,0,,"Order of Nald'thal Lectern",False,False,0,0,0,True,False
@@ -365,6 +372,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 196976,368,15,0,0,0,0,,"Oriental Wind Chime",False,False,0,0,0,True,False
 196977,369,14,0,0,40,0,"CmnDefMiniGame_00200","Toy Box",False,False,0,0,0,True,False
 196978,370,12,0,0,54,0,"CmnDefBeautySalon_00148","Crystal Bell",False,False,0,0,0,True,False
+196979,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 196980,372,13,0,0,0,0,,"Oasis Half Partition",False,False,0,0,0,True,False
 196981,373,13,0,0,0,0,,"Glade Half Partition",False,False,0,0,0,True,False
 196982,374,13,0,0,0,0,,"Cask Rack",False,False,0,0,0,True,False
@@ -421,6 +429,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197033,425,14,0,0,0,0,"CmnDefHousingObject_00141","Topaz Carbuncle Lamp",False,False,3,0,0,True,False
 197034,426,14,0,0,0,0,"CmnDefHousingObject_00141","Premium Stuffed Moogle",False,False,3,0,0,True,False
 197035,427,14,0,0,0,0,"CmnDefHousingObject_00141","Dreadwyrm Miniature",False,False,3,0,0,True,False
+197036,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197037,429,14,0,0,0,0,,"Serpent Trophy (Left)",False,False,5,0,0,True,False
 197038,430,14,0,0,0,0,,"Serpent Trophy (Center)",False,False,5,0,0,True,False
 197039,431,14,0,0,0,0,,"Serpent Trophy (Right)",False,False,5,0,0,True,False
@@ -433,6 +442,8 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197046,438,14,0,0,0,0,"CmnDefHousingObject_00141","Ruby Carbuncle Lamp",False,False,3,0,0,True,False
 197047,439,14,0,0,0,0,"CmnDefHousingObject_00141","Emerald Carbuncle Lamp",False,False,3,0,0,True,False
 197048,440,12,3,4,21,0,,"Steward Permit",False,False,0,16,9,False,False
+197049,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+197050,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197051,443,14,11,0,53,0,"HouFurPlantPot_00331","Riviera Flowerpot",False,False,0,0,0,False,False
 197052,444,14,11,0,53,0,"HouFurPlantPot_00331","Glade Flowerpot",False,False,0,0,0,False,False
 197053,445,14,11,0,53,0,"HouFurPlantPot_00331","Oasis Flowerpot",False,False,0,0,0,False,False
@@ -548,6 +559,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197163,532,14,0,0,0,0,,"Stuffed Khloe",False,False,0,0,0,True,False
 197164,533,14,0,0,0,0,,"Stuffed Fox",False,False,5,0,0,True,False
 197165,534,14,7,31,0,0,"CmnDefHousingDish_00213","Pumpkin Pie Set",True,False,8,4,11,True,False
+197166,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197167,536,14,7,33,0,0,"CmnDefHousingDish_00213","Starlight Stew Set",True,False,8,4,11,True,False
 197168,537,14,0,0,74,0,"CmnDefHousingObject_00141","Ixion Trophy",False,False,0,0,0,True,False
 197169,538,15,0,0,0,0,,"Imitation Square Window",False,False,0,0,0,True,False
@@ -555,8 +567,11 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197171,540,12,0,0,0,0,,"Modern Mogseat",False,False,0,0,0,False,False
 197172,541,13,0,0,0,0,,"Chocobo Round Table",False,False,5,0,0,True,False
 197173,542,12,0,0,0,0,,"Chocobo Chair",False,False,5,0,0,True,False
+197174,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197175,544,14,0,0,0,0,"CmnDefHousingObject_00141","Fat Chocobo Table Chronometer",False,False,3,0,0,True,False
 197176,545,14,0,0,0,0,"CmnDefHousingObject_00141","Odder Otter Lantern",False,False,0,0,0,True,False
+197177,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+197178,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197179,548,14,0,0,0,0,"CmnDefHousingObject_00141","Paissa Chronometer",False,False,0,0,0,True,False
 197180,549,12,0,0,0,0,,"Merry Mog Bed",False,False,0,0,0,True,False
 197181,550,14,0,0,0,0,,"Mellow Mog Lamp",False,False,0,0,0,True,False
@@ -578,6 +593,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197197,565,15,0,0,0,0,,"Hingan Wall Scroll",False,False,0,0,0,True,False
 197198,566,12,0,0,0,0,,"Bamboo Planter",False,False,0,0,0,True,False
 197199,567,14,0,0,0,0,,"Hingan Andon Lamp",False,False,0,0,0,True,False
+197200,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197201,569,14,0,0,0,0,,"Kotetsu Replica",False,False,0,0,0,True,False
 197202,570,14,0,0,0,0,,"Hingan Armor Display",False,False,0,0,0,True,False
 197203,571,15,0,0,0,0,,"Hingan Chochin Lantern",False,False,0,0,0,True,False
@@ -593,6 +609,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197213,581,14,0,0,0,0,,"Pumpkin Tower",False,False,5,0,0,True,False
 197214,582,15,0,0,0,0,,"Starlight Celebration Advertisement",False,False,5,0,0,True,False
 197215,583,14,0,0,0,0,,"Starlight Sapling",False,False,5,0,0,True,False
+197216,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197217,585,14,0,0,0,0,,"Stuffed Kojin",False,False,0,0,0,True,False
 197218,586,12,0,0,0,0,"CmnDefHousingObject_00141","Boar's Head Kadomatsu",False,False,5,0,0,True,False
 197219,587,15,0,0,0,0,,"Mol Banner",False,False,5,0,0,True,False
@@ -641,6 +658,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197262,626,15,0,0,0,0,,"Kitchen Hanger",False,False,0,0,0,True,False
 197263,627,15,0,0,0,0,,"Hanya Mask",False,False,0,0,0,True,False
 197264,628,13,0,0,0,0,,"Odder Otter Dining Table",False,False,0,0,0,True,False
+197265,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197266,630,12,0,0,0,0,,"Odder Otter Screen",False,False,0,0,0,True,False
 197267,631,12,0,0,0,0,,"Odder Otter Round Andon Lamp",False,False,3,0,0,True,False
 197268,632,14,0,0,0,0,,"Sake Set",False,False,5,0,0,True,False
@@ -648,6 +666,8 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197270,634,14,0,0,0,0,,"Stuffed Ananta",False,False,5,0,0,True,False
 197271,635,12,0,0,0,0,,"Odder Otter Chair",False,False,0,0,0,True,False
 197272,636,15,0,0,0,0,,"Odder Otter Wall Lantern",False,False,0,0,0,True,False
+197273,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+197274,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197275,639,14,0,0,0,0,,"Goobbue Lamp",False,False,0,0,0,True,False
 197276,640,13,0,0,0,0,,"Cactuar Round Table",False,False,5,0,0,True,False
 197277,641,13,0,0,0,0,,"Chocobo Dining Table",False,False,5,0,0,True,False
@@ -709,6 +729,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197333,685,14,0,0,0,0,,"Sumptuous Dimension Castle Vase",False,False,0,0,0,True,False
 197334,686,14,0,0,0,0,,"Imposing Dimension Castle Vase",False,False,0,0,0,True,False
 197335,687,14,0,0,0,0,,"Stuffed Namazu",False,False,5,0,0,True,False
+197336,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197337,689,14,0,0,0,0,,"Season Ten Lone Wolf Trophy",False,False,5,0,0,True,False
 197338,691,14,7,40,0,0,"CmnDefHousingDish_00213","Curry Plate",True,False,8,4,11,True,False
 197339,690,14,0,0,0,0,"CmnDefHousingObject_00141","Altar to Pazuzu",False,False,0,0,0,True,False
@@ -751,8 +772,9 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197376,243,12,3,21,21,0,,"Namazu Material Supplier Permit",False,False,5,2,9,False,False
 197377,243,12,3,22,21,0,,"Namazu Junkmonger Permit",False,False,5,2,9,False,False
 197378,243,12,3,23,21,0,,"Namazu Mender Permit",False,False,5,2,9,False,False
-197379,243,12,3,24,21,0,,"Namazu Manservant Permit",False,False,5,2,9,False,False
+197379,243,12,3,24,21,0,,"Namazu Manservant Permit",False,False,5,16,9,False,False
 197380,243,12,3,25,21,0,,"Journeyman Salvager Permit",False,False,0,2,9,False,False
+197381,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197382,528,15,0,0,0,0,,"Second Edition Moonfire Faire",False,False,3,0,0,True,False
 197383,529,14,7,30,0,0,"CmnDefHousingDish_00213","Authentic Evercold Shaved Ice",True,False,7,4,11,True,False
 197384,516,12,0,0,0,0,,"Authentic Rising Balloon",False,False,3,0,0,True,False
@@ -839,7 +861,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197465,243,12,3,26,21,0,,"Kojin Material Supplier Permit",False,False,5,2,9,False,False
 197466,243,12,3,27,21,0,,"Kojin Junkmonger Permit",False,False,5,2,9,False,False
 197467,243,12,3,28,21,0,,"Kojin Mender Permit",False,False,5,2,9,False,False
-197468,243,12,3,29,21,0,,"Kojin Manservant Permit",False,False,5,2,9,False,False
+197468,243,12,3,29,21,0,,"Kojin Manservant Permit",False,False,5,16,9,False,False
 197469,796,12,0,0,0,0,,"Lily Floor Lamp",False,False,0,0,0,True,False
 197470,797,15,0,0,0,0,,"Lily Wall Lamp",False,False,0,0,0,True,False
 197471,798,16,0,0,0,0,,"Flooring Mat",False,False,0,0,0,True,False
@@ -852,11 +874,17 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197478,805,14,0,0,0,0,,"War Chest",False,False,0,0,0,True,False
 197479,806,15,0,0,0,0,,"Imitation Stained Crystal Pane",False,False,0,0,0,True,False
 197480,807,12,0,0,0,0,,"Marble Partition",False,False,0,0,0,True,False
+197481,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197482,809,12,0,0,0,0,,"Crystarium Bench",False,False,0,0,0,True,False
+197483,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+197484,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+197485,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197486,813,12,0,0,0,0,,"Potted Orange Tree",False,False,0,0,0,True,False
 197487,814,13,0,0,0,0,,"Crystarium Stove",False,False,0,0,0,True,False
 197488,815,15,0,0,0,0,,"Crystarium Kitchen Hanger",False,False,0,0,0,True,False
 197489,816,14,0,0,0,0,,"Crystarium Teapot",False,False,0,0,0,True,False
+197490,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+197491,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197492,819,14,0,0,0,0,,"Ruby Crystal Boule",False,False,0,0,0,True,False
 197493,820,15,0,0,0,0,,"Crystarium Wall Chronometer",False,False,0,0,0,True,False
 197494,821,15,0,0,0,0,,"Moonfire Faire Advertisement",False,False,5,0,0,True,False
@@ -886,6 +914,8 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197518,845,15,0,0,0,0,,"Requiem for Heroes",False,False,5,0,0,True,False
 197519,846,14,0,0,0,0,,"Crystarium Umbrella Stand",False,False,0,0,0,True,False
 197520,847,14,0,0,0,0,,"Dishware",False,False,0,0,0,True,False
+197521,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+197522,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197523,850,14,0,0,0,0,,"Stuffed Clionid",False,False,0,0,0,True,False
 197524,697,14,0,0,0,0,,"Authentic Mosquito Moogle",False,False,3,0,0,True,False
 197525,691,14,7,40,0,0,"CmnDefHousingDish_00213","Authentic Curry Plate",True,False,7,4,11,True,False
@@ -915,9 +945,16 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197549,870,14,0,0,0,0,,"Handmade Akabeko",False,False,5,0,0,True,False
 197550,871,14,7,56,0,0,"CmnDefHousingDish_00213","Chocolate Fountain",True,False,8,4,11,True,False
 197551,872,14,0,0,0,0,,"Cosmetics Box",False,False,0,0,0,True,False
+197552,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197553,874,12,0,0,0,0,,"Greatwood Planter",False,False,0,0,0,True,False
 197554,875,14,0,0,0,0,,"Mushroom Lamp",False,False,0,0,0,True,False
+197555,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+197556,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+197557,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197558,879,15,0,0,0,0,,"Hatching-tide Advertisement",False,False,5,0,0,True,False
+197559,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+197560,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+197561,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197562,883,14,0,0,0,0,,"Wine Rack",False,False,0,0,0,True,False
 197563,884,14,0,0,0,0,,"Rope Stanchion",False,False,0,0,0,True,False
 197564,885,14,0,0,0,0,,"Cardpaper Box",False,False,0,0,0,True,False
@@ -944,7 +981,10 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197585,723,14,0,0,0,0,,"Authentic Opened Twinkleboxes",False,False,3,0,0,True,False
 197586,903,13,0,0,0,0,,"Cheese Collection",False,False,0,0,0,True,False
 197587,904,15,0,0,0,0,,"Oldrose Wall Planter",False,False,0,0,0,True,False
+197588,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197589,906,14,0,0,0,0,,"Folded Futon",False,False,0,0,0,True,False
+197590,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+197591,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197592,909,14,7,58,0,0,"CmnDefHousingDish_00213","The Bismarck",True,False,9,4,11,True,False
 197593,910,14,7,57,0,0,"CmnDefHousingDish_00213","Devil's Salad Bowl",True,False,9,4,11,True,False
 197594,911,15,0,0,0,0,,"Lord Commander Portrait",False,False,0,0,0,True,False
@@ -961,8 +1001,13 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197605,922,15,0,0,0,0,,"Liberation Reproduction",False,False,3,0,0,True,False
 197606,923,14,0,0,0,0,,"Milk Carton",False,False,0,0,0,True,False
 197607,924,15,0,0,0,0,,"Azure Dragoon Portrait",False,False,0,0,0,True,False
+197608,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+197609,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+197610,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197611,928,14,0,0,0,0,,"Tankard",False,False,0,0,0,True,False
 197612,929,15,0,0,0,0,,"Industrial Wall Pipes",False,False,0,0,0,True,False
+197613,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+197614,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197615,932,13,0,0,0,0,,"Verdant Shelf Partition",False,False,0,0,0,True,False
 197616,933,15,0,0,0,0,,"Cosmos Decoration",False,False,0,0,0,True,False
 197617,934,13,0,0,0,0,,"Used Banquet Table",False,False,0,0,0,True,False
@@ -972,6 +1017,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197621,937,14,0,0,0,0,,"Stuffed Rabbit",False,False,5,0,0,True,False
 197622,938,13,0,0,0,0,,"Eastern Stage",False,False,5,0,0,True,False
 197623,939,15,0,0,0,0,,"Little Ladies' Day Banner",False,False,5,0,0,True,False
+197624,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197625,941,14,0,0,85,0,,"Ruby Weapon Bust",False,False,0,0,0,True,False
 197626,942,15,0,0,0,0,,"Apron Rack",False,False,0,0,0,True,False
 197627,943,12,0,0,0,0,,"Mahogany Aqueduct",False,False,0,0,0,True,False
@@ -1052,6 +1098,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197702,1009,14,0,0,0,0,,"Homemade Cookie Set",False,False,0,0,0,True,False
 197703,1010,12,0,0,0,0,,"Florist's Counter",False,False,0,0,0,True,False
 197704,1011,12,0,0,0,0,,"Paissa Swing Chair",False,False,0,0,0,True,False
+197705,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197706,1013,14,0,0,0,5,,"Showcase",False,False,0,0,0,True,False
 197707,1014,14,0,0,0,5,,"Shelving Showcase",False,False,0,0,0,True,False
 197708,1015,15,0,0,0,0,,"Elemental Wheel",False,False,0,0,0,True,False
@@ -1197,16 +1244,19 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197848,1134,15,0,0,0,0,,"Hanging Planter Branch",False,False,0,0,0,True,False
 197849,1135,14,0,0,0,0,,"Simple Basket",False,False,0,0,0,True,False
 197850,1136,12,0,0,0,0,,"Curved Marble Partition",False,False,0,0,0,True,False
+197851,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197852,1138,12,0,0,0,0,,"Iron Chair",False,False,0,0,0,True,False
 197853,1139,13,0,0,0,0,,"Alpine Cabinet",False,False,0,0,0,True,False
 197854,1140,14,0,0,0,0,,"Eggsemplary Basket",False,False,5,0,0,True,False
 197855,1141,13,0,0,0,0,,"Indoor Climbing Frame",False,False,5,0,0,True,False
 197856,1142,13,0,0,0,0,"CmnDefHousingObject_00141","Steel Locker",False,False,0,0,0,True,False
 197857,1143,12,0,0,0,0,"CmnDefHousingObject_00141","Gaol Partition Door",False,False,5,0,0,True,False
+197858,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197859,1145,15,0,0,0,0,,"Wall-climbing Ivy",False,False,0,0,0,True,False
 197860,1146,12,0,0,0,0,,"Gaol Partition",False,False,5,0,0,True,False
 197861,1151,15,0,0,0,0,,"Hydaelyn, as We Know Her",False,False,0,0,0,True,False
 197862,1152,15,0,0,0,0,,"Wondrous Windoor",False,False,0,0,0,True,False
+197863,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197864,1154,15,0,0,0,0,,"Alpine Wall Lantern",False,False,0,0,0,True,False
 197865,1155,14,0,0,0,0,,"Astrologicum Star Map",False,False,0,0,0,True,False
 197866,1156,15,0,0,0,0,,"Imitation Highland Window",False,False,0,0,0,True,False
@@ -1235,6 +1285,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197889,1174,13,0,0,0,0,,"Mummer's Shelf",False,False,5,0,0,True,False
 197890,1175,14,7,75,0,0,"CmnDefHousingDish_00213","Cheese Fondue Set",True,False,9,4,11,True,False
 197891,1238,14,0,0,0,0,,"Bluecap Mushroom Lamp",False,False,0,0,0,True,False
+197892,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197893,1178,12,0,0,0,0,,"Enigma Partition",False,False,0,0,0,True,False
 197894,1179,15,0,0,0,0,,"Wall-mounted Wings",False,False,0,0,0,True,False
 197895,1180,14,7,76,0,0,"CmnDefHousingDish_00213","Dragonstar aux Marrons",True,False,8,4,11,True,False
@@ -1296,8 +1347,8 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197951,1220,15,0,0,0,0,"CmnDefHousingObject_00141","Allagan Terminal Beta",False,False,0,0,0,True,False
 197952,1221,14,0,0,0,0,,"Toy Cooking Set",False,False,0,0,0,True,False
 197953,1222,12,0,0,0,0,,"Lalafell Lifter",False,False,0,0,0,True,False
-197954,1223,12,12,3,0,0,"HouFurWallpaperPartition_00437","Alpine Partition",False,False,0,8,15,True,False
-197955,1224,12,0,0,0,0,,"Alpine Partition Door",False,False,0,0,0,True,False
+197954,1223,12,12,3,0,0,"HouFurWallpaperPartition_00437","Highland Partition",False,False,0,8,15,True,False
+197955,1224,12,0,0,0,0,,"Highland Partition Door",False,False,0,0,0,True,False
 197956,1225,12,0,0,0,0,,"Alpine Pillar",False,False,0,0,0,True,False
 197957,1226,15,0,0,0,0,,"Enigma Wall Chronometer",False,False,0,0,0,True,False
 197958,1227,16,0,0,0,0,,"Rainbow Hopping Rug",False,False,5,0,0,True,False
@@ -1311,6 +1362,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197966,1235,16,0,0,0,0,,"Hannish Rug",False,False,0,0,0,True,False
 197967,1236,13,0,0,0,0,,"Faerie Round Table",False,False,0,0,0,True,False
 197968,1237,14,7,79,0,0,"CmnDefHousingDish_00213","Pudding Pudding",True,False,9,4,11,True,False
+197969,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197970,1239,14,0,0,0,0,,"Exciting Balloon",False,False,0,0,0,True,False
 197971,1240,12,0,0,0,0,,"Simple Sink",False,False,0,0,0,True,False
 197972,1241,12,0,0,0,0,,"Crystal Tower Phasmascape",False,False,0,0,0,True,False
@@ -1324,7 +1376,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197980,243,12,3,31,21,0,,"Loporrit Material Supplier Permit",False,False,5,2,9,False,False
 197981,243,12,3,32,21,0,,"Loporrit Junkmonger Permit",False,False,5,2,9,False,False
 197982,243,12,3,33,21,0,,"Loporrit Mender Permit",False,False,5,2,9,False,False
-197983,243,12,3,34,21,0,,"Loporrit Servingway Permit",False,False,5,2,9,False,False
+197983,243,12,3,34,21,0,,"Loporrit Servingway Permit",False,False,5,16,9,False,False
 197984,1246,12,0,0,0,0,,"Far Eastern Indoor Bamboo Fountain",False,False,0,0,0,True,False
 197985,1247,14,0,0,0,0,,"Cactuar Colony Planter",False,False,5,0,0,True,False
 197986,1248,12,0,0,0,0,,"Verdant Pillar",False,False,0,0,0,True,False
@@ -1373,6 +1425,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198029,1291,12,0,0,0,0,,"Valentione's Heart Chair",False,False,5,0,0,True,False
 198030,1292,14,0,0,102,0,,"Skyruin Trophy",False,False,0,0,0,True,False
 198031,1293,14,0,0,103,0,,"Resilient Sword Stand",False,False,0,0,0,True,False
+198032,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 198033,1295,15,0,0,0,0,,"Authentic Copy of Newfound Adventure",False,False,3,0,0,True,False
 198034,1296,15,0,0,0,0,,"Authentic Copy of Buried Memory",False,False,3,0,0,True,False
 198035,1297,15,0,0,0,0,,"Authentic Copy of Gods Revel, Lands Tremble",False,False,3,0,0,True,False
@@ -1478,6 +1531,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198135,1390,12,0,0,0,0,,"Pile of Gold",False,False,0,0,0,True,False
 198136,1391,14,0,0,0,0,,"Rising Table Lamp",False,False,5,0,0,True,False
 198137,1392,14,0,0,0,0,,"Flying Pumpkin",False,False,5,0,0,True,False
+198138,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 198139,1288,15,0,0,0,0,,"Authentic Rising Advertisement",False,False,3,0,0,True,False
 198140,1289,15,0,0,0,0,,"Authentic Wall-mounted Vampire Bats",False,False,3,0,0,True,False
 198141,1396,12,0,0,0,0,,"Wood-fired Range",False,False,0,0,0,True,False
@@ -1500,6 +1554,8 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198158,1420,12,0,0,0,0,,"Origenics Chair",False,False,0,0,0,True,False
 198159,1421,15,0,0,0,0,,"Strayborough Wall Lamp",False,False,0,0,0,True,False
 198160,1422,16,0,0,0,0,,"Traumerei Floor Stencil",False,False,0,0,0,True,False
+198161,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+198162,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 198163,1425,12,0,0,0,0,,"Climbing Wall Partition",False,False,0,0,0,True,False
 198164,1426,12,0,0,0,0,,"Billiard Table",False,False,5,0,0,True,False
 198165,1427,15,0,0,0,0,,"Imitation Closet",False,False,0,0,0,True,False
@@ -1577,3 +1633,61 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198237,1514,12,0,0,0,0,,"Cosmochair",False,False,0,0,0,True,False
 198238,1515,13,0,0,0,0,,"Cosmotable",False,False,0,0,0,True,False
 198239,1516,14,0,0,0,0,,"Cosmolamp",False,False,0,0,0,True,False
+198240,1481,12,0,0,0,0,,"Log Partition Door",False,False,0,0,0,True,False
+198241,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+198242,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+198243,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+198244,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+198245,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+198246,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+198247,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+198248,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+198249,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+198250,1505,16,0,0,0,0,,"Cabin Half-moon Rug",False,False,0,0,0,True,False
+198251,1506,12,0,0,0,0,,"Cabin Bed",False,False,0,0,0,True,False
+198252,1507,12,0,0,0,0,,"Cabin Sofa",False,False,0,0,0,True,False
+198253,1508,13,0,0,0,0,,"Cabin Sideboard",False,False,0,0,0,True,False
+198254,1509,15,0,0,0,0,,"Overhead Studio Light",False,False,0,0,0,True,False
+198255,1510,12,0,0,0,0,,"Dumbbell Rack",False,False,0,0,0,True,False
+198256,1511,12,0,0,0,0,,"Training Bench",False,False,0,0,0,True,False
+198257,1512,16,0,0,0,0,,"Training Mat",False,False,0,0,0,True,False
+198258,1513,14,7,93,0,0,"CmnDefHousingDish_00213","Old Fishwife's Paella",True,False,9,4,11,True,False
+198259,1517,12,0,0,0,0,,"Lattice Planter Partition",False,False,0,0,0,True,False
+198260,1518,12,0,0,0,0,,"Scroll Cabinet",False,False,0,0,0,True,False
+198261,1519,12,12,3,0,0,"HouFurWallpaperPartition_00437","Minimalist Glade Partition Door",False,False,0,8,15,True,False
+198262,1520,12,12,3,0,0,"HouFurWallpaperPartition_00437","Minimalist Oasis Partition Door",False,False,0,8,15,True,False
+198263,1521,12,12,3,0,0,"HouFurWallpaperPartition_00437","Minimalist Riviera Partition Door",False,False,0,8,15,True,False
+198264,1522,12,12,3,0,0,"HouFurWallpaperPartition_00437","Minimalist Highland Partition Door",False,False,0,8,15,True,False
+198265,1523,14,0,0,107,0,,"Death's Halo",False,False,0,0,0,True,False
+198266,1524,15,0,0,0,0,,"Authentic Copy of The Promise of Tomorrow",False,False,3,0,0,True,False
+198267,1526,14,0,0,0,0,,"Far Eastern Odder Otter Seater",False,False,0,0,0,True,False
+198268,1528,12,0,0,0,0,,"Guardian Arkveld's Windward Plains Phasmascape",False,False,0,0,0,True,False
+198269,1527,12,0,0,0,0,,"Rey Dau's Windward Plains Phasmascape",False,False,0,0,0,True,False
+198270,1529,12,0,0,0,0,,"Uth Duna's Scarlet Forest Phasmascape",False,False,0,0,0,True,False
+198271,1530,12,0,0,0,0,,"Omega's Iceshard Cliffs Phasmascape",False,False,0,0,0,True,False
+198272,1531,12,0,0,0,0,,"Jin Dahaad's Iceshard Cliffs Phasmascape",False,False,0,0,0,True,False
+198273,1532,12,0,0,0,0,,"Nu Udra's Oilwell Basin Phasmascape",False,False,0,0,0,True,False
+198274,1525,12,12,3,0,0,"HouFurWallpaperPartition_00437","Minimalist Hingan Partition Door",False,False,0,8,15,True,False
+198275,1394,14,0,0,0,0,,"Authentic Bouncing Bomb Balloons",False,False,3,0,0,True,False
+198276,1391,14,0,0,0,0,,"Authentic Rising Table Lamp",False,False,3,0,0,True,False
+198277,1392,14,0,0,0,0,,"Authentic Flying Pumpkin",False,False,3,0,0,True,False
+198278,1543,15,0,0,0,0,,"Feastful All Saints' Wake Advertisement",False,False,5,0,0,True,False
+198279,1533,14,7,90,0,0,"CmnDefHousingDish_00213","Lominsan Kinderpunsch",True,False,8,4,11,True,False
+198280,1534,14,0,0,0,0,,"Lominsan Starlight Mugs",False,False,5,0,0,True,False
+198281,1535,14,7,90,0,0,"CmnDefHousingDish_00213","Ul'dahn Kinderpunsch",True,False,8,4,11,True,False
+198282,1536,14,0,0,0,0,,"Ul'dahn Starlight Mugs",False,False,5,0,0,True,False
+198283,1537,14,0,0,0,0,,"Wilds Great Sword Stand",False,False,0,0,0,True,False
+198284,1538,15,0,0,0,0,,"Wilds Banner",False,False,0,0,0,True,False
+198285,1542,15,0,0,0,0,,"Lyhe Ghiah Stained Crystal Ornament",False,False,0,0,0,True,False
+198286,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+198287,1539,14,0,0,0,0,,"Everkeep Lamppost",False,False,0,0,0,True,False
+198288,1544,15,0,0,0,0,,"Legends of Ivalice",False,False,5,0,0,True,False
+198289,243,12,3,35,21,0,,"Felyne Material Supplier Permit",False,False,5,2,9,False,False
+198290,243,12,3,36,21,0,,"Felyne Junkmonger Permit",False,False,5,2,9,False,False
+198291,243,12,3,37,21,0,,"Felyne Mender Permit",False,False,5,2,9,False,False
+198292,243,12,3,38,21,0,,"Felyne Servant Permit",False,False,5,16,9,False,False
+198293,1545,12,0,0,0,0,,"Cosmoseat",False,False,0,0,0,True,False
+198294,1546,12,0,0,0,0,,"Cosmokitchen Partition",False,False,0,0,0,True,False
+198295,1547,14,0,0,0,0,"CmnDefHousingObject_00141","Portable Exoterminal",False,False,0,0,0,True,False
+198296,1548,14,0,0,108,0,,"Indoor Hunter's Grill",False,False,0,0,0,True,False
+198297,1549,12,0,0,0,0,,"Hunter's Lodge Chair",False,False,0,0,0,True,False

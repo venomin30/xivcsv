@@ -32,7 +32,7 @@ int32,str,Image,Quest,DefaultTalk,DefaultTalk,bit&01,uint16,uint16
 262177,"",,,,,True,0,0
 262178,"",,,,,False,0,0
 262179,"",,,,,False,0,0
-262180,"",,,,,True,0,0
+262180,"Purchase Items",,,,,True,0,0
 262181,"Purchase Items",,,,,True,0,0
 262182,"",,,,,True,0,0
 262183,"",,,,,False,0,0
@@ -1052,7 +1052,7 @@ int32,str,Image,Quest,DefaultTalk,DefaultTalk,bit&01,uint16,uint16
 263232,"",,,,,False,0,0
 263233,"Purchase Furnishings (Pillars, Decorations)",,,,,True,0,0
 263234,"",,,,,True,159,0
-263235,"",,,,,False,0,0
+263235,"",,,,,True,162,0
 263236,"",,,,,False,0,0
 263237,"Purchase Items",,,,,True,0,0
 263238,"Purchase Items",,,,,True,0,0
@@ -1100,3 +1100,11 @@ int32,str,Image,Quest,DefaultTalk,DefaultTalk,bit&01,uint16,uint16
 263280,"Purchase Tools (Alchemist/Culinarian)",,,,,True,0,0
 263281,"Purchase Tools (Alchemist/Culinarian)",,,,,True,0,0
 263282,"Purchase Tools (Alchemist/Culinarian)",,,,,True,0,0
+263283,"Purchase Items",," Frosty Neighbors",,,True,0,0
+263284,"Purchase Tools",," Frosty Neighbors",,,True,0,0
+263285,"Purchase Gear",," Frosty Neighbors",,,True,0,0
+263286,"",,,,"DefaultTalk#600873",True,164,0
+263287,"Purchase Items",,"We Three Kinderpunsch",,,True,165,0
+263288,"",,,,,False,0,0
+263289,"",,,,,False,0,0
+263290,"",,,,,False,0,0
