@@ -53,11 +53,11 @@ int32,byte,Row,bit&01,Quest,Quest,Quest,uint32,Row
 49,1,"InstanceContent#15",False,"Rock the Castrum",,,0,
 50,1,"InstanceContent#86",False,"The Ultimate Weapon",,,0,
 51,1,"InstanceContent#20082",False,"The Ultimate Weapon",,,0,
-52,1,"InstanceContent#50001",True,"Like Civilized Men and Women (Twin Adder)","Like Civilized Men and Women (Maelstrom)","Like Civilized Men and Women (Immortal Flames)",0,
-53,1,"InstanceContent#50004",True,"Like Civilized Men and Women (Twin Adder)","Like Civilized Men and Women (Maelstrom)","Like Civilized Men and Women (Immortal Flames)",0,
-54,1,"InstanceContent#50005",True,"Like Civilized Men and Women (Twin Adder)","Like Civilized Men and Women (Maelstrom)","Like Civilized Men and Women (Immortal Flames)",0,
-55,1,"InstanceContent#50006",True,"Like Civilized Men and Women (Twin Adder)","Like Civilized Men and Women (Maelstrom)","Like Civilized Men and Women (Immortal Flames)",0,
-56,1,"InstanceContent#51002",False,"Earning Your Wings",,,0,
+52,1,"InstanceContent#41001",True,"Like Civilized Men and Women (Twin Adder)","Like Civilized Men and Women (Maelstrom)","Like Civilized Men and Women (Immortal Flames)",0,
+53,1,"InstanceContent#41004",True,"Like Civilized Men and Women (Twin Adder)","Like Civilized Men and Women (Maelstrom)","Like Civilized Men and Women (Immortal Flames)",0,
+54,1,"InstanceContent#41005",True,"Like Civilized Men and Women (Twin Adder)","Like Civilized Men and Women (Maelstrom)","Like Civilized Men and Women (Immortal Flames)",0,
+55,1,"InstanceContent#41006",True,"Like Civilized Men and Women (Twin Adder)","Like Civilized Men and Women (Maelstrom)","Like Civilized Men and Women (Immortal Flames)",0,
+56,1,"InstanceContent#42002",False,"Earning Your Wings",,,0,
 57,2,"GoldSaucerContent#1",False,"It Could Happen to You",,,0,"Level#5673555"
 58,2,"GoldSaucerContent#4",False,"It Could Happen to You",,,0,"Level#5673555"
 59,2,"GoldSaucerContent#5",False,"It Could Happen to You",,,0,"Level#5673555"
@@ -169,3 +169,15 @@ int32,byte,Row,bit&01,Quest,Quest,Quest,uint32,Row
 165,1,"InstanceContent#36002",False,"Mononoke Aware",,,0,
 166,7,"Wawalago",False,"Triple Triad Trial",,,0,"Level#1673577"
 167,6,"Dream Goby",False,"Way of the Fisher",,,0,
+168,1,"InstanceContent#19",False,"Maniac Manor",,,0,
+169,1,"InstanceContent#22",False,"One Night in Amdapor",,,0,
+170,1,"InstanceContent#49",False,"The Fires of Sohm Al",,,0,
+171,1,"InstanceContent#51",False,"To Kill a Coeurl",,,0,
+172,1,"InstanceContent#68",False,"By the Time You Hear This",,,0,
+173,1,"InstanceContent#71",False,"Akadaemia Anyder",,,0,
+174,1,"InstanceContent#85",False,"Cutting the Cheese",,,0,
+175,1,"InstanceContent#79",False,"Where No Loporrit Has Gone Before",,,0,
+176,7,"Marcechamp",False,"Triple Triad Trial",,,0,"Level#5796581"
+177,8,,False,"Unfamiliar Territory",,,0,
+178,9,,False,"Pilgrimage of Light",,,0,
+179,1,"InstanceContent#41007",True,"Like Civilized Men and Women (Twin Adder)","Like Civilized Men and Women (Maelstrom)","Like Civilized Men and Women (Immortal Flames)",0,

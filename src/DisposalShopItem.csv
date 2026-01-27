@@ -461,5 +461,8 @@ int32,Item,bit&01,Item,bit&02,uint32,uint16
 3473423.17,"Oracle's Soul Shard",False,"Enlightenment Silver Piece",False,10,100
 3473423.18,"Chemist's Soul Shard",False,"Enlightenment Silver Piece",False,10,100
 3473423.19,"Thief's Soul Shard",False,"Enlightenment Silver Piece",False,10,100
-3473423.20,"Aetherspun Gold",False,"Enlightenment Silver Piece",False,10,100
-3473423.21,"X-Fixative",False,"Enlightenment Silver Piece",False,10,100
+3473423.20,"Aetherspun Gold",False,"Enlightenment Silver Piece",False,10,150
+3473423.21,"X-Fixative",False,"Enlightenment Silver Piece",False,10,150
+3473423.22,"Mystic Knight's Soul Shard",False,"Enlightenment Silver Piece",False,10,100
+3473423.23,"Dancer's Soul Shard",False,"Enlightenment Silver Piece",False,10,100
+3473423.24,"Gladiator's Soul Shard",False,"Enlightenment Silver Piece",False,10,100

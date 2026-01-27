@@ -453,16 +453,16 @@ If the <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Repertoire<UIGl
 47.5,4,False,"Performing a combo ending in <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Solid Barrel<UIGlow>01</UIGlow><UIForeground>01</UIForeground> or <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Demon Slaughter<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (acquired at level 40) adds cartridges to the <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Powder Gauge<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, which are expended by <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Burst Strike<UIGlow>01</UIGlow><UIForeground>01</UIForeground> and <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Gnashing Fang<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (acquired at level 60)."
 47.6,2,False,
 47.7,4,False,"You can view the job gauge description at any time from the Actions & Traits menu."
-48.1,0,False,
-48.2,0,False,
-48.3,0,False,
-48.4,0,False,
-48.5,0,False,
-48.6,0,False,
-48.7,0,False,
-48.8,0,False,
-48.9,0,False,
-48.10,0,False,
+48.1,1,True,"Powder Gauge"
+48.2,3,True,
+48.3,4,False,"Execution of <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Bloodfest<UIGlow>01</UIGlow><UIForeground>01</UIForeground> will grant an affect that increases the maximum number of cartridges to 4. Upon learning the trait <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Cartridge Charge II<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (acquired at level 88), <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Bloodfest<UIGlow>01</UIGlow><UIForeground>01</UIForeground> will increase the maximum number of cartridges to 6."
+48.4,2,False,
+48.5,3,False,
+48.6,5,False,"This symbol indicates the defensive stance <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Royal Guard<UIGlow>01</UIGlow><UIForeground>01</UIForeground> is in effect, which increases enmity."
+48.7,2,False,
+48.8,4,False,"Performing a combo ending in <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Solid Barrel<UIGlow>01</UIGlow><UIForeground>01</UIForeground> or <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Demon Slaughter<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (acquired at level 40) adds cartridges to the <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Powder Gauge<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, which are expended by <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Burst Strike<UIGlow>01</UIGlow><UIForeground>01</UIForeground> and <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Gnashing Fang<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (acquired at level 60)."
+48.9,2,False,
+48.10,4,False,"You can view the job gauge description at any time from the Actions & Traits menu."
 48.11,0,False,
 48.12,0,False,
 48.13,0,False,
@@ -589,12 +589,18 @@ If the <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Repertoire<UIGl
 58.1,1,True,"Powder Gauge"
 58.2,3,True,
 58.3,5,False,"Upon learning the trait <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Cartridge Charge II<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, a third <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Cartridge<UIGlow>01</UIGlow><UIForeground>01</UIForeground> can be stored in the <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Powder Gauge<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Cartridges<UIGlow>01</UIGlow><UIForeground>01</UIForeground> are added to the gauge by using combo actions such as <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Solid Barrel<UIGlow>01</UIGlow><UIForeground>01</UIForeground> or <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Demon Slaughter<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (acquired at level 40). <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Cartridges<UIGlow>01</UIGlow><UIForeground>01</UIForeground> can then be used to execute several actions such as <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Burst Strike<UIGlow>01</UIGlow><UIForeground>01</UIForeground> or <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Gnashing Fang<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (acquired at level 60)."
-58.4,0,False,
-58.5,2,False,
-58.6,4,False,"This symbol indicates the defensive stance <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Royal Guard<UIGlow>01</UIGlow><UIForeground>01</UIForeground> is in effect, which increases enmity."
-58.7,0,False,
-58.8,2,False,
-58.9,4,False,"You can view the job gauge description at any time from the Actions & Traits menu."
+58.4,2,False,
+58.5,5,False,"This symbol indicates the defensive stance <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Royal Guard<UIGlow>01</UIGlow><UIForeground>01</UIForeground> is in effect, which increases enmity."
+58.6,2,False,
+58.7,3,False,
+58.8,4,False,"Execution of <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Bloodfest<UIGlow>01</UIGlow><UIForeground>01</UIForeground> will grant an affect that increases the maximum number of cartridges to 4. Upon learning the trait <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Cartridge Charge II<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (acquired at level 88), <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Bloodfest<UIGlow>01</UIGlow><UIForeground>01</UIForeground> will increase the maximum number of cartridges to 6."
+58.9,2,False,
+58.10,4,False,"You can view the job gauge description at any time from the Actions & Traits menu."
+58.11,0,False,
+58.12,0,False,
+58.13,0,False,
+58.14,0,False,
+58.15,0,False,
 59.1,1,True,"Soul Gauge"
 59.2,3,True,
 59.3,4,False,"The <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Soul Gauge<UIGlow>01</UIGlow><UIForeground>01</UIForeground> can be filled via the execution of certain weaponskills, or by defeating enemies afflicted with <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Death's Design<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. With sufficient souls stored in the gauge, you can execute actions such as <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Blood Stalk<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Grim Swathe<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (acquired at level 55), or <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Gluttony<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (acquired at level 76)."

@@ -437,7 +437,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197041,433,14,0,0,0,0,,"Flame Trophy (Center)",False,False,5,0,0,True,False
 197042,434,14,0,0,0,0,,"Flame Trophy (Right)",False,False,5,0,0,True,False
 197043,435,15,0,0,0,0,,"",False,False,3,0,0,True,False
-197044,436,15,0,0,0,0,,"Starlight",False,False,5,0,0,True,False
+197044,436,15,0,0,0,0,,"Starlight Celebration MMXIV Advertisement",False,False,5,0,0,True,False
 197045,437,15,0,0,0,0,,"",False,False,3,0,0,True,False
 197046,438,14,0,0,0,0,"CmnDefHousingObject_00141","Ruby Carbuncle Lamp",False,False,3,0,0,True,False
 197047,439,14,0,0,0,0,"CmnDefHousingObject_00141","Emerald Carbuncle Lamp",False,False,3,0,0,True,False
@@ -491,7 +491,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197095,487,14,0,0,0,0,,"Stuffed Sabotender",False,False,5,0,0,True,False
 197096,488,14,0,0,0,0,,"Yarn Basket",False,False,0,0,0,True,False
 197097,489,14,7,25,0,0,"CmnDefHousingDish_00213","Riviera Breakfast",True,False,9,4,11,True,False
-197098,490,15,0,0,0,0,,"Little Ladies' Day Advertisement",False,False,5,0,0,True,False
+197098,490,15,0,0,0,0,,"Little Ladies' Day MMXVI Advertisement",False,False,5,0,0,True,False
 197099,491,15,0,0,60,0,"CmnDefHousingObject_00141","Indirect Wall Lighting",False,False,0,0,0,True,False
 197100,492,14,0,0,0,0,"CmnDefHousingObject_00141","Paissa Floor Lamp",False,False,0,0,0,True,False
 197101,493,13,0,0,0,0,,"Merchant's Shelf",False,False,0,0,0,True,False
@@ -552,7 +552,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197156,525,14,0,0,0,0,,"Zabuton Cushion",False,False,0,0,0,True,False
 197157,526,13,0,0,0,0,,"White Half Partition",False,False,0,0,0,True,False
 197158,527,12,12,3,0,0,"HouFurWallpaperPartition_00437","Blank Riviera Partition",False,False,0,8,15,True,False
-197159,528,15,0,0,0,0,,"Moonfire Faire",False,False,5,0,0,True,False
+197159,528,15,0,0,0,0,,"Moonfire Faire MMXIV Advertisement",False,False,5,0,0,True,False
 197160,529,14,7,30,0,0,"CmnDefHousingDish_00213","Evercold Shaved Ice",True,False,8,4,11,True,False
 197161,530,14,0,0,0,0,,"Unmoving Maneki Moogle",False,False,0,0,0,True,False
 197162,531,12,0,0,0,0,"CmnDefHousingObject_00141","Matanga Lamp",False,False,0,0,0,True,False
@@ -604,10 +604,10 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197208,576,14,0,0,0,0,,"Crimson Coral Object",False,False,0,0,0,True,False
 197209,577,15,0,0,0,0,,"Decorative Wall Fan",False,False,0,0,0,True,False
 197210,578,15,0,0,73,0,,"Shinryu's Wing",False,False,0,0,0,True,False
-197211,579,15,0,0,0,0,,"All Saints' Wake Advertisement",False,False,5,0,0,True,False
+197211,579,15,0,0,0,0,,"All Saints' Wake MMXIII Advertisement",False,False,5,0,0,True,False
 197212,580,14,0,0,0,0,,"Paint Can",False,False,0,0,0,True,False
 197213,581,14,0,0,0,0,,"Pumpkin Tower",False,False,5,0,0,True,False
-197214,582,15,0,0,0,0,,"Starlight Celebration Advertisement",False,False,5,0,0,True,False
+197214,582,15,0,0,0,0,,"Starlight Celebration MMXIII Advertisement",False,False,5,0,0,True,False
 197215,583,14,0,0,0,0,,"Starlight Sapling",False,False,5,0,0,True,False
 197216,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197217,585,14,0,0,0,0,,"Stuffed Kojin",False,False,0,0,0,True,False
@@ -633,13 +633,13 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197237,605,14,0,0,0,0,"CmnDefHousingObject_00141","Hatchling Lantern",False,False,3,0,0,True,False
 197238,465,14,7,24,0,0,"CmnDefHousingDish_00213","Piping Hot Pumpkin Stew",True,False,7,4,11,True,False
 197239,480,12,0,0,0,0,,"Genuine Starlight Pillar",False,False,3,0,0,True,False
-197240,436,15,0,0,0,0,,"Starlight II",False,False,3,0,0,True,False
+197240,436,15,0,0,0,0,,"Authentic Starlight Celebration MMXIV Advertisement",False,False,3,0,0,True,False
 197241,481,14,0,0,0,0,"CmnDefHousingObject_00141","Handmade Happy New Chocobo",False,False,3,0,0,True,False
 197242,607,13,0,0,75,0,,"Byakko Sideboard",False,False,0,0,0,True,False
 197243,606,12,0,0,76,0,,"Byakko Throne",False,False,0,0,0,True,False
 197244,608,14,0,0,0,0,,"Stuffed Spriggan",False,False,3,0,0,True,False
 197245,609,14,0,0,0,0,,"Season Six Lone Wolf Trophy",False,False,5,0,0,True,False
-197246,610,15,0,0,0,0,,"Valentione's Day Advertisement",False,False,5,0,0,True,False
+197246,610,15,0,0,0,0,,"Valentione's Day MMXIV Advertisement",False,False,5,0,0,True,False
 197247,611,14,0,0,0,0,,"Valentione's Day Balloons",False,False,5,0,0,True,False
 197248,612,14,7,35,0,0,"CmnDefHousingDish_00213","Bread Basket",True,False,9,4,11,True,False
 197249,613,14,0,0,0,0,,"Stuffed Alpha",False,False,0,0,0,True,False
@@ -692,11 +692,11 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197296,534,14,7,31,0,0,"CmnDefHousingDish_00213","Authentic Pumpkin Pie Set",True,False,7,4,11,True,False
 197297,588,14,7,32,0,0,"CmnDefHousingDish_00213","Authentic Pumpkin Pudding Set",True,False,7,4,11,True,False
 197298,603,14,0,0,0,0,,"Authentic Ghost Candlestand",False,False,3,0,0,True,False
-197299,579,15,0,0,0,0,,"Authentic All Saints' Wake Advertisement",False,False,3,0,0,True,False
+197299,579,15,0,0,0,0,,"Authentic MMXIII All Saints' Wake Advertisement",False,False,3,0,0,True,False
 197300,581,14,0,0,0,0,,"Authentic Pumpkin Tower",False,False,3,0,0,True,False
 197301,536,14,7,33,0,0,"CmnDefHousingDish_00213","Authentic Starlight Stew Set",True,False,7,4,11,True,False
 197302,589,14,7,34,0,0,"CmnDefHousingDish_00213","Authentic Starlight Log Set",True,False,7,4,11,True,False
-197303,582,15,0,0,0,0,,"Authentic Starlight Celebration Advertisement",False,False,3,0,0,True,False
+197303,582,15,0,0,0,0,,"Authentic Starlight Celebration MMXIII Advertisement",False,False,3,0,0,True,False
 197304,583,14,0,0,0,0,,"Authentic Starlight Sapling",False,False,3,0,0,True,False
 197305,657,12,0,0,0,0,,"Hingan Pillar",False,False,0,0,0,True,False
 197306,658,14,0,0,0,0,,"Stack of Documents",False,False,0,0,0,True,False
@@ -743,10 +743,10 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197347,243,12,3,19,21,0,,"Ananta Mender Permit",False,False,5,2,9,False,False
 197348,243,12,3,20,21,0,,"Ananta Maidservant Permit",False,False,5,16,9,False,False
 197349,448,14,12,1,0,0,"HouFurVase_00336","Authentic Paramour Vase",False,False,3,5,12,True,False
-197350,490,15,0,0,0,0,,"Authentic Little Ladies' Day Advertisement",False,False,3,0,0,True,False
+197350,490,15,0,0,0,0,,"Authentic Little Ladies' Day MMXVI Advertisement",False,False,3,0,0,True,False
 197351,514,15,0,0,0,0,,"Authentic Hatching-tide Banner",False,False,3,0,0,True,False
 197352,586,12,0,0,0,0,"CmnDefHousingObject_00141","Authentic Boar's Head Kadomatsu",False,False,3,0,0,True,False
-197353,610,15,0,0,0,0,,"Authentic Valentione's Day Advertisement",False,False,3,0,0,True,False
+197353,610,15,0,0,0,0,,"Authentic Valentione's Day MMXIV Advertisement",False,False,3,0,0,True,False
 197354,611,14,0,0,0,0,,"Authentic Valentione's Day Balloons",False,False,3,0,0,True,False
 197355,663,13,0,0,0,0,,"Authentic Far Eastern Doll Display",False,False,3,0,0,True,False
 197356,692,14,0,0,0,0,,"Season Eight Lone Wolf Trophy",False,False,5,0,0,True,False
@@ -775,7 +775,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197379,243,12,3,24,21,0,,"Namazu Manservant Permit",False,False,5,16,9,False,False
 197380,243,12,3,25,21,0,,"Journeyman Salvager Permit",False,False,0,2,9,False,False
 197381,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
-197382,528,15,0,0,0,0,,"Second Edition Moonfire Faire",False,False,3,0,0,True,False
+197382,528,15,0,0,0,0,,"Authentic Moonfire Faire MMXIV Advertisement",False,False,3,0,0,True,False
 197383,529,14,7,30,0,0,"CmnDefHousingDish_00213","Authentic Evercold Shaved Ice",True,False,7,4,11,True,False
 197384,516,12,0,0,0,0,,"Authentic Rising Balloon",False,False,3,0,0,True,False
 197385,243,12,15,0,79,0,,"Mannequin",False,False,0,0,0,False,True
@@ -887,8 +887,8 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197491,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197492,819,14,0,0,0,0,,"Ruby Crystal Boule",False,False,0,0,0,True,False
 197493,820,15,0,0,0,0,,"Crystarium Wall Chronometer",False,False,0,0,0,True,False
-197494,821,15,0,0,0,0,,"Moonfire Faire Advertisement",False,False,5,0,0,True,False
-197495,822,15,0,0,0,0,,"Fantastical All Saints' Wake Advertisement",False,False,5,0,0,True,False
+197494,821,15,0,0,0,0,,"Moonfire Faire MMXVIII Advertisement",False,False,5,0,0,True,False
+197495,822,15,0,0,0,0,,"All Saints' Wake MMXV Advertisement",False,False,5,0,0,True,False
 197496,823,14,0,0,0,0,"CmnDefHousingObject_00141","Crystarium Mechanical Till",False,False,0,0,0,True,False
 197497,824,14,0,0,0,0,,"Stuffed Fuath",False,False,0,0,0,True,False
 197498,825,14,0,0,0,0,,"Antique Vessels",False,False,0,0,0,True,False
@@ -915,7 +915,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197519,846,14,0,0,0,0,,"Crystarium Umbrella Stand",False,False,0,0,0,True,False
 197520,847,14,0,0,0,0,,"Dishware",False,False,0,0,0,True,False
 197521,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
-197522,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+197522,849,14,0,0,0,0,,"Adventurer's Effects",False,False,0,0,0,True,False
 197523,850,14,0,0,0,0,,"Stuffed Clionid",False,False,0,0,0,True,False
 197524,697,14,0,0,0,0,,"Authentic Mosquito Moogle",False,False,3,0,0,True,False
 197525,691,14,7,40,0,0,"CmnDefHousingDish_00213","Authentic Curry Plate",True,False,7,4,11,True,False
@@ -937,7 +937,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197541,862,14,0,0,0,0,,"Necklace Display Stand",False,False,0,0,0,True,False
 197542,863,14,0,0,0,0,,"Empty Boxes",False,False,0,0,0,True,False
 197543,864,14,0,0,0,0,,"Set of Liquor Bottles",False,False,0,0,0,True,False
-197544,865,15,0,0,0,0,,"Choir Concert Advertisement",False,False,5,0,0,True,False
+197544,865,15,0,0,0,0,,"Starlight Celebration MMXVIII Advertisement",False,False,5,0,0,True,False
 197545,866,14,7,55,0,0,"CmnDefHousingDish_00213","Starlight Roll Cake",True,False,8,4,11,True,False
 197546,867,12,0,0,0,0,,"Log Partition",False,False,0,0,0,True,False
 197547,868,14,0,0,0,0,,"Stuffed Giant Beaver",False,False,3,0,0,True,False
@@ -945,13 +945,13 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197549,870,14,0,0,0,0,,"Handmade Akabeko",False,False,5,0,0,True,False
 197550,871,14,7,56,0,0,"CmnDefHousingDish_00213","Chocolate Fountain",True,False,8,4,11,True,False
 197551,872,14,0,0,0,0,,"Cosmetics Box",False,False,0,0,0,True,False
-197552,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+197552,873,12,0,0,0,0,,"Lakeland Planter",False,False,0,0,0,True,False
 197553,874,12,0,0,0,0,,"Greatwood Planter",False,False,0,0,0,True,False
 197554,875,14,0,0,0,0,,"Mushroom Lamp",False,False,0,0,0,True,False
-197555,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
-197556,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
-197557,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
-197558,879,15,0,0,0,0,,"Hatching-tide Advertisement",False,False,5,0,0,True,False
+197555,876,12,0,0,0,0,,"Eulmore Planter",False,False,0,0,0,True,False
+197556,877,14,0,0,0,0,,"Il Mheg Planter",False,False,0,0,0,True,False
+197557,878,14,0,0,0,0,,"Minishroom Lamp",False,False,0,0,0,True,False
+197558,879,15,0,0,0,0,,"Hatching-tide MMXVIII Advertisement",False,False,5,0,0,True,False
 197559,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197560,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
 197561,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
@@ -1068,7 +1068,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197672,980,14,0,0,0,0,,"Dainsleif SD",False,False,0,0,0,True,False
 197673,981,15,0,0,0,0,,"Watts's Sketches",False,False,5,0,0,True,False
 197674,982,14,0,0,0,0,,"Dwarven Floor Lamp",False,False,5,0,0,True,False
-197675,821,15,0,0,0,0,,"Authentic Moonfire Faire Advertisement",False,False,3,0,0,True,False
+197675,821,15,0,0,0,0,,"Authentic Moonfire Faire MMXVIII Advertisement",False,False,3,0,0,True,False
 197676,983,14,0,0,0,0,,"Stuffed Paissa Patissier",False,False,3,0,0,True,False
 197677,984,14,0,0,0,0,,"Stuffed Behelmeted Serpent",False,False,3,0,0,True,False
 197678,985,15,0,0,0,0,,"The Sultana's Seven",False,False,5,0,0,True,False
@@ -1117,8 +1117,8 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197721,843,15,0,0,0,0,,"Authentic Copy of Under the Moonlight",False,False,3,0,0,True,False
 197722,844,15,0,0,0,0,,"Authentic Copy of Prelude in Violet",False,False,3,0,0,True,False
 197723,845,15,0,0,0,0,,"Authentic Copy of Requiem for Heroes",False,False,3,0,0,True,False
-197724,822,15,0,0,0,0,,"Authentic Fantastical All Saints' Wake Advertisement",False,False,3,0,0,True,False
-197725,865,15,0,0,0,0,,"Authentic Choir Concert Advertisement",False,False,3,0,0,True,False
+197724,822,15,0,0,0,0,,"Authentic All Saints' Wake MMXV Advertisement",False,False,3,0,0,True,False
+197725,865,15,0,0,0,0,,"Authentic Starlight Celebration MMXVIII Advertisement",False,False,3,0,0,True,False
 197726,866,14,7,55,0,0,"CmnDefHousingDish_00213","Authentic Starlight Roll Cake",True,False,7,4,11,True,False
 197727,598,15,0,0,0,0,,"Authentic Starlight Goobbue Wreath",False,False,3,0,0,True,False
 197728,716,14,0,0,0,0,,"Authentic Heavensturn Bounty",False,False,3,0,0,True,False
@@ -1126,7 +1126,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197730,938,13,0,0,0,0,,"Authentic Eastern Stage",False,False,3,0,0,True,False
 197731,939,15,0,0,0,0,,"Authentic Little Ladies' Day Banner",False,False,3,0,0,True,False
 197732,937,14,0,0,0,0,,"Authentic Stuffed Rabbit",False,False,3,0,0,True,False
-197733,879,15,0,0,0,0,,"Authentic Hatching-tide Advertisement",False,False,3,0,0,True,False
+197733,879,15,0,0,0,0,,"Authentic Hatching-tide MMXVIII Advertisement",False,False,3,0,0,True,False
 197734,1025,14,0,0,89,0,,"Diamond Weapon Bust",False,False,0,0,0,True,False
 197735,1026,14,0,0,0,0,"CmnDefHousingObject_00141","Queen's Rest",False,False,5,0,0,True,False
 197736,1027,14,7,64,0,0,"CmnDefHousingDish_00213","Hatching-tide Confections",True,False,8,4,11,True,False
@@ -1251,7 +1251,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197855,1141,13,0,0,0,0,,"Indoor Climbing Frame",False,False,5,0,0,True,False
 197856,1142,13,0,0,0,0,"CmnDefHousingObject_00141","Steel Locker",False,False,0,0,0,True,False
 197857,1143,12,0,0,0,0,"CmnDefHousingObject_00141","Gaol Partition Door",False,False,5,0,0,True,False
-197858,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+197858,1144,15,0,0,0,0,,"Peeling Wallpaper Sticker",False,False,0,0,0,True,False
 197859,1145,15,0,0,0,0,,"Wall-climbing Ivy",False,False,0,0,0,True,False
 197860,1146,12,0,0,0,0,,"Gaol Partition",False,False,5,0,0,True,False
 197861,1151,15,0,0,0,0,,"Hydaelyn, as We Know Her",False,False,0,0,0,True,False
@@ -1367,8 +1367,8 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 197971,1240,12,0,0,0,0,,"Simple Sink",False,False,0,0,0,True,False
 197972,1241,12,0,0,0,0,,"Crystal Tower Phasmascape",False,False,0,0,0,True,False
 197973,1242,12,0,0,0,0,,"Urth's Fount Phasmascape",False,False,0,0,0,True,False
-197974,1243,15,0,0,0,0,,"Hippity-hoppity Hatching-tide Advertisement",False,False,5,0,0,True,False
-197975,1244,15,0,0,0,0,,"Lovely Little Ladies' Day Advertisement",False,False,5,0,0,True,False
+197974,1243,15,0,0,0,0,,"Hatching-tide MMXXII Advertisement",False,False,5,0,0,True,False
+197975,1244,15,0,0,0,0,,"Little Ladies' Day MMXXI Advertisement",False,False,5,0,0,True,False
 197976,1245,14,0,0,0,0,,"Stuffed Loporrit",False,False,3,0,0,True,False
 197977,1106,15,0,0,0,0,,"Authentic Valentione Mobile",False,False,3,0,0,True,False
 197978,1140,14,0,0,0,0,,"Authentic Eggsemplary Basket",False,False,3,0,0,True,False
@@ -1419,7 +1419,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198023,1285,14,0,0,97,0,,"Blighted Earth Sword Stand",False,False,0,0,0,True,False
 198024,1286,14,0,0,98,0,,"Drowned King Sculpture",False,False,0,0,0,True,False
 198025,1287,14,0,0,99,0,,"Eventide Sword Stand",False,False,0,0,0,True,False
-198026,1288,15,0,0,0,0,,"The Rising Advertisement",False,False,5,0,0,True,False
+198026,1288,15,0,0,0,0,,"The Rising MMXXIII Advertisement",False,False,5,0,0,True,False
 198027,1289,15,0,0,0,0,,"Wall-mounted Vampire Bats",False,False,5,0,0,True,False
 198028,1290,15,0,0,0,0,,"Springtide Fan Stand",False,False,5,0,0,True,False
 198029,1291,12,0,0,0,0,,"Valentione's Heart Chair",False,False,5,0,0,True,False
@@ -1485,8 +1485,8 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198089,1196,14,0,0,0,0,,"Authentic Caged Wisp",False,False,3,0,0,True,False
 198090,1170,15,0,0,0,0,,"Authentic Heavensturn Crane Banner",False,False,3,0,0,True,False
 198091,1204,13,0,0,0,0,,"Authentic Valentione's Heart Desk",False,False,3,0,0,True,False
-198092,1244,15,0,0,0,0,,"Authentic Lovely Little Ladies' Day Advertisement",False,False,3,0,0,True,False
-198093,1243,15,0,0,0,0,,"Authentic Hippity-hoppity Hatching-tide Advertisement",False,False,3,0,0,True,False
+198092,1244,15,0,0,0,0,,"Authentic Little Ladies' Day MMXXI Advertisement",False,False,3,0,0,True,False
+198093,1243,15,0,0,0,0,,"Authentic Hatching-tide MMXXII Advertisement",False,False,3,0,0,True,False
 198094,1350,15,0,0,0,0,,"Authentic Copy of Growing Light",False,False,3,0,0,True,False
 198095,1352,15,0,0,0,0,,"Aloalo Pendant Wall Lamp",False,False,0,0,0,True,False
 198096,1353,14,0,0,0,0,,"Forgotten Figure",False,False,5,0,0,True,False
@@ -1531,8 +1531,8 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198135,1390,12,0,0,0,0,,"Pile of Gold",False,False,0,0,0,True,False
 198136,1391,14,0,0,0,0,,"Rising Table Lamp",False,False,5,0,0,True,False
 198137,1392,14,0,0,0,0,,"Flying Pumpkin",False,False,5,0,0,True,False
-198138,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
-198139,1288,15,0,0,0,0,,"Authentic Rising Advertisement",False,False,3,0,0,True,False
+198138,1393,12,0,0,0,0,,"Gilded Screen",False,False,5,0,0,True,False
+198139,1288,15,0,0,0,0,,"Authentic Rising MMXXIII Advertisement",False,False,3,0,0,True,False
 198140,1289,15,0,0,0,0,,"Authentic Wall-mounted Vampire Bats",False,False,3,0,0,True,False
 198141,1396,12,0,0,0,0,,"Wood-fired Range",False,False,0,0,0,True,False
 198142,1397,15,0,0,0,0,"CmnDefHousingObject_00141","Holodisplay",False,False,0,0,0,True,False
@@ -1567,8 +1567,8 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198171,1433,12,0,0,0,0,,"Classroom Chair",False,False,0,0,0,True,False
 198172,1434,15,0,0,0,0,,"Classroom Blackboard",False,False,0,0,0,True,False
 198173,1435,13,0,0,0,0,,"Contemporary Iron Shelf",False,False,0,0,0,True,False
-198174,1436,15,0,0,0,0,,"Festive Starlight Celebration Advertisement",False,False,5,0,0,True,False
-198175,1437,15,0,0,0,0,,"Heartfelt Valentione's Day Advertisement",False,False,5,0,0,True,False
+198174,1436,15,0,0,0,0,,"Starlight Celebration MMXXIII Advertisement",False,False,5,0,0,True,False
+198175,1437,15,0,0,0,0,,"Valentione's Day MMXXIV Advertisement",False,False,5,0,0,True,False
 198176,1438,15,0,0,0,0,,"Authentic Copy of Crossroads",False,False,3,0,0,True,False
 198177,1439,14,7,90,0,0,"CmnDefHousingDish_00213","Starlight Kinderpunsch",True,False,8,4,11,True,False
 198178,1440,14,0,0,0,0,,"Starlight Mug Tower",False,False,5,0,0,True,False
@@ -1634,15 +1634,15 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198238,1515,13,0,0,0,0,,"Cosmotable",False,False,0,0,0,True,False
 198239,1516,14,0,0,0,0,,"Cosmolamp",False,False,0,0,0,True,False
 198240,1481,12,0,0,0,0,,"Log Partition Door",False,False,0,0,0,True,False
-198241,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
-198242,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
-198243,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
-198244,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
-198245,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
-198246,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
-198247,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
-198248,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
-198249,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+198241,1484,12,0,0,0,0,,"Tuliyollan Beverage Rack",False,False,0,0,0,True,False
+198242,1485,13,0,0,0,0,,"Straight Tuliyollan Counter",False,False,0,0,0,True,False
+198243,1486,13,0,0,0,0,,"Curved Tuliyollan Counter",False,False,0,0,0,True,False
+198244,1487,12,0,0,0,0,,"Tuliyollan Bench",False,False,0,0,0,True,False
+198245,1488,12,0,0,0,0,,"Tuliyollan Screen",False,False,0,0,0,True,False
+198246,1489,13,0,0,0,0,,"Tuliyollan Table",False,False,0,0,0,True,False
+198247,1490,12,0,0,0,0,,"Tuliyollan Stool",False,False,0,0,0,True,False
+198248,1491,14,0,0,0,0,,"Tuliyollan Censer",False,False,0,0,0,True,False
+198249,1492,16,0,0,0,0,,"Tuliyollan Rug",False,False,0,0,0,True,False
 198250,1505,16,0,0,0,0,,"Cabin Half-moon Rug",False,False,0,0,0,True,False
 198251,1506,12,0,0,0,0,,"Cabin Bed",False,False,0,0,0,True,False
 198252,1507,12,0,0,0,0,,"Cabin Sofa",False,False,0,0,0,True,False
@@ -1671,7 +1671,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198275,1394,14,0,0,0,0,,"Authentic Bouncing Bomb Balloons",False,False,3,0,0,True,False
 198276,1391,14,0,0,0,0,,"Authentic Rising Table Lamp",False,False,3,0,0,True,False
 198277,1392,14,0,0,0,0,,"Authentic Flying Pumpkin",False,False,3,0,0,True,False
-198278,1543,15,0,0,0,0,,"Feastful All Saints' Wake Advertisement",False,False,5,0,0,True,False
+198278,1543,15,0,0,0,0,,"All Saints' Wake MMXXIV Advertisement",False,False,5,0,0,True,False
 198279,1533,14,7,90,0,0,"CmnDefHousingDish_00213","Lominsan Kinderpunsch",True,False,8,4,11,True,False
 198280,1534,14,0,0,0,0,,"Lominsan Starlight Mugs",False,False,5,0,0,True,False
 198281,1535,14,7,90,0,0,"CmnDefHousingDish_00213","Ul'dahn Kinderpunsch",True,False,8,4,11,True,False
@@ -1679,7 +1679,7 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198283,1537,14,0,0,0,0,,"Wilds Great Sword Stand",False,False,0,0,0,True,False
 198284,1538,15,0,0,0,0,,"Wilds Banner",False,False,0,0,0,True,False
 198285,1542,15,0,0,0,0,,"Lyhe Ghiah Stained Crystal Ornament",False,False,0,0,0,True,False
-198286,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+198286,1540,12,0,0,0,0,,"Everkeep Mixing Booth",False,False,0,0,0,True,False
 198287,1539,14,0,0,0,0,,"Everkeep Lamppost",False,False,0,0,0,True,False
 198288,1544,15,0,0,0,0,,"Legends of Ivalice",False,False,5,0,0,True,False
 198289,243,12,3,35,21,0,,"Felyne Material Supplier Permit",False,False,5,2,9,False,False
@@ -1691,3 +1691,40 @@ int32,uint16,byte,byte,uint32,byte,byte,CustomTalk,Item,bit&01,bit&02,byte,byte,
 198295,1547,14,0,0,0,0,"CmnDefHousingObject_00141","Portable Exoterminal",False,False,0,0,0,True,False
 198296,1548,14,0,0,108,0,,"Indoor Hunter's Grill",False,False,0,0,0,True,False
 198297,1549,12,0,0,0,0,,"Hunter's Lodge Chair",False,False,0,0,0,True,False
+198298,1553,13,0,0,0,0,,"Valentione Round Table",False,False,5,0,0,True,False
+198299,1554,14,7,94,0,0,"CmnDefHousingDish_00213","Rolanberry Valentione Cake",True,False,8,4,11,True,False
+198300,1437,15,0,0,0,0,,"Authentic Valentione's Day MMXXIV Advertisement",False,False,3,0,0,True,False
+198301,1565,12,0,0,0,0,,"Valentione Chair",False,False,5,0,0,True,False
+198302,1566,16,0,0,0,0,,"Valentione Rug",False,False,5,0,0,True,False
+198303,1567,14,0,0,0,0,,"Scattered Archon Eggs",False,False,5,0,0,True,False
+198304,1568,14,0,0,0,0,,"Filled Archon Egg Basket",False,False,5,0,0,True,False
+198305,1569,14,0,0,0,0,,"Archon Egg Basket",False,False,5,0,0,True,False
+198306,1550,14,0,0,109,0,,"Doom-engine Levinbox",False,False,0,0,0,True,False
+198307,1560,15,0,0,0,0,,"Housing Design Award MMXXV Plaque ",False,False,5,0,0,True,False
+198308,1541,15,0,0,0,0,,"Unfriendly Yan Neon Wall Light",False,False,0,0,0,True,False
+198309,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+198310,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+198311,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+198312,1405,14,7,95,0,0,"CmnDefHousingDish_00213","Steaming Stew Bowl",True,False,9,4,11,True,False
+198313,1406,14,7,96,0,0,"CmnDefHousingDish_00213","Sampler Board",True,False,9,4,11,True,False
+198314,1402,12,0,0,0,0,,"Fortune-teller's Table",False,False,0,0,0,True,False
+198315,1552,15,0,0,0,0,,"Authentic Copy of Into the Mist",False,False,3,0,0,True,False
+198316,1555,15,0,0,0,0,,"Valentione's Day MMXXV Advertisement",False,False,5,0,0,True,False
+198317,1556,15,0,0,0,0,,"Little Ladies' Day MMXXV Advertisement",False,False,5,0,0,True,False
+198318,1557,14,0,0,0,0,,"Tabletop Little Ladies' Day MMXXV Advertisement",False,False,5,0,0,True,False
+198319,1558,15,0,0,0,0,,"Little Ladies' Day MMXVIII Advertisement",False,False,5,0,0,True,False
+198320,1559,15,0,0,0,0,,"Hatching-tide MMXXV Advertisement",False,False,5,0,0,True,False
+198321,1570,14,0,0,0,0,,"Tabletop Hatching-tide MMXXV Advertisement",False,False,5,0,0,True,False
+198322,1571,15,0,0,0,0,,"Hatching-tide MMXVI Advertisement",False,False,5,0,0,True,False
+198323,1436,15,0,0,0,0,,"Authentic Starlight Celebration MMXXIII Advertisement",False,False,3,0,0,True,False
+198324,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+198325,1182,14,7,78,0,0,"CmnDefHousingDish_00213","Authentic Oriental New Year's Meal",True,False,7,4,11,True,False
+198326,1290,15,0,0,0,0,,"Authentic Springtide Fan Stand",False,False,3,0,0,True,False
+198327,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+198328,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+198329,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+198330,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+198331,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+198332,0,0,0,0,0,0,,"",False,False,0,0,0,False,False
+198333,1587,14,0,0,0,0,,"Occult Compass",False,False,0,0,0,True,False
+198334,1588,14,0,0,0,0,,"Occult Pyramicula",False,False,0,0,0,True,False

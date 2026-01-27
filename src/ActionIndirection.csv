@@ -143,7 +143,7 @@ int32,Action,ClassJob,Action
 139,"Scorch","red mage","Jolt II"
 140,"Resolution","red mage","Scorch"
 141,"Grand Impact","red mage",""
-142,"Prefulgence","red mage","Manafication"
+142,"",,""
 143,"Manifestation","scholar","Adloquium"
 144,"Accession","scholar","Succor"
 145,"Emergency Tactics",,"Emergency Tactics"

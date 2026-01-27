@@ -68,3 +68,7 @@ int32,str,sbyte,Action,Action,Action,Action,uint16,uint16,uint16,bit&01
 64,"Turali Judgment Combo",0,"Trials of Tural","Turali Fervor","Turali Judgment","",0,0,0,True
 65,"Dual Fang Combo",0,"Steel Fangs","Hunter's Sting","Barbarous Bite","Piercing Fangs",39160,39163,0,True
 66,"",0,"","","","",0,0,0,False
+67,"Water in Blue Combo",0,"Fire in Red","Aero in Green","Water in Blue","",0,0,0,True
+68,"Water II in Blue Combo",1,"Fire II in Red","Aero II in Green","Water II in Blue","",0,0,0,True
+69,"",0,"","","","",0,0,0,False
+70,"",0,"","","","",0,0,0,False

@@ -404,9 +404,9 @@ int32,GatheringCondition,uint32,uint16,GatheringPointBonusType,uint16,uint16,bit
 400,"Max GP ≥ <Value>IntegerParameter(1)</Value>",591,621," Gathering Attempts/Integrity +<Value>IntegerParameter(1)</Value>～",1,2,False,0
 401,"Max GP ≥ <Value>IntegerParameter(1)</Value>",593,623," Gathering Attempts/Integrity +<Value>IntegerParameter(1)</Value>～",1,2,False,0
 402,"Max GP ≥ <Value>IntegerParameter(1)</Value>",597,627," Gathering Attempts/Integrity +<Value>IntegerParameter(1)</Value>～",1,2,False,0
-403,"",0,0,"",0,0,False,0
-404,"",0,0,"",0,0,False,0
-405,"",0,0,"",0,0,False,0
+403,"Perception ≥ <Value>IntegerParameter(1)</Value>",5600,0," Gatherer's Boon Chance +<Value>IntegerParameter(1)</Value>%",30,0,False,0
+404,"Gathering ≥ <Value>IntegerParameter(1)</Value>",5400,5886," Gathering Yield +<Value>IntegerParameter(1)</Value>～",1,3,False,0
+405,"Max GP ≥ <Value>IntegerParameter(1)</Value>",960,990," Gathering Attempts/Integrity +<Value>IntegerParameter(1)</Value>～",1,2,False,0
 406,"",0,0,"",0,0,False,0
 407,"",0,0,"",0,0,False,0
 408,"",0,0,"",0,0,False,0
@@ -618,37 +618,37 @@ int32,GatheringCondition,uint32,uint16,GatheringPointBonusType,uint16,uint16,bit
 614,"Gathering ≥ <Value>IntegerParameter(1)</Value>",1026,1179," Gathering Yield +<Value>IntegerParameter(1)</Value>～",1,3,False,0
 615,"Gathering ≥ <Value>IntegerParameter(1)</Value>",1116,1283," Gathering Yield +<Value>IntegerParameter(1)</Value>～",1,3,False,0
 616,"Gathering ≥ <Value>IntegerParameter(1)</Value>",1006,1156," Gathering Yield +<Value>IntegerParameter(1)</Value>～",1,3,False,0
-617,"",0,0,"",0,0,False,0
-618,"",0,0,"",0,0,False,0
-619,"",0,0,"",0,0,False,0
-620,"",0,0,"",0,0,False,0
-621,"",0,0,"",0,0,False,0
-622,"",0,0,"",0,0,False,0
-623,"",0,0,"",0,0,False,0
-624,"",0,0,"",0,0,False,0
-625,"",0,0,"",0,0,False,0
-626,"",0,0,"",0,0,False,0
-627,"",0,0,"",0,0,False,0
-628,"",0,0,"",0,0,False,0
+617,"Gathering ≥ <Value>IntegerParameter(1)</Value>",5460,0," Collectability +<Value>IntegerParameter(1)</Value>",70,0,False,0
+618,"Gathering ≥ <Value>IntegerParameter(1)</Value>",5460,5760," Meticulous Action Effect Chance +<Value>IntegerParameter(1)</Value>%～",10,20,False,0
+619,"Perception ≥ <Value>IntegerParameter(1)</Value>",5300,5550," Gatherer's Boon Chance +<Value>IntegerParameter(1)</Value>%～",60,80,False,0
+620,"Perception ≥ <Value>IntegerParameter(1)</Value>",5300,5550," Gatherer's Boon Chance +<Value>IntegerParameter(1)</Value>%～",60,80,False,0
+621,"Perception ≥ <Value>IntegerParameter(1)</Value>",5300,5550," Gatherer's Boon Chance +<Value>IntegerParameter(1)</Value>%～",15,30,False,0
+622,"Perception ≥ <Value>IntegerParameter(1)</Value>",5300,5550," Gatherer's Boon Chance +<Value>IntegerParameter(1)</Value>%～",40,60,False,0
+623,"Perception ≥ <Value>IntegerParameter(1)</Value>",5300,5550," Gatherer's Boon Chance +<Value>IntegerParameter(1)</Value>%～",60,80,False,0
+624,"Gathering ≥ <Value>IntegerParameter(1)</Value>",5460,0," Gathering Attempts/Integrity +<Value>IntegerParameter(1)</Value>",1,0,False,0
+625,"Gathering ≥ <Value>IntegerParameter(1)</Value>",5460,0," Gathering Attempts/Integrity +<Value>IntegerParameter(1)</Value>",2,0,False,0
+626,"Gathering ≥ <Value>IntegerParameter(1)</Value>",5460,0," Gathering Attempts/Integrity +<Value>IntegerParameter(1)</Value>",1,0,False,0
+627,"Gathering ≥ <Value>IntegerParameter(1)</Value>",5460,0," Gathering Attempts/Integrity +<Value>IntegerParameter(1)</Value>",2,0,False,0
+628,"Gathering ≥ <Value>IntegerParameter(1)</Value>",5460,0," Gathering Attempts/Integrity +<Value>IntegerParameter(1)</Value>",1,0,False,0
 629,"",0,0,"",0,0,False,0
 630,"",0,0,"",0,0,False,0
 631,"",0,0,"",0,0,False,0
 632,"",0,0,"",0,0,False,0
 633,"",0,0,"",0,0,False,0
 634,"",0,0,"",0,0,False,0
-635,"",0,0,"",0,0,False,0
-636,"",0,0,"",0,0,False,0
-637,"",0,0,"",0,0,False,0
-638,"",0,0,"",0,0,False,0
-639,"",0,0,"",0,0,False,0
-640,"",0,0,"",0,0,False,0
-641,"",0,0,"",0,0,False,0
-642,"",0,0,"",0,0,False,0
-643,"",0,0,"",0,0,False,0
-644,"",0,0,"",0,0,False,0
-645,"",0,0,"",0,0,False,0
-646,"",0,0,"",0,0,False,0
-647,"",0,0,"",0,0,False,0
+635,"Perception ≥ <Value>IntegerParameter(1)</Value>",4550,5000," Gatherer's Boon Chance +<Value>IntegerParameter(1)</Value>%～",60,80,False,0
+636,"Perception ≥ <Value>IntegerParameter(1)</Value>",4550,5000," Gatherer's Boon Chance +<Value>IntegerParameter(1)</Value>%～",60,80,False,0
+637,"Perception ≥ <Value>IntegerParameter(1)</Value>",4550,5000," Gatherer's Boon Chance +<Value>IntegerParameter(1)</Value>%～",15,30,False,0
+638,"Perception ≥ <Value>IntegerParameter(1)</Value>",4550,5000," Gatherer's Boon Chance +<Value>IntegerParameter(1)</Value>%～",40,60,False,0
+639,"Perception ≥ <Value>IntegerParameter(1)</Value>",4550,5000," Gatherer's Boon Chance +<Value>IntegerParameter(1)</Value>%～",60,80,False,0
+640,"Gathering ≥ <Value>IntegerParameter(1)</Value>",4550,0," Gathering Attempts/Integrity +<Value>IntegerParameter(1)</Value>",1,0,False,0
+641,"Gathering ≥ <Value>IntegerParameter(1)</Value>",4550,0," Gathering Attempts/Integrity +<Value>IntegerParameter(1)</Value>",2,0,False,0
+642,"Gathering ≥ <Value>IntegerParameter(1)</Value>",4550,0," Gathering Attempts/Integrity +<Value>IntegerParameter(1)</Value>",1,0,False,0
+643,"Gathering ≥ <Value>IntegerParameter(1)</Value>",4550,0," Gathering Attempts/Integrity +<Value>IntegerParameter(1)</Value>",2,0,False,0
+644,"Gathering ≥ <Value>IntegerParameter(1)</Value>",4550,0," Gathering Attempts/Integrity +<Value>IntegerParameter(1)</Value>",1,0,False,0
+645,"Gathering ≥ <Value>IntegerParameter(1)</Value>",4550,5000," Gathering Attempts/Integrity +<Value>IntegerParameter(1)</Value>～",1,2,False,0
+646,"Gathering ≥ <Value>IntegerParameter(1)</Value>",4550,0," Gathering Attempts/Integrity +<Value>IntegerParameter(1)</Value>",2,0,False,0
+647,"Gathering ≥ <Value>IntegerParameter(1)</Value>",4550,0," Gathering Attempts/Integrity +<Value>IntegerParameter(1)</Value>",1,0,False,0
 648,"",0,0,"",0,0,False,0
 649,"",0,0,"",0,0,False,0
 650,"Max GP ≥ <Value>IntegerParameter(1)</Value>",600,630," Gathering Attempts/Integrity +<Value>IntegerParameter(1)</Value>～",1,2,False,0

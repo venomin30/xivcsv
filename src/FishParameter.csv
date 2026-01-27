@@ -1454,9 +1454,9 @@ From <Emphasis>O'er Westward Seas</Emphasis>
 1442,"The dense black roe laid by this wavekin sink down to the substrate where it spends much of its time. Known in the Hhetsarro tongue as the “swallower of dawn,” to witness this wavekin's gaping maw loom up from the depths of Lake Toari is to keenly understand the origins of its name.","","","","Ttokatoa","GatheringItemLevelConvertTable#730",0,7000,True,"Lakes","Lake Toari","Xak Turali Fishing Folklore",True,1145
 1443,"When the scales of this flat fish catch the light, they appear to coruscate with electrical energy. This startling effect is all the more pronounced when lightning strikes nearby.","","","","Thunderous Flounder","GatheringItemLevelConvertTable#730",0,7000,True,"Rivers","Crackling Canyons","Alexandrian Fishing Folklore",True,1145
 1444,"Routinely observed leading retinues of harlequin lancers with magnanimous poise, this regal wavekin lashes out with its venomous barbels to fell prey with deadly precision.","Whip-like barbels unfurl near the water's surface!","The whip-like barbels slink out of view...","You reel in the whip-like barbels and their indignant owner!","Harlequin Queen","GatheringItemLevelConvertTable#730",0,7000,True,"Lakes","The Knowable","Alexandrian Fishing Folklore",True,1145
-1445,"Struck daily by the lightning that pours into the crackling canyons, this eel is valued for its delicate-yet-flavorful flesh that notably numbs the tongue with an electrifying spiciness.","","","","Goldentail","GatheringItemLevelConvertTable#730",0,7000,True,"Rivers","Crackling Canyons","Alexandrian Fishing Folklore",True,0
-1446,"It is believed that in the basin's pristine depths, the currents churned by Ku'uxage's falls transform themselves into aether-rich wavekin. Thus does the purple palate surely share the refined tastes of its Ku'uxage parent-waters' grand “tongue.”","","","","Purple Palate","GatheringItemLevelConvertTable#730",0,7000,True,"Rivers","Ku'uxage","Yok Turali Fishing Folklore",True,0
-1447,"This carefree ray lives happily amongst the clouds, guided only by the wind and its own sense of adventure. Not even capture can unsettle its insouciance, as it tends to bond with the fisher that reels it in.","","","","Sunray Ray","GatheringItemLevelConvertTable#730",0,7000,True,"Skies","Westbound Zorgor",,True,0
+1445,"Struck daily by the lightning that pours into the crackling canyons, this eel is valued for its delicate-yet-flavorful flesh that notably numbs the tongue with an electrifying spiciness.","","","","Goldentail","GatheringItemLevelConvertTable#730",0,7000,False,"Rivers","Crackling Canyons","Alexandrian Fishing Folklore",True,0
+1446,"It is believed that in the basin's pristine depths, the currents churned by Ku'uxage's falls transform themselves into aether-rich wavekin. Thus does the purple palate surely share the refined tastes of its Ku'uxage parent-waters' grand “tongue.”","","","","Purple Palate","GatheringItemLevelConvertTable#730",0,7000,False,"Rivers","Ku'uxage","Yok Turali Fishing Folklore",True,0
+1447,"This carefree ray lives happily amongst the clouds, guided only by the wind and its own sense of adventure. Not even capture can unsettle its insouciance, as it tends to bond with the fisher that reels it in.","","","","Sunray Ray","GatheringItemLevelConvertTable#730",0,7000,False,"Skies","Westbound Zorgor",,True,0
 1448,"With a lifespan that exceeds even that of Yok Huy, this enormous wavekin commands the depths of Karvarhur the First while robed in thick swaths of lichen that bespeak its ancient legacy.","","","","Prime Adjudicator","GatheringItemLevelConvertTable#730",0,7000,True,"Lakes","Karvarhur the First","Yok Turali Fishing Folklore",True,1145
 1449,"This large specimen of crenicichla dominates the shoreline waters of Miyakabek'zoma, boasting the elegant and unmarred fins of an absolute victor.","An impetuous challenger stirs in the water!","The impetuous challenger loses interest in you...","You reel in the impetuous challenger!","Crenicichla Miyaka","GatheringItemLevelConvertTable#730",0,7000,True,"Rivers","The Dewspun Bank","Yok Turali Fishing Folklore",True,1145
 1450,"While the skins of related species can be processed into armor, the sable scales of this primordial wavekin boast even greater toughness, and are sturdy enough to substitute as weaponry without alteration.","","","","Iron Shadowtongue","GatheringItemLevelConvertTable#730",0,7000,True,"Lakes","Iq Rrax Tsoly","Yok Turali Fishing Folklore",True,1145
@@ -1465,7 +1465,15 @@ From <Emphasis>O'er Westward Seas</Emphasis>
 1453,"On closer inspection, the speckled markings that adorn this wavekin are actually bud-like protrusions. Any fish lured close by the apparition of a sprouting buffet usually find themselves on the menu instead.","","","","Sprouting Perch","GatheringItemLevelConvertTable#730",0,7000,True,"Rivers","Outskirts Shallows","Alexandrian Fishing Folklore",True,1145
 1454,"Boasting a cavernous set of lungs proportionate to their gargantuan size, these fish have been recorded subsisting on a single lungful of air before breaching the surface again. It is difficult to assess which is more impressive─the wavekin's physical attributes, or the patience of the naturalists who waited for days on end to make such an observation.","","","","Gigagiant Snakehead","GatheringItemLevelConvertTable#730",0,7000,True,"Lakes","Mu Springs Eternal","Alexandrian Fishing Folklore",True,1145
 1455,"This saltwater fish can be found languidly roaming the waterways of Canal Town, shoals of lesser wavekin in tow. To exert control over its territory, it plies the same routes back and forth with the consistency of a commercial ferry service.","","","","Gondola Louvar","GatheringItemLevelConvertTable#730",0,7000,True,"Deep Sea","Canal Town South","Alexandrian Fishing Folklore",True,1145
-1456,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+1456,"Clad in glinting golden scales, these substantial wavekin resemble pouches laden with coin. Those fooled by the illusion often dive into the water after glimpsing the fish, visions of wealth soon vanishing with the creature's retreating form.","","","","Purse of Riches","GatheringItemLevelConvertTable#750",0,7000,True,"Coastlines","High Tide Harbor","Yok Turali Fishing Folklore",True,1145
+1457,"Although known to primarily target hapless peddlers and other waterside wanderers, with increased punutiy traffic in the region, these voracious carnivores now enjoy a more varied diet─much to the chagrin of the punutiy handlers and their gentle charges.","","","","Punutiy Pain","GatheringItemLevelConvertTable#750",0,7000,True,"Rivers","Peaks Poga","Yok Turali Fishing Folklore",True,1145
+1458,"Some scholars have likened this wavekin's form to an ear of corn. Indeed, the sight of these fish basking in the sun with their silk-like tailfins aquiver is akin to that of a golden field, ripe kernels ready to harvest. ","","","","Shuckfin Dace","GatheringItemLevelConvertTable#750",0,7000,True,"Rivers","Ku'uxage","Yok Turali Fishing Folklore",True,1145
+1459,"A species of flat catfish residing in the shallow waters of Ankledeep. Locals wading in are often met with the tickling touch of barbels as the pool's residents greet their shins with cautious interest.","","","","Shin Snuffler","GatheringItemLevelConvertTable#750",0,7000,True,"Lakes","Ankledeep","Yok Turali Fishing Folklore",True,1145
+1460,"Presiding over Cenote Moxutural with an apparent sense of ownership, this mighty gar once frolicked with local residents. Since the nearby village fell silent, however, it has kept a lonesome vigil in the depths.","","","","Moxutural Greatgar","GatheringItemLevelConvertTable#750",0,7000,True,"Lakes","Cenote Moxutural","Yok Turali Fishing Folklore",True,1145
+1461,"This golden wavekin is found in the deepest recesses beyond the submerged skyline. Infused with lightning energy, it wreaths itself in scraps of metal, darting through the water in a flash of scale and steel.","","","","Heirloom Goldgrouper","GatheringItemLevelConvertTable#750",0,7000,True,"Rivers","Alexandrian Ruins","Alexandrian Fishing Folklore",True,1145
+1462,"In certain lights, this striped predator appears iridescent, its coloration shifting and shimmering as if stirred by the wind.","A ferocious form darts into view!","The ferocious form shimmers away...","You reel in the ferocious form!","Datnioides Aeroplanos","GatheringItemLevelConvertTable#750",0,7000,True,"Lakes","Leynode Aero","Alexandrian Fishing Folklore",True,1145
+1463,"These large and lively specimens are descended from the wavekin that once dwelled in Alexandria's castle moat. Eager to see the population flourish, naturalists chose to enshrine their hope in the naming of the fish.","","","","Esperance Carp","GatheringItemLevelConvertTable#750",0,7000,True,"Lakes","Proto Alexandria","Alexandrian Fishing Folklore",True,1145
+1464,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
 15000,"","","","","Timeworn Leather Map","GatheringItemLevelConvertTable#36",0,0,False,"","Undiscovered Fishing Hole",,False,0
 15001,"","","","","Timeworn Goatskin Map","GatheringItemLevelConvertTable#41",0,0,False,"","Undiscovered Fishing Hole",,False,0
 15002,"","","","","Timeworn Toadskin Map","GatheringItemLevelConvertTable#46",0,0,False,"","Undiscovered Fishing Hole",,False,0
@@ -2169,3 +2177,143 @@ From <Emphasis>O'er Westward Seas</Emphasis>
 15700,"","","","","Midnight Impression","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
 15701,"","","","","Blue Starburst","GatheringItemLevelConvertTable#10",0,0,False,"","Undiscovered Fishing Hole",,False,0
 15702,"","","","","Timeworn Gargantuaskin Map","GatheringItemLevelConvertTable#690",0,0,False,"","Undiscovered Fishing Hole",,False,0
+15703,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15704,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15705,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15706,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15707,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15708,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15709,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15710,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15711,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15712,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15713,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15714,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15715,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15716,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15717,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15718,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15719,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15720,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15721,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15722,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15723,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15724,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15725,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15726,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15727,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15728,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15729,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15730,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15731,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15732,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15733,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15734,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15735,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15736,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15737,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15738,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15739,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15740,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15741,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15742,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15743,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15744,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15745,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15746,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15747,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15748,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15749,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15750,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15751,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15752,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15753,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15754,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15755,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15756,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15757,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15758,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15759,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15760,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15761,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15762,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15763,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15764,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15765,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15766,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15767,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15768,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15769,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15770,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15771,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15772,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15773,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15774,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15775,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15776,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15777,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15778,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15779,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15780,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15781,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15782,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15783,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15784,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15785,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15786,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15787,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15788,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15789,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15790,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15791,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15792,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15793,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15794,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15795,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15796,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15797,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15798,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15799,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15800,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15801,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15802,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15803,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15804,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15805,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15806,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15807,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15808,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15809,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15810,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15811,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15812,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15813,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15814,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15815,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15816,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15817,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15818,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15819,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15820,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15821,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15822,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15823,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15824,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15825,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15826,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15827,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15828,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15829,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15830,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15831,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15832,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15833,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15834,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15835,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15836,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15837,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15838,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15839,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15840,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15841,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0
+15842,"","","","","","GatheringItemLevelConvertTable#0",0,0,False,"Coastlines","Undiscovered Fishing Hole",,False,0

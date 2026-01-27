@@ -3076,8 +3076,8 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003072,"automaton-filled sack",0,"automaton-filled sacks",0,1,1,0,0,False,"Automaton-filled Sack","ui/icon/025000/025919.tex","",1,1,"How to Catch an Automaton",0,"normal/item_start",0
 2003073,"freshly laid egg",0,"freshly laid eggs",0,0,1,0,0,False,"Freshly Laid Egg","ui/icon/025000/025251.tex","",99,1,,0,"normal/item_start",0
 2003074,"inspector's journal",0,"inspector's journals",0,1,1,0,0,False,"Inspector's Journal","ui/icon/026000/026168.tex","",1,1,"The Great Horn Heist Redux",0,"normal/item_start",0
-2003075,"ostensibly special treasure map",0,"ostensibly special treasure maps",0,0,1,0,0,False,"Ostensibly Special Treasure Map","ui/icon/026000/026151.tex","Key Item",1,2,,0,"normal/item_start",0
-2003076,"ostensibly special thief's map",0,"ostensibly special thief's maps",0,0,1,0,0,False,"Ostensibly Special Thief's Map","ui/icon/026000/026151.tex","Key Item",1,2,,0,"normal/item_start",0
+2003075,"ostensibly special treasure map",0,"ostensibly special treasure maps",0,1,1,0,0,False,"Ostensibly Special Treasure Map","ui/icon/026000/026151.tex","Key Item",1,2,,0,"normal/item_start",0
+2003076,"ostensibly special thief's map",0,"ostensibly special thief's maps",0,1,1,0,0,False,"Ostensibly Special Thief's Map","ui/icon/026000/026151.tex","Key Item",1,2,,0,"normal/item_start",0
 2003077,"blood-scented candle",0,"blood-scented candles",0,0,1,0,0,False,"Blood-scented Candle","ui/icon/026000/026102.tex","Key Item",3,1,"On the Hunt",3,"normal/item_start",0
 2003078,"blood-soaked ring",0,"blood-soaked rings",0,0,1,0,0,False,"Blood-soaked Ring","ui/icon/054000/054434.tex","",1,1,"On the Hunt",0,"normal/item_start",0
 2003079,"sack of Nymeia potpourri",0,"sacks of Nymeia potpourri",0,0,1,0,0,False,"Nymeia Potpourri","ui/icon/026000/026110.tex","",1,1,"Rising Calm",0,"normal/item_start",0
@@ -3789,5 +3789,31 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003785,"gargantuaskin treasure map",0,"gargantuaskin treasure maps",0,0,1,0,0,False,"Gargantuaskin Treasure Map","ui/icon/026000/026151.tex","Key Item",1,2,,0,"normal/item_start",0
 2003786,"high-rolling thief's map",0,"high-rolling thief's maps",0,0,1,0,0,False,"High-rolling Thief's Map","ui/icon/026000/026151.tex","Key Item",1,2,,0,"normal/item_start",0
 2003787,"jar of kirkahryar",0,"jars of kirkahryar",0,0,1,0,0,False,"Jar of Kirkahryar","ui/icon/022000/022802.tex","",1,1," Forged in Corn",0,"normal/item_start",0
-2003788,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003788,"piece of peculiar plant",0,"pieces of peculiar plant",0,0,1,0,0,False,"Peculiar Plant","ui/icon/025000/025239.tex","",1,1,"エッグハントと謎の草",0,"normal/item_start",0
 2003789,"Level 1 security card",0,"Level 1 security cards",0,0,1,0,0,False,"Level 1 Security Card","ui/icon/026000/026078.tex","Key Item",1,1,"Preservation Their Purpose",0,"normal/item_start",1
+2003790,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003791,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003792,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003793,"cup of Sleepless Rhapsody",0,"cups of Sleepless Rhapsody",0,0,1,0,0,False,"Sleepless Rhapsody","ui/icon/024000/024413.tex","",1,1,"Beyond the Mountains",0,"normal/item_start",1
+2003794,"portion of Sleepless Rhapsody",0,"portions of Sleepless Rhapsody",0,0,1,0,0,False,"Sleepless Rhapsody","ui/icon/024000/024413.tex","",3,1,"Around the City",0,"normal/item_start",0
+2003795,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003796,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003797,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003798,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003799,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003800,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003801,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003802,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003803,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003804,"pouch of synthetic desensitizer",0,"pouches of synthetic desensitizer",0,0,1,0,0,False,"Synthetic Desensitizer","ui/icon/026000/026110.tex","",1,1,"To Work",1,"normal/item_start",4
+2003805,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003806,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003807,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003808,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003809,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003810,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003811,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003812,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003813,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003814,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003815,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0

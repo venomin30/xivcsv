@@ -2,9 +2,9 @@
 #,Requirement[0],Requirement[1],,,
 int32,Quest,Quest,uint32,uint32,bit&02
 65961,,"The Light of Hope",0,0,False
-66344,,"The Gridanian Envoy",66064,66082,False
 66572,,,0,0,False
 67199,,,0,0,False
+68668,,,0,0,True
 69307,,"The Light of Hope",17,0,False
 69604,,"Leaving Idyllshire",0,0,False
 69614,,"Over the Wall",0,0,False
@@ -52,4 +52,6 @@ int32,Quest,Quest,uint32,uint32,bit&02
 70851,,,0,0,False
 70852,,,511,512,False
 70853,,,0,0,False
+70858,,"The Gridanian Envoy",66064,66082,False
 70942,,,0,0,True
+70979,,"It Could Happen to You",0,0,False

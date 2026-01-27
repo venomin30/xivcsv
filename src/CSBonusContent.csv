@@ -17,9 +17,9 @@ int32,CSBonusContentType,CSBonusContentIdentifier,CSBonusContentIdentifier,uint1
 13,"Raids","InstanceContent#30001","",0,-1,-1,-1,-1,-1,3,0,0,0,0
 14,"Raids","InstanceContent#30011","",0,-1,-1,-1,-1,-1,3,0,0,0,0
 15,"Raids","InstanceContent#30020","",0,-1,-1,-1,-1,-1,3,0,0,0,0
-16,"Raids","InstanceContent#30058","",0,-1,-1,-1,-1,-1,5,0,0,0,0
-17,"Raids","InstanceContent#30068","",0,-1,-1,-1,-1,-1,6,0,0,0,0
-18,"Raids","InstanceContent#30077","",0,-1,-1,-1,-1,-1,7,0,0,0,0
+16,"Raids","InstanceContent#30058","",0,-1,-1,-1,-1,-1,7,0,0,0,0
+17,"Raids","InstanceContent#30068","",0,-1,-1,-1,-1,-1,8,0,0,0,0
+18,"Raids","InstanceContent#30077","",0,-1,-1,-1,-1,-1,9,0,0,0,0
 19,"Raids","InstanceContent#30049","",0,-1,-1,-1,-1,-1,2,0,0,0,0
 20,"Raids","InstanceContent#30050","",0,-1,-1,-1,-1,-1,2,0,0,0,0
 21,"Raids","InstanceContent#30051","",0,-1,-1,-1,-1,-1,2,0,0,0,0
@@ -53,11 +53,11 @@ int32,CSBonusContentType,CSBonusContentIdentifier,CSBonusContentIdentifier,uint1
 49,"Dungeons","InstanceContent#15","",0,-1,-1,-1,-1,-1,4,0,0,0,0
 50,"Dungeons","InstanceContent#86","",0,-1,-1,-1,-1,-1,7,0,0,0,0
 51,"Trials","InstanceContent#20082","",0,-1,-1,-1,-1,-1,3,0,0,0,0
-52,"PvP","InstanceContent#50001","",0,3,2,1,-1,-1,5,3,3,0,0
-53,"PvP","InstanceContent#50004","",0,3,2,1,-1,-1,5,3,3,0,0
-54,"PvP","InstanceContent#50005","",0,3,2,1,-1,-1,5,3,3,0,0
-55,"PvP","InstanceContent#50006","",0,3,2,1,-1,-1,5,3,3,0,0
-56,"PvP","InstanceContent#51002","",0,3,2,1,-1,-1,5,3,3,0,0
+52,"PvP","InstanceContent#41001","",0,3,2,1,-1,-1,5,3,3,0,0
+53,"PvP","InstanceContent#41004","",0,3,2,1,-1,-1,5,3,3,0,0
+54,"PvP","InstanceContent#41005","",0,3,2,1,-1,-1,5,3,3,0,0
+55,"PvP","InstanceContent#41006","",0,3,2,1,-1,-1,5,3,3,0,0
+56,"PvP","InstanceContent#42002","",0,3,2,1,-1,-1,5,3,3,0,0
 57,"Dungeons","InstanceContent#9","",0,1,-1,-1,-1,-1,20,0,0,0,0
 58,"Dungeons","InstanceContent#12","",0,1,-1,-1,-1,-1,20,0,0,0,0
 59,"Dungeons","InstanceContent#13","",0,1,-1,-1,-1,-1,20,0,0,0,0
@@ -109,7 +109,7 @@ int32,CSBonusContentType,CSBonusContentIdentifier,CSBonusContentIdentifier,uint1
 105,"Dungeons","InstanceContent#15","",0,1,-1,-1,-1,-1,20,0,0,0,0
 106,"Dungeons","InstanceContent#86","",0,1,-1,-1,-1,-1,20,0,0,0,0
 107,"Trials","InstanceContent#20082","",0,1,-1,-1,-1,-1,20,0,0,0,0
-108,"PvP","InstanceContent#51002","",0,1,-1,-1,-1,-1,20,0,0,0,0
+108,"PvP","InstanceContent#42002","",0,1,-1,-1,-1,-1,20,0,0,0,0
 109,"GATE","GoldSaucerContent#1","",0,3000,100,-1,-1,-1,3,1,0,0,0
 110,"GATE","GoldSaucerContent#7","",0,4000,1500,0,-1,-1,4,3,1,0,0
 111,"GATE","GoldSaucerContent#6","",0,4000,2000,0,-1,-1,4,3,1,0,0
@@ -139,10 +139,10 @@ int32,CSBonusContentType,CSBonusContentIdentifier,CSBonusContentIdentifier,uint1
 135,"Triple Triad","Gegeruju","",0,1,-1,-1,-1,-1,10,0,0,0,0
 136,"Dungeons","InstanceContent#29","",0,-1,-1,-1,-1,-1,4,0,0,0,0
 137,"Dungeons","InstanceContent#33","",0,-1,-1,-1,-1,-1,4,0,0,0,0
-138,"Raids","InstanceContent#30021","",0,-1,-1,-1,-1,-1,2,0,0,0,0
-139,"Raids","InstanceContent#30022","",0,-1,-1,-1,-1,-1,2,0,0,0,0
-140,"Raids","InstanceContent#30023","",0,-1,-1,-1,-1,-1,2,0,0,0,0
-141,"Raids","InstanceContent#30024","",0,-1,-1,-1,-1,-1,2,0,0,0,0
+138,"Raids","InstanceContent#30021","",0,-1,-1,-1,-1,-1,1,0,0,0,0
+139,"Raids","InstanceContent#30022","",0,-1,-1,-1,-1,-1,1,0,0,0,0
+140,"Raids","InstanceContent#30023","",0,-1,-1,-1,-1,-1,1,0,0,0,0
+141,"Raids","InstanceContent#30024","",0,-1,-1,-1,-1,-1,1,0,0,0,0
 142,"Raids","InstanceContent#30030","",0,-1,-1,-1,-1,-1,2,0,0,0,0
 143,"Raids","InstanceContent#30031","",0,-1,-1,-1,-1,-1,2,0,0,0,0
 144,"Raids","InstanceContent#30032","",0,-1,-1,-1,-1,-1,2,0,0,0,0
@@ -282,3 +282,25 @@ int32,CSBonusContentType,CSBonusContentIdentifier,CSBonusContentIdentifier,uint1
 278,"PvP","","",0,1,-1,-1,-1,-1,10,0,0,0,0
 279,"Triple Triad","Wawalago","",0,1,-1,-1,-1,-1,10,0,0,0,0
 280,"Fishing","Dream Goby","",0,1,-1,-1,-1,-1,10,0,0,0,0
+281,"Dungeons","InstanceContent#19","",0,-1,-1,-1,-1,-1,4,0,0,0,0
+282,"Dungeons","InstanceContent#22","",0,-1,-1,-1,-1,-1,4,0,0,0,0
+283,"Dungeons","InstanceContent#49","",0,-1,-1,-1,-1,-1,4,0,0,0,0
+284,"Dungeons","InstanceContent#51","",0,-1,-1,-1,-1,-1,4,0,0,0,0
+285,"Dungeons","InstanceContent#68","",0,-1,-1,-1,-1,-1,4,0,0,0,0
+286,"Dungeons","InstanceContent#71","",0,-1,-1,-1,-1,-1,4,0,0,0,0
+287,"Dungeons","InstanceContent#85","",0,-1,-1,-1,-1,-1,4,0,0,0,0
+288,"Dungeons","InstanceContent#79","",0,-1,-1,-1,-1,-1,4,0,0,0,0
+289,"Dungeons","InstanceContent#19","",0,1,-1,-1,-1,-1,4,0,0,0,0
+290,"Dungeons","InstanceContent#22","",0,1,-1,-1,-1,-1,4,0,0,0,0
+291,"Dungeons","InstanceContent#49","",0,1,-1,-1,-1,-1,4,0,0,0,0
+292,"Dungeons","InstanceContent#51","",0,1,-1,-1,-1,-1,4,0,0,0,0
+293,"Dungeons","InstanceContent#68","",0,1,-1,-1,-1,-1,4,0,0,0,0
+294,"Dungeons","InstanceContent#71","",0,1,-1,-1,-1,-1,4,0,0,0,0
+295,"Dungeons","InstanceContent#85","",0,1,-1,-1,-1,-1,4,0,0,0,0
+296,"Dungeons","InstanceContent#79","",0,1,-1,-1,-1,-1,4,0,0,0,0
+297,"Triple Triad","Marcechamp","",0,1,-1,-1,-1,-1,10,0,0,0,0
+298,"Gold Saucer","","",0,1,-1,-1,-1,-1,10,0,0,0,0
+299,"Grand Company","","",0,5,-1,-1,-1,-1,10,0,0,0,0
+300,"Occult Crescent","","",0,1,-1,-1,-1,-1,10,0,0,0,0
+301,"Deep Dungeons","","",0,1,-1,-1,-1,-1,10,0,0,0,0
+302,"PvP","InstanceContent#41007","",0,3,2,1,-1,-1,5,3,3,0,0

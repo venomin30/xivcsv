@@ -34,8 +34,8 @@ int32,byte,Row,Row,Row,Row,Row,Row,uint32,Row,Row,Row,bit&01
 30,5,"Gold Dance",,"Wave",,,,0,,,,False
 31,5,"Bee's Knees",,"Wave",,,,0,,,,False
 32,5,"Headache",,"Kneel",,,,0,,,,False
-33,5,"Tremble",,"Lookout",,,,0,,,,False
-34,5,"Winded",,"Lookout",,,,0,,,,False
+33,5,"Tremble",,"Flame Salute",,,,0,,,,False
+34,5,"Winded",,"Flame Salute",,,,0,,,,False
 35,5,"Insist",,"Joy",,,,0,,,,False
 36,5,"Break Fast",,"Joy",,,,0,,,,False
 37,5,"Eat Rice Ball",,"Joy",,,,0,,,,False
@@ -76,9 +76,9 @@ int32,byte,Row,Row,Row,Row,Row,Row,uint32,Row,Row,Row,bit&01
 72,5,"Yellow Ranger Pose B",,"Cheer",,,,0,,,,False
 73,5,"Eastern Dance",,"Doubt",,,,0,,,,False
 74,5,"Songbird",,"Cheer",,,,0,,,,False
-75,0,,,,,,,0,,,,False
-76,0,,,,,,,0,,,,False
-77,0,,,,,,,0,,,,False
+75,5,"Cheer On: Blue",,"Cheer",,,,0,,,,False
+76,5,"Cheer Wave: Yellow",,"Cheer",,,,0,,,,False
+77,5,"Cheer Jump: Red",,"Cheer",,,,0,,,,False
 78,5,"Box Step",,"Doubt",,,,0,,,,False
 79,5,"Side Step",,"Doubt",,,,0,,,,False
 80,5,"Get Fantasy",,"Doubt",,,,0,,,,False
@@ -377,7 +377,7 @@ int32,byte,Row,Row,Row,Row,Row,Row,uint32,Row,Row,Row,bit&01
 373,6,"wind-up Khloe",,"bite-sized pudding",,,,0,,,,False
 374,6,"mameshiba",,"demon brick",,,,0,,,,False
 375,6,"the Great Serpent of Ronka",,"mammet #001",,,,0,,,,False
-376,6,"giant beaver",,"Cait Sith doll",,,,0,,,,False
+376,6,"giant beaver",,"minute mindflayer",,,,0,,,,False
 377,6,"the Major-General",,"flame hatchling",,,,0,,,,False
 378,6,"Cait Sith doll",,"morbol seedling",,,,0,,,,True
 379,6,"bluebird",,"model vanguard",,,,0,,,,False
@@ -472,7 +472,7 @@ int32,byte,Row,Row,Row,Row,Row,Row,uint32,Row,Row,Row,bit&01
 468,9,,,,,,,0,,,,False
 469,9,,,,,,,0,,,,False
 470,5,"Ear Wiggle",,"Angry",,,,0,,,,False
-471,5,"Hand to Heart",,"Fume",,,,0,,,,True
+471,5,"Hand to Heart",,"Laugh",,,,0,,,,False
 472,6,"sponge silkie",,"smallshell",,,,0,,,,False
 473,6,"Chewy",,"demon brick",,,,0,,,,False
 474,6,"weatherproof gaelicat",,"mammet #003G",,,,0,,,,False
@@ -521,8 +521,8 @@ int32,byte,Row,Row,Row,Row,Row,Row,uint32,Row,Row,Row,bit&01
 517,11,,,,,,,0,,,,True
 518,11,,,,,,,0,,,,True
 519,11,,,,,,,0,,,,True
-520,9,,,,,,,0,,,,True
-521,9,,,,,,,0,,,,True
+520,9,,,,,,,0,,,,False
+521,9,,,,,,,0,,,,False
 522,9,,,,,,,0,,,,False
 523,9,,,,,,,0,,,,True
 524,9,,,,,,,0,,,,False
@@ -552,13 +552,13 @@ int32,byte,Row,Row,Row,Row,Row,Row,uint32,Row,Row,Row,bit&01
 548,6,"owlet",,"pudgy puk","wolf pup",,,0,,,,False
 549,6,"hunting hawk",,"infant imp",,,,0,,,,False
 550,6,"blue-footed booby",,"demon brick",,,,0,,,,False
-551,6,"dress-up Y'shtola",,"morbol seedling",,,,0,,,,False
+551,6,"dress-up Y'shtola",,"mammet #003L",,,,0,,,,False
 552,6,"dress-up Thancred",,"bite-sized pudding",,,,0,,,,False
 553,6,"wind-up Louisoix",,"flame hatchling",,,,0,,,,False
 554,6,"dress-up Alisaie",,"bite-sized pudding",,,,0,,,,False
 555,6,"wind-up Godbert",,"mammet #003L",,,,0,,,,True
-556,6,"wind-up Iceheart",,"morbol seedling",,,,0,,,,False
-557,6,"wind-up Yugiri",,"morbol seedling",,,,0,,,,False
+556,6,"wind-up Iceheart",,"mammet #003L",,,,0,,,,False
+557,6,"wind-up Yugiri",,"mammet #003L",,,,0,,,,False
 558,6,"wind-up Edda",,"mammet #003G",,,,0,,,,False
 559,6,"wind-up Zhloe",,"bite-sized pudding",,,,0,,,,False
 560,6,"wind-up G'raha Tia",,"mammet #001",,,,0,,,,False
@@ -661,7 +661,7 @@ int32,byte,Row,Row,Row,Row,Row,Row,uint32,Row,Row,Row,bit&01
 657,6,"Gestahl",,"demon brick",,,,0,,,,False
 658,6,"wind-up Lyse",,"mammet #003L",,,,0,,,,False
 659,6,"wind-up Hien",,"bite-sized pudding",,,,0,,,,False
-660,6,"dress-up Yugiri",,"mammet #003L",,,,0,,,,False
+660,6,"dress-up Yugiri",,"pudgy puk","wind-up Lakshmi",,,0,,,,False
 661,6,"wind-up Gosetsu",,"mammet #003L",,,,0,,,,False
 662,6,"wind-up Yotsuyu",,"morbol seedling",,,,0,,,,True
 663,6,"mock-up Grynewaht",,"pudgy puk","odder otter",,,0,,,,False
@@ -820,7 +820,7 @@ int32,byte,Row,Row,Row,Row,Row,Row,uint32,Row,Row,Row,bit&01
 816,5,"Fry Egg",,"Doubt",,,,0,,,,False
 817,5,"Visage Capture",,"Disappointed",,,,0,,,,False
 818,5,"Overreact",,"Angry",,,,0,,,,True
-819,5,"Twirl",,"Me",,,,0,,,,False
+819,5,"Twirl",,"Pray",,,,0,,,,False
 820,5,"Dazed",,"Fume",,,,0,,,,True
 821,5,"Rage",,"Happy",,,,0,,,,False
 822,6,"wind-up sasquatch",,"black coeurl",,,,0,,,,False
@@ -885,9 +885,9 @@ int32,byte,Row,Row,Row,Row,Row,Row,uint32,Row,Row,Row,bit&01
 881,2,,,,,,,0,,,,True
 882,5,"Limber Up",,"Sit on Ground",,,,0,,,,False
 883,2,,,,,,,0,,,,False
-884,5,"Pen",,"Fume",,,,0,,,,False
-885,6,"Peridot Carbuncle",,"morbol seedling",,,,0,,,,False
-886,6,"Heliodor Carbuncle",,"morbol seedling",,,,0,,,,False
+884,5,"Pen",,"Fume",,,,0,,,,True
+885,6,"Peridot Carbuncle",,"morbol seedling",,,,0,,,,True
+886,6,"Heliodor Carbuncle",,"morbol seedling",,,,0,,,,True
 887,6,"Gigi",,"mammet #001",,,,0,,,,False
 888,6,"wind-up Shinryu",,"mini mole",,,,0,,,,False
 889,6,"white whittret",,"pudgy puk","Byakko cub",,,0,,,,False
@@ -903,9 +903,9 @@ int32,byte,Row,Row,Row,Row,Row,Row,uint32,Row,Row,Row,bit&01
 899,6,"wind-up Cagnazzo",,"pudgy puk",,,,0,,,,False
 900,6,"wind-up Barbariccia",,"mini mole",,,,0,,,,False
 901,6,"wind-up Golbez",,"pudgy puk",,,,0,,,,False
-902,6,"Psamathe",,"wind-up tonberry",,,,0,,,,False
-903,6,"Naiad",,"wind-up tonberry",,,,0,,,,False
-904,6,"Deimos",,"wind-up tonberry",,,,0,,,,False
+902,6,"Psamathe",,"wind-up Amalj'aa",,,,0,,,,False
+903,6,"Naiad",,"wind-up Amalj'aa",,,,0,,,,False
+904,6,"Deimos",,"wind-up Amalj'aa",,,,0,,,,False
 905,6,"Ja Tiika leafkin",,"wide-eyed fawn",,,,0,,,,False
 906,6,"wind-up Gulool Ja Ja",,"mammet #003L",,,,0,,,,True
 907,6,"micro rover",,"wind-up goblin",,,,0,,,,False
@@ -917,8 +917,8 @@ int32,byte,Row,Row,Row,Row,Row,Row,uint32,Row,Row,Row,bit&01
 913,6,"wind-up Feo Ul",,"mammet #003G",,,,0,,,,False
 914,6,"mini yan",,"model vanguard",,,,0,,,,False
 915,6,"gimme kitten",,"model vanguard",,,,0,,,,False
-916,9,,,,,,,0,,,,False
-917,9,,,,,,,0,,,,False
+916,9,,,,,,,0,,,,True
+917,9,,,,,,,0,,,,True
 918,9,,,,,,,0,,,,True
 919,11,,,,,,,0,,,,True
 920,11,,,,,,,0,,,,True
@@ -928,17 +928,17 @@ int32,byte,Row,Row,Row,Row,Row,Row,uint32,Row,Row,Row,bit&01
 924,11,,,,,,,0,,,,True
 925,11,,,,,,,0,,,,True
 926,11,,,,,,,0,,,,True
-927,9,,,,,,,0,,,,False
-928,11,,,,,,,0,,,,False
-929,11,,,,,,,0,,,,False
-930,9,,,,,,,0,,,,False
-931,11,,,,,,,0,,,,False
-932,11,,,,,,,0,,,,False
-933,11,,,,,,,0,,,,False
-934,11,,,,,,,0,,,,False
-935,11,,,,,,,0,,,,False
-936,11,,,,,,,0,,,,False
-937,11,,,,,,,0,,,,False
+927,9,,,,,,,0,,,,True
+928,11,,,,,,,0,,,,True
+929,11,,,,,,,0,,,,True
+930,9,,,,,,,0,,,,True
+931,11,,,,,,,0,,,,True
+932,11,,,,,,,0,,,,True
+933,11,,,,,,,0,,,,True
+934,11,,,,,,,0,,,,True
+935,11,,,,,,,0,,,,True
+936,11,,,,,,,0,,,,True
+937,11,,,,,,,0,,,,True
 938,9,,,,,,,0,,,,False
 939,9,,,,,,,3399,,,,False
 940,9,,,,,,,0,,,,False
@@ -946,59 +946,129 @@ int32,byte,Row,Row,Row,Row,Row,Row,uint32,Row,Row,Row,bit&01
 942,9,,,,,,,3811,,,,False
 943,9,,,,,,,0,,,,False
 944,9,,,,,,,0,,,,False
-945,0,,,,,,,0,,,,False
-946,0,,,,,,,0,,,,False
-947,0,,,,,,,0,,,,False
-948,0,,,,,,,0,,,,False
-949,0,,,,,,,0,,,,False
-950,0,,,,,,,0,,,,False
-951,0,,,,,,,0,,,,False
-952,0,,,,,,,0,,,,False
-953,0,,,,,,,0,,,,False
-954,0,,,,,,,0,,,,False
-955,0,,,,,,,0,,,,False
-956,0,,,,,,,0,,,,False
-957,0,,,,,,,0,,,,False
-958,0,,,,,,,0,,,,False
-959,0,,,,,,,0,,,,False
-960,0,,,,,,,0,,,,False
-961,0,,,,,,,0,,,,False
-962,0,,,,,,,0,,,,False
-963,0,,,,,,,0,,,,False
-964,0,,,,,,,0,,,,False
-965,0,,,,,,,0,,,,False
-966,0,,,,,,,0,,,,False
-967,0,,,,,,,0,,,,False
-968,0,,,,,,,0,,,,False
-969,0,,,,,,,0,,,,False
-970,0,,,,,,,0,,,,False
-971,0,,,,,,,0,,,,False
-972,0,,,,,,,0,,,,False
-973,0,,,,,,,0,,,,False
-974,0,,,,,,,0,,,,False
-975,0,,,,,,,0,,,,False
-976,0,,,,,,,0,,,,False
-977,0,,,,,,,0,,,,False
+945,6,"wide-eyed fawn",,"wind-up dullahan",,,,0,,,,False
+946,6,"tiny tortoise",,"mammet #003G",,,,0,,,,False
+947,6,"bite-sized pudding",,"pudgy puk","serpent hatchling",,,0,,,,False
+948,6,"wind-up sun",,"minute mindflayer",,,,0,,,,False
+949,6,"treasure box",,"mammet #003G",,,,0,,,,False
+950,6,"puff of Darkness",,"buffalo calf","Littlefoot",,,0,,,,False
+951,6,"demon box",,"morbol seedling",,,,0,,,,True
+952,6,"magic bucket",,"mammet #003G",,,,0,,,,False
+953,6,"pegasus colt",,"infant imp",,,,0,,,,False
+954,6,"wind-up Calofisteri",,"buffalo calf","wind-up Ifrit",,,0,,,,False
+955,6,"Namingway",,"morbol seedling",,,,0,,,,True
+956,6,"wind-up Scathach",,"buffalo calf","wind-up Yuna",,,0,,,,False
+957,6,"wind-up moon",,"minute mindflayer",,,,0,,,,False
+958,6,"clockwork lantern",,"wind-up gentleman",,,,0,,,,False
+959,6,"mudpie",,"pudgy puk",,,,0,,,,False
+960,6,"baby gremlin",,"morbol seedling",,,,0,,,,True
+961,6,"micro gigantender",,"goobbue sproutling",,,,0,,,,False
+962,6,"ironfrog ambler",,"tiny bulb",,,,0,,,,False
+963,6,"little leafman",,"goobbue sproutling",,,,0,,,,False
+964,6,"amaro hatchling",,"goobbue sproutling",,,,0,,,,False
+965,6,"wanderer's campfire",,"mini mole",,,,0,,,,False
+966,6,"wee Ea",,"goobbue sproutling",,,,0,,,,False
+967,6,"adventure basket",,"mini mole",,,,0,,,,False
+968,6,"Rubellite Weapon",,"wind-up gentleman",,,,0,,,,False
+969,6,"Tourmaline Weapon",,"baby bun",,,,0,,,,True
+970,6,"not-so-bighorn",,"demon brick",,,,0,,,,False
+971,6,"Adamant Weapon",,"baby bun",,,,0,,,,True
+972,6,"wisp of Darkness",,"black chocobo chick",,,,0,,,,False
+973,6,"micro crow",,"pudgy puk",,,,0,,,,False
+974,6,"sunray ray",,"mammet #003G",,,,0,,,,False
+975,5,"Cheer Jump: Green",,"Doubt",,,,0,,,,True
+976,5,"Cheer Wave: Violet",,"Doubt",,,,0,,,,True
+977,5,"Cheer On: Bright",,"Doubt",,,,0,,,,True
 978,0,,,,,,,0,,,,False
 979,0,,,,,,,0,,,,False
-980,0,,,,,,,0,,,,False
-981,0,,,,,,,0,,,,False
+980,5,"Cheer Rhythm: Red",,"Cheer",,,,0,,,,True
+981,5,"Cheer Light: Yellow",,"Cheer",,,,0,,,,True
 982,0,,,,,,,0,,,,False
-983,0,,,,,,,0,,,,False
+983,5,"Runway Walk",,"Doubt",,,,0,,,,True
 984,0,,,,,,,0,,,,False
 985,0,,,,,,,0,,,,False
 986,0,,,,,,,0,,,,False
-987,0,,,,,,,0,,,,False
+987,5,"Carry Book",,"Fume",,,,0,,,,False
 988,0,,,,,,,0,,,,False
 989,0,,,,,,,0,,,,False
 990,0,,,,,,,0,,,,False
-991,0,,,,,,,0,,,,False
-992,0,,,,,,,0,,,,False
-993,0,,,,,,,0,,,,False
-994,0,,,,,,,0,,,,False
-995,0,,,,,,,0,,,,False
-996,0,,,,,,,0,,,,False
-997,0,,,,,,,0,,,,False
-998,0,,,,,,,0,,,,False
-999,0,,,,,,,0,,,,False
-1000,0,,,,,,,0,,,,False
+991,5,"Cheer Rhythm: Violet",,"Cheer",,,,0,,,,True
+992,5,"Cheer Rhythm: Bright",,"Cheer",,,,0,,,,True
+993,5,"Cheer Light: Blue",,"Cheer",,,,0,,,,True
+994,5,"Cheer Light: Green",,"Cheer",,,,0,,,,True
+995,9,,,,,,,0,,,,False
+996,9,,,,,,,0,,,,False
+997,9,,,,,,,0,,,,True
+998,11,,,,,,,0,,,,True
+999,11,,,,,,,0,,,,True
+1000,9,,,,,,,0,,,,True
+1001,11,,,,,,,0,,,,True
+1002,11,,,,,,,0,,,,True
+1003,11,,,,,,,0,,,,True
+1004,11,,,,,,,0,,,,True
+1005,11,,,,,,,0,,,,True
+1006,11,,,,,,,0,,,,True
+1007,11,,,,,,,0,,,,True
+1008,9,,,,,,,0,,,,False
+1009,11,,,,,,,0,,,,False
+1010,11,,,,,,,0,,,,False
+1011,9,,,,,,,0,,,,False
+1012,11,,,,,,,0,,,,False
+1013,11,,,,,,,0,,,,False
+1014,11,,,,,,,0,,,,False
+1015,11,,,,,,,0,,,,False
+1016,11,,,,,,,0,,,,False
+1017,11,,,,,,,0,,,,False
+1018,11,,,,,,,0,,,,False
+1019,0,,,,,,,0,,,,False
+1020,0,,,,,,,0,,,,False
+1021,9,,,,,,,0,,,,True
+1022,0,,,,,,,0,,,,False
+1023,0,,,,,,,0,,,,False
+1024,0,,,,,,,0,,,,False
+1025,0,,,,,,,0,,,,False
+1026,0,,,,,,,0,,,,False
+1027,0,,,,,,,0,,,,False
+1028,0,,,,,,,0,,,,False
+1029,0,,,,,,,0,,,,False
+1030,0,,,,,,,0,,,,False
+1031,0,,,,,,,0,,,,False
+1032,0,,,,,,,0,,,,False
+1033,0,,,,,,,0,,,,False
+1034,0,,,,,,,0,,,,False
+1035,0,,,,,,,0,,,,False
+1036,0,,,,,,,0,,,,False
+1037,0,,,,,,,0,,,,False
+1038,0,,,,,,,0,,,,False
+1039,0,,,,,,,0,,,,False
+1040,0,,,,,,,0,,,,False
+1041,0,,,,,,,0,,,,False
+1042,0,,,,,,,0,,,,False
+1043,0,,,,,,,0,,,,False
+1044,9,,,,,,,0,,,,False
+1045,9,,,,,,,0,,,,False
+1046,9,,,,,,,0,,,,False
+1047,9,,,,,,,0,,,,False
+1048,9,,,,,,,0,,,,False
+1049,9,,,,,,,0,,,,False
+1050,9,,,,,,,0,,,,False
+1051,9,,,,,,,0,,,,False
+1052,0,,,,,,,0,,,,False
+1053,0,,,,,,,0,,,,False
+1054,0,,,,,,,0,,,,False
+1055,0,,,,,,,0,,,,False
+1056,0,,,,,,,0,,,,False
+1057,0,,,,,,,0,,,,False
+1058,0,,,,,,,0,,,,False
+1059,0,,,,,,,0,,,,False
+1060,0,,,,,,,0,,,,False
+1061,0,,,,,,,0,,,,False
+1062,0,,,,,,,0,,,,False
+1063,0,,,,,,,0,,,,False
+1064,0,,,,,,,0,,,,False
+1065,0,,,,,,,0,,,,False
+1066,0,,,,,,,0,,,,False
+1067,0,,,,,,,0,,,,False
+1068,0,,,,,,,0,,,,False
+1069,0,,,,,,,0,,,,False
+1070,0,,,,,,,0,,,,False

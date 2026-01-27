@@ -297,7 +297,7 @@ int32,byte,str,str,str,byte,bit&01,TerritoryType,PlaceName,PlaceName,int16,int16
 293,1,"The scent of plums rises from the waters!","The scent of plums disappears...","The scent of plums wafts forth again!",2,False,"o1a1","The High Seas","The One River",1025,1025,300,2,"Gensui Shrimp","Yato-no-kami","Heron's Eel","Crowshadow Mussel","Yanxian Goby","Iridescent Trout","Un-Namazu","Gakugyo","Ginrin Goshiki","Jewel of Plum Spring","One River Spectral Current",285
 294,90,"","","",2,False,"y6t1","","",734,860,300,4,"Mosquito Fish","Pel Frog","Petticoat Tetra","Icuvlo's Barter","","","","","","","Downripple",286
 295,90,"","","",1,False,"y6t1","","",833,1679,1000,4,"Reasonscale Silverside","Stardust Shrimp","Shallows Sot","Ghostfish","Permit","Inktopus","Cabinkeep Permit","","","","The For'ard Cabins",287
-296,91,"","","",1,False,"y6t1","","",1432,1275,1800,4,"Reasonscale Silverside","Floating Fife","Blue Purse","Goldfin Cavalli","King Puffer","","","","","","High Tide Harbor",288
+296,91,"","","",1,False,"y6t1","","",1432,1275,1800,4,"Reasonscale Silverside","Floating Fife","Blue Purse","Goldfin Cavalli","King Puffer","Purse of Riches","","","","","High Tide Harbor",288
 297,91,"","","",8,False,"y6f1","","",967,1328,400,4,"Sea Alpaca","Marbled Hatchetfish","Starsnipper","Urqotrout","Yok Huy Stonecutter","Moongripper","","","","","Sunken Stars",289
 298,92,"","","",8,False,"y6f1","","",950,1796,600,4,"Chirwagur Loach","Alright Alright Alright","Zorlortor","Shooting Starscale","","","","","","","Chirwagur Lake",290
 299,93,"","","",2,True,"y6f1","","",265,966,1000,4,"First Feastfish","Urqofrog","Zeh Tortoh","Morsel Trout","Deepwarden","Qor Pirarucu","Prime Adjudicator","","","","Karvarhur the First",291
@@ -305,8 +305,8 @@ int32,byte,str,str,str,byte,bit&01,TerritoryType,PlaceName,PlaceName,int16,int16
 301,91,"","","",2,False,"y6f2","","",1096,596,1200,4,"Kozama'uka Skipper","Bopo'u Sleeper","Plattershell","Yok Huy Pleco","Cazuela Crab","","","","","","Waters Hanu",293
 302,93,"","","",2,False,"y6f2","","",1411,550,600,2,"Kozama'uka Skipper","Bopo'u Sleeper","Candiru","Trahira","Driftwood Catfish","Riverlong Candiru","","","","","Miyakabek'zu",294
 303,93,"","","",2,False,"y6f2","","",1842,1612,600,4,"Oho Hunu","Bronze Pleco","Crenicichla","Crenicichla Miyaka","","","","","","","The Dewspun Bank",295
-304,94,"","","",2,False,"y6f2","","",1948,704,600,4,"Oho Hunu","Bronze Pleco","Hunu Peacock Bass","Pelubane","Giant Trahira","","","","","","Peaks Poga",296
-305,93,"","","",2,False,"y6f2","","",1085,1004,800,4,"Ku'uxage Bitterling","Tonguesnatcher","Corn Dace","Ka Puyhu","Purple Palate","","","","","","Ku'uxage",297
+304,94,"","","",2,False,"y6f2","","",1948,704,600,4,"Oho Hunu","Bronze Pleco","Hunu Peacock Bass","Pelubane","Giant Trahira","Punutiy Pain","","","","","Peaks Poga",296
+305,93,"","","",2,False,"y6f2","","",1085,1004,800,4,"Ku'uxage Bitterling","Tonguesnatcher","Corn Dace","Ka Puyhu","Purple Palate","Shuckfin Dace","","","","","Ku'uxage",297
 306,94,"","","",2,False,"y6f2","","",672,1381,2000,4,"Ligaka Guppy","Dumplingfish","Banded Candiru","Oxydoras","Honeycomb Sponge","","","","","","Miyakabek'zoma",298
 307,95,"","","",2,False,"y6f2","","",1237,1528,800,4,"Ligaka Guppy","Dumplingfish","Spotted Stingray","Yellow Peacock Bass","Shovelnose Catfish","","","","","","Marsh Ligaka",299
 308,93,"","","",2,False,"y6f3","","",359,543,600,4,"Shimmering Shadow","Ut'ohmu Dawnfish","Belonesox","Xd'aa Talat Cichlid","Ilyon Asoh Cichlid","","","","","","Xd'aa Talat Tsoly",300
@@ -314,8 +314,8 @@ int32,byte,str,str,str,byte,bit&01,TerritoryType,PlaceName,PlaceName,int16,int16
 310,94,"","","",2,False,"y6f3","","",906,389,800,4,"Shimmering Shadow","Ut'ohmu Dawnfish","Apoda","Mirror Carp","Yak Awak Core","Awaksbane Apoda","","","","","Yak Awak Tsoly",302
 311,94,"","","",2,False,"y6f3","","",1538,289,1800,4,"Tsoly Mu","Iq Rrax Leaffish","Archmatron Angelfish","Yak T'el Salamander","Shadowtongue","Iron Shadowtongue","","","","","Iq Rrax Tsoly",303
 312,94,"","","",2,True,"y6f3","","",1611,779,800,4,"Cloud-eye Carp","Xobr'it Lobster","Sunbright Axolotl","Horned Frog","Lotl-in-waiting","","","","","","Xobr'it Tsoly",304
-313,94,"","","",2,False,"y6f3","","",352,1308,400,4,"Mudfish","Turali Beaded Lizard","Yak T'el Catfish","Ankledeep Catfish","","","","","","","Ankledeep",305
-314,94,"","","",2,False,"y6f3","","",1035,964,800,4,"Mudfish","Yak T'el Catfish","Checkered Cichlid","Moxutural Gar","","","","","","","Cenote Moxutural",306
+313,94,"A sinuous shadow writhes beneath the water!","You lose sight of the sinuous shadow...","The writhing shadow appears beneath the water once more!",2,False,"y6f3","","",352,1308,400,4,"Mudfish","Turali Beaded Lizard","Yak T'el Catfish","Ankledeep Catfish","Shin Snuffler","","","","","","Ankledeep",305
+314,94,"","","",2,False,"y6f3","","",1035,964,800,4,"Mudfish","Yak T'el Catfish","Checkered Cichlid","Moxutural Gar","Moxutural Greatgar","","","","","","Cenote Moxutural",306
 315,94,"","","",2,False,"y6f3","","",936,1546,1800,4,"Mudfish","Yak T'el Catfish","Variatus","Welkin Catfish","Flawless Saucer","","","","","","Cenote Jayunja",307
 316,96,"","","",2,False,"y6f3","","",1697,1581,1000,4,"Mudfish","Yak T'el Catfish","Glittergill","Twig Catfish","","","","","","","Sapsweet Cenote",308
 317,94,"","","",2,False,"y6f3","","",1222,1898,800,4,"Mudfish","Yak T'el Catfish","Blind Brotula","Yak T'el Caiman","Cenote Oyster","","","","","","Bitterbark Cenote",309
@@ -327,14 +327,14 @@ int32,byte,str,str,str,byte,bit&01,TerritoryType,PlaceName,PlaceName,int16,int16
 323,97,"","","",2,False,"x6f2","","",938,394,1400,4,"Heritage Loach","Outskirts Sniffer","Pumpkin Perch","Tiger Muskellunge","Sprouting Perch","","","","","","Outskirts Shallows",315
 324,97,"","","",2,False,"x6f2","","",605,818,1500,4,"Heritage Loach","Outskirts Sniffer","Moon Croppie","Driftdowns Trout","Thunderswift Trout","","","","","","The Driftdowns",316
 325,98,"","","",2,False,"x6f2","","",1025,1561,1800,4,"Electrobetta","Thundering Redbelly","Yyasulani Bowfin","Crackling Flounder","Thunderous Flounder","Goldentail","","","","","Crackling Canyons",317
-326,98,"","","",2,False,"x6f2","","",288,1647,1000,4,"Electrobetta","Thundering Redbelly","Yyasulani Bowfin","Goldgrouper","","","","","","","Alexandrian Ruins",318
+326,98,"","","",2,False,"x6f2","","",288,1647,1000,4,"Electrobetta","Thundering Redbelly","Yyasulani Bowfin","Goldgrouper","Heirloom Goldgrouper","","","","","","Alexandrian Ruins",318
 327,98,"","","",2,False,"x6t1","","",499,1505,1800,4,"Everkeep Yabby","Stickleback","Custodian Carp","Mosaic Loach","Pixel Loach","","","","","","Residential Sector",319
 328,99,"","","",2,False,"x6f3","","",311,665,400,4,"Rosebud Frog","Knight Goby","Windspath Eel","Harlequin Lancer","Harlequin Queen","","","","","","The Knowable",320
 329,100,"You sight the shadow of an enormous serpent!","The serpentine shadow winds out of sight...","The serpentine shadow looms once again!",2,False,"x6f3","","",578,525,300,4,"Rosebud Frog","Knight Goby","Cleyran Carp","Giant Snakehead","Gigagiant Snakehead","","","","","","Mu Springs Eternal",321
-330,99,"","","",2,False,"x6f3","","",759,608,600,4,"Rosebud Frog","Knight Goby","Datnioides","Neo Arowana","","","","","","","Leynode Aero",322
+330,99,"","","",2,False,"x6f3","","",759,608,600,4,"Rosebud Frog","Knight Goby","Datnioides","Neo Arowana","Datnioides Aeroplanos","","","","","","Leynode Aero",322
 331,99,"","","",1,False,"x6f3","","",665,1687,1050,4,"Canal Bream","Iris Wrasse","Canal Drum","Butterfly Ray","Hydro Louvar","Gondola Louvar","","","","","Canal Town South",323
 332,100,"","","",1,False,"x6f3","","",425,1356,1050,4,"Canal Bream","Iris Wrasse","Devotion Clam","Forgotten One","Copper Shark","","","","","","Canal Town North",324
-333,100,"","","",2,True,"x6f3","","",1871,1531,500,4,"Golden Day","Starglass Gibel","Scarlet Queen","Ultimoat Carp","","","","","","","Proto Alexandria",325
+333,100,"A colossal shadow lurks beneath the waves...","You lose sight of the colossal shadow...","The colossal shadow appears beneath the water once more!",2,True,"x6f3","","",1871,1531,500,4,"Golden Day","Starglass Gibel","Scarlet Queen","Ultimoat Carp","Esperance Carp","","","","","","Proto Alexandria",325
 334,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
 335,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
 336,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
@@ -494,3 +494,40 @@ int32,byte,str,str,str,byte,bit&01,TerritoryType,PlaceName,PlaceName,int16,int16
 10153,1,"","","",2,False,,"","",0,0,0,0,"Starfaring Goby","Initiative Trout","","","","","","","","","The Lehr",0
 10154,1,"","","",2,False,,"","",0,0,0,0,"Faux Cloudfish","Trailing Snailfish","","","","","","","","","Opalescent Crossing",0
 10155,1,"","","",2,False,,"","",0,0,0,0,"Bursting Anemone","Midnight Impression","Blue Starburst","","","","","","","","Bubble Bursters",0
+10156,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10157,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10158,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10159,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10160,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10161,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10162,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10163,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10164,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10165,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10166,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10167,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10168,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10169,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10170,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10171,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10172,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10173,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10174,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10175,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10176,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10177,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10178,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10179,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10180,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10181,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10182,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10183,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10184,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10185,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10186,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10187,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10188,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10189,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10190,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10191,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0
+10192,0,"","","",0,False,,"","",0,0,0,0,"","","","","","","","","","","",0

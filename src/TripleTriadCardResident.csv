@@ -446,13 +446,23 @@ int32,uint16,byte,byte,byte,byte,TripleTriadCardRarity,TripleTriadCardType,uint1
 442,441,7,6,2,2,"TripleTriadCardRarity#2","",300,8,427,0,True,6,"Pudeel Ja","Level#11704272"," The Pride of Mamook"
 443,442,2,4,8,7,"TripleTriadCardRarity#3","Society",500,24,428,0,True,6,"Pudeel Ja","Level#11704272"," The Pride of Mamook"
 444,443,7,7,9,4,"TripleTriadCardRarity#4","",0,39,9999,0,False,13,,,"Royal Rumblings"
-445,444,6,7,5,4,"TripleTriadCardRarity#3","",500,20,429,0,False,3,"the Meso Terminal",,"A Terminal Invitation"
-446,445,5,2,7,8,"TripleTriadCardRarity#3","",500,23,430,0,False,6,"Hume black mage","Level#12000081","Apocalypse Nigh"
-447,446,8,8,6,6,"TripleTriadCardRarity#4","",800,33,431,0,False,2,"San d'Oria: The Second Walk",,"Apocalypse Nigh"
-448,447,5,7,6,9,"TripleTriadCardRarity#4","Primal",800,35,432,0,False,3,"the Ageless Necropolis",,"A Terminal Invitation"
-449,448,4,2,5,7,"TripleTriadCardRarity#2","",300,16,433,0,False,10,"Mesouaidonque","Level#11721046","A Cosmic Homecoming"
-450,449,7,3,7,4,"TripleTriadCardRarity#3","",500,31,434,0,False,10,"Mesouaidonque","Level#11721046","A Cosmic Homecoming"
-451,450,5,5,3,6,"TripleTriadCardRarity#2","",300,8,435,0,False,6,"Tokorzur","Level#11887398"," With High Spirits"
-452,451,2,6,4,6,"TripleTriadCardRarity#2","",300,8,436,0,False,9,"Sack of Silvered Light",,"Pilgrimage of Light"
-453,452,4,8,3,7,"TripleTriadCardRarity#3","Society",500,24,437,0,False,10,"Rarkorgor","Level#11859423"," With High Spirits"
-454,453,2,10,8,8,"TripleTriadCardRarity#5","Scion",0,44,438,0,False,11,"Triple-decker XIV",,"Triple Triad Trial"
+445,444,6,7,5,4,"TripleTriadCardRarity#3","",500,20,429,0,True,3,"the Meso Terminal",,"A Terminal Invitation"
+446,445,5,2,7,8,"TripleTriadCardRarity#3","",500,23,430,0,True,6,"Hume black mage","Level#12000081","Apocalypse Nigh"
+447,446,8,8,6,6,"TripleTriadCardRarity#4","",800,33,431,0,True,2,"San d'Oria: The Second Walk",,"Apocalypse Nigh"
+448,447,5,7,6,9,"TripleTriadCardRarity#4","Primal",800,35,432,0,True,3,"the Ageless Necropolis",,"A Terminal Invitation"
+449,448,4,2,5,7,"TripleTriadCardRarity#2","",300,16,433,0,True,10,"Mesouaidonque","Level#11721046","A Cosmic Homecoming"
+450,449,7,3,7,4,"TripleTriadCardRarity#3","",500,31,434,0,True,10,"Mesouaidonque","Level#11721046","A Cosmic Homecoming"
+451,450,5,5,3,6,"TripleTriadCardRarity#2","",300,8,435,0,True,6,"Tokorzur","Level#11887398"," With High Spirits"
+452,451,2,6,4,6,"TripleTriadCardRarity#2","",300,8,436,0,True,9,"Sack of Silvered Light",,"Pilgrimage of Light"
+453,452,4,8,3,7,"TripleTriadCardRarity#3","Society",500,24,437,0,True,10,"Rarkorgor","Level#11859423"," With High Spirits"
+454,453,2,10,8,8,"TripleTriadCardRarity#5","Scion",0,44,438,0,True,11,"Triple-decker XIV",,"Triple Triad Trial"
+455,454,3,5,7,7,"TripleTriadCardRarity#3","",500,20,439,0,False,3,"Mistwake",,"Beyond the Mountains"
+456,455,6,7,7,8,"TripleTriadCardRarity#4","",800,32,440,0,False,3,"Hell on Rails",,"Where We Call Home"
+457,456,10,8,4,7,"TripleTriadCardRarity#5","",1500,40,441,0,False,3,"AAC Heavyweight M4",,"Glory Incarnate"
+458,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+459,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+460,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+461,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+462,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+463,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+464,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,

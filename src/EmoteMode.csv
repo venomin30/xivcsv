@@ -35,9 +35,9 @@ int32,Emote,Emote,bit&01,bit&02,bit&04,bit&08,byte,bit&10
 31,"Box","",True,False,False,False,3,False
 32,"Ritual Prayer","",True,False,False,False,3,False
 33,"Charmed","",True,False,False,False,3,False
-34,"Cheer On","",True,False,False,False,3,False
-35,"Cheer Wave","",True,False,False,False,3,False
-36,"Cheer Jump","",True,False,False,False,3,False
+34,"Cheer On: Blue","",True,False,False,False,3,False
+35,"Cheer Wave: Yellow","",True,False,False,False,3,False
+36,"Cheer Jump: Red","",True,False,False,False,3,False
 37,"Tremble","",True,False,False,False,3,False
 38,"Winded","",True,False,False,False,3,False
 39,"Box Step","",True,False,False,False,3,False
@@ -89,3 +89,13 @@ int32,Emote,Emote,bit&01,bit&02,bit&04,bit&08,byte,bit&10
 85,"Lominsan Gulp","",True,False,False,False,3,False
 86,"Savor Tea","",True,False,False,False,3,False
 87,"Pen","",True,False,False,False,3,False
+88,"Cheer Rhythm: Red","",True,False,False,False,3,False
+89,"Cheer Light: Yellow","",True,False,False,False,3,False
+90,"","",True,False,False,False,3,False
+91,"","",True,False,False,False,3,False
+92,"","",True,False,False,False,3,False
+93,"Carry Book","",True,False,False,False,3,False
+94,"Cheer Rhythm: Violet","",True,False,False,False,3,False
+95,"Cheer Rhythm: Bright","",True,False,False,False,3,False
+96,"Cheer Light: Blue","",True,False,False,False,3,False
+97,"Cheer Light: Green","",True,False,False,False,3,False

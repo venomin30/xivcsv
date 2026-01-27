@@ -240,3 +240,4 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,PlaceName,PlaceName,TerritoryT
 236,"",0,"",0,0,1,0,0,"","Residential Sector","x6t1",,,,,False,0,"Aetheryte",15,False,,"",0,0,0
 237,"",0,"",0,0,1,0,0,"","Scanning Port Nine (Heritage Found)","x6f2","Level#10653802",,,,False,0,"Aetheryte",15,True,,"",0,0,0
 238,"",0,"",0,0,1,0,0,"Dock Poga","","y6f2",,,,,True,11,"Aetheryte",0,False,,"y6f2/00",0,0,167
+239,"",0,"",0,0,1,0,0,"","Phantom Village","o6e1_2","Level#12250673",,,,False,0,"Aetheryte",14,True,"Unfamiliar Territory","",0,0,0

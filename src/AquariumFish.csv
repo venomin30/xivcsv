@@ -246,3 +246,13 @@ int32,AquariumWater,byte,Item,uint16
 242,"Freshwater",2,"Pixel Loach",582
 243,"Freshwater",3,"Oxydoras",412
 244,"Freshwater",4,"Ttokatoa",117
+245,"Saltwater",1,"Sharknose Goby",562
+246,"Freshwater",1,"Ku'uxage Bitterling",545
+247,"Freshwater",1,"Outskirts Sniffer",570
+248,"Freshwater",1,"Stickleback",574
+249,"Freshwater",2,"Banded Candiru",524
+250,"Freshwater",2,"Crenicichla Miyaka",591
+251,"Freshwater",2,"Emberwisp",561
+252,"Freshwater",2,"Hwittayoanaan Cichlid",580
+253,"Saltwater",3,"Cabinkeep Permit",451
+254,"Freshwater",4,"Iron Shadowtongue",118
