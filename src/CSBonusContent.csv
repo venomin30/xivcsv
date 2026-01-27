@@ -290,14 +290,14 @@ int32,CSBonusContentType,CSBonusContentIdentifier,CSBonusContentIdentifier,uint1
 286,"Dungeons","InstanceContent#71","",0,-1,-1,-1,-1,-1,4,0,0,0,0
 287,"Dungeons","InstanceContent#85","",0,-1,-1,-1,-1,-1,4,0,0,0,0
 288,"Dungeons","InstanceContent#79","",0,-1,-1,-1,-1,-1,4,0,0,0,0
-289,"Dungeons","InstanceContent#19","",0,1,-1,-1,-1,-1,4,0,0,0,0
-290,"Dungeons","InstanceContent#22","",0,1,-1,-1,-1,-1,4,0,0,0,0
-291,"Dungeons","InstanceContent#49","",0,1,-1,-1,-1,-1,4,0,0,0,0
-292,"Dungeons","InstanceContent#51","",0,1,-1,-1,-1,-1,4,0,0,0,0
-293,"Dungeons","InstanceContent#68","",0,1,-1,-1,-1,-1,4,0,0,0,0
-294,"Dungeons","InstanceContent#71","",0,1,-1,-1,-1,-1,4,0,0,0,0
-295,"Dungeons","InstanceContent#85","",0,1,-1,-1,-1,-1,4,0,0,0,0
-296,"Dungeons","InstanceContent#79","",0,1,-1,-1,-1,-1,4,0,0,0,0
+289,"Dungeons","InstanceContent#19","",0,1,-1,-1,-1,-1,20,0,0,0,0
+290,"Dungeons","InstanceContent#22","",0,1,-1,-1,-1,-1,20,0,0,0,0
+291,"Dungeons","InstanceContent#49","",0,1,-1,-1,-1,-1,20,0,0,0,0
+292,"Dungeons","InstanceContent#51","",0,1,-1,-1,-1,-1,20,0,0,0,0
+293,"Dungeons","InstanceContent#68","",0,1,-1,-1,-1,-1,20,0,0,0,0
+294,"Dungeons","InstanceContent#71","",0,1,-1,-1,-1,-1,20,0,0,0,0
+295,"Dungeons","InstanceContent#85","",0,1,-1,-1,-1,-1,20,0,0,0,0
+296,"Dungeons","InstanceContent#79","",0,1,-1,-1,-1,-1,20,0,0,0,0
 297,"Triple Triad","Marcechamp","",0,1,-1,-1,-1,-1,10,0,0,0,0
 298,"Gold Saucer","","",0,1,-1,-1,-1,-1,10,0,0,0,0
 299,"Grand Company","","",0,5,-1,-1,-1,-1,10,0,0,0,0

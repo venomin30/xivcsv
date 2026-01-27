@@ -1499,7 +1499,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2001495,"copy of volume eleven of the Articles of Halonic Polity",0,"copies of volume eleven of the Articles of Halonic Polity",0,0,1,0,0,False,"Volume Eleven of the Articles of Halonic Polity","ui/icon/026000/026161.tex","",1,1,"Through the Grapevine",0,"normal/item_start",0
 2001496,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
 2001497,"pumpkin lantern",0,"pumpkin lanterns",0,0,1,0,0,False,"Pumpkin Lantern","ui/icon/024000/024153.tex","",3,1,"A Plague of Pumpkins",0,"normal/item_start",0
-2001498,"confiscated crate",0,"confiscated crates",0,0,1,0,0,False,"Confiscated Crate","ui/icon/021000/021003.tex","",1,1,"Best Laid Schemes",3,"normal/item_start",0
+2001498,"confiscated crate",0,"confiscated crates",0,0,1,0,0,False,"Confiscated Crate","ui/icon/021000/021003.tex","",1,1,"Best-Laid Schemes",3,"normal/item_start",0
 2001499,"letter to Miah Molkot",0,"letters to Miah Molkot",0,0,1,0,0,False,"Letter to Miah Molkot","ui/icon/025000/025918.tex","",1,1,"Hostages to Fortune",0,"normal/item_start",0
 2001500,"letter to Hihira",0,"letters to Hihira",0,0,1,0,0,False,"Letter to Hihira","ui/icon/025000/025918.tex","",1,1,"All in the Family",0,"normal/item_start",0
 2001501,"Trader vetch root",0,"Trader vetch roots",0,0,1,0,0,False,"Trader Vetch Root","ui/icon/025000/025005.tex","",3,1,"All in the Family",0,"normal/item_start",0
@@ -1821,7 +1821,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2001817,"seal of House Dzemael",0,"seals of House Dzemael",0,0,1,0,0,False,"House Dzemael Seal","ui/icon/026000/026151.tex","",1,1,"Wheels of Justice",3,"normal/item_start",0
 2001818,"clear lightning crystal",0,"clear lightning crystals",0,0,1,0,0,False,"Clear Lightning Crystal","ui/icon/020000/020011.tex","",2,1,"Taking the Fall",3,"normal/item_start",0
 2001819,"formal request",0,"formal requests",0,0,1,0,0,False,"Formal Request","ui/icon/026000/026151.tex","",1,1,"Ewer Right",3,"normal/item_start",0
-2001820,"airship flight plan",0,"airship flight plans",0,0,1,0,0,False,"Airship Flight Plan","ui/icon/026000/026151.tex","",1,1,"The Best Laid Plans",0,"normal/item_start",0
+2001820,"airship flight plan",0,"airship flight plans",0,0,1,0,0,False,"Airship Flight Plan","ui/icon/026000/026151.tex","",1,1,"The Best-Laid Plans",0,"normal/item_start",0
 2001821,"bottomless purse",0,"bottomless purses",0,0,1,0,0,False,"Bottomless Purse","ui/icon/025000/025919.tex","",1,1,"Caught in the Act",0,"normal/item_start",0
 2001822,"chunk of solid volcanic rock",0,"chunks of solid volcanic rock",0,0,1,0,0,False,"Solid Volcanic Rock","ui/icon/021000/021451.tex","Key Item",99,1,,0,"normal/item_start",0
 2001823,"chunk of porous volcanic rock",0,"chunks of porous volcanic rock",0,0,1,0,0,False,"Porous Volcanic Rock","ui/icon/021000/021451.tex","Key Item",99,1,,0,"normal/item_start",0
@@ -3304,7 +3304,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003300,"sprig of soma",0,"sprigs of soma",0,0,1,0,0,False,"Soma","ui/icon/025000/025039.tex","",1,1," Curing What Ails",0,"normal/item_start",0
 2003301,"lustering jewel",0,"lustering jewels",0,0,1,0,0,False,"Lustering Jewel","ui/icon/020000/020267.tex","",1,1," Societal Alchemy",0,"normal/item_start",0
 2003302,"Archestratus flower",0,"Archestratus flowers",0,1,1,0,0,False,"Archestratus Flower","ui/icon/025000/025580.tex","",3,1," Familiar Food",0,"normal/item_start",0
-2003303,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003303,"vicarious vacationer",0,"vicarious vacationers",0,0,1,0,0,False,"Vicarious Vacationer","ui/icon/059000/059896.tex","",2,1,"A Manager's Prudence",0,"normal/item_start",0
 2003304,"dose of aetherial supplement",0,"doses of aetherial supplement",0,0,1,0,0,False,"Aetherial Supplement","ui/icon/020000/020673.tex","Key Item",1,1," Meekly Majestic",3,"normal/item_start",0
 2003305,"soma fragment",0,"soma fragments",0,0,1,0,0,False,"Soma Fragment","ui/icon/020000/020037.tex","",99,1,,0,"normal/item_start",0
 2003306,"sheaf of confidential documents",0,"sheaves of confidential documents",0,0,1,0,0,False,"Confidential Documents","ui/icon/026000/026603.tex","",99,1,,0,"normal/item_start",0
@@ -3766,7 +3766,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003762,"liquor bottle",0,"liquor bottles",0,0,1,0,0,False,"Liquor Bottle","ui/icon/025000/025057.tex","",1,1,"On the Trail of Destruction",0,"normal/item_start",0
 2003763,"sack of produce",0,"sacks of produce",0,0,1,0,0,False,"Sack of Produce","ui/icon/025000/025351.tex","",1,1,"On the Trail of Destruction",0,"normal/item_start",0
 2003764,"piece of paper",0,"pieces of paper",0,0,1,0,0,False,"Piece of Paper","ui/icon/026000/026151.tex","",1,1,"On the Trail of Destruction",0,"normal/item_start",0
-2003765,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003765,"phantom glass",0,"phantom glasses",0,0,1,0,0,False,"Phantom Glass","ui/icon/025000/025986.tex","Key Item",1,8,"In Pursuit of Perfection",0,"normal/item_start",0
 2003766,"aetherwell array",0,"aetherwell arrays",0,1,1,0,0,False,"Aetherwell Array","ui/icon/026000/026083.tex","Key Item",1,8,"Aether, Aether, Everywhere",0,"normal/item_start",0
 2003767,"card-shaped object",0,"card-shaped objects",0,0,1,0,0,False,"Card-shaped Object","ui/icon/026000/026078.tex","Key Item",1,1,"Preservation Their Purpose",0,"normal/item_start",1
 2003768,"Level 2 security card",0,"Level 2 security cards",0,0,1,0,0,False,"Level 2 Security Card","ui/icon/026000/026079.tex","Key Item",1,1,"Preservation Their Purpose",0,"normal/item_start",1
@@ -3803,11 +3803,11 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,bit&01,str,Image,Action,byte,b
 2003799,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
 2003800,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
 2003801,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003802,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003803,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003802,"cartridge of aetheric stimulant",0,"cartridges of aetheric stimulant",0,0,1,0,0,False,"Aetheric Stimulant","ui/icon/023000/023569.tex","",3,1,,0,"normal/item_start",0
+2003803,"cartridge of aetheric stimulant",0,"cartridges of aetheric stimulant",0,0,1,0,0,False,"Aetheric Stimulant","ui/icon/023000/023569.tex","",3,1,,0,"normal/item_start",0
 2003804,"pouch of synthetic desensitizer",0,"pouches of synthetic desensitizer",0,0,1,0,0,False,"Synthetic Desensitizer","ui/icon/026000/026110.tex","",1,1,"To Work",1,"normal/item_start",4
-2003805,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
-2003806,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
+2003805,"Oizys jasper",0,"Oizys jaspers",0,1,1,0,0,False,"Oizys Jasper",,"",1,1,,0,"normal/item_start",0
+2003806,"Oizys jasper",0,"Oizys jaspers",0,1,1,0,0,False,"Oizys Jasper",,"",1,1,,0,"normal/item_start",0
 2003807,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
 2003808,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0
 2003809,"",0,"",0,0,0,0,0,False,"",,"",0,0,,0,"normal/item_start",0

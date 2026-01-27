@@ -319,7 +319,7 @@ int32,byte,Row,ClassJobCategory,byte,BannerCondition,uint16,uint16,uint16,Image,
 315,11,"Savor Tea","All Classes",1,"BannerCondition#883",0,0,0,,246451,""
 316,10,,"All Classes",1,"BannerCondition#884",0,0,0,,246452,""
 317,0,,"",0,"BannerCondition#0",0,0,0,,0,""
-318,0,,"",0,"BannerCondition#0",0,0,0,,0,""
+318,11,"Stomp","All Classes",1,"BannerCondition#979",0,0,0,"ui/icon/001000/001505.tex",246455,""
 319,11,"Cheer Rhythm: Red","All Classes",1,"BannerCondition#980",0,0,0,,246456,""
 320,11,"Cheer Light: Yellow","All Classes",1,"BannerCondition#981",0,0,0,,246457,""
 321,0,,"",0,"BannerCondition#0",0,0,0,,0,""

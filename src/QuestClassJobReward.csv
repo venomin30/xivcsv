@@ -482,24 +482,24 @@ int32,ClassJobCategory,Item,Item,Item,Item,byte,byte,byte,byte,Item,Item,Item,It
 36.5,"WVR","Yok Huy Ward","Lightning Crystal","","",1,35,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
 36.6,"ALC","Yok Huy Ward","Water Crystal","","",1,35,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
 36.7,"CUL","Yok Huy Ward","Fire Crystal","","",1,35,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
-37.0,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-37.1,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-37.2,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-37.3,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-37.4,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-37.5,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-37.6,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-37.7,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-37.8,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-37.9,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-37.10,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-37.11,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-37.12,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-37.13,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-37.14,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-37.15,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-37.16,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-37.17,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-37.18,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-37.19,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-37.20,"","","","","",0,0,0,0,"","","","",0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
+37.0,"PLD","Phantom Sword Obscurum","Phantom Shield Obscurum","","",1,1,0,0,"Phantom Sword Umbrae","Phantom Kite Shield Umbrae","","",0,0,1,1,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+37.1,"MNK","Phantom Jamadhars Obscurum","","","",1,0,0,0,"Phantom Knuckles Umbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+37.2,"WAR","Phantom Bardiche Obscurum","","","",1,0,0,0,"Phantom Bardiche Umbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+37.3,"DRG","Phantom Fork Obscurum","","","",1,0,0,0,"Phantom Spear Umbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+37.4,"BRD","Phantom Longbow Obscurum","","","",1,0,0,0,"Phantom Harp Bow Umbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+37.5,"WHM","Phantom Cane Obscurum","","","",1,0,0,0,"Phantom Crook Umbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+37.6,"BLM","Phantom Longpole Obscurum","","","",1,0,0,0,"Phantom Staff Umbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+37.7,"SMN","Phantom Index Obscurum","","","",1,0,0,0,"Phantom Index Umbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+37.8,"SCH","Phantom Codex Obscurum","","","",1,0,0,0,"Phantom Codex Umbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+37.9,"NIN","Phantom Khukuri Obscurum","","","",1,0,0,0,"Phantom Cleavers Umbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+37.10,"DRK","Phantom Guillotine Obscurum","","","",1,0,0,0,"Phantom Guillotine Umbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+37.11,"MCH","Phantom Musketoon Obscurum","","","",1,0,0,0,"Phantom Arquebus Umbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+37.12,"AST","Phantom Star Pendant Obscurum","","","",1,0,0,0,"Phantom Star Globe Umbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+37.13,"SAM","Phantom Blade Obscurum","","","",1,0,0,0,"Phantom Blade Umbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+37.14,"RDM","Phantom Hanger Obscurum","","","",1,0,0,0,"Phantom Rapier Umbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+37.15,"GNB","Phantom Gunblade Obscurum","","","",1,0,0,0,"Phantom Bayonet Umbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+37.16,"DNC","Phantom Tathlums Obscurum","","","",1,0,0,0,"Phantom Terpna Umbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+37.17,"RPR","Phantom War Scythe Obscurum","","","",1,0,0,0,"Phantom War Scythe Umbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+37.18,"SGE","Phantom Wings Obscurum","","","",1,0,0,0,"Phantom Pendulums Umbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+37.19,"VPR","Phantom Twinfangs Obscurum","","","",1,0,0,0,"Phantom Twinfangs Umbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True
+37.20,"PCT","Phantom Round Brush Obscurum","","","",1,0,0,0,"Phantom Flat Brush Umbrae","","","",0,0,1,0,0,0,0,0,False,False,False,False,False,False,True,True,True,True,True,True

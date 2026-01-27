@@ -14789,7 +14789,7 @@ int32,Item,bit&01,byte,byte,Quest,Quest,Achievement,byte,uint16,uint16
 263203.16,"Cherimoya",False,0,0,,,"",0,100,700
 263203.17,"Rroneek Glue",False,0,0," Forging the Phantasmal",,"",0,90,730
 263203.18,"Phoenix Down",False,0,0,,,"",0,100,730
-263203.19,"",False,0,0," Wrought by Hands Phantasmal",,"",0,91,740
+263203.19,"Umbral Clay",False,0,0," Wrought by Hands Phantasmal",,"",0,91,740
 263204.0,"Golden Stonefly Nymph",False,0,0,,,"",0,100,700
 263204.1,"Crimson Lugworm",False,0,0,,,"",0,100,700
 263204.2,"Silkmoth Pupa",False,0,0,,,"",0,100,700

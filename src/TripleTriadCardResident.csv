@@ -459,7 +459,7 @@ int32,uint16,byte,byte,byte,byte,TripleTriadCardRarity,TripleTriadCardType,uint1
 455,454,3,5,7,7,"TripleTriadCardRarity#3","",500,20,439,0,False,3,"Mistwake",,"Beyond the Mountains"
 456,455,6,7,7,8,"TripleTriadCardRarity#4","",800,32,440,0,False,3,"Hell on Rails",,"Where We Call Home"
 457,456,10,8,4,7,"TripleTriadCardRarity#5","",1500,40,441,0,False,3,"AAC Heavyweight M4",,"Glory Incarnate"
-458,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
+458,457,5,4,6,4,"TripleTriadCardRarity#2","",300,16,442,0,False,10,"Mesouaidonque","Level#11721046","A Cosmic Homecoming"
 459,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
 460,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,
 461,0,0,0,0,0,"TripleTriadCardRarity#0","",0,0,0,0,False,0,,,

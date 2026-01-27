@@ -379,8 +379,8 @@ int32,uint16,byte,byte,uint32,byte,CustomTalk,Item,bit&01,bit&02,bit&04,byte,byt
 131447,347,17,0,0,0,,"Docking Station Cover",False,False,True,0,0,0,False,True
 131448,348,17,0,0,0,,"Cosmic Circumferbench",False,False,True,0,0,0,False,True
 131449,349,17,0,0,0,,"Hunter's Camp Chair",False,False,True,0,0,0,False,True
-131450,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
-131451,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
-131452,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
+131450,350,17,0,0,0,,"Cosmic Safety Lamp",False,False,True,0,0,0,False,True
+131451,351,17,0,0,0,,"Cosmic Antenna",False,False,True,0,0,0,False,True
+131452,352,17,0,0,0,,"Shady Cosmoshelter",False,False,True,0,0,0,False,True
 131453,0,0,0,0,0,,"",False,False,False,0,0,0,False,False
 131454,357,17,0,0,0,,"Mhachi Lamppost",False,False,True,0,0,0,False,True

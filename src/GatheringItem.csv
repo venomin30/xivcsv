@@ -2047,55 +2047,55 @@ int32,Row,GatheringItemLevelConvertTable,bit&01,Quest,uint16,uint32,bit&04,uint3
 11217,"Amethyst Cupflower","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
 11218,"Hardened Distempered Grass","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
 11219,"Mosaic Grass Seed","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
-11220,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11221,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11222,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11223,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11224,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11225,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11226,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11227,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11228,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11229,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11230,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11231,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11232,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11233,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11234,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11235,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11236,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11237,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11238,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11239,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11240,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11241,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11242,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11243,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11244,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11245,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11246,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11247,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11248,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11249,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11250,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11251,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11252,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11253,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11254,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11255,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11256,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11257,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11258,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11259,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11260,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11261,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11262,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11263,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11264,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11265,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11266,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11267,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11268,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11269,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11270,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
-11271,"","GatheringItemLevelConvertTable#0",False,,0,0,False,0,0,0
+11220,"Oizys Agate","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11221,"Oddweight Purpurite","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+11222,"Galena Cluster","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+11223,"Ashy Aethersand","GatheringItemLevelConvertTable#750",False,,0,0,False,0,0,65535
+11224,"Trigonite","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11225,"Oddweight Tin Ore","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11226,"Oddweight Aethersand","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11227,"Amber Pseudostone","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11228,"Obsidian Pseudostone","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11229,"Mottled Pseudostone","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11230,"Amber Pseudostone","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11231,"Anchore","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11232,"Oizys Alumen","GatheringItemLevelConvertTable#690",False,,0,0,False,0,6,22
+11233,"Oddweight Azurite","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11234,"Oizys Sandstone","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11235,"Indicolite","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11236,"Indicolite","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11237,"Oizys Bedrock","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11238,"Oddweight Iron Sand","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11239,"Gravitoquartz","GatheringItemLevelConvertTable#690",False,,0,0,False,0,5,131
+11240,"Raw Oizys Jasper","GatheringItemLevelConvertTable#690",False,,0,0,False,0,5,132
+11241,"Unruined Relic","GatheringItemLevelConvertTable#750",False,,0,0,False,0,0,65535
+11242,"Reliqued Claw","GatheringItemLevelConvertTable#750",False,,0,0,False,0,0,65535
+11243,"Reliqued Earring","GatheringItemLevelConvertTable#750",False,,0,0,False,0,6,22
+11244,"Regolush Grass","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11245,"Spinopitcher Vine","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+11246,"Spinopitcher Acid","GatheringItemLevelConvertTable#50",False,,0,0,False,0,0,65535
+11247,"Spinopitcher Spine","GatheringItemLevelConvertTable#750",False,,0,0,False,0,0,65535
+11248,"Oizys Cactoid Flower","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11249,"Oizys Cactoid","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11250,"Oizys Cactoid Root","GatheringItemLevelConvertTable#560",False,,0,0,False,0,0,65535
+11251,"Crooked Cedar Root","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11252,"Crooked Cedar Log","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11253,"Crooked Cedar Leaf","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11254,"Crooked Cedar Vine","GatheringItemLevelConvertTable#690",False,,0,0,False,0,6,22
+11255,"Crooked Cedar Log","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11256,"Solberyllia Leaf","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11257,"Solberyllia","GatheringItemLevelConvertTable#690",False,,0,0,False,0,5,133
+11258,"Kiting Poulp Flower","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11259,"Kiting Poulp Vine","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11260,"Kiting Poulp Leaf","GatheringItemLevelConvertTable#690",False,,0,0,False,0,0,65535
+11261,"Terrestrianemone Tentacle","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11262,"Terrestrianemone Disc","GatheringItemLevelConvertTable#700",False,,0,0,False,0,0,65535
+11263,"Oizys Agavic","GatheringItemLevelConvertTable#750",False,,0,0,False,0,5,134
+11264,"Ghost Terrestrianemone Tentacle","GatheringItemLevelConvertTable#750",False,,0,0,False,0,0,65535
+11265,"Ghost Terrestrianemone Disc","GatheringItemLevelConvertTable#750",False,,0,0,False,0,0,65535
+11266,"Ghost Terrestrianemone Sand","GatheringItemLevelConvertTable#750",False,,0,0,False,0,6,22
+11267,"Gilded Coral","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11268,"Long-lostlith","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11269,"Foregone Globe Root","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11270,"Powdered Hectatoid","GatheringItemLevelConvertTable#10",False,,0,0,False,0,0,65535
+11271,"Gravitoquartz","GatheringItemLevelConvertTable#750",False,,0,0,False,0,5,131

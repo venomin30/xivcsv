@@ -206,5 +206,5 @@ int32,Image,str,str,str,str,str,str
 202,"ui/icon/060000/060245.tex","Glass Storms","vitrescent","","","",""
 203,"ui/icon/060000/060209.tex","Thunder","thundery","","","",""
 204,"ui/icon/060000/060209.tex","Thunder","thundery","","","",""
-205,,"","","","","",""
-206,,"","","","","",""
+205,"ui/icon/060000/060246.tex","Gravitational Flux","anomalous","","","",""
+206,"ui/icon/060000/060247.tex","Bubble Bloom","bubbly","","","",""
