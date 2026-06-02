@@ -1,12 +1,10 @@
-﻿key,0,1
-#,WeatherType[1],WeatherType[2]
-int32,Weather,Weather
-0,"",""
-1,"Heat Waves","Clear Skies"
-2,"Clear Skies","Clear Skies"
-3,"Fair Skies","Clear Skies"
-4,"Clouds","Fair Skies"
-5,"Fog","Fair Skies"
-6,"Rain","Clouds"
-7,"Showers","Clouds"
-8,"Thunderstorms","Clouds"
+#,WeatherType1,WeatherType2
+0,0,0
+1,14,1
+2,1,1
+3,2,1
+4,3,2
+5,4,2
+6,7,3
+7,8,3
+8,10,3

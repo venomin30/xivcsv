@@ -1,22 +1,23 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11
-#,Spot[0],Time[0],Spot[1],Time[1],Spot[2],Time[2],Image,,,ContentFinderCondition,,Name
-int32,IKDSpot,IKDTimeDefine,IKDSpot,IKDTimeDefine,IKDSpot,IKDTimeDefine,Image,uint32,uint32,ContentFinderCondition,uint32,str
-0,"Undiscovered Fishing Hole","IKDTimeDefine#0","Undiscovered Fishing Hole","IKDTimeDefine#0","Undiscovered Fishing Hole","IKDTimeDefine#0",,0,0,"",0,""
-1,"The Southern Strait of Merlthor","IKDTimeDefine#1","Outer Galadion Bay","IKDTimeDefine#2","The Northern Strait of Merlthor","IKDTimeDefine#3","ui/icon/063000/063172.tex",0,0,"Ocean Fishing",0,"Northern Strait of Merlthor"
-2,"The Southern Strait of Merlthor","IKDTimeDefine#2","Outer Galadion Bay","IKDTimeDefine#3","The Northern Strait of Merlthor","IKDTimeDefine#1","ui/icon/063000/063172.tex",0,0,"Ocean Fishing",0,"Northern Strait of Merlthor"
-3,"The Southern Strait of Merlthor","IKDTimeDefine#3","Outer Galadion Bay","IKDTimeDefine#1","The Northern Strait of Merlthor","IKDTimeDefine#2","ui/icon/063000/063172.tex",0,0,"Ocean Fishing",0,"Northern Strait of Merlthor"
-4,"Outer Galadion Bay","IKDTimeDefine#1","The Southern Strait of Merlthor","IKDTimeDefine#2","Open Rhotano Sea","IKDTimeDefine#3","ui/icon/063000/063171.tex",0,0,"Ocean Fishing",0,"Rhotano Sea"
-5,"Outer Galadion Bay","IKDTimeDefine#2","The Southern Strait of Merlthor","IKDTimeDefine#3","Open Rhotano Sea","IKDTimeDefine#1","ui/icon/063000/063171.tex",0,0,"Ocean Fishing",0,"Rhotano Sea"
-6,"Outer Galadion Bay","IKDTimeDefine#3","The Southern Strait of Merlthor","IKDTimeDefine#1","Open Rhotano Sea","IKDTimeDefine#2","ui/icon/063000/063171.tex",0,0,"Ocean Fishing",0,"Rhotano Sea"
-7,"Cieldalaes Margin","IKDTimeDefine#1","The Northern Strait of Merlthor","IKDTimeDefine#2","Open Bloodbrine Sea","IKDTimeDefine#3","ui/icon/063000/063173.tex",0,0,"Ocean Fishing",0,"Bloodbrine Sea"
-8,"Cieldalaes Margin","IKDTimeDefine#2","The Northern Strait of Merlthor","IKDTimeDefine#3","Open Bloodbrine Sea","IKDTimeDefine#1","ui/icon/063000/063173.tex",0,0,"Ocean Fishing",0,"Bloodbrine Sea"
-9,"Cieldalaes Margin","IKDTimeDefine#3","The Northern Strait of Merlthor","IKDTimeDefine#1","Open Bloodbrine Sea","IKDTimeDefine#2","ui/icon/063000/063173.tex",0,0,"Ocean Fishing",0,"Bloodbrine Sea"
-10,"Cieldalaes Margin","IKDTimeDefine#1","Open Rhotano Sea","IKDTimeDefine#2","Outer Rothlyt Sound","IKDTimeDefine#3","ui/icon/063000/063174.tex",0,0,"Ocean Fishing",0,"Rothlyt Sound"
-11,"Cieldalaes Margin","IKDTimeDefine#2","Open Rhotano Sea","IKDTimeDefine#3","Outer Rothlyt Sound","IKDTimeDefine#1","ui/icon/063000/063174.tex",0,0,"Ocean Fishing",0,"Rothlyt Sound"
-12,"Cieldalaes Margin","IKDTimeDefine#3","Open Rhotano Sea","IKDTimeDefine#1","Outer Rothlyt Sound","IKDTimeDefine#2","ui/icon/063000/063174.tex",0,0,"Ocean Fishing",0,"Rothlyt Sound"
-13,"Open Sirensong Sea","IKDTimeDefine#1","Kugane Coast","IKDTimeDefine#2","Lower One River","IKDTimeDefine#3","ui/icon/063000/063175.tex",63176,11,"Ocean Fishing",68089,"One River"
-14,"Open Sirensong Sea","IKDTimeDefine#2","Kugane Coast","IKDTimeDefine#3","Lower One River","IKDTimeDefine#1","ui/icon/063000/063175.tex",63176,11,"Ocean Fishing",68089,"One River"
-15,"Open Sirensong Sea","IKDTimeDefine#3","Kugane Coast","IKDTimeDefine#1","Lower One River","IKDTimeDefine#2","ui/icon/063000/063175.tex",63176,11,"Ocean Fishing",68089,"One River"
-16,"Open Sirensong Sea","IKDTimeDefine#1","Kugane Coast","IKDTimeDefine#2","Open Ruby Sea","IKDTimeDefine#3","ui/icon/063000/063177.tex",63178,11,"Ocean Fishing",68089,"Ruby Price"
-17,"Open Sirensong Sea","IKDTimeDefine#2","Kugane Coast","IKDTimeDefine#3","Open Ruby Sea","IKDTimeDefine#1","ui/icon/063000/063177.tex",63178,11,"Ocean Fishing",68089,"Ruby Price"
-18,"Open Sirensong Sea","IKDTimeDefine#3","Kugane Coast","IKDTimeDefine#1","Open Ruby Sea","IKDTimeDefine#2","ui/icon/063000/063177.tex",63178,11,"Ocean Fishing",68089,"Ruby Price"
+#,Name,Spot[0],Spot[1],Spot[2],Image,Unknown0,Unknown1,Instance,Unknown2,Time[0],Time[1],Time[2]
+0,,0,0,0,0,0,0,0,0,0,0,0
+1,Northern Strait of Merlthor,2,1,3,63172,0,0,721,0,1,2,3
+2,Northern Strait of Merlthor,2,1,3,63172,0,0,730,0,2,3,1
+3,Northern Strait of Merlthor,2,1,3,63172,0,0,731,0,3,1,2
+4,Rhotano Sea,1,2,4,63171,0,0,732,0,1,2,3
+5,Rhotano Sea,1,2,4,63171,0,0,733,0,2,3,1
+6,Rhotano Sea,1,2,4,63171,0,0,734,0,3,1,2
+7,Bloodbrine Sea,5,3,6,63173,0,0,770,0,1,2,3
+8,Bloodbrine Sea,5,3,6,63173,0,0,771,0,2,3,1
+9,Bloodbrine Sea,5,3,6,63173,0,0,772,0,3,1,2
+10,Rothlyt Sound,5,4,7,63174,0,0,773,0,1,2,3
+11,Rothlyt Sound,5,4,7,63174,0,0,774,0,2,3,1
+12,Rothlyt Sound,5,4,7,63174,0,0,775,0,3,1,2
+13,One River,8,9,11,63175,63176,11,952,68089,1,2,3
+14,One River,8,9,11,63175,63176,11,953,68089,2,3,1
+15,One River,8,9,11,63175,63176,11,954,68089,3,1,2
+16,Ruby Price,8,9,10,63177,63178,11,955,68089,1,2,3
+17,Ruby Price,8,9,10,63177,63178,11,956,68089,2,3,1
+18,Ruby Price,8,9,10,63177,63178,11,957,68089,3,1,2
+19,Thavnairian coast,12,8,13,63179,0,0,1098,70000,1,2,3
+20,Thavnairian coast,12,8,13,63179,0,0,1099,70000,2,3,1
+21,Thavnairian coast,12,8,13,63179,0,0,1100,70000,3,1,2

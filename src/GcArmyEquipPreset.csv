@@ -1,61 +1,59 @@
-﻿key,0,1,2,3,4,5,6
 #,MainHand,OffHand,Head,Body,Gloves,Legs,Feet
-int32,Item,Item,Item,Item,Item,Item,Item
-0,"","","","","","",""
-1,"Steel Longsword","Decorated Buckler","","Mythril Cuirass","Heavy Steel Gauntlets","Heavy Steel Flanchard",""
-2,"Cobalt Winglet","Kite Shield","","Cobalt Cuirass","Cobalt Gauntlets","Padded Woolen Trousers","Cobalt Sabatons"
-3,"Mailbreaker","Darksteel Scutum","","Protector's Cuirass","Protector's Gauntlets","Protector's Trousers","Protector's Sollerets"
-4,"Garuda's Gaze","The Wall of Crags","","Armor of Light","Gauntlets of Light","Breeches of Light","Sabatons of Light"
-5,"Direwolf Longsword","Direwolf Kite Scutum","","Direwolf Cuirass of Fending","Direwolf Gauntlets of Fending","Direwolf Cuisses of Fending","Direwolf Sabatons of Fending"
-6,"Steel Bhuj","","","Cavalry Cuirass","Cavalry Gauntlets","Cavalry Trousers","Cavalry Sabatons"
-7,"Spiked Cobalt Labrys","","","Sentinel's Cuirass","Sentinel's Gauntlets","Sentinel's Trousers","Sentinel's Sabatons"
-8,"Giantsgall War Axe","","","Warwolf Cuirass of Fending","Warwolf Gauntlets of Fending","Warwolf Trousers of Fending","Warwolf Sollerets of Fending"
-9,"The Axe of Crags","","","Cuirass of the Divine War","Vambraces of the Divine War","Breeches of the Divine War","Sabatons of the Divine War"
-10,"Direwolf Battleaxe","","","Augmented Heavy Wolfram Cuirass","Heavy Wolfram Gauntlets","Heavy Wolfram Cuisses","Heavy Wolfram Sabatons"
-11,"Maddening Daggers","","","Infantry Shirt","Infantry Gloves","Infantry Skirt","Infantry Thighboots"
-12,"Cobalt Baselards","","","Buccaneer's Shirt","Fingerless Raptorskin Gloves","Raptorskin Brais","Cobalt-plated Jackboots"
-13,"Misericordes","","","Darklight Corselet of Striking","Darklight Bracers of Striking","Darklight Subligar","Darklight Caligae of Striking"
-14,"Cleavers of Crags","","","Fuma Koromo","Fuma Tekko","Fuma Hakama","Fuma Kyahan"
-15,"Direwolf Cleavers","","","Augmented Saurian Shirt of Striking","Saurian Gloves of Striking","Cashmere Skirt of Striking","Saurian Boots of Striking"
-16,"Oak Longbow","","","Woolen Shirt","Venerer's Bracers","Ripped Hose","Toadskin Leg Guards"
-17,"Crab Bow","","","Raptorskin Jacket","Raptorskin Armguards","Raptorskin Brais","Raptorskin Leg Guards"
-18,"Giantsgall Longbow","","","Shikaree's Doublet","Shikaree's Gloves","Shikaree's Gaskin","Shikaree's Boots"
-19,"The Bow of Crags","","","Ballad Corselet","Ballad Gauntlets","Ballad Sarouel","Ballad Boots"
-20,"Direwolf Longbow","","","Augmented Saurian Tabard of Aiming","Saurian Gloves of Aiming","Cashmere Skirt of Aiming","Saurian Boots of Aiming"
-21,"Boarskin Himantes","","","Boarskin Harness","Fingerless Boarskin Gloves","Boarskin Subligar","Steel-plated Caligae"
-22,"Cobalt Claws","","","Raptorskin Harness","Fingerless Raptorskin Gloves","Raptorskin Subligar","Cobalt-plated Caligae"
-23,"Giantsgall Claws","","","Fistfighter's Jackcoat","Fistfighter's Gloves","Fistfighter's Breeches","Fistfighter's Jackboots"
-24,"Fists of Crags","","","Shirt of the Divine Hero","Cuffs of the Divine Hero","Sarouel of the Divine Hero","Boots of the Divine Hero"
-25,"Direwolf Claws","","","Direwolf Shirt of Striking","Direwolf Gloves of Striking","Direwolf Skirt of Striking","Direwolf Thighboots of Striking"
-26,"Heavy Steel Lance","","","Steel Scale Mail","Steel Scale Fingers","Toadskin Breeches","Steel Scale Greaves"
-27,"Hart Guisarme","","","Tortoiseshell Scale Mail","Tortoiseshell Scale Fingers","Raptorskin Breeches","Tortoiseshell Scale Greaves"
-28,"Giantsgall Trident","","","Darklight Cuirass","Darklight Gauntlets","Darklight Trousers","Darklight Sollerets"
-29,"The Spear of Crags","","","Cuirass of Divine Wisdom","Vambraces of Divine Wisdom","Breeches of Divine Wisdom","Sabatons of Divine Wisdom"
-30,"Direwolf Trident","","","Direwolf Cuirass of Maiming","Direwolf Gauntlets of Maiming","Direwolf Trousers of Maiming","Direwolf Sabatons of Maiming"
-31,"Oak Radical","","","Loyalist's Bliaud","Acolyte's Halfgloves","Battlemage's Breeches","Battlemage's Crakows"
-32,"Pastoral Mahogany Cane","","","Imperial Operative Dalmatica","Warlock's Ringbands","Mage's Chausses","Battlemage's Crakows"
-33,"Alkalurops","","","Darklight Cowl of Healing","Darklight Gloves of Healing","Darklight Breeches of Healing","Darklight Boots of Healing"
-34,"The Cane of Crags","","","Royal Vest","Royal Celestial Gloves","Royal Breeches","Royal Shoes"
-35,"Direwolf Cane","","","Augmented Cashmere Robe of Healing","Saurian Gloves of Healing","Cashmere Skirt of Healing","Saurian Boots of Healing"
-36,"Decorated Silver Scepter","Decorated Buckler","","Battlemage's Robe","Battlemage's Gloves","Battlemage's Breeches","Battlemage's Crakows"
-37,"Ivory Staff","","","Dark Divinity Feldr","Dark Divinity Hanzkar","Dark Divinity Spjarrar","Dark Divinity Skor"
-38,"Astrolabe","","","Darklight Cowl of Casting","Darklight Gloves of Casting","Darklight Breeches of Casting","Darklight Boots of Casting"
-39,"The Cudgel of Crags","","","Robe of Divine Death","Halfgloves of Divine Death","Tonban of Divine Death","Crakows of Divine Death"
-40,"Direwolf Longstaff","","","Augmented Cashmere Robe of Casting","Saurian Gloves of Casting","Cashmere Breeches of Casting","Saurian Crakows of Casting"
-41,"Book of Silver","","","Harlequin's Acton","Acolyte's Halfgloves","Harlequin's Tights","Torturer's Duckbills"
-42,"Embossed Book of Electrum","","","Warlock's Robe","Militia Ringbands","Warlock's Tights","Militia Duckbills"
-43,"Deus Ex Verbis","","","Vanya Robe of Casting","Vanya Gloves of Casting","Vanya Breeches of Casting","Vanya Crakows"
-44,"The Greater Key of Titan","","","Crimson Vest","Crimson Celestial Gloves","Crimson Breeches","Crimson Shoes"
-45,"Direwolf Grimoire of Casting","","","Direwolf Robe of Casting","Direwolf Gloves of Casting","Direwolf Breeches of Casting","Direwolf Crakows of Casting"
-46,"","","Hood of the Black Griffin","Robe of the Black Griffin","Gloves of the Black Griffin","Chausses of the Black Griffin","Boots of the Black Griffin"
-47,"","","Hood of the White Griffin","Robe of the White Griffin","Gloves of the White Griffin","Chausses of the White Griffin","Boots of the White Griffin"
-48,"","","Silver Spectacles","Best Man's Jacket","","Best Man's Slacks","Best Man's Gaiters"
-49,"","","Reindeer Antlers","Reindeer Suit","","",""
-50,"","","Dried Yellow Oldrose","Spring Dress","Coronal Wristband","Patrician's Bottoms","Spring Dress Shoes"
-51,"","","Snowman Head","Snowman Suit","Snowman Mitts","",""
-52,"","","Bunny Crown","Bunny Bustier","Bunny Loops","Bunny Tights","Bunny Pumps"
-53,"","","Orthodox Tricorne of Striking","Chimerical Felt Tabard of Scouting","Thavnairian Gloves","Serpentskin Brais of Striking","Serpentskin Thighboots of Scouting"
-54,"","","Mask of Divine Wisdom","Coliseum Galerus","Claws of the Beast","Coliseum Subligar","Wolfseye Thighboots"
-55,"","","","","","Summer Evening Trunks",""
-56,"","","Hallowed Chestnut Mask of Healing","Hallowed Ramie Doublet of Healing","Dragonskin Gloves of Healing","Hallowed Ramie Gaskins of Healing","Dragonskin Boots of Healing"
-57,"","","Silver Tricorne","Kirimu Coat","Titanium Gauntlets of Fending","Chimerical Felt Breeches of Fending","Titanium Sollerets of Fending"
+0,0,0,0,0,0,0,0
+1,1639,2260,0,3149,3614,3386,0
+2,1663,2294,0,3209,3692,3469,3912
+3,1673,2302,0,7445,7446,7447,7448
+4,1674,2305,0,3271,3737,3512,3956
+5,6872,2301,0,6887,6899,6893,6905
+6,1778,0,0,3122,3610,3382,3840
+7,1803,0,0,3248,3705,3480,3926
+8,1806,0,0,6823,6835,6829,7055
+9,1815,0,0,8225,8226,8227,8228
+10,6874,0,0,8454,7482,7483,7484
+11,9205,0,0,3123,3608,3380,3838
+12,8668,0,0,3207,3651,3471,3883
+13,9226,0,0,3252,3719,3494,3939
+14,9230,0,0,3268,3734,3509,3953
+15,9244,0,0,8456,7494,7495,7496
+16,1917,0,0,3147,3618,3342,3827
+17,1942,0,0,3213,3694,3471,3916
+18,1945,0,0,7463,7464,7465,7466
+19,1954,0,0,3269,3735,3510,3954
+20,6876,0,0,8457,7500,7501,7502
+21,1708,0,0,3138,3611,3402,3847
+22,1733,0,0,3191,3651,3447,3887
+23,1736,0,0,7457,7458,7459,7460
+24,1745,0,0,8237,8238,8239,8240
+25,6873,0,0,6889,6901,6895,6907
+26,1847,0,0,3118,3605,3377,3835
+27,1872,0,0,3183,3669,3443,3886
+28,1875,0,0,3251,3718,3493,3938
+29,1884,0,0,8231,8232,8233,8234
+30,6875,0,0,6888,6900,6894,6906
+31,2023,0,0,3133,3555,3381,3839
+32,2044,0,0,3249,3675,3419,3839
+33,2051,0,0,3255,3722,3497,3942
+34,1994,0,0,3270,3736,3511,3955
+35,6877,0,0,8458,7506,7507,7508
+36,2076,2260,0,3124,3609,3381,3839
+37,2133,0,0,10153,10039,10154,10041
+38,2139,0,0,3254,3721,3496,3941
+39,2104,0,0,8255,8256,8257,8258
+40,6878,0,0,8459,7512,7513,7514
+41,2166,0,0,3219,3555,3476,3824
+42,2189,0,0,3197,3699,3450,3920
+43,2211,0,0,3260,3727,3502,3946
+44,2209,0,0,3273,3739,3514,3958
+45,6879,0,0,6891,6903,6897,6909
+46,0,0,12330,12331,12332,12334,12335
+47,0,0,12324,12325,12326,12328,12329
+48,0,0,2728,9283,0,9284,9285
+49,0,0,2643,2966,0,0,0
+50,0,0,14843,7540,7536,3475,7542
+51,0,0,6968,6969,6970,0,0
+52,0,0,10009,10010,10011,10012,10013
+53,0,0,11212,10850,10389,10787,10878
+54,0,0,8230,3189,10046,3445,7400
+55,0,0,0,0,0,6095,0
+56,0,0,10883,10890,10897,10911,10918
+57,0,0,2915,9053,10686,10703,10707

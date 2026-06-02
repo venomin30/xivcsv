@@ -1,11 +1,9 @@
-﻿key,0,1
-#,BaseParam,Name
-int32,BaseParam,str
-0,"",""
-1,"Piety","Resourcefulness"
-2,"Tenacity","Resourcefulness"
-3,"Direct Hit Rate","Attentiveness"
-4,"Critical Hit","Explosiveness"
-5,"Determination","Steadfastness"
-6,"Skill Speed","Swiftness"
-7,"Spell Speed","Swiftness"
+#,Name,BaseParam
+0,,0
+1,Resourcefulness,6
+2,Resourcefulness,19
+3,Attentiveness,22
+4,Explosiveness,27
+5,Steadfastness,44
+6,Swiftness,45
+7,Swiftness,46

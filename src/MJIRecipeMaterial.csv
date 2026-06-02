@@ -1,41 +1,39 @@
-﻿key,0,1
-#,ItemPouch,
-int32,MJIItemPouch,int32
-0,"Island Palm Leaf",0
-1,"Island Palm Leaf",4
-2,"Island Apple",0
-3,"Island Branch",0
-4,"Island Stone",0
-5,"Island Laver",0
-6,"Islewort",0
-7,"Island Log",0
-8,"Island Palm Log",0
-9,"Island Vine",0
-10,"Island Sap",0
-11,"Island Copper Ore",0
-12,"Island Tinsand",0
-13,"Island Hemp",0
-14,"Island Jellyfish",0
-15,"Island Limestone",0
-16,"Island Clay",0
-17,"Island Cotton Boll",0
-18,"Island Iron Ore",0
-19,"Island Quartz",0
-20,"Island Leucogranite",0
-21,"Island Palm Leaf",0
-22,"Island Resin",0
-23,"Island Wood Opal",0
-24,"Island Coal",0
-25,"Island Mythril Ore",0
-26,"Island Marble",0
-27,"Island Spectrine",0
-28,"Island Alyssum",0
-29,"Raw Island Garnet",0
-30,"Island Spruce Log",0
-31,"Island Hammerhead",0
-32,"Island Silver Ore",0
-33,"Island Cave Shrimp",0
-34,"Island Durium Sand",0
-35,"Island Yellow Copper Ore",0
-36,"Island Gold Ore",0
-37,"Island Hawk's Eye Sand",0
+#,ItemPouch,Unknown0
+0,0,0
+1,0,4
+2,1,0
+3,2,0
+4,3,0
+5,5,0
+6,7,0
+7,9,0
+8,10,0
+9,11,0
+10,12,0
+11,13,0
+12,20,0
+13,18,0
+14,26,0
+15,14,0
+16,19,0
+17,17,0
+18,21,0
+19,22,0
+20,23,0
+21,0,0
+22,67,0
+23,70,0
+24,76,0
+25,80,0
+26,79,0
+27,82,0
+28,27,0
+29,28,0
+30,29,0
+31,30,0
+32,31,0
+33,83,0
+34,92,0
+35,93,0
+36,94,0
+37,95,0

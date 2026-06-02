@@ -1,384 +1,452 @@
-﻿key,0,1,2,3,4
-#,Background,Frame,Decoration,SortKey,Name
-int32,BannerBg,BannerFrame,BannerDecoration,uint16,str
-0,"None","0","0",0,"Custom"
-1,"Solid Grey","1","1",2,"Basic"
-2,"Squares","2","1",3,"Modern"
-3,"Void","20","1",4,"Classical"
-4,"Vellum","20","1",5,"Illuminated"
-5,"Solid Purple","21","32",6,"Decorated"
-6,"Aether","1","1",1,"Aetherial"
-7,"Vellum","10","1",7,"Journal"
-8,"Tank Gradient","9","12",8,"Tank"
-9,"Healer Gradient","9","13",9,"Healer"
-10,"DPS Gradient","9","14",10,"DPS"
-11,"Paladin (Simple)","2150","2150",2050,"Paladin (Simple)"
-12,"Warrior (Simple)","2151","2151",2051,"Warrior (Simple)"
-13,"Dark Knight (Simple)","2152","2152",2052,"Dark Knight (Simple)"
-14,"Gunbreaker (Simple)","2153","2153",2053,"Gunbreaker (Simple)"
-15,"White Mage (Simple)","2154","2154",2054,"White Mage (Simple)"
-16,"Scholar (Simple)","2155","2155",2055,"Scholar (Simple)"
-17,"Astrologian (Simple)","2156","2156",2056,"Astrologian (Simple)"
-18,"Sage (Simple)","2157","2157",2057,"Sage (Simple)"
-19,"Monk (Simple)","2158","2158",2058,"Monk (Simple)"
-20,"Dragoon (Simple)","2159","2159",2059,"Dragoon (Simple)"
-21,"Ninja (Simple)","2160","2160",2060,"Ninja (Simple)"
-22,"Samurai (Simple)","2161","2161",2061,"Samurai (Simple)"
-23,"Reaper (Simple)","2162","2162",2062,"Reaper (Simple)"
-24,"Bard (Simple)","2164","2164",2064,"Bard (Simple)"
-25,"Machinist (Simple)","2165","2165",2065,"Machinist (Simple)"
-26,"Dancer (Simple)","2166","2166",2066,"Dancer (Simple)"
-27,"Black Mage (Simple)","2167","2167",2067,"Black Mage (Simple)"
-28,"Summoner (Simple)","2168","2168",2068,"Summoner (Simple)"
-29,"Red Mage (Simple)","2169","2169",2069,"Red Mage (Simple)"
-30,"Paladin (Ornate)","2150","2150",2150,"Paladin (Ornate)"
-31,"Warrior (Ornate)","2151","2151",2151,"Warrior (Ornate)"
-32,"Dark Knight (Ornate)","2152","2152",2152,"Dark Knight (Ornate)"
-33,"Gunbreaker (Ornate)","2153","2153",2153,"Gunbreaker (Ornate)"
-34,"White Mage (Ornate)","2154","2154",2154,"White Mage (Ornate)"
-35,"Scholar (Ornate)","2155","2155",2155,"Scholar (Ornate)"
-36,"Astrologian (Ornate)","2156","2156",2156,"Astrologian (Ornate)"
-37,"Sage (Ornate)","2157","2157",2157,"Sage (Ornate)"
-38,"Monk (Ornate)","2158","2158",2158,"Monk (Ornate)"
-39,"Dragoon (Ornate)","2159","2159",2159,"Dragoon (Ornate)"
-40,"Ninja (Ornate)","2160","2160",2160,"Ninja (Ornate)"
-41,"Samurai (Ornate)","2161","2161",2161,"Samurai (Ornate)"
-42,"Reaper (Ornate)","2162","2162",2162,"Reaper (Ornate)"
-43,"Bard (Ornate)","2164","2164",2164,"Bard (Ornate)"
-44,"Machinist (Ornate)","2165","2165",2165,"Machinist (Ornate)"
-45,"Dancer (Ornate)","2166","2166",2166,"Dancer (Ornate)"
-46,"Black Mage (Ornate)","2167","2167",2167,"Black Mage (Ornate)"
-47,"Summoner (Ornate)","2168","2168",2168,"Summoner (Ornate)"
-48,"Red Mage (Ornate)","2169","2169",2169,"Red Mage (Ornate)"
-49,"Team Astra","3000","3000",3000,"Team Astra"
-50,"Team Umbra","3001","3001",3001,"Team Umbra"
-51,"Companion 1","4000","4000",4000,"Companion 1"
-52,"Companion 2","4001","4001",4001,"Companion 2"
-53,"Unending Coil of Bahamut","2500","2500",2500,"Unending Coil of Bahamut"
-54,"Weapon's Refrain","2501","2501",2501,"Weapon's Refrain"
-55,"Epic of Alexander","2502","2502",2502,"Epic of Alexander"
-56,"Dragonsong's Reprise","2503","2503",2503,"Dragonsong's Reprise"
-57,"Final Conflict 1","3200","3200",3200,"Final Conflict 1"
-58,"Endless Conflict 1","3201","3201",3201,"Endless Conflict 1"
-59,"Rising Conflict 1","3202","3202",3202,"Rising Conflict 1"
-60,"Bronze Conflict 1","3208","3208",3208,"Bronze Conflict 1"
-61,"Silver Conflict 1","3207","3207",3207,"Silver Conflict 1"
-62,"Gold Conflict 1","3206","3206",3206,"Gold Conflict 1"
-63,"Platinum Conflict 1","3205","3205",3205,"Platinum Conflict 1"
-64,"Diamond Conflict 1","3204","3204",3204,"Diamond Conflict 1"
-65,"Crystal Conflict 1","3203","3203",3203,"Crystal Conflict 1"
-66,"Final Conflict 2","3209","3209",3209,"Final Conflict 2"
-67,"Endless Conflict 2","3210","3210",3210,"Endless Conflict 2"
-68,"Rising Conflict 2","3211","3211",3211,"Rising Conflict 2"
-69,"Bronze Conflict 2","3217","3217",3217,"Bronze Conflict 2"
-70,"Silver Conflict 2","3216","3216",3216,"Silver Conflict 2"
-71,"Gold Conflict 2","3215","3215",3215,"Gold Conflict 2"
-72,"Platinum Conflict 2","3214","3214",3214,"Platinum Conflict 2"
-73,"Diamond Conflict 2","3213","3213",3213,"Diamond Conflict 2"
-74,"Crystal Conflict 2","3212","3212",3212,"Crystal Conflict 2"
-75,"Final Conflict 3","3218","3218",3218,"Final Conflict 3"
-76,"Endless Conflict 3","3219","3219",3219,"Endless Conflict 3"
-77,"Rising Conflict 3","3220","3220",3220,"Rising Conflict 3"
-78,"Bronze Conflict 3","3226","3226",3226,"Bronze Conflict 3"
-79,"Silver Conflict 3","3225","3225",3225,"Silver Conflict 3"
-80,"Gold Conflict 3","3224","3224",3224,"Gold Conflict 3"
-81,"Platinum Conflict 3","3223","3223",3223,"Platinum Conflict 3"
-82,"Diamond Conflict 3","3222","3222",3222,"Diamond Conflict 3"
-83,"Crystal Conflict 3","3221","3221",3221,"Crystal Conflict 3"
-84,"Azure Conflict","3002","3002",3002,"Azure Conflict"
-85,"Crimson Conflict","3003","3003",3003,"Crimson Conflict"
-86,"Sil'dihn Subterrane (Variant)","2400","2402",2402,"Sil'dihn Subterrane (Variant)"
-87,"Last Dregs","1","2315",2315,"Last Dregs"
-88,"Circular Geometry","6","30",11,"Circular Geometry"
-89,"Comic","32","21",12,"Comic"
-90,"Common Grey","11","1",13,"Common Grey (NQ)"
-91,"Rare Pink","11","1",14,"Rare Pink (NQ)"
-92,"Plundered Green","11","1",15,"Plundered Green (NQ)"
-93,"Exceptional Blue","11","1",16,"Exceptional Blue (NQ)"
-94,"Legendary Purple","11","1",17,"Legendary Purple (NQ)"
-95,"Common Grey","12","1",18,"Common Grey (HQ)"
-96,"Rare Pink","12","1",19,"Rare Pink (HQ)"
-97,"Plundered Green","12","1",20,"Plundered Green (HQ)"
-98,"Exceptional Blue","12","1",21,"Exceptional Blue (HQ)"
-99,"Legendary Purple","12","1",22,"Legendary Purple (HQ)"
-100,"Sheet Music","1","31",23,"Music"
-101,"Brick","1","3",24,"Café"
-102,"Final Conflict 4","3227","3227",3227,"Final Conflict 4"
-103,"Endless Conflict 4","3228","3228",3228,"Endless Conflict 4"
-104,"Rising Conflict 4","3229","3229",3229,"Rising Conflict 4"
-105,"Crystal Conflict 4","3230","3230",3230,"Crystal Conflict 4"
-106,"Diamond Conflict 4","3231","3231",3231,"Diamond Conflict 4"
-107,"Platinum Conflict 4","3232","3232",3232,"Platinum Conflict 4"
-108,"Gold Conflict 4","3233","3233",3233,"Gold Conflict 4"
-109,"Silver Conflict 4","3234","3234",3234,"Silver Conflict 4"
-110,"Bronze Conflict 4","3235","3235",3235,"Bronze Conflict 4"
-111,"Final Conflict 5","3236","3236",3236,"Final Conflict 5"
-112,"Endless Conflict 5","3237","3237",3237,"Endless Conflict 5"
-113,"Rising Conflict 5","3238","3238",3238,"Rising Conflict 5"
-114,"Crystal Conflict 5","3239","3239",3239,"Crystal Conflict 5"
-115,"Diamond Conflict 5","3240","3240",3240,"Diamond Conflict 5"
-116,"Platinum Conflict 5","3241","3241",3241,"Platinum Conflict 5"
-117,"Gold Conflict 5","3242","3242",3242,"Gold Conflict 5"
-118,"Silver Conflict 5","3243","3243",3243,"Silver Conflict 5"
-119,"Bronze Conflict 5","3244","3244",3244,"Bronze Conflict 5"
-120,"Falcons","3004","3004",3004,"Falcons"
-121,"Ravens","3005","3005",3005,"Ravens"
-122,"Dreamspinners","1","2311",2311,"Dreamspinners"
-123,"Stewards","1","2312",2312,"Stewards"
-124,"Watts's Anvil","1","2313",2313,"Watts's Anvil"
-125,"Hippo Riders","1","2314",2314,"Hippo Riders"
-126,"Dreaming Ways","1","2316",2316,"Dreaming Ways"
-127,"Omega Protocol","2504","2504",2504,"Omega Protocol"
-128,"Eureka Orthos","1","2358",2358,"Eureka Orthos"
-129,"Enaretos","1","2359",2359,"Enaretos"
-130,"Four Lords","2251","1",2251,"Four Lords"
-131,"Island Vacation","2340","2340",2340,"Island Vacation"
-132,"Island Memories","2341","2341",2341,"Island Memories"
-133,"Final Conflict 6","3245","3245",3245,"Final Conflict 6"
-134,"Endless Conflict 6","3246","3246",3246,"Endless Conflict 6"
-135,"Rising Conflict 6","3247","3247",3247,"Rising Conflict 6"
-136,"Crystal Conflict 6","3248","3248",3248,"Crystal Conflict 6"
-137,"Diamond Conflict 6","3249","3249",3249,"Diamond Conflict 6"
-138,"Platinum Conflict 6","3250","3250",3250,"Platinum Conflict 6"
-139,"Gold Conflict 6","3251","3251",3251,"Gold Conflict 6"
-140,"Silver Conflict 6","3252","3252",3252,"Silver Conflict 6"
-141,"Bronze Conflict 6","3253","3253",3253,"Bronze Conflict 6"
-142,"Final Conflict 7","3254","3254",3254,"Final Conflict 7"
-143,"Endless Conflict 7","3255","3255",3255,"Endless Conflict 7"
-144,"Rising Conflict 7","3256","3256",3256,"Rising Conflict 7"
-145,"Crystal Conflict 7","3257","3257",3257,"Crystal Conflict 7"
-146,"Diamond Conflict 7","3258","3258",3258,"Diamond Conflict 7"
-147,"Platinum Conflict 7","3259","3259",3259,"Platinum Conflict 7"
-148,"Gold Conflict 7","3260","3260",3260,"Gold Conflict 7"
-149,"Silver Conflict 7","3261","3261",3261,"Silver Conflict 7"
-150,"Bronze Conflict 7","3262","3262",3262,"Bronze Conflict 7"
-151,"Aramitama Waves","3006","3006",3006,"Aramitama"
-152,"Nigimitama Waves","3007","3007",3007,"Nigimitama"
-153,"Divine Circle","1","2308",2308,"Divine Circle"
-154,"Velodyna Gatekeepers","1","2309",2309,"Velodyna Gatekeepers"
-155,"Seven Hundred Seventy-Seven","1","2310",2310,"Seven Hundred Seventy-Seven"
-156,"Blue Mage (Simple)","2171","2171",2071,"Blue Mage (Simple)"
-157,"Blue Mage (Ornate)","2171","2171",2171,"Blue Mage (Ornate)"
-158,"End of an Era","2250","1",2250,"End of an Era"
-159,"Ten Year Anniversary","3950","3950",3950,"Ten Year Anniversary"
-160,"Mount Rokkon (Variant)","2401","2403",2403,"Mount Rokkon (Variant)"
-161,"Adventurous Angling","2346","2346",2346,"Adventurous Angling"
-162,"Big Fish","2347","2347",2347,"Big Fish"
-163,"Mahjong Mastery","2350","2350",2350,"Mahjong Mastery"
-164,"Palaistra","3008","3008",3008,"Palaistra"
-165,"Cloud Nine","3009","3009",3009,"Cloud Nine"
-166,"Final Conflict 8","3263","3263",3263,"Final Conflict 8"
-167,"Endless Conflict 8","3264","3264",3264,"Endless Conflict 8"
-168,"Rising Conflict 8","3265","3265",3265,"Rising Conflict 8"
-169,"Crystal Conflict 8","3266","3266",3266,"Crystal Conflict 8"
-170,"Diamond Conflict 8","3267","3267",3267,"Diamond Conflict 8"
-171,"Platinum Conflict 8","3268","3268",3268,"Platinum Conflict 8"
-172,"Gold Conflict 8","3269","3269",3269,"Gold Conflict 8"
-173,"Silver Conflict 8","3270","3270",3270,"Silver Conflict 8"
-174,"Bronze Conflict 8","3271","3271",3271,"Bronze Conflict 8"
-175,"Final Conflict 9","3272","3272",3272,"Final Conflict 9"
-176,"Endless Conflict 9","3273","3273",3273,"Endless Conflict 9"
-177,"Rising Conflict 9","3274","3274",3274,"Rising Conflict 9"
-178,"Crystal Conflict 9","3275","3275",3275,"Crystal Conflict 9"
-179,"Diamond Conflict 9","3276","3276",3276,"Diamond Conflict 9"
-180,"Platinum Conflict 9","3277","3277",3277,"Platinum Conflict 9"
-181,"Gold Conflict 9","3278","3278",3278,"Gold Conflict 9"
-182,"Silver Conflict 9","3279","3279",3279,"Silver Conflict 9"
-183,"Bronze Conflict 9","3280","3280",3280,"Bronze Conflict 9"
-184,"Final Conflict 10","3281","3281",3281,"Final Conflict 10"
-185,"Endless Conflict 10","3282","3282",3282,"Endless Conflict 10"
-186,"Rising Conflict 10","3283","3283",3283,"Rising Conflict 10"
-187,"Crystal Conflict 10","3284","3284",3284,"Crystal Conflict 10"
-188,"Diamond Conflict 10","3285","3285",3285,"Diamond Conflict 10"
-189,"Platinum Conflict 10","3286","3286",3286,"Platinum Conflict 10"
-190,"Gold Conflict 10","3287","3287",3287,"Gold Conflict 10"
-191,"Silver Conflict 10","3288","3288",3288,"Silver Conflict 10"
-192,"Bronze Conflict 10","3289","3289",3289,"Bronze Conflict 10"
-193,"Gundu","1","2305",2305,"Gundu"
-194,"Vath","1","2306",2306,"Vath"
-195,"Mogmenders","1","2307",2307,"Mogmenders"
-196,"Twelvefold Blessings","2252","2252",2252,"Halone's Blessing"
-197,"Twelvefold Blessings","2252","2253",2253,"Menphina's Blessing"
-198,"Twelvefold Blessings","2252","2254",2254,"Thaliak's Blessing"
-199,"Twelvefold Blessings","2252","2255",2255,"Nymeia's Blessing"
-200,"Twelvefold Blessings","2252","2256",2256,"Llymlaen's Blessing"
-201,"Twelvefold Blessings","2252","2257",2257,"Oschon's Blessing"
-202,"Twelvefold Blessings","2252","2258",2258,"Byregot's Blessing"
-203,"Twelvefold Blessings","2252","2259",2259,"Rhalgr's Blessing"
-204,"Twelvefold Blessings","2252","2260",2260,"Azeyma's Blessing"
-205,"Twelvefold Blessings","2252","2261",2261,"Nald'thal's Blessing"
-206,"Twelvefold Blessings","2252","2262",2262,"Nophica's Blessing"
-207,"Twelvefold Blessings","2252","2263",2263,"Althyk's Blessing"
-208,"Aloalo Island (Variant)","2402","2404",2404,"Aloalo Island (Variant)"
-209,"Wondrous Whimsy","2351","2351",2351,"Wondrous Whimsy"
-210,"Fantastic Faux","2352","2352",2352,"Fantastic Faux"
-211,"Blunderful","3951","3951",3951,"Blunderful"
-212,"Blunderous","3952","3952",3952,"Blunderous"
-213,"Blunder-villed","3953","3953",3953,"Blunder-villed"
-214,"Yo-kai Watch","3954","3954",3954,"Yo-kai Watch"
-215,"Viper (Simple)","2163","2163",2063,"Viper (Simple)"
-216,"Viper (Ornate)","2163","2163",2163,"Viper (Ornate)"
-217,"Pictomancer (Simple)","2170","2170",2070,"Pictomancer (Simple)"
-218,"Pictomancer (Ornate)","2170","2170",2170,"Pictomancer (Ornate)"
-219,"Volcanic Heart","3010","3010",3010,"Volcanic Heart"
-220,"Clockwork Castletown","3011","3011",3011,"Clockwork Castletown"
-221,"Final Conflict 11","3290","3290",3290,"Final Conflict 11"
-222,"Endless Conflict 11","3291","3291",3291,"Endless Conflict 11"
-223,"Rising Conflict 11","3292","3292",3292,"Rising Conflict 11"
-224,"Crystal Conflict 11","3293","3293",3293,"Crystal Conflict 11"
-225,"Diamond Conflict 11","3294","3294",3294,"Diamond Conflict 11"
-226,"Platinum Conflict 11","3295","3295",3295,"Platinum Conflict 11"
-227,"Gold Conflict 11","3296","3296",3296,"Gold Conflict 11"
-228,"Silver Conflict 11","3297","3297",3297,"Silver Conflict 11"
-229,"Bronze Conflict 11","3298","3298",3298,"Bronze Conflict 11"
-230,"789th Order","1","2302",2302,"789th Order"
-231,"Little Solace","1","2301",2301,"Little Solace"
-232,"Brotherhood of Ash","1","2300",2300,"Brotherhood of Ash"
-233,"Novv's Clutch","1","2303",2303,"Novv's Clutch"
-234,"Ehcatl Nine","1","2304",2304,"Ehcatl Nine"
-235,"Crimson Dawn","1036","1036",1036,"Crimson Dawn"
-236,"Golden Dawn","1037","1037",1037,"Golden Dawn"
-237,"Dark Solution","1038","1038",1038,"Dark Solution"
-238,"Bright Solution","1039","1039",1039,"Bright Solution"
-239,"Seal Rock","3013","3013",3013,"Seal Rock"
-240,"Red Sands","3012","3012",3012,"Red Sands"
-241,"Final Conflict 12","3299","3299",3299,"Final Conflict 12"
-242,"Endless Conflict 12","3300","3300",3300,"Endless Conflict 12"
-243,"Rising Conflict 12","3301","3301",3301,"Rising Conflict 12"
-244,"Crystal Conflict 12","3302","3302",3302,"Crystal Conflict 12"
-245,"Diamond Conflict 12","3303","3303",3303,"Diamond Conflict 12"
-246,"Platinum Conflict 12","3304","3304",3304,"Platinum Conflict 12"
-247,"Gold Conflict 12","3305","3305",3305,"Gold Conflict 12"
-248,"Silver Conflict 12","3306","3306",3306,"Silver Conflict 12"
-249,"Bronze Conflict 12","3307","3307",3307,"Bronze Conflict 12"
-250,"Turali Travel Agency","1","2317",2317,"Turali Travel Agency"
-251,"Heavens' Orthodoxy","1020","1020",1020,"Heavens' Orthodoxy"
-252,"Heavens' Heresy","1021","1021",1021,"Heavens' Heresy"
-253,"Idyll Wisdom","1022","1022",1022,"Idyll Wisdom"
-254,"Idyll Industry","1023","1023",1023,"Idyll Industry"
-255,"Kugane Commerce","1024","1024",1024,"Kugane Commerce"
-256,"Kugane Leisure","1025","1025",1025,"Kugane Leisure"
-257,"Western Reach","1026","1026",1026,"Western Reach"
-258,"Eastern Reach","1027","1027",1027,"Eastern Reach"
-259,"Exarchic Dome","1028","1028",1028,"Exarchic Dome"
-260,"Exarchic Tower","1029","1029",1029,"Exarchic Tower"
-261,"Eulmoran Comfort","1030","1030",1030,"Eulmoran Comfort"
-262,"Eulmoran Glory","1031","1031",1031,"Eulmoran Glory"
-263,"Sharlayan Stoa","1032","1032",1032,"Sharlayan Stoa"
-264,"Sharlayan Agora","1033","1033",1033,"Sharlayan Agora"
-265,"Hannish Radiance","1034","1034",1034,"Hannish Radiance"
-266,"Hannish Wonders","1035","1035",1035,"Hannish Wonders"
-267,"Fields of Glory","3014","3014",3014,"Fields of Glory"
-268,"Onsal Hakair","3015","3015",3015,"Onsal Hakair"
-269,"Final Conflict 13","3308","3308",3308,"Final Conflict 13"
-270,"Endless Conflict 13","3309","3309",3309,"Endless Conflict 13"
-271,"Rising Conflict 13","3310","3310",3310,"Rising Conflict 13"
-272,"Crystal Conflict 13","3311","3311",3311,"Crystal Conflict 13"
-273,"Diamond Conflict 13","3312","3312",3312,"Diamond Conflict 13"
-274,"Platinum Conflict 13","3313","3313",3313,"Platinum Conflict 13"
-275,"Gold Conflict 13","3314","3314",3314,"Gold Conflict 13"
-276,"Silver Conflict 13","3315","3315",3315,"Silver Conflict 13"
-277,"Bronze Conflict 13","3316","3316",3316,"Bronze Conflict 13"
-278,"Final Conflict 14","3317","3317",3317,"Final Conflict 14"
-279,"Endless Conflict 14","3318","3318",3318,"Endless Conflict 14"
-280,"Rising Conflict 14","3319","3319",3319,"Rising Conflict 14"
-281,"Crystal Conflict 14","3320","3320",3320,"Crystal Conflict 14"
-282,"Diamond Conflict 14","3321","3321",3321,"Diamond Conflict 14"
-283,"Platinum Conflict 14","3322","3322",3322,"Platinum Conflict 14"
-284,"Gold Conflict 14","3323","3323",3323,"Gold Conflict 14"
-285,"Silver Conflict 14","3324","3324",3324,"Silver Conflict 14"
-286,"Bronze Conflict 14","3325","3325",3325,"Bronze Conflict 14"
-287,"Futures Rewritten","2505","2505",2505,"Futures Rewritten"
-288,"Gok Golma","1","2318",2318,"Gok Golma"
-289,"Deadly Welcome","1","2354",2354,"Deadly Welcome"
-290,"Deadly Descent","1","2355",2355,"Deadly Descent"
-291,"Victory-on-High","1","2356",2356,"Victory-on-High"
-292,"Ascension-on-High","1","2357",2357,"Ascension-on-High"
-293,"Occult Crescent","2404","2406",2406,"Occult Crescent"
-294,"Cosmic Exploration","2343","2343",2343,"Cosmic Exploration"
-295,"Monster Hunter Wilds 1","3955","3955",3955,"Monster Hunter Wilds 1"
-296,"Monster Hunter Wilds 2","3956","3956",3956,"Monster Hunter Wilds 2"
-297,"Hidden Gorge","3016","3016",3016,"Hidden Gorge"
-298,"Borderland Ruins (Secure)","3017","3017",3017,"Borderland Ruins (Secure)"
-299,"Final Conflict 15","3326","3326",3326,"Final Conflict 15"
-300,"Endless Conflict 15","3327","3327",3327,"Endless Conflict 15"
-301,"Rising Conflict 15","3328","3328",3328,"Rising Conflict 15"
-302,"Crystal Conflict 15","3329","3329",3329,"Crystal Conflict 15"
-303,"Diamond Conflict 15","3330","3330",3330,"Diamond Conflict 15"
-304,"Platinum Conflict 15","3331","3331",3331,"Platinum Conflict 15"
-305,"Gold Conflict 15","3332","3332",3332,"Gold Conflict 15"
-306,"Silver Conflict 15","3333","3333",3333,"Silver Conflict 15"
-307,"Bronze Conflict 15","3334","3334",3334,"Bronze Conflict 15"
-308,"Final Conflict 16","3335","3335",3335,"Final Conflict 16"
-309,"Endless Conflict 16","3336","3336",3336,"Endless Conflict 16"
-310,"Rising Conflict 16","3337","3337",3337,"Rising Conflict 16"
-311,"Ultima Conflict 16","3338","3338",3338,"Ultima Conflict 16"
-312,"Omega Conflict 16","3339","3339",3339,"Omega Conflict 16"
-313,"Crystal Conflict 16","3340","3340",3340,"Crystal Conflict 16"
-314,"Diamond Conflict 16","3341","3341",3341,"Diamond Conflict 16"
-315,"Platinum Conflict 16","3342","3342",3342,"Platinum Conflict 16"
-316,"Gold Conflict 16","3343","3343",3343,"Gold Conflict 16"
-317,"Silver Conflict 16","3344","3344",3344,"Silver Conflict 16"
-318,"Bronze Conflict 16","3345","3345",3345,"Bronze Conflict 16"
-319,"The Hands of Zirgorteh","1","2319",2319,"The Hands of Zirgorteh"
-320,"Pilgrim's Traverse","1","2400",2400,"Pilgrim's Traverse"
-321,"Distant Sanctums","1","2401",2401,"Distant Sanctums"
-322,"Cosmic Constructs","2344","2344",2344,"Cosmic Constructs"
-323,"Island Days","2342","1",2342,"Island Days"
-324,"Bayside Battleground","3018","3018",3018,"Bayside Battleground"
-325,"Worqor Chirteh","3019","3019",3019,"Worqor Chirteh"
-326,"Final Conflict 17","3346","3346",3346,"Final Conflict 17"
-327,"Endless Conflict 17","3347","3347",3347,"Endless Conflict 17"
-328,"Rising Conflict 17","3348","3348",3348,"Rising Conflict 17"
-329,"Ultima Conflict 17","3349","3349",3349,"Ultima Conflict 17"
-330,"Omega Conflict 17","3350","3350",3350,"Omega Conflict 17"
-331,"Crystal Conflict 17","3351","3351",3351,"Crystal Conflict 17"
-332,"Diamond Conflict 17","3352","3352",3352,"Diamond Conflict 17"
-333,"Platinum Conflict 17","3353","3353",3353,"Platinum Conflict 17"
-334,"Gold Conflict 17","3354","3354",3354,"Gold Conflict 17"
-335,"Silver Conflict 17","3355","3355",3355,"Silver Conflict 17"
-336,"Bronze Conflict 17","3356","3356",3356,"Bronze Conflict 17"
-337,"Final Conflict 18","3357","3357",3357,"Final Conflict 18"
-338,"Endless Conflict 18","3358","3358",3358,"Endless Conflict 18"
-339,"Rising Conflict 18","3359","3359",3359,"Rising Conflict 18"
-340,"Ultima Conflict 18","3360","3360",3360,"Ultima Conflict 18"
-341,"Omega Conflict 18","3361","3361",3361,"Omega Conflict 18"
-342,"Crystal Conflict 18","3362","3362",3362,"Crystal Conflict 18"
-343,"Diamond Conflict 18","3363","3363",3363,"Diamond Conflict 18"
-344,"Platinum Conflict 18","3364","3364",3364,"Platinum Conflict 18"
-345,"Gold Conflict 18","3365","3365",3365,"Gold Conflict 18"
-346,"Silver Conflict 18","3366","3366",3366,"Silver Conflict 18"
-347,"Bronze Conflict 18","3367","3367",3367,"Bronze Conflict 18"
-348,"Special Accolades","4002","4002",4002,"Special Accolades"
-349,"Cosmic Fantasy","2345","2345",2345,"Cosmic Fantasy"
-350,"None","0","0",0,""
-351,"Simple Pink","34","35",25,"Simple Pink"
-352,"Simple Violet","35","36",26,"Simple Violet"
-353,"Simple Pale Blue","36","37",27,"Simple Pale Blue"
-354,"Simple Peach","37","38",28,"Simple Peach"
-355,"Simple Lime","38","39",29,"Simple Lime"
-356,"Simple Pale Teal","39","40",30,"Simple Pale Teal"
-357,"Simple Pale Yellow","40","41",31,"Simple Pale Yellow"
-358,"Simple Yellow","41","42",32,"Simple Yellow"
-359,"None","0","0",0,""
-360,"None","0","0",0,""
-361,"None","0","0",0,""
-362,"None","0","0",0,""
-363,"None","0","0",0,""
-364,"None","0","0",0,""
-365,"None","0","0",0,""
-366,"None","0","0",0,""
-367,"None","0","0",0,""
-368,"None","0","0",0,""
-369,"None","0","0",0,""
-370,"None","0","0",0,""
-371,"None","0","0",0,""
-372,"None","0","0",0,""
-373,"None","0","0",0,""
-374,"None","0","0",0,""
-375,"None","0","0",0,""
-376,"None","0","0",0,""
-377,"None","0","0",0,""
-378,"None","0","0",0,""
-379,"None","0","0",0,""
-380,"None","0","0",0,""
+#,Name,Background,Frame,Decoration,SortKey
+0,Custom,0,0,0,0
+1,Basic,1,1,1,2
+2,Modern,2,3,1,3
+3,Classical,10,10,1,4
+4,Illuminated,7,10,1,5
+5,Decorated,3,11,8,6
+6,Aetherial,8,1,1,1
+7,Journal,7,7,1,7
+8,Tank,4,9,5,8
+9,Healer,6,9,7,9
+10,DPS,5,9,6,10
+11,Paladin (Simple),52,12,12,2050
+12,Warrior (Simple),53,13,13,2051
+13,Dark Knight (Simple),54,14,14,2052
+14,Gunbreaker (Simple),55,15,15,2053
+15,White Mage (Simple),56,16,16,2054
+16,Scholar (Simple),57,17,17,2055
+17,Astrologian (Simple),58,18,18,2056
+18,Sage (Simple),59,19,19,2057
+19,Monk (Simple),60,20,20,2058
+20,Dragoon (Simple),61,21,21,2059
+21,Ninja (Simple),62,22,22,2060
+22,Samurai (Simple),63,23,23,2061
+23,Reaper (Simple),64,24,24,2062
+24,Bard (Simple),65,25,25,2065
+25,Machinist (Simple),66,26,26,2066
+26,Dancer (Simple),67,27,27,2067
+27,Black Mage (Simple),68,28,28,2068
+28,Summoner (Simple),69,29,29,2069
+29,Red Mage (Simple),70,30,30,2070
+30,Paladin (Ornate),11,12,12,2150
+31,Warrior (Ornate),12,13,13,2151
+32,Dark Knight (Ornate),13,14,14,2152
+33,Gunbreaker (Ornate),14,15,15,2153
+34,White Mage (Ornate),15,16,16,2154
+35,Scholar (Ornate),16,17,17,2155
+36,Astrologian (Ornate),17,18,18,2156
+37,Sage (Ornate),18,19,19,2157
+38,Monk (Ornate),19,20,20,2158
+39,Dragoon (Ornate),20,21,21,2159
+40,Ninja (Ornate),21,22,22,2160
+41,Samurai (Ornate),22,23,23,2161
+42,Reaper (Ornate),23,24,24,2162
+43,Bard (Ornate),24,25,25,2165
+44,Machinist (Ornate),25,26,26,2166
+45,Dancer (Ornate),26,27,27,2167
+46,Black Mage (Ornate),27,28,28,2168
+47,Summoner (Ornate),28,29,29,2169
+48,Red Mage (Ornate),29,30,30,2170
+49,Team Astra,30,31,31,3000
+50,Team Umbra,31,32,32,3001
+51,Companion 1,41,42,42,4000
+52,Companion 2,42,43,43,4001
+53,Unending Coil of Bahamut,86,44,44,2500
+54,Weapon's Refrain,87,45,45,2501
+55,Epic of Alexander,88,46,46,2502
+56,Dragonsong's Reprise,89,47,47,2503
+57,Final Conflict 1,32,33,33,3200
+58,Endless Conflict 1,33,34,34,3201
+59,Rising Conflict 1,34,35,35,3202
+60,Bronze Conflict 1,35,36,36,3208
+61,Silver Conflict 1,36,37,37,3207
+62,Gold Conflict 1,37,38,38,3206
+63,Platinum Conflict 1,38,39,39,3205
+64,Diamond Conflict 1,39,40,40,3204
+65,Crystal Conflict 1,40,41,41,3203
+66,Final Conflict 2,90,48,48,3209
+67,Endless Conflict 2,91,49,49,3210
+68,Rising Conflict 2,92,50,50,3211
+69,Bronze Conflict 2,93,51,51,3217
+70,Silver Conflict 2,94,52,52,3216
+71,Gold Conflict 2,95,53,53,3215
+72,Platinum Conflict 2,96,54,54,3214
+73,Diamond Conflict 2,97,55,55,3213
+74,Crystal Conflict 2,98,56,56,3212
+75,Final Conflict 3,99,57,57,3218
+76,Endless Conflict 3,100,58,58,3219
+77,Rising Conflict 3,101,59,59,3220
+78,Bronze Conflict 3,102,60,60,3226
+79,Silver Conflict 3,103,61,61,3225
+80,Gold Conflict 3,104,62,62,3224
+81,Platinum Conflict 3,105,63,63,3223
+82,Diamond Conflict 3,106,64,64,3222
+83,Crystal Conflict 3,107,65,65,3221
+84,Azure Conflict,108,66,66,3002
+85,Crimson Conflict,109,67,67,3003
+86,Sil'dihn Subterrane (Variant),110,68,68,2402
+87,Last Dregs,111,1,69,2315
+88,Circular Geometry,119,70,75,11
+89,Comic,116,69,74,12
+90,Common Grey (NQ),125,76,1,13
+91,Rare Pink (NQ),126,76,1,14
+92,Plundered Green (NQ),127,76,1,15
+93,Exceptional Blue (NQ),128,76,1,16
+94,Legendary Purple (NQ),129,76,1,17
+95,Common Grey (HQ),125,77,1,18
+96,Rare Pink (HQ),126,77,1,19
+97,Plundered Green (HQ),127,77,1,20
+98,Exceptional Blue (HQ),128,77,1,21
+99,Legendary Purple (HQ),129,77,1,22
+100,Music,123,1,76,23
+101,Café,115,1,73,24
+102,Final Conflict 4,133,78,81,3227
+103,Endless Conflict 4,134,79,82,3228
+104,Rising Conflict 4,135,80,83,3229
+105,Crystal Conflict 4,136,81,84,3230
+106,Diamond Conflict 4,137,82,85,3231
+107,Platinum Conflict 4,138,83,86,3232
+108,Gold Conflict 4,139,84,87,3233
+109,Silver Conflict 4,140,85,88,3234
+110,Bronze Conflict 4,141,86,89,3235
+111,Final Conflict 5,142,87,90,3236
+112,Endless Conflict 5,143,88,91,3237
+113,Rising Conflict 5,144,89,92,3238
+114,Crystal Conflict 5,145,90,93,3239
+115,Diamond Conflict 5,146,91,94,3240
+116,Platinum Conflict 5,147,92,95,3241
+117,Gold Conflict 5,148,93,96,3242
+118,Silver Conflict 5,149,94,97,3243
+119,Bronze Conflict 5,150,95,98,3244
+120,Falcons,151,96,99,3004
+121,Ravens,152,97,100,3005
+122,Dreamspinners,153,1,101,2311
+123,Stewards,154,1,102,2312
+124,Watts's Anvil,155,1,103,2313
+125,Hippo Riders,156,1,104,2314
+126,Dreaming Ways,157,1,105,2316
+127,Omega Protocol,158,98,106,2504
+128,Eureka Orthos,159,1,107,2358
+129,Enaretos,160,1,108,2359
+130,Four Lords,161,99,1,2251
+131,Island Vacation,162,100,109,2340
+132,Island Memories,163,101,110,2341
+133,Final Conflict 6,164,102,111,3245
+134,Endless Conflict 6,165,103,112,3246
+135,Rising Conflict 6,166,104,113,3247
+136,Crystal Conflict 6,167,105,114,3248
+137,Diamond Conflict 6,168,106,115,3249
+138,Platinum Conflict 6,169,107,116,3250
+139,Gold Conflict 6,170,108,117,3251
+140,Silver Conflict 6,171,109,118,3252
+141,Bronze Conflict 6,172,110,119,3253
+142,Final Conflict 7,173,111,120,3254
+143,Endless Conflict 7,174,112,121,3255
+144,Rising Conflict 7,175,113,122,3256
+145,Crystal Conflict 7,176,114,123,3257
+146,Diamond Conflict 7,177,115,124,3258
+147,Platinum Conflict 7,178,116,125,3259
+148,Gold Conflict 7,179,117,126,3260
+149,Silver Conflict 7,180,118,127,3261
+150,Bronze Conflict 7,181,119,128,3262
+151,Aramitama,182,120,129,3006
+152,Nigimitama,183,121,130,3007
+153,Divine Circle,184,1,131,2308
+154,Velodyna Gatekeepers,185,1,132,2309
+155,Seven Hundred Seventy-Seven,186,1,133,2310
+156,Blue Mage (Simple),71,122,134,2072
+157,Blue Mage (Ornate),187,122,134,2172
+158,End of an Era,188,128,1,2250
+159,Ten Year Anniversary,189,123,135,3950
+160,Mount Rokkon (Variant),190,124,136,2403
+161,Adventurous Angling,191,125,137,2347
+162,Big Fish,192,126,138,2348
+163,Mahjong Mastery,193,127,139,2350
+164,Palaistra,194,129,140,3008
+165,Cloud Nine,195,130,141,3009
+166,Final Conflict 8,196,131,142,3263
+167,Endless Conflict 8,197,132,143,3264
+168,Rising Conflict 8,198,133,144,3265
+169,Crystal Conflict 8,199,134,145,3266
+170,Diamond Conflict 8,200,135,146,3267
+171,Platinum Conflict 8,201,136,147,3268
+172,Gold Conflict 8,202,137,148,3269
+173,Silver Conflict 8,203,138,149,3270
+174,Bronze Conflict 8,204,139,150,3271
+175,Final Conflict 9,205,140,151,3272
+176,Endless Conflict 9,206,141,152,3273
+177,Rising Conflict 9,207,142,153,3274
+178,Crystal Conflict 9,208,143,154,3275
+179,Diamond Conflict 9,209,144,155,3276
+180,Platinum Conflict 9,210,145,156,3277
+181,Gold Conflict 9,211,146,157,3278
+182,Silver Conflict 9,212,147,158,3279
+183,Bronze Conflict 9,213,148,159,3280
+184,Final Conflict 10,214,149,160,3281
+185,Endless Conflict 10,215,150,161,3282
+186,Rising Conflict 10,216,151,162,3283
+187,Crystal Conflict 10,217,152,163,3284
+188,Diamond Conflict 10,218,153,164,3285
+189,Platinum Conflict 10,219,154,165,3286
+190,Gold Conflict 10,220,155,166,3287
+191,Silver Conflict 10,221,156,167,3288
+192,Bronze Conflict 10,222,157,168,3289
+193,Gundu,223,1,169,2305
+194,Vath,224,1,170,2306
+195,Mogmenders,225,1,171,2307
+196,Halone's Blessing,226,158,172,2252
+197,Menphina's Blessing,226,158,173,2253
+198,Thaliak's Blessing,226,158,174,2254
+199,Nymeia's Blessing,226,158,175,2255
+200,Llymlaen's Blessing,226,158,176,2256
+201,Oschon's Blessing,226,158,177,2257
+202,Byregot's Blessing,226,158,178,2258
+203,Rhalgr's Blessing,226,158,179,2259
+204,Azeyma's Blessing,226,158,180,2260
+205,Nald'thal's Blessing,226,158,181,2261
+206,Nophica's Blessing,226,158,182,2262
+207,Althyk's Blessing,226,158,183,2263
+208,Aloalo Island (Variant),227,159,184,2404
+209,Wondrous Whimsy,228,160,185,2351
+210,Fantastic Faux,229,161,186,2352
+211,Blunderful,230,162,187,3951
+212,Blunderous,231,163,188,3952
+213,Blunder-villed,232,164,189,3953
+214,Yo-kai Watch,233,165,190,3954
+215,Viper (Simple),234,166,191,2063
+216,Viper (Ornate),235,166,191,2163
+217,Pictomancer (Simple),236,167,192,2071
+218,Pictomancer (Ornate),237,167,192,2171
+219,Volcanic Heart,238,168,193,3010
+220,Clockwork Castletown,239,169,194,3011
+221,Final Conflict 11,240,170,195,3290
+222,Endless Conflict 11,241,171,196,3291
+223,Rising Conflict 11,242,172,197,3292
+224,Crystal Conflict 11,243,173,198,3293
+225,Diamond Conflict 11,244,174,199,3294
+226,Platinum Conflict 11,245,175,200,3295
+227,Gold Conflict 11,246,176,201,3296
+228,Silver Conflict 11,247,177,202,3297
+229,Bronze Conflict 11,248,178,203,3298
+230,789th Order,249,1,204,2302
+231,Little Solace,250,1,205,2301
+232,Brotherhood of Ash,251,1,206,2300
+233,Novv's Clutch,252,1,207,2303
+234,Ehcatl Nine,253,1,208,2304
+235,Crimson Dawn,254,179,209,1036
+236,Golden Dawn,255,180,210,1037
+237,Dark Solution,256,181,211,1038
+238,Bright Solution,257,182,212,1039
+239,Seal Rock,258,183,213,3013
+240,Red Sands,259,184,214,3012
+241,Final Conflict 12,260,185,215,3299
+242,Endless Conflict 12,261,186,216,3300
+243,Rising Conflict 12,262,187,217,3301
+244,Crystal Conflict 12,263,188,218,3302
+245,Diamond Conflict 12,264,189,219,3303
+246,Platinum Conflict 12,265,190,220,3304
+247,Gold Conflict 12,266,191,221,3305
+248,Silver Conflict 12,267,192,222,3306
+249,Bronze Conflict 12,268,193,223,3307
+250,Turali Travel Agency,269,1,224,2317
+251,Heavens' Orthodoxy,270,194,225,1020
+252,Heavens' Heresy,271,195,226,1021
+253,Idyll Wisdom,272,196,227,1022
+254,Idyll Industry,273,197,228,1023
+255,Kugane Commerce,274,198,229,1024
+256,Kugane Leisure,275,199,230,1025
+257,Western Reach,276,200,231,1026
+258,Eastern Reach,277,201,232,1027
+259,Exarchic Dome,278,202,233,1028
+260,Exarchic Tower,279,203,234,1029
+261,Eulmoran Comfort,280,204,235,1030
+262,Eulmoran Glory,281,205,236,1031
+263,Sharlayan Stoa,282,206,237,1032
+264,Sharlayan Agora,283,207,238,1033
+265,Hannish Radiance,284,208,239,1034
+266,Hannish Wonders,285,209,240,1035
+267,Fields of Glory,286,210,241,3014
+268,Onsal Hakair,287,211,242,3015
+269,Final Conflict 13,288,212,243,3308
+270,Endless Conflict 13,289,213,244,3309
+271,Rising Conflict 13,290,214,245,3310
+272,Crystal Conflict 13,291,215,246,3311
+273,Diamond Conflict 13,292,216,247,3312
+274,Platinum Conflict 13,293,217,248,3313
+275,Gold Conflict 13,294,218,249,3314
+276,Silver Conflict 13,295,219,250,3315
+277,Bronze Conflict 13,296,220,251,3316
+278,Final Conflict 14,297,221,252,3317
+279,Endless Conflict 14,298,222,253,3318
+280,Rising Conflict 14,299,223,254,3319
+281,Crystal Conflict 14,300,224,255,3320
+282,Diamond Conflict 14,301,225,256,3321
+283,Platinum Conflict 14,302,226,257,3322
+284,Gold Conflict 14,303,227,258,3323
+285,Silver Conflict 14,304,228,259,3324
+286,Bronze Conflict 14,305,229,260,3325
+287,Futures Rewritten,306,230,261,2505
+288,Gok Golma,307,1,262,2318
+289,Deadly Welcome,308,1,263,2354
+290,Deadly Descent,309,1,264,2355
+291,Victory-on-High,310,1,265,2356
+292,Ascension-on-High,311,1,266,2357
+293,Occult Crescent 1,312,231,267,2406
+294,Cosmic Exploration,313,232,268,2343
+295,Monster Hunter Wilds 1,314,233,269,3955
+296,Monster Hunter Wilds 2,315,234,270,3956
+297,Hidden Gorge,316,235,271,3016
+298,Borderland Ruins (Secure),317,236,272,3017
+299,Final Conflict 15,318,237,273,3326
+300,Endless Conflict 15,319,238,274,3327
+301,Rising Conflict 15,320,239,275,3328
+302,Crystal Conflict 15,321,240,276,3329
+303,Diamond Conflict 15,322,241,277,3330
+304,Platinum Conflict 15,323,242,278,3331
+305,Gold Conflict 15,324,243,279,3332
+306,Silver Conflict 15,325,244,280,3333
+307,Bronze Conflict 15,326,245,281,3334
+308,Final Conflict 16,327,246,282,3335
+309,Endless Conflict 16,328,247,283,3336
+310,Rising Conflict 16,329,248,284,3337
+311,Ultima Conflict 16,330,249,285,3338
+312,Omega Conflict 16,331,250,286,3339
+313,Crystal Conflict 16,332,251,287,3340
+314,Diamond Conflict 16,333,252,288,3341
+315,Platinum Conflict 16,334,253,289,3342
+316,Gold Conflict 16,335,254,290,3343
+317,Silver Conflict 16,336,255,291,3344
+318,Bronze Conflict 16,337,256,292,3345
+319,The Hands of Zirgorteh,338,1,293,2319
+320,Pilgrim's Traverse,339,1,294,2400
+321,Distant Sanctums,340,1,295,2401
+322,Cosmic Constructs,341,257,296,2344
+323,Island Days,342,258,1,2342
+324,Bayside Battleground,343,259,297,3018
+325,Worqor Chirteh,344,260,298,3019
+326,Final Conflict 17,345,261,299,3346
+327,Endless Conflict 17,346,262,300,3347
+328,Rising Conflict 17,347,263,301,3348
+329,Ultima Conflict 17,348,264,302,3349
+330,Omega Conflict 17,349,265,303,3350
+331,Crystal Conflict 17,350,266,304,3351
+332,Diamond Conflict 17,351,267,305,3352
+333,Platinum Conflict 17,352,268,306,3353
+334,Gold Conflict 17,353,269,307,3354
+335,Silver Conflict 17,354,270,308,3355
+336,Bronze Conflict 17,355,271,309,3356
+337,Final Conflict 18,356,272,310,3357
+338,Endless Conflict 18,357,273,311,3358
+339,Rising Conflict 18,358,274,312,3359
+340,Ultima Conflict 18,359,275,313,3360
+341,Omega Conflict 18,360,276,314,3361
+342,Crystal Conflict 18,361,277,315,3362
+343,Diamond Conflict 18,362,278,316,3363
+344,Platinum Conflict 18,363,279,317,3364
+345,Gold Conflict 18,364,280,318,3365
+346,Silver Conflict 18,365,281,319,3366
+347,Bronze Conflict 18,366,282,320,3367
+348,Special Accolades,367,283,321,4002
+349,Cosmic Fantasy,368,284,322,2345
+350,Merchant's Tale (Variant),369,285,323,2405
+351,Simple Pink,370,286,324,25
+352,Simple Violet,371,287,325,26
+353,Simple Pale Blue,372,288,326,27
+354,Simple Peach,373,289,327,28
+355,Simple Lime,374,290,328,29
+356,Simple Pale Teal,375,291,329,30
+357,Simple Pale Yellow,376,292,330,31
+358,Simple Yellow,377,293,331,32
+359,Black Cat,378,294,332,2264
+360,Honey B. Lovely,379,295,333,2265
+361,Brute Bomber,380,296,334,2266
+362,Wicked Thunder,381,297,335,2267
+363,Dancing Green,382,298,336,2268
+364,Sugar Riot,383,299,337,2269
+365,Howling Blade,384,300,338,2270
+366,Vamp Fatale,385,301,339,2271
+367,Deep Blue,386,302,340,2272
+368,Red Hot,387,303,341,2273
+369,The Tyrant,388,304,342,2274
+370,Archeia Harmonias,389,305,343,3020
+371,The Maelstrom,390,306,344,3021
+372,The Order of the Twin Adder,391,307,345,3022
+373,The Immortal Flames,392,308,346,3023
+374,Final Conflict 19,393,309,347,3368
+375,Endless Conflict 19,394,310,348,3369
+376,Rising Conflict 19,395,311,349,3370
+377,Ultima Conflict 19,396,312,350,3371
+378,Omega Conflict 19,397,313,351,3372
+379,Crystal Conflict 19,398,314,352,3373
+380,Diamond Conflict 19,399,315,353,3374
+381,Platinum Conflict 19,400,316,354,3375
+382,Gold Conflict 19,401,317,355,3376
+383,Silver Conflict 19,402,318,356,3377
+384,Bronze Conflict 19,403,319,357,3378
+385,Final Conflict 20,404,320,358,3379
+386,Endless Conflict 20,405,321,359,3380
+387,Rising Conflict 20,406,322,360,3381
+388,Ultima Conflict 20,407,323,361,3382
+389,Omega Conflict 20,408,324,362,3383
+390,Crystal Conflict 20,409,325,363,3384
+391,Diamond Conflict 20,410,326,364,3385
+392,Platinum Conflict 20,411,327,365,3386
+393,Gold Conflict 20,412,328,366,3387
+394,Silver Conflict 20,413,329,367,3388
+395,Bronze Conflict 20,414,330,368,3389
+396,Final Conflict 21,415,331,369,3390
+397,Endless Conflict 21,416,332,370,3391
+398,Rising Conflict 21,417,333,371,3392
+399,Ultima Conflict 21,418,334,372,3393
+400,Omega Conflict 21,419,335,373,3394
+401,Crystal Conflict 21,420,336,374,3395
+402,Diamond Conflict 21,421,337,375,3396
+403,Platinum Conflict 21,422,338,376,3397
+404,Gold Conflict 21,423,339,377,3398
+405,Silver Conflict 21,424,340,378,3399
+406,Bronze Conflict 21,425,341,379,3400
+407,DRAGON QUEST X,426,342,380,3957
+408,,0,0,0,0
+409,,0,0,0,0
+410,,0,0,0,0
+411,,0,0,0,0
+412,Echoes of Jeuno 1,431,346,384,2275
+413,Echoes of Jeuno 2,431,346,385,2276
+414,Echoes of Jeuno 3,431,346,386,2277
+415,Echoes of Jeuno 4,431,346,387,2278
+416,Echoes of Jeuno 5,431,346,388,2279
+417,Echoes of San d'Oria 1,432,347,389,2280
+418,Echoes of San d'Oria 2,432,347,390,2281
+419,Echoes of San d'Oria 3,432,347,391,2282
+420,Echoes of San d'Oria 4,432,347,392,2283
+421,Echoes of Windurst 1,433,348,393,2284
+422,Echoes of Windurst 2,433,348,394,2285
+423,Echoes of Windurst 3,433,348,395,2286
+424,Echoes of Windurst 4,433,348,396,2287
+425,,0,0,0,0
+426,,0,0,0,0
+427,,0,0,0,0
+428,,0,0,0,0
+429,,0,0,0,0
+430,,0,0,0,0
+431,,0,0,0,0
+432,,0,0,0,0
+433,,0,0,0,0
+434,,0,0,0,0
+435,,0,0,0,0
+436,,0,0,0,0
+437,,0,0,0,0
+438,,0,0,0,0
+439,,0,0,0,0
+440,,0,0,0,0
+441,,0,0,0,0
+442,,0,0,0,0
+443,,0,0,0,0
+444,,0,0,0,0
+445,,0,0,0,0
+446,,0,0,0,0
+447,,0,0,0,0
+448,,0,0,0,0
+449,,0,0,0,0
+450,,0,0,0,0

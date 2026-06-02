@@ -1,302 +1,307 @@
-﻿key,0,1,2
-#,Category,Item,Patch
-int32,YardCatalogCategory,Item,uint16
-0,"Miscellaneous","Amalj'aa Supply Carriage",410
-1,"Plants","Shroud Broadleaf",410
-2,"Stepping Stones/Stepladders","Unbreakable Rock",410
-3,"Interactive Furnishings","Moogle Letter Box",410
-4,"Miscellaneous","Campfire",410
-5,"Miscellaneous","Linen Parasol",410
-6,"Miscellaneous","Lotus Parasol",410
-7,"Tables","Walnut Table",410
-8,"Tables","Mythril Table",410
-9,"Chairs ","Brass Bench",410
-10,"Chairs ","Oaken Bench",410
-11,"Miscellaneous","Savage Arc of Triumph",410
-12,"Plants","Half Barrel Planter",410
-13,"Plants","Low Barrel Planter",410
-14,"Plants","Island Palm",410
-15,"Plants","Desert Ironwood",410
-16,"Stepping Stones/Stepladders","Mossy Rock",410
-17,"Lighting","Riviera Lamppost",410
-18,"Miscellaneous","Crofter's Wain",410
-19,"Miscellaneous","Amalj'aa Pavis Shield",410
-20,"Chairs ","Stump Stool",410
-21,"Interactive Furnishings","Miniature Aetheryte",410
-22,"Miscellaneous","Firewood",410
-23,"Lighting","Sylphic Lamp Tree",410
-24,"Lighting","Sylphic Lamppost",410
-25,"Lighting","Cragsoul Lamp",410
-26,"Plants","Blue Coral Formation",410
-27,"Lighting","Titanic Cragsoul Lamp",410
-28,"Ponds/Fountains","Wavesoul Fount",410
-29,"Ponds/Fountains","Tidal Wavesoul Fount",410
-30,"Miscellaneous","Dark Divinity Falleth",410
-31,"Miscellaneous","Bertha Cannon",410
-32,"Miscellaneous","Cannonballs",410
-33,"Lighting","Stone Vigil Beacon",410
-34,"Plants","Bloodblossoms",410
-35,"Plants","Death's Fingers",410
-36,"Plants","Turnkey's Cups",410
-37,"Plants","Pyrepods",410
-38,"Plants","Ghostmaws",410
-39,"Lighting","Amdapori Beacon",410
-40,"Interactive Furnishings","Regal Letter Box",410
-41,"Tables","Carbuncle Garden Table",410
-42,"Chairs ","Carbuncle Garden Bench",410
-43,"Interactive Furnishings","Riviera Striking Dummy",410
-44,"Interactive Furnishings","Oasis Striking Dummy",410
-45,"Interactive Furnishings","Glade Striking Dummy",410
-46,"Interactive Furnishings","Alps Striking Dummy",410
-47,"Lighting","Sahagin Living Lamp",410
-48,"Miscellaneous","Sahagin Hanging Larder",410
-49,"Miscellaneous","Ixali Shelter",410
-50,"Miscellaneous","Ixali Banner",410
-51,"Miscellaneous","Automaton Digger",410
-52,"Miscellaneous","Kobold Furnace",410
-53,"Interactive Furnishings","Round Garden Patch",410
-54,"Interactive Furnishings","Oblong Garden Patch",410
-55,"Interactive Furnishings","Deluxe Garden Patch",410
-56,"Interactive Furnishings","Chocobo Stable",410
-57,"Plants","Rounded Shrub",410
-58,"Plants","Lattice Planter",410
-59,"Ponds/Fountains","Water Lilies",410
-60,"Ponds/Fountains","Garden Pond",410
-61,"Miscellaneous","Cast-iron Cookpot",410
-62,"Stepping Stones/Stepladders","Stepladder",410
-63,"Stepping Stones/Stepladders","Straight Stepping Stones",410
-64,"Stepping Stones/Stepladders","Curved Stepping Stones",410
-65,"Stepping Stones/Stepladders","Straight Stepping Stumps",410
-66,"Stepping Stones/Stepladders","Curved Stepping Stumps",410
-67,"Plants","Planter Box",410
-68,"Plants","Large Planter Box",410
-69,"Lighting","Riviera Path Light",410
-70,"Lighting","Glade Path Light",410
-71,"Lighting","Oasis Path Light",410
-72,"Lighting","Glade Lamppost",410
-73,"Lighting","Oasis Lamppost",410
-74,"Ponds/Fountains","Dried Well",410
-75,"Interactive Furnishings","Oriental Striking Dummy",410
-76,"Plants","Wild Banana Tree",410
-77,"Miscellaneous","Personal Astroscope",410
-78,"Miscellaneous","Riviera Garden Table Set",410
-79,"Miscellaneous","Dodo's Nest",410
-80,"Plants","Topiary Moogle",410
-81,"Plants","Topiary Chocobo",410
-82,"Plants","Topiary Sabotender",410
-83,"Miscellaneous","Standing Signboard",410
-84,"Miscellaneous","Laundry Pole",410
-85,"Miscellaneous","Ultimate Kettle",410
-86,"Miscellaneous","Ultimate Kettle Zenith",410
-87,"Miscellaneous","Ultimate Kettle Nexus",410
-88,"Miscellaneous","Retainer Cartonnier",410
-89,"Tables","Retainer Counter",410
-90,"Ponds/Fountains","Expanse Fountain",410
-91,"Ponds/Fountains","Boundless Expanse Fountain",410
-92,"Plants","Sephirot Root",410
-93,"Plants","Sephirot Tree",410
-94,"Plants","Lupin Plot",410
-95,"Miscellaneous","Explorer's Campfire",410
-96,"Interactive Furnishings","Old World Striking Dummy",410
-97,"Plants","Sunflower Plot",410
-98,"Plants","Oriental Grass Plot",410
-99,"Plants","Dravanian Down Tree",410
-100,"Miscellaneous","Dinosaur Skull",410
-101,"Miscellaneous","Dinosaur Skeleton",410
-102,"Miscellaneous","Dinosaur Tailbone",410
-103,"Plants","Dandelion Plot",410
-104,"Miscellaneous","Living Arch",410
-105,"Ponds/Fountains","Shishi-odoshi",410
-106,"Miscellaneous","Cold Knight's Cookfire",410
-107,"Miscellaneous","Oriental Snowcave",410
-108,"Interactive Furnishings","Faust Striking Dummy",410
-109,"Lighting","Gnathic Lamp Tree",410
-110,"Chairs ","Beach Chair",410
-111,"Plants","Morning Glory Plot",410
-112,"Ponds/Fountains","Large Garden Pond",410
-113,"Miscellaneous","Oriental Wood Bridge",410
-114,"Chairs ","Oriental Deck",410
-115,"Plants","Autumnal Maple Tree",410
-116,"Plants","Autumnal Ginkgo Tree",410
-117,"Plants","Maple Leaf Pile",410
-118,"Plants","Topiary Paissa",410
-119,"Plants","Moongrass Plot",410
-120,"Plants","Ginkgo Leaf Pile",410
-121,"Miscellaneous","Firecrest Trophy",410
-122,"Miscellaneous","Glass Pumpkin Trophy",410
-123,"Plants","Eastern Pine",410
-124,"Chairs ","Eastern Teahouse Bench",410
-125,"Plants","Topiary Carbuncle",410
-126,"Miscellaneous","Moai Statue",410
-127,"Miscellaneous","Dataqi Standard",410
-128,"Interactive Furnishings","Gyr Abanian Striking Dummy",410
-129,"Plants","Hedge Partition",410
-130,"Plants","Far Eastern Willow",410
-131,"Lighting","Toro Lantern",410
-132,"Plants","Corner Hedge Partition",410
-133,"Plants","Bamboo Copse",410
-134,"Ponds/Fountains","Hingan Hot Spring",410
-135,"Chairs ","Odder Otter Bench",410
-136,"Interactive Furnishings","Dodo Message Book Stand",410
-137,"Miscellaneous","Picnic Set",410
-138,"Miscellaneous","Miniature Heaven-on-High",410
-139,"Plants","Fallen Tree",500
-140,"Plants","Simple Treehouse",410
-141,"Lighting","Odder Otter Andon Lamp",410
-142,"Miscellaneous","Namazu Effigy",410
-143,"Ponds/Fountains","Birdbath",410
-144,"Miscellaneous","Garden Gravel",410
-145,"Stepping Stones/Stepladders","Brick Garden Circle",410
-146,"Miscellaneous","Botanist's Garden",410
-147,"Miscellaneous","Big One Festival Float",410
-148,"Interactive Furnishings","Crystarium Striking Dummy",500
-149,"Lighting","Firebloom",500
-150,"Lighting","Seastone Brazier",500
-151,"Miscellaneous","BBQ Spit",410
-152,"Miscellaneous","Vegetable Garden",510
-153,"Plants","Cedar Tree",510
-154,"Stalls","Armorer's Stall",510
-155,"Stalls","Weaponsmith's Stall",510
-156,"Stalls","Jeweler's Stall",510
-157,"Stalls","Florist's Stall",510
-158,"Stalls","Baker's Stall",510
-159,"Stalls","Fruiterer's Stall",510
-160,"Stalls","Greengrocer's Stall",510
-161,"Stalls","Bookseller's Stall",510
-162,"Stalls","Enchanter's Stall",510
-163,"Stalls","Butcher's Stall",510
-164,"Miscellaneous","Wooden Deck",510
-165,"Plants","Dohn Trellis",520
-166,"Plants","Lakeland Elf Tree",520
-167,"Plants","Lakeland Flower Garden",520
-168,"Plants","Brick Garden Wall",520
-169,"Miscellaneous","Nomad's Tent",530
-170,"Miscellaneous","Red Brick Kitchen",530
-171,"Stepping Stones/Stepladders","Wooden Footbridge",530
-172,"Plants","Gulg Planter",530
-173,"Miscellaneous","Oriental Wooden Deck",530
-174,"Stalls","Toymaker's Show Window",540
-175,"Stalls","Designer's Show Window",540
-176,"Stalls","Smith's Show Window",540
-177,"Stalls","Artist's Show Window",540
-178,"Stalls","Baker's Show Window",540
-179,"Plants","Parkside Tree",540
-180,"Miscellaneous","Brick Paving",540
-181,"Plants","La Noscean Grape Pergola",540
-182,"Plants","Fruitful Fountain",540
-183,"Miscellaneous","Forging Bench",550
-184,"Miscellaneous","Garden Anvil",550
-185,"Miscellaneous","Materiel Table",550
-186,"Miscellaneous","Fête Party Balloons",550
-187,"Miscellaneous","Fête Skyrise Balloon",550
-188,"Plants","Plot of Hydrangeas",550
-189,"Miscellaneous","Glade Gazebo",550
-190,"Miscellaneous","Garden Tool Shelf",550
-191,"Plants","Eastern Wisteria",550
-192,"Ponds/Fountains","Il Mheg Garden Fountain",600
-193,"Chairs ","Hanging Bench",600
-194,"Plants","Coldbare Tree",600
-195,"Ponds/Fountains","Poroggo Lawn Ornament",600
-196,"Miscellaneous","Miniature Antique Clock Tower",600
-197,"Miscellaneous","Shirogane Pinwheel",600
-198,"Interactive Furnishings","Thavnairian Striking Dummy",600
-199,"Miscellaneous","Garlean Containers",600
-200,"Lighting","Sharlayan Lamppost",600
-201,"Miscellaneous","Thavnairian Dhow",600
-202,"Ponds/Fountains","Alpine Open-air Bath",610
-203,"Miscellaneous","Ivy-covered Bridge",610
-204,"Chairs ","Snowy Red Brick Bench",610
-205,"Miscellaneous","Raised Wooden Deck",610
-206,"Miscellaneous","Garden Gate",610
-207,"Plants","Planter Set",610
-208,"Miscellaneous","Sweet Lawn Ornaments",610
-209,"Miscellaneous","Damaged Ishgardian Wall",610
-210,"Lighting","Ishgardian Lamppost",610
-211,"Miscellaneous","Camping Tent",620
-212,"Miscellaneous","Damaged Highland Turret",620
-213,"Miscellaneous","Shoveled Snow",620
-214,"Tables","Blooming Garden Table",620
-215,"Miscellaneous","Bamboo Fence",620
-216,"Miscellaneous","Camping Furniture",620
-217,"Ponds/Fountains","Far Eastern Well",620
-218,"Lighting","Far Eastern Lamppost",620
-219,"Miscellaneous","Elpis Stone Pillar",620
-220,"Miscellaneous","Chocobo Stable Essentials",620
-221,"Plants","Low Garden Hedge",630
-222,"Miscellaneous","Orthos Display Stand",630
-223,"Ponds/Fountains","Smaller Water Otter Fountain",630
-224,"Lighting","Hannish Lamppost",630
-225,"Ponds/Fountains","Simple Fountain",630
-226,"Miscellaneous","Jinrikisha",630
-227,"Stalls","Lemonade Stand",630
-228,"Miscellaneous","Dorpokkur Kiln",630
-229,"Stepping Stones/Stepladders","Stone Garden Wall",630
-230,"Plants","Colorful Flower Patch",630
-231,"Miscellaneous","Island Garden Fence",640
-232,"Tables","Island Parasol Table",640
-233,"Chairs ","Island Wooden Chair",640
-234,"Stepping Stones/Stepladders","Railway Sleepers",640
-235,"Ponds/Fountains","Garden Creek",640
-236,"Lighting","Mushroom Medley Lamp",640
-237,"Chairs ","Country Swing Seat",640
-238,"Ponds/Fountains","Ornate Fountain",640
-239,"Plants","Smashed Flower Pot",640
-240,"Ponds/Fountains","Well Pump",640
-241,"Miscellaneous","Ivy-canopied Deck",640
-242,"Miscellaneous","Komainu Statue",640
-243,"Miscellaneous","Stone Toro Lantern",640
-244,"Miscellaneous","Planted Toro Lantern",640
-245,"Stepping Stones/Stepladders","Mobile Garden Stairs",650
-246,"Miscellaneous","Flower-wreathed Gazebo",650
-247,"Ponds/Fountains","Elpis Garden Fountain",650
-248,"Plants","Wildflower Bed",650
-249,"Miscellaneous","Imitation Magitek Repair Station (Wall Unit)",650
-250,"Miscellaneous","Imitation Magitek Repair Station (Floor Unit)",650
-251,"Lighting","Labyrinthos Grape Lamppost",650
-252,"Miscellaneous","Minute Mindflayer Sprinkler",650
-253,"Miscellaneous","South Seas Coelacanth Display",650
-254,"Miscellaneous","Sagely Sparrow Statue",650
-255,"Plants","Aloalo Island Palm",650
-256,"Plants","Aloalo Roselle Hedge",650
-257,"Plants","Il Mheg Arbor",700
-258,"Lighting","Alzadaal's Garden Lamp",700
-259,"Miscellaneous","Hingan Rock Garden",700
-260,"Ponds/Fountains","Sharlayan Reflecting Pool",700
-261,"Interactive Furnishings","Everkeep Striking Dummy",700
-262,"Miscellaneous","Stargazing Deck",700
-263,"Miscellaneous","Wooden Garden Gate",700
-264,"Plants","Yak T'el Scale Tree",700
-265,"Lighting","Neo Kingdom Lamppost",700
-266,"Miscellaneous","Far Eastern Gazebo",710
-267,"Stepping Stones/Stepladders","Square Stepping Stones",710
-268,"Miscellaneous","Electrope Turret",710
-269,"Miscellaneous","Lesser Pillar of Tural",710
-270,"Plants","Ihuykatumu Flower Plot",710
-271,"Lighting","Zormor Stone Lantern",710
-272,"Plants","Ja Ja Gural Tree",710
-273,"Plants","East End Tree",720
-274,"Miscellaneous","Gardener's Gate",720
-275,"Stepping Stones/Stepladders","Hewn Stone Circle",720
-276,"Plants","Hedge-trimmed Flower Bed",720
-277,"Ponds/Fountains","Chocobo Chick Fountain",720
-278,"Miscellaneous","Occult Epitaph",720
-279,"Lighting","Stellar Lamppost",720
-280,"Plants","La Noscean Orange Tree",730
-281,"Lighting","Yok Huy Lantern",730
-282,"Miscellaneous","Outdoor Hunter's Grill",730
-283,"Miscellaneous","Makeshift Camp",730
-284,"Miscellaneous","Pop-up Camp",730
-285,"Interactive Furnishings","Palanx Striking Dummy",730
-286,"Miscellaneous","Traverse Clocktower",730
-287,"Plants","Traverse Tree",730
-288,"Miscellaneous","Docking Station Cover",730
-289,"Chairs ","Cosmic Circumferbench",730
-290,"Chairs ","Hunter's Camp Chair",730
-291,"Miscellaneous","Imitation Battlefield",740
-292,"Plants","Frosted Topiary",740
-293,"Ponds/Fountains","Frozen Garden Pond",740
-294,"Lighting","Cosmic Safety Lamp",740
-295,"Miscellaneous","Cosmic Antenna",740
-296,"Miscellaneous","Shady Cosmoshelter",740
-297,"Plants","",0
-298,"Lighting","Mhachi Lamppost",740
+#,Item,Category,Patch
+0,6686,6,410
+1,6476,0,410
+2,6479,5,410
+3,6475,2,410
+4,6481,6,410
+5,6482,6,410
+6,6483,6,410
+7,6484,3,410
+8,6485,3,410
+9,6486,4,410
+10,6487,4,410
+11,6502,6,410
+12,6488,0,410
+13,6489,0,410
+14,6477,0,410
+15,6478,0,410
+16,6480,5,410
+17,6490,1,410
+18,6491,6,410
+19,6687,6,410
+20,6492,4,410
+21,6600,2,410
+22,6494,6,410
+23,6495,1,410
+24,6496,1,410
+25,6497,1,410
+26,6503,0,410
+27,6498,1,410
+28,6499,7,410
+29,6500,7,410
+30,6501,6,410
+31,6504,6,410
+32,6505,6,410
+33,6506,1,410
+34,6507,0,410
+35,6508,0,410
+36,6509,0,410
+37,6510,0,410
+38,6511,0,410
+39,6512,1,410
+40,7115,2,410
+41,7116,3,410
+42,7117,4,410
+43,7118,2,410
+44,7119,2,410
+45,7120,2,410
+46,7121,2,410
+47,7122,1,410
+48,7123,6,410
+49,7124,6,410
+50,7125,6,410
+51,7126,6,410
+52,7127,6,410
+53,7128,2,410
+54,7129,2,410
+55,7130,2,410
+56,7989,2,410
+57,7992,0,410
+58,7993,0,410
+59,7994,7,410
+60,7995,7,410
+61,7996,6,410
+62,7997,5,410
+63,7998,5,410
+64,7999,5,410
+65,8000,5,410
+66,8001,5,410
+67,8002,0,410
+68,8816,0,410
+69,8817,1,410
+70,8818,1,410
+71,8819,1,410
+72,8820,1,410
+73,8821,1,410
+74,9739,7,410
+75,9740,2,410
+76,9744,0,410
+77,9745,6,410
+78,9746,6,410
+79,9747,6,410
+80,12113,0,410
+81,13084,0,410
+82,14061,0,410
+83,12114,6,410
+84,12115,6,410
+85,13085,6,410
+86,13086,6,410
+87,13087,6,410
+88,9748,6,410
+89,9749,3,410
+90,12111,7,410
+91,12112,7,410
+92,13088,0,410
+93,13089,0,410
+94,12234,0,410
+95,12235,6,410
+96,12670,2,410
+97,12671,0,410
+98,13090,0,410
+99,13091,0,410
+100,14058,6,410
+101,14059,6,410
+102,14060,6,410
+103,14063,0,410
+104,14064,6,410
+105,14065,7,410
+106,13354,6,410
+107,13355,6,410
+108,14066,2,410
+109,14067,1,410
+110,15157,4,410
+111,15158,0,410
+112,15159,7,410
+113,15160,6,410
+114,15161,4,410
+115,15981,0,410
+116,15982,0,410
+117,15983,0,410
+118,17030,0,410
+119,17031,0,410
+120,15984,0,410
+121,15986,6,410
+122,15987,6,410
+123,17982,0,410
+124,17983,4,410
+125,17984,0,410
+126,17985,6,410
+127,17986,6,410
+128,17987,2,410
+129,22440,0,410
+130,20772,0,410
+131,20773,1,410
+132,21864,0,410
+133,21865,0,410
+134,21866,7,410
+135,22579,4,410
+136,22520,2,410
+137,22580,6,410
+138,22581,6,410
+139,27314,0,500
+140,24535,0,410
+141,22582,1,410
+142,22584,6,410
+143,23897,7,410
+144,23898,6,410
+145,23899,5,410
+146,24536,6,410
+147,24537,6,410
+148,27315,2,500
+149,27316,1,500
+150,27317,1,500
+151,22583,6,410
+152,28160,6,510
+153,28161,0,510
+154,28162,8,510
+155,28163,8,510
+156,28164,8,510
+157,28165,8,510
+158,28166,8,510
+159,28167,8,510
+160,28168,8,510
+161,28169,8,510
+162,28170,8,510
+163,28171,8,510
+164,28642,6,510
+165,28998,0,520
+166,28999,0,520
+167,29000,0,520
+168,29687,0,520
+169,30388,6,530
+170,30396,6,530
+171,30408,5,530
+172,30409,0,530
+173,30421,6,530
+174,32242,8,540
+175,32243,8,540
+176,32244,8,540
+177,32245,8,540
+178,32246,8,540
+179,32248,0,540
+180,32249,6,540
+181,32250,0,540
+182,32251,0,540
+183,33299,6,550
+184,33300,6,550
+185,33301,6,550
+186,33302,6,550
+187,33303,6,550
+188,33294,0,550
+189,33295,6,550
+190,33296,6,550
+191,33297,0,550
+192,35582,7,600
+193,35583,4,600
+194,35584,0,600
+195,35585,7,600
+196,35586,6,600
+197,35587,6,600
+198,35804,2,600
+199,35805,6,600
+200,35806,1,600
+201,35807,6,600
+202,37397,7,610
+203,37398,6,610
+204,37399,4,610
+205,37400,6,610
+206,37401,6,610
+207,37402,0,610
+208,37403,6,610
+209,37404,6,610
+210,37405,1,610
+211,38618,6,620
+212,38619,6,620
+213,38620,6,620
+214,38621,3,620
+215,38622,6,620
+216,38623,6,620
+217,38625,7,620
+218,38626,1,620
+219,38627,6,620
+220,38628,6,620
+221,39419,0,630
+222,39420,6,630
+223,39421,7,630
+224,39422,1,630
+225,39423,7,630
+226,39424,6,630
+227,39425,8,630
+228,39426,6,630
+229,39427,5,630
+230,39428,0,630
+231,40671,6,640
+232,40672,3,640
+233,40673,4,640
+234,40674,5,640
+235,40675,7,640
+236,40676,1,640
+237,40678,4,640
+238,40679,7,640
+239,40680,0,640
+240,40681,7,640
+241,40682,6,640
+242,40683,6,640
+243,40684,6,640
+244,40685,6,640
+245,41138,5,650
+246,41139,6,650
+247,41141,7,650
+248,41142,0,650
+249,41144,6,650
+250,41429,6,650
+251,41145,1,650
+252,41427,6,650
+253,41433,6,650
+254,41434,6,650
+255,41435,0,650
+256,41436,0,650
+257,41137,0,700
+258,41140,1,700
+259,41146,6,700
+260,41147,7,700
+261,41831,2,700
+262,41832,6,700
+263,41833,6,700
+264,44121,0,700
+265,44122,1,700
+266,44928,6,710
+267,44929,5,710
+268,44930,6,710
+269,44931,6,710
+270,44932,0,710
+271,44933,1,710
+272,44934,0,710
+273,48100,0,720
+274,48101,6,720
+275,48102,5,720
+276,48103,0,720
+277,48104,7,720
+278,48105,6,720
+279,48735,1,720
+280,46120,0,730
+281,46134,1,730
+282,46161,6,730
+283,46165,6,730
+284,46166,6,730
+285,46167,2,730
+286,46169,6,730
+287,46170,0,730
+288,46176,6,730
+289,46177,4,730
+290,47476,4,730
+291,46121,6,740
+292,46122,0,740
+293,46123,7,740
+294,49870,1,740
+295,49871,6,740
+296,49872,6,740
+297,50422,6,740
+298,50425,1,740
+299,51269,1,750
+300,0,0,0
+301,51271,6,750
+302,0,0,0
+303,0,0,0
+304,0,0,0
+305,0,0,0

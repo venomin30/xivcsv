@@ -1,67 +1,65 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11
-#,GatheringLevel,IsShadowNode,TerritoryType,X,Y,Radius,,PlaceName,,GatheringPointBase,,
-int32,byte,bit&01,TerritoryType,int16,int16,uint16,byte,PlaceName,byte,GatheringPointBase,uint16,uint16
-0,65,False,"e3f1",1578,1434,800,2,"Ruby Price Depths",0,"GatheringPointBase#464",0,0
-1,65,False,"e3f1",1344,516,600,2,"Tamamizu",1,"GatheringPointBase#465",0,0
-2,65,False,"e3f1",828,964,600,2,"Sui–no–Sato",2,"GatheringPointBase#466",0,0
-3,65,False,"e3f1",768,1180,600,2,"The <Emphasis>Adventure</Emphasis>",3,"GatheringPointBase#467",0,0
-4,65,False,"e3f1",192,1802,600,2,"Shisui of the Violet Tides",4,"GatheringPointBase#468",0,0
-5,70,False,"e3f1",1892,264,600,2,"The <Emphasis>Kobayashi Maru</Emphasis>",5,"GatheringPointBase#472",0,0
-6,65,False,"e3f2",704,1824,600,2,"The One River Southwestern Riverbeds",6,"GatheringPointBase#469",0,0
-7,65,False,"e3f2",1022,1782,600,2,"The One River Southern Riverbeds",7,"GatheringPointBase#470",0,0
-8,65,False,"e3f2",1688,1776,600,2,"Imperial Hypersonic Assault Craft L-XXIII",8,"GatheringPointBase#471",0,0
-9,70,False,"e3f2",444,1660,600,2,"The Sunken Junk",9,"GatheringPointBase#473",0,0
-10,70,False,"e3f2",496,484,600,2,"The Dragon's Struggle",10,"GatheringPointBase#474",0,0
-11,70,False,"e3f3",900,1100,600,2,"Azim Khaat Western Lakebed",11,"GatheringPointBase#475",0,0
-12,70,False,"e3f3",1100,1100,600,4,"Azim Khaat Eastern Lakebed",12,"GatheringPointBase#476",0,0
-13,70,False,"g3f3",644,880,600,2,"Loch Seld Northwestern Lakebed",13,"GatheringPointBase#477",0,0
-14,70,False,"g3f3",1115,1190,850,2,"Loch Seld Central Lakebed",14,"GatheringPointBase#478",0,0
-15,70,False,"g3f3",1180,1350,600,2,"Loch Seld Southeastern Lakebed",15,"GatheringPointBase#479",0,0
-16,70,False,"n4f1",656,1506,800,2,"Northeast Source",16,"GatheringPointBase#635",0,0
-17,75,False,"n4f1",324,1562,800,2,"The Isle of Ken",17,"GatheringPointBase#636",0,0
-18,75,False,"n4f1",646,1824,800,4,"Southeast Source",18,"GatheringPointBase#637",0,0
-19,75,False,"n4f4",968,620,600,2,"North Lyhe Ghiah",19,"GatheringPointBase#638",0,0
-20,75,False,"n4f4",934,1046,800,2,"Deepwood Swim",20,"GatheringPointBase#639",0,0
-21,80,False,"n4f4",1224,1224,800,2,"Central Longmirror Lake",21,"GatheringPointBase#640",0,0
-22,80,False,"n4f4",1456,1404,800,2,"Thysm Lran",22,"GatheringPointBase#641",0,0
-23,80,False,"n4f4",1412,1784,800,2,"South Longmirror Lake",23,"GatheringPointBase#642",0,0
-24,80,False,"n4f5",216,1234,800,2,"North Lake Tusi Mek'ta",24,"GatheringPointBase#643",0,0
-25,80,False,"n4f5",424,1444,800,2,"The Covered Halls of Dwatl",25,"GatheringPointBase#644",0,0
-26,70,False,"n4f5",265,1335,300,2,"Central Lake Tusi Mek'ta",26,"GatheringPointBase#696",0,0
-27,70,False,"n4f5",185,1465,300,4,"South Lake Tusi Mek'ta",27,"GatheringPointBase#697",0,0
-28,70,True,"e3f1",1961,433,300,2,"The Eastern Ruby Sea",28,"GatheringPointBase#480",0,0
-29,70,True,"e3f1",1911,89,300,2,"<Emphasis>Kobayashi Maru</Emphasis>'s Northern Wake",29,"GatheringPointBase#530",0,0
-30,70,True,"e3f2",501,1839,300,2,"The Sunken Junk's South Side",30,"GatheringPointBase#481",0,0
-31,70,True,"e3f3",1034,1211,225,4,"Azim Khaat Southern Lakebed",31,"GatheringPointBase#482",0,0
-32,70,True,"g3f3",1056,1194,225,1,"Loch Seld Deep Lakebed",32,"GatheringPointBase#483",0,0
-33,75,True,"n4f1",560,1757,300,2,"Eastern Isle of Ken",33,"GatheringPointBase#645",0,0
-34,80,True,"n4f4",1450,1183,300,2,"East Longmirror Lake",34,"GatheringPointBase#646",0,0
-35,80,True,"n4f5",234,1403,300,2,"Deep Lake Tusi Mek'ta",35,"GatheringPointBase#647",0,0
-36,85,False,"m5f1",694,1792,750,2,"Southern Akyaali",36,"GatheringPointBase#889",0,0
-37,85,False,"e3f1",1361,125,750,2,"Northern Onokoro",37,"GatheringPointBase#890",0,0
-38,85,False,"e3f1",500,644,600,2,"Isari Slope",38,"GatheringPointBase#891",0,0
-39,85,False,"e3f1",1361,1015,900,2,"Exile",39,"GatheringPointBase#892",0,0
-40,90,False,"m5f1",367,1639,750,2,"Western Akyaali",40,"GatheringPointBase#893",0,0
-41,90,False,"m5f1",183,1389,750,2,"Southern Great Runoff",41,"GatheringPointBase#894",0,0
-42,90,False,"m5f1",1165,1188,600,2,"The Font of Maya",42,"GatheringPointBase#895",0,0
-43,90,False,"e3f1",1812,563,750,2,"Northeastern Bekko",43,"GatheringPointBase#896",0,0
-44,90,False,"e3f1",1937,1532,900,2,"Eastern Barrier Isle",44,"GatheringPointBase#897",0,0
-45,90,False,"g3f3",1099,844,750,2,"Loch Seld Northeastern Lakebed",45,"GatheringPointBase#898",0,0
-46,85,True,"e3f1",1119,115,300,2,"Northwestern Onokoro",46,"GatheringPointBase#899",0,0
-47,90,True,"m5f1",292,1764,300,2,"Outer Akyaali",47,"GatheringPointBase#900",0,0
-48,85,False,"g3f3",975,1398,600,2,"Loch Seld Southwestern Lakebed",48,"GatheringPointBase#903",0,0
-49,85,False,"e3f1",1136,1319,600,2,"The Anemone Gardens",49,"GatheringPointBase#904",0,0
-50,85,False,"n4f1",264,1807,800,2,"Southwestern Isle of Ken",50,"GatheringPointBase#915",0,0
-51,85,False,"n4f4",728,803,600,2,"The House of the First Light",51,"GatheringPointBase#916",0,0
-52,90,False,"s1f5",1185,1023,600,2,"Northeast Bronze Lake Depths",52,"GatheringPointBase#917",0,0
-53,85,False,"e3f1",910,620,600,2,"Saibai Cavern",53,"GatheringPointBase#942",0,0
-54,90,False,"s1f5",900,1025,600,4,"Northwest Bronze Lake Depths",54,"GatheringPointBase#943",0,0
-55,95,False,"y6f1",264,967,800,4,"Karvarhur the First",55,"GatheringPointBase#1005",0,0
-56,95,False,"y6f2",1338,1469,600,2,"Eastern Marsh Ligaka",56,"GatheringPointBase#1006",0,0
-57,95,False,"y6f2",1010,1616,600,4,"Western Marsh Ligaka",57,"GatheringPointBase#1007",0,0
-58,95,False,"y6f3",214,332,600,4,"Xd'aa Talat Tsoly",58,"GatheringPointBase#1008",0,0
-59,100,False,"y6f3",1385,190,600,2,"Western Iq Rrax Tsoly",59,"GatheringPointBase#1009",0,0
-60,100,False,"y6f3",1683,332,600,4,"Eastern Iq Rrax Tsoly",60,"GatheringPointBase#1010",0,0
-61,100,False,"x6f1",1528,508,600,2,"Northern Lake Toari",61,"GatheringPointBase#1011",0,0
-62,95,True,"y6f2",1209,1514,225,1,"Marsh Ligaka Depths",62,"GatheringPointBase#1012",0,0
-63,100,True,"y6f3",1522,303,300,1,"Iq Rrax Tsoly Depths",63,"GatheringPointBase#1013",0,0
+#,TerritoryType,Radius,PlaceName,GatheringPointBase,Unknown0,Unknown1,X,Y,GatheringLevel,Unknown2,Unknown3,IsShadowNode
+0,613,800,2511,464,0,0,1578,1434,65,2,0,False
+1,613,600,2512,465,0,0,1344,516,65,2,1,False
+2,613,600,2513,466,0,0,828,964,65,2,2,False
+3,613,600,2514,467,0,0,768,1180,65,2,3,False
+4,613,600,2515,468,0,0,192,1802,65,2,4,False
+5,613,600,2516,472,0,0,1892,264,70,2,5,False
+6,614,600,2517,469,0,0,704,1824,65,2,6,False
+7,614,600,2518,470,0,0,1022,1782,65,2,7,False
+8,614,600,2519,471,0,0,1688,1776,65,2,8,False
+9,614,600,2520,473,0,0,444,1660,70,2,9,False
+10,614,600,2521,474,0,0,496,484,70,2,10,False
+11,622,600,2522,475,0,0,900,1100,70,2,11,False
+12,622,600,2523,476,0,0,1100,1100,70,4,12,False
+13,621,600,2524,477,0,0,644,880,70,2,13,False
+14,621,850,2525,478,0,0,1115,1190,70,2,14,False
+15,621,600,2526,479,0,0,1180,1350,70,2,15,False
+16,813,800,3341,635,0,0,656,1506,70,2,16,False
+17,813,800,3342,636,0,0,324,1562,75,2,17,False
+18,813,800,3343,637,0,0,646,1824,75,4,18,False
+19,816,600,3344,638,0,0,968,620,75,2,19,False
+20,816,800,3345,639,0,0,934,1046,75,2,20,False
+21,816,800,3346,640,0,0,1224,1224,80,2,21,False
+22,816,800,3347,641,0,0,1456,1404,80,2,22,False
+23,816,800,3348,642,0,0,1412,1784,80,2,23,False
+24,817,800,3349,643,0,0,216,1234,80,2,24,False
+25,817,800,3350,644,0,0,424,1444,80,2,25,False
+26,817,300,3456,696,0,0,265,1335,70,2,26,False
+27,817,300,3457,697,0,0,185,1465,70,4,27,False
+28,613,300,3627,480,0,0,1961,433,70,2,28,True
+29,613,300,3628,530,0,0,1911,89,70,2,29,True
+30,614,300,3629,481,0,0,501,1839,70,2,30,True
+31,622,225,3630,482,0,0,1034,1211,70,4,31,True
+32,621,225,3631,483,0,0,1056,1194,70,1,32,True
+33,813,300,3632,645,0,0,560,1757,75,2,33,True
+34,816,300,3633,646,0,0,1450,1183,80,2,34,True
+35,817,300,3634,647,0,0,234,1403,80,2,35,True
+36,957,750,3746,889,0,0,694,1792,85,2,36,False
+37,613,750,3751,890,0,0,1361,125,85,2,37,False
+38,613,600,3752,891,0,0,500,644,85,2,38,False
+39,613,900,3753,892,0,0,1361,1015,85,2,39,False
+40,957,750,3747,893,0,0,367,1639,90,2,40,False
+41,957,750,3748,894,0,0,183,1389,90,2,41,False
+42,957,600,3749,895,0,0,1165,1188,90,2,42,False
+43,613,750,3754,896,0,0,1812,563,90,2,43,False
+44,613,900,3755,897,0,0,1937,1532,90,2,44,False
+45,621,750,3758,898,0,0,1099,844,90,2,45,False
+46,613,300,3756,899,0,0,1119,115,85,2,46,True
+47,957,300,3750,900,0,0,292,1764,90,2,47,True
+48,621,600,4179,903,0,0,975,1398,85,2,48,False
+49,613,600,3757,904,0,0,1136,1319,85,2,49,False
+50,813,800,4281,915,0,0,264,1807,85,2,50,False
+51,816,600,4282,916,0,0,728,803,85,2,51,False
+52,139,600,4283,917,0,0,1185,1023,90,2,52,False
+53,613,600,4429,942,0,0,910,620,85,2,53,False
+54,139,600,4430,943,0,0,900,1025,90,4,54,False
+55,1187,800,5077,1005,0,0,264,967,95,4,55,False
+56,1188,600,5078,1006,0,0,1338,1469,95,2,56,False
+57,1188,600,5079,1007,0,0,1010,1616,95,4,57,False
+58,1189,600,5081,1008,0,0,214,332,95,4,58,False
+59,1189,600,5082,1009,0,0,1385,190,100,2,59,False
+60,1189,600,5083,1010,0,0,1683,332,100,4,60,False
+61,1190,600,5085,1011,0,0,1528,508,100,2,61,False
+62,1188,225,5080,1012,0,0,1209,1514,95,1,62,True
+63,1189,300,5084,1013,0,0,1522,303,100,1,63,True

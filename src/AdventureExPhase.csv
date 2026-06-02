@@ -1,8 +1,6 @@
-﻿key,0,1,2,3,4
-#,Quest,Adventure{Begin},Adventure{End},Expansion,
-int32,Quest,Adventure,Adventure,ExVersion,uint32
-0,"Sights of Crimson and Dawn","Castellum Velodyna","Moai Statue","Stormblood",346
-1,"Sights of the First","The Rotunda","Amaurot","Shadowbringers",725
-2,"Sights of the End","The Leveilleur Estate","Ostrakon Hena","Endwalker",1069
-3,"Sights of the West","Bayside Bevy","Mount Loazensasaya","Dawntrail",1294
-4,"Sights of the West and Beyond","Resolution","Steps of the Speaker","Dawntrail",1294
+#,Quest,AdventureBegin,AdventureEnd,AllVistasCompletedScreenImage,Expansion
+0,68456,2162830,2162891,346,2
+1,69140,2162892,2162936,725,3
+2,69710,2162937,2162982,1069,4
+3,70542,2162983,2163010,1294,5
+4,70543,2163011,2163027,1294,5

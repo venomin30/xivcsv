@@ -1,11 +1,9 @@
-﻿key,0,1
 #,Requirement,DenyMessage
-int32,Row,LogMessage
-0,"None",""
-1,"Maelstrom","Unable to perform action. Incorrect Grand Company allegiance."
-2,"Order of the Twin Adder","Unable to perform action. Incorrect Grand Company allegiance."
-3,"Immortal Flames","Unable to perform action. Incorrect Grand Company allegiance."
-4,"Towards the Firmament","Unable to use. Requirements not met."
-5,"None",""
-6,"None",""
-7,"None",""
+0,0,0
+1,1,3964
+2,2,3964
+3,3,3964
+4,69208,1677
+5,0,0
+6,0,0
+7,0,0

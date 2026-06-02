@@ -1,101 +1,103 @@
-﻿key,0,1,2,3,4,5,6,7
-#,StartEmote,EndEmote,Move,Camera,EndOnRotate,EndOnEmote,ConditionMode,
-int32,Emote,Emote,bit&01,bit&02,bit&04,bit&08,byte,bit&10
-0,"","",True,True,False,False,0,False
-1,"Sit on Ground","Stand Up",False,True,True,False,11,False
-2,"Sit","Stand Up",False,True,True,True,11,False
-3,"Sleep","",False,True,True,True,11,False
-4,"Step Dance","",True,False,False,False,3,False
-5,"Harvest Dance","",True,False,False,False,3,False
-6,"Ball Dance","",True,False,False,False,3,False
-7,"Manderville Dance","",True,False,False,False,3,False
-8,"Bomb Dance","",True,True,False,False,3,False
-9,"Most Gentlemanly","",True,False,False,False,3,True
-10,"Thavnairian Dance","",True,True,False,False,3,False
-11,"Gold Dance","",True,True,False,False,3,False
-12,"Sundrop Dance","",True,False,False,False,3,False
-13,"Moogle Dance","",True,True,False,False,3,False
-14,"Eastern Dance","",True,True,False,False,3,False
-15,"Red Ranger Pose A","",True,False,False,False,3,True
-16,"Black Ranger Pose A","",True,False,False,False,3,True
-17,"Yellow Ranger Pose A","",True,False,False,False,3,True
-18,"Red Ranger Pose B","",True,False,False,False,3,True
-19,"Black Ranger Pose B","",True,False,False,False,3,True
-20,"Yellow Ranger Pose B","",True,False,False,False,3,True
-21,"Play Dead","",True,True,False,False,3,True
-22,"Moonlift Dance","",True,False,False,False,3,False
-23,"Songbird","",True,False,False,False,3,False
-24,"Water Float","",True,False,False,False,3,False
-25,"Squats","",True,False,False,False,3,False
-26,"Push-ups","",True,True,False,False,3,False
-27,"Sit-ups","",True,True,False,False,3,False
-28,"Breath Control","",True,False,False,False,3,False
-29,"Attention","",True,False,False,False,3,False
-30,"At Ease","",True,False,False,False,3,False
-31,"Box","",True,False,False,False,3,False
-32,"Ritual Prayer","",True,False,False,False,3,False
-33,"Charmed","",True,False,False,False,3,False
-34,"Cheer On: Blue","",True,False,False,False,3,False
-35,"Cheer Wave: Yellow","",True,False,False,False,3,False
-36,"Cheer Jump: Red","",True,False,False,False,3,False
-37,"Tremble","",True,False,False,False,3,False
-38,"Winded","",True,False,False,False,3,False
-39,"Box Step","",True,False,False,False,3,False
-40,"Side Step","",True,False,False,False,3,False
-41,"Yol Dance","",True,False,False,False,3,False
-42,"Sweat","",True,False,False,False,3,False
-43,"Shiver","",True,False,False,False,3,False
-44,"Get Fantasy","",True,False,False,False,3,False
-45,"Popoto Step","",True,False,False,False,3,False
-46,"Hum","",True,False,False,False,3,False
-47,"Confirm","",True,False,False,False,3,False
-48,"Scheme","",True,False,False,False,3,False
-49,"Heel Toe","",True,False,False,False,3,False
-50,"Goobbue Do","",True,False,False,False,3,False
-51,"Reprimand","",True,False,False,False,3,False
-52,"Manderville Mambo","",True,True,False,False,3,False
-53,"Simulation M","",True,False,False,False,3,True
-54,"Simulation F","",True,False,False,False,3,True
-55,"Lean","",True,False,False,False,3,False
-56,"Wasshoi","",True,False,False,False,3,False
-57,"Flame Dance","",True,True,False,False,3,False
-58,"Guard","",True,False,False,False,3,False
-59,"Malevolence","",True,False,False,False,3,False
-60,"Bee's Knees","",True,False,False,False,3,False
-61,"Lali Hop","",True,False,False,False,3,False
-62,"Wring Hands","",True,False,False,False,3,False
-63,"Sweep Up","",True,False,False,False,3,False
-64,"Show Right","",True,False,False,False,3,False
-65,"Show Left","",True,False,False,False,3,False
-66,"Spirit","",True,False,False,False,3,False
-67,"Cheer On: Bright","",True,False,False,False,3,False
-68,"Cheer Wave: Violet","",True,False,False,False,3,False
-69,"Cheer Jump: Green","",True,False,False,False,3,False
-70,"Lop Hop","",True,False,False,False,3,False
-71,"Slump","",True,False,False,False,3,False
-72,"Love Heart","",True,False,False,False,3,True
-73,"Sundering","",True,False,False,False,3,True
-74,"Attend","",True,False,False,False,3,False
-75,"Water","",True,False,False,False,3,False
-76,"Shake Drink","",True,False,False,False,3,False
-77,"Bouquet","",True,False,False,False,3,False
-78,"","",True,False,False,False,3,False
-79,"Dazed","",True,False,False,False,3,False
-80,"Rage","",True,False,False,False,3,False
-81,"Tomescroll","",True,False,False,False,3,False
-82,"Study","",True,False,False,False,3,False
-83,"Gridanian Gulp","",True,False,False,False,3,False
-84,"Ul'dahn Gulp","",True,False,False,False,3,False
-85,"Lominsan Gulp","",True,False,False,False,3,False
-86,"Savor Tea","",True,False,False,False,3,False
-87,"Pen","",True,False,False,False,3,False
-88,"Cheer Rhythm: Red","",True,False,False,False,3,False
-89,"Cheer Light: Yellow","",True,False,False,False,3,False
-90,"","",True,False,False,False,3,False
-91,"","",True,False,False,False,3,False
-92,"","",True,False,False,False,3,False
-93,"Carry Book","",True,False,False,False,3,False
-94,"Cheer Rhythm: Violet","",True,False,False,False,3,False
-95,"Cheer Rhythm: Bright","",True,False,False,False,3,False
-96,"Cheer Light: Blue","",True,False,False,False,3,False
-97,"Cheer Light: Green","",True,False,False,False,3,False
+#,StartEmote,EndEmote,ConditionMode,Move,Camera,EndOnRotate,EndOnEmote,Unknown0
+0,0,0,0,True,True,False,False,False
+1,52,53,11,False,True,True,False,False
+2,50,51,11,False,True,True,True,False
+3,88,89,11,False,True,True,True,False
+4,101,0,3,True,False,False,False,False
+5,102,0,3,True,False,False,False,False
+6,103,0,3,True,False,False,False,False
+7,104,0,3,True,False,False,False,False
+8,109,0,3,True,True,False,False,False
+9,114,0,3,True,False,False,False,True
+10,118,0,3,True,True,False,False,False
+11,119,0,3,True,True,False,False,False
+12,120,0,3,True,False,False,False,False
+13,126,0,3,True,True,False,False,False
+14,129,0,3,True,True,False,False,False
+15,130,0,3,True,False,False,False,True
+16,131,0,3,True,False,False,False,True
+17,132,0,3,True,False,False,False,True
+18,134,0,3,True,False,False,False,True
+19,135,0,3,True,False,False,False,True
+20,136,0,3,True,False,False,False,True
+21,143,0,3,True,True,False,False,True
+22,145,0,3,True,False,False,False,False
+23,149,0,3,True,False,False,False,False
+24,150,0,3,True,False,False,False,False
+25,155,0,3,True,False,False,False,False
+26,156,0,3,True,True,False,False,False
+27,157,0,3,True,True,False,False,False
+28,158,0,3,True,False,False,False,False
+29,164,0,3,True,False,False,False,False
+30,165,0,3,True,False,False,False,False
+31,166,0,3,True,False,False,False,False
+32,167,0,3,True,False,False,False,False
+33,64,0,3,True,False,False,False,False
+34,65,0,3,True,False,False,False,False
+35,66,0,3,True,False,False,False,False
+36,67,0,3,True,False,False,False,False
+37,169,0,3,True,False,False,False,False
+38,170,0,3,True,False,False,False,False
+39,173,0,3,True,False,False,False,False
+40,174,0,3,True,False,False,False,False
+41,176,0,3,True,False,False,False,False
+42,180,0,3,True,False,False,False,False
+43,181,0,3,True,False,False,False,False
+44,185,0,3,True,False,False,False,False
+45,186,0,3,True,False,False,False,False
+46,187,0,3,True,False,False,False,False
+47,188,0,3,True,False,False,False,False
+48,189,0,3,True,False,False,False,False
+49,192,0,3,True,False,False,False,False
+50,193,0,3,True,False,False,False,False
+51,196,0,3,True,False,False,False,False
+52,198,0,3,True,True,False,False,False
+53,200,0,3,True,False,False,False,True
+54,201,0,3,True,False,False,False,True
+55,203,0,3,True,False,False,False,False
+56,210,0,3,True,False,False,False,False
+57,212,0,3,True,True,False,False,False
+58,214,0,3,True,False,False,False,False
+59,215,0,3,True,False,False,False,False
+60,216,0,3,True,False,False,False,False
+61,217,0,3,True,False,False,False,False
+62,222,0,3,True,False,False,False,False
+63,223,0,3,True,False,False,False,False
+64,241,0,3,True,False,False,False,False
+65,242,0,3,True,False,False,False,False
+66,248,0,3,True,False,False,False,False
+67,264,0,3,True,False,False,False,False
+68,265,0,3,True,False,False,False,False
+69,266,0,3,True,False,False,False,False
+70,269,0,3,True,False,False,False,False
+71,273,0,3,True,False,False,False,False
+72,274,0,3,True,False,False,False,True
+73,272,0,3,True,False,False,False,True
+74,279,0,3,True,False,False,False,False
+75,280,0,3,True,False,False,False,False
+76,281,0,3,True,False,False,False,False
+77,283,0,3,True,False,False,False,False
+78,287,0,3,True,False,False,False,False
+79,293,0,3,True,False,False,False,False
+80,294,0,3,True,False,False,False,False
+81,295,0,3,True,False,False,False,False
+82,296,0,3,True,False,False,False,False
+83,301,0,3,True,False,False,False,False
+84,302,0,3,True,False,False,False,False
+85,303,0,3,True,False,False,False,False
+86,306,0,3,True,False,False,False,False
+87,307,0,3,True,False,False,False,False
+88,310,0,3,True,False,False,False,False
+89,311,0,3,True,False,False,False,False
+90,314,0,3,True,False,False,False,False
+91,315,0,3,True,False,False,False,False
+92,316,0,3,True,False,False,False,False
+93,317,0,3,True,False,False,False,False
+94,321,0,3,True,False,False,False,False
+95,322,0,3,True,False,False,False,False
+96,323,0,3,True,False,False,False,False
+97,324,0,3,True,False,False,False,False
+98,328,0,3,True,False,False,False,False
+99,329,0,3,True,False,False,False,False
+100,331,0,3,True,False,False,False,False
+101,332,0,3,True,False,False,False,True

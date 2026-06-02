@@ -1,15 +1,13 @@
-﻿key,0,1,2,3,4,5
-#,Item{Animus},Item{Scroll},MateriaLimit,Item{Novus},Icon,
-int32,Item,Item,byte,Item,Image,sbyte
-0,"","",0,"",,0
-1,"Curtana Animus","Sphere Scroll: Curtana",53,"Curtana Novus","ui/icon/080000/080152.tex",1
-2,"Sphairai Animus","Sphere Scroll: Sphairai",75,"Sphairai Novus","ui/icon/080000/080153.tex",0
-3,"Bravura Animus","Sphere Scroll: Bravura",75,"Bravura Novus","ui/icon/080000/080154.tex",0
-4,"Gae Bolg Animus","Sphere Scroll: Gae Bolg",75,"Gae Bolg Novus","ui/icon/080000/080155.tex",0
-5,"Artemis Bow Animus","Sphere Scroll: Artemis Bow",75,"Artemis Bow Novus","ui/icon/080000/080156.tex",0
-6,"Thyrus Animus","Sphere Scroll: Thyrus",75,"Thyrus Novus","ui/icon/080000/080157.tex",0
-7,"Stardust Rod Animus","Sphere Scroll: Stardust Rod",75,"Stardust Rod Novus","ui/icon/080000/080158.tex",0
-8,"The Veil of Wiyu Animus","Sphere Scroll: The Veil of Wiyu",75,"The Veil of Wiyu Novus","ui/icon/080000/080159.tex",0
-9,"Omnilex Animus","Sphere Scroll: Omnilex",75,"Omnilex Novus","ui/icon/080000/080160.tex",0
-10,"Holy Shield Animus","Sphere Scroll: Holy Shield",22,"Holy Shield Novus","ui/icon/080000/080151.tex",2
-11,"Yoshimitsu Animus","Sphere Scroll: Yoshimitsu",75,"Yoshimitsu Novus","ui/icon/080000/080161.tex",0
+#,ItemAnimus,ItemScroll,ItemNovus,Icon,MateriaLimit,Unknown0
+0,0,0,0,0,0,0
+1,7834,7873,7863,80152,53,1
+2,7835,7874,7864,80153,75,0
+3,7836,7875,7865,80154,75,0
+4,7837,7876,7866,80155,75,0
+5,7838,7877,7867,80156,75,0
+6,7839,7878,7868,80157,75,0
+7,7840,7879,7869,80158,75,0
+8,7841,7880,7870,80159,75,0
+9,7842,7881,7871,80160,75,0
+10,7843,7882,7872,80151,22,2
+11,9252,9255,9253,80161,75,0

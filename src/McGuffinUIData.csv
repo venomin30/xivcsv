@@ -1,11 +1,9 @@
-﻿key,0,1,2
-#,Order,Icon,Name
-int32,uint16,Image,str
-0,0,,""
-1,5,"ui/icon/026000/026595.tex","Portable Archive"
-2,3,"ui/icon/026000/026995.tex","Yo-kai Medallium"
-3,6,"ui/icon/026000/026602.tex","Field Record"
-4,4,"ui/icon/025000/025948.tex","Aether Compass"
-5,1,"ui/icon/026000/026066.tex","Unending Codex"
-6,2,"ui/icon/026000/026067.tex","Mogpendium"
-7,7,"ui/icon/026000/026075.tex","Occult Record"
+#,Name,Icon,Order
+0,,0,0
+1,Portable Archive,26595,5
+2,Yo-kai Medallium,26995,3
+3,Field Record,26602,6
+4,Aether Compass,25948,4
+5,Unending Codex,26066,1
+6,Mogpendium,26067,2
+7,Occult Record,26075,7

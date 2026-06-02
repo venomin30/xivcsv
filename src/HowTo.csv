@@ -1,299 +1,305 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
-#,Name,Announce,HowToPagePC[0],HowToPagePC[1],HowToPagePC[2],HowToPagePC[3],HowToPagePC[4],HowToPageController[0],HowToPageController[1],HowToPageController[2],HowToPageController[3],HowToPageController[4],Category,Sort
-int32,str,bit&01,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToPage,HowToCategory,byte
-0,"",False,"","","","","","","","","","","None",0
-1,"Basic Controls",False,"ui/icon/150000/en/150011.tex","","","","","ui/icon/150000/en/150012.tex","","","","","Adventuring Basics",1
-2,"Initiating Quests",True,"ui/icon/150000/en/150021.tex","","","","","ui/icon/150000/en/150022.tex","","","","","Quests",1
-3,"Duty List",False,"ui/icon/150000/en/150031.tex","ui/icon/150000/en/150032.tex","","","","ui/icon/150000/en/150031.tex","ui/icon/150000/en/150032.tex","","","","Quests",3
-4,"Navigation",True,"ui/icon/150000/en/150041.tex","ui/icon/150000/en/150042.tex","","","","ui/icon/150000/en/150041.tex","ui/icon/150000/en/150042.tex","","","","Quests",4
-5,"Key Items",True,"ui/icon/150000/en/150051.tex","","","","","ui/icon/150000/en/150051.tex","","","","","Quests",11
-6,"Interacting",True,"ui/icon/150000/en/150061.tex","","","","","ui/icon/150000/en/150061.tex","","","","","Quests",12
-7,"Battle",True,"ui/icon/150000/en/150931.tex","ui/icon/150000/en/150082.tex","ui/icon/150000/en/150083.tex","ui/icon/150000/en/150084.tex","","ui/icon/150000/en/150931.tex","ui/icon/150000/en/150932.tex","ui/icon/150000/en/150933.tex","ui/icon/150000/en/150934.tex","ui/icon/150000/en/150084.tex","Battle",1
-8,"Experience Points",True,"ui/icon/151000/en/151391.tex","","","","","","","","","","Battle",2
-9,"Handing Over Items",True,"ui/icon/150000/en/150921.tex","","","","","ui/icon/150000/en/150922.tex","","","","","Quests",13
-10,"Changing Classes",True,"ui/icon/150000/en/150111.tex","ui/icon/150000/en/150112.tex","","","","","","","","","Adventuring Basics",9
-11,"Collecting Rewards",False,"ui/icon/150000/en/150811.tex","","","","","ui/icon/150000/en/150812.tex","","","","","Quests",5
-12,"Accepting Quests",False,"ui/icon/150000/en/150121.tex","","","","","ui/icon/150000/en/150121.tex","","","","","Quests",2
-13,"Return",True,"ui/icon/150000/en/150131.tex","ui/icon/150000/en/150132.tex","","","","ui/icon/150000/en/150131.tex","ui/icon/150000/en/150133.tex","","","","Movement",1
-14,"Main Menu",True,"ui/icon/150000/en/150141.tex","ui/icon/150000/en/150142.tex","ui/icon/150000/en/150143.tex","","","","","","","","Adventuring Basics",2
-15,"Aetheryte",True,"ui/icon/150000/en/150151.tex","ui/icon/150000/en/150152.tex","ui/icon/150000/en/150153.tex","","","","","","","","Movement",2
-16,"KO",True,"ui/icon/150000/en/150161.tex","ui/icon/150000/en/150162.tex","","","","","","","","","Battle",2
-17,"Linkshells",True,"ui/icon/151000/en/151171.tex","ui/icon/151000/en/151172.tex","","","","","","","","","Adventuring Basics",11
-18,"Gear",True,"ui/icon/150000/en/150181.tex","ui/icon/150000/en/150182.tex","","","","ui/icon/150000/en/150181.tex","ui/icon/150000/en/150182.tex","","","","Gear",1
-19,"Aethernet",True,"ui/icon/150000/en/150191.tex","","","","","","","","","","Movement",3
-20,"Shops",True,"ui/icon/150000/en/150201.tex","ui/icon/150000/en/150202.tex","","","","ui/icon/150000/en/150201.tex","ui/icon/150000/en/150202.tex","","","","Items",6
-21,"The Armoire",True,"ui/icon/151000/en/151521.tex","ui/icon/151000/en/151522.tex","","","","","","","","","Gear",11
-22,"Moogle Delivery Service",True,"ui/icon/150000/en/150221.tex","ui/icon/150000/en/150222.tex","","","","ui/icon/150000/en/150221.tex","ui/icon/150000/en/150222.tex","","","","Adventuring Basics",8
-23,"Finding Mature Trees",True,"ui/icon/150000/en/150231.tex","ui/icon/150000/en/150232.tex","ui/icon/150000/en/150233.tex","","","ui/icon/150000/en/150231.tex","ui/icon/150000/en/150232.tex","ui/icon/150000/en/150233.tex","","","Gathering",3
-24,"Gathering",True,"ui/icon/150000/en/150241.tex","ui/icon/150000/en/150242.tex","ui/icon/150000/en/150243.tex","","","","","","","","Gathering",4
-25,"Gathering Interface",True,"ui/icon/150000/en/150251.tex","ui/icon/150000/en/150252.tex","ui/icon/150000/en/150253.tex","","","","","","","","Gathering",5
-26,"Sneak",True,"ui/icon/150000/en/150261.tex","","","","","","","","","","Gathering",10
-27,"Harvesting",True,"ui/icon/150000/en/150271.tex","ui/icon/150000/en/150272.tex","","","","","","","","","Gathering",16
-28,"Crafting Log",True,"ui/icon/150000/en/150281.tex","ui/icon/150000/en/150282.tex","ui/icon/150000/en/150283.tex","","","","","","","","Crafting",1
-29,"Crafting",True,"ui/icon/150000/en/150291.tex","ui/icon/150000/en/150292.tex","ui/icon/150000/en/150293.tex","ui/icon/150000/en/150294.tex","","ui/icon/150000/en/150295.tex","ui/icon/150000/en/150292.tex","ui/icon/150000/en/150293.tex","ui/icon/150000/en/150294.tex","","Crafting",2
-30,"Improving Item Quality",True,"ui/icon/150000/en/150301.tex","ui/icon/150000/en/150302.tex","ui/icon/150000/en/150303.tex","","","ui/icon/150000/en/150301.tex","ui/icon/150000/en/150304.tex","ui/icon/150000/en/150303.tex","","","Crafting",3
-31,"Gear Condition",True,"ui/icon/150000/en/150311.tex","ui/icon/150000/en/150312.tex","ui/icon/150000/en/150313.tex","","","","","","","","Gear",5
-32,"Repairing Gear",True,"ui/icon/150000/en/150321.tex","ui/icon/150000/en/150322.tex","","","","","","","","","Gear",6
-33,"Accepting Guildleves",True,"ui/icon/150000/en/150331.tex","ui/icon/150000/en/150332.tex","","","","","","","","","Levequests",1
-34,"Initiating Levequests",True,"ui/icon/150000/en/150341.tex","ui/icon/150000/en/150342.tex","ui/icon/150000/en/150343.tex","","","ui/icon/150000/en/150341.tex","ui/icon/150000/en/150342.tex","ui/icon/150000/en/150343.tex","","","Levequests",2
-35,"Levequest Difficulty",True,"ui/icon/150000/en/150351.tex","ui/icon/150000/en/150352.tex","","","","","","","","","Levequests",3
-36,"Sanctuaries",True,"ui/icon/150000/en/150361.tex","ui/icon/150000/en/150362.tex","ui/icon/150000/en/150363.tex","ui/icon/150000/en/150364.tex","","","","","","","Adventuring Basics",7
-37,"Armoury Chest",True,"ui/icon/151000/en/151141.tex","ui/icon/151000/en/151142.tex","ui/icon/151000/en/151143.tex","","","ui/icon/151000/en/151141.tex","ui/icon/151000/en/151142.tex","ui/icon/151000/en/151143.tex","","","Gear",3
-38,"Unlocking Classes",True,"ui/icon/150000/en/150101.tex","ui/icon/150000/en/150102.tex","","","","","","","","","Adventuring Basics",4
-39,"Emotes",True,"ui/icon/150000/en/150381.tex","ui/icon/150000/en/150382.tex","ui/icon/150000/en/150383.tex","","","ui/icon/150000/en/150381.tex","ui/icon/150000/en/150382.tex","","","","Adventuring Basics",3
-40,"",False,"","","","","","","","","","","None",0
-41,"",False,"","","","","","","","","","","None",0
-42,"Levequest Duty",True,"ui/icon/150000/en/150421.tex","ui/icon/150000/en/150422.tex","","","","","","","","","Levequests",4
-43,"Collecting Levequest Rewards",True,"ui/icon/150000/en/150431.tex","","","","","","","","","","Levequests",5
-44,"Rechallenging Levequests",True,"ui/icon/150000/en/150441.tex","","","","","ui/icon/150000/en/150441.tex","","","","","Levequests",6
-45,"Hunting Log",True,"ui/icon/150000/en/150451.tex","ui/icon/150000/en/150452.tex","ui/icon/150000/en/150453.tex","","","ui/icon/150000/en/150451.tex","ui/icon/150000/en/150452.tex","ui/icon/150000/en/150453.tex","","","Battle",9
-46,"Minions",True,"ui/icon/150000/en/150461.tex","ui/icon/150000/en/150462.tex","ui/icon/150000/en/150463.tex","ui/icon/150000/en/150464.tex","","ui/icon/150000/en/150461.tex","ui/icon/150000/en/150465.tex","ui/icon/150000/en/150466.tex","ui/icon/150000/en/150464.tex","","Adventuring Basics",12
-47,"Markets",True,"ui/icon/150000/en/150471.tex","ui/icon/150000/en/150472.tex","ui/icon/150000/en/150473.tex","","","","","","","","Items",11
-48,"Searching for an Item in the Markets",True,"ui/icon/150000/en/150481.tex","ui/icon/150000/en/150482.tex","ui/icon/150000/en/150483.tex","ui/icon/150000/en/150484.tex","","","","","","","Items",12
-49,"Purchasing an Item from the Markets",True,"ui/icon/150000/en/150491.tex","ui/icon/150000/en/150492.tex","","","","","","","","","Items",13
-50,"Selling an Item in the Markets",True,"ui/icon/150000/en/150501.tex","ui/icon/150000/en/150502.tex","ui/icon/150000/en/150503.tex","","","","","","","","Items",14
-51,"Retainers",True,"ui/icon/150000/en/150511.tex","ui/icon/150000/en/150512.tex","","","","","","","","","Items",21
-52,"Hiring a Retainer",True,"ui/icon/150000/en/150521.tex","ui/icon/150000/en/150522.tex","","","","","","","","","Items",22
-53,"A Retainer's Many Tasks",True,"ui/icon/150000/en/150531.tex","ui/icon/150000/en/150532.tex","","","","","","","","","Items",23
-54,"Gathering Point Characteristics",True,"ui/icon/150000/en/150541.tex","ui/icon/150000/en/150542.tex","","","","","","","","","Gathering",22
-55,"Unspoiled Locations",True,"ui/icon/151000/en/151221.tex","ui/icon/151000/en/151222.tex","ui/icon/151000/en/151223.tex","","","","","","","","Gathering",30
-56,"",False,"","","","","","","","","","","None",0
-57,"Clearing Instanced Raids",True,"ui/icon/150000/en/150572.tex","ui/icon/150000/en/150573.tex","ui/icon/150000/en/150574.tex","","","","","","","","Duty",4
-58,"Material Condition",True,"ui/icon/150000/en/150581.tex","ui/icon/150000/en/150582.tex","","","","","","","","","Crafting",4
-59,"",False,"","","","","","","","","","","None",0
-60,"High-quality Items",True,"ui/icon/150000/en/150601.tex","ui/icon/150000/en/150602.tex","","","","","","","","","Items",2
-61,"Unique Items",True,"ui/icon/150000/en/150611.tex","","","","","","","","","","Items",3
-62,"Binding Items",True,"ui/icon/150000/en/150621.tex","ui/icon/150000/en/150622.tex","","","","","","","","","Gear",2
-63,"Player Search",True,"ui/icon/150000/en/150631.tex","ui/icon/150000/en/150632.tex","ui/icon/150000/en/150633.tex","ui/icon/150000/en/150634.tex","ui/icon/150000/en/150635.tex","ui/icon/150000/en/150631.tex","ui/icon/150000/en/150632.tex","ui/icon/150000/en/150633.tex","ui/icon/150000/en/150634.tex","ui/icon/150000/en/150635.tex","Adventuring Basics",13
-64,"The FATE System",True,"ui/icon/150000/en/150641.tex","ui/icon/150000/en/150642.tex","ui/icon/150000/en/150643.tex","ui/icon/150000/en/150644.tex","","","","","","","Duty",1
-65,"Combos",True,"ui/icon/151000/en/151401.tex","ui/icon/151000/en/151402.tex","ui/icon/151000/en/151403.tex","ui/icon/151000/en/151404.tex","","","","","","","Battle",4
-66,"FATE Rewards",True,"ui/icon/150000/en/150661.tex","ui/icon/150000/en/150662.tex","","","","","","","","","Duty",2
-67,"Tradecraft Leves",True,"ui/icon/150000/en/150671.tex","","","","","","","","","","Levequests",11
-68,"Completing Leves",True,"ui/icon/150000/en/150681.tex","","","","","ui/icon/150000/en/150682.tex","","","","","Levequests",12
-69,"Fieldcraft Leves",True,"ui/icon/150000/en/150691.tex","ui/icon/150000/en/150692.tex","","","","","","","","","Levequests",13
-70,"Completing Fieldcraft Leves",True,"ui/icon/150000/en/150701.tex","ui/icon/150000/en/150702.tex","","","","","","","","","Levequests",14
-71,"Guildhests",True,"ui/icon/150000/en/150711.tex","ui/icon/150000/en/150712.tex","","","","","","","","","Duty",11
-72,"Guildhest Objectives",True,"ui/icon/150000/en/150721.tex","","","","","","","","","","Duty",12
-73,"Hazardous Zones",True,"ui/icon/150000/en/150731.tex","","","","","","","","","","Duty",13
-74,"Being KO'd During a Guildhest",True,"ui/icon/150000/en/150741.tex","","","","","","","","","","Duty",14
-75,"Guildhest Rewards",True,"ui/icon/150000/en/150751.tex","","","","","","","","","","Duty",15
-76,"Leve Linking",True,"ui/icon/150000/en/150761.tex","","","","","","","","","","Levequests",9
-77,"",False,"","","","","","","","","","","None",0
-78,"Joining a Party",True,"ui/icon/150000/en/150901.tex","ui/icon/150000/en/150903.tex","ui/icon/150000/en/150902.tex","ui/icon/150000/en/150904.tex","ui/icon/150000/en/150905.tex","ui/icon/150000/en/150901.tex","ui/icon/150000/en/150903.tex","ui/icon/150000/en/150902.tex","ui/icon/150000/en/150904.tex","ui/icon/150000/en/150905.tex","Adventuring Basics",5
-79,"Special Instances",True,"ui/icon/150000/en/150791.tex","ui/icon/150000/en/150792.tex","","","","","","","","","Quests",15
-80,"Main Scenario Quests",True,"ui/icon/150000/en/150801.tex","ui/icon/150000/en/150802.tex","","","","","","","","","Quests",6
-81,"Rental Chocobos",True,"ui/icon/150000/en/150821.tex","","","","","","","","","","Movement",6
-82,"Dismounting Rental Chocobos",True,"ui/icon/150000/en/150831.tex","","","","","ui/icon/150000/en/150831.tex","","","","","Movement",7
-83,"Porters",True,"ui/icon/150000/en/150841.tex","","","","","","","","","","Movement",4
-84,"Dismounting Porters",True,"ui/icon/150000/en/150851.tex","","","","","ui/icon/150000/en/150851.tex","","","","","Movement",5
-85,"Personal Chocobos",True,"ui/icon/150000/en/150861.tex","ui/icon/150000/en/150862.tex","ui/icon/150000/en/150864.tex","","","","","","","","Movement",8
-86,"Dismounting Personal Chocobos",True,"ui/icon/150000/en/150871.tex","","","","","ui/icon/150000/en/150871.tex","","","","","Movement",9
-87,"Grand Companies",True,"ui/icon/150000/en/150881.tex","ui/icon/150000/en/150882.tex","ui/icon/150000/en/150883.tex","","","","","","","","Grand Companies",1
-88,"Class Quest Rewards",True,"ui/icon/150000/en/150891.tex","","","","","","","","","","Quests",14
-89,"Supply & Provisioning Missions",True,"ui/icon/150000/en/150941.tex","ui/icon/150000/en/150942.tex","","","","","","","","","Grand Companies",3
-90,"Expert Delivery Missions",True,"ui/icon/150000/en/150951.tex","ui/icon/150000/en/150952.tex","","","","","","","","","Grand Companies",4
-91,"Free Companies",True,"ui/icon/150000/en/150961.tex","ui/icon/150000/en/150962.tex","ui/icon/150000/en/150963.tex","","","","","","","","Free Companies",1
-92,"Limit Break",True,"ui/icon/150000/en/150971.tex","ui/icon/150000/en/150972.tex","ui/icon/150000/en/150973.tex","ui/icon/150000/en/150974.tex","","","","","","","Battle",13
-93,"Level Sync",True,"ui/icon/150000/en/150981.tex","ui/icon/150000/en/150982.tex","ui/icon/150000/en/150983.tex","","","","","","","","Duty",5
-94,"Jobs",True,"ui/icon/150000/en/150991.tex","ui/icon/150000/en/150992.tex","ui/icon/150000/en/150993.tex","","","","","","","","Adventuring Basics",10
-95,"Dyeing",True,"ui/icon/151000/en/151001.tex","ui/icon/151000/en/151002.tex","ui/icon/151000/en/151003.tex","ui/icon/151000/en/151004.tex","","","","","","","Gear",8
-96,"Fighting with Your Chocobo",True,"ui/icon/151000/en/151151.tex","ui/icon/151000/en/151152.tex","","","","","","","","","Battle",21
-97,"Extracting Materia",True,"ui/icon/151000/en/151021.tex","ui/icon/151000/en/151022.tex","ui/icon/151000/en/151023.tex","","","","","","","","Gear",21
-98,"Affixing Materia",True,"ui/icon/151000/en/151031.tex","ui/icon/151000/en/151032.tex","","","","","","","","","Gear",22
-99,"Advanced Materia Melding",True,"ui/icon/151000/en/151041.tex","ui/icon/151000/en/151042.tex","","","","","","","","","Gear",24
-100,"Meld Requests",True,"ui/icon/151000/en/151321.tex","ui/icon/151000/en/151322.tex","ui/icon/151000/en/151323.tex","","","","","","","","Gear",23
-101,"Untradable Items",True,"ui/icon/151000/en/151051.tex","","","","","","","","","","Items",4
-102,"Using Items",True,"ui/icon/151000/en/151061.tex","ui/icon/151000/en/151062.tex","","","","ui/icon/151000/en/151061.tex","ui/icon/151000/en/151064.tex","","","","Items",1
-103,"",False,"","","","","","","","","","","None",0
-104,"Adding Members",True,"ui/icon/151000/en/151201.tex","","","","","","","","","","Duty",23
-105,"Finding Mineral Deposits",True,"ui/icon/151000/en/151071.tex","ui/icon/151000/en/151072.tex","ui/icon/151000/en/151073.tex","","","","","","","","Gathering",2
-106,"Quarrying",True,"ui/icon/151000/en/151081.tex","ui/icon/151000/en/151082.tex","","","","","","","","","Gathering",13
-107,"",False,"","","","","","","","","","","None",0
-108,"Companion Skills",True,"ui/icon/151000/en/151461.tex","ui/icon/151000/en/151462.tex","ui/icon/151000/en/151463.tex","ui/icon/151000/en/151464.tex","","","","","","","Battle",22
-109,"Ordering Your Chocobo",True,"ui/icon/151000/en/151161.tex","ui/icon/151000/en/151162.tex","ui/icon/151000/en/151163.tex","","","","","","","","Battle",23
-110,"Opening Treasure Coffers",True,"ui/icon/151000/en/151091.tex","","","","","","","","","","Levequests",7
-111,"Collecting Bounties",True,"ui/icon/151000/en/151101.tex","","","","","","","","","","Levequests",8
-112,"Grand Company Leves",True,"ui/icon/151000/en/151111.tex","","","","","","","","","","Grand Companies",5
-113,"Free Company Petitions",True,"ui/icon/151000/en/151121.tex","","","","","","","","","","Free Companies",2
-114,"Joining a Free Company",True,"ui/icon/151000/en/151131.tex","ui/icon/151000/en/151132.tex","ui/icon/151000/en/151133.tex","ui/icon/151000/en/151134.tex","","","","","","","Free Companies",3
-115,"Changing Affiliation",True,"ui/icon/151000/en/151351.tex","","","","","","","","","","Grand Companies",2
-116,"Company Chest",True,"ui/icon/151000/en/151361.tex","ui/icon/151000/en/151362.tex","","","","","","","","","Free Companies",4
-117,"Company Crest",True,"ui/icon/151000/en/151371.tex","ui/icon/151000/en/151372.tex","","","","","","","","","Free Companies",5
-118,"Company Actions",True,"ui/icon/151000/en/151381.tex","ui/icon/151000/en/151382.tex","ui/icon/151000/en/151383.tex","","","","","","","","Free Companies",6
-119,"Readying Your Line",True,"ui/icon/151000/en/151241.tex","ui/icon/151000/en/151242.tex","ui/icon/151000/en/151243.tex","","","","","","","","Fishing",1
-120,"Fishing Log",True,"ui/icon/151000/en/151251.tex","","","","","","","","","","Fishing",3
-121,"Using Lures",True,"ui/icon/151000/en/151261.tex","ui/icon/151000/en/151262.tex","","","","","","","","","Fishing",4
-122,"Mooching",True,"ui/icon/151000/en/151271.tex","ui/icon/151000/en/151272.tex","","","","","","","","","Fishing",5
-123,"Skyfishing & Dunefishing",True,"ui/icon/151000/en/151281.tex","ui/icon/151000/en/151282.tex","","","","","","","","","Fishing",6
-124,"Fish Size",True,"ui/icon/151000/en/151291.tex","","","","","","","","","","Fishing",7
-125,"Fishing Holes",True,"ui/icon/151000/en/151301.tex","","","","","","","","","","Fishing",8
-126,"Quick Synthesis",True,"ui/icon/151000/en/151331.tex","ui/icon/151000/en/151332.tex","ui/icon/151000/en/151333.tex","","","","","","","","Crafting",6
-127,"Umbral Ice & Astral Fire",True,"ui/icon/151000/en/151411.tex","ui/icon/151000/en/151412.tex","ui/icon/151000/en/151413.tex","ui/icon/151000/en/151414.tex","","","","","","","Battle",6
-128,"Pugilist Forms",True,"ui/icon/151000/en/151421.tex","ui/icon/151000/en/151422.tex","ui/icon/151000/en/151423.tex","ui/icon/151000/en/151424.tex","","","","","","","Battle",5
-129,"Pets",True,"ui/icon/151000/en/151431.tex","ui/icon/151000/en/151432.tex","ui/icon/151000/en/151433.tex","ui/icon/151000/en/151435.tex","","ui/icon/151000/en/151431.tex","ui/icon/151000/en/151436.tex","ui/icon/151000/en/151433.tex","ui/icon/151000/en/151435.tex","","Battle",7
-130,"Crystalline Conflict",True,"ui/icon/151000/en/151211.tex","","","","","","","","","","Duty",31
-131,"Quest Battles",True,"ui/icon/151000/en/151481.tex","ui/icon/151000/en/151482.tex","ui/icon/151000/en/151483.tex","","","","","","","","Battle",15
-132,"Achievements",True,"ui/icon/151000/en/151491.tex","ui/icon/151000/en/151492.tex","ui/icon/151000/en/151493.tex","","","ui/icon/151000/en/151491.tex","ui/icon/151000/en/151492.tex","ui/icon/151000/en/151494.tex","","","Adventuring Basics",14
-133,"Recommended Duties",True,"ui/icon/151000/en/151341.tex","ui/icon/151000/en/151342.tex","","","","","","","","","Quests",16
-134,"",False,"","","","","","","","","","","None",0
-135,"Fishing",True,"ui/icon/151000/en/151311.tex","ui/icon/151000/en/151312.tex","","","","","","","","","Fishing",2
-136,"Armoury Bonus",True,"ui/icon/151000/en/151441.tex","ui/icon/151000/en/151442.tex","","","","","","","","","Battle",14
-137,"Allagan Tomestones",True,"ui/icon/151000/en/151451.tex","ui/icon/151000/en/151452.tex","","","","","","","","","Items",7
-138,"Using Items on Areas",True,"ui/icon/151000/en/151471.tex","","","","","ui/icon/151000/en/151472.tex","","","","","Quests",8
-139,"Using Key Items on Targets",True,"ui/icon/151000/en/151501.tex","ui/icon/151000/en/151502.tex","","","","ui/icon/151000/en/151504.tex","ui/icon/151000/en/151502.tex","","","","Quests",9
-140,"",False,"","","","","","","","","","","None",0
-141,"PvP Rewards",True,"ui/icon/151000/en/151531.tex","ui/icon/151000/en/151532.tex","ui/icon/151000/en/151533.tex","","","ui/icon/151000/en/151531.tex","ui/icon/151000/en/151532.tex","ui/icon/151000/en/151534.tex","","","Duty",32
-142,"",False,"","","","","","","","","","","None",0
-143,"Housing",True,"ui/icon/151000/en/151551.tex","ui/icon/151000/en/151552.tex","ui/icon/151000/en/151553.tex","ui/icon/151000/en/151554.tex","","","","","","","Adventuring Basics",16
-144,"Placards",True,"ui/icon/151000/en/151561.tex","ui/icon/151000/en/151562.tex","","","","","","","","","Adventuring Basics",17
-145,"Duties for Alliances",True,"ui/icon/151000/en/151571.tex","ui/icon/151000/en/151572.tex","","","","","","","","","Duty",40
-146,"Weekly Reward Limits",True,"ui/icon/151000/en/151581.tex","ui/icon/151000/en/151582.tex","ui/icon/151000/en/151583.tex","","","","","","","","Duty",41
-147,"The Party Finder",True,"ui/icon/151000/en/151591.tex","ui/icon/151000/en/151592.tex","ui/icon/151000/en/151593.tex","","","ui/icon/151000/en/151591.tex","ui/icon/151000/en/151592.tex","ui/icon/151000/en/151593.tex","","","Adventuring Basics",6
-148,"Hidden Items",True,"ui/icon/151000/en/151601.tex","ui/icon/151000/en/151602.tex","","","","","","","","","Gathering",19
-149,"Timeworn Maps",True,"ui/icon/151000/en/151611.tex","ui/icon/151000/en/151612.tex","ui/icon/151000/en/151613.tex","","","","","","","","Items",31
-150,"Deciphering Timeworn Maps",True,"ui/icon/151000/en/151621.tex","ui/icon/151000/en/151622.tex","","","","","","","","","Items",32
-151,"Finding Treasure",True,"ui/icon/151000/en/151631.tex","ui/icon/151000/en/151632.tex","ui/icon/151000/en/151633.tex","","","","","","","","Items",33
-152,"Allied Society Quests",True,"ui/icon/151000/en/151641.tex","ui/icon/151000/en/151642.tex","ui/icon/151000/en/151643.tex","","","","","","","","Quests",21
-153,"Reputation",True,"ui/icon/151000/en/151651.tex","ui/icon/151000/en/151652.tex","ui/icon/151000/en/151653.tex","","","","","","","","Quests",22
-154,"",False,"","","","","","","","","","","None",0
-155,"",False,"","","","","","","","","","","None",0
-156,"The Pet Hotbar",True,"ui/icon/151000/en/151681.tex","","","","","ui/icon/151000/en/151682.tex","","","","","Quests",25
-157,"Aesthetician",True,"ui/icon/151000/en/151691.tex","ui/icon/151000/en/151692.tex","","","","","","","","","Adventuring Basics",15
-158,"The Duty Roulette",True,"ui/icon/151000/en/151701.tex","ui/icon/151000/en/151702.tex","","","","","","","","","Duty",24
-159,"Vote Dismiss",True,"ui/icon/151000/en/151711.tex","ui/icon/151000/en/151712.tex","ui/icon/151000/en/151713.tex","","","","","","","","Duty",25
-160,"Player Commendation",True,"ui/icon/151000/en/151721.tex","ui/icon/151000/en/151722.tex","ui/icon/151000/en/151723.tex","","","","","","","","Duty",26
-161,"Applying to a Free Company",True,"ui/icon/151000/en/151731.tex","ui/icon/151000/en/151732.tex","","","","ui/icon/151000/en/151731.tex","ui/icon/151000/en/151733.tex","","","","Free Companies",7
-162,"Challenge Log",True,"ui/icon/151000/en/151741.tex","ui/icon/151000/en/151742.tex","","","","ui/icon/151000/en/151743.tex","ui/icon/151000/en/151742.tex","","","","Duty",6
-163,"Master Recipes",True,"ui/icon/151000/en/151751.tex","ui/icon/151000/en/151752.tex","","","","","","","","","Crafting",10
-164,"Glamours",True,"ui/icon/151000/en/151761.tex","ui/icon/151000/en/151762.tex","ui/icon/151000/en/151763.tex","","","","","","","","Gear",25
-165,"Gardening",True,"ui/icon/151000/en/151771.tex","ui/icon/151000/en/151772.tex","","","","","","","","","Adventuring Basics",18
-166,"Tending Your Garden",True,"ui/icon/151000/en/151781.tex","ui/icon/151000/en/151782.tex","","","","","","","","","Adventuring Basics",20
-167,"Harvesting Crops",True,"ui/icon/151000/en/151791.tex","ui/icon/151000/en/151792.tex","","","","","","","","","Adventuring Basics",21
-168,"Retainer Ventures",True,"ui/icon/151000/en/151801.tex","ui/icon/151000/en/151802.tex","ui/icon/151000/en/151803.tex","","","","","","","","Items",24
-169,"Exploration Ventures",True,"ui/icon/151000/en/151811.tex","ui/icon/151000/en/151812.tex","","","","","","","","","Items",25
-170,"Communicating with Others",True,"ui/icon/151000/en/151821.tex","ui/icon/151000/en/151822.tex","ui/icon/151000/en/151823.tex","ui/icon/151000/en/151824.tex","","ui/icon/151000/en/151821.tex","ui/icon/151000/en/151822.tex","ui/icon/151000/en/151823.tex","ui/icon/151000/en/151824.tex","","Adventuring Basics",25
-171,"Auto-translation Dictionary",True,"ui/icon/151000/en/151831.tex","ui/icon/151000/en/151832.tex","ui/icon/151000/en/151833.tex","ui/icon/151000/en/151834.tex","ui/icon/151000/en/151835.tex","ui/icon/151000/en/151831.tex","ui/icon/151000/en/151832.tex","ui/icon/151000/en/151833.tex","ui/icon/151000/en/151834.tex","ui/icon/151000/en/151835.tex","Adventuring Basics",26
-172,"The Wish List",True,"ui/icon/151000/en/151841.tex","ui/icon/151000/en/151842.tex","","","","","","","","","Items",15
-173,"Retainer Class",True,"ui/icon/151000/en/151851.tex","ui/icon/151000/en/151852.tex","","","","","","","","","Items",26
-174,"Trials of the Braves",True,"ui/icon/151000/en/151861.tex","ui/icon/151000/en/151862.tex","ui/icon/151000/en/151863.tex","","","","","","","","Gear",31
-175,"Sphere Scrolls",True,"ui/icon/151000/en/151871.tex","ui/icon/151000/en/151872.tex","ui/icon/151000/en/151873.tex","ui/icon/151000/en/151874.tex","ui/icon/151000/en/151875.tex","","","","","","Gear",32
-176,"Frontline",True,"ui/icon/151000/en/151901.tex","","","","","","","","","","Duty",34
-177,"Repairing Your Own Gear",True,"ui/icon/151000/en/151881.tex","ui/icon/151000/en/151882.tex","","","","","","","","","Gear",7
-178,"Sightseeing Log",True,"ui/icon/151000/en/151891.tex","ui/icon/151000/en/151892.tex","","","","ui/icon/151000/en/151893.tex","ui/icon/151000/en/151892.tex","","","","Duty",7
-179,"Allied Seals",True,"ui/icon/151000/en/151911.tex","ui/icon/151000/en/151912.tex","","","","","","","","","Items",8
-180,"Toy Chest",True,"ui/icon/151000/en/151931.tex","","","","","","","","","","Duty",60
-181,"Artillery",True,"ui/icon/151000/en/151921.tex","ui/icon/151000/en/151922.tex","","","","","","","","","Quests",26
-182,"Releasing Fish",True,"ui/icon/151000/en/151941.tex","ui/icon/151000/en/151942.tex","","","","","","","","","Fishing",9
-183,"Desynthesis",True,"ui/icon/151000/en/151951.tex","ui/icon/151000/en/151952.tex","ui/icon/151000/en/151953.tex","","","","","","","","Crafting",13
-184,"Chocobo Raising",True,"ui/icon/151000/en/151961.tex","ui/icon/151000/en/151962.tex","ui/icon/151000/en/151963.tex","","","","","","","","Battle",24
-185,"Ixal Quests",True,"ui/icon/151000/en/151971.tex","ui/icon/151000/en/151972.tex","","","","","","","","","Quests",27
-186,"Ehcatl Nine Delivery Quests",True,"ui/icon/151000/en/151981.tex","ui/icon/151000/en/151982.tex","ui/icon/151000/en/151983.tex","","","","","","","","Quests",28
-187,"",False,"","","","","","","","","","","None",0
-188,"",False,"","","","","","","","","","","None",0
-189,"Soulglazing",True,"ui/icon/152000/en/152011.tex","ui/icon/152000/en/152012.tex","ui/icon/152000/en/152013.tex","ui/icon/152000/en/152014.tex","","","","","","","Gear",33
-190,"Fish Population",True,"ui/icon/152000/en/152061.tex","ui/icon/152000/en/152062.tex","","","","","","","","","Fishing",10
-191,"Fish and Weather",True,"ui/icon/152000/en/152071.tex","","","","","","","","","","Fishing",11
-192,"Mudra and Ninjutsu",True,"ui/icon/152000/en/152021.tex","ui/icon/152000/en/152022.tex","ui/icon/152000/en/152023.tex","ui/icon/152000/en/152024.tex","","","","","","","Battle",25
-193,"The Ceremony of Eternal Bonding",True,"ui/icon/152000/en/152031.tex","ui/icon/152000/en/152032.tex","ui/icon/152000/en/152033.tex","","","","","","","","Adventuring Basics",30
-194,"Bonding Ceremony Etiquette",True,"ui/icon/152000/en/152041.tex","ui/icon/152000/en/152042.tex","ui/icon/152000/en/152043.tex","ui/icon/152000/en/152044.tex","","","","","","","Adventuring Basics",31
-195,"Bonding Ceremony Invitations",True,"ui/icon/152000/en/152051.tex","ui/icon/152000/en/152052.tex","","","","","","","","","Adventuring Basics",32
-196,"Fledgling and Race Chocobos",True,"ui/icon/152000/en/152081.tex","ui/icon/152000/en/152082.tex","ui/icon/152000/en/152083.tex","","","","","","","","Gold Saucer",2
-197,"Race Abilities",True,"ui/icon/152000/en/152091.tex","ui/icon/152000/en/152092.tex","ui/icon/152000/en/152093.tex","","","","","","","","Gold Saucer",4
-198,"Retirement and Covering",True,"ui/icon/152000/en/152101.tex","ui/icon/152000/en/152102.tex","ui/icon/152000/en/152103.tex","ui/icon/152000/en/152104.tex","","","","","","","Gold Saucer",5
-199,"Challenging the Masters",True,"ui/icon/152000/en/152111.tex","ui/icon/152000/en/152112.tex","","","","","","","","","Gold Saucer",6
-200,"Triple Triad",True,"ui/icon/152000/en/152121.tex","ui/icon/152000/en/152122.tex","","","","","","","","","Gold Saucer",7
-201,"The Manderville Gold Saucer",True,"ui/icon/152000/en/152131.tex","ui/icon/152000/en/152132.tex","ui/icon/152000/en/152133.tex","","","","","","","","Gold Saucer",1
-202,"Entering a Chocobo Race",True,"ui/icon/152000/en/152141.tex","ui/icon/152000/en/152142.tex","ui/icon/152000/en/152143.tex","","","","","","","","Gold Saucer",3
-203,"Specialists",True,"ui/icon/152000/en/152151.tex","ui/icon/152000/en/152152.tex","","","","","","","","","Crafting",21
-204,"",False,"","","","","","","","","","","None",0
-205,"Flying Mounts",True,"ui/icon/152000/en/152171.tex","ui/icon/152000/en/152172.tex","","","","ui/icon/152000/en/152171.tex","ui/icon/152000/en/152172.tex","","","","Movement",20
-206,"",False,"","","","","","","","","","","None",0
-207,"",False,"","","","","","","","","","","None",0
-208,"The Mentor System",True,"ui/icon/152000/en/152391.tex","ui/icon/152000/en/152392.tex","ui/icon/152000/en/152393.tex","ui/icon/152000/en/152394.tex","","","","","","","Adventuring Basics",60
-209,"Ephemeral Gathering Points",True,"ui/icon/152000/en/152211.tex","","","","","","","","","","Gathering",49
-210,"Hidden Characteristics",True,"ui/icon/152000/en/152221.tex","ui/icon/152000/en/152222.tex","","","","","","","","","Gathering",46
-211,"",False,"","","","","","","","","","","None",0
-212,"Aetherial Reduction",True,"ui/icon/152000/en/152241.tex","","","","","","","","","","Gathering",52
-213,"Legendary Nodes and Tomes of Regional Folklore",True,"ui/icon/152000/en/152251.tex","ui/icon/152000/en/152252.tex","","","","","","","","","Gathering",40
-214,"",False,"","","","","","","","","","","None",0
-215,"",False,"","","","","","","","","","","None",0
-216,"Loot Rules",True,"ui/icon/152000/en/152271.tex","ui/icon/152000/en/152272.tex","ui/icon/152000/en/152273.tex","ui/icon/152000/en/152274.tex","","ui/icon/152000/en/152271.tex","ui/icon/152000/en/152272.tex","ui/icon/152000/en/152273.tex","ui/icon/152000/en/152274.tex","","Battle",11
-217,"Setting Loot Rules",True,"ui/icon/152000/en/152281.tex","ui/icon/152000/en/152282.tex","","","","","","","","","Battle",12
-218,"Temple Leves",True,"ui/icon/152000/en/152291.tex","ui/icon/152000/en/152292.tex","","","","","","","","","Levequests",20
-219,"Collectables",True,"ui/icon/152000/en/152301.tex","ui/icon/152000/en/152302.tex","ui/icon/152000/en/152303.tex","","","","","","","","Items",40
-220,"",False,"","","","","","","","","","","None",0
-221,"Collectable Fish",True,"ui/icon/152000/en/152321.tex","ui/icon/152000/en/152322.tex","","","","","","","","","Fishing",20
-222,"",False,"","","","","","","","","","","None",0
-223,"",False,"","","","","","","","","","","None",0
-224,"Lord of Verminion",True,"ui/icon/152000/en/152341.tex","ui/icon/152000/en/152342.tex","ui/icon/152000/en/152343.tex","ui/icon/152000/en/152344.tex","ui/icon/152000/en/152345.tex","","","","","","Gold Saucer",10
-225,"Minion Types",True,"ui/icon/152000/en/152351.tex","ui/icon/152000/en/152352.tex","ui/icon/152000/en/152353.tex","ui/icon/152000/en/152354.tex","","","","","","","Gold Saucer",11
-226,"Verminion Structures",True,"ui/icon/152000/en/152361.tex","ui/icon/152000/en/152362.tex","ui/icon/152000/en/152363.tex","ui/icon/152000/en/152364.tex","ui/icon/152000/en/152365.tex","","","","","","Gold Saucer",12
-227,"Quest Sync",True,"ui/icon/152000/en/152371.tex","ui/icon/152000/en/152372.tex","","","","","","","","","Quests",30
-228,"Class/Job-specific Quests",True,"ui/icon/152000/en/152381.tex","","","","","","","","","","Quests",31
-229,"The Orchestrion",True,"ui/icon/152000/en/152411.tex","ui/icon/152000/en/152412.tex","ui/icon/152000/en/152413.tex","ui/icon/152000/en/152414.tex","ui/icon/152000/en/152415.tex","","","","","","Adventuring Basics",40
-230,"Flowerpots",True,"ui/icon/152000/en/152421.tex","","","","","","","","","","Adventuring Basics",19
-231,"Treasure Dungeons",True,"ui/icon/152000/en/152431.tex","ui/icon/152000/en/152432.tex","ui/icon/152000/en/152433.tex","","","","","","","","Items",34
-232,"Aquariums",True,"ui/icon/152000/en/152441.tex","ui/icon/152000/en/152442.tex","ui/icon/152000/en/152443.tex","ui/icon/152000/en/152444.tex","","","","","","","Adventuring Basics",22
-233,"Pet Glamours",True,"ui/icon/152000/en/152451.tex","ui/icon/152000/en/152452.tex","ui/icon/152000/en/152453.tex","ui/icon/152000/en/152454.tex","","","","","","","Battle",63
-234,"Item Level",True,"ui/icon/152000/en/152461.tex","ui/icon/152000/en/152462.tex","ui/icon/152000/en/152463.tex","","","","","","","","Battle",70
-235,"Increasing Item Level",True,"ui/icon/152000/en/152471.tex","ui/icon/152000/en/152472.tex","ui/icon/152000/en/152473.tex","","","","","","","","Battle",71
-236,"",False,"","","","","","","","","","","None",0
-237,"",False,"","","","","","","","","","","None",0
-238,"Swimming and Diving",True,"ui/icon/152000/en/152501.tex","ui/icon/152000/en/152502.tex","ui/icon/152000/en/152504.tex","","","ui/icon/152000/en/152501.tex","ui/icon/152000/en/152503.tex","ui/icon/152000/en/152504.tex","","","Movement",21
-239,"Duty Actions",True,"ui/icon/152000/en/152511.tex","ui/icon/152000/en/152512.tex","","","","ui/icon/152000/en/152513.tex","ui/icon/152000/en/152512.tex","","","","Duty",55
-240,"Rival Wings",True,"ui/icon/152000/en/152561.tex","","","","","","","","","","Duty",35
-241,"Spearfishing",True,"ui/icon/152000/en/152521.tex","","","","","","","","","","Fishing",30
-242,"Teeming Waters",True,"ui/icon/152000/en/152531.tex","ui/icon/152000/en/152532.tex","ui/icon/152000/en/152533.tex","","","","","","","","Fishing",31
-243,"",False,"","","","","","","","","","","None",0
-244,"Role Actions",True,"ui/icon/152000/en/152551.tex","ui/icon/152000/en/152552.tex","","","","","","","","","Battle",10
-245,"Performance Actions",True,"ui/icon/152000/en/152571.tex","","","","","","","","","","Adventuring Basics",45
-246,"The Fashion Report",True,"ui/icon/152000/en/152581.tex","ui/icon/152000/en/152582.tex","ui/icon/152000/en/152583.tex","ui/icon/152000/en/152584.tex","","","","","","","Gear",30
-247,"Glamour Dressers",True,"ui/icon/152000/en/152591.tex","ui/icon/152000/en/152592.tex","","","","","","","","","Gear",26
-248,"Glamouring Gear",True,"ui/icon/152000/en/152601.tex","","","","","","","","","","Gear",27
-249,"Equipping Glamour Plates",True,"ui/icon/152000/en/152611.tex","","","","","","","","","","Gear",28
-250,"Using Glamour Plates",True,"ui/icon/152000/en/152621.tex","","","","","","","","","","Gear",29
-251,"Adventuring in Eureka",True,"ui/icon/152000/en/152631.tex","ui/icon/152000/en/152632.tex","","","","","","","","","Duty",50
-252,"Chocobo Saddlebag",True,"ui/icon/152000/en/152641.tex","ui/icon/152000/en/152642.tex","","","","","","","","","Items",18
-253,"Duty Recorder",True,"ui/icon/152000/en/152651.tex","ui/icon/152000/en/152652.tex","","","","","","","","","Duty",57
-254,"Recording Duties",True,"ui/icon/152000/en/152661.tex","ui/icon/152000/en/152662.tex","ui/icon/152000/en/152663.tex","ui/icon/152000/en/152664.tex","","ui/icon/152000/en/152661.tex","ui/icon/152000/en/152662.tex","ui/icon/152000/en/152663.tex","ui/icon/152000/en/152665.tex","","Duty",58
-255,"Viewing Recorded Duties",True,"ui/icon/152000/en/152671.tex","","","","","","","","","","Duty",59
-256,"Happy Bunnies",True,"ui/icon/152000/en/152701.tex","ui/icon/152000/en/152702.tex","","","","","","","","","Duty",51
-257,"Message Books",True,"ui/icon/152000/en/152681.tex","ui/icon/152000/en/152682.tex","ui/icon/152000/en/152683.tex","ui/icon/152000/en/152684.tex","","","","","","","Adventuring Basics",23
-258,"Companion Makeovers",True,"ui/icon/152000/en/152691.tex","ui/icon/152000/en/152692.tex","","","","","","","","","Duty",61
-259,"Shifting Sanctums",True,"ui/icon/152000/en/152711.tex","ui/icon/152000/en/152712.tex","ui/icon/152000/en/152713.tex","ui/icon/152000/en/152714.tex","","","","","","","Items",35
-260,"Mannequins",True,"ui/icon/152000/en/152721.tex","ui/icon/152000/en/152722.tex","ui/icon/152000/en/152723.tex","","","","","","","","Adventuring Basics",24
-261,"Logos Manipulator",True,"ui/icon/152000/en/152731.tex","ui/icon/152000/en/152732.tex","ui/icon/152000/en/152733.tex","","","","","","","","Duty",52
-262,"Upgraded Logos Manipulator",True,"ui/icon/152000/en/152741.tex","ui/icon/152000/en/152742.tex","","","","","","","","","Duty",53
-263,"Multi-seat Mounts",True,"ui/icon/152000/en/152751.tex","","","","","","","","","","Movement",22
-264,"World Visit",True,"ui/icon/152000/en/152761.tex","ui/icon/152000/en/152762.tex","","","","","","","","","Movement",10
-265,"Blue Magic",True,"ui/icon/152000/en/152771.tex","ui/icon/152000/en/152772.tex","ui/icon/152000/en/152773.tex","ui/icon/152000/en/152774.tex","ui/icon/152000/en/152775.tex","ui/icon/152000/en/152771.tex","ui/icon/152000/en/152776.tex","ui/icon/152000/en/152773.tex","ui/icon/152000/en/152774.tex","ui/icon/152000/en/152775.tex","Battle",64
-266,"Bicolor Gemstones",True,"ui/icon/152000/en/152781.tex","ui/icon/152000/en/152782.tex","ui/icon/152000/en/152783.tex","","","ui/icon/152000/en/152781.tex","ui/icon/152000/en/152782.tex","ui/icon/152000/en/152784.tex","","","Duty",3
-267,"Fishing and Regional Folklore",True,"ui/icon/152000/en/152791.tex","ui/icon/152000/en/152792.tex","","","","","","","","","Fishing",13
-268,"Swimming Shadows",True,"ui/icon/152000/en/152801.tex","ui/icon/152000/en/152802.tex","","","","","","","","","Fishing",12
-269,"Collection",True,"ui/icon/152000/en/152811.tex","","","","","ui/icon/152000/en/152812.tex","","","","","Adventuring Basics",27
-270,"Expert Recipes",True,"ui/icon/152000/en/152821.tex","ui/icon/152000/en/152822.tex","","","","","","","","","Crafting",11
-271,"Patience",True,"ui/icon/152000/en/152831.tex","ui/icon/152000/en/152832.tex","","","","","","","","","Fishing",14
-272,"Fashion Accessories",True,"ui/icon/152000/en/152841.tex","ui/icon/152000/en/152842.tex","","","","","","","","","Adventuring Basics",28
-273,"",False,"","","","","","","","","","","None",0
-274,"",False,"","","","","","","","","","","None",0
-275,"Gathering Collectables",True,"ui/icon/152000/en/152851.tex","","","","","","","","","","Gathering",43
-276,"Trial Synthesis",True,"ui/icon/152000/en/152861.tex","ui/icon/152000/en/152862.tex","","","","","","","","","Crafting",7
-277,"Gatherer's Boon",True,"ui/icon/152000/en/152871.tex","","","","","","","","","","Gathering",7
-278,"Perception Requirements",True,"ui/icon/152000/en/152881.tex","","","","","","","","","","Gathering",60
-279,"Spearfishing Interface",True,"ui/icon/152000/en/152891.tex","ui/icon/152000/en/152892.tex","ui/icon/152000/en/152893.tex","","","","","","","","Fishing",32
-280,"Fish Population (Spearfishing)",True,"ui/icon/152000/en/152901.tex","ui/icon/152000/en/152902.tex","","","","","","","","","Fishing",33
-281,"",False,"","","","","","","","","","","None",0
-282,"Quality Requirements",True,"ui/icon/152000/en/152921.tex","","","","","","","","","","Crafting",12
-283,"Prime and Sublime Collectables",True,"ui/icon/152000/en/152931.tex","ui/icon/152000/en/152932.tex","ui/icon/152000/en/152933.tex","","","","","","","","Gathering",54
-284,"Gatherer Role Actions",True,"ui/icon/152000/en/152941.tex","ui/icon/152000/en/152942.tex","ui/icon/152000/en/152943.tex","","","","","","","","Gathering",1
-285,"Facewear",True,"ui/icon/152000/en/152951.tex","ui/icon/152000/en/152952.tex","","","","","","","","","Adventuring Basics",29
-286,"Scenario Guide",True,"ui/icon/152000/en/152961.tex","ui/icon/152000/en/152962.tex","","","","","","","","","Quests",7
-287,"Special Recipes",True,"ui/icon/152000/en/152971.tex","ui/icon/152000/en/152972.tex","","","","","","","","","Crafting",22
-288,"Phantom Actions",True,"ui/icon/152000/en/152981.tex","ui/icon/152000/en/152982.tex","ui/icon/152000/en/152983.tex","","","ui/icon/152000/en/152981.tex","ui/icon/152000/en/152982.tex","ui/icon/152000/en/152983.tex","","","Duty",56
-289,"Vault Oneiron",True,"ui/icon/151000/en/151011.tex","ui/icon/151000/en/151012.tex","ui/icon/151000/en/151013.tex","ui/icon/151000/en/151014.tex","","","","","","","Items",36
-290,"Phoenix Down",True,"ui/icon/150000/en/150911.tex","ui/icon/150000/en/150912.tex","ui/icon/150000/en/150913.tex","ui/icon/150000/en/150914.tex","","","","","","","Items",5
-291,"",False,"","","","","","","","","","","None",0
-292,"",False,"","","","","","","","","","","None",0
-293,"",False,"","","","","","","","","","","None",0
-294,"",False,"","","","","","","","","","","None",0
-295,"",False,"","","","","","","","","","","None",0
+#,Name,HowToPagePC[0],HowToPagePC[1],HowToPagePC[2],HowToPagePC[3],HowToPagePC[4],HowToPageController[0],HowToPageController[1],HowToPageController[2],HowToPageController[3],HowToPageController[4],Sort,Category,Announce
+0,,0,0,0,0,0,0,0,0,0,0,0,0,False
+1,Basic Controls,1,0,0,0,0,2,0,0,0,0,1,2,False
+2,Initiating Quests,5,0,0,0,0,6,0,0,0,0,1,5,True
+3,Duty List,60,61,0,0,0,60,62,0,0,0,3,5,False
+4,Navigation,30,31,0,0,0,32,33,0,0,0,4,5,True
+5,Key Items,65,0,0,0,0,66,0,0,0,0,11,5,True
+6,Interacting,70,0,0,0,0,71,0,0,0,0,12,5,True
+7,Battle,150,151,152,153,0,190,191,192,193,153,1,4,True
+8,Experience Points,1200,0,0,0,0,0,0,0,0,0,2,4,True
+9,Handing Over Items,200,0,0,0,0,201,0,0,0,0,13,5,True
+10,Changing Classes,110,111,0,0,0,0,0,0,0,0,9,2,True
+11,Collecting Rewards,15,0,0,0,0,16,0,0,0,0,5,5,False
+12,Accepting Quests,10,0,0,0,0,11,0,0,0,0,2,5,False
+13,Return,25,26,0,0,0,27,28,0,0,0,1,3,True
+14,Main Menu,20,21,22,0,0,0,0,0,0,0,2,2,True
+15,Aetheryte,50,51,52,0,0,0,0,0,0,0,2,3,True
+16,KO,90,91,0,0,0,0,0,0,0,0,2,4,True
+17,Linkshells,290,291,0,0,0,0,0,0,0,0,11,2,True
+18,Gear,35,36,0,0,0,37,36,0,0,0,1,7,True
+19,Aethernet,45,0,0,0,0,0,0,0,0,0,3,3,True
+20,Shops,135,136,0,0,0,137,136,0,0,0,6,6,True
+21,The Armoire,1320,1321,0,0,0,0,0,0,0,0,11,7,True
+22,Moogle Delivery Service,40,41,0,0,0,40,42,0,0,0,8,2,True
+23,Finding Mature Trees,890,891,892,0,0,890,893,894,0,0,3,13,True
+24,Gathering,900,901,902,0,0,0,0,0,0,0,4,13,True
+25,Gathering Interface,910,911,912,0,0,0,0,0,0,0,5,13,True
+26,Sneak,920,0,0,0,0,0,0,0,0,0,10,13,True
+27,Harvesting,930,931,0,0,0,0,0,0,0,0,16,13,True
+28,Crafting Log,700,701,702,0,0,0,0,0,0,0,1,12,True
+29,Crafting,710,711,712,713,0,714,711,712,713,0,2,12,True
+30,Improving Item Quality,720,721,722,0,0,720,723,722,0,0,3,12,True
+31,Gear Condition,750,751,752,0,0,0,0,0,0,0,5,7,True
+32,Repairing Gear,760,761,0,0,0,0,0,0,0,0,6,7,True
+33,Accepting Guildleves,500,501,0,0,0,0,0,0,0,0,1,9,True
+34,Initiating Levequests,510,511,512,0,0,513,514,515,0,0,2,9,True
+35,Levequest Difficulty,520,521,0,0,0,0,0,0,0,0,3,9,True
+36,Sanctuaries,170,171,172,173,0,0,0,0,0,0,7,2,True
+37,Armoury Chest,160,161,162,0,0,160,161,163,0,0,3,7,True
+38,Unlocking Classes,115,116,0,0,0,0,0,0,0,0,4,2,True
+39,Emotes,80,81,82,0,0,80,83,0,0,0,3,2,True
+40,,0,0,0,0,0,0,0,0,0,0,0,0,False
+41,,0,0,0,0,0,0,0,0,0,0,0,0,False
+42,Levequest Duty,530,531,0,0,0,0,0,0,0,0,4,9,True
+43,Collecting Levequest Rewards,540,0,0,0,0,0,0,0,0,0,5,9,True
+44,Rechallenging Levequests,550,0,0,0,0,551,0,0,0,0,6,9,True
+45,Hunting Log,400,401,402,0,0,403,404,405,0,0,9,4,True
+46,Minions,940,941,942,943,0,940,944,945,943,0,12,2,True
+47,Markets,800,801,802,0,0,0,0,0,0,0,11,6,True
+48,Searching for an Item in the Markets,810,811,812,813,0,0,0,0,0,0,12,6,True
+49,Purchasing an Item from the Markets,820,821,0,0,0,0,0,0,0,0,13,6,True
+50,Selling an Item in the Markets,830,831,832,0,0,0,0,0,0,0,14,6,True
+51,Retainers,840,841,0,0,0,0,0,0,0,0,21,6,True
+52,Hiring a Retainer,850,851,0,0,0,0,0,0,0,0,22,6,True
+53,A Retainer's Many Tasks,860,861,0,0,0,0,0,0,0,0,23,6,True
+54,Gathering Point Characteristics,870,871,0,0,0,0,0,0,0,0,22,13,True
+55,Unspoiled Locations,1000,1001,1002,0,0,0,0,0,0,0,30,13,True
+56,,0,0,0,0,0,0,0,0,0,0,0,0,False
+57,Clearing Instanced Raids,105,106,107,0,0,0,0,0,0,0,4,8,True
+58,Material Condition,730,731,0,0,0,0,0,0,0,0,4,12,True
+59,,0,0,0,0,0,0,0,0,0,0,0,0,False
+60,High-quality Items,770,771,0,0,0,0,0,0,0,0,2,6,True
+61,Unique Items,780,0,0,0,0,0,0,0,0,0,3,6,True
+62,Binding Items,790,791,0,0,0,0,0,0,0,0,2,7,True
+63,Player Search,210,211,212,213,214,210,211,215,213,216,13,2,True
+64,The FATE System,610,611,612,613,0,0,0,0,0,0,1,8,True
+65,Combos,1210,1211,1212,1213,0,0,0,0,0,0,4,4,True
+66,FATE Rewards,620,621,0,0,0,0,0,0,0,0,2,8,True
+67,Tradecraft Leves,560,0,0,0,0,0,0,0,0,0,11,9,True
+68,Completing Leves,570,0,0,0,0,571,0,0,0,0,12,9,True
+69,Fieldcraft Leves,580,581,0,0,0,0,0,0,0,0,13,9,True
+70,Completing Fieldcraft Leves,590,591,0,0,0,0,0,0,0,0,14,9,True
+71,Guildhests,630,631,0,0,0,0,0,0,0,0,11,8,True
+72,Guildhest Objectives,640,0,0,0,0,0,0,0,0,0,12,8,True
+73,Hazardous Zones,650,0,0,0,0,0,0,0,0,0,13,8,True
+74,Being KO'd During a Guildhest,660,0,0,0,0,0,0,0,0,0,14,8,True
+75,Guildhest Rewards,670,0,0,0,0,0,0,0,0,0,15,8,True
+76,Leve Linking,600,0,0,0,0,0,0,0,0,0,9,9,True
+77,,0,0,0,0,0,0,0,0,0,0,0,0,False
+78,Joining a Party,180,181,182,183,184,180,181,185,183,184,5,2,True
+79,Special Instances,120,121,0,0,0,0,0,0,0,0,15,5,True
+80,Main Scenario Quests,125,126,0,0,0,0,0,0,0,0,6,5,True
+81,Rental Chocobos,300,0,0,0,0,0,0,0,0,0,6,3,True
+82,Dismounting Rental Chocobos,310,0,0,0,0,311,0,0,0,0,7,3,True
+83,Porters,320,0,0,0,0,0,0,0,0,0,4,3,True
+84,Dismounting Porters,330,0,0,0,0,331,0,0,0,0,5,3,True
+85,Personal Chocobos,340,341,343,0,0,0,0,0,0,0,8,3,True
+86,Dismounting Personal Chocobos,350,0,0,0,0,351,0,0,0,0,9,3,True
+87,Grand Companies,410,411,412,0,0,0,0,0,0,0,1,10,True
+88,Class Quest Rewards,130,0,0,0,0,0,0,0,0,0,14,5,True
+89,Supply & Provisioning Missions,420,421,0,0,0,0,0,0,0,0,3,10,True
+90,Expert Delivery Missions,430,431,0,0,0,0,0,0,0,0,4,10,True
+91,Free Companies,440,441,442,0,0,0,0,0,0,0,1,11,True
+92,Limit Break,240,241,242,243,0,0,0,0,0,0,13,4,True
+93,Level Sync,250,251,252,0,0,0,0,0,0,0,5,8,True
+94,Jobs,260,261,262,0,0,0,0,0,0,0,10,2,True
+95,Dyeing,950,951,952,953,0,0,0,0,0,0,8,7,True
+96,Fighting with Your Chocobo,360,361,0,0,0,0,0,0,0,0,21,4,True
+97,Extracting Materia,960,961,962,0,0,0,0,0,0,0,21,7,True
+98,Affixing Materia,970,971,0,0,0,0,0,0,0,0,22,7,True
+99,Advanced Materia Melding,980,981,0,0,0,0,0,0,0,0,24,7,True
+100,Meld Requests,990,991,992,0,0,0,0,0,0,0,23,7,True
+101,Untradable Items,270,0,0,0,0,0,0,0,0,0,4,6,True
+102,Using Items,280,281,0,0,0,280,283,0,0,0,1,6,True
+103,,0,0,0,0,0,0,0,0,0,0,0,0,False
+104,Adding Members,1190,0,0,0,0,0,0,0,0,0,23,8,True
+105,Finding Mineral Deposits,1020,1021,1022,0,0,0,0,0,0,0,2,13,True
+106,Quarrying,1030,1031,0,0,0,0,0,0,0,0,13,13,True
+107,,0,0,0,0,0,0,0,0,0,0,0,0,False
+108,Companion Skills,380,381,382,383,0,0,0,0,0,0,22,4,True
+109,Ordering Your Chocobo,370,371,372,0,0,0,0,0,0,0,23,4,True
+110,Opening Treasure Coffers,1110,0,0,0,0,0,0,0,0,0,7,9,True
+111,Collecting Bounties,1120,0,0,0,0,0,0,0,0,0,8,9,True
+112,Grand Company Leves,1130,0,0,0,0,0,0,0,0,0,5,10,True
+113,Free Company Petitions,450,0,0,0,0,0,0,0,0,0,2,11,True
+114,Joining a Free Company,460,461,462,463,0,0,0,0,0,0,3,11,True
+115,Changing Affiliation,680,0,0,0,0,0,0,0,0,0,2,10,True
+116,Company Chest,470,471,0,0,0,0,0,0,0,0,4,11,True
+117,Company Crest,480,481,0,0,0,0,0,0,0,0,5,11,True
+118,Company Actions,490,491,492,0,0,0,0,0,0,0,6,11,True
+119,Readying Your Line,1040,1041,1042,0,0,0,0,0,0,0,1,14,True
+120,Fishing Log,1050,0,0,0,0,0,0,0,0,0,3,14,True
+121,Using Lures,1060,1061,0,0,0,0,0,0,0,0,4,14,True
+122,Mooching,1070,1071,0,0,0,0,0,0,0,0,5,14,True
+123,Skyfishing & Dunefishing,1080,1081,0,0,0,0,0,0,0,0,6,14,True
+124,Fish Size,1090,0,0,0,0,0,0,0,0,0,7,14,True
+125,Fishing Holes,1100,0,0,0,0,0,0,0,0,0,8,14,True
+126,Quick Synthesis,690,691,692,0,0,0,0,0,0,0,6,12,True
+127,Umbral Ice & Astral Fire,1220,1221,1222,1223,0,0,0,0,0,0,6,4,True
+128,Pugilist Forms,1230,1231,1232,1233,0,0,0,0,0,0,5,4,True
+129,Pets,1240,1241,1242,1244,0,1240,1245,1242,1244,0,7,4,True
+130,Crystalline Conflict,1250,0,0,0,0,0,0,0,0,0,31,8,True
+131,Quest Battles,1260,1261,1262,0,0,0,0,0,0,0,15,4,True
+132,Achievements,1150,1151,1152,0,0,1150,1151,1153,0,0,14,2,True
+133,Recommended Duties,1160,1161,0,0,0,0,0,0,0,0,16,5,True
+134,,0,0,0,0,0,0,0,0,0,0,0,0,False
+135,Fishing,1300,1301,0,0,0,0,0,0,0,0,2,14,True
+136,Armoury Bonus,1280,1281,0,0,0,0,0,0,0,0,14,4,True
+137,Allagan Tomestones,1310,1311,0,0,0,0,0,0,0,0,7,6,True
+138,Using Items on Areas,1290,0,0,0,0,1291,0,0,0,0,8,5,True
+139,Using Key Items on Targets,1270,1271,0,0,0,1272,1273,0,0,0,9,5,True
+140,,0,0,0,0,0,0,0,0,0,0,0,0,False
+141,PvP Rewards,1330,1331,1332,0,0,1330,1331,1333,0,0,32,8,True
+142,,0,0,0,0,0,0,0,0,0,0,0,0,False
+143,Housing,1350,1351,1352,1353,0,0,0,0,0,0,16,2,True
+144,Placards,1360,1361,0,0,0,0,0,0,0,0,17,2,True
+145,Duties for Alliances,1370,1371,0,0,0,0,0,0,0,0,40,8,True
+146,Weekly Reward Limits,1380,1381,1382,0,0,0,0,0,0,0,41,8,True
+147,The Party Finder,1390,1391,1392,0,0,1393,1391,1392,0,0,6,2,True
+148,Hidden Items,1400,1401,0,0,0,0,0,0,0,0,19,13,True
+149,Timeworn Maps,1410,1411,1412,0,0,0,0,0,0,0,31,6,True
+150,Deciphering Timeworn Maps,1420,1421,0,0,0,0,0,0,0,0,32,6,True
+151,Finding Treasure,1430,1431,1432,0,0,0,0,0,0,0,33,6,True
+152,Allied Society Quests,1440,1441,1442,0,0,0,0,0,0,0,21,5,True
+153,Reputation,1450,1451,1452,0,0,0,0,0,0,0,22,5,True
+154,,0,0,0,0,0,0,0,0,0,0,0,0,False
+155,,0,0,0,0,0,0,0,0,0,0,0,0,False
+156,The Pet Hotbar,1480,0,0,0,0,1481,0,0,0,0,25,5,True
+157,Aesthetician,1490,1491,0,0,0,0,0,0,0,0,15,2,True
+158,The Duty Roulette,1500,1501,0,0,0,0,0,0,0,0,24,8,True
+159,Vote Dismiss,1510,1511,1512,0,0,0,0,0,0,0,25,8,True
+160,Player Commendation,1520,1521,1522,0,0,0,0,0,0,0,26,8,True
+161,Applying to a Free Company,1530,1531,0,0,0,1530,1532,0,0,0,7,11,True
+162,Challenge Log,1540,1542,0,0,0,1541,1542,0,0,0,6,8,True
+163,Master Recipes,1550,2580,0,0,0,0,0,0,0,0,10,12,True
+164,Glamours,1560,1561,1562,0,0,0,0,0,0,0,25,7,True
+165,Gardening,1570,1571,0,0,0,0,0,0,0,0,18,2,True
+166,Tending Your Garden,1580,1581,0,0,0,0,0,0,0,0,20,2,True
+167,Harvesting Crops,1590,1591,0,0,0,0,0,0,0,0,21,2,True
+168,Retainer Ventures,1600,1601,1602,0,0,0,0,0,0,0,24,6,True
+169,Exploration Ventures,1610,1611,0,0,0,0,0,0,0,0,25,6,True
+170,Communicating with Others,1620,1622,1623,1624,0,1621,1622,1623,1624,0,25,2,True
+171,Auto-translation Dictionary,1630,1631,1633,1634,1635,1630,1632,1633,1634,1635,26,2,True
+172,The Wish List,1640,1641,0,0,0,0,0,0,0,0,15,6,True
+173,Retainer Class,1650,1651,0,0,0,0,0,0,0,0,26,6,True
+174,Trials of the Braves,1660,1661,1662,0,0,0,0,0,0,0,31,7,True
+175,Sphere Scrolls,1670,1671,1672,1673,1674,0,0,0,0,0,32,7,True
+176,Frontline,1680,0,0,0,0,0,0,0,0,0,34,8,True
+177,Repairing Your Own Gear,1690,1691,0,0,0,0,0,0,0,0,7,7,True
+178,Sightseeing Log,1700,1702,0,0,0,1701,1702,0,0,0,7,8,True
+179,Allied Seals,1710,1711,0,0,0,0,0,0,0,0,8,6,True
+180,Toy Chest,1720,0,0,0,0,0,0,0,0,0,60,8,True
+181,Artillery,1730,1731,0,0,0,0,0,0,0,0,26,5,True
+182,Releasing Fish,1740,1741,0,0,0,0,0,0,0,0,9,14,True
+183,Desynthesis,1750,1751,1752,0,0,0,0,0,0,0,13,12,True
+184,Chocobo Raising,1760,1761,1762,0,0,0,0,0,0,0,24,4,True
+185,Ixal Quests,1780,1781,0,0,0,0,0,0,0,0,27,5,True
+186,Ehcatl Nine Delivery Quests,1790,1791,1792,0,0,0,0,0,0,0,28,5,True
+187,,0,0,0,0,0,0,0,0,0,0,0,0,False
+188,,0,0,0,0,0,0,0,0,0,0,0,0,False
+189,Soulglazing,1820,1821,1822,1823,0,0,0,0,0,0,33,7,True
+190,Fish Population,1830,1831,0,0,0,0,0,0,0,0,10,14,True
+191,Fish and Weather,1840,0,0,0,0,0,0,0,0,0,11,14,True
+192,Mudra and Ninjutsu,1850,1851,1852,1853,0,0,0,0,0,0,25,4,True
+193,The Ceremony of Eternal Bonding,1860,1861,1862,0,0,0,0,0,0,0,30,2,True
+194,Bonding Ceremony Etiquette,1870,1871,1872,1873,0,0,0,0,0,0,31,2,True
+195,Bonding Ceremony Invitations,1880,1881,0,0,0,0,0,0,0,0,32,2,True
+196,Fledgling and Race Chocobos,1890,1891,1892,0,0,0,0,0,0,0,2,15,True
+197,Race Abilities,1900,1901,1902,0,0,0,0,0,0,0,4,15,True
+198,Retirement and Covering,1910,1911,1912,1913,0,0,0,0,0,0,5,15,True
+199,Challenging the Masters,1920,1921,0,0,0,0,0,0,0,0,6,15,True
+200,Triple Triad,1930,1931,0,0,0,0,0,0,0,0,7,15,True
+201,The Manderville Gold Saucer,1940,1941,1942,0,0,0,0,0,0,0,1,15,True
+202,Entering a Chocobo Race,1950,1951,1952,0,0,0,0,0,0,0,3,15,True
+203,Specialists,1960,1961,0,0,0,0,0,0,0,0,21,12,True
+204,,0,0,0,0,0,0,0,0,0,0,0,0,False
+205,Flying Mounts,1980,1981,0,0,0,1980,1982,0,0,0,20,3,True
+206,,0,0,0,0,0,0,0,0,0,0,0,0,False
+207,,0,0,0,0,0,0,0,0,0,0,0,0,False
+208,The Mentor System,2010,2011,2012,2013,0,0,0,0,0,0,60,2,True
+209,Ephemeral Gathering Points,2020,0,0,0,0,0,0,0,0,0,49,13,True
+210,Hidden Characteristics,2030,2031,0,0,0,0,0,0,0,0,46,13,True
+211,,0,0,0,0,0,0,0,0,0,0,0,0,False
+212,Aetherial Reduction,2050,0,0,0,0,0,0,0,0,0,52,13,True
+213,Legendary Nodes and Tomes of Regional Folklore,2060,2061,0,0,0,0,0,0,0,0,40,13,True
+214,,0,0,0,0,0,0,0,0,0,0,0,0,False
+215,,0,0,0,0,0,0,0,0,0,0,0,0,False
+216,Loot Rules,2090,2091,2092,2093,0,2094,2091,2092,2093,0,11,4,True
+217,Setting Loot Rules,2100,2101,0,0,0,0,0,0,0,0,12,4,True
+218,Temple Leves,2110,2111,0,0,0,0,0,0,0,0,20,9,True
+219,Collectables,2120,2121,2122,0,0,0,0,0,0,0,40,6,True
+220,,0,0,0,0,0,0,0,0,0,0,0,0,False
+221,Collectable Fish,2140,2141,0,0,0,0,0,0,0,0,20,14,True
+222,,0,0,0,0,0,0,0,0,0,0,0,0,False
+223,,0,0,0,0,0,0,0,0,0,0,0,0,False
+224,Lord of Verminion,2170,2171,2172,2173,2174,0,0,0,0,0,10,15,True
+225,Minion Types,2180,2181,2182,2183,0,0,0,0,0,0,11,15,True
+226,Verminion Structures,2190,2191,2192,2193,2194,0,0,0,0,0,12,15,True
+227,Quest Sync,2200,2201,0,0,0,0,0,0,0,0,30,5,True
+228,Class/Job-specific Quests,2210,0,0,0,0,0,0,0,0,0,31,5,True
+229,The Orchestrion,2220,2221,2222,2223,2224,0,0,0,0,0,40,2,True
+230,Flowerpots,2230,0,0,0,0,0,0,0,0,0,19,2,True
+231,Treasure Dungeons,2240,2241,2242,0,0,0,0,0,0,0,34,6,True
+232,Aquariums,2250,2251,2252,2253,0,0,0,0,0,0,22,2,True
+233,Pet Glamours,2260,2261,2262,2573,0,0,0,0,0,0,63,4,True
+234,Item Level,2270,2271,2272,0,0,0,0,0,0,0,70,4,True
+235,Increasing Item Level,2280,2281,2282,0,0,0,0,0,0,0,71,4,True
+236,,0,0,0,0,0,0,0,0,0,0,0,0,False
+237,,0,0,0,0,0,0,0,0,0,0,0,0,False
+238,Swimming and Diving,2310,2311,2313,0,0,2310,2312,2313,0,0,21,3,True
+239,Duty Actions,2320,2322,0,0,0,2321,2322,0,0,0,55,8,True
+240,Rival Wings,2330,0,0,0,0,0,0,0,0,0,35,8,True
+241,Spearfishing,2340,0,0,0,0,0,0,0,0,0,30,14,True
+242,Teeming Waters,2350,2351,2352,0,0,0,0,0,0,0,31,14,True
+243,,0,0,0,0,0,0,0,0,0,0,0,0,False
+244,Role Actions,2370,2371,0,0,0,0,0,0,0,0,10,4,True
+245,Performance Actions,2380,0,0,0,0,0,0,0,0,0,45,2,True
+246,The Fashion Report,2390,2391,2392,2393,0,0,0,0,0,0,30,7,True
+247,Glamour Dressers,2400,2401,0,0,0,0,0,0,0,0,26,7,True
+248,Glamouring Gear,2410,0,0,0,0,0,0,0,0,0,27,7,True
+249,Equipping Glamour Plates,2420,0,0,0,0,0,0,0,0,0,28,7,True
+250,Using Glamour Plates,2430,0,0,0,0,0,0,0,0,0,29,7,True
+251,Adventuring in Eureka,2440,2441,0,0,0,0,0,0,0,0,50,8,True
+252,Chocobo Saddlebag,2450,2451,0,0,0,0,0,0,0,0,18,6,True
+253,Duty Recorder,2460,2461,0,0,0,0,0,0,0,0,57,8,True
+254,Recording Duties,2470,2471,2472,2473,0,2470,2471,2472,2474,0,58,8,True
+255,Viewing Recorded Duties,2480,0,0,0,0,0,0,0,0,0,59,8,True
+256,Happy Bunnies,2487,2488,0,0,0,0,0,0,0,0,51,8,True
+257,Message Books,2481,2482,2483,2484,0,0,0,0,0,0,23,2,True
+258,Custom Delivery Makeovers,2485,2486,0,0,0,0,0,0,0,0,61,8,True
+259,Shifting Sanctums,2489,2490,2491,2492,0,0,0,0,0,0,35,6,True
+260,Mannequins,2493,2494,2495,0,0,0,0,0,0,0,24,2,True
+261,Logos Manipulator,2496,2497,2498,0,0,0,0,0,0,0,52,8,True
+262,Upgraded Logos Manipulator,2499,2500,0,0,0,0,0,0,0,0,53,8,True
+263,Multi-seat Mounts,2501,0,0,0,0,0,0,0,0,0,22,3,True
+264,World Visit,2506,2507,0,0,0,0,0,0,0,0,10,3,True
+265,Blue Magic,2502,2503,2504,2505,2508,2502,2509,2504,2505,2508,64,4,True
+266,Bicolor Gemstones,2510,2511,2512,0,0,2510,2511,2513,0,0,3,8,True
+267,Fishing and Regional Folklore,1764,1765,0,0,0,0,0,0,0,0,13,14,True
+268,Swimming Shadows,1767,1768,0,0,0,0,0,0,0,0,12,14,True
+269,Collection,1770,0,0,0,0,1771,0,0,0,0,27,2,True
+270,Expert Recipes,2520,2521,0,0,0,0,0,0,0,0,11,12,True
+271,Patience,2530,2531,0,0,0,0,0,0,0,0,14,14,True
+272,Fashion Accessories,2540,2541,0,0,0,0,0,0,0,0,28,2,True
+273,,0,0,0,0,0,0,0,0,0,0,0,0,False
+274,,0,0,0,0,0,0,0,0,0,0,0,0,False
+275,Gathering Collectables,2552,0,0,0,0,0,0,0,0,0,43,13,True
+276,Trial Synthesis,2550,2551,0,0,0,0,0,0,0,0,7,12,True
+277,Gatherer's Boon,2553,0,0,0,0,0,0,0,0,0,7,13,True
+278,Perception Requirements,2554,0,0,0,0,0,0,0,0,0,60,13,True
+279,Spearfishing Interface,2555,2556,2557,0,0,0,0,0,0,0,32,14,True
+280,Fish Population (Spearfishing),2558,2559,0,0,0,0,0,0,0,0,33,14,True
+281,,0,0,0,0,0,0,0,0,0,0,0,0,False
+282,Quality Requirements,2566,0,0,0,0,0,0,0,0,0,12,12,True
+283,Prime and Sublime Collectables,2567,2568,2569,0,0,0,0,0,0,0,54,13,True
+284,Gatherer Role Actions,2570,2571,2572,0,0,0,0,0,0,0,1,13,True
+285,Facewear,2574,2575,0,0,0,0,0,0,0,0,29,2,True
+286,Scenario Guide,2576,2577,0,0,0,0,0,0,0,0,7,5,True
+287,Special Recipes,2578,2579,0,0,0,0,0,0,0,0,22,12,True
+288,Phantom Actions,2581,2582,2583,0,0,2581,2584,2583,0,0,56,8,True
+289,Vault Oneiron,2585,2586,2587,2588,0,0,0,0,0,0,36,6,True
+290,Phoenix Down,2589,2590,2591,2592,0,0,0,0,0,0,5,6,True
+291,,0,0,0,0,0,0,0,0,0,0,0,0,False
+292,,0,0,0,0,0,0,0,0,0,0,0,0,False
+293,,0,0,0,0,0,0,0,0,0,0,0,0,False
+294,,0,0,0,0,0,0,0,0,0,0,0,0,False
+295,,0,0,0,0,0,0,0,0,0,0,0,0,False
+296,,0,0,0,0,0,0,0,0,0,0,0,0,False
+297,,0,0,0,0,0,0,0,0,0,0,0,0,False
+298,,0,0,0,0,0,0,0,0,0,0,0,0,False
+299,,0,0,0,0,0,0,0,0,0,0,0,0,False
+300,,0,0,0,0,0,0,0,0,0,0,0,0,False
+301,,0,0,0,0,0,0,0,0,0,0,0,0,False
+302,,0,0,0,0,0,0,0,0,0,0,0,0,False
+303,,0,0,0,0,0,0,0,0,0,0,0,0,False

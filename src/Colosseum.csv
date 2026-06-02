@@ -1,6 +1,4 @@
-﻿key,0,1
-#,,
-int32,byte,bit&01
+#,Unknown0,Unknown1
 0,0,False
 1,0,False
 2,0,False
@@ -45,3 +43,6 @@ int32,byte,bit&01
 41,2,False
 42,2,False
 43,2,False
+44,2,False
+45,2,False
+46,2,False

@@ -1,59 +1,31 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10
-#,ContentType,Text[0],Text[1],Text[2],Text[3],Image,,UnlockQuest,,,
-int32,ContentType,Addon,Addon,Addon,Addon,Image,uint32,Quest,uint32,uint32,uint32
-0,"","","","","",,0,,0,0,0
-1,"Dungeons","<If(GreaterThan(IntegerParameter(3),0))><Clickable(<Sheet(InstanceContent,IntegerParameter(5),3)/>)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(3),0))><Clickable(<Sheet(InstanceContent,IntegerParameter(5),3)/>)/><Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value> <If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","Complete <Sheet(InstanceContent,IntegerParameter(5),3)/>.","",,0,,0,0,0
-2,"Trials","<If(GreaterThan(IntegerParameter(3),0))><Clickable(<Sheet(InstanceContent,IntegerParameter(5),3)/>)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(3),0))><Clickable(<Sheet(InstanceContent,IntegerParameter(5),3)/>)/><Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value> <If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","Complete <Sheet(InstanceContent,IntegerParameter(5),3)/>.","",,0,,0,0,0
-3,"Raids","<If(GreaterThan(IntegerParameter(3),0))><Clickable(<Sheet(InstanceContent,IntegerParameter(5),3)/>)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(3),0))><Clickable(<Sheet(InstanceContent,IntegerParameter(5),3)/>)/><Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value> <If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","Complete <Sheet(InstanceContent,IntegerParameter(5),3)/>.","",,0,,0,0,0
-4,"PvP","<If(GreaterThan(IntegerParameter(3),0))><Clickable(<Sheet(InstanceContent,IntegerParameter(5),3)/>)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(3),0))><Clickable(<Sheet(InstanceContent,IntegerParameter(5),3)/>)/><Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value> <If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","Participate in <Sheet(InstanceContent,IntegerParameter(5),3)/>.","Victory or defeat will determine the quantity of rewards.",,0,,0,0,0
-5,"Deep Dungeons","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value>","<Sheet(Addon,15955,0,<Sheet(PlaceName,IntegerParameter(18),0)/>,IntegerParameter(14),IntegerParameter(12),IntegerParameter(16))/>","",,0,,0,0,0
-6,"Ocean Fishing","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value>","Score at least <If(GreaterThan(IntegerParameter(7),0))><Value>IntegerParameter(7)</Value><Else/><Value>IntegerParameter(8)</Value></If> points during a single <Sheet(ContentType,IntegerParameter(2),0)/> voyage.","Rewards differ depending on total catch.","ui/icon/112000/112383.tex",8267820,,69379,0,0
-7,"Triple Triad","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value>","Win a game of <Sheet(ContentType,IntegerParameter(2),0)/> against <SheetEn(ENpcResident,2,IntegerParameter(5),1,1)/> in <SheetEn(PlaceName,2,<Sheet(TerritoryType,<Sheet(Level,IntegerParameter(10),9)/>,5)/>,2,1)/>.","","ui/icon/111000/111044.tex",0,,65973,0,0
-8,"Treasure Hunt","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value>","Decipher a timeworn map and collect the treasure.","","ui/icon/111000/111042.tex",0,,66747,0,0
-9,"The Hunt","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value>","Complete an <Sheet(EventItem,<Sheet(MobHuntOrderType,IntegerParameter(5),2)/>,0)/>.","","ui/icon/111000/111041.tex",0,,0,99,0
-10,"Fishing","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value>","Catch <SheetEn(Item,1,<Sheet(FishParameter,IntegerParameter(5),4)/>,1,1)/>.","","ui/icon/111000/111043.tex",0,,66643,0,0
-11,"GATE","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value>","Obtain MGP in any <Sheet(ContentType,IntegerParameter(2),0)/>.","Rewards differ depending on the GATE. Rewards can be viewed from “See Rewards.”","ui/icon/111000/111046.tex",0,,65970,0,0
-12,"FATEs","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value>","<If(Equal(IntegerParameter(4),2))>Complete <Value>IntegerParameter(8)</Value> <Sheet(ContentType,IntegerParameter(2),0)/> in <SheetEn(PlaceName,2,<Sheet(TerritoryType,IntegerParameter(5),5)/>,2,1)/> or <SheetEn(PlaceName,2,<Sheet(TerritoryType,IntegerParameter(6),5)/>,2,1)/>.<Else/>Complete <Value>IntegerParameter(8)</Value> <Sheet(ContentType,IntegerParameter(2),0)/> in <SheetEn(PlaceName,2,<Sheet(TerritoryType,IntegerParameter(5),5)/>,2,1)/>.</If>","","ui/icon/111000/111045.tex",0,,0,0,0
-13,"","","","","",,0,,0,0,0
-14,"Treasure Hunt","Treasure Dungeons","Treasure Dungeon
-Lv. <Value>IntegerParameter(7)</Value>","Enter a treasure dungeon via a teleportation portal <Value>IntegerParameter(8)</Value> times.
-※Treasure hunts abandoned midway through will not count toward the total.","","ui/icon/111000/111047.tex",0,,0,0,179
-15,"Eureka","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value>","Defeat <Value>IntegerParameter(8)</Value> notorious <If(Equal(IntegerParameter(8),1))>monster<Else/>monsters</If> in <Sheet(PublicContent,IntegerParameter(5),3)/>.","",,0,,0,0,283
-16,"Save the Queen","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value>","Complete <Value>IntegerParameter(8)</Value> critical <If(Equal(IntegerParameter(8),1))>engagement<Else/>engagements</If> <If(Equal(IntegerParameter(5),27))>on the Bozjan southern front<Else/>in Zadnor</If>.","",,0,,0,0,735
-17,"The Masked Carnivale","<If(GreaterThan(IntegerParameter(1),0))>Masked Carnivale<Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))>Masked Carnivale<Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value>","Complete a stage of the Masked Carnivale.","","ui/icon/112000/112332.tex",7735774,,68734,0,610
-18,"Island Sanctuary","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value>","Gather materials <Value>IntegerParameter(8)</Value> <If(Equal(IntegerParameter(8),1))>time<Else/>times</If> in <Sheet(ContentType,IntegerParameter(2),0)/>.","","ui/icon/101000/101184.tex",9323110,,70179,0,0
-19,"V&C Dungeon Finder","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value>","Complete <Sheet(InstanceContent,IntegerParameter(5),3)/> <Value>IntegerParameter(8)</Value> times.","","ui/icon/111000/111042.tex",0,,0,0,0
-20,"Custom Deliveries","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value>","Complete any custom delivery <Value>IntegerParameter(8)</Value> times.","","ui/icon/111000/111048.tex",0,,67634,0,0
-21,"Society Quests","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value>","Complete any society daily quest <Value>IntegerParameter(8)</Value> times.","","ui/icon/111000/111049.tex",0,,66488,0,0
-22,"PvP","<If(GreaterThan(IntegerParameter(1),0))>Crystalline Conflict<Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))>Crystalline Conflict<Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value>","Participate in a casual match of Crystalline Conflict.","","ui/icon/112000/112471.tex",0,,0,0,835
-23,"Gold Saucer","<If(GreaterThan(IntegerParameter(1),0))>Chocobo Racing<Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))>Chocobo Racing<Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value>","Participate in <Value>IntegerParameter(8)</Value> chocobo races.","","ui/icon/112000/112295.tex",0,,66101,0,0
-24,"Wondrous Tails","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value>","Collect <Value>IntegerParameter(8)</Value> seals for Wondrous Tails.","","ui/icon/111000/111050.tex",6526530,,67928,0,0
-25,"Gold Saucer","<If(GreaterThan(IntegerParameter(1),0))>Doman Mahjong<Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))>Doman Mahjong<Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value>","Play <Value>IntegerParameter(8)</Value> <If(Equal(IntegerParameter(8),1))>match<Else/>matches</If> of Doman mahjong with other players.
-※NPC matches will not be counted.","","ui/icon/112000/112336.tex",0,,68737,0,0
-26,"Grand Company","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value>","Complete <Value>IntegerParameter(8)</Value> Grand Company supply and provisioning missions.","","ui/icon/111000/111051.tex",0,,0,0,0
-27,"Occult Crescent","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>","<If(GreaterThan(IntegerParameter(1),0))><Sheet(ContentType,IntegerParameter(2),0)/><Else/>???</If>
-Lv. <Value>IntegerParameter(7)</Value>","Complete <Value>IntegerParameter(8)</Value> critical <If(Equal(IntegerParameter(8),1))>encounter<Else/>encounters</If> on <Sheet(PublicContent,IntegerParameter(5),3)/>.","","ui/icon/112000/112593.tex",0,,0,0,1018
+#,Dialogue[0],Dialogue[1],Dialogue[2],Dialogue[3],Image,Level,UnlockQuest,UnlockLink,ContentFinderCondition,ContentType,Unknown6
+0,0,0,0,0,0,0,0,0,0,0,False
+1,15938,15916,15922,0,0,0,0,0,0,2,False
+2,15938,15916,15922,0,0,0,0,0,0,4,False
+3,15938,15916,15922,0,0,0,0,0,0,5,False
+4,15938,15916,15923,15934,0,0,0,0,0,6,False
+5,15905,15939,15958,0,0,0,0,0,0,21,False
+6,15905,15939,15925,15959,112383,8267820,69379,0,0,31,False
+7,15905,15939,15928,0,111044,0,65973,0,0,32,False
+8,15905,15939,15946,0,111042,0,66747,0,0,9,False
+9,15905,15939,15929,0,111041,0,0,99,0,33,False
+10,15905,15939,15930,0,111043,0,66643,0,0,34,False
+11,15905,15939,15924,15935,111046,0,65970,0,0,35,True
+12,15905,15939,15927,0,111045,0,0,0,0,8,False
+13,0,0,0,0,0,0,0,0,0,0,False
+14,15944,15945,15943,0,111047,0,0,0,179,9,False
+15,15905,15939,15948,0,0,0,0,0,283,26,False
+16,15905,15939,15949,0,0,0,0,0,735,29,False
+17,15953,15954,15947,0,112332,7735774,68734,0,610,27,False
+18,15905,15939,15950,0,101184,9323110,70179,0,0,36,False
+19,15905,15939,15961,0,111042,0,0,0,0,30,False
+20,15905,15939,15967,0,111048,0,67631,0,0,25,False
+21,15905,15939,15966,0,111049,0,66488,0,0,13,False
+22,17033,17034,15913,0,112471,0,0,0,835,6,False
+23,17031,17032,15969,0,112295,0,66101,0,0,19,False
+24,15905,15939,15968,0,111050,6526530,67928,0,0,24,False
+25,17035,17036,17037,0,112336,0,68737,0,0,19,False
+26,15905,15939,17038,0,111051,0,0,0,0,11,False
+27,15905,15939,17040,0,112593,0,0,0,1018,38,False
+28,15905,15939,17042,0,0,0,0,0,0,0,False
+29,15905,15939,17043,0,0,0,0,0,735,29,False

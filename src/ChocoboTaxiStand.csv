@@ -1,96 +1,94 @@
-﻿key,0,1,2,3,4,5,6,7,8
-#,TargetLocations[0],TargetLocations[1],TargetLocations[2],TargetLocations[3],TargetLocations[4],TargetLocations[5],TargetLocations[6],TargetLocations[7],PlaceName
-int32,ChocoboTaxi,ChocoboTaxi,ChocoboTaxi,ChocoboTaxi,ChocoboTaxi,ChocoboTaxi,ChocoboTaxi,ChocoboTaxi,str
-1179648,"Reginald Eventman II","","","","","","","","Reginald Eventman I"
-1179649,"","","","","","","","","Reginald Eventman II"
-1179650,"Hyrstmill","Bentbranch Meadows","The Hawthorne Hut","Fallgourd Float","Quarrymill","Camp Tranquil","","","Gridania"
-1179651,"Gridania","","","","","","","","The Hawthorne Hut"
-1179652,"Camp Tranquil","Quarrymill","","","","","","","Buscarron's Druthers"
-1179653,"Gridania","Buscarron's Druthers","Camp Tranquil","","","","","","Quarrymill"
-1179654,"Gridania","Buscarron's Druthers","Quarrymill","Camp Drybone","","","","","Camp Tranquil"
-1179655,"Gridania","Fallgourd Float","","","","","","","Hyrstmill"
-1179656,"Gridania","Hyrstmill","Camp Dragonhead","","","","","","Fallgourd Float"
-1179657,"Gridania","","","","","","","","Bentbranch Meadows"
-1179658,"Black Brush Station","Horizon","Camp Drybone","Vesper Bay","Little Ala Mhigo","Forgotten Springs","Camp Bluefog","The Silver Bazaar","Ul'dah"
-1179659,"Ul'dah","Vesper Bay","The Silver Bazaar","","","","","","Horizon"
-1179660,"Ul'dah","Horizon","","","","","","","Vesper Bay"
-1179661,"Ul'dah","Horizon","","","","","","","The Silver Bazaar"
-1179662,"Ul'dah","","","","","","","","Black Brush Station"
-1179663,"Ul'dah","The Golden Bazaar","Camp Tranquil","","","","","","Camp Drybone"
-1179664,"Ul'dah","Forgotten Springs","","","","","","","Little Ala Mhigo"
-1179665,"Ul'dah","Little Ala Mhigo","","","","","","","Forgotten Springs"
-1179666,"Ul'dah","Ceruleum Processing Plant","","","","","","","Camp Bluefog"
-1179667,"Camp Drybone","","","","","","","","The Golden Bazaar"
-1179668,"Camp Bluefog","","","","","","","","Ceruleum Processing Plant"
-1179669,"Summerford Farms","Red Rooster Stead","Swiftperch","Moraby Drydocks","Aleport","Wineport","Camp Bronze Lake","Costa del Sol","Limsa Lominsa"
-1179670,"Limsa Lominsa","","","","","","","","Summerford Farms"
-1179671,"Limsa Lominsa","Aleport","","","","","","","Swiftperch"
-1179672,"Limsa Lominsa","Swiftperch","","","","","","","Aleport"
-1179673,"Limsa Lominsa","","","","","","","","Wineport"
-1179674,"Limsa Lominsa","","","","","","","","Camp Bronze Lake"
-1179675,"Limsa Lominsa","Red Rooster Stead","","","","","","","Moraby Drydocks"
-1179676,"Limsa Lominsa","Moraby Drydocks","","","","","","","Red Rooster Stead"
-1179677,"Limsa Lominsa","","","","","","","","Costa del Sol"
-1179678,"","","","","","","","","（空き）"
-1179679,"Camp Dragonhead","","","","","","","","The Observatorium"
-1179680,"The Observatorium","Whitebrim","Revenant's Toll","Fallgourd Float","","","","","Camp Dragonhead"
-1179681,"Camp Dragonhead","","","","","","","","Whitebrim"
-1179682,"Camp Dragonhead","Saint Coinach's Find","","","","","","","Revenant's Toll"
-1179683,"Revenant's Toll","","","","","","","","Saint Coinach's Find"
-1179684,"Falcon's Nest","","","","","","","","Foundation"
-1179685,"Foundation","The Convictory","Tailfeather","","","","","","Falcon's Nest"
-1179686,"Falcon's Nest","Tailfeather","","","","","","","The Convictory"
-1179687,"Falcon's Nest","The Convictory","Anyx Trine","Bigwest Shortstop","","","","","Tailfeather"
-1179688,"Tailfeather","Bigwest Shortstop","","","","","","","Anyx Trine"
-1179689,"Tailfeather","Anyx Trine","","","","","","","Bigwest Shortstop"
-1179690,"Zenith","Asah","","","","","","","Moghome"
-1179691,"Moghome","Zenith","","","","","","","Asah"
-1179692,"Moghome","Asah","","","","","","","Zenith"
-1179693,"Camp Cloudtop","","","","","","","","Ok' Zundu"
-1179694,"Ok' Zundu","","","","","","","","Camp Cloudtop"
-1179695,"Castrum Oriens","The Peering Stones","Ala Gannha","Ala Ghiri","","","","","Rhalgr's Reach"
-1179696,"Rhalgr's Reach","The Peering Stones","","","","","","","Castrum Oriens"
-1179697,"Rhalgr's Reach","Castrum Oriens","Ala Ghiri","","","","","","The Peering Stones"
-1179698,"Rhalgr's Reach","Ala Ghiri","Porta Praetoria","","","","","","Ala Gannha"
-1179699,"Rhalgr's Reach","The Peering Stones","Ala Gannha","Porta Praetoria","","","","","Ala Ghiri"
-1179700,"Ala Gannha","Ala Ghiri","The Ala Mhigan Mercantile District","","","","","","Porta Praetoria"
-1179701,"Porta Praetoria","","","","","","","","The Ala Mhigan Mercantile District"
-1179702,"Onokoro","Tamamizu","","","","","","","Kugane"
-1179703,"Kugane","Tamamizu","Namai","Reunion","","","","","Onokoro"
-1179704,"Kugane","Onokoro","Namai","","","","","","Tamamizu"
-1179705,"Onokoro","Tamamizu","The House of the Fierce","","","","","","Namai"
-1179706,"Namai","Reunion","The Dawn Throne","","","","","","The House of the Fierce"
-1179707,"The House of the Fierce","Onokoro","Mol Iloh","The Dawn Throne","","","","","Reunion"
-1179708,"Reunion","The Dawn Throne","","","","","","","Mol Iloh"
-1179709,"The House of the Fierce","Reunion","Mol Iloh","","","","","","The Dawn Throne"
-1179710,"Wright","Stilltide","Eulmore","","","","","","Tomra"
-1179711,"Tomra","Stilltide","Eulmore","","","","","","Wright"
-1179712,"Wright","Tomra","Eulmore","","","","","","Stilltide"
-1179713,"Tomra","Wright","Stilltide","","","","","","Eulmore"
-1179714,"Wolekdorf","Lydha Lran","","","","","","","Pla Enni"
-1179715,"Pla Enni","Lydha Lran","","","","","","","Wolekdorf"
-1179716,"Pla Enni","Wolekdorf","Fort Jobb","The Ostall Imperative","","","","","Lydha Lran"
-1179717,"Slitherbough","","","","","","","","Fanow"
-1179718,"Fanow","Fort Jobb","The Ostall Imperative","","","","","","Slitherbough"
-1179719,"Mord Souq","Fort Jobb","The Ostall Imperative","The Inn at Journey's Head","","","","","Twine"
-1179720,"Twine","The Inn at Journey's Head","","","","","","","Mord Souq"
-1179721,"Fort Jobb","The Ostall Imperative","","","","","","","The Crystarium"
-1179722,"Fort Jobb","Lydha Lran","Slitherbough","The Crystarium","Twine","","","","The Ostall Imperative"
-1179723,"The Ostall Imperative","Lydha Lran","Slitherbough","The Crystarium","Twine","","","","Fort Jobb"
-1179724,"Mord Souq","Twine","","","","","","","The Inn at Journey's Head"
-1179725,"Yedlihmad","The Great Work","Palaka's Stand","","","","","","Radz-at-Han"
-1179726,"The Great Work","Palaka's Stand","Radz-at-Han","","","","","","Yedlihmad"
-1179727,"Yedlihmad","Palaka's Stand","Radz-at-Han","","","","","","The Great Work"
-1179728,"Yedlihmad","The Great Work","Radz-at-Han","","","","","","Palaka's Stand"
-1179729,"Tertium","","","","","","","","Camp Broken Glass"
-1179730,"Camp Broken Glass","","","","","","","","Tertium"
-1179731,"The Archeion","Sharlayan Hamlet","Aporia","","","","","","The Hall of Artifice"
-1179732,"Sharlayan Hamlet","Aporia","The Hall of Artifice","","","","","","The Archeion"
-1179733,"The Archeion","Aporia","The Hall of Artifice","","","","","","Sharlayan Hamlet"
-1179734,"The Archeion","Sharlayan Hamlet","The Hall of Artifice","","","","","","Aporia"
-1179735,"Wachunpelo","Ok'hanu","","","","","","","Tuliyollal"
-1179736,"Tuliyollal","Worlar's Echo","","","","","","","Wachunpelo"
-1179737,"Wachunpelo","","","","","","","","Worlar's Echo"
-1179738,"Tuliyollal","Many Fires","Earthenshire","","","","","","Ok'hanu"
-1179739,"Ok'hanu","Earthenshire","","","","","","","Many Fires"
-1179740,"Ok'hanu","Many Fires","","","","","","","Earthenshire"
+#,PlaceName,TargetLocations[0],TargetLocations[1],TargetLocations[2],TargetLocations[3],TargetLocations[4],TargetLocations[5],TargetLocations[6],TargetLocations[7]
+1179648,Reginald Eventman I,1,0,0,0,0,0,0,0
+1179649,Reginald Eventman II,0,0,0,0,0,0,0,0
+1179650,Gridania,16,2,4,18,8,12,0,0
+1179651,The Hawthorne Hut,6,0,0,0,0,0,0,0
+1179652,Buscarron's Druthers,21,24,0,0,0,0,0,0
+1179653,Quarrymill,10,25,23,0,0,0,0,0
+1179654,Camp Tranquil,14,20,22,108,0,0,0,0
+1179655,Hyrstmill,17,27,0,0,0,0,0,0
+1179656,Fallgourd Float,19,26,94,0,0,0,0,0
+1179657,Bentbranch Meadows,3,0,0,0,0,0,0,0
+1179658,Ul'dah,42,32,44,30,48,52,38,28
+1179659,Horizon,33,36,34,0,0,0,0,0
+1179660,Vesper Bay,31,37,0,0,0,0,0,0
+1179661,The Silver Bazaar,29,35,0,0,0,0,0,0
+1179662,Black Brush Station,43,0,0,0,0,0,0,0
+1179663,Camp Drybone,46,56,110,0,0,0,0,0
+1179664,Little Ala Mhigo,50,58,0,0,0,0,0,0
+1179665,Forgotten Springs,54,59,0,0,0,0,0,0
+1179666,Camp Bluefog,40,60,0,0,0,0,0,0
+1179667,The Golden Bazaar,57,0,0,0,0,0,0,0
+1179668,Ceruleum Processing Plant,61,0,0,0,0,0,0,0
+1179669,Limsa Lominsa,62,88,64,86,68,72,76,82
+1179670,Summerford Farms,63,0,0,0,0,0,0,0
+1179671,Swiftperch,66,93,0,0,0,0,0,0
+1179672,Aleport,70,92,0,0,0,0,0,0
+1179673,Wineport,74,0,0,0,0,0,0,0
+1179674,Camp Bronze Lake,79,0,0,0,0,0,0,0
+1179675,Moraby Drydocks,87,90,0,0,0,0,0,0
+1179676,Red Rooster Stead,89,91,0,0,0,0,0,0
+1179677,Costa del Sol,84,0,0,0,0,0,0,0
+1179678,（空き）,0,0,0,0,0,0,0,0
+1179679,The Observatorium,98,0,0,0,0,0,0,0
+1179680,Camp Dragonhead,99,101,102,96,0,0,0,0
+1179681,Whitebrim,100,0,0,0,0,0,0,0
+1179682,Revenant's Toll,104,106,0,0,0,0,0,0
+1179683,Saint Coinach's Find,107,0,0,0,0,0,0,0
+1179684,Foundation,140,0,0,0,0,0,0,0
+1179685,Falcon's Nest,141,112,114,0,0,0,0,0
+1179686,The Convictory,113,118,0,0,0,0,0,0
+1179687,Tailfeather,116,120,122,124,0,0,0,0
+1179688,Anyx Trine,123,128,0,0,0,0,0,0
+1179689,Bigwest Shortstop,126,130,0,0,0,0,0,0
+1179690,Moghome,132,134,0,0,0,0,0,0
+1179691,Asah,135,136,0,0,0,0,0,0
+1179692,Zenith,137,133,0,0,0,0,0,0
+1179693,Ok' Zundu,138,0,0,0,0,0,0,0
+1179694,Camp Cloudtop,139,0,0,0,0,0,0,0
+1179695,Rhalgr's Reach,145,148,151,152,0,0,0,0
+1179696,Castrum Oriens,146,155,0,0,0,0,0,0
+1179697,The Peering Stones,149,156,157,0,0,0,0,0
+1179698,Ala Gannha,143,161,163,0,0,0,0,0
+1179699,Ala Ghiri,153,159,162,166,0,0,0,0
+1179700,Porta Praetoria,165,168,169,0,0,0,0,0
+1179701,The Ala Mhigan Mercantile District,170,0,0,0,0,0,0,0
+1179702,Kugane,171,174,0,0,0,0,0,0
+1179703,Onokoro,172,177,179,195,0,0,0,0
+1179704,Tamamizu,175,178,183,0,0,0,0,0
+1179705,Namai,181,185,187,0,0,0,0,0
+1179706,The House of the Fierce,188,189,201,0,0,0,0,0
+1179707,Reunion,191,193,197,206,0,0,0,0
+1179708,Mol Iloh,198,203,0,0,0,0,0,0
+1179709,The Dawn Throne,199,205,204,0,0,0,0,0
+1179710,Tomra,207,212,213,0,0,0,0,0
+1179711,Wright,208,209,216,0,0,0,0,0
+1179712,Stilltide,210,211,219,0,0,0,0,0
+1179713,Eulmore,215,218,221,0,0,0,0,0
+1179714,Pla Enni,222,224,0,0,0,0,0,0
+1179715,Wolekdorf,223,227,0,0,0,0,0,0
+1179716,Lydha Lran,225,226,236,251,0,0,0,0
+1179717,Fanow,229,0,0,0,0,0,0,0
+1179718,Slitherbough,228,240,255,0,0,0,0,0
+1179719,Twine,230,247,262,267,0,0,0,0
+1179720,Mord Souq,231,265,0,0,0,0,0,0
+1179721,The Crystarium,244,259,0,0,0,0,0,0
+1179722,The Ostall Imperative,233,249,253,257,260,0,0,0
+1179723,Fort Jobb,232,234,238,242,245,0,0,0
+1179724,The Inn at Journey's Head,264,266,0,0,0,0,0,0
+1179725,Radz-at-Han,288,291,294,0,0,0,0,0
+1179726,Yedlihmad,280,283,286,0,0,0,0,0
+1179727,The Great Work,281,285,289,0,0,0,0,0
+1179728,Palaka's Stand,282,284,292,0,0,0,0,0
+1179729,Camp Broken Glass,295,0,0,0,0,0,0,0
+1179730,Tertium,296,0,0,0,0,0,0,0
+1179731,The Hall of Artifice,305,308,311,0,0,0,0,0
+1179732,The Archeion,297,301,303,0,0,0,0,0
+1179733,Sharlayan Hamlet,298,299,306,0,0,0,0,0
+1179734,Aporia,302,300,309,0,0,0,0,0
+1179735,Tuliyollal,312,315,0,0,0,0,0,0
+1179736,Wachunpelo,313,318,0,0,0,0,0,0
+1179737,Worlar's Echo,319,0,0,0,0,0,0,0
+1179738,Ok'hanu,316,320,322,0,0,0,0,0
+1179739,Many Fires,321,324,0,0,0,0,0,0
+1179740,Earthenshire,323,325,0,0,0,0,0,0

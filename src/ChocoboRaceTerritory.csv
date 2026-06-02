@@ -1,9 +1,7 @@
-﻿key,0,1
-#,Name,Icon
-int32,GoldSaucerTextData,Image
-0,"",
-1,"Training Course",
-2,"Sagolii Road",
-3,"Costa del Sol",
-4,"Tranquil Paths",
-5,"",
+#,Icon,Name
+0,0,0
+1,0,11
+2,121633,12
+3,121631,13
+4,121632,14
+5,0,0

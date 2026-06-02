@@ -1,102 +1,108 @@
-﻿key,0,1,2
 #,Icon,PlaceName,DisplayNavi
-int32,Image,PlaceName,bit&01
-0,,"",False
-1,"ui/icon/060000/060453.tex","Aetheryte",True
-2,"ui/icon/060000/060430.tex","Aethernet Shard",True
-3,"ui/icon/060000/060412.tex","Shop",True
-4,"ui/icon/060000/060434.tex","Repairs",True
-5,"ui/icon/060000/060551.tex","Delivery Moogle",True
-6,"ui/icon/060000/060425.tex","Summoning Bell",True
-7,"ui/icon/060000/060426.tex","Retainer Vocate",True
-8,"ui/icon/060000/060427.tex","Linkshell Distributor",True
-9,"ui/icon/060000/060460.tex","Company Chest",True
-10,"ui/icon/060000/060560.tex","Summoning Bell (Inn Room)",True
-11,"ui/icon/060000/060559.tex","Bed (Inn Room)",True
-12,"ui/icon/060000/060759.tex","Message Book Stand",True
-13,"ui/icon/060000/060760.tex","Aetheryte Shard",True
-14,"ui/icon/060000/060414.tex","Dungeon",True
-15,"ui/icon/060000/060456.tex","Ferry Docks",True
-16,"ui/icon/060000/060339.tex","Ferry Docks",True
-17,"ui/icon/060000/060352.tex","Landing",True
-18,"ui/icon/060000/060448.tex","Settlement",True
-19,"ui/icon/060000/060436.tex","Inn",True
-20,"ui/icon/060000/060314.tex","Adventurers' Guild",True
-21,"ui/icon/060000/060446.tex","To Upper Level",True
-22,"ui/icon/060000/060447.tex","To Lower Level",True
-23,"ui/icon/060000/060441.tex","Adjoining Area",False
-24,"ui/icon/060000/060449.tex","Amalj'aa Stronghold",False
-25,"ui/icon/060000/060555.tex","Sylph Stronghold",False
-26,"ui/icon/060000/060450.tex","Ixali Stronghold",False
-27,"ui/icon/060000/060554.tex","Sahagin Stronghold",False
-28,"ui/icon/060000/060451.tex","Kobold Stronghold",False
-29,"ui/icon/060000/060342.tex","Gladiators' Guild",True
-30,"ui/icon/060000/060347.tex","Pugilists' Guild",True
-31,"ui/icon/060000/060331.tex","Marauders' Guild",True
-32,"ui/icon/060000/060322.tex","Lancers' Guild",True
-33,"ui/icon/060000/060320.tex","Archers' Guild",True
-34,"ui/icon/060000/060319.tex","Conjurers' Guild",True
-35,"ui/icon/060000/060344.tex","Thaumaturges' Guild",True
-36,"ui/icon/060000/060330.tex","Arcanists' Guild",True
-37,"ui/icon/060000/060321.tex","Carpenters' Guild",True
-38,"ui/icon/060000/060337.tex","Blacksmiths' Guild",True
-39,"ui/icon/060000/060334.tex","Armorers' Guild",True
-40,"ui/icon/060000/060345.tex","Goldsmiths' Guild",True
-41,"ui/icon/060000/060326.tex","Leatherworkers' Guild",True
-42,"ui/icon/060000/060348.tex","Weavers' Guild",True
-43,"ui/icon/060000/060351.tex","Alchemists' Guild",True
-44,"ui/icon/060000/060335.tex","Culinarians' Guild",True
-45,"ui/icon/060000/060346.tex","Miners' Guild",True
-46,"ui/icon/060000/060318.tex","Botanists' Guild",True
-47,"ui/icon/060000/060333.tex","Fishermen's Guild",True
-48,"ui/icon/060000/060567.tex","Maelstrom Command",True
-49,"ui/icon/060000/060568.tex","Adders' Nest",True
-50,"ui/icon/060000/060569.tex","Hall of Flames",True
-51,"ui/icon/060000/060311.tex","Porter",True
-52,"ui/icon/060000/060768.tex","Resident Caretaker",True
-53,"ui/icon/060000/060570.tex","Market Board",True
-54,"ui/icon/060000/060459.tex","Dueling Area",True
-55,"ui/icon/060000/060428.tex","Raid",True
-56,"ui/icon/060000/060572.tex","Storm Landing",True
-57,"ui/icon/060000/060573.tex","Serpent Landing",True
-58,"ui/icon/060000/060574.tex","Flame Landing",True
-59,"ui/icon/060000/060571.tex","Hunt Board",True
-60,"ui/icon/060000/060581.tex","Skywatcher",True
-61,"ui/icon/060000/060362.tex","Rogues' Guild",True
-62,"ui/icon/060000/060582.tex","Gold Saucer Employee",True
-63,"ui/icon/060000/060363.tex","Athenaeum Astrologicum",True
-64,"ui/icon/060000/060364.tex","Skysteel Manufactory",True
-65,"ui/icon/060000/060467.tex","Gatekeeper",True
-66,"ui/icon/060000/060473.tex","Specialist Approval",True
-67,"ui/icon/060000/060910.tex","Materia Master",True
-68,"ui/icon/060000/060926.tex","Wondrous Tails",True
-69,"ui/icon/060000/060927.tex","Custom Deliveries",True
-70,"ui/icon/060000/060935.tex","Trader",True
-71,"ui/icon/060000/060959.tex","Aethernet Shard",True
-72,"ui/icon/060000/060960.tex","Masked Rose",True
-73,"ui/icon/060000/060968.tex","Magia Melder",True
-74,"ui/icon/060000/060969.tex","Donation Basket",True
-75,"ui/icon/060000/060404.tex","Achievement Exchange",True
-76,"ui/icon/060000/060971.tex","Exit",True
-77,"ui/icon/063000/063922.tex","Itinerant Moogle",True
-78,"ui/icon/060000/060983.tex","Blue Mage",True
-79,"ui/icon/060000/060988.tex","Personal Suite",True
-80,"ui/icon/060000/060986.tex","The Crystalline Mean",True
-81,"ui/icon/060000/060993.tex","Skybuilders' Board",True
-82,"ui/icon/063000/063903.tex","Kupo of Fortune",True
-83,"ui/icon/063000/063907.tex","Windmire",True
-84,"ui/icon/063000/063920.tex","Faux Hollows",True
-85,"ui/icon/063000/063919.tex","Sundry Splendors",True
-86,"ui/icon/063000/063913.tex","Lost Finds Cache",True
-87,"ui/icon/063000/063921.tex","Expedition Information",True
-88,"ui/icon/063000/063948.tex","Andron",True
-89,"ui/icon/063000/063970.tex","Island Sanctuary",True
-90,"ui/icon/063000/063971.tex","",True
-91,"ui/icon/063000/063972.tex","",True
-92,"ui/icon/063000/063973.tex","",True
-93,"ui/icon/063000/063890.tex","Starward Standings",True
-94,"ui/icon/063000/063887.tex","Cosmic Fortune",True
-95,"ui/icon/063000/063888.tex","Cosmic Research",True
-96,"ui/icon/063000/063891.tex","Mech Ops",True
-97,"ui/icon/063000/063895.tex","Intersite Travel",True
-98,"ui/icon/063000/063896.tex","Emergency Transport",True
+0,0,0,False
+1,60453,1230,True
+2,60430,1231,True
+3,60412,1232,True
+4,60434,1233,True
+5,60551,1234,True
+6,60425,1235,True
+7,60426,1236,True
+8,60427,1237,True
+9,60460,1238,True
+10,60560,1239,True
+11,60559,1240,True
+12,60759,1241,True
+13,60760,1242,True
+14,60414,1243,True
+15,60456,1244,True
+16,60339,1245,True
+17,60352,1246,True
+18,60448,1247,True
+19,60436,1248,True
+20,60314,1249,True
+21,60446,1250,True
+22,60447,1251,True
+23,60441,1252,False
+24,60449,1253,False
+25,60555,1254,False
+26,60450,1255,False
+27,60554,1256,False
+28,60451,1257,False
+29,60342,1258,True
+30,60347,1259,True
+31,60331,1260,True
+32,60322,1261,True
+33,60320,1262,True
+34,60319,1263,True
+35,60344,1264,True
+36,60330,1265,True
+37,60321,1266,True
+38,60337,1267,True
+39,60334,1268,True
+40,60345,1269,True
+41,60326,1270,True
+42,60348,1271,True
+43,60351,1272,True
+44,60335,1273,True
+45,60346,1274,True
+46,60318,1275,True
+47,60333,1276,True
+48,60567,1277,True
+49,60568,1278,True
+50,60569,1279,True
+51,60311,1293,True
+52,60768,1280,True
+53,60570,1281,True
+54,60459,1282,True
+55,60428,1283,True
+56,60572,1284,True
+57,60573,1285,True
+58,60574,1286,True
+59,60571,1287,True
+60,60581,1288,True
+61,60362,1289,True
+62,60582,1290,True
+63,60363,1291,True
+64,60364,1292,True
+65,60467,1294,True
+66,60473,1295,True
+67,60910,1296,True
+68,60926,1297,True
+69,60927,1298,True
+70,60935,1299,True
+71,60959,1300,True
+72,60960,2550,True
+73,60968,2551,True
+74,60969,2552,True
+75,60404,2553,True
+76,60971,2554,True
+77,63922,2555,True
+78,60983,2556,True
+79,60988,2557,True
+80,60986,2558,True
+81,60993,2559,True
+82,63903,2560,True
+83,63907,3184,True
+84,63920,2561,True
+85,63919,2562,True
+86,63913,2563,True
+87,63921,2564,True
+88,63948,2565,True
+89,63970,2566,True
+90,63971,0,True
+91,63972,0,True
+92,63973,0,True
+93,63890,2567,True
+94,63887,2568,True
+95,63888,2569,True
+96,63891,5300,True
+97,63895,5320,True
+98,63896,5321,True
+99,63850,5602,True
+100,63851,5603,True
+101,63852,5604,True
+102,63853,5605,True
+103,63854,5606,True
+104,63855,5607,True
+105,63856,5608,True
+106,63997,5322,True

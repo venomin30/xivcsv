@@ -1,135 +1,133 @@
-﻿key,0,1,2
-#,FirstQuest,LastQuest,
-int32,CompleteJournal,CompleteJournal,int32
-0,"","Close to Home",0
-1,"Close to Home","The Price of Principles",1
-2,"The Price of Principles","Coming to Ishgard",1
-3,"Coming to Ishgard","An Uncertain Future",1
-4,"An Uncertain Future","Promises Kept",1
-5,"Promises Kept","Beyond the Great Wall",1
-6,"Beyond the Great Wall","Arenvald's Adventure",1
-7,"Arenvald's Adventure","The Syrcus Trench",1
-8,"The Syrcus Trench","Shaken Resolve",1
-9,"Shaken Resolve","Alisaie's Quest",1
-10,"Alisaie's Quest","The Next Ship to Sail",1
-11,"The Next Ship to Sail","Newfound Adventure",1
-12,"Newfound Adventure","A New World to Explore",1
-13,"A New World to Explore","A Royal Invitation",1
-14,"A Royal Invitation","With the Winds",1
-15,"With the Winds","",1
-16,"","Primal Awakening",1
-17,"Primal Awakening","Legacy of Allag",1
-18,"Legacy of Allag","Disarmed",1
-19,"Disarmed","Gods of Eld",1
-20,"Gods of Eld","Sky Pirates",1
-21,"Sky Pirates","The Hunt for Omega",1
-22,"The Hunt for Omega","Dramatis Personae",2
-23,"Dramatis Personae","An Auspicious Encounter",1
-24,"An Auspicious Encounter","In the Middle of Nowhere",1
-25,"In the Middle of Nowhere"," Word about Komra",1
-26," Word about Komra","Ruby Doomsday",1
-27,"Ruby Doomsday","The Crystal from Beyond",1
-28,"The Crystal from Beyond","A Mission in Mor Dhona",2
-29,"A Mission in Mor Dhona","A New Challenger Appears",1
-30,"A New Challenger Appears","An Otherworldly Encounter",1
-31,"An Otherworldly Encounter"," Frosty Neighbors",1
-32," Frosty Neighbors"," Cultivating Hope",2
-33," Cultivating Hope"," An Intrepid New Enterprise",2
-34," An Intrepid New Enterprise","Peace for Thanalan",2
-35,"","",2
-36,"Peace for Thanalan","Seeking Solace",2
-37,"Seeking Solace","Highway Robbery",2
-38,"Highway Robbery","They Came from the Deep",2
-39,"They Came from the Deep","A Bad Bladder",2
-40,"A Bad Bladder"," Three Beaks to the Wind",2
-41," Three Beaks to the Wind"," The Naming of Vath",2
-42," The Naming of Vath"," Tricks and Stones",2
-43," Tricks and Stones","",2
-44,""," Brooding Broodmother",2
-45," Brooding Broodmother","Something Fishy This Way Comes",2
-46,"Something Fishy This Way Comes"," Manic Pixie Dream Realm",2
-47," Manic Pixie Dream Realm"," The Stewards of Note",2
-48," The Stewards of Note"," It's Dwarfin' Time",2
-49," It's Dwarfin' Time"," Hippos Born to Run",2
-50," Hippos Born to Run"," The Café at the End of the Universe",2
-51," The Café at the End of the Universe"," Must Be Dreaming(way)",2
-52," Must Be Dreaming(way)","Call of the Wild (Twin Adder)",2
-53,"Call of the Wild (Twin Adder)","The Paths We Walk",2
-54,"The Paths We Walk","The Rise and Fall of Gentlemen",2
-55,"The Rise and Fall of Gentlemen","Up in Arms",2
-56,"Up in Arms","Toll Booty",2
-57,"Toll Booty"," Remembering the Past",2
-58," Remembering the Past","",2
-59,"","Coming to Gridania",3
-60,"Coming to Gridania","Coming to Ul'dah",3
-61,"Coming to Ul'dah","Leves of the Observatorium",3
-62,"Leves of the Observatorium","A Legend for a Legend",3
-63,"A Legend for a Legend","Remembering Ishgard",3
-64,"Remembering Ishgard","The Way of the Dodo",3
-65,"The Way of the Dodo","Some Bad News",3
-66,"Some Bad News","Basic Training",3
-67,"Basic Training","Magiteknical Failure",3
-68,"Magiteknical Failure","A New Fishing Ex-spear-ience",3
-69,"A New Fishing Ex-spear-ience","A Lone Wolf No More",3
-70,"A Lone Wolf No More"," A Cry for Help",3
-71," A Cry for Help"," Before the Tide Comes",3
-72," Before the Tide Comes"," Worm Food",3
-73," Worm Food"," What's in a Name",3
-74," What's in a Name"," Barking Up the Right Tree",3
-75," Barking Up the Right Tree"," Ondo Dream of Oranges",3
-76," Ondo Dream of Oranges","Wings of Hope",3
-77,"Wings of Hope"," Fruit Savior",3
-78," Fruit Savior"," Your Inventory Is Not Full",3
-79," Your Inventory Is Not Full"," True Carrot Crimes",3
-80," True Carrot Crimes"," The Ore the Merrier",3
-81," The Ore the Merrier"," The Sound of Fear",3
-82," The Sound of Fear","",3
-83,""," A Private Delivery",3
-84," A Private Delivery"," Well-wishing at the Wishing Well",3
-85," Well-wishing at the Wishing Well","Way of the Gladiator",3
-86,"Way of the Gladiator","Way of the Conjurer",2
-87,"Way of the Conjurer","Way of the Carpenter",2
-88,"Way of the Carpenter","Way of the Miner",2
-89,"Way of the Miner","Iola, Forgemaster",2
-90,"Iola, Forgemaster","Professor Rurusha's New Friend",2
-91,"Professor Rurusha's New Friend","Your Friendly Neighborhood Metalworker",2
-92,"Your Friendly Neighborhood Metalworker","Paladin's Pledge",2
-93,"Paladin's Pledge","Seer Folly",2
-94,"Seer Folly","The Man with Too Many Scars",2
-95,"The Man with Too Many Scars","A Pup No Longer (Maelstrom)",2
-96,"A Pup No Longer (Maelstrom)","A Horse for Heavensturn",2
-97,"A Horse for Heavensturn","The Ties That Bind",2
-98,"The Ties That Bind","リーヴテスト06",2
-99,"リーヴテスト06","Rubble Bubble",3
-100,"Rubble Bubble","リーヴテスト01",3
-101,"リーヴテスト01","Adventurers' Relish",3
-102,"Adventurers' Relish","In with the New",3
-103,"In with the New","Proly Hatchet",3
-104,"Proly Hatchet","Ain't Got No Ingots",3
-105,"Ain't Got No Ingots","Copper and Robbers",3
-106,"Copper and Robbers","Red in the Head",3
-107,"Red in the Head","The Unmentionables",3
-108,"The Unmentionables","Mercury Rising",3
-109,"Mercury Rising","Pork Is a Salty Food",3
-110,"Pork Is a Salty Food","Don't Touch Our Stuff",3
-111,"","",3
-112,"","",3
-113,"","",3
-114,"","",3
-115,"","",3
-116,"","",3
-117,"","",3
-118,"","",3
-119,"","",3
-120,"","",3
-121,"","",3
-122,"","",3
-123,"","",2
-124,"Don't Touch Our Stuff","Sastasha",2
-125,"Sastasha","the Dusk Vigil",2
-126,"the Dusk Vigil","the Sirensong Sea",2
-127,"the Sirensong Sea","Holminster Switch",2
-128,"Holminster Switch","the Tower of Zot",2
-129,"the Tower of Zot","Ihuykatumu",2
-130,"Ihuykatumu",,2
-131,"","",2
+#,FirstQuest,LastQuest,Unknown0
+0,0,346,0
+1,346,561,1
+2,561,641,1
+3,641,735,1
+4,735,760,1
+5,760,779,1
+6,779,901,1
+7,901,941,1
+8,941,1047,1
+9,1047,1079,1
+10,1079,1098,1
+11,1098,1206,1
+12,1206,1253,1
+13,1253,1353,1
+14,1353,1378,1
+15,1378,1396,1
+16,1396,1412,1
+17,1412,1418,1
+18,1418,1428,1
+19,1428,1443,1
+20,1443,1453,1
+21,1453,1460,1
+22,1460,1477,2
+23,1477,1489,1
+24,1489,1494,1
+25,1494,1512,1
+26,1512,1532,1
+27,1532,1538,1
+28,1538,1555,2
+29,1555,1565,1
+30,1565,1583,1
+31,1583,1593,1
+32,1593,1627,2
+33,1627,1661,2
+34,1661,1695,2
+35,1695,1697,2
+36,1697,1732,2
+37,1732,1767,2
+38,1767,1802,2
+39,1802,1837,2
+40,1837,1879,2
+41,1879,1917,2
+42,1917,1943,2
+43,1943,1981,2
+44,1981,2012,2
+45,2012,2046,2
+46,2046,2081,2
+47,2081,2115,2
+48,2115,2155,2
+49,2155,2189,2
+50,2189,2223,2
+51,2223,2257,2
+52,2257,2291,2
+53,2291,2310,2
+54,2310,2318,2
+55,2318,2383,2
+56,2383,2465,2
+57,2465,2587,2
+58,2587,2637,2
+59,2637,2767,3
+60,2767,2885,3
+61,2885,3023,3
+62,3023,3106,3
+63,3106,3150,3
+64,3150,3173,3
+65,3173,3209,3
+66,3209,3382,3
+67,3382,3396,3
+68,3396,3503,3
+69,3503,3643,3
+70,3643,3663,3
+71,3663,3712,3
+72,3712,3769,3
+73,3769,3820,3
+74,3820,3865,3
+75,3865,3911,3
+76,3911,3930,3
+77,3930,3994,3
+78,3994,4038,3
+79,4038,4071,3
+80,4071,4091,3
+81,4091,4140,3
+82,4140,4160,3
+83,4160,4272,3
+84,4272,4331,3
+85,4331,4339,3
+86,4339,4399,2
+87,4399,4430,2
+88,4430,4606,2
+89,4606,4672,2
+90,4672,4689,2
+91,4689,4726,2
+92,4726,4763,2
+93,4763,4979,2
+94,4979,5130,2
+95,5130,5225,2
+96,5225,5240,2
+97,5240,5541,2
+98,5541,5561,2
+99,5561,5768,3
+100,5768,5898,3
+101,5898,6034,3
+102,6034,6154,3
+103,6154,6295,3
+104,6295,6435,3
+105,6435,6575,3
+106,6575,6715,3
+107,6715,6855,3
+108,6855,6995,3
+109,6995,7135,3
+110,7135,7275,3
+111,0,0,3
+112,0,0,3
+113,0,0,3
+114,0,0,3
+115,0,0,3
+116,0,0,3
+117,0,0,3
+118,0,0,3
+119,0,0,3
+120,0,0,3
+121,0,0,3
+122,0,0,3
+123,0,0,2
+124,7275,7341,2
+125,7341,7432,2
+126,7432,7512,2
+127,7512,7588,2
+128,7588,7649,2
+129,7649,7726,2
+130,7726,7804,2
+131,0,0,2

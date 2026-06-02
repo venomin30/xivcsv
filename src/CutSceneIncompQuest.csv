@@ -1,48 +1,50 @@
-﻿key,0
 #,Quest
-int32,Quest
-0.0,
-1.0,
-2.0," Hippos Born to Run"
-2.1," A Pachyderm's Promptitude"
-2.2," Hippo Healing"
-2.3," Defiant Ogul, Deified!"
-2.4," Leader to Leader"
-2.5," The Hippo Riders"
-3.0,"For Vengeance"
-4.0,"March of the Bloody Queen"
-5.0," Hippos Born to Run"
-5.1," A Pachyderm's Promptitude"
-5.2," Hippo Healing"
-5.3," Defiant Ogul, Deified!"
-5.4," Leader to Leader"
-5.5," The Hippo Riders"
-6.0,"Where No Loporrit Has Gone Before"
-6.1," The Café at the End of the Universe"
-6.2," Life, the Universe, and Coffee Beans"
-7.0,"The Martyr"
-7.1,"Lunar Rendezvous"
-7.2,"The Red Side of the Moon"
-8.0,"The Martyr"
-8.1,"In Shadow's Wake"
-8.2,"Lunar Rendezvous"
-8.3,"The Red Side of the Moon"
-9.0,"Lunar Rendezvous"
-10.0,"The Red Side of the Moon"
-11.0,"And the Land Would Tremble"
-12.0,"And the Land Would Tremble"
-12.1,"Dawntrail"
-13.0,"Alexandria Mourns"
-13.1,"A Darkness in the Heart"
-14.0," An Intrepid New Enterprise"
-14.1," A Tentative First Tour"
-14.2," Earthenshire Awaits"
-14.3," Recruitment Drive"
-14.4," A Guest from Across the Salt"
-14.5," Partners in Pel"
-15.0," Cultivating Hope"
-15.1," Doppro Tradition"
-15.2," A Hoobigo's Return"
-15.3," The Boon of Boonewa"
-15.4," A New Yak T'el"
-15.5," The Pride of Mamook"
+0.0,0
+1.0,0
+2.0,70081
+2.1,70082
+2.2,70083
+2.3,70084
+2.4,70085
+2.5,70086
+3.0,69597
+4.0,69624
+5.0,70081
+5.1,70082
+5.2,70083
+5.3,70084
+5.4,70085
+5.5,70086
+6.0,69704
+6.1,70137
+6.2,70142
+7.0,69934
+7.1,70276
+7.2,70277
+7.3,71008
+8.0,69934
+8.1,69935
+8.2,70276
+8.3,70277
+8.4,71008
+9.0,70276
+9.1,71008
+10.0,70277
+10.1,71008
+11.0,70455
+12.0,70455
+12.1,70495
+13.0,70781
+13.1,70903
+14.0,70729
+14.1,70730
+14.2,70731
+14.3,70732
+14.4,70733
+14.5,70734
+15.0,70791
+15.1,70792
+15.2,70793
+15.3,70794
+15.4,70795
+15.5,70796

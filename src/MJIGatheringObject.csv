@@ -1,32 +1,30 @@
-﻿key,0,1,2,3,4
-#,SGB,MapIcon,,Name,
-int32,ExportedSG,Image,uint32,EObjName,uint16
-0,"",,0,,0
-1,"bgcommon/mji/gath/0001/asset/gth_f0_m0001.sgb","ui/icon/063000/063963.tex",2,"lightly gnawed pumpkin",0
-2,"bgcommon/mji/gath/0002/asset/gth_f0_m0002.sgb","ui/icon/063000/063963.tex",2,"partially consumed cabbage",0
-3,"bgcommon/mji/gath/0003/asset/gth_f0_m0003.sgb","ui/icon/063000/063964.tex",1,"tualong tree",0
-4,"bgcommon/mji/gath/0004/asset/gth_f0_m0004.sgb","ui/icon/063000/063964.tex",1,"palm tree",0
-5,"bgcommon/mji/gath/0005/asset/gth_f0_m0005.sgb","ui/icon/063000/063964.tex",1,"island apple tree",0
-6,"bgcommon/mji/gath/0006/asset/gth_f0_m0006.sgb","ui/icon/063000/063964.tex",1,"mahogany tree",0
-7,"bgcommon/mji/gath/0007/asset/gth_f0_m0007.sgb","ui/icon/063000/063965.tex",8,"bluish rock",0
-8,"bgcommon/mji/gath/0008/asset/gth_f0_m0008.sgb","ui/icon/063000/063965.tex",8,"smooth white rock",0
-9,"bgcommon/mji/gath/0009/asset/gth_f0_m0009.sgb","ui/icon/063000/063965.tex",8,"crystal-banded rock",0
-10,"bgcommon/mji/gath/0010/asset/gth_f0_m0010.sgb","ui/icon/063000/063966.tex",4,"mound of dirt",0
-11,"bgcommon/mji/gath/0011/asset/gth_f0_m0011.sgb","ui/icon/063000/063963.tex",2,"wild popoto",0
-12,"bgcommon/mji/gath/0012/asset/gth_f0_m0012.sgb","ui/icon/063000/063963.tex",2,"wild parsnip",0
-13,"bgcommon/mji/gath/0013/asset/gth_f0_m0013.sgb","ui/icon/063000/063966.tex",4,"submerged sand",0
-14,"bgcommon/mji/gath/0014/asset/gth_f0_m0014.sgb","ui/icon/063000/063963.tex",2,"sugarcane",0
-15,"bgcommon/mji/gath/0015/asset/gth_f0_m0015.sgb","ui/icon/063000/063963.tex",2,"cotton plant",0
-16,"bgcommon/mji/gath/0016/asset/gth_f0_m0016.sgb","ui/icon/063000/063963.tex",2,"agave plant",0
-17,"bgcommon/mji/gath/0017/asset/gth_f0_m0017.sgb","ui/icon/063000/063967.tex",16,"large shell",0
-18,"bgcommon/mji/gath/0018/asset/gth_f0_m0018.sgb","ui/icon/063000/063967.tex",16,"seaweed tangle",0
-19,"bgcommon/mji/gath/0019/asset/gth_f0_m0019.sgb","ui/icon/063000/063967.tex",16,"coral formation",0
-20,"bgcommon/mji/gath/0020/asset/gth_f0_m0020.sgb","ui/icon/063000/063965.tex",8,"rough black rock",0
-21,"bgcommon/mji/gath/0021/asset/gth_f0_m0021.sgb","ui/icon/063000/063965.tex",8,"quartz formation",0
-22,"bgcommon/mji/gath/0022/asset/gth_f0_m0022.sgb","ui/icon/063000/063965.tex",8,"speckled rock",0
-23,"bgcommon/mji/gath/0023/asset/gth_f0_m0023.sgb","ui/icon/063000/063963.tex",2,"multicolored isleblooms",0
-24,"bgcommon/mji/gath/0024/asset/gth_f0_m0024.sgb","ui/icon/063000/063963.tex",2,"glowing fungus",35
-25,"bgcommon/mji/gath/0025/asset/gth_f0_m0025.sgb","ui/icon/063000/063965.tex",8,"composite rock",35
-26,"bgcommon/mji/gath/0026/asset/gth_f0_m0026.sgb","ui/icon/063000/063965.tex",8,"stalagmite",35
-27,"bgcommon/mji/gath/0027/asset/gth_f0_m0027.sgb","ui/icon/063000/063965.tex",8,"yellowish rock",42
-28,"bgcommon/mji/gath/0028/asset/gth_f0_m0028.sgb","ui/icon/063000/063965.tex",8,"island crystal cluster",42
+#,MapIcon,Unknown0,Name,SGB,Unknown1
+0,0,0,0,25422,0
+1,63963,2,2013171,30825,0
+2,63963,2,2013172,30826,0
+3,63964,1,2013173,30164,0
+4,63964,1,2013174,30165,0
+5,63964,1,2013175,30167,0
+6,63964,1,2013176,30166,0
+7,63965,8,2013177,30933,0
+8,63965,8,2013178,30934,0
+9,63965,8,2013179,30935,0
+10,63966,4,2013180,30936,0
+11,63963,2,2013181,30937,0
+12,63963,2,2013182,30938,0
+13,63966,4,2013183,30939,0
+14,63963,2,2013184,31139,0
+15,63963,2,2013185,31181,0
+16,63963,2,2013186,31165,0
+17,63967,16,2013187,30168,0
+18,63967,16,2013188,30848,0
+19,63967,16,2013189,30849,0
+20,63965,8,2013190,31232,0
+21,63965,8,2013191,31230,0
+22,63965,8,2013192,31231,0
+23,63963,2,2013300,32347,0
+24,63963,2,2013375,33270,35
+25,63965,8,2013376,33271,35
+26,63965,8,2013377,33273,35
+27,63965,8,2013523,35296,42
+28,63965,8,2013524,35298,42

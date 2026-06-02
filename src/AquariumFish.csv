@@ -1,258 +1,266 @@
-﻿key,0,1,2,3
-#,AquariumWater,Size,Item,
-int32,AquariumWater,byte,Item,uint16
-0,"nothing",0,"",0
-1,"nothing",0,"",0
-2,"Freshwater",1,"Copperfish",40
-3,"Saltwater",1,"Coral Butterfly",49
-4,"Saltwater",2,"Blowfish",7
-5,"Freshwater",2,"Clown Loach",54
-6,"Freshwater",2,"Dark Bass",31
-7,"Freshwater",2,"Tricolored Carp",13
-8,"Freshwater",3,"Whilom Catfish",52
-9,"Freshwater",3,"Blood Red Bonytongue",61
-10,"Saltwater",3,"Coelacanth",98
-11,"Saltwater",4,"Silver Shark",3
-12,"Saltwater",4,"Mazlaya Marlin",28
-13,"Saltwater",4,"Helmsman's Hand",7
-14,"Freshwater",4,"Euphotic Pirarucu",41
-15,"Freshwater",1,"Chub",19
-16,"Saltwater",1,"Harbor Herring",46
-17,"Freshwater",2,"Mirrorscale",19
-18,"Freshwater",2,"Cupfish",41
-19,"Saltwater",2,"Angelfish",42
-20,"Freshwater",3,"Goblin Perch",2
-21,"Freshwater",3,"Vanuhead",57
-22,"Saltwater",3,"Mummer Wrasse",127
-23,"Saltwater",4,"Dinichthys",10
-24,"Freshwater",4,"Giant Takitaro",23
-25,"Freshwater",1,"Bubble Eye",118
-26,"Saltwater",1,"Harutsuge",151
-27,"Freshwater",2,"Goldfish",6
-28,"Freshwater",2,"Blue Widow",28
-29,"Freshwater",2,"Bonytongue",73
-30,"Saltwater",2,"Fullmoon Sardine",8
-31,"Freshwater",2,"Raincaller",85
-32,"Saltwater",3,"Bombardfish",3
-33,"Saltwater",4,"Titanic Sawfish",13
-34,"Saltwater",4,"Liopleurodon",67
-35,"Freshwater",1,"Grip Killifish",21
-36,"Saltwater",1,"Tiger Cod",63
-37,"Freshwater",2,"Kissing Fish",101
-38,"Freshwater",2,"Judgment Staff",131
-39,"Freshwater",2,"Yellow Prismfish",153
-40,"Freshwater",2,"Cherubfish",217
-41,"Freshwater",2,"Dusk Herald",218
-42,"Freshwater",3,"Emperor Fish",40
-43,"Saltwater",3,"Hanatatsu",156
-44,"Saltwater",4,"Megalodon",12
-45,"Freshwater",1,"Seraphim",132
-46,"Saltwater",1,"Hatchetfish",200
-47,"Freshwater",2,"Paglth'an Discus",78
-48,"Freshwater",2,"Silken Koi",152
-49,"Freshwater",2,"Blue Prismfish",154
-50,"Saltwater",2,"Black Boxfish",194
-51,"Saltwater",2,"Redcoat",207
-52,"Freshwater",3,"Ichthyosaur",194
-53,"Saltwater",3,"Corpse-eater",174
-54,"Freshwater",1,"Doman Bubble Eye",216
-55,"Freshwater",1,"Guppy",227
-56,"Saltwater",2,"Zekki Grouper",149
-57,"Saltwater",2,"Swordfish",175
-58,"Freshwater",2,"Common Bitterling",205
-59,"Freshwater",2,"Redfin",209
-60,"Freshwater",2,"Violet Prismfish",226
-61,"Saltwater",3,"Hammerhead Shark",29
-62,"Freshwater",3,"Hannibal",132
-63,"Saltwater",4,"Shrieker",2
-64,"Freshwater",4,"Canavan",17
-65,"Freshwater",1,"Armor Fish",125
-66,"Freshwater",2,"Crimson Trout",68
-67,"Freshwater",2,"Marble Oscar",107
-68,"Freshwater",2,"Noontide Oscar",110
-69,"Freshwater",2,"Dragonhead",117
-70,"Freshwater",2,"Pipira Pira",129
-71,"Freshwater",2,"Nagxian Mullet",206
-72,"Freshwater",3,"Grass Shark",186
-73,"Saltwater",3,"Ukiki",199
-74,"Freshwater",4,"Tigerfish",18
-75,"Freshwater",1,"Rockfish",226
-76,"Saltwater",2,"Goldenfin",1
-77,"Freshwater",2,"High Perch",35
-78,"Freshwater",2,"Wandering Sculpin",79
-79,"Freshwater",2,"Yanxian Barramundi",144
-80,"Freshwater",2,"Highland Perch",171
-81,"Saltwater",2,"False Scad",203
-82,"Saltwater",3,"Zebra Shark",170
-83,"Freshwater",3,"Fifty-summer Cod",179
-84,"Saltwater",4,"Silver Sovereign",11
-85,"Freshwater",1,"Dravanian Squeaker",117
-86,"Freshwater",2,"Archerfish",30
-87,"Freshwater",2,"Orn Butterfly",96
-88,"Freshwater",2,"Discus",143
-89,"Freshwater",2,"Sailfin",221
-90,"Saltwater",2,"Navigator's Brand",59
-91,"Saltwater",2,"Indigo Herring",81
-92,"Freshwater",3,"Cavalry Catfish",181
-93,"Saltwater",3,"Motley Beakfish",192
-94,"Freshwater",4,"Paikiller",60
-95,"Saltwater",1,"Eulmore Butterfly",287
-96,"Freshwater",1,"Toadhead",305
-97,"Freshwater",2,"Red Prismfish",233
-98,"Freshwater",2,"Elder Gourami",234
-99,"Freshwater",2,"The Archbishop",236
-100,"Freshwater",2,"Sinspitter",266
-101,"Freshwater",2,"Noblefish",300
-102,"Freshwater",3,"Mirage Mahi",204
-103,"Freshwater",4,"Warden of the Seven Hues",71
-104,"Saltwater",4,"Ondobane",78
-105,"Freshwater",1,"Eternal Eye",222
-106,"Freshwater",1,"Poecilia",319
-107,"Saltwater",2,"Glass Tuna",180
-108,"Saltwater",2,"Kholusian Wrasse",272
-109,"Freshwater",2,"Wimple Carp",280
-110,"Freshwater",2,"Clown Tetra",285
-111,"Freshwater",3,"Ghoulfish",248
-112,"Freshwater",3,"Little Bismarck",252
-113,"Freshwater",4,"Vicejaw",75
-114,"Saltwater",4,"Red Hammerhead",76
-115,"Freshwater",1,"The Unconditional",255
-116,"Freshwater",1,"Darkdweller",306
-117,"Freshwater",2,"Xanthic Bass",262
-118,"Freshwater",2,"Big-eye",295
-119,"Freshwater",2,"Geayi",299
-120,"Saltwater",2,"Spectral Discus",348
-121,"Freshwater",3,"Measan Deala",249
-122,"Saltwater",3,"Spectral Bass",285
-123,"Freshwater",4,"Xenacanthus",72
-124,"Saltwater",4,"Stonescale",88
-125,"Freshwater",1,"Indigo Prismfish",244
-126,"Freshwater",1,"Green Prismfish",245
-127,"Freshwater",2,"River Bream",216
-128,"Freshwater",2,"Mirrorfish",303
-129,"Freshwater",2,"Queensgown",306
-130,"Saltwater",2,"Jasperhead",326
-131,"Freshwater",3,"Albino Garfish",218
-132,"Freshwater",3,"Anpa's Handmaid",257
-133,"Freshwater",4,"Loosetongue",42
-134,"Saltwater",4,"Spectral Megalodon",85
-135,"Freshwater",1,"Loose Pendant",335
-136,"Freshwater",1,"Sunken Tome",378
-137,"Saltwater",1,"Spectral Butterfly",396
-138,"Freshwater",2,"Blue Mountain Bubble",315
-139,"Freshwater",2,"Jester Fish",312
-140,"Freshwater",2,"Platinum Bream",298
-141,"Freshwater",2,"Yellow Pipira",278
-142,"Saltwater",2,"Tripod Fish",325
-143,"Freshwater",3,"Giant Taimen",288
-144,"Saltwater",4,"Funnel Shark",84
-145,"Freshwater",1,"Spotted Blue-eye",289
-146,"Freshwater",1,"Black Tri-star",298
-147,"Freshwater",1,"Moonlight Guppy",377
-148,"Freshwater",2,"White Ronso",350
-149,"Freshwater",2,"Idle Goby",349
-150,"Freshwater",2,"Everdark Bass",311
-151,"Saltwater",2,"Bonefish",267
-152,"Saltwater",2,"Mythril Sovereign",338
-153,"Freshwater",3,"Misteye",241
-154,"Saltwater",4,"Lancetfish",99
-155,"Freshwater",1,"Dark Crown",434
-156,"Freshwater",1,"Dermogenys",441
-157,"Saltwater",1,"Fiery Goby",430
-158,"Freshwater",2,"Radzbalik",411
-159,"Freshwater",2,"Longear Sunfish",401
-160,"Saltwater",2,"Deepbody Boarfish",447
-161,"Saltwater",2,"Keeled Fugu",440
-162,"Saltwater",2,"Fate's Design",404
-163,"Saltwater",3,"Roosterfish",322
-164,"Saltwater",4,"Basilosaurus",100
-165,"Freshwater",1,"Half-moon Betta",428
-166,"Saltwater",1,"Dog-faced Puffer",414
-167,"Saltwater",1,"Tebqeyiq Smelt",473
-168,"Freshwater",2,"Flowerhorn",412
-169,"Freshwater",2,"Katoptron",424
-170,"Saltwater",2,"Aquamaton",389
-171,"Saltwater",2,"Aetherolectric Guitarfish",454
-172,"Saltwater",2,"Crown Fish",438
-173,"Saltwater",3,"Blue Marlin",346
-174,"Saltwater",4,"Junkmonger",6
-175,"Freshwater",1,"Lemonfish",290
-176,"Freshwater",1,"Handy Hamsa",429
-177,"Saltwater",1,"Onihige",455
-178,"Saltwater",2,"Cobalt Chromis",390
-179,"Freshwater",2,"Tessera",394
-180,"Freshwater",2,"Forgeflame",410
-181,"Saltwater",2,"Rasa Fish",444
-182,"Saltwater",2,"Othardian Wrasse",453
-183,"Freshwater",3,"Greatsword Snook",363
-184,"Saltwater",4,"Coral Manta",87
-185,"Freshwater",1,"Blowgun",423
-186,"Freshwater",1,"Verdigris Guppy",487
-187,"Saltwater",1,"Mini Yasha",469
-188,"Freshwater",2,"Imperial Pleco",416
-189,"Freshwater",2,"Atamra Cichlid",446
-190,"Saltwater",2,"Vidyutvat Wrasse",465
-191,"Saltwater",2,"Shadowdart Sardine",405
-192,"Saltwater",2,"Gilled Topknot",434
-193,"Saltwater",3,"Kitefin Shark",359
-194,"Saltwater",4,"Sothis",86
-195,"Freshwater",1,"Green Swordtail",427
-196,"Freshwater",1,"Catastrophizer",479
-197,"Saltwater",1,"Meyhane Reveler",463
-198,"Freshwater",2,"Raiamas",397
-199,"Freshwater",2,"Bluegill",408
-200,"Saltwater",2,"Othardian Lumpsucker",450
-201,"Saltwater",2,"Heavensent Shark",481
-202,"Saltwater",2,"Sirensong Mullet",477
-203,"Freshwater",3,"Spectral Kotsu Zetsu",395
-204,"Saltwater",4,"Taniwha",109
-205,"Freshwater",1,"Rummy-nosed Tetra",465
-206,"Freshwater",1,"Furcacauda",528
-207,"Saltwater",1,"Spectral Wrasse",520
-208,"Saltwater",1,"Bubble Angler",307
-209,"Freshwater",2,"Peacock Bass",392
-210,"Freshwater",2,"Greengill Salmon",396
-211,"Freshwater",2,"Xenocypris",393
-212,"Saltwater",2,"Lansquenet",366
-213,"Freshwater",3,"Colossoma",329
-214,"Saltwater",4,"Gharlichthys",113
-215,"Freshwater",1,"Petticoat Tetra",531
-216,"Freshwater",1,"Variatus",558
-217,"Freshwater",1,"Glittergill",559
-218,"Saltwater",1,"Shallows Sot",534
-219,"Freshwater",2,"Ka Puyhu",523
-220,"Freshwater",2,"Trailtrout",544
-221,"Saltwater",2,"Floating Fife",506
-222,"Saltwater",2,"Forgotten One",555
-223,"Freshwater",3,"Giant Snakehead",429
-224,"Saltwater",4,"Hydro Louvar",115
-225,"Freshwater",1,"First Feastfish",539
-226,"Freshwater",1,"Oho Hunu",544
-227,"Freshwater",1,"Iq Rrax Leaffish",552
-228,"Saltwater",1,"Iris Wrasse",578
-229,"Freshwater",2,"Yellow Peacock Bass",526
-230,"Freshwater",2,"Welkin Catfish",538
-231,"Freshwater",2,"Windspath Eel",553
-232,"Saltwater",2,"Stardust Sleeper",579
-233,"Freshwater",3,"Karvarichthys",434
-234,"Saltwater",4,"Copper Shark",116
-235,"Saltwater",1,"Reasonscale Silverside",532
-236,"Freshwater",1,"Thundering Redbelly",572
-237,"Freshwater",1,"Variegated Sisterscale",586
-238,"Freshwater",1,"Sunlit Prism",590
-239,"Freshwater",2,"Hunu Peacock Bass",521
-240,"Freshwater",2,"Yak T'el Catfish",536
-241,"Saltwater",2,"Canal Drum",554
-242,"Freshwater",2,"Pixel Loach",582
-243,"Freshwater",3,"Oxydoras",412
-244,"Freshwater",4,"Ttokatoa",117
-245,"Saltwater",1,"Sharknose Goby",562
-246,"Freshwater",1,"Ku'uxage Bitterling",545
-247,"Freshwater",1,"Outskirts Sniffer",570
-248,"Freshwater",1,"Stickleback",574
-249,"Freshwater",2,"Banded Candiru",524
-250,"Freshwater",2,"Crenicichla Miyaka",591
-251,"Freshwater",2,"Emberwisp",561
-252,"Freshwater",2,"Hwittayoanaan Cichlid",580
-253,"Saltwater",3,"Cabinkeep Permit",451
-254,"Freshwater",4,"Iron Shadowtongue",118
+#,Item,Unknown0,AquariumWater,Size
+0,0,0,0,0
+1,0,0,0,0
+2,4948,40,1,1
+3,4876,49,2,1
+4,4886,7,2,2
+5,4979,54,1,2
+6,4959,31,1,2
+7,4951,13,1,2
+8,12721,52,1,3
+9,8776,61,1,3
+10,4918,98,2,3
+11,4903,3,2,4
+12,4917,28,2,4
+13,7941,7,2,4
+14,12803,41,1,4
+15,4926,19,1,1
+16,4874,46,2,1
+17,7940,19,1,2
+18,7902,41,1,2
+19,4883,42,2,2
+20,5000,2,1,3
+21,12749,57,1,3
+22,4908,127,2,3
+23,4922,10,2,4
+24,8774,23,1,4
+25,12739,118,1,1
+26,20048,151,2,1
+27,5011,6,1,2
+28,7699,28,1,2
+29,4973,73,1,2
+30,4898,8,2,2
+31,4905,85,1,2
+32,7924,3,2,3
+33,4924,13,2,4
+34,20018,67,2,4
+35,4970,21,1,1
+36,4879,63,2,1
+37,12743,101,1,2
+38,5023,131,1,2
+39,20052,153,1,2
+40,20220,217,1,2
+41,20221,218,1,2
+42,5025,40,1,3
+43,20054,156,2,3
+44,4923,12,2,4
+45,20021,132,1,1
+46,20162,200,2,1
+47,5007,78,1,2
+48,20051,152,1,2
+49,20053,154,1,2
+50,20145,194,2,2
+51,20186,207,2,2
+52,20228,194,1,3
+53,20171,174,2,3
+54,20211,216,1,1
+55,21178,227,1,1
+56,20038,149,2,2
+57,20100,175,2,2
+58,20183,205,1,2
+59,20193,209,1,2
+60,21177,226,1,2
+61,4893,29,2,3
+62,7943,132,1,3
+63,23054,2,2,4
+64,8762,17,1,4
+65,17590,125,1,1
+66,4986,68,1,2
+67,12750,107,1,2
+68,12768,110,1,2
+69,12764,117,1,2
+70,12741,129,1,2
+71,20185,206,1,2
+72,20204,186,1,3
+73,21176,199,2,3
+74,12752,18,1,4
+75,21175,226,1,1
+76,7685,1,2,2
+77,7709,35,1,2
+78,5013,79,1,2
+79,20020,144,1,2
+80,20090,171,1,2
+81,20180,203,2,2
+82,20157,170,2,3
+83,20184,179,1,3
+84,7690,11,2,4
+85,12742,117,1,1
+86,4999,30,1,2
+87,12781,96,1,2
+88,4987,143,1,2
+89,20229,221,1,2
+90,7693,59,2,2
+91,4895,81,2,2
+92,20192,181,1,3
+93,20226,192,2,3
+94,17579,60,1,4
+95,27423,287,2,1
+96,27481,305,1,1
+97,22397,233,1,2
+98,22398,234,1,2
+99,23059,236,1,2
+100,27415,266,1,2
+101,27531,300,1,2
+102,22389,204,1,3
+103,24994,71,1,4
+104,27503,78,2,4
+105,20233,222,1,1
+106,27543,319,1,1
+107,20110,180,2,2
+108,27454,272,2,2
+109,27474,280,1,2
+110,27490,285,1,2
+111,27559,248,1,3
+112,27534,252,1,3
+113,27437,75,1,4
+114,27424,76,2,4
+115,24995,255,1,1
+116,27494,306,1,1
+117,27430,262,1,2
+118,27536,295,1,2
+119,27530,299,1,2
+120,29785,348,2,2
+121,27560,249,1,3
+122,29787,285,2,3
+123,24990,72,1,4
+124,29790,88,2,4
+125,24203,244,1,1
+126,24204,245,1,1
+127,20218,216,1,2
+128,27546,303,1,2
+129,27557,306,1,2
+130,29719,326,2,2
+131,27436,218,1,3
+132,27579,257,1,3
+133,12830,42,1,4
+134,29784,85,2,4
+135,28065,335,1,1
+136,32052,378,1,1
+137,32063,396,2,1
+138,27566,315,1,2
+139,27563,312,1,2
+140,27525,298,1,2
+141,27486,278,1,2
+142,28940,325,2,2
+143,30434,288,1,3
+144,29782,84,2,4
+145,27468,289,1,1
+146,27483,298,1,1
+147,32049,377,1,1
+148,28926,350,1,2
+149,20045,349,1,2
+150,27577,311,1,2
+151,27422,267,2,2
+152,29755,338,2,2
+153,27532,241,1,3
+154,33244,99,2,4
+155,36460,434,1,1
+156,36481,441,1,1
+157,36450,430,2,1
+158,36443,411,1,2
+159,36418,401,1,2
+160,36571,447,2,2
+161,36563,440,2,2
+162,36425,404,2,2
+163,36453,322,2,3
+164,36454,100,2,4
+165,36444,428,1,1
+166,36387,414,2,1
+167,36535,473,2,1
+168,36448,412,1,2
+169,36499,424,1,2
+170,33240,389,2,2
+171,36679,454,2,2
+172,36557,438,2,2
+173,36533,346,2,3
+174,7684,6,2,4
+175,27475,290,1,1
+176,36447,429,1,1
+177,36549,455,2,1
+178,36388,390,2,2
+179,36400,394,1,2
+180,36441,410,1,2
+181,36539,444,2,2
+182,36568,453,2,2
+183,37845,363,1,3
+184,29789,87,2,4
+185,36410,423,1,1
+186,38939,487,1,1
+187,36575,469,2,1
+188,36461,416,1,2
+189,36543,446,1,2
+190,38832,465,2,2
+191,36426,405,2,2
+192,36525,434,2,2
+193,36580,359,2,3
+194,29788,86,2,4
+195,36436,427,1,1
+196,38830,479,1,1
+197,36537,463,2,1
+198,36407,397,1,2
+199,36434,408,1,2
+200,36577,450,2,2
+201,40570,481,2,2
+202,40525,477,2,2
+203,40589,395,1,3
+204,40540,109,2,4
+205,36541,465,1,1
+206,41410,528,1,1
+207,40549,520,2,1
+208,27501,307,2,1
+209,36392,392,1,2
+210,36405,396,1,2
+211,36398,393,1,2
+212,32100,366,2,2
+213,36485,329,1,3
+214,41408,113,2,4
+215,43666,531,1,1
+216,43738,558,1,1
+217,43741,559,1,1
+218,43669,534,2,1
+219,43707,523,1,2
+220,43754,544,1,2
+221,43672,506,2,2
+222,43794,555,2,2
+223,43785,429,1,3
+224,43792,115,2,4
+225,43684,539,1,1
+226,43698,544,1,1
+227,43724,552,1,1
+228,43789,578,2,1
+229,43713,526,1,2
+230,43739,538,1,2
+231,43782,553,1,2
+232,44342,579,2,2
+233,43808,434,1,3
+234,43795,116,2,4
+235,43667,532,2,1
+236,43772,572,1,1
+237,43815,586,1,1
+238,43829,590,1,1
+239,43701,521,1,2
+240,43734,536,1,2
+241,43790,554,2,2
+242,44344,582,1,2
+243,43711,412,1,3
+244,47993,117,1,4
+245,43746,562,2,1
+246,43704,545,1,1
+247,43766,570,1,1
+248,43777,574,1,1
+249,43710,524,1,2
+250,46190,591,1,2
+251,43812,561,1,2
+252,44345,580,1,2
+253,47988,451,2,3
+254,46191,118,1,4
+255,43781,576,1,1
+256,43736,557,1,1
+257,43743,560,1,1
+258,43750,563,1,1
+259,49794,596,2,2
+260,43725,532,1,2
+261,43768,547,1,2
+262,44346,581,1,2
+263,43697,409,1,3
+264,49801,121,1,4

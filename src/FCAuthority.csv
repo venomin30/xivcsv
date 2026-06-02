@@ -1,79 +1,77 @@
-﻿key,0,1,2
-#,Name,FCAuthorityCategory,
-int32,str,FCAuthorityCategory,byte
-0,"Company Profile","Settings",1
-1,"","",0
-2,"Rank Settings","Settings",2
-3,"Crest Design","Settings",3
-4,"Company Chest Settings","",0
-5,"Invitations","Members",1
-6,"Applications","Members",4
-7,"Member Dismissal","Members",2
-8,"Promotion/Demotion","Members",3
-9,"Company Board","Community",1
-10,"","",0
-11,"Short Message","Community",2
-12,"Company Credits","Actions",1
-13,"Executing Actions","Actions",2
-14,"Discarding Actions","Actions",3
-15,"","",0
-16,"","",0
-17,"","",0
-18,"","",0
-19,"","",0
-20,"","",0
-21,"","",0
-22,"","",0
-23,"","",0
-24,"","",0
-25,"","",0
-26,"","",0
-27,"","",0
-28,"","",0
-29,"","",0
-30,"","",0
-31,"","",0
-32,"","",0
-33,"","",0
-34,"","",0
-35,"","",0
-36,"","",0
-37,"","",0
-38,"","",0
-39,"","",0
-40,"","",0
-41,"","",0
-42,"","",0
-43,"Estate Hall Access","Settings",1
-44,"Estate Renaming","Settings",2
-45,"Greeting Customization","Settings",3
-46,"Purchase/Relinquish Land","Estate",1
-47,"Hall Construction/Removal","Estate",2
-48,"Hall Remodeling","Customization",1
-49,"No Furnishing Privileges","Customization",3
-50,"Furnishing Placement","Customization",4
-51,"Furnishing Placement/Removal","Customization",5
-52,"Paint Fixtures/Furnishings","Customization",2
-53,"Guest Access/Estate Tag Settings","Settings",4
-54,"Message Book Management","Message Book",1
-55,"Planting","Garden",1
-56,"Harvesting","Garden",2
-57,"Crop Disposal","Garden",3
-58,"Stabling Chocobos","Chocobos",1
-59,"Training Members' Chocobos","Chocobos",2
-60,"Aetherial Wheel Use","Customization",7
-61,"Retainer Dispatchment","Customization",6
-62,"Workshop Construction/Removal","Workshop",1
-63,"Project Commencement/Discontinuation","Company Projects",1
-64,"Project Material Delivery","Company Projects",2
-65,"Project Progression","Company Projects",3
-66,"Project Item Collection","Company Projects",4
-67,"Prototype Creation","Company Projects",5
-68,"Registration & Dismantling","Airships & Submersibles",1
-69,"Outfitting","Airships & Submersibles",2
-70,"Color Customization","Airships & Submersibles",3
-71,"Renaming","Airships & Submersibles",4
-72,"Voyage Deployment/Recall","Airships & Submersibles",5
-73,"Voyage Finalization","Airships & Submersibles",6
-74,"Exploratory Mission Embarkation","",0
-75,"Orchestrion Operation","Orchestrion",1
+#,Name,FCAuthorityCategory,Unknown0
+0,Company Profile,1,1
+1,,0,0
+2,Rank Settings,1,2
+3,Crest Design,1,3
+4,Company Chest Settings,0,0
+5,Invitations,2,1
+6,Applications,2,4
+7,Member Dismissal,2,2
+8,Promotion/Demotion,2,3
+9,Company Board,3,1
+10,,0,0
+11,Short Message,3,2
+12,Company Credits,4,1
+13,Executing Actions,4,2
+14,Discarding Actions,4,3
+15,,5,0
+16,,5,0
+17,,5,0
+18,,5,0
+19,,5,0
+20,,5,0
+21,,5,0
+22,,5,0
+23,,5,0
+24,,5,0
+25,,5,0
+26,,5,0
+27,,5,0
+28,,5,0
+29,,5,0
+30,,5,0
+31,,5,0
+32,,5,0
+33,,5,0
+34,,5,0
+35,,5,0
+36,,5,0
+37,,5,0
+38,,5,0
+39,,5,0
+40,,5,0
+41,,5,0
+42,,5,0
+43,Estate Hall Access,6,1
+44,Estate Renaming,6,2
+45,Greeting Customization,6,3
+46,Purchase/Relinquish Land,7,1
+47,Hall Construction/Removal,7,2
+48,Hall Remodeling,8,1
+49,No Furnishing Privileges,8,3
+50,Furnishing Placement,8,4
+51,Furnishing Placement/Removal,8,5
+52,Paint Fixtures/Furnishings,8,2
+53,Guest Access/Estate Tag Settings,6,4
+54,Message Book Management,15,1
+55,Planting,9,1
+56,Harvesting,9,2
+57,Crop Disposal,9,3
+58,Stabling Chocobos,10,1
+59,Training Members' Chocobos,10,2
+60,Aetherial Wheel Use,8,7
+61,Retainer Dispatchment,8,6
+62,Workshop Construction/Removal,11,1
+63,Project Commencement/Discontinuation,12,1
+64,Project Material Delivery,12,2
+65,Project Progression,12,3
+66,Project Item Collection,12,4
+67,Prototype Creation,12,5
+68,Registration & Dismantling,13,1
+69,Outfitting,13,2
+70,Color Customization,13,3
+71,Renaming,13,4
+72,Voyage Deployment/Recall,13,5
+73,Voyage Finalization,13,6
+74,Exploratory Mission Embarkation,0,0
+75,Orchestrion Operation,14,1

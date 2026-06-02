@@ -1,21 +1,19 @@
-﻿key,0,1,2,3,4,5,6,7,8
-#,,Item,Location[0],Location[1],Location[2],Location[3],Location[4],Location[5],
-int32,uint16,Item,TerritoryType,TerritoryType,TerritoryType,TerritoryType,TerritoryType,TerritoryType,str
-0,0,"",,,,,,,""
-1,200,"Legendary Jibanyan Medal","f1f1","s1f2","w1f2",,,,"I'm kind of busy right nyao."
-2,201,"Legendary Komasan Medal","f1f2","s1f4","w1f3",,,,"Oh my swirls!"
-3,202,"Legendary Whisper Medal","f1f3","s1f5","w1f4",,,,"Hold on to your butler!"
-4,203,"Legendary Blizzaria Medal","f1f4","s1f6","s1f1",,,,"Summer fever..."
-5,204,"Legendary Kyubi Medal","w1f1","f1f1","s1f2",,,,"How ridiculous."
-6,205,"Legendary Komajiro Medal","w1f2","f1f2","s1f4",,,,"Oh my swirls!"
-7,206,"Legendary Manjimutt Medal","w1f3","f1f3","s1f5",,,,"Doggone it!"
-8,207,"Legendary Noko Medal","w1f4","f1f4","s1f6",,,,"Noko noko!"
-9,208,"Legendary Venoct Medal","s1f1","w1f1","f1f1",,,,"Hmph...!"
-10,209,"Legendary Shogunyan Medal","s1f2","w1f2","f1f2",,,,"Heart of a Warrior!"
-11,210,"Legendary Hovernyan Medal","s1f4","w1f3","f1f3",,,,"I've got your back!"
-12,211,"Legendary Robonyan F-type Medal","s1f5","w1f4","f1f4",,,,"Activating Sleep Mode..."
-13,212,"Legendary USApyon Medal","s1f6","s1f1","w1f1",,,,"Shoot!"
-14,392,"Legendary Zazel Medal","r2f1","d2f1","d2f2","d2f3","a2f1","a2f2","My lord!"
-15,391,"Legendary Lord Ananta Medal","r2f1","d2f1","d2f2","d2f3","a2f1","a2f2","Let us be off!"
-16,390,"Legendary Lord Enma Medal","g3f1","e3f1","e3f2","g3f2","g3f3","e3f3","Bring it on!"
-17,393,"Legendary Damona Medal","g3f1","e3f1","e3f2","g3f2","g3f3","e3f3","The time has come."
+#,Transient,Item,Companion,Location[0],Location[1],Location[2],Location[3],Location[4],Location[5]
+0,,0,0,0,0,0,0,0,0
+1,I'm kind of busy right nyao.,15168,200,148,135,141,0,0,0
+2,Oh my swirls!,15169,201,152,138,145,0,0,0
+3,Hold on to your butler!,15170,202,153,139,146,0,0,0
+4,Summer fever...,15171,203,154,180,134,0,0,0
+5,How ridiculous.,15172,204,140,148,135,0,0,0
+6,Oh my swirls!,15173,205,141,152,138,0,0,0
+7,Doggone it!,15174,206,145,153,139,0,0,0
+8,Noko noko!,15175,207,146,154,180,0,0,0
+9,Hmph...!,15176,208,134,140,148,0,0,0
+10,Heart of a Warrior!,15177,209,135,141,152,0,0,0
+11,I've got your back!,15178,210,138,145,153,0,0,0
+12,Activating Sleep Mode...,15179,211,139,146,154,0,0,0
+13,Shoot!,15180,212,180,134,140,0,0,0
+14,My lord!,30803,392,397,398,399,400,401,402
+15,Let us be off!,30804,391,397,398,399,400,401,402
+16,Bring it on!,30805,390,612,613,614,620,621,622
+17,The time has come.,30806,393,612,613,614,620,621,622

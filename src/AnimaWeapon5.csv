@@ -1,18 +1,16 @@
-﻿key,0,1,2,3,4,5,6,7
-#,Item,,SecondaryStatTotal,Parameter[0],Parameter[1],Parameter[2],Parameter[3],Parameter[4]
-int32,Item,byte,byte,AnimaWeapon5Param,AnimaWeapon5Param,AnimaWeapon5Param,AnimaWeapon5Param,AnimaWeapon5Param
-0,"",0,0,"","","","",""
-1,"Hyperconductive Almace",1,128,"Tenacity","Direct Hit Rate","Critical Hit","Determination","Skill Speed"
-2,"Hyperconductive Verethragna",2,180,"Tenacity","Direct Hit Rate","Critical Hit","Determination","Skill Speed"
-3,"Hyperconductive Ukonvasara",3,180,"Tenacity","Direct Hit Rate","Critical Hit","Determination","Skill Speed"
-4,"Hyperconductive Rhongomiant",4,180,"Tenacity","Direct Hit Rate","Critical Hit","Determination","Skill Speed"
-5,"Hyperconductive Gandiva",5,180,"Tenacity","Direct Hit Rate","Critical Hit","Determination","Skill Speed"
-6,"Hyperconductive Majestas",6,180,"Piety","Direct Hit Rate","Critical Hit","Determination","Spell Speed"
-7,"Hyperconductive Hvergelmir",7,180,"Piety","Direct Hit Rate","Critical Hit","Determination","Spell Speed"
-8,"Hyperconductive Draconomicon",8,180,"Piety","Direct Hit Rate","Critical Hit","Determination","Spell Speed"
-9,"Hyperconductive Tetrabiblos",9,180,"Piety","Direct Hit Rate","Critical Hit","Determination","Spell Speed"
-10,"Hyperconductive Kannagi",10,180,"Tenacity","Direct Hit Rate","Critical Hit","Determination","Skill Speed"
-11,"Hyperconductive Armageddon",11,180,"Tenacity","Direct Hit Rate","Critical Hit","Determination","Skill Speed"
-12,"Hyperconductive Nothung",12,180,"Tenacity","Direct Hit Rate","Critical Hit","Determination","Skill Speed"
-13,"Hyperconductive Deneb",13,180,"Piety","Direct Hit Rate","Critical Hit","Determination","Spell Speed"
-14,"Hyperconductive Ancile",14,52,"Tenacity","Direct Hit Rate","Critical Hit","Determination","Skill Speed"
+#,Item,Unknown0,SecondaryStatTotal,Parameter[0],Parameter[1],Parameter[2],Parameter[3],Parameter[4]
+0,0,0,0,0,0,0,0,0
+1,14870,1,128,2,3,4,5,6
+2,14871,2,180,2,3,4,5,6
+3,14872,3,180,2,3,4,5,6
+4,14873,4,180,2,3,4,5,6
+5,14874,5,180,2,3,4,5,6
+6,14878,6,180,1,3,4,5,7
+7,14879,7,180,1,3,4,5,7
+8,14880,8,180,1,3,4,5,7
+9,14881,9,180,1,3,4,5,7
+10,14875,10,180,2,3,4,5,6
+11,14877,11,180,2,3,4,5,6
+12,14876,12,180,2,3,4,5,6
+13,14882,13,180,1,3,4,5,7
+14,14883,14,52,2,3,4,5,6
